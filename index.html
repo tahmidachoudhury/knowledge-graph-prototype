@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>D3 Force Graph</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+      body {
+        margin: 0;
+        font-family: sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="chart"></div>
+
+    <script type="module">
+      import { ForceGraph } from "./ForceGraph.js";
+      import miserables from "./miserables.json";
+
+      const chart = ForceGraph(miserables, {
+        nodeId: (d) => d.id,
+        nodeGroup: (d) => d.group,
+        nodeTitle: (d) => `${d.id}\n${d.group}`,
+        linkStrokeWidth: (l) => Math.sqrt(l.value),
+        width: 900,
+        height: 600,
+      });
+
+      document.getElementById("chart").appendChild(chart);
+    </script>
+  </body>
+</html>
