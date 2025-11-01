@@ -12,9 +12,21 @@
     "vite": "^7.1.7"
   },
   "dependencies": {
+    "csvtojson": "^2.0.14",
     "d3": "^7.9.0",
     "deck.gl": "^9.2.2",
+    "graphology": "^0.26.0",
+    "graphology-components": "^1.5.4",
+    "graphology-layout": "^0.6.1",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "papaparse": "^5.5.3",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
-  }
+    "react-dom": "^19.2.0",
+    "sigma": "^3.0.2"
+  },
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
