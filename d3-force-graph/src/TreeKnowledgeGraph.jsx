@@ -2,7 +2,7 @@ import React, { useEffect, useRef } from "react";
 import data from "../data/tree_output.json";
 import * as d3 from "d3";
 
-export default function TreeKnowledgeGraph() {
+export default function D3KnowledgeGraph() {
   const containerRef = useRef(null);
 
   useEffect(() => {
@@ -37,7 +37,7 @@ export default function TreeKnowledgeGraph() {
     }
 
     // Specify the chart’s dimensions.
-    const width = 1000;
+    const width = `100vw`;
     const height = 1000;
 
     // Compute the graph and start the force simulation.
