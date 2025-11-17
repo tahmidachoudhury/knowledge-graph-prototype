@@ -23,9 +23,12 @@ const MACRO_AREA_COLORS: Record<string, string> = {
 
 // 🔧 single FA2 helper – FA2 per CURRENT graph only
 export function runFA2Layout(graph: Graph, iterations = 200) {
+  const t0 = performance.now();
   if (graph.order === 0) return;
   const settings = forceAtlas2.inferSettings(graph);
   forceAtlas2.assign(graph, { iterations, settings });
+  const t1 = performance.now();
+  console.log("FA2 layout ms:", t1 - t0);
 }
 
 // LEVEL 0 – macro areas only

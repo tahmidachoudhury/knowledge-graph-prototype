@@ -6,6 +6,9 @@ import dataRaw from "../data/qna_enriched.json";
 export function buildHierarchy(data: any[]): Hierarchy {
   const tree: Hierarchy = {};
 
+  // measure graph building
+  const t0 = performance.now();
+
   data.forEach((entry) => {
     const area = "Environment";
     const macro = entry.Macrotopic?.trim() || "Unknown Macrotopic";
@@ -45,7 +48,10 @@ export function buildHierarchy(data: any[]): Hierarchy {
       tree[area].areas[macro].topics[topic].subtopics[sub].qnas.push(qna);
     }
   });
+  const t1 = performance.now();
 
-  console.log(tree);
+  console.log("Graph build ms (time taken to build nodes/edges):", t1 - t0);
+
+  //   console.log(tree);
   return tree;
 }
