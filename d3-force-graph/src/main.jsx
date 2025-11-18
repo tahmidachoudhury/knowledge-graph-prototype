@@ -5,7 +5,8 @@ import SigmaDrilldown from "./SigmaDrilldown";
 import SigmaBoy from "./sigmajs";
 
 export default function Home() {
-  return <SigmaDrilldown />;
+  // return <SigmaDrilldown />;
+  return <SigmaBoy />;
 }
 
 ReactDOM.createRoot(document.getElementById("root")).render(<Home />);

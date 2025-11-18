@@ -185,6 +185,7 @@ export function buildTopicQnaGraph(
       subtopic: qna.subtopicName,
     });
 
+    //This connects all qna nodes to the central macrotopic node
     graph.addEdge(macroTopicNodeId, qna.id, {
       size: 1,
       color: "rgba(140, 140, 140, 0.5)",

@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from "react";
 import Graph from "graphology";
 import Sigma from "sigma";
 import forceAtlas2 from "graphology-layout-forceatlas2";
+import FA2Layout from "graphology-layout-forceatlas2/worker";
 import circular from "graphology-layout/circular";
 import dataRaw from "../data/qna_enriched.json"; // my dataset
 import Stats from "stats.js";
@@ -48,17 +49,17 @@ const GraphView: React.FC = () => {
           nodeType: "Subtopic",
           color: "#5A75DB",
         });
-      if (!graph.hasNode(qnaId))
-        graph.addNode(qnaId, {
-          label: entry.question?.slice(0, 60) || qnaId,
-          nodeType: "QnA",
-          color: "#38A169",
-        });
+      // if (!graph.hasNode(qnaId))
+      //   graph.addNode(qnaId, {
+      //     label: entry.question?.slice(0, 60) || qnaId,
+      //     nodeType: "QnA",
+      //     color: "#38A169",
+      //   });
 
       if (!graph.hasEdge(macro, topic))
         graph.addEdge(macro, topic, { weight: 2 });
       if (!graph.hasEdge(topic, sub)) graph.addEdge(topic, sub, { weight: 2 });
-      if (!graph.hasEdge(sub, qnaId)) graph.addEdge(sub, qnaId, { weight: 2 });
+      // if (!graph.hasEdge(sub, qnaId)) graph.addEdge(sub, qnaId, { weight: 2 });
     });
 
     // ... build nodes/edges ...
@@ -98,6 +99,13 @@ const GraphView: React.FC = () => {
     // 5️⃣ Initialize Sigma renderer
     const renderer = new Sigma(graph, containerRef.current);
 
+    // run fa2 layout
+    const sensibleSettings = forceAtlas2.inferSettings(graph);
+    const fa2Layout = new FA2Layout(graph, {
+      settings: sensibleSettings,
+    });
+    fa2Layout.start();
+
     // render fps stats here
     renderer.on("beforeRender", () => {
       stats.begin();
@@ -109,6 +117,7 @@ const GraphView: React.FC = () => {
 
     // 6️⃣ Cleanup on unmount
     return () => {
+      fa2Layout.kill();
       renderer.kill();
       document.body.removeChild(stats.dom);
     };
