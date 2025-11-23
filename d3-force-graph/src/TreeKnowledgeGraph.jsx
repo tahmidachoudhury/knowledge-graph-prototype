@@ -1,5 +1,7 @@
 import React, { useEffect, useRef } from "react";
-import data from "../data/tree_output.json";
+// import data from "../data/tree_output.json";
+// import data from "../data/miserables.json";
+import data from "../data/graph.json";
 import * as d3 from "d3";
 
 export default function D3KnowledgeGraph() {
@@ -11,30 +13,33 @@ export default function D3KnowledgeGraph() {
     // Clear previous render (if any) for hot-reloads
     containerRef.current.innerHTML = "";
 
-    function drag(simulation) {
-      function dragstarted(event, d) {
-        if (!event.active) simulation.alphaTarget(0.3).restart();
-        d.fx = d.x;
-        d.fy = d.y;
-      }
+    // gimmicky drag function
+    // function drag(simulation) {
+    //   function dragstarted(event, d) {
+    //     if (!event.active) simulation.alphaTarget(0.3).restart();
+    //     d.fx = d.x;
+    //     d.fy = d.y;
+    //   }
 
-      function dragged(event, d) {
-        d.fx = event.x;
-        d.fy = event.y;
-      }
+    //   function dragged(event, d) {
+    //     d.fx = event.x;
+    //     d.fy = event.y;
+    //   }
 
-      function dragended(event, d) {
-        if (!event.active) simulation.alphaTarget(0);
-        d.fx = null;
-        d.fy = null;
-      }
+    //   function dragended(event, d) {
+    //     if (!event.active) simulation.alphaTarget(0);
+    //     d.fx = null;
+    //     d.fy = null;
+    //   }
 
-      return d3
-        .drag()
-        .on("start", dragstarted)
-        .on("drag", dragged)
-        .on("end", dragended);
-    }
+    //   return d3
+    //     .drag()
+    //     .on("start", dragstarted)
+    //     .on("drag", dragged)
+    //     .on("end", dragended);
+    // }
+
+    const color = d3.scaleOrdinal(d3.schemeAccent);
 
     // Specify the chart's dimensions.
     const width = containerRef.current.clientWidth || window.innerWidth;
@@ -42,9 +47,12 @@ export default function D3KnowledgeGraph() {
 
     // Compute the graph and start the force simulation.
     // data is an array at the top level; wrap it with a virtual root.
-    const root = d3.hierarchy({ name: "root", children: data });
-    const links = root.links();
-    const nodes = root.descendants();
+    // const root = d3.hierarchy({ name: "root", children: data });
+    // const links = root.links();
+    // const nodes = root.descendants();
+
+    const links = data.links.map((d) => ({ ...d }));
+    const nodes = data.nodes.map((d) => ({ ...d }));
 
     const simulation = d3
       .forceSimulation(nodes)
@@ -91,6 +99,7 @@ export default function D3KnowledgeGraph() {
       .join("line");
 
     // Append nodes.
+    const t0 = performance.now();
     const node = container
       .append("g")
       .attr("fill", "#fff")
@@ -99,17 +108,20 @@ export default function D3KnowledgeGraph() {
       .selectAll("circle")
       .data(nodes)
       .join("circle")
-      .attr("fill", (d) => (d.children ? null : "#000"))
-      .attr("stroke", (d) => (d.children ? null : "#fff"))
-      .attr("r", 3.5)
+      .attr("fill", (d) => color(d.group))
+
+      .attr("r", 5)
       .on("mouseover", (event, d) => {
         // Log useful details for debugging/inspection
         // console.log("node (hierarchy)", d);
-        console.log("node.data", d?.data);
-      })
-      .call(drag(simulation));
+        console.log("node.data", d?.group);
+      });
+    // activate drag feature here
+    // .call(drag(simulation));
+    const t1 = performance.now();
+    console.log("Time to build nodes ms:", t1 - t0);
 
-    node.append("title").text((d) => d.data.name);
+    node.append("title").text((d) => d.name);
 
     simulation.on("tick", () => {
       link
