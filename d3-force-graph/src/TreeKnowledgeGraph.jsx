@@ -36,9 +36,9 @@ export default function D3KnowledgeGraph() {
         .on("end", dragended);
     }
 
-    // Specify the chart’s dimensions.
-    const width = `100vw`;
-    const height = 1000;
+    // Specify the chart's dimensions.
+    const width = containerRef.current.clientWidth || window.innerWidth;
+    const height = containerRef.current.clientHeight || window.innerHeight;
 
     // Compute the graph and start the force simulation.
     // data is an array at the top level; wrap it with a virtual root.
@@ -57,8 +57,8 @@ export default function D3KnowledgeGraph() {
           .strength(0.7)
       )
       .force("charge", d3.forceManyBody().strength(-50))
-      .force("x", d3.forceX())
-      .force("y", d3.forceY());
+      .force("x", d3.forceX(0))
+      .force("y", d3.forceY(0));
 
     // Create the container SVG.
     const svg = d3
@@ -66,10 +66,23 @@ export default function D3KnowledgeGraph() {
       .attr("width", width)
       .attr("height", height)
       .attr("viewBox", [-width / 2, -height / 2, width, height])
-      .attr("style", "max-width: 100%; height: auto;");
+      .attr("style", "max-width: 100%; height: auto; display: block;");
+
+    // Create a group container for zoom/pan transformations
+    const container = svg.append("g");
+
+    // Set up zoom behavior
+    const zoom = d3
+      .zoom()
+      .scaleExtent([0.1, 8]) // min/max zoom
+      .on("zoom", (event) => {
+        container.attr("transform", event.transform); // pan & zoom
+      });
+
+    svg.call(zoom);
 
     // Append links.
-    const link = svg
+    const link = container
       .append("g")
       .attr("stroke", "#999")
       .attr("stroke-opacity", 0.6)
@@ -78,7 +91,7 @@ export default function D3KnowledgeGraph() {
       .join("line");
 
     // Append nodes.
-    const node = svg
+    const node = container
       .append("g")
       .attr("fill", "#fff")
       .attr("stroke", "#000")
@@ -120,5 +133,10 @@ export default function D3KnowledgeGraph() {
     };
   }, []);
 
-  return <div ref={containerRef} />;
+  return (
+    <div
+      ref={containerRef}
+      style={{ width: "100vw", height: "100vh", overflow: "hidden" }}
+    />
+  );
 }

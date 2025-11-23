@@ -35,7 +35,7 @@ for (const entry of data) {
   const subNode = findOrCreateChild(topicNode.children, sub);
 
   // Add QnA node
-  subNode.children.push({ name: qnaId });
+  // subNode.children.push({ name: qnaId });
 }
 
 // Convert map to array or single root (depending on your dataset)
