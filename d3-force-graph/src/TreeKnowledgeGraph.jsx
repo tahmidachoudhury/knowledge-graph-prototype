@@ -15,30 +15,30 @@ export default function D3KnowledgeGraph() {
     containerRef.current.innerHTML = "";
 
     // gimmicky drag function
-    // function drag(simulation) {
-    //   function dragstarted(event, d) {
-    //     if (!event.active) simulation.alphaTarget(0.3).restart();
-    //     d.fx = d.x;
-    //     d.fy = d.y;
-    //   }
+    function drag(simulation) {
+      function dragstarted(event, d) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      }
 
-    //   function dragged(event, d) {
-    //     d.fx = event.x;
-    //     d.fy = event.y;
-    //   }
+      function dragged(event, d) {
+        d.fx = event.x;
+        d.fy = event.y;
+      }
 
-    //   function dragended(event, d) {
-    //     if (!event.active) simulation.alphaTarget(0);
-    //     d.fx = null;
-    //     d.fy = null;
-    //   }
+      function dragended(event, d) {
+        if (!event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      }
 
-    //   return d3
-    //     .drag()
-    //     .on("start", dragstarted)
-    //     .on("drag", dragged)
-    //     .on("end", dragended);
-    // }
+      return d3
+        .drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended);
+    }
 
     const color = d3.scaleOrdinal(d3.schemePastel1);
 
@@ -116,9 +116,9 @@ export default function D3KnowledgeGraph() {
         // Log useful details for debugging/inspection
         console.log("node data", d);
         // console.log("node.data", d?.group);
-      });
-    // activate drag feature here
-    // .call(drag(simulation));
+      })
+      // activate drag feature here
+      .call(drag(simulation));
     const t1 = performance.now();
     console.log("Time to build nodes ms:", t1 - t0);
 
