@@ -4,6 +4,7 @@ import data from "../data/tq_db_nodes_and_links.json";
 // import data from "../data/miserables.json";
 // import data from "../data/graph.json";
 import * as d3 from "d3";
+import getNodeColor from "../utilities/d3js/getNodeColor";
 
 export default function D3KnowledgeGraph() {
   const containerRef = useRef(null);
@@ -109,7 +110,7 @@ export default function D3KnowledgeGraph() {
       .selectAll("circle")
       .data(nodes)
       .join("circle")
-      .attr("fill", (d) => color(d))
+      .attr("fill", (d) => getNodeColor(d))
 
       .attr("r", 5)
       .on("mousedown", (event, d) => {
