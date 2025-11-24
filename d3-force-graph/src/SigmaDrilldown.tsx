@@ -9,10 +9,10 @@ import {
   buildMacroTopicsGraph,
   buildTopicQnaGraph,
   runFA2Layout,
-} from "../utilities/graphLevels";
+} from "../utilities/sigmajs/graphLevels";
 
 import dataRaw from "../data/qna_enriched.json"; // my dataset
-import { buildHierarchy } from "../utilities/buildHierarchy";
+import { buildHierarchy } from "../utilities/sigmajs/buildHierarchy";
 
 type Level = "macroAreas" | "macroTopics" | "topicQna";
 
