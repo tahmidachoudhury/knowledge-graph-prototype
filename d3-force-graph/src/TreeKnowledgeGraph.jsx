@@ -1,7 +1,8 @@
 import React, { useEffect, useRef } from "react";
 // import data from "../data/tree_output.json";
+import data from "../data/tq_db_nodes_and_links.json";
 // import data from "../data/miserables.json";
-import data from "../data/graph.json";
+// import data from "../data/graph.json";
 import * as d3 from "d3";
 
 export default function D3KnowledgeGraph() {
@@ -39,7 +40,7 @@ export default function D3KnowledgeGraph() {
     //     .on("end", dragended);
     // }
 
-    const color = d3.scaleOrdinal(d3.schemeAccent);
+    const color = d3.scaleOrdinal(d3.schemePastel1);
 
     // Specify the chart's dimensions.
     const width = containerRef.current.clientWidth || window.innerWidth;
@@ -108,13 +109,13 @@ export default function D3KnowledgeGraph() {
       .selectAll("circle")
       .data(nodes)
       .join("circle")
-      .attr("fill", (d) => color(d.group))
+      .attr("fill", (d) => color(d))
 
       .attr("r", 5)
-      .on("mouseover", (event, d) => {
+      .on("mousedown", (event, d) => {
         // Log useful details for debugging/inspection
-        // console.log("node (hierarchy)", d);
-        console.log("node.data", d?.group);
+        console.log("node data", d);
+        // console.log("node.data", d?.group);
       });
     // activate drag feature here
     // .call(drag(simulation));
