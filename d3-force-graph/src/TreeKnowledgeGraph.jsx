@@ -115,9 +115,7 @@ export default function D3KnowledgeGraph() {
       .append("g")
       .attr("class", "hover-label")
       .style("pointer-events", "none")
-      .style("display", "none")
-      //hahahahhahahahhahahah
-      .style("z-index", 10000000000000);
+      .style("display", "none");
 
     const labelPadding = 4;
 
