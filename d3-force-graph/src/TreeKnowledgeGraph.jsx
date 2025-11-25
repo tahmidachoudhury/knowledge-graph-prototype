@@ -99,28 +99,39 @@ export default function D3KnowledgeGraph() {
       .join("g")
       // activate drag feature here
       .call(drag(simulation));
+
     const t1 = performance.now();
     console.log("Time to build nodes ms:", t1 - t0);
-
-    node
-      .append("circle")
-      .attr("fill", (d) => getNodeColor(d))
-      .attr("r", 5);
 
     const label = node
       .append("text")
       .attr("x", 8)
       .attr("y", "0.31em")
-      .attr("opacity", 0)
+      .attr("display", "none")
+      .style("pointer-events", "none")
       .text((d) => d.label);
 
-    // Set up zoom behavior (needs access to label selection)
+    // Set up zoom behavior
     const zoom = d3
       .zoom()
       .scaleExtent([0.1, 8]) // min/max zoom
       .on("zoom", (event) => {
         container.attr("transform", event.transform); // pan & zoom
-        label.attr("opacity", event.transform.k > 1.5 ? 1 : 0);
+      });
+
+    node
+      .append("circle")
+      .attr("fill", (d) => getNodeColor(d))
+      .attr("r", 5)
+      .on("mouseover", (event, d) => {
+        d3.select(event.currentTarget.parentNode)
+          .select("text")
+          .attr("display", "block");
+      })
+      .on("mouseout", (event) => {
+        d3.select(event.currentTarget.parentNode)
+          .select("text")
+          .attr("display", "none");
       });
 
     svg.call(zoom);
