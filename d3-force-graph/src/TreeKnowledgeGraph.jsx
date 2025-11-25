@@ -81,16 +81,6 @@ export default function D3KnowledgeGraph() {
     // Create a group container for zoom/pan transformations
     const container = svg.append("g");
 
-    // Set up zoom behavior
-    const zoom = d3
-      .zoom()
-      .scaleExtent([0.1, 8]) // min/max zoom
-      .on("zoom", (event) => {
-        container.attr("transform", event.transform); // pan & zoom
-      });
-
-    svg.call(zoom);
-
     // Append links.
     const link = container
       .append("g")
@@ -104,26 +94,36 @@ export default function D3KnowledgeGraph() {
     const t0 = performance.now();
     const node = container
       .append("g")
-      .attr("fill", "#fff")
-      .attr("stroke", "#000")
-      .attr("stroke-width", 1.5)
-      .selectAll("circle")
+      .selectAll("g")
       .data(nodes)
-      .join("circle")
-      .attr("fill", (d) => getNodeColor(d))
-
-      .attr("r", 5)
-      .on("mousedown", (event, d) => {
-        // Log useful details for debugging/inspection
-        console.log("node data", d);
-        // console.log("node.data", d?.group);
-      })
+      .join("g")
       // activate drag feature here
       .call(drag(simulation));
     const t1 = performance.now();
     console.log("Time to build nodes ms:", t1 - t0);
 
-    node.append("title").text((d) => d.name);
+    node
+      .append("circle")
+      .attr("fill", (d) => getNodeColor(d))
+      .attr("r", 5);
+
+    const label = node
+      .append("text")
+      .attr("x", 8)
+      .attr("y", "0.31em")
+      .attr("opacity", 0)
+      .text((d) => d.label);
+
+    // Set up zoom behavior (needs access to label selection)
+    const zoom = d3
+      .zoom()
+      .scaleExtent([0.1, 8]) // min/max zoom
+      .on("zoom", (event) => {
+        container.attr("transform", event.transform); // pan & zoom
+        label.attr("opacity", event.transform.k > 1.5 ? 1 : 0);
+      });
+
+    svg.call(zoom);
 
     simulation.on("tick", () => {
       link
@@ -132,7 +132,7 @@ export default function D3KnowledgeGraph() {
         .attr("x2", (d) => d.target.x)
         .attr("y2", (d) => d.target.y);
 
-      node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
+      node.attr("transform", (d) => `translate(${d.x},${d.y})`);
     });
 
     setTimeout(() => simulation.stop(), 10000);
