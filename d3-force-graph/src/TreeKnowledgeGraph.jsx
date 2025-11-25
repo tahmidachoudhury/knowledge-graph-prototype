@@ -103,14 +103,6 @@ export default function D3KnowledgeGraph() {
     const t1 = performance.now();
     console.log("Time to build nodes ms:", t1 - t0);
 
-    const label = node
-      .append("text")
-      .attr("x", 8)
-      .attr("y", "0.31em")
-      .attr("display", "none")
-      .style("pointer-events", "none")
-      .text((d) => d.label);
-
     // Set up zoom behavior
     const zoom = d3
       .zoom()
@@ -119,19 +111,51 @@ export default function D3KnowledgeGraph() {
         container.attr("transform", event.transform); // pan & zoom
       });
 
+    const hoverLabel = container
+      .append("g")
+      .attr("class", "hover-label")
+      .style("pointer-events", "none")
+      .style("display", "none")
+      //hahahahhahahahhahahah
+      .style("z-index", 10000000000000);
+
+    const labelPadding = 4;
+
+    const hoverBackground = hoverLabel
+      .append("rect")
+      .attr("rx", 3)
+      .attr("ry", 3)
+      .attr("fill", "#fff")
+      .attr("fill-opacity", 0.9)
+      .attr("stroke", "#333")
+      .attr("stroke-opacity", 0.6);
+
+    const hoverText = hoverLabel
+      .append("text")
+      .attr("text-anchor", "middle")
+      .attr("dy", "0.31em")
+      .attr("fill", "#111")
+      .attr("stroke", "#fff")
+      .attr("stroke-width", 0.75)
+      .attr("paint-order", "stroke");
+
     node
       .append("circle")
       .attr("fill", (d) => getNodeColor(d))
       .attr("r", 5)
       .on("mouseover", (event, d) => {
-        d3.select(event.currentTarget.parentNode)
-          .select("text")
-          .attr("display", "block");
+        hoverLabel.style("display", "block");
+        hoverText.text(d.label);
+        hoverLabel.attr("transform", `translate(${d.x},${d.y})`);
+        const textBox = hoverText.node().getBBox();
+        hoverBackground
+          .attr("x", textBox.x - labelPadding)
+          .attr("y", textBox.y - labelPadding)
+          .attr("width", textBox.width + labelPadding * 2)
+          .attr("height", textBox.height + labelPadding * 2);
       })
       .on("mouseout", (event) => {
-        d3.select(event.currentTarget.parentNode)
-          .select("text")
-          .attr("display", "none");
+        hoverLabel.style("display", "none");
       });
 
     svg.call(zoom);
