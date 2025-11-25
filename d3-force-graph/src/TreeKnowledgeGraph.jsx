@@ -137,6 +137,8 @@ export default function D3KnowledgeGraph() {
       .attr("stroke-width", 0.75)
       .attr("paint-order", "stroke");
 
+    const labelOffset = { y: -20 }; // keep label slightly above-left
+
     node
       .append("circle")
       .attr("fill", (d) => getNodeColor(d))
@@ -144,7 +146,10 @@ export default function D3KnowledgeGraph() {
       .on("mouseover", (event, d) => {
         hoverLabel.style("display", "block");
         hoverText.text(d.label);
-        hoverLabel.attr("transform", `translate(${d.x},${d.y})`);
+        hoverLabel.attr(
+          "transform",
+          `translate(${d.x},${d.y + labelOffset.y})`
+        );
         const textBox = hoverText.node().getBBox();
         hoverBackground
           .attr("x", textBox.x - labelPadding)
