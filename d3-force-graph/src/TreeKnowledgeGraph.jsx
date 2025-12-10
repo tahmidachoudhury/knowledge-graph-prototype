@@ -173,9 +173,7 @@ export default function D3KnowledgeGraph() {
       // Append links.
       const link = container
         .append("g")
-        .attr("stroke", "#999") //remove these strokes to remove the link lines
-        .attr("stroke-opacity", 0.6)
-        .attr("stroke-width", 1.5)
+
         .selectAll("line")
         .data(links)
         .join("line");
