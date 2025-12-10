@@ -5,6 +5,7 @@ import data from "../data/tq_db_nodes_and_links.json";
 // import data from "../data/graph.json";
 import * as d3 from "d3";
 import getNodeColor from "../utilities/d3js/getNodeColor";
+import pentagonPath from "../utilities/d3js/pentagon";
 
 // ESG macroareas to show initially
 const ESG_MACROAREAS = ["Environment", "Social", "Governance"];
@@ -139,6 +140,15 @@ export default function D3KnowledgeGraph() {
         })
         .filter(Boolean);
 
+      // Determine node radius based on level (needed for collision detection)
+      const getNodeRadius = (d) => {
+        if (d.group === "MacroArea") return 15;
+        if (d.group === "Macrotopic") return 10;
+        if (d.group === "Topic") return 25;
+        if (d.group === "Subtopic") return 15;
+        return 5;
+      };
+
       // Create force simulation
       const simulation = d3
         .forceSimulation(nodes)
@@ -147,13 +157,20 @@ export default function D3KnowledgeGraph() {
           d3
             .forceLink(links)
             .id((d) => d.id)
-            .distance(macroArea ? 30 : 150) // More spacing at top level
-            .strength(0.7)
+            .distance(macroArea ? 80 : 200) // Increased spacing for larger nodes
+            .strength(0.5) // more link strength = more tight the groups are packed
         )
-        .force("charge", d3.forceManyBody().strength(macroArea ? -50 : -200))
+        .force("charge", d3.forceManyBody().strength(macroArea ? -150 : -350)) // Increased repulsion
         .force("x", d3.forceX(0))
         .force("y", d3.forceY(0))
-        .force("collision", d3.forceCollide().radius(20));
+        .force(
+          "collision",
+          d3.forceCollide().radius((d) => {
+            // Dynamic collision radius based on node size
+            const radius = getNodeRadius(d);
+            return radius + 5; // Add padding around nodes
+          })
+        );
 
       simulationRef.current = simulation;
 
@@ -173,7 +190,9 @@ export default function D3KnowledgeGraph() {
       // Append links.
       const link = container
         .append("g")
-
+        // .attr("stroke", "#999") //remove these strokes to remove the link lines
+        // .attr("stroke-opacity", 0.6)
+        // .attr("stroke-width", 1.5)
         .selectAll("line")
         .data(links)
         .join("line");
@@ -222,20 +241,44 @@ export default function D3KnowledgeGraph() {
 
       const labelOffset = { y: -20 };
 
-      // Determine node radius based on level
-      const getNodeRadius = (d) => {
-        if (d.group === "MacroArea") return 15;
-        if (d.group === "Macrotopic") return 10;
-        if (d.group === "Topic") return 7;
-        return 5;
-      };
+      // Add shapes conditionally: circles for Topics, pentagons for Subtopics
+      node.each(function (d) {
+        const nodeElement = d3.select(this);
+        const color = getNodeColor(d);
+        const radius = getNodeRadius(d);
 
+        if (d.group === "Topic") {
+          // Topics: circles
+          nodeElement
+            .append("circle")
+            .attr("fill", color)
+            .attr("r", radius)
+            .attr("cursor", "pointer")
+            .attr("stroke-width", 1.5)
+            .attr("stroke", color);
+        } else if (d.group === "Subtopic") {
+          // Subtopics: pentagons
+          nodeElement
+            .append("path")
+            .attr("fill", color)
+            .attr("d", pentagonPath(radius))
+            .attr("cursor", "pointer")
+            .attr("stroke-width", 1.5)
+            .attr("stroke", color);
+        } else {
+          // Other node types: default to circle for now
+          nodeElement
+            .append("circle")
+            .attr("fill", color)
+            .attr("r", radius)
+            .attr("cursor", "pointer")
+            .attr("stroke-width", 1.5)
+            .attr("stroke", color);
+        }
+      });
+
+      // Add event handlers to the node group
       node
-        .append("circle")
-        .attr("fill", (d) => getNodeColor(d))
-        .attr("r", getNodeRadius)
-        .attr("cursor", "pointer")
-        .attr("stroke-width", 1.5)
         .on("mouseover", (event, d) => {
           hoverLabel.style("display", "block");
           hoverText.text(d.label);
