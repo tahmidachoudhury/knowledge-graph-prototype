@@ -237,7 +237,6 @@ export default function D3KnowledgeGraph() {
         .attr("fill", (d) => getNodeColor(d))
         .attr("r", getNodeRadius)
         .attr("cursor", "pointer")
-        .attr("stroke", "#333")
         .attr("stroke-width", 1.5)
         .on("mouseover", (event, d) => {
           hoverLabel.style("display", "block");

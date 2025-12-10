@@ -14,9 +14,13 @@ export default function getNodeColor(node: Node) {
 
   // Handle MacroArea nodes - they don't have a macrotopic
   if (group === "MacroArea") {
-    // For MacroArea nodes, we could use a default color or find the first macrotopic color
-    // For now, return a neutral color
-    return "#cccccc";
+    // Return specific colors for each ESG macroarea
+    const macroAreaColors: Record<string, string> = {
+      Environment: "#32c46c", // green
+      Social: "#ffd700", // yellow
+      Governance: "#9b59b6", // purple
+    };
+    return macroAreaColors[label] || "#cccccc";
   }
 
   if (!macroArea) {
