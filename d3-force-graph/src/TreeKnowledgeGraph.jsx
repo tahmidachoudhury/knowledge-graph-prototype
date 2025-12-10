@@ -15,6 +15,9 @@ export default function D3KnowledgeGraph() {
   const svgRef = useRef(null);
   const simulationRef = useRef(null);
   const [selectedMacroArea, setSelectedMacroArea] = useState(null);
+  const [hoveredNode, setHoveredNode] = useState(null);
+  const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
+  const [theme, setTheme] = useState("light");
 
   // Filter nodes and links based on selected macroarea
   const filterData = useCallback((macroArea) => {
@@ -213,34 +216,6 @@ export default function D3KnowledgeGraph() {
           container.attr("transform", event.transform);
         });
 
-      const hoverLabel = container
-        .append("g")
-        .attr("class", "hover-label")
-        .style("pointer-events", "none")
-        .style("display", "none");
-
-      const labelPadding = 4;
-
-      const hoverBackground = hoverLabel
-        .append("rect")
-        .attr("rx", 3)
-        .attr("ry", 3)
-        .attr("fill", "#fff")
-        .attr("fill-opacity", 0.9)
-        .attr("stroke", "#333")
-        .attr("stroke-opacity", 0.6);
-
-      const hoverText = hoverLabel
-        .append("text")
-        .attr("text-anchor", "middle")
-        .attr("dy", "0.31em")
-        .attr("fill", "#111")
-        .attr("stroke", "#fff")
-        .attr("stroke-width", 0.75)
-        .attr("paint-order", "stroke");
-
-      const labelOffset = { y: -20 };
-
       // Add shapes conditionally: circles for Topics, pentagons for Subtopics
       node.each(function (d) {
         const nodeElement = d3.select(this);
@@ -280,21 +255,26 @@ export default function D3KnowledgeGraph() {
       // Add event handlers to the node group
       node
         .on("mouseover", (event, d) => {
-          hoverLabel.style("display", "block");
-          hoverText.text(d.label);
-          hoverLabel.attr(
-            "transform",
-            `translate(${d.x},${d.y + labelOffset.y})`
-          );
-          const textBox = hoverText.node().getBBox();
-          hoverBackground
-            .attr("x", textBox.x - labelPadding)
-            .attr("y", textBox.y - labelPadding)
-            .attr("width", textBox.width + labelPadding * 2)
-            .attr("height", textBox.height + labelPadding * 2);
+          if (containerRef.current) {
+            const rect = containerRef.current.getBoundingClientRect();
+            setMousePosition({
+              x: event.clientX - rect.left,
+              y: event.clientY - rect.top,
+            });
+          }
+          setHoveredNode(d.label);
+        })
+        .on("mousemove", (event) => {
+          if (containerRef.current) {
+            const rect = containerRef.current.getBoundingClientRect();
+            setMousePosition({
+              x: event.clientX - rect.left,
+              y: event.clientY - rect.top,
+            });
+          }
         })
         .on("mouseout", () => {
-          hoverLabel.style("display", "none");
+          setHoveredNode(null);
         })
         .on("click", (event, d) => {
           // Handle click on MacroArea node to drill down
@@ -330,6 +310,18 @@ export default function D3KnowledgeGraph() {
     renderGraph(selectedMacroArea);
   }, [selectedMacroArea, renderGraph]);
 
+  // Update body class based on theme
+  useEffect(() => {
+    const themeClass =
+      theme === "light" ? "theme-light-body" : "theme-dark-body";
+    document.documentElement.className = themeClass;
+    document.body.className = themeClass;
+    return () => {
+      document.documentElement.className = "";
+      document.body.className = "";
+    };
+  }, [theme]);
+
   // Cleanup on unmount
   useEffect(() => {
     return () => {
@@ -358,8 +350,9 @@ export default function D3KnowledgeGraph() {
             zIndex: 1000,
             padding: "10px 20px",
             fontSize: "16px",
-            backgroundColor: "#fff",
-            border: "2px solid #333",
+            backgroundColor: theme === "light" ? "#fff" : "#1a1a1a",
+            color: theme === "light" ? "#333" : "#fff",
+            border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
             borderRadius: "5px",
             cursor: "pointer",
             boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
@@ -368,8 +361,29 @@ export default function D3KnowledgeGraph() {
           ← Back to ESG Overview
         </button>
       )}
+      <button
+        onClick={() => setTheme(theme === "light" ? "dark" : "light")}
+        style={{
+          position: "absolute",
+          top: "20px",
+          right: "20px",
+          zIndex: 1000,
+          padding: "10px 20px",
+          fontSize: "16px",
+          fontWeight: "bold",
+          backgroundColor: theme === "light" ? "#fff" : "#1a1a1a",
+          color: theme === "light" ? "#333" : "#fff",
+          border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
+          borderRadius: "5px",
+          cursor: "pointer",
+          boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
+        }}
+      >
+        {theme === "light" ? "🌙 Dark" : "☀️ Light"}
+      </button>
       {selectedMacroArea && (
         <div
+          className={theme === "light" ? "theme-light" : "theme-dark"}
           style={{
             position: "absolute",
             top: "20px",
@@ -379,13 +393,35 @@ export default function D3KnowledgeGraph() {
             padding: "10px 20px",
             fontSize: "18px",
             fontWeight: "bold",
-            backgroundColor: "rgba(255,255,255,0.9)",
-            border: "2px solid #333",
+            border: "2px solid",
             borderRadius: "5px",
             boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
           }}
         >
           {selectedMacroArea} - Macrotopics, Topics & Subtopics
+        </div>
+      )}
+      {hoveredNode && (
+        <div
+          className={
+            theme === "light"
+              ? "theme-light theme-hover"
+              : "theme-dark theme-hover"
+          }
+          style={{
+            position: "absolute",
+            left: `${mousePosition.x + 10}px`,
+            top: `${mousePosition.y + 10}px`,
+            zIndex: 1000,
+            padding: "10px 20px",
+            fontSize: "16px",
+            border: "2px solid",
+            borderRadius: "5px",
+            boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
+            pointerEvents: "none",
+          }}
+        >
+          {hoveredNode}
         </div>
       )}
       <div

@@ -1,5 +1,5 @@
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Roboto", system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -11,6 +11,19 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* Theme body classes */
+html.theme-light-body,
+body.theme-light-body {
+  background-color: #ffffff;
+  color: #213547;
+}
+
+html.theme-dark-body,
+body.theme-dark-body {
+  background-color: #242424;
+  color: rgba(255, 255, 255, 0.87);
 }
 
 a {
@@ -28,6 +41,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  font-family: "Roboto", system-ui, Avenir, Helvetica, Arial, sans-serif;
 }
 
 h1 {
@@ -93,4 +107,26 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+/* Theme classes for UI elements */
+.theme-light {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #333;
+  border-color: #333 !important;
+}
+
+.theme-dark {
+  background-color: rgba(26, 26, 26, 0.9);
+  color: rgba(255, 255, 255, 0.87);
+  border-color: rgba(255, 255, 255, 0.87) !important;
+}
+
+/* Hover label has different opacity */
+.theme-light.theme-hover {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.theme-dark.theme-hover {
+  background-color: rgba(26, 26, 26, 0.7);
 }

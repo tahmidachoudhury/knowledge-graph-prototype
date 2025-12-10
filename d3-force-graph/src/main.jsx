@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import "./style.css";
 import D3KnowledgeGraph from "./TreeKnowledgeGraph";
 import SigmaDrilldown from "./SigmaDrilldown";
 import SigmaBoy from "./sigmajs";
