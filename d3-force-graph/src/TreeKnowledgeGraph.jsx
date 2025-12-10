@@ -26,39 +26,42 @@ export default function D3KnowledgeGraph() {
       // No links at top level
       return { nodes: macroAreaNodes, links: [] };
     } else {
-      // Drill-down: show all nodes and links belonging to this macroarea
+      // Drill-down: show all nodes belonging to this macroarea, EXCEPT the MacroArea node itself
       const nodeIds = new Set();
       const filteredNodes = [];
 
-      // Start with the macroarea node
-      const macroAreaNode = data.nodes.find(
-        (node) =>
-          node.group === "MacroArea" &&
-          (node.label === macroArea || node.id === `MacroArea:${macroArea}`)
-      );
-      if (macroAreaNode) {
-        filteredNodes.push(macroAreaNode);
-        nodeIds.add(macroAreaNode.id);
-      }
-
-      // Find all nodes that belong to this macroarea
+      // Find all nodes that belong to this macroarea (excluding MacroArea nodes)
       data.nodes.forEach((node) => {
-        if (node.macroArea === macroArea && !nodeIds.has(node.id)) {
+        // Only include nodes that belong to this macroarea AND are not MacroArea type
+        if (
+          node.macroArea === macroArea &&
+          node.group !== "MacroArea" &&
+          !nodeIds.has(node.id)
+        ) {
           filteredNodes.push(node);
           nodeIds.add(node.id);
         }
       });
 
-      // Find all links between the filtered nodes
-      const filteredLinks = data.links.filter(
-        (link) =>
-          nodeIds.has(
-            typeof link.source === "object" ? link.source.id : link.source
-          ) &&
-          nodeIds.has(
-            typeof link.target === "object" ? link.target.id : link.target
-          )
-      );
+      // Find all links between the filtered nodes (excluding links to/from MacroArea nodes)
+      const filteredLinks = data.links.filter((link) => {
+        const sourceId =
+          typeof link.source === "object" ? link.source.id : link.source;
+        const targetId =
+          typeof link.target === "object" ? link.target.id : link.target;
+
+        // Only include links where both source and target are in our filtered set
+        // and neither is a MacroArea node
+        const sourceNode = data.nodes.find((n) => n.id === sourceId);
+        const targetNode = data.nodes.find((n) => n.id === targetId);
+
+        return (
+          nodeIds.has(sourceId) &&
+          nodeIds.has(targetId) &&
+          sourceNode?.group !== "MacroArea" &&
+          targetNode?.group !== "MacroArea"
+        );
+      });
 
       return { nodes: filteredNodes, links: filteredLinks };
     }
@@ -170,7 +173,7 @@ export default function D3KnowledgeGraph() {
       // Append links.
       const link = container
         .append("g")
-        .attr("stroke", "#999")
+        .attr("stroke", "#999") //remove these strokes to remove the link lines
         .attr("stroke-opacity", 0.6)
         .attr("stroke-width", 1.5)
         .selectAll("line")
