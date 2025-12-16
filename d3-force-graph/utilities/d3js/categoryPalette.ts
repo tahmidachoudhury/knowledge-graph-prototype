@@ -63,9 +63,9 @@ const categoryPalette = {
       Subtopic: "#c89800",
     },
     "Good health and well-being": {
-      Macrotopic: "#99a60d",
-      Topic: "#b2bd3e",
-      Subtopic: "#ffa219",
+      Macrotopic: "#eeff38",
+      Topic: "#edfa5c",
+      Subtopic: "#dce85a",
     },
     "Zero hunger": {
       Macrotopic: "#d0a800",

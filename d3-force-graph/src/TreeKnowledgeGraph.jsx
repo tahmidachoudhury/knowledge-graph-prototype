@@ -6,6 +6,7 @@ import data from "../data/tq_db_nodes_and_links.json";
 import * as d3 from "d3";
 import getNodeColor from "../utilities/d3js/getNodeColor";
 import pentagonPath from "../utilities/d3js/pentagon";
+import { useTheme } from "./ThemeContext";
 
 // ESG macroareas to show initially
 const ESG_MACROAREAS = ["Environment", "Social", "Governance"];
@@ -17,7 +18,7 @@ export default function D3KnowledgeGraph() {
   const [selectedMacroArea, setSelectedMacroArea] = useState(null);
   const [hoveredNode, setHoveredNode] = useState(null);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
-  const [theme, setTheme] = useState("light");
+  const { theme, toggleTheme } = useTheme();
 
   // Filter nodes and links based on selected macroarea
   const filterData = useCallback((macroArea) => {
@@ -145,7 +146,8 @@ export default function D3KnowledgeGraph() {
 
       // Determine node radius based on level (needed for collision detection)
       const getNodeRadius = (d) => {
-        if (d.group === "MacroArea") return 15;
+        // macro area will be three large bubbles
+        if (d.group === "MacroArea") return 100;
         if (d.group === "Macrotopic") return 10;
         if (d.group === "Topic") return 25;
         if (d.group === "Subtopic") return 15;
@@ -310,18 +312,6 @@ export default function D3KnowledgeGraph() {
     renderGraph(selectedMacroArea);
   }, [selectedMacroArea, renderGraph]);
 
-  // Update body class based on theme
-  useEffect(() => {
-    const themeClass =
-      theme === "light" ? "theme-light-body" : "theme-dark-body";
-    document.documentElement.className = themeClass;
-    document.body.className = themeClass;
-    return () => {
-      document.documentElement.className = "";
-      document.body.className = "";
-    };
-  }, [theme]);
-
   // Cleanup on unmount
   useEffect(() => {
     return () => {
@@ -362,7 +352,7 @@ export default function D3KnowledgeGraph() {
         </button>
       )}
       <button
-        onClick={() => setTheme(theme === "light" ? "dark" : "light")}
+        onClick={toggleTheme}
         style={{
           position: "absolute",
           top: "20px",
