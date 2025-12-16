@@ -18,6 +18,7 @@ export default function D3KnowledgeGraph() {
   const [selectedMacroArea, setSelectedMacroArea] = useState(null);
   const [hoveredNode, setHoveredNode] = useState(null);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
+  const [showLinks, setShowLinks] = useState(true);
   const { theme, toggleTheme } = useTheme();
 
   // Filter nodes and links based on selected macroarea
@@ -195,9 +196,10 @@ export default function D3KnowledgeGraph() {
       // Append links.
       const link = container
         .append("g")
-        // .attr("stroke", "#999") //remove these strokes to remove the link lines
-        // .attr("stroke-opacity", 0.6)
-        // .attr("stroke-width", 1.5)
+        .attr("class", "link-group")
+        .attr("stroke", "#999") //remove these strokes to remove the link lines
+        .attr("stroke-opacity", showLinks ? 0.6 : 0)
+        .attr("stroke-width", 1.5)
         .selectAll("line")
         .data(links)
         .join("line");
@@ -304,13 +306,23 @@ export default function D3KnowledgeGraph() {
       // Mount the generated SVG into the React container
       containerRef.current.appendChild(svg.node());
     },
-    [filterData]
+    [filterData, showLinks]
   );
 
   // Re-render when selection changes
   useEffect(() => {
     renderGraph(selectedMacroArea);
   }, [selectedMacroArea, renderGraph]);
+
+  // Update link visibility when toggle changes
+  useEffect(() => {
+    if (svgRef.current) {
+      const linkGroup = svgRef.current.select(".link-group");
+      if (linkGroup.node()) {
+        linkGroup.attr("stroke-opacity", showLinks ? 0.6 : 0);
+      }
+    }
+  }, [showLinks]);
 
   // Cleanup on unmount
   useEffect(() => {
@@ -348,9 +360,29 @@ export default function D3KnowledgeGraph() {
             boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
           }}
         >
-          ← Back to MacroArea Overview
+          ← Back to Macro Area Overview
         </button>
       )}
+      <button
+        onClick={() => setShowLinks(!showLinks)}
+        style={{
+          position: "absolute",
+          top: "20px",
+          right: "180px",
+          zIndex: 1000,
+          padding: "10px 20px",
+          fontSize: "16px",
+          fontWeight: "bold",
+          backgroundColor: theme === "light" ? "#fff" : "#1a1a1a",
+          color: theme === "light" ? "#333" : "#fff",
+          border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
+          borderRadius: "5px",
+          cursor: "pointer",
+          boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
+        }}
+      >
+        {showLinks ? "🔗 Hide Links" : "🔗 Show Links"}
+      </button>
       <button
         onClick={toggleTheme}
         style={{
