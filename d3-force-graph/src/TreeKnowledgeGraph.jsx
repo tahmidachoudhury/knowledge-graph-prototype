@@ -348,7 +348,7 @@ export default function D3KnowledgeGraph() {
             boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
           }}
         >
-          ← Back to ESG Overview
+          ← Back to MacroArea Overview
         </button>
       )}
       <button
