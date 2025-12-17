@@ -149,7 +149,7 @@ export default function D3KnowledgeGraph() {
       const getNodeRadius = (d) => {
         // macro area will be three large bubbles
         if (d.group === "MacroArea") return 100;
-        if (d.group === "Macrotopic") return 10;
+        if (d.group === "Macrotopic") return 60; // Increased for square card with text
         if (d.group === "Topic") return 25;
         if (d.group === "Subtopic") return 15;
         return 5;
@@ -226,7 +226,74 @@ export default function D3KnowledgeGraph() {
         const color = getNodeColor(d);
         const radius = getNodeRadius(d);
 
-        if (d.group === "Topic") {
+        if (d.group === "Macrotopic") {
+          // Macrotopics: square cards with color and label
+          const cardSize = 120; // Size of the square card
+          const cornerRadius = 8; // Rounded corners
+          const padding = 10; // Padding inside the card
+          const maxWidth = cardSize - padding * 2;
+
+          // Create the square card
+          nodeElement
+            .append("rect")
+            .attr("fill", color)
+            .attr("width", cardSize)
+            .attr("height", cardSize)
+            .attr("x", -cardSize / 2)
+            .attr("y", -cardSize / 2)
+            .attr("rx", cornerRadius)
+            .attr("ry", cornerRadius)
+            .attr("cursor", "pointer")
+            .attr("stroke-width", 1.5)
+            .attr("stroke", color);
+
+          // Add text label inside the card with word wrapping
+          const label = d.label || d.id || "";
+          const words = label.split(/\s+/);
+          const textElement = nodeElement
+            .append("text")
+            .attr("text-anchor", "middle")
+            .attr("dominant-baseline", "middle")
+            .attr("fill", "white")
+            .attr("font-size", "13px")
+            .attr("font-weight", "500")
+            .attr("font-family", "sans-serif")
+            .attr("pointer-events", "none")
+            .attr("x", 0)
+            .attr("y", 0);
+
+          // Simple word wrapping: break text into lines that fit
+          const lines = [];
+          let currentLine = [];
+          words.forEach((word) => {
+            const testLine =
+              currentLine.length > 0
+                ? currentLine.join(" ") + " " + word
+                : word;
+            // Approximate character width (rough estimate: 7px per char for 13px font)
+            const estimatedWidth = testLine.length * 7;
+            if (estimatedWidth > maxWidth && currentLine.length > 0) {
+              lines.push(currentLine.join(" "));
+              currentLine = [word];
+            } else {
+              currentLine.push(word);
+            }
+          });
+          if (currentLine.length > 0) {
+            lines.push(currentLine.join(" "));
+          }
+
+          // Add tspan elements for each line
+          const lineHeight = 16;
+          const startY = (-(lines.length - 1) * lineHeight) / 2;
+          lines.forEach((line, i) => {
+            textElement
+              .append("tspan")
+              .attr("x", 0)
+              .attr("y", startY + i * lineHeight)
+              .text(line);
+          });
+        } else if (d.group === "Topic") {
           // Topics: circles
           nodeElement
             .append("circle")
