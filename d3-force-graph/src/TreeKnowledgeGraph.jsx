@@ -4,10 +4,10 @@ import data from "../data/tq_db_nodes_and_links.json";
 // import data from "../data/miserables.json";
 // import data from "../data/graph.json";
 import * as d3 from "d3";
-import getNodeColor from "../utilities/d3js/getNodeColor";
-import pentagonPath from "../utilities/d3js/pentagon";
+import getNodeColor from "./lib/d3js/getNodeColor";
+import pentagonPath from "./lib/d3js/pentagon";
 import { useTheme } from "./ThemeContext";
-import { ESG_MACROAREAS } from "../utilities/constants";
+import { ESG_MACROAREAS } from "./lib/constants";
 
 export default function D3KnowledgeGraph() {
   const containerRef = useRef(null);
