@@ -7,9 +7,7 @@ import * as d3 from "d3";
 import getNodeColor from "../utilities/d3js/getNodeColor";
 import pentagonPath from "../utilities/d3js/pentagon";
 import { useTheme } from "./ThemeContext";
-
-// ESG macroareas to show initially
-const ESG_MACROAREAS = ["Environment", "Social", "Governance"];
+import { ESG_MACROAREAS } from "../utilities/constants";
 
 export default function D3KnowledgeGraph() {
   const containerRef = useRef(null);
