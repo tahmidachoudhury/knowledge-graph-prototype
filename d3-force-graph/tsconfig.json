@@ -15,5 +15,5 @@
     "noEmit": true,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["src", "src/lib"]
+  "include": ["src", "src/lib/lib"]
 }
