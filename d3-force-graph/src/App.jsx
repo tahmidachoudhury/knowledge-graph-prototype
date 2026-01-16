@@ -62,6 +62,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
+        
         <Route path="/" element={<MainRoute />} />
         <Route path="/subtopic/:subtopicId" element={<SubtopicRoute />} />
       </Routes>

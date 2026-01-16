@@ -4,10 +4,12 @@ import React, { useCallback, useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 
 import data from "../../data/main_graph.json"; // adjust path if needed
-import { ESG_MACROAREAS } from "../lib/constants";
+import { ESG_MACROAREAS } from "@/lib/constants";
 
-import getNodeColor from "../lib/d3js/getNodeColor";
-import pentagonPath from "../lib/d3js/pentagon";
+import getNodeColor from "@/lib/d3js/getNodeColor";
+import pentagonPath from "@/lib/d3js/pentagon";
+
+import { useTheme } from "@/lib/ThemeContext";
 
 import type { GraphNode, GraphLink, D3Node } from "../lib/types/graph.types";
 
@@ -33,6 +35,7 @@ export default function MainGraph({ onSubtopicClick }: Props) {
   const [hoveredNode, setHoveredNode] = useState<string | null>(null);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [showLinks, setShowLinks] = useState(true);
+  const { theme, toggleTheme } = useTheme();
 
   const typed = data as unknown as MainData;
 
@@ -362,6 +365,7 @@ export default function MainGraph({ onSubtopicClick }: Props) {
     >
       {selectedMacroArea && (
         <button
+          className={theme === "light" ? "theme-light" : "theme-dark"}
           onClick={() => setSelectedMacroArea(null)}
           style={{
             position: "absolute",
@@ -381,17 +385,39 @@ export default function MainGraph({ onSubtopicClick }: Props) {
       )}
 
       <button
-        onClick={() => setShowLinks((v) => !v)}
+        onClick={toggleTheme}
         style={{
           position: "absolute",
           top: 20,
           right: 20,
           zIndex: 1000,
           padding: "10px 20px",
+          fontSize: "16px",
+          fontWeight: "bold",
+          backgroundColor: theme === "light" ? "#fff" : "#1a1a1a",
+          color: theme === "light" ? "#333" : "#fff",
+          border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
+          borderRadius: "5px",
+          cursor: "pointer",
+          boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
+        }}
+      >
+        {theme === "light" ? "🌙 Dark" : "☀️ Light"}
+      </button>
+
+      <button
+        onClick={() => setShowLinks((v) => !v)}
+        className={theme === "light" ? "theme-light" : "theme-dark"}
+        style={{
+          position: "absolute",
+          top: 20,
+          right: 180,
+          zIndex: 1000,
+          padding: "10px 20px",
           fontSize: 16,
           fontWeight: 700,
           background: "#fff",
-          border: "2px solid #333",
+          border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
           borderRadius: 6,
           cursor: "pointer",
         }}
@@ -401,14 +427,20 @@ export default function MainGraph({ onSubtopicClick }: Props) {
 
       {hoveredNode && (
         <div
+          className={
+            theme === "light"
+              ? "theme-light "
+              : "theme-dark "
+          }
           style={{
+            
             position: "absolute",
             left: mousePosition.x + 10,
             top: mousePosition.y + 10,
             zIndex: 1000,
             padding: "10px 14px",
             fontSize: 14,
-            border: "2px solid #333",
+            border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
             borderRadius: 6,
             background: "#fff",
             pointerEvents: "none",
