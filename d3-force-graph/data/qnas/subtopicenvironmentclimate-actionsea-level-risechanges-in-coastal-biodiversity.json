@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity",
+      "label": "Changes in coastal biodiversity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Changes in coastal biodiversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Changes in coastal biodiversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Changes in coastal biodiversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Changes in coastal biodiversity_qna_002",
+      "value": 1
+    }
+  ]
+}

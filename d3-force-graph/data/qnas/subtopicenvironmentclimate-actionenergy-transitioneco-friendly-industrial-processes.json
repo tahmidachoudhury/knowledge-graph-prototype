@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes",
+      "label": "Eco-friendly industrial processes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Eco-friendly industrial processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Eco-friendly industrial processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_001",
+      "value": 1
+    }
+  ]
+}

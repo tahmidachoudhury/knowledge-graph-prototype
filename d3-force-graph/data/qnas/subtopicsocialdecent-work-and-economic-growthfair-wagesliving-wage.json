@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Fair wages|Living wage",
+      "label": "Living wage",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Fair wages"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Fair wages|Living wage_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Fair wages",
+      "subtopic": "Living wage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Fair wages|Living wage",
+      "target": "Subtopic:Social|Decent work and economic growth|Fair wages|Living wage_qna_000",
+      "value": 1
+    }
+  ]
+}

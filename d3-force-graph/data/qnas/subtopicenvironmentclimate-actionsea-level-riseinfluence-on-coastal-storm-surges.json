@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges",
+      "label": "Influence on coastal storm surges",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Influence on coastal storm surges",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Influence on coastal storm surges",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges_qna_001",
+      "value": 1
+    }
+  ]
+}

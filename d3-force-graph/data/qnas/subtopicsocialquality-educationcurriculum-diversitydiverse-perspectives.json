@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives",
+      "label": "Diverse perspectives",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Diverse perspectives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Diverse perspectives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives_qna_001",
+      "value": 1
+    }
+  ]
+}

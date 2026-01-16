@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste education",
+      "label": "Plastic waste education",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste education_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "subtopic": "Plastic waste education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste education",
+      "target": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste education_qna_000",
+      "value": 1
+    }
+  ]
+}

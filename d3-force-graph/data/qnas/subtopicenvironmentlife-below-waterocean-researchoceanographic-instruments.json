@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanographic instruments",
+      "label": "Oceanographic instruments",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanographic instruments_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Oceanographic instruments",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Oceanographic instruments",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Oceanographic instruments_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine gearboxes",
+      "label": "Wind turbine gearboxes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine gearboxes_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine gearboxes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine gearboxes",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine gearboxes_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Stem curriculum integration",
+      "label": "Stem curriculum integration",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Stem curriculum integration_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "subtopic": "Stem curriculum integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Stem education|Stem curriculum integration",
+      "target": "Subtopic:Social|Quality education|Stem education|Stem curriculum integration_qna_000",
+      "value": 1
+    }
+  ]
+}

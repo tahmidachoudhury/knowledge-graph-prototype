@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Cloud-based water data platforms",
+      "label": "Cloud-based water data platforms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Cloud-based water data platforms_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Cloud-based water data platforms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Cloud-based water data platforms",
+      "target": "Subtopic:Environment|Smart cities|Water management|Cloud-based water data platforms_qna_000",
+      "value": 1
+    }
+  ]
+}

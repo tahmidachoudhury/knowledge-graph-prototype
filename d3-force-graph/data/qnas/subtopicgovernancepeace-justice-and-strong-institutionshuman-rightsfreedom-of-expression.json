@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Human rights|Freedom of expression",
+      "label": "Freedom of expression",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Human rights"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Human rights|Freedom of expression_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Human rights",
+      "subtopic": "Freedom of expression",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Human rights|Freedom of expression",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Human rights|Freedom of expression_qna_000",
+      "value": 1
+    }
+  ]
+}

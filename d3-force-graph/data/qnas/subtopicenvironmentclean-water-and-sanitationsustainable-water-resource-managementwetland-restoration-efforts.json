@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Wetland restoration efforts",
+      "label": "Wetland restoration efforts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Wetland restoration efforts_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Wetland restoration efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Wetland restoration efforts",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Wetland restoration efforts_qna_000",
+      "value": 1
+    }
+  ]
+}

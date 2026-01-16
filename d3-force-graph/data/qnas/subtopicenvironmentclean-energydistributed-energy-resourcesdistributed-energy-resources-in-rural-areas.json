@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Distributed energy resources in rural areas",
+      "label": "Distributed energy resources in rural areas",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Distributed energy resources in rural areas_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Distributed energy resources in rural areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Distributed energy resources in rural areas",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Distributed energy resources in rural areas_qna_000",
+      "value": 1
+    }
+  ]
+}

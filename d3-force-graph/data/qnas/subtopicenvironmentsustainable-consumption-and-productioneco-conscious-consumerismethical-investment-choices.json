@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Ethical investment choices",
+      "label": "Ethical investment choices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Ethical investment choices_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "subtopic": "Ethical investment choices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Ethical investment choices",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Ethical investment choices_qna_000",
+      "value": 1
+    }
+  ]
+}

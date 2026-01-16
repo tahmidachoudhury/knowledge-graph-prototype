@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Track ii diplomacy",
+      "label": "Track ii diplomacy",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Track ii diplomacy_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution",
+      "subtopic": "Track ii diplomacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Track ii diplomacy",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Track ii diplomacy_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture",
+      "label": "Carbon offsets in sustainable agriculture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Carbon offsets in sustainable agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Carbon offsets in sustainable agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation",
+      "label": "Indigenous knowledge in adaptation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Indigenous knowledge in adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Indigenous knowledge in adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Indigenous knowledge in adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_002",
+      "value": 1
+    }
+  ]
+}

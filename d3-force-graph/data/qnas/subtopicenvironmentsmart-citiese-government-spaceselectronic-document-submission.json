@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Electronic document submission",
+      "label": "Electronic document submission",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Electronic document submission_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Electronic document submission",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Electronic document submission",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Electronic document submission_qna_000",
+      "value": 1
+    }
+  ]
+}

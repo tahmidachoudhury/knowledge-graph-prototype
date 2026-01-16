@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Access to justice|Courtroom interpreters",
+      "label": "Courtroom interpreters",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Access to justice"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Access to justice|Courtroom interpreters_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Access to justice",
+      "subtopic": "Courtroom interpreters",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Access to justice|Courtroom interpreters",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Access to justice|Courtroom interpreters_qna_000",
+      "value": 1
+    }
+  ]
+}

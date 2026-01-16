@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Family planning|Natural family planning methods",
+      "label": "Natural family planning methods",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Family planning"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Family planning|Natural family planning methods_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Family planning",
+      "subtopic": "Natural family planning methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Family planning|Natural family planning methods",
+      "target": "Subtopic:Social|Gender equity|Family planning|Natural family planning methods_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation",
+      "label": "Recovery and rehabilitation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Recovery and rehabilitation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Recovery and rehabilitation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation_qna_001",
+      "value": 1
+    }
+  ]
+}

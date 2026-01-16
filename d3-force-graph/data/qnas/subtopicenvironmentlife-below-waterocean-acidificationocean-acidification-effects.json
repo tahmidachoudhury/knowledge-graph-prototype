@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects",
+      "label": "Ocean acidification effects",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Ocean acidification effects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Ocean acidification effects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects_qna_001",
+      "value": 1
+    }
+  ]
+}

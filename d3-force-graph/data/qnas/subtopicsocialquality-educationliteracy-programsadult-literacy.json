@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Literacy programs|Adult literacy",
+      "label": "Adult literacy",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Literacy programs"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Literacy programs|Adult literacy_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Literacy programs",
+      "subtopic": "Adult literacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Literacy programs|Adult literacy",
+      "target": "Subtopic:Social|Quality education|Literacy programs|Adult literacy_qna_000",
+      "value": 1
+    }
+  ]
+}

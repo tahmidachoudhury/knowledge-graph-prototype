@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production",
+      "label": "Nutrition-sensitive food production",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "subtopic": "Nutrition-sensitive food production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "subtopic": "Nutrition-sensitive food production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production",
+      "target": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production",
+      "target": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production_qna_001",
+      "value": 1
+    }
+  ]
+}

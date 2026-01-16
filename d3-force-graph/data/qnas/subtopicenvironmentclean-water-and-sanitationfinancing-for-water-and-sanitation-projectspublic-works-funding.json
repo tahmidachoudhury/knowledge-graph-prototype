@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Public works funding",
+      "label": "Public works funding",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Financing for water and sanitation projects"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Public works funding_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Financing for water and sanitation projects",
+      "subtopic": "Public works funding",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Public works funding",
+      "target": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Public works funding_qna_000",
+      "value": 1
+    }
+  ]
+}

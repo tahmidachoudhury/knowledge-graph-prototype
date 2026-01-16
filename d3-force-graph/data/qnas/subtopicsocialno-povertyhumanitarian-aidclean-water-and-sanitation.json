@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Humanitarian aid|Clean water and sanitation",
+      "label": "Clean water and sanitation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Humanitarian aid"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Humanitarian aid|Clean water and sanitation_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Humanitarian aid",
+      "subtopic": "Clean water and sanitation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Humanitarian aid|Clean water and sanitation",
+      "target": "Subtopic:Social|No poverty|Humanitarian aid|Clean water and sanitation_qna_000",
+      "value": 1
+    }
+  ]
+}

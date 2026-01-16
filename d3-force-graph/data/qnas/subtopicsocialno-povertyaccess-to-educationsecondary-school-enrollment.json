@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Secondary school enrollment",
+      "label": "Secondary school enrollment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Secondary school enrollment_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education",
+      "subtopic": "Secondary school enrollment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Access to education|Secondary school enrollment",
+      "target": "Subtopic:Social|No poverty|Access to education|Secondary school enrollment_qna_000",
+      "value": 1
+    }
+  ]
+}

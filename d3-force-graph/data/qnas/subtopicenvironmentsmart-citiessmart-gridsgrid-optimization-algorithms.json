@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Grid optimization algorithms",
+      "label": "Grid optimization algorithms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Grid optimization algorithms_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Grid optimization algorithms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Grid optimization algorithms",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Grid optimization algorithms_qna_000",
+      "value": 1
+    }
+  ]
+}

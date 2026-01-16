@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities",
+      "label": "Incentives for clean energy adoption in cities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Incentives for clean energy adoption in cities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Incentives for clean energy adoption in cities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Incentives for clean energy adoption in cities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_002",
+      "value": 1
+    }
+  ]
+}

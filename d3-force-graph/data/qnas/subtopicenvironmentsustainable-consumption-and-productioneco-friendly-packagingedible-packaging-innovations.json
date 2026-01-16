@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations",
+      "label": "Edible packaging innovations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Edible packaging innovations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Edible packaging innovations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations_qna_001",
+      "value": 1
+    }
+  ]
+}

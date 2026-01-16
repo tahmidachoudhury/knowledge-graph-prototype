@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Closed-cycle otec systems",
+      "label": "Closed-cycle otec systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Closed-cycle otec systems_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Closed-cycle otec systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Closed-cycle otec systems",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Closed-cycle otec systems_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices",
+      "label": "Green procurement practices",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "subtopic": "Green procurement practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "subtopic": "Green procurement practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices",
+      "target": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices",
+      "target": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Vocational training|Employability skills",
+      "label": "Employability skills",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Vocational training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Vocational training|Employability skills_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Vocational training",
+      "subtopic": "Employability skills",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Vocational training|Employability skills",
+      "target": "Subtopic:Social|Quality education|Vocational training|Employability skills_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Non-farm employment opportunities",
+      "label": "Non-farm employment opportunities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Non-farm employment opportunities_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Non-farm employment opportunities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Non-farm employment opportunities",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Non-farm employment opportunities_qna_000",
+      "value": 1
+    }
+  ]
+}

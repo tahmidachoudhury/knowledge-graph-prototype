@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Industrial IoT (iIoT) for smart manufacturing",
+      "label": "Industrial IoT (iIoT) for smart manufacturing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Industrial IoT (iIoT) for smart manufacturing_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "subtopic": "Industrial IoT (iIoT) for smart manufacturing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|IoT in cities|Industrial IoT (iIoT) for smart manufacturing",
+      "target": "Subtopic:Environment|Smart cities|IoT in cities|Industrial IoT (iIoT) for smart manufacturing_qna_000",
+      "value": 1
+    }
+  ]
+}

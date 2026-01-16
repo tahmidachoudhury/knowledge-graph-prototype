@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Prosperity equity",
+      "label": "Prosperity equity",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Prosperity equity_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "subtopic": "Prosperity equity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Prosperity equity",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Prosperity equity_qna_000",
+      "value": 1
+    }
+  ]
+}

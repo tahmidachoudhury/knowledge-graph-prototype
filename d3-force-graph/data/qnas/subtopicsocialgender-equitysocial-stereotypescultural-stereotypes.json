@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Social stereotypes|Cultural stereotypes",
+      "label": "Cultural stereotypes",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Social stereotypes"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Social stereotypes|Cultural stereotypes_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Social stereotypes",
+      "subtopic": "Cultural stereotypes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Social stereotypes|Cultural stereotypes",
+      "target": "Subtopic:Social|Gender equity|Social stereotypes|Cultural stereotypes_qna_000",
+      "value": 1
+    }
+  ]
+}

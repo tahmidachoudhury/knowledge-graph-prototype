@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Seaweed farming",
+      "label": "Seaweed farming",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Seaweed farming_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Seaweed farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Seaweed farming_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Seaweed farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Seaweed farming",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Seaweed farming_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Seaweed farming",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Seaweed farming_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Peacebuilding efforts|Peacebuilding workshops",
+      "label": "Peacebuilding workshops",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Peacebuilding efforts"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Peacebuilding efforts|Peacebuilding workshops_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Peacebuilding efforts",
+      "subtopic": "Peacebuilding workshops",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Peacebuilding efforts|Peacebuilding workshops",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Peacebuilding efforts|Peacebuilding workshops_qna_000",
+      "value": 1
+    }
+  ]
+}

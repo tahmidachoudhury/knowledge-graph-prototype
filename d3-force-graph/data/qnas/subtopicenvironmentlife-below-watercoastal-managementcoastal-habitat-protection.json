@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal habitat protection",
+      "label": "Coastal habitat protection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal habitat protection_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "subtopic": "Coastal habitat protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal management|Coastal habitat protection",
+      "target": "Subtopic:Environment|Life below water|Coastal management|Coastal habitat protection_qna_000",
+      "value": 1
+    }
+  ]
+}

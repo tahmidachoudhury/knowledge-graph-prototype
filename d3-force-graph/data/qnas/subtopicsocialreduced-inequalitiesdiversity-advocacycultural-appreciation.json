@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Diversity advocacy|Cultural appreciation",
+      "label": "Cultural appreciation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Diversity advocacy"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Diversity advocacy|Cultural appreciation_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Diversity advocacy",
+      "subtopic": "Cultural appreciation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Diversity advocacy|Cultural appreciation",
+      "target": "Subtopic:Social|Reduced inequalities|Diversity advocacy|Cultural appreciation_qna_000",
+      "value": 1
+    }
+  ]
+}

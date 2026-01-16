@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Local fish campaigns",
+      "label": "Local fish campaigns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Local fish campaigns_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "subtopic": "Local fish campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Seafood promotion|Local fish campaigns",
+      "target": "Subtopic:Environment|Life below water|Seafood promotion|Local fish campaigns_qna_000",
+      "value": 1
+    }
+  ]
+}

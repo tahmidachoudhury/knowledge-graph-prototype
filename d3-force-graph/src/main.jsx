@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./style.css";
 import { ThemeProvider } from "./ThemeContext";
-import D3KnowledgeGraph from "./TreeKnowledgeGraph";
+import D3KnowledgeGraph from "./components/TreeKnowledgeGraph";
 
 export default function Home() {
   return (

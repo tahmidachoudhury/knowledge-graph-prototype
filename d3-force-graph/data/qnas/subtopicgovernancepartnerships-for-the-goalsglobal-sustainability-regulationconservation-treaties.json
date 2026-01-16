@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties",
+      "label": "Conservation treaties",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation"
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "subtopic": "Conservation treaties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "subtopic": "Conservation treaties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties_qna_001",
+      "value": 1
+    }
+  ]
+}

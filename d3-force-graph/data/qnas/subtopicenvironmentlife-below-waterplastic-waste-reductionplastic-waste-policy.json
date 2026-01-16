@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste policy",
+      "label": "Plastic waste policy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste policy_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "subtopic": "Plastic waste policy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste policy_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "subtopic": "Plastic waste policy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste policy",
+      "target": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste policy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste policy",
+      "target": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste policy_qna_001",
+      "value": 1
+    }
+  ]
+}

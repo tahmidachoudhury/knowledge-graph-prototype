@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Vocational training",
+      "label": "Vocational training",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Vocational training_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning",
+      "subtopic": "Vocational training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Lifelong learning|Vocational training",
+      "target": "Subtopic:Social|Quality education|Lifelong learning|Vocational training_qna_000",
+      "value": 1
+    }
+  ]
+}

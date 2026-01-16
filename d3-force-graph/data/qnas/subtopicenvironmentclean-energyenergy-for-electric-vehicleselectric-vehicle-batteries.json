@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Electric vehicle batteries",
+      "label": "Electric vehicle batteries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Electric vehicle batteries_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "subtopic": "Electric vehicle batteries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Electric vehicle batteries",
+      "target": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Electric vehicle batteries_qna_000",
+      "value": 1
+    }
+  ]
+}

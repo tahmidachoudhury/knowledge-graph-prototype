@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural tourism",
+      "label": "Rural tourism",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Rural tourism",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Rural tourism",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Rural tourism",
+      "target": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Rural tourism",
+      "target": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Community solar projects|Technological advances in community solar",
+      "label": "Technological advances in community solar",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Community solar projects"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Community solar projects|Technological advances in community solar_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Community solar projects",
+      "subtopic": "Technological advances in community solar",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Community solar projects|Technological advances in community solar",
+      "target": "Subtopic:Environment|Clean energy|Community solar projects|Technological advances in community solar_qna_000",
+      "value": 1
+    }
+  ]
+}

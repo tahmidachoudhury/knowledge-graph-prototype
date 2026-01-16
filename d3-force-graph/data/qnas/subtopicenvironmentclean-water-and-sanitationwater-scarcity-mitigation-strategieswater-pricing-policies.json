@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies",
+      "label": "Water pricing policies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "subtopic": "Water pricing policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "subtopic": "Water pricing policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects",
+      "label": "Diet effects",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Diet effects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Diet effects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_001",
+      "value": 1
+    }
+  ]
+}

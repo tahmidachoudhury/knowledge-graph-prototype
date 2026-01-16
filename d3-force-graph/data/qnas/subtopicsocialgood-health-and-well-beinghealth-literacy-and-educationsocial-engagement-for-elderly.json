@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health literacy and education|Social engagement for elderly",
+      "label": "Social engagement for elderly",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health literacy and education"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health literacy and education|Social engagement for elderly_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health literacy and education",
+      "subtopic": "Social engagement for elderly",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health literacy and education|Social engagement for elderly",
+      "target": "Subtopic:Social|Good health and well-being|Health literacy and education|Social engagement for elderly_qna_000",
+      "value": 1
+    }
+  ]
+}

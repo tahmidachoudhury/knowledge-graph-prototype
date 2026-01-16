@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Affordable housing|Land-use regulations",
+      "label": "Land-use regulations",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Affordable housing"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Affordable housing|Land-use regulations_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Affordable housing",
+      "subtopic": "Land-use regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Affordable housing|Land-use regulations",
+      "target": "Subtopic:Social|No poverty|Affordable housing|Land-use regulations_qna_000",
+      "value": 1
+    }
+  ]
+}

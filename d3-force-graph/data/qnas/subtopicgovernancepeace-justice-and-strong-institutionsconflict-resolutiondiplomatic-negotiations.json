@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Diplomatic negotiations",
+      "label": "Diplomatic negotiations",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Diplomatic negotiations_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution",
+      "subtopic": "Diplomatic negotiations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Diplomatic negotiations_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution",
+      "subtopic": "Diplomatic negotiations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Diplomatic negotiations",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Diplomatic negotiations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Diplomatic negotiations",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Diplomatic negotiations_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Fair representation|Gender balance",
+      "label": "Gender balance",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Fair representation"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Fair representation|Gender balance_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Fair representation",
+      "subtopic": "Gender balance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Fair representation|Gender balance",
+      "target": "Subtopic:Social|Reduced inequalities|Fair representation|Gender balance_qna_000",
+      "value": 1
+    }
+  ]
+}

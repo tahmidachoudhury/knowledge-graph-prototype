@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Education for all|Holistic education",
+      "label": "Holistic education",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Education for all"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Education for all|Holistic education_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Education for all",
+      "subtopic": "Holistic education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Education for all|Holistic education_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Education for all",
+      "subtopic": "Holistic education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Education for all|Holistic education",
+      "target": "Subtopic:Social|Quality education|Education for all|Holistic education_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Education for all|Holistic education",
+      "target": "Subtopic:Social|Quality education|Education for all|Holistic education_qna_001",
+      "value": 1
+    }
+  ]
+}

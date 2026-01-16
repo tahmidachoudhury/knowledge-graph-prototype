@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|School infrastructure|Laboratory facilities",
+      "label": "Laboratory facilities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "School infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|School infrastructure|Laboratory facilities_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "School infrastructure",
+      "subtopic": "Laboratory facilities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|School infrastructure|Laboratory facilities",
+      "target": "Subtopic:Social|Quality education|School infrastructure|Laboratory facilities_qna_000",
+      "value": 1
+    }
+  ]
+}

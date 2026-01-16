@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Digital literacy skills",
+      "label": "Digital literacy skills",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Digital literacy skills_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "subtopic": "Digital literacy skills",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Stem education|Digital literacy skills",
+      "target": "Subtopic:Social|Quality education|Stem education|Digital literacy skills_qna_000",
+      "value": 1
+    }
+  ]
+}

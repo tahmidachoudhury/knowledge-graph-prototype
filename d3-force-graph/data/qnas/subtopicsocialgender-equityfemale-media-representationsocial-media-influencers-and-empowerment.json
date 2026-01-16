@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Female media representation|Social media influencers and empowerment",
+      "label": "Social media influencers and empowerment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female media representation"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female media representation|Social media influencers and empowerment_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female media representation",
+      "subtopic": "Social media influencers and empowerment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Female media representation|Social media influencers and empowerment",
+      "target": "Subtopic:Social|Gender equity|Female media representation|Social media influencers and empowerment_qna_000",
+      "value": 1
+    }
+  ]
+}

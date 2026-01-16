@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Community water management|Water user associations",
+      "label": "Water user associations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Community water management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Community water management|Water user associations_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Community water management",
+      "subtopic": "Water user associations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Community water management|Water user associations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Community water management|Water user associations_qna_000",
+      "value": 1
+    }
+  ]
+}

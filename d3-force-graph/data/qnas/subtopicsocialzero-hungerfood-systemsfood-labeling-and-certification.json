@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Food labeling and certification",
+      "label": "Food labeling and certification",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Food labeling and certification_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "subtopic": "Food labeling and certification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food systems|Food labeling and certification",
+      "target": "Subtopic:Social|Zero hunger|Food systems|Food labeling and certification_qna_000",
+      "value": 1
+    }
+  ]
+}

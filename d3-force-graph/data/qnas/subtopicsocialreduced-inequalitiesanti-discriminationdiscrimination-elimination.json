@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination elimination",
+      "label": "Discrimination elimination",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Anti-discrimination"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination elimination_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Anti-discrimination",
+      "subtopic": "Discrimination elimination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination elimination",
+      "target": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination elimination_qna_000",
+      "value": 1
+    }
+  ]
+}

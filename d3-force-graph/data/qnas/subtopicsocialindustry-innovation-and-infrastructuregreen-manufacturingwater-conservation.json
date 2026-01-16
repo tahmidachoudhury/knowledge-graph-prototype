@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation",
+      "label": "Water conservation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Water conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Water conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Water conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Psychotherapy methods",
+      "label": "Psychotherapy methods",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Psychotherapy methods_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing",
+      "subtopic": "Psychotherapy methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Psychotherapy methods",
+      "target": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Psychotherapy methods_qna_000",
+      "value": 1
+    }
+  ]
+}

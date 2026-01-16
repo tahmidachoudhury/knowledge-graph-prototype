@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices",
+      "label": "Soil carbon sequestration practices",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "subtopic": "Soil carbon sequestration practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "subtopic": "Soil carbon sequestration practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices",
+      "target": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices",
+      "target": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_001",
+      "value": 1
+    }
+  ]
+}

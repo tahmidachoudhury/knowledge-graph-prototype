@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Environmental sanitation promotion",
+      "label": "Environmental sanitation promotion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Environmental sanitation promotion_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "subtopic": "Environmental sanitation promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Environmental sanitation promotion",
+      "target": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Environmental sanitation promotion_qna_000",
+      "value": 1
+    }
+  ]
+}

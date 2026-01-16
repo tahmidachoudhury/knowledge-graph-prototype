@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Responsive governance structures",
+      "label": "Responsive governance structures",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Responsive governance structures_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "subtopic": "Responsive governance structures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Responsive governance structures_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "subtopic": "Responsive governance structures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Responsive governance structures",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Responsive governance structures_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Responsive governance structures",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Responsive governance structures_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Closed-loop aquaculture",
+      "label": "Closed-loop aquaculture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Closed-loop aquaculture_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Closed-loop aquaculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Closed-loop aquaculture",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Closed-loop aquaculture_qna_000",
+      "value": 1
+    }
+  ]
+}

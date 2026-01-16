@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Recycling and end-of-life management of evs",
+      "label": "Recycling and end-of-life management of evs",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Recycling and end-of-life management of evs_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "subtopic": "Recycling and end-of-life management of evs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Recycling and end-of-life management of evs",
+      "target": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Recycling and end-of-life management of evs_qna_000",
+      "value": 1
+    }
+  ]
+}

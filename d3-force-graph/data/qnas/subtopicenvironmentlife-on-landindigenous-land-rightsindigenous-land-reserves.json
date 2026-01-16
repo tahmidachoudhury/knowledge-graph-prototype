@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves",
+      "label": "Indigenous land reserves",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "subtopic": "Indigenous land reserves",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "subtopic": "Indigenous land reserves",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves",
+      "target": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves",
+      "target": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Child nutrition",
+      "label": "Child nutrition",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Child nutrition_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Child nutrition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Child nutrition",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Child nutrition_qna_000",
+      "value": 1
+    }
+  ]
+}

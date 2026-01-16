@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Remanufacturing and refurbishment",
+      "label": "Remanufacturing and refurbishment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Remanufacturing and refurbishment_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Remanufacturing and refurbishment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Remanufacturing and refurbishment",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Remanufacturing and refurbishment_qna_000",
+      "value": 1
+    }
+  ]
+}

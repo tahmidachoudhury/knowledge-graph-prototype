@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Citizen engagement platforms",
+      "label": "Citizen engagement platforms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Citizen engagement platforms_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Citizen engagement platforms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Citizen engagement platforms",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Citizen engagement platforms_qna_000",
+      "value": 1
+    }
+  ]
+}

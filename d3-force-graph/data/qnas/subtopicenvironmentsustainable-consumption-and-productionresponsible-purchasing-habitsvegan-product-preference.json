@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Vegan product preference",
+      "label": "Vegan product preference",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Vegan product preference_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Responsible purchasing habits",
+      "subtopic": "Vegan product preference",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Vegan product preference",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Responsible purchasing habits|Vegan product preference_qna_000",
+      "value": 1
+    }
+  ]
+}

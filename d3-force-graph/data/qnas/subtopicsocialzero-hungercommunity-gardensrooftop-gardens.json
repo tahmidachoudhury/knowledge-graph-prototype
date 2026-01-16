@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens",
+      "label": "Rooftop gardens",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens",
+      "subtopic": "Rooftop gardens",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens",
+      "subtopic": "Rooftop gardens",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens",
+      "subtopic": "Rooftop gardens",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens",
+      "target": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens",
+      "target": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens",
+      "target": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Integration with urban planning for parking optimization",
+      "label": "Integration with urban planning for parking optimization",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Integration with urban planning for parking optimization_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "Integration with urban planning for parking optimization",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|Integration with urban planning for parking optimization",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|Integration with urban planning for parking optimization_qna_000",
+      "value": 1
+    }
+  ]
+}

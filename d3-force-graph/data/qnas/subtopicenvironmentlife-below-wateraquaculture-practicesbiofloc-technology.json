@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Biofloc technology",
+      "label": "Biofloc technology",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Biofloc technology_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Biofloc technology",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Biofloc technology",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Biofloc technology_qna_000",
+      "value": 1
+    }
+  ]
+}

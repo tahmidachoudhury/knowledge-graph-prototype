@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Repairable product design",
+      "label": "Repairable product design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Repairable product design_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Repairable product design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Repairable product design_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Repairable product design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Repairable product design",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Repairable product design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Repairable product design",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Repairable product design_qna_001",
+      "value": 1
+    }
+  ]
+}

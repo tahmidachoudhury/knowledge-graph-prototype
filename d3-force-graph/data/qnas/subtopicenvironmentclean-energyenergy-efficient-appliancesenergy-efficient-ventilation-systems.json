@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems",
+      "label": "Energy-efficient ventilation systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Energy-efficient ventilation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Energy-efficient ventilation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_001",
+      "value": 1
+    }
+  ]
+}

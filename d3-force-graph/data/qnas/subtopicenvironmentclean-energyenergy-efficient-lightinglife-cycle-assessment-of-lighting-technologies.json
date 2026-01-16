@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Life-cycle assessment of lighting technologies",
+      "label": "Life-cycle assessment of lighting technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Life-cycle assessment of lighting technologies_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "subtopic": "Life-cycle assessment of lighting technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy efficient lighting|Life-cycle assessment of lighting technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy efficient lighting|Life-cycle assessment of lighting technologies_qna_000",
+      "value": 1
+    }
+  ]
+}

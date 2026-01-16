@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Participatory plant breeding",
+      "label": "Participatory plant breeding",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Participatory plant breeding_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Participatory plant breeding",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Participatory plant breeding",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Participatory plant breeding_qna_000",
+      "value": 1
+    }
+  ]
+}

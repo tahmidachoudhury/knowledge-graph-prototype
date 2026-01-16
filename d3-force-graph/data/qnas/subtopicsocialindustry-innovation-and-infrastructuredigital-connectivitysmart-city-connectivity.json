@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity",
+      "label": "Smart city connectivity",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Smart city connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Smart city connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Smart city connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_002",
+      "value": 1
+    }
+  ]
+}

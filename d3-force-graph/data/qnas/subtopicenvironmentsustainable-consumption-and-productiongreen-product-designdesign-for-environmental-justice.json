@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Design for environmental justice",
+      "label": "Design for environmental justice",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Design for environmental justice_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Design for environmental justice",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Design for environmental justice",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Design for environmental justice_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Student well-being|Positive school climate",
+      "label": "Positive school climate",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Student well-being"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Student well-being|Positive school climate_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Student well-being",
+      "subtopic": "Positive school climate",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Student well-being|Positive school climate",
+      "target": "Subtopic:Social|Quality education|Student well-being|Positive school climate_qna_000",
+      "value": 1
+    }
+  ]
+}

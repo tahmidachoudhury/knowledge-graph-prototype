@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Mindful eating habits",
+      "label": "Mindful eating habits",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Mindful eating habits_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "subtopic": "Mindful eating habits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Mindful eating habits",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Mindful eating habits_qna_000",
+      "value": 1
+    }
+  ]
+}

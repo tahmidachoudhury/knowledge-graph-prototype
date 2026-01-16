@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Academic rigor",
+      "label": "Academic rigor",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Academic rigor_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education",
+      "subtopic": "Academic rigor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Quality education|Academic rigor",
+      "target": "Subtopic:Social|Quality education|Quality education|Academic rigor_qna_000",
+      "value": 1
+    }
+  ]
+}

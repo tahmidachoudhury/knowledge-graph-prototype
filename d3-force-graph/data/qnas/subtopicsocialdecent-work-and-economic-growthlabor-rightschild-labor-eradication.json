@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Labor rights|Child labor eradication",
+      "label": "Child labor eradication",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Labor rights"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Labor rights|Child labor eradication_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Labor rights",
+      "subtopic": "Child labor eradication",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Labor rights|Child labor eradication",
+      "target": "Subtopic:Social|Decent work and economic growth|Labor rights|Child labor eradication_qna_000",
+      "value": 1
+    }
+  ]
+}

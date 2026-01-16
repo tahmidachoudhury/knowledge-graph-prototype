@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid communication technologies",
+      "label": "Smart grid communication technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid communication technologies_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies",
+      "subtopic": "Smart grid communication technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid communication technologies",
+      "target": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid communication technologies_qna_000",
+      "value": 1
+    }
+  ]
+}

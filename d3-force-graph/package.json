@@ -4,14 +4,19 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "generate:main": "tsx scripts/generateMainGraph.ts",
+    "generate:qnas": "tsx scripts/generateSubtopicQnas.ts",
+    "generate:all": "npm run generate:main && npm run generate:qnas",
     "dev": "vite",
-    "build": "vite build",
+    "build": "tsc && vite build",
+    "prebuild": "npm run generate:all",
     "preview": "vite preview"
   },
   "devDependencies": {
     "@types/react": "^19.2.5",
     "@types/react-dom": "^19.2.3",
     "@types/stats.js": "^0.17.4",
+    "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "vite": "^7.1.7"
   },

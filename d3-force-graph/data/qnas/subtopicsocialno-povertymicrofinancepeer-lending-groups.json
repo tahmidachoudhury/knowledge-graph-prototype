@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Peer lending groups",
+      "label": "Peer lending groups",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Peer lending groups",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Peer lending groups",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Peer lending groups",
+      "target": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Peer lending groups",
+      "target": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_001",
+      "value": 1
+    }
+  ]
+}

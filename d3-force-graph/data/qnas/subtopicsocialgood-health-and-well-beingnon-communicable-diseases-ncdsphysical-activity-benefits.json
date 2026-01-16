@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Physical activity benefits",
+      "label": "Physical activity benefits",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Physical activity benefits_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "subtopic": "Physical activity benefits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Physical activity benefits",
+      "target": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Physical activity benefits_qna_000",
+      "value": 1
+    }
+  ]
+}

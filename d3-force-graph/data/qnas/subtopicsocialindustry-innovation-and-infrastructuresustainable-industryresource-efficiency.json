@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency",
+      "label": "Resource efficiency",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Resource efficiency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Resource efficiency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency_qna_001",
+      "value": 1
+    }
+  ]
+}

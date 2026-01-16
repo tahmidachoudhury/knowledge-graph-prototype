@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Smart street lighting for safety",
+      "label": "Smart street lighting for safety",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Smart street lighting for safety_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Smart street lighting for safety",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Smart street lighting for safety",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Smart street lighting for safety_qna_000",
+      "value": 1
+    }
+  ]
+}

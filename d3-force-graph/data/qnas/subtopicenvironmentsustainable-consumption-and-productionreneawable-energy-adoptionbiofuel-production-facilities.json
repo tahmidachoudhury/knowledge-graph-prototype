@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biofuel production facilities",
+      "label": "Biofuel production facilities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biofuel production facilities_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Biofuel production facilities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biofuel production facilities",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biofuel production facilities_qna_000",
+      "value": 1
+    }
+  ]
+}

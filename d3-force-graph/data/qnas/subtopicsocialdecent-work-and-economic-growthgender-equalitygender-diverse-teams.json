@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Gender equality|Gender-diverse teams",
+      "label": "Gender-diverse teams",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Gender equality"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Gender equality|Gender-diverse teams_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Gender equality",
+      "subtopic": "Gender-diverse teams",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Gender equality|Gender-diverse teams",
+      "target": "Subtopic:Social|Decent work and economic growth|Gender equality|Gender-diverse teams_qna_000",
+      "value": 1
+    }
+  ]
+}

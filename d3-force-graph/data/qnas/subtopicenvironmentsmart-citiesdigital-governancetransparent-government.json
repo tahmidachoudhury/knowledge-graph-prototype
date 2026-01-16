@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Transparent government",
+      "label": "Transparent government",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Transparent government_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "subtopic": "Transparent government",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Digital governance|Transparent government",
+      "target": "Subtopic:Environment|Smart cities|Digital governance|Transparent government_qna_000",
+      "value": 1
+    }
+  ]
+}

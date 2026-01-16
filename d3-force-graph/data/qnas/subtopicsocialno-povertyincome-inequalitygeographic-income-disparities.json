@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "label": "Geographic income disparities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Geographic income disparities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Geographic income disparities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Geographic income disparities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "target": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "target": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "target": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_002",
+      "value": 1
+    }
+  ]
+}

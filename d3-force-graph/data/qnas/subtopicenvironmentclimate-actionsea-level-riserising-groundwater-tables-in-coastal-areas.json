@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas",
+      "label": "Rising groundwater tables in coastal areas",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Rising groundwater tables in coastal areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Rising groundwater tables in coastal areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_001",
+      "value": 1
+    }
+  ]
+}

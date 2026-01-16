@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Child marriage|Socio-economic factors",
+      "label": "Socio-economic factors",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Child marriage"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Child marriage|Socio-economic factors_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Child marriage",
+      "subtopic": "Socio-economic factors",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Child marriage|Socio-economic factors",
+      "target": "Subtopic:Social|Gender equity|Child marriage|Socio-economic factors_qna_000",
+      "value": 1
+    }
+  ]
+}

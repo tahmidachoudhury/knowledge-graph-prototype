@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Savings schemes",
+      "label": "Savings schemes",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Savings schemes_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "subtopic": "Savings schemes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Savings schemes",
+      "target": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Savings schemes_qna_000",
+      "value": 1
+    }
+  ]
+}

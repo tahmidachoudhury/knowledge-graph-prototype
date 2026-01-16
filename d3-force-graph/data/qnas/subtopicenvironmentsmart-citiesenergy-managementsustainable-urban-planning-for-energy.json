@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Sustainable urban planning for energy",
+      "label": "Sustainable urban planning for energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Sustainable urban planning for energy_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Sustainable urban planning for energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Sustainable urban planning for energy",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Sustainable urban planning for energy_qna_000",
+      "value": 1
+    }
+  ]
+}

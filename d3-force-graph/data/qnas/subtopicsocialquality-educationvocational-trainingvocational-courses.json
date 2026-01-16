@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Vocational training|Vocational courses",
+      "label": "Vocational courses",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Vocational training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Vocational training|Vocational courses_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Vocational training",
+      "subtopic": "Vocational courses",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Vocational training|Vocational courses",
+      "target": "Subtopic:Social|Quality education|Vocational training|Vocational courses_qna_000",
+      "value": 1
+    }
+  ]
+}

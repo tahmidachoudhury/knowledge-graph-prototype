@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Employment stability|Flexible work arrangements",
+      "label": "Flexible work arrangements",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Employment stability"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Employment stability|Flexible work arrangements_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Employment stability",
+      "subtopic": "Flexible work arrangements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Employment stability|Flexible work arrangements",
+      "target": "Subtopic:Social|Decent work and economic growth|Employment stability|Flexible work arrangements_qna_000",
+      "value": 1
+    }
+  ]
+}

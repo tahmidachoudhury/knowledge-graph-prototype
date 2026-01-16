@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Streamlined daily routines",
+      "label": "Streamlined daily routines",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Streamlined daily routines_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "subtopic": "Streamlined daily routines",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Streamlined daily routines",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Streamlined daily routines_qna_000",
+      "value": 1
+    }
+  ]
+}

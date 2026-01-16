@@ -1,0 +1,82 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)",
+      "label": "Building information modeling (bim)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Building information modeling (bim)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Building information modeling (bim)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Building information modeling (bim)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)_qna_003",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Building information modeling (bim)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Building information modeling (bim)_qna_003",
+      "value": 1
+    }
+  ]
+}

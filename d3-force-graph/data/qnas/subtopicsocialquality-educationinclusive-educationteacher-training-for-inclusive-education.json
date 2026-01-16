@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Inclusive education|Teacher training for inclusive education",
+      "label": "Teacher training for inclusive education",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Inclusive education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Inclusive education|Teacher training for inclusive education_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Inclusive education",
+      "subtopic": "Teacher training for inclusive education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Inclusive education|Teacher training for inclusive education",
+      "target": "Subtopic:Social|Quality education|Inclusive education|Teacher training for inclusive education_qna_000",
+      "value": 1
+    }
+  ]
+}

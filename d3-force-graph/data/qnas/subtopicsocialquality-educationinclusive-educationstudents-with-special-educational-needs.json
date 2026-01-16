@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Inclusive education|Students with special educational needs",
+      "label": "Students with special educational needs",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Inclusive education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Inclusive education|Students with special educational needs_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Inclusive education",
+      "subtopic": "Students with special educational needs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Inclusive education|Students with special educational needs",
+      "target": "Subtopic:Social|Quality education|Inclusive education|Students with special educational needs_qna_000",
+      "value": 1
+    }
+  ]
+}

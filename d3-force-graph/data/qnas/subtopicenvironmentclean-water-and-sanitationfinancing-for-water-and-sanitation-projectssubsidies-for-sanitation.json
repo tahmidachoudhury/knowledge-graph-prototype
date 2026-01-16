@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Subsidies for sanitation",
+      "label": "Subsidies for sanitation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Financing for water and sanitation projects"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Subsidies for sanitation_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Financing for water and sanitation projects",
+      "subtopic": "Subsidies for sanitation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Subsidies for sanitation",
+      "target": "Subtopic:Environment|Clean water and sanitation|Financing for water and sanitation projects|Subsidies for sanitation_qna_000",
+      "value": 1
+    }
+  ]
+}

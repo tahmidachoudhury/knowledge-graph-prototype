@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation",
+      "label": "Intelligent substation automation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Intelligent substation automation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Intelligent substation automation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation_qna_001",
+      "value": 1
+    }
+  ]
+}

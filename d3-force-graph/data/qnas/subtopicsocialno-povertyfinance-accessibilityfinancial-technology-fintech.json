@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Financial technology (fintech)",
+      "label": "Financial technology (fintech)",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Financial technology (fintech)_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "subtopic": "Financial technology (fintech)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Finance accessibility|Financial technology (fintech)",
+      "target": "Subtopic:Social|No poverty|Finance accessibility|Financial technology (fintech)_qna_000",
+      "value": 1
+    }
+  ]
+}

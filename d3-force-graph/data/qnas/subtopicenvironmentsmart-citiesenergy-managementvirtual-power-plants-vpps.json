@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)",
+      "label": "Virtual power plants (vpps)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Virtual power plants (vpps)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Virtual power plants (vpps)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)_qna_001",
+      "value": 1
+    }
+  ]
+}

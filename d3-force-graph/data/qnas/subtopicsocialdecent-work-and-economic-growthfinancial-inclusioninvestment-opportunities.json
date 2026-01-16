@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Investment opportunities",
+      "label": "Investment opportunities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Investment opportunities_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "subtopic": "Investment opportunities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Investment opportunities",
+      "target": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Investment opportunities_qna_000",
+      "value": 1
+    }
+  ]
+}

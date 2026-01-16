@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Vocational training|Skills development",
+      "label": "Skills development",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Vocational training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Vocational training|Skills development_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Vocational training",
+      "subtopic": "Skills development",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Vocational training|Skills development",
+      "target": "Subtopic:Social|Quality education|Vocational training|Skills development_qna_000",
+      "value": 1
+    }
+  ]
+}

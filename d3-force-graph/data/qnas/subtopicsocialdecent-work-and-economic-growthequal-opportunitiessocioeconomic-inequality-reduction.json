@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Equal opportunities|Socioeconomic inequality reduction",
+      "label": "Socioeconomic inequality reduction",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Equal opportunities"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Equal opportunities|Socioeconomic inequality reduction_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Equal opportunities",
+      "subtopic": "Socioeconomic inequality reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Equal opportunities|Socioeconomic inequality reduction",
+      "target": "Subtopic:Social|Decent work and economic growth|Equal opportunities|Socioeconomic inequality reduction_qna_000",
+      "value": 1
+    }
+  ]
+}

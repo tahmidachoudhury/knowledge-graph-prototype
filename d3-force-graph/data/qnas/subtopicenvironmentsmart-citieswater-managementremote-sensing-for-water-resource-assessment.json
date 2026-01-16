@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Remote sensing for water resource assessment",
+      "label": "Remote sensing for water resource assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Remote sensing for water resource assessment_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Remote sensing for water resource assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Remote sensing for water resource assessment",
+      "target": "Subtopic:Environment|Smart cities|Water management|Remote sensing for water resource assessment_qna_000",
+      "value": 1
+    }
+  ]
+}

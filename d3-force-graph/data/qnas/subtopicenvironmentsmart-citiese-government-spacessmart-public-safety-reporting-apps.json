@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps",
+      "label": "Smart public safety reporting apps",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Smart public safety reporting apps",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Smart public safety reporting apps",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps_qna_001",
+      "value": 1
+    }
+  ]
+}

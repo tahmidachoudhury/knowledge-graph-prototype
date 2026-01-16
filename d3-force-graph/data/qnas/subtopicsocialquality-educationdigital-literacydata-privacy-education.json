@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Data privacy education",
+      "label": "Data privacy education",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Data privacy education_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy",
+      "subtopic": "Data privacy education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Digital literacy|Data privacy education",
+      "target": "Subtopic:Social|Quality education|Digital literacy|Data privacy education_qna_000",
+      "value": 1
+    }
+  ]
+}

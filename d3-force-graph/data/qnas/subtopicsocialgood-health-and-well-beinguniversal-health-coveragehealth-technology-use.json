@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use",
+      "label": "Health technology use",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Universal health coverage"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Universal health coverage",
+      "subtopic": "Health technology use",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Universal health coverage",
+      "subtopic": "Health technology use",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use",
+      "target": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use",
+      "target": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use_qna_001",
+      "value": 1
+    }
+  ]
+}

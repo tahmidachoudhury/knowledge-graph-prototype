@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Community water management|Groundwater management by communities",
+      "label": "Groundwater management by communities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Community water management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Community water management|Groundwater management by communities_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Community water management",
+      "subtopic": "Groundwater management by communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Community water management|Groundwater management by communities",
+      "target": "Subtopic:Environment|Clean water and sanitation|Community water management|Groundwater management by communities_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Diversity integration",
+      "label": "Diversity integration",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Diversity integration_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "subtopic": "Diversity integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Diversity integration_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "subtopic": "Diversity integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive policies|Diversity integration",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive policies|Diversity integration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive policies|Diversity integration",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive policies|Diversity integration_qna_001",
+      "value": 1
+    }
+  ]
+}

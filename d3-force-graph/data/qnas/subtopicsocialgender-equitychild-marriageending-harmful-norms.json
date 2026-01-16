@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Child marriage|Ending harmful norms",
+      "label": "Ending harmful norms",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Child marriage"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Child marriage|Ending harmful norms_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Child marriage",
+      "subtopic": "Ending harmful norms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Child marriage|Ending harmful norms_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Child marriage",
+      "subtopic": "Ending harmful norms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Child marriage|Ending harmful norms",
+      "target": "Subtopic:Social|Gender equity|Child marriage|Ending harmful norms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Child marriage|Ending harmful norms",
+      "target": "Subtopic:Social|Gender equity|Child marriage|Ending harmful norms_qna_001",
+      "value": 1
+    }
+  ]
+}

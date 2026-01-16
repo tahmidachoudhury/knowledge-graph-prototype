@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Fortified food products",
+      "label": "Fortified food products",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Fortified food products_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake",
+      "subtopic": "Fortified food products",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Fortified food products_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake",
+      "subtopic": "Fortified food products",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Micronutrient intake|Fortified food products",
+      "target": "Subtopic:Social|Zero hunger|Micronutrient intake|Fortified food products_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Micronutrient intake|Fortified food products",
+      "target": "Subtopic:Social|Zero hunger|Micronutrient intake|Fortified food products_qna_001",
+      "value": 1
+    }
+  ]
+}

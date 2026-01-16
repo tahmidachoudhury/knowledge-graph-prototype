@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Fisheries certification",
+      "label": "Fisheries certification",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Fisheries certification_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "subtopic": "Fisheries certification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable fishing|Fisheries certification",
+      "target": "Subtopic:Social|Zero hunger|Sustainable fishing|Fisheries certification_qna_000",
+      "value": 1
+    }
+  ]
+}

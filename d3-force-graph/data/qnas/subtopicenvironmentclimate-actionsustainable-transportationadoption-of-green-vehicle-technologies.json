@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Adoption of green vehicle technologies",
+      "label": "Adoption of green vehicle technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Adoption of green vehicle technologies_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Adoption of green vehicle technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Adoption of green vehicle technologies",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Adoption of green vehicle technologies_qna_000",
+      "value": 1
+    }
+  ]
+}

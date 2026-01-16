@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Attenuators",
+      "label": "Attenuators",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Attenuators_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy",
+      "subtopic": "Attenuators",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Tidal and wave energy|Attenuators",
+      "target": "Subtopic:Environment|Clean energy|Tidal and wave energy|Attenuators_qna_000",
+      "value": 1
+    }
+  ]
+}

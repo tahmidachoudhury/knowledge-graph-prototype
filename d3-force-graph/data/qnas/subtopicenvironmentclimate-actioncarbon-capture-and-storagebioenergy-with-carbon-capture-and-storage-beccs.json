@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)",
+      "label": "Bioenergy with carbon capture and storage (beccs)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Bioenergy with carbon capture and storage (beccs)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Bioenergy with carbon capture and storage (beccs)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)_qna_001",
+      "value": 1
+    }
+  ]
+}

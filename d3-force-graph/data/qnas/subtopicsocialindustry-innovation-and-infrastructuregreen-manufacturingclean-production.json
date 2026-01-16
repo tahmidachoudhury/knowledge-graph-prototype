@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Clean production",
+      "label": "Clean production",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Clean production_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Clean production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Clean production",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Clean production_qna_000",
+      "value": 1
+    }
+  ]
+}

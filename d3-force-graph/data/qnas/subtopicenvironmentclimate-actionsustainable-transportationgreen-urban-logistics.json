@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Green urban logistics",
+      "label": "Green urban logistics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Green urban logistics_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Green urban logistics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Green urban logistics",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Green urban logistics_qna_000",
+      "value": 1
+    }
+  ]
+}

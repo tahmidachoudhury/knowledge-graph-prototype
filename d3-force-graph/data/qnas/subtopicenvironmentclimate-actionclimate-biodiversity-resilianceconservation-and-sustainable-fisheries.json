@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation and sustainable fisheries",
+      "label": "Conservation and sustainable fisheries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation and sustainable fisheries_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Conservation and sustainable fisheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation and sustainable fisheries",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation and sustainable fisheries_qna_000",
+      "value": 1
+    }
+  ]
+}

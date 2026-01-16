@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|E-health services and telemedicine",
+      "label": "E-health services and telemedicine",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|E-health services and telemedicine_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "E-health services and telemedicine",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|E-health services and telemedicine",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|E-health services and telemedicine_qna_000",
+      "value": 1
+    }
+  ]
+}

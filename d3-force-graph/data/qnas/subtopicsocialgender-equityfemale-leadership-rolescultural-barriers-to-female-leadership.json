@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Cultural barriers to female leadership",
+      "label": "Cultural barriers to female leadership",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Cultural barriers to female leadership_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "subtopic": "Cultural barriers to female leadership",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Female leadership roles|Cultural barriers to female leadership",
+      "target": "Subtopic:Social|Gender equity|Female leadership roles|Cultural barriers to female leadership_qna_000",
+      "value": 1
+    }
+  ]
+}

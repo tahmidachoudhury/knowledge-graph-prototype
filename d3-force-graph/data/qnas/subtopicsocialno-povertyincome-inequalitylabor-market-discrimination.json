@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Labor market discrimination",
+      "label": "Labor market discrimination",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Labor market discrimination_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Labor market discrimination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Labor market discrimination",
+      "target": "Subtopic:Social|No poverty|Income inequality|Labor market discrimination_qna_000",
+      "value": 1
+    }
+  ]
+}

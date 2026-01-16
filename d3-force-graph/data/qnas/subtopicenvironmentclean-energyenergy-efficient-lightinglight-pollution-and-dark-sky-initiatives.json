@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Light pollution and dark sky initiatives",
+      "label": "Light pollution and dark sky initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Light pollution and dark sky initiatives_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "subtopic": "Light pollution and dark sky initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy efficient lighting|Light pollution and dark sky initiatives",
+      "target": "Subtopic:Environment|Clean energy|Energy efficient lighting|Light pollution and dark sky initiatives_qna_000",
+      "value": 1
+    }
+  ]
+}

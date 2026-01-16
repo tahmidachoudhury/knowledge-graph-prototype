@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Fair wages|Hourly rates",
+      "label": "Hourly rates",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Fair wages"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Fair wages|Hourly rates_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Fair wages",
+      "subtopic": "Hourly rates",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Fair wages|Hourly rates",
+      "target": "Subtopic:Social|Decent work and economic growth|Fair wages|Hourly rates_qna_000",
+      "value": 1
+    }
+  ]
+}

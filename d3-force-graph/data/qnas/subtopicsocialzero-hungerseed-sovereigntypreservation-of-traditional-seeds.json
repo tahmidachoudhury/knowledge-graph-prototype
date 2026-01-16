@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds",
+      "label": "Preservation of traditional seeds",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Preservation of traditional seeds",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Preservation of traditional seeds",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Biohazard containment",
+      "label": "Biohazard containment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Biohazard containment_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Biohazard containment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Biohazard containment",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Biohazard containment_qna_000",
+      "value": 1
+    }
+  ]
+}

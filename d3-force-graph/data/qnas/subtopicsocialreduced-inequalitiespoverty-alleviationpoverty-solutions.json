@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Poverty alleviation|Poverty solutions",
+      "label": "Poverty solutions",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Poverty alleviation"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Poverty alleviation|Poverty solutions_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Poverty alleviation",
+      "subtopic": "Poverty solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Poverty alleviation|Poverty solutions",
+      "target": "Subtopic:Social|Reduced inequalities|Poverty alleviation|Poverty solutions_qna_000",
+      "value": 1
+    }
+  ]
+}

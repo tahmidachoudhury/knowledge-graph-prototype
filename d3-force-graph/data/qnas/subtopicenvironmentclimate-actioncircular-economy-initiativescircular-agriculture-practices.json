@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular agriculture practices",
+      "label": "Circular agriculture practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular agriculture practices_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Circular agriculture practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular agriculture practices",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular agriculture practices_qna_000",
+      "value": 1
+    }
+  ]
+}

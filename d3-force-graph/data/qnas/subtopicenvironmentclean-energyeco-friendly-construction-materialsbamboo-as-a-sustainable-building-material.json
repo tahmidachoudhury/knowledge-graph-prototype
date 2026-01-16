@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material",
+      "label": "Bamboo as a sustainable building material",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Bamboo as a sustainable building material",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Bamboo as a sustainable building material",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Bamboo as a sustainable building material",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Bamboo as a sustainable building material_qna_002",
+      "value": 1
+    }
+  ]
+}

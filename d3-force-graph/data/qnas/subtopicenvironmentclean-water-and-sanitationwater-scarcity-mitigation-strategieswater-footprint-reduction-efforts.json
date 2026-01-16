@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water footprint reduction efforts",
+      "label": "Water footprint reduction efforts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water footprint reduction efforts_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "subtopic": "Water footprint reduction efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water footprint reduction efforts",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water footprint reduction efforts_qna_000",
+      "value": 1
+    }
+  ]
+}

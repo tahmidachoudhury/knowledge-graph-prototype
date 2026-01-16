@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights",
+      "label": "Cultural influences on reproductive rights",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Cultural influences on reproductive rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Cultural influences on reproductive rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance",
+      "label": "Agriculture microfinance",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Agriculture microfinance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Agriculture microfinance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance",
+      "target": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance",
+      "target": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance_qna_001",
+      "value": 1
+    }
+  ]
+}

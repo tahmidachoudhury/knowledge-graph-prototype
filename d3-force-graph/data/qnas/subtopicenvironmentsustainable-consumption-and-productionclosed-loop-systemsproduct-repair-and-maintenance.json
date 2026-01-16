@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Product repair and maintenance",
+      "label": "Product repair and maintenance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Product repair and maintenance_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "subtopic": "Product repair and maintenance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Product repair and maintenance",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Product repair and maintenance_qna_000",
+      "value": 1
+    }
+  ]
+}

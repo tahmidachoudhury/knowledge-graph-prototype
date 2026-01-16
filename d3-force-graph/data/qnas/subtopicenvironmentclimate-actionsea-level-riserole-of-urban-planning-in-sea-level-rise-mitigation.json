@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Role of urban planning in sea level rise mitigation",
+      "label": "Role of urban planning in sea level rise mitigation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Role of urban planning in sea level rise mitigation_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Role of urban planning in sea level rise mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Role of urban planning in sea level rise mitigation",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Role of urban planning in sea level rise mitigation_qna_000",
+      "value": 1
+    }
+  ]
+}

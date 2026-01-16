@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring",
+      "label": "Chemical exposure monitoring",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Safe working conditions"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Safe working conditions",
+      "subtopic": "Chemical exposure monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Safe working conditions",
+      "subtopic": "Chemical exposure monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring",
+      "target": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring",
+      "target": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring_qna_001",
+      "value": 1
+    }
+  ]
+}

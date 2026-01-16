@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Marine conservation",
+      "label": "Marine conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Marine conservation_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Marine conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Marine conservation",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Marine conservation_qna_000",
+      "value": 1
+    }
+  ]
+}

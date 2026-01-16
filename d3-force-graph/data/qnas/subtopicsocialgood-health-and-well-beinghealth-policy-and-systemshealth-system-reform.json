@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health system reform",
+      "label": "Health system reform",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health system reform_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems",
+      "subtopic": "Health system reform",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health policy and systems|Health system reform",
+      "target": "Subtopic:Social|Good health and well-being|Health policy and systems|Health system reform_qna_000",
+      "value": 1
+    }
+  ]
+}

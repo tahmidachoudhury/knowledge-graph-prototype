@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid policy and regulations",
+      "label": "Smart grid policy and regulations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid policy and regulations_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies",
+      "subtopic": "Smart grid policy and regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid policy and regulations",
+      "target": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid policy and regulations_qna_000",
+      "value": 1
+    }
+  ]
+}

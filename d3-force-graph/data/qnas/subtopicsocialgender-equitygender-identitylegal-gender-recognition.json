@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Gender identity|Legal gender recognition",
+      "label": "Legal gender recognition",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender identity"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Gender identity|Legal gender recognition_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender identity",
+      "subtopic": "Legal gender recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Gender identity|Legal gender recognition",
+      "target": "Subtopic:Social|Gender equity|Gender identity|Legal gender recognition_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Microgrids|Decentralized energy distribution",
+      "label": "Decentralized energy distribution",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Microgrids"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Microgrids|Decentralized energy distribution_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Microgrids",
+      "subtopic": "Decentralized energy distribution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Microgrids|Decentralized energy distribution",
+      "target": "Subtopic:Environment|Clean energy|Microgrids|Decentralized energy distribution_qna_000",
+      "value": 1
+    }
+  ]
+}

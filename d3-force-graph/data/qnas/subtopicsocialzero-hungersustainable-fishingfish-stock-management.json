@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Fish stock management",
+      "label": "Fish stock management",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Fish stock management_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "subtopic": "Fish stock management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable fishing|Fish stock management",
+      "target": "Subtopic:Social|Zero hunger|Sustainable fishing|Fish stock management_qna_000",
+      "value": 1
+    }
+  ]
+}

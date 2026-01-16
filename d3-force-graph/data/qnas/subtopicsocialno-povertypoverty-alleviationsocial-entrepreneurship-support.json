@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Poverty alleviation|Social entrepreneurship support",
+      "label": "Social entrepreneurship support",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty alleviation"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Poverty alleviation|Social entrepreneurship support_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty alleviation",
+      "subtopic": "Social entrepreneurship support",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Poverty alleviation|Social entrepreneurship support",
+      "target": "Subtopic:Social|No poverty|Poverty alleviation|Social entrepreneurship support_qna_000",
+      "value": 1
+    }
+  ]
+}

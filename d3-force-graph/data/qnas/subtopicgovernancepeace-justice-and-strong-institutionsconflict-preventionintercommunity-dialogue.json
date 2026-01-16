@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Intercommunity dialogue",
+      "label": "Intercommunity dialogue",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Intercommunity dialogue_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention",
+      "subtopic": "Intercommunity dialogue",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Intercommunity dialogue_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention",
+      "subtopic": "Intercommunity dialogue",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Intercommunity dialogue",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Intercommunity dialogue_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Intercommunity dialogue",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Intercommunity dialogue_qna_001",
+      "value": 1
+    }
+  ]
+}

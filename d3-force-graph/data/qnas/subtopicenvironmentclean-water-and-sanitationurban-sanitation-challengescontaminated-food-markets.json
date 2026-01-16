@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated food markets",
+      "label": "Contaminated food markets",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated food markets_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Contaminated food markets",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated food markets",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated food markets_qna_000",
+      "value": 1
+    }
+  ]
+}

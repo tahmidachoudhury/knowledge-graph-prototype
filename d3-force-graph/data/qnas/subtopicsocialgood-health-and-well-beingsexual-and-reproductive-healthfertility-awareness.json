@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Sexual and reproductive health|Fertility awareness",
+      "label": "Fertility awareness",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Sexual and reproductive health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Sexual and reproductive health|Fertility awareness_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Sexual and reproductive health",
+      "subtopic": "Fertility awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Sexual and reproductive health|Fertility awareness",
+      "target": "Subtopic:Social|Good health and well-being|Sexual and reproductive health|Fertility awareness_qna_000",
+      "value": 1
+    }
+  ]
+}

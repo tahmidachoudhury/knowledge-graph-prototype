@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Distribution logistics",
+      "label": "Distribution logistics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Distribution logistics_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "subtopic": "Distribution logistics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Distribution logistics_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "subtopic": "Distribution logistics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Distribution logistics",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Distribution logistics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Distribution logistics",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Distribution logistics_qna_001",
+      "value": 1
+    }
+  ]
+}

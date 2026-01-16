@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Universal education",
+      "label": "Universal education",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "subtopic": "Universal education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "subtopic": "Universal education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "subtopic": "Universal education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Access to learning|Universal education",
+      "target": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Access to learning|Universal education",
+      "target": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Access to learning|Universal education",
+      "target": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_002",
+      "value": 1
+    }
+  ]
+}

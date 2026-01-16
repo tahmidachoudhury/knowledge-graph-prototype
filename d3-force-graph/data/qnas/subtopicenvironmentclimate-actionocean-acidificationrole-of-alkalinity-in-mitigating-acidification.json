@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification",
+      "label": "Role of alkalinity in mitigating acidification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Role of alkalinity in mitigating acidification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Role of alkalinity in mitigating acidification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices",
+      "label": "Eco-friendly practices",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Eco-friendly practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Eco-friendly practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication",
+      "label": "Crisis communication",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication_qna_000",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Crisis communication",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication_qna_001",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Crisis communication",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication_qna_002",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Crisis communication",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication_qna_003",
+      "group": "QnA",
+      "label": "no questions",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Crisis communication",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Crisis communication_qna_003",
+      "value": 1
+    }
+  ]
+}
