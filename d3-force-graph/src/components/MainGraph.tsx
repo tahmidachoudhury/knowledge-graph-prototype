@@ -365,31 +365,51 @@ export default function MainGraph({ onSubtopicClick }: Props) {
     >
       {selectedMacroArea && (
         <button
-          className={theme === "light" ? "theme-light" : "theme-dark"}
           onClick={() => setSelectedMacroArea(null)}
           style={{
             position: "absolute",
-            top: 20,
-            left: 20,
+            top: "20px",
+            left: "20px",
             zIndex: 1000,
             padding: "10px 20px",
-            fontSize: 16,
-            background: "#fff",
-            border: "2px solid #333",
-            borderRadius: 6,
+            fontSize: "16px",
+            backgroundColor: theme === "light" ? "#fff" : "#1a1a1a",
+            color: theme === "light" ? "#333" : "#fff",
+            border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
+            borderRadius: "5px",
             cursor: "pointer",
+            boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
           }}
         >
           ← Back to Macro Area Overview
         </button>
       )}
-
+      <button
+        onClick={() => setShowLinks(!showLinks)}
+        style={{
+          position: "absolute",
+          top: "20px",
+          right: "180px",
+          zIndex: 1000,
+          padding: "10px 20px",
+          fontSize: "16px",
+          fontWeight: "bold",
+          backgroundColor: theme === "light" ? "#fff" : "#1a1a1a",
+          color: theme === "light" ? "#333" : "#fff",
+          border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
+          borderRadius: "5px",
+          cursor: "pointer",
+          boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
+        }}
+      >
+        {showLinks ? "🔗 Hide Links" : "🔗 Show Links"}
+      </button>
       <button
         onClick={toggleTheme}
         style={{
           position: "absolute",
-          top: 20,
-          right: 20,
+          top: "20px",
+          right: "20px",
           zIndex: 1000,
           padding: "10px 20px",
           fontSize: "16px",
@@ -404,45 +424,44 @@ export default function MainGraph({ onSubtopicClick }: Props) {
       >
         {theme === "light" ? "🌙 Dark" : "☀️ Light"}
       </button>
-
-      <button
-        onClick={() => setShowLinks((v) => !v)}
-        className={theme === "light" ? "theme-light" : "theme-dark"}
-        style={{
-          position: "absolute",
-          top: 20,
-          right: 180,
-          zIndex: 1000,
-          padding: "10px 20px",
-          fontSize: 16,
-          fontWeight: 700,
-          background: "#fff",
-          border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
-          borderRadius: 6,
-          cursor: "pointer",
-        }}
-      >
-        {showLinks ? "🔗 Hide Links" : "🔗 Show Links"}
-      </button>
+      {selectedMacroArea && (
+        <div
+          className={theme === "light" ? "theme-light" : "theme-dark"}
+          style={{
+            position: "absolute",
+            top: "20px",
+            left: "50%",
+            transform: "translateX(-50%)",
+            zIndex: 1000,
+            padding: "10px 20px",
+            fontSize: "18px",
+            fontWeight: "bold",
+            border: "2px solid",
+            borderRadius: "5px",
+            boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
+          }}
+        >
+          {selectedMacroArea} - Macrotopics, Topics & Subtopics
+        </div>
+      )}
 
       {hoveredNode && (
         <div
           className={
             theme === "light"
-              ? "theme-light "
-              : "theme-dark "
+              ? "theme-light theme-hover"
+              : "theme-dark theme-hover"
           }
           style={{
-            
             position: "absolute",
-            left: mousePosition.x + 10,
-            top: mousePosition.y + 10,
+            left: `${mousePosition.x + 10}px`,
+            top: `${mousePosition.y + 10}px`,
             zIndex: 1000,
-            padding: "10px 14px",
-            fontSize: 14,
-            border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
-            borderRadius: 6,
-            background: "#fff",
+            padding: "10px 20px",
+            fontSize: "16px",
+            border: "2px solid",
+            borderRadius: "5px",
+            boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
             pointerEvents: "none",
           }}
         >
