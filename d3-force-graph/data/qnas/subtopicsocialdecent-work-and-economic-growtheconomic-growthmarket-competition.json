@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Market competition",
+      "label": "Market competition",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Market competition_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factor contributes to the segmentation and imperfect competition in the markets for environmental goods?",
+      "answer": "The presence of patents protecting pollution abatement technologies contributes to the segmentation and imperfect competition in the markets for environmental goods.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "subtopic": "Market competition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic growth|Market competition",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic growth|Market competition_qna_000",
+      "value": 1
+    }
+  ]
+}

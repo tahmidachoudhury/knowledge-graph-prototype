@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion",
+      "label": "Vegetation cover expansion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of vegetation are found in the region surrounding Xalapa?",
+      "answer": "The surrounding vegetation types include cloud forest to pine-oak forest, tropical montane cloud forests, tropical dry forests, and riparian vegetation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Vegetation cover expansion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Xalapa's territory is covered by vegetation?",
+      "answer": "Nearly 40% of Xalapa's territory is covered by vegetation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Vegetation cover expansion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What size were the subplots used for estimating bryophyte cover?",
+      "answer": "The subplots used for estimating bryophyte cover were 0.5 m² in size.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Vegetation cover expansion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was excluded from the initial models and why?",
+      "answer": "Winter cover of vascular plants was excluded from the initial models because it was never significant.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Vegetation cover expansion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Vegetation cover expansion_qna_003",
+      "value": 1
+    }
+  ]
+}

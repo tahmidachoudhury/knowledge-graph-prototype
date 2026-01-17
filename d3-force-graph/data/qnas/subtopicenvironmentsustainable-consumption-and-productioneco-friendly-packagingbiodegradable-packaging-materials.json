@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Biodegradable packaging materials",
+      "label": "Biodegradable packaging materials",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Biodegradable packaging materials_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What distinguishes biodegradable materials from compostable materials within the bio-based and biodegradable category?",
+      "answer": "Biodegradable materials can break down naturally, while compostable materials, like PLA, can degrade in industrial plants but do not rot in compost.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Biodegradable packaging materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Biodegradable packaging materials",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Biodegradable packaging materials_qna_000",
+      "value": 1
+    }
+  ]
+}

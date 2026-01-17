@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics",
+      "label": "Digital diagnostics",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What capability does the micro-X-ray computed tomography provide for the examination of samples?",
+      "answer": "It provides nondestructive three-dimensional volumetric information on samples, which informs subsequent traditional destructive examinations.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Digital diagnostics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What advanced data analysis techniques have been developed for the micro-X-ray computed tomography at INL?",
+      "answer": "Advanced data analysis includes custom tomographic reconstruction and segmentation methods.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Digital diagnostics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In which areas have rapid technological advances occurred in healthcare?",
+      "answer": "Rapid technological advances have occurred in diagnostics, healthcare delivery, administration, and management.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Digital diagnostics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How is the term \"diagnose\" defined in the context of the research described?",
+      "answer": "\"Diagnose\" refers to distinguishing, discerning, or characterising the research context, the composition and capabilities of the research team, and potential strategic approaches.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Digital diagnostics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is mentioned about conventional supervised learning in relation to input samples and digital labels?",
+      "answer": "In conventional supervised learning, input samples are mapped to discrete digital labels for categorical classification, with each label representing a single category and no inherent semantic relationships encoded.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Digital diagnostics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Digital diagnostics_qna_004",
+      "value": 1
+    }
+  ]
+}

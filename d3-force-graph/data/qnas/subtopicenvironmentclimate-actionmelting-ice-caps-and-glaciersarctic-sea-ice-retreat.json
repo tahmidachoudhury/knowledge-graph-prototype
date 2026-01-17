@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Arctic sea ice retreat",
+      "label": "Arctic sea ice retreat",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Arctic sea ice retreat_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which region's atmospheric circulation patterns were notably altered due to sea ice reduction?",
+      "answer": "The Barents Sea in the Arctic experienced altered atmospheric circulation patterns due to significant sea ice reduction.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Arctic sea ice retreat",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Arctic sea ice retreat_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is the geographical definition of the Arctic region?",
+      "answer": "The Arctic region is defined as the land north of the Arctic Circle (66°30' N latitude) or, in Canada, north of 60° N.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Arctic sea ice retreat",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Arctic sea ice retreat",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Arctic sea ice retreat_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Arctic sea ice retreat",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Arctic sea ice retreat_qna_001",
+      "value": 1
+    }
+  ]
+}

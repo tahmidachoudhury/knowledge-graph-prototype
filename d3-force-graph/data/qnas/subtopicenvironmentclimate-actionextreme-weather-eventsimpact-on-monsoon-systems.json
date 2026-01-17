@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "label": "Impact on monsoon systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the primary focus of the article regarding cereal production in India?",
+      "answer": "The article focuses on how swapping rice for alternative cereals can reduce climate-induced production losses and increase farmer incomes in India.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Impact on monsoon systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has been the average annual rainfall and mean temperature recorded in Gonbad Kavous from 2001 to 2021?",
+      "answer": "The average annual rainfall recorded is 388 mm, and the mean temperature is 24.5°C.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Impact on monsoon systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does climate change affect wine production in the Douro Valley of Portugal?",
+      "answer": "Climate change impacts wine production in the Douro Valley of Portugal by altering temperatures and weather patterns, which can affect grape-growing regions and wine quality.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Impact on monsoon systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the global overview provided by G.V. Jones and F. Alves regarding the impact of climate change on wine production?",
+      "answer": "G.V. Jones and F. Alves offer a global overview of how climate change is impacting wine production by highlighting the changes in temperatures and weather patterns that are influencing grape-growing regions and wine quality worldwide.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Impact on monsoon systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_003",
+      "value": 1
+    }
+  ]
+}

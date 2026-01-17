@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "label": "Smart grid technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "In what way does the smart grid contribute to efficiency enhancement in energy consumption?",
+      "answer": "The smart grid facilitates real-time communication of energy consumption to different stakeholders, enabling better decisions and contributing to efficiency enhancement by providing real-time data for more informed energy management and optimization.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Smart grid technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How is the application scope of smart grid technology expanding, as described in the introduction?",
+      "answer": "The application scope of smart grid technology is continually expanding, with examples such as the integration of smart grids with intelligent transportation systems to build new smart cities. This expansion showcases the versatility and adaptability of smart grid technologies in various sectors for sustainable energy development.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Smart grid technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How do smart grids provide advantages over traditional grids?",
+      "answer": "Smart grids provide advantages over traditional grids by increasing financial and operational grid sustainability and consistency, thus making the power system more reliable.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Smart grid technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main purpose of smart energy applications according to the paragraph?",
+      "answer": "The main purpose of smart energy applications is to facilitate two-way communication between energy providers and end-users, offering real-time usage insights and consumption data to empower users in making informed energy-efficient choices.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Smart grid technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_003",
+      "value": 1
+    }
+  ]
+}

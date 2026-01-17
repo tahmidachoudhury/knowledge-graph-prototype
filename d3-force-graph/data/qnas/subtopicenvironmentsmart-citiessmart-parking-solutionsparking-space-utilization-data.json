@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Parking space utilization data",
+      "label": "Parking space utilization data",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Parking space utilization data_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is there little measured data available to assess changes in SOC?",
+      "answer": "The inherently high spatial variability of SOC stocks and the high cost of measurements lead to little measured data being available from case studies.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "Parking space utilization data",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|Parking space utilization data",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|Parking space utilization data_qna_000",
+      "value": 1
+    }
+  ]
+}

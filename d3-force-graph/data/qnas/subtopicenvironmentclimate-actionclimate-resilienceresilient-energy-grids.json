@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate resilience|Resilient energy grids",
+      "label": "Resilient energy grids",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate resilience|Resilient energy grids_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What characteristic of Nanning makes it suitable for implementing energy-autonomous technology?",
+      "answer": "Nanning has strong sun irradiation and mild temperatures, making it suitable for implementing energy-autonomous technology.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate resilience",
+      "subtopic": "Resilient energy grids",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate resilience|Resilient energy grids",
+      "target": "Subtopic:Environment|Climate action|Climate resilience|Resilient energy grids_qna_000",
+      "value": 1
+    }
+  ]
+}

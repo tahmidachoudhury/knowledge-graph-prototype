@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Advanced analytics for waste forecasting",
+      "label": "Advanced analytics for waste forecasting",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Advanced analytics for waste forecasting_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the time frame of the data used in the study regarding waste-recycled economies?",
+      "answer": "The data covers the years from 2000 to 2021.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "subtopic": "Advanced analytics for waste forecasting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Waste management|Advanced analytics for waste forecasting",
+      "target": "Subtopic:Environment|Smart cities|Waste management|Advanced analytics for waste forecasting_qna_000",
+      "value": 1
+    }
+  ]
+}

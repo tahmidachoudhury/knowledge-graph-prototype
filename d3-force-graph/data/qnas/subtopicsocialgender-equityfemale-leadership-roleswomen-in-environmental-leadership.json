@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership",
+      "label": "Women in environmental leadership",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What gender difference was observed in environmental preferences in the study?",
+      "answer": "Women displayed stronger pro-environmental preferences than men.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "subtopic": "Women in environmental leadership",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the focus of Washington and Women's (2016) work \"A Future beyond Growth\"?",
+      "answer": "In their work \"A Future beyond Growth,\" Washington and Women (2016) explore alternative pathways beyond traditional economic growth models, emphasizing sustainable development and environmental stewardship.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "subtopic": "Women in environmental leadership",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership",
+      "target": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership",
+      "target": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Soil contamination issues",
+      "label": "Soil contamination issues",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Soil contamination issues_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the main determining factors for exposure risk to PCDD/PCDF, PCBs, and HCH isomers?",
+      "answer": "The reservoirs in soils and sediments are the main determining factors for exposure risk to these compounds.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Soil contamination issues",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Soil contamination issues_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of soils in Latin America and the Caribbean are classified as unhealthy according to the article?",
+      "answer": "38% of soils are classified as unhealthy.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Soil contamination issues",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Soil contamination issues",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Soil contamination issues_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Soil contamination issues",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Soil contamination issues_qna_001",
+      "value": 1
+    }
+  ]
+}

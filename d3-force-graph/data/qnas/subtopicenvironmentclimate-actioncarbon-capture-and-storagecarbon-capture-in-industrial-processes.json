@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes",
+      "label": "Carbon capture in industrial processes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of anthropogenic global CO2 is accounted for by the iron and steel sector?",
+      "answer": "The iron and steel sector accounts for 7% of anthropogenic global CO2.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture in industrial processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which method is highlighted as a prominent technique for post-combustion CO2 capture?",
+      "answer": "Amine-based absorption is highlighted as a prominent method for CO2 post-combustion capture from industrial flue gases.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture in industrial processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is a significant challenge faced by the amine-based CO2 capture process?",
+      "answer": "A significant challenge is the energy-intensive solvent regeneration, which requires substantial heat input and leads to high operational costs.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture in industrial processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes_qna_003",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "Who proposed the use of supercritical carbon dioxide (SC-CO2) instead of water in the textile industry in 2018?",
+      "answer": "In 2,018 it was proposed by Hussain and Ahab to use supercritical carbon dioxide (SC-CO2) instead of water in the textile industry.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture in industrial processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the EU-ETS require from industrial plants in terms of emission allowances?",
+      "answer": "The EU-ETS mandates that industrial plants need to surrender emission allowances corresponding to the amount of GHG they emit.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture in industrial processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture in industrial processes_qna_004",
+      "value": 1
+    }
+  ]
+}

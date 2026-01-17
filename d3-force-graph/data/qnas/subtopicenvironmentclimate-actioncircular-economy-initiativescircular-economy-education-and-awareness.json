@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular economy education and awareness",
+      "label": "Circular economy education and awareness",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular economy education and awareness_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the actor element in the System Element focus on citizens in promoting a circular economy?",
+      "answer": "By focusing on citizens as key stakeholders, the actor element in the System Element aims to engage and empower individuals to participate in circular economy practices, thereby promoting sustainability at the grassroots level.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Circular economy education and awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular economy education and awareness_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What role do SMEs play in the dissemination of knowledge regarding environmental sustainability and circular economy?",
+      "answer": "SMEs are assessed for their role in disseminating knowledge and information about environmental sustainability and circular economic activities to customers and the wider society, acting as active agents in sharing circular practices.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Circular economy education and awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular economy education and awareness",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular economy education and awareness_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular economy education and awareness",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular economy education and awareness_qna_001",
+      "value": 1
+    }
+  ]
+}

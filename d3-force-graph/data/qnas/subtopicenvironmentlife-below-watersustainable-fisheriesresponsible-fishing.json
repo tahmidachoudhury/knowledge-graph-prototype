@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Responsible fishing",
+      "label": "Responsible fishing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Responsible fishing_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is this case study considered relevant?",
+      "answer": "It provides a holistic insight into a biologically rich context subjected to severe anthropogenic pressures and involves a mixed semi-industrial fishery.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Responsible fishing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Responsible fishing",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Responsible fishing_qna_000",
+      "value": 1
+    }
+  ]
+}

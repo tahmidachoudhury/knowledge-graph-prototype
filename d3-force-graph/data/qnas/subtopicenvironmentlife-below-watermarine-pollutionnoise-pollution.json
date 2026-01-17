@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "label": "Noise pollution",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What challenge is posed when working with large ecoacoustic datasets concerning non-focal sounds?",
+      "answer": "The challenge is that while it is possible to manually process small datasets to filter out non-focal sounds, this is not practical for large ecoacoustic datasets, which are often used to monitor biodiversity over larger scales.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What recent technological development is being explored for ecoacoustic datasets?",
+      "answer": "Automated algorithms for preprocessing audio files and cleaning up ecoacoustic datasets are being explored.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What time frame was the ecoacoustic dataset collected in Cyprus?",
+      "answer": "The dataset was collected between March and May 2023.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the downsides of manual annotation in bioacoustics?",
+      "answer": "Manual annotation in bioacoustics is resource-intensive, requiring significant human labor, financial resources, and considerable domain expertise.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main challenge of using supervised learning for bioacoustic data?",
+      "answer": "The main challenge of using supervised learning for bioacoustic data is the requirement of a large amount of manually annotated and time-stamped data for each sound of interest to train predictive models.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is it difficult to assemble manually annotated audio data in bioacoustics?",
+      "answer": "Assembling manually annotated audio data in bioacoustics is difficult due to ambiguity in defining the precise start and end of bioacoustic events, the need for specialized domain expertise for accurate annotations, and the typically long duration of bioacoustic recordings.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_005",
+      "value": 1
+    }
+  ]
+}

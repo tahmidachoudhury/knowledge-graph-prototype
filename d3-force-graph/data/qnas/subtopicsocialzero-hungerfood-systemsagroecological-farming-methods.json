@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods",
+      "label": "Agroecological farming methods",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is agroecology considered adaptable to local contexts?",
+      "answer": "Agroecology is based on the understanding that there is no one-size-fits-all solution, making it adaptable to varying local contexts.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "subtopic": "Agroecological farming methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do agroecological practices enhance biodiversity and soil health?",
+      "answer": "They optimize local resources and knowledge, which in turn enhances biodiversity, soil health, and resilience.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "subtopic": "Agroecological farming methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does agroecology promote soil health?",
+      "answer": "Agroecology promotes soil health by incorporating various plant species, which enhance soil health, reduce pests, and improve overall resilience.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "subtopic": "Agroecological farming methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods",
+      "target": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods",
+      "target": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods",
+      "target": "Subtopic:Social|Zero hunger|Food systems|Agroecological farming methods_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement",
+      "label": "Climate refugees and displacement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why have efforts to address human impacts on the Earth been deemed insufficient?",
+      "answer": "These efforts, which are rooted in human-centered paradigms, have fallen short in addressing the ongoing complex challenges we face.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Climate refugees and displacement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What does the UN General Assembly's recognition of the right to a healthy environment emphasize?",
+      "answer": "It emphasizes that climate breakdown, nature loss, pollution, and pandemics are human rights crises.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Climate refugees and displacement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What role does the UN General Assembly's recognition of the human right to a healthy environment play in relation to biodiversity?",
+      "answer": "The recognition cements the understanding that climate breakdown, nature loss, pollution, and pandemics are human rights crises, emphasizing the importance of protecting the environment for all people.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Climate refugees and displacement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Climate refugees and displacement_qna_002",
+      "value": 1
+    }
+  ]
+}

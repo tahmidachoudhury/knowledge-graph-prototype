@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural tourism",
+      "label": "Rural tourism",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can tourism development in Indonesia benefit from delivering tourism intelligence?",
+      "answer": "Tourism development in Indonesia can benefit from delivering tourism intelligence by gaining insights into consumer preferences, market trends, and industry innovations to enhance the overall tourism experience.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Rural tourism",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Mexico's GDP is accounted for by tourism?",
+      "answer": "Tourism accounts for approximately 8.8% of Mexico's GDP.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Rural tourism",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Rural tourism",
+      "target": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Rural tourism",
+      "target": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_001",
+      "value": 1
+    }
+  ]
+}

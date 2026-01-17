@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services",
+      "label": "Access to banking services",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do banks contribute to economic resilience during crises according to the paragraph?",
+      "answer": "Banks contribute by facilitating access to finance, which enhances economic resilience and supports sustained economic growth and employment participation.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "subtopic": "Access to banking services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is understanding the intricacies and heterogeneities within the banking sector important according to the paragraph?",
+      "answer": "Understanding these intricacies and heterogeneities is necessary to guide future research and create context-sensitive policy recommendations.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "subtopic": "Access to banking services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services",
+      "target": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services",
+      "target": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services_qna_001",
+      "value": 1
+    }
+  ]
+}

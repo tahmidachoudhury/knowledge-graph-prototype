@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services",
+      "label": "Collaboration with ride-sharing services",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed model merging method improve UDA performance?",
+      "answer": "The proposed method increases performance by effectively merging models from different tasks and datasets, resulting in improvements such as up to 6.8% in mloU and 7% in mPQ for semantic and panoptic segmentation.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "Collaboration with ride-sharing services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What significant performance improvements were achieved through the proposed model merging strategy?",
+      "answer": "The proposed model merging strategy demonstrated performance increases of up to 6.8% in mIoU for merging different-architecture models with a shared backbone and 7% in mPQ for merging semantic and panoptic segmentation models.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "Collaboration with ride-sharing services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What challenges does the proposed merging method aim to address in the context of UDA?",
+      "answer": "The proposed merging method aims to incorporate high-performing but computationally expensive models into faster, less accurate models and to combine models from easier tasks into harder tasks, leading to improved performance in segmentation tasks.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "Collaboration with ride-sharing services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_002",
+      "value": 1
+    }
+  ]
+}

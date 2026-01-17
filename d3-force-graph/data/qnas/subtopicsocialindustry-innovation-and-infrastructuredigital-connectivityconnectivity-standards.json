@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity standards",
+      "label": "Connectivity standards",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity standards_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What defines what the rest of the network expects from a node?",
+      "answer": "The notional identity stored in the set of established relations (mutual information) in the network defines what the rest of the network expects from a node.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Connectivity standards",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity standards",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity standards_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Community-supported agriculture",
+      "label": "Community-supported agriculture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Community-supported agriculture_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What does CAP stand for in the context of this paragraph?",
+      "answer": "CAP stands for Common Agricultural Policy.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Community-supported agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Community-supported agriculture",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Community-supported agriculture_qna_000",
+      "value": 1
+    }
+  ]
+}

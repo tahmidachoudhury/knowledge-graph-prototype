@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Track ii diplomacy",
+      "label": "Track ii diplomacy",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Track ii diplomacy_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How do non-state actors contribute to discussions at COP events?",
+      "answer": "Non-state actors contribute informally by sharing expertise, overseeing the progress of Parties, and supporting ambition through side events and informal meetings.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict resolution",
+      "subtopic": "Track ii diplomacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Track ii diplomacy",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict resolution|Track ii diplomacy_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "label": "Performance metrics",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What model evaluation metrics were used to confirm the reliability of the models?",
+      "answer": "The model evaluation metrics used include overall accuracy, kappa, F1 score, and area under the curve.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Performance metrics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Which organization is responsible for reporting the 50 indicators of progress in Australia?",
+      "answer": "The Australian Bureau of Statistics is responsible for reporting the 50 indicators of progress.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Performance metrics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do sustainability key performance indicators (KPIs) contribute to implementing sustainable strategies?",
+      "answer": "Sustainability KPIs help measure and track the environmental, social, and economic impacts of business practices, guiding companies in making informed decisions towards sustainability goals.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Performance metrics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main performance indicator used in FSN analysis?",
+      "answer": "Inventory movement is the primary performance indicator used in FSN analysis to calculate the turnover ratio.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Performance metrics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_003",
+      "value": 1
+    }
+  ]
+}

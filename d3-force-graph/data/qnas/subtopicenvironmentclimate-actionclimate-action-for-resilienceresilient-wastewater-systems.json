@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems",
+      "label": "Resilient wastewater systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the study evaluate regarding hydraulic structures and spillway performance?",
+      "answer": "The study evaluates the challenge of angled approach flow, higher discharge magnitudes, and greater approach velocities as significant contributors to adverse conditions affecting these structures' performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Resilient wastewater systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What challenges are associated with conventional wastewater treatment and resource recovery systems?",
+      "answer": "Conventional wastewater treatment and resource recovery systems are expensive and energy-intensive due to their high operating and maintenance costs.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Resilient wastewater systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What significant alterations are observed due to high overflow ratios and increased approach velocity?",
+      "answer": "The high overflow ratio and increased approach velocity significantly alter the flow distribution between the outlets and overall spillway performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Resilient wastewater systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_002",
+      "value": 1
+    }
+  ]
+}

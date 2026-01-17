@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience",
+      "label": "Economic resilience",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What complicates the relationship between banks and economic resilience in the context of natural hazards?",
+      "answer": "The relationship is complicated because banks can suffer losses and negative impacts that may limit their ability to provide recovery loans.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Economic resilience",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the resilience of the banking sector relate to the real economy's ability to withstand natural hazards?",
+      "answer": "The resilience of the banking sector is a precondition for enhancing the resilience of the real economy to natural hazard shocks.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Economic resilience",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What opportunity has the COVID-19 pandemic provided regarding economic principles?",
+      "answer": "The COVID-19 pandemic has provided a unique opportunity for reflection and the potential for a collective reset to advance the principles of a wellbeing economy in a post-pandemic world.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Economic resilience",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the two main concepts discussed in the paper related to energy shocks in the EU?",
+      "answer": "The two main concepts are energy vulnerability and energy resilience, which are intertwined yet not overlapping concepts that address how economies cope with energy shocks.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Economic resilience",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the two key concepts discussed in the paper regarding how economies cope with energy shocks?",
+      "answer": "The two key concepts are energy vulnerability and energy resilience, which are intertwined yet not overlapping. They relate to the capacity of economies to minimize socio-economic costs and adjust post-shock based on their resources and structural characteristics.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Economic resilience",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic resilience_qna_004",
+      "value": 1
+    }
+  ]
+}

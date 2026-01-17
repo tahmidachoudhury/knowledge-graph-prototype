@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Soil erosion control measures",
+      "label": "Soil erosion control measures",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Soil erosion control measures_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are some preventive measures mentioned to control soil erosion?",
+      "answer": "Preventive measures include the cultivation of cover crops, water management, and development of bioengineering and conservation agriculture.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Soil erosion control measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Soil erosion control measures",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Soil erosion control measures_qna_000",
+      "value": 1
+    }
+  ]
+}

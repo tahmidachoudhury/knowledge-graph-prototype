@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Climate-resilient farming",
+      "label": "Climate-resilient farming",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Climate-resilient farming_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is a major limitation regarding climate-smart farming practices in Africa?",
+      "answer": "There is limited discussion on the effectiveness of climate-smart farming practices in reducing emissions and enhancing resilience in African contexts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Climate-resilient farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Climate-resilient farming",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Climate-resilient farming_qna_000",
+      "value": 1
+    }
+  ]
+}

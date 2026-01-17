@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure",
+      "label": "Green infrastructure",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is the Gini index significant in the context of this study?",
+      "answer": "The Gini index serves as a stationary measure of dispersion and provides a central arbitrary factor crucial for pioneering the concept of Green Infrastructure (GI).",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Green infrastructure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is a potential issue with current green infrastructure research related to biodiversity?",
+      "answer": "Current green infrastructure research may partly diverge from empirical evidence of efficient conservation due to insufficient acknowledgment of ecological processes.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Green infrastructure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What association was noted by Shokry et al. (2020) regarding green infrastructure and minority populations?",
+      "answer": "They showed that green infrastructure deployed for climate risk protection is negatively associated with where minority populations live.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Green infrastructure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is a typical setback in green infrastructure debates according to the paragraph?",
+      "answer": "The complexity of performance assessment under different climatic conditions is a typical setback in GI debates.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Green infrastructure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Green infrastructure_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment",
+      "label": "Bias-free recruitment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Workforce equity"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were candidate sweeps identified in the study?",
+      "answer": "Candidate sweeps were identified by comparing high-altitude and low-altitude groups using methods such as Fst, -ratio values, and Tajima's D values, with windows meeting specific criteria considered as potential selected regions.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Workforce equity",
+      "subtopic": "Bias-free recruitment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What method was used to recruit the sample for the survey?",
+      "answer": "The sample was recruited purposively by Pureprofile, an Australian online research panel company.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Workforce equity",
+      "subtopic": "Bias-free recruitment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment",
+      "target": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment",
+      "target": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment_qna_001",
+      "value": 1
+    }
+  ]
+}

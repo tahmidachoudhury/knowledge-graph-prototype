@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration",
+      "label": "Zeolite filtration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What materials were characterized in the study?",
+      "answer": "The synthesized material was characterized using XRD, EDS, SEM, FTIR, and nitrogen adsorption/desorption analyses.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Zeolite filtration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the pore structure of REEs/C-8 contribute to its performance in Pb(II) removal?",
+      "answer": "The superior removal capacity of REEs/C-8 is attributed to the enrichment of more REEs and a more abundant pore structure that enhances its effectiveness.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Zeolite filtration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment",
+      "label": "Afforestation impact assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is one of the outcomes that the pilot study in the GAA seeks to achieve?",
+      "answer": "One of the outcomes the pilot study aims for is to raise awareness of the challenges faced by the region and their effects on ecosystems and their services.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Afforestation impact assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the phytotoxic effect evaluated in the study?",
+      "answer": "The phytotoxic effect was evaluated by keeping three plants per treatment over a 48-hour period.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Afforestation impact assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the broader implication of the findings summarized in the conclusion?",
+      "answer": "The conclusion highlights the broader implications of the findings for the field, although specific implications are not detailed in the paragraph provided.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Afforestation impact assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation impact assessment_qna_002",
+      "value": 1
+    }
+  ]
+}

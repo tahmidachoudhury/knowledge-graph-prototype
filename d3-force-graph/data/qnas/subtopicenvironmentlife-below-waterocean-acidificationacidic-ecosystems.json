@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems",
+      "label": "Acidic ecosystems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What impact do human activities have on macroinvertebrate community composition?",
+      "answer": "Human activities significantly affect the water and sediment chemistry, which in turn influences the composition and diversity of macroinvertebrate communities.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidic ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What impact does land-use intensification have on bryophytes according to the results?",
+      "answer": "Land-use intensification affects bryophytes by decreasing structural and resource niche heterogeneity, leading to a loss of vascular plant richness, which may have cascading effects on other taxonomic groups.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidic ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity",
+      "label": "Habitat connectivity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of gene flow pathways in conservation planning as discussed in the paragraph?",
+      "answer": "The significance lies in emphasizing the need to consider these pathways in order to enhance genetic connectivity and support the conservation of large mammals affected by urban landscapes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Habitat connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What traditional methods were used to estimate habitat connectivity before the integration of genomic data?",
+      "answer": "Traditional methods relied on expert opinion and modelling techniques, such as habitat suitability models, to assign ecological importance and estimate habitat connectivity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Habitat connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does locomotor performance relate to the fitness of an organism?",
+      "answer": "Locomotor performance is fitness-relevant as it is linked to essential activities such as predator avoidance, territory defense, foraging, reproduction, and dispersal.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Habitat connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are amphibians particularly vulnerable to urbanisation and habitat degradation?",
+      "answer": "Amphibians are vulnerable because they depend on connectivity between terrestrial and aquatic habitats for their biphasic life cycle, needing both water bodies for breeding and terrestrial habitats for their adult life.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Habitat connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_004",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What determines long-term population viability and persistence in a metapopulation context?",
+      "answer": "Long-term population viability and persistence are determined by the balance between colonisation, extinction, and recolonisation of local habitats in a habitat patch network.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Habitat connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_005",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What particular focus does GI often have within a biodiversity context?",
+      "answer": "Within a biodiversity context, GI is often interpreted as having a particular focus on the structural connectivity between habitats.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Habitat connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_006",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What factors related to habitat features affect ecological processes determining population viability?",
+      "answer": "Factors such as patch size, habitat amount, quality, fragmentation, and connectivity affect ecological processes determining population viability.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Habitat connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Habitat connectivity_qna_006",
+      "value": 1
+    }
+  ]
+}

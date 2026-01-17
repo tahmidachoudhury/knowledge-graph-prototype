@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Targeted interventions for vulnerable groups",
+      "label": "Targeted interventions for vulnerable groups",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Targeted interventions for vulnerable groups_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Who developed and proposed the intervention discussed in the paragraph?",
+      "answer": "The intervention was developed and proposed by the authors in collaboration with the supermarket chain and the private organization involved in the project.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake",
+      "subtopic": "Targeted interventions for vulnerable groups",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Micronutrient intake|Targeted interventions for vulnerable groups",
+      "target": "Subtopic:Social|Zero hunger|Micronutrient intake|Targeted interventions for vulnerable groups_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|International cooperation",
+      "label": "International cooperation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|International cooperation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the total number of member states in IPBES after the recent additions?",
+      "answer": "The total number of member states in IPBES is 147.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "International cooperation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|International cooperation_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the outcome of non-cooperation in the model discussed?",
+      "answer": "Non-cooperation leads to both patches overexploiting the transboundary fish stock, which compromises conservation efforts and reduces fishery profits.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "International cooperation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|International cooperation",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|International cooperation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|International cooperation",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|International cooperation_qna_001",
+      "value": 1
+    }
+  ]
+}

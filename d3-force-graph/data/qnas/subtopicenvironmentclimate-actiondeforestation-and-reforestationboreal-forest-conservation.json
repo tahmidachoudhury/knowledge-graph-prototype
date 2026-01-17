@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Boreal forest conservation",
+      "label": "Boreal forest conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Boreal forest conservation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which ecozones are being studied for the impacts of climate change?",
+      "answer": "The Boreal and Atlantic ecoregions are being studied for their considerable impacts from climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Boreal forest conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Boreal forest conservation",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Boreal forest conservation_qna_000",
+      "value": 1
+    }
+  ]
+}

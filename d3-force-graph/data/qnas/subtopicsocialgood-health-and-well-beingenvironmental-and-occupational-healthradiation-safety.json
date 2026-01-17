@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety",
+      "label": "Radiation safety",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_000",
+      "group": "QnA",
+      "label": "Public health",
+      "question": "What is radon, and why is it a concern for public health?",
+      "answer": "Radon is a colorless, odorless radioactive gas produced from uranium decay in soil and rock, and it is the second leading cause of lung cancer after smoking, making it a significant public health concern.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Radiation safety",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of the examination process for irradiated materials at INL?",
+      "answer": "The purpose of the examination process is to inform the qualification of safer and more efficient nuclear fuels and materials.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Radiation safety",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do gamma rays affect plant cells?",
+      "answer": "Gamma rays can produce free radicals through their interaction with atoms and molecules in plant cells, which can harm essential components and influence various aspects of plant biology, such as morphology, anatomy, biochemistry, and physiology.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Radiation safety",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_002",
+      "value": 1
+    }
+  ]
+}

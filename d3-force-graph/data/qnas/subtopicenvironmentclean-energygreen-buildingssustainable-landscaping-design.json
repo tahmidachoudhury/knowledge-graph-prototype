@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design",
+      "label": "Sustainable landscaping design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Is the phenomenon of engagement in sustainable development limited to landscape governance according to the text?",
+      "answer": "No, the engagement in sustainable development is not limited to landscape governance.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Sustainable landscaping design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design_qna_001",
+      "group": "QnA",
+      "label": "Conservation",
+      "question": "How do gardens contribute to the conservation of birds according to the paper?",
+      "answer": "Gardens provide reliable food resources, water sources, and important stepping stones that facilitate movement between larger patches of intact habitat for birds.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Sustainable landscaping design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design_qna_001",
+      "value": 1
+    }
+  ]
+}

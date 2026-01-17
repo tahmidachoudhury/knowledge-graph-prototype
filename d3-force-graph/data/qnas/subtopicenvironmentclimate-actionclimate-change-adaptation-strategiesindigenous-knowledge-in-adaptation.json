@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation",
+      "label": "Indigenous knowledge in adaptation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What was the main objective of the study on climate change discourse in a fishing community in Central Philippines?",
+      "answer": "The main objective was to contextualize how local communities' traditional ecological knowledge (TEK) related to climate, fisheries, and taboos can strengthen freshwater fisheries management and biodiversity conservation.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Indigenous knowledge in adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors contribute to the evolution of Traditional Ecological Knowledge (TEK)?",
+      "answer": "TEK evolves through social experiences and adaptive processes over centuries of ecological adaptation by its knowledge holders to their respective environments.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Indigenous knowledge in adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How can local food production in the Arctic be enhanced?",
+      "answer": "By increasing local capacity to produce food that meets local demand and merging traditional practices with innovative approaches to food security.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Indigenous knowledge in adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Indigenous knowledge in adaptation_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pressure regulation systems",
+      "label": "Pressure regulation systems",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pressure regulation systems_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why must tire inflation pressure be raised with an increasing load?",
+      "answer": "Tire inflation pressure must be raised to maintain acceptable deformations, avoid damage to the tire, and ensure safety.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Pressure regulation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pressure regulation systems_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is it important to restore recommended tire inflation pressure when using firmer surfaces?",
+      "answer": "Restoring the recommended tire inflation pressure is important when using firmer surfaces to maintain optimal tire performance and safety, ensuring proper load support and handling.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Pressure regulation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pressure regulation systems",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pressure regulation systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pressure regulation systems",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pressure regulation systems_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "label": "Aging and longevity studies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the primary objective of the research on juvenile COTS?",
+      "answer": "The primary objective was to quantify ontogenetic changes in various traits of juvenile COTS and explore their potential as indicators of age.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Aging and longevity studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What do the models mentioned in the paragraph allow regarding age-trait relationships?",
+      "answer": "The models do not constrain age-trait relationships to pre-specified parametric shapes, allowing the data to determine the shape of the response curve.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Aging and longevity studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which years are associated with the studies cited in the paragraph?",
+      "answer": "The studies are associated with the years 2020, 2021, and 2022.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Aging and longevity studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the \"Limitations and Further Research\" section of the study outline?",
+      "answer": "It outlines the study's limitations and proposes directions for future research.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Aging and longevity studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_003",
+      "value": 1
+    }
+  ]
+}

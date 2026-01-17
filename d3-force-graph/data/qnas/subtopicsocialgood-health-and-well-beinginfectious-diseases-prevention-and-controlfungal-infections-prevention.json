@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Fungal infections prevention",
+      "label": "Fungal infections prevention",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Fungal infections prevention_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What fungicides were used in the experiment, and how often were they applied?",
+      "answer": "The fungicides used were Score Profi (24.8% difenoconazole) and Ortiva (22.8% azoxystrobin), applied four times during the growing period.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Fungal infections prevention",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Fungal infections prevention",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Fungal infections prevention_qna_000",
+      "value": 1
+    }
+  ]
+}

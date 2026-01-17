@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Prairie restoration",
+      "label": "Prairie restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Prairie restoration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Canada's pea and lentil production comes from the Canadian prairies?",
+      "answer": "The Canadian prairies contribute to 98% of Canada's pea and lentil production.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Prairie restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Prairie restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Prairie restoration_qna_000",
+      "value": 1
+    }
+  ]
+}

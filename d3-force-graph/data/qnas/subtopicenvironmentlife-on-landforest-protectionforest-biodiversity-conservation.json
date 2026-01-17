@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest biodiversity conservation",
+      "label": "Forest biodiversity conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest biodiversity conservation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How was the dataset further refined to focus on articles related to forest sciences?",
+      "answer": "The dataset was manually filtered to include only articles that focused on scientific fields dealing with forests, narrowing it down to 18 primary articles.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Forest biodiversity conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Forest biodiversity conservation",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Forest biodiversity conservation_qna_000",
+      "value": 1
+    }
+  ]
+}

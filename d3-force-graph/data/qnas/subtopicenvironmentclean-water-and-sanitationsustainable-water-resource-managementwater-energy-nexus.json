@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus",
+      "label": "Water-energy nexus",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What major challenge is Nigeria facing in relation to the water, energy, and food nexus?",
+      "answer": "Nigeria faces significant challenges in managing the water, energy, and food nexus due to rapid population growth and the increasing demand for water for food production and preparation.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Water-energy nexus",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Which technology addresses both water scarcity and the energy crisis according to the paragraph?",
+      "answer": "Microbial fuel cells (MFCs) address both water scarcity and the energy crisis.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Water-energy nexus",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the Water-Energy-Food-Ecosystem (WEFE) nexus approach?",
+      "answer": "The WEFE nexus approach emphasizes the interactions between water, energy, and food sectors and promotes integrated strategies to address the interconnections between these sectors.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Water-energy nexus",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the World energy dilemma, and how does it relate to transformative energy developments and economic growth according to Khan et al. (2022)?",
+      "answer": "Khan et al. (2022) explore the concept of the World energy dilemma and its connection to transformative energy developments as determinants of economic growth.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Water-energy nexus",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Water-energy nexus_qna_003",
+      "value": 1
+    }
+  ]
+}

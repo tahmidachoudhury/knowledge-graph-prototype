@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits",
+      "label": "Chemical exposure limits",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many distinct test runs were conducted, and what were their DEET concentrations?",
+      "answer": "Three distinct test runs were conducted with DEET concentrations of T1 (5 mg/L), T2 (10 mg/L), and T3 (25 mg/L).",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Chemical exposure limits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the typical concentration range of DEET in insect repellent products?",
+      "answer": "The concentration of DEET in products typically ranges between 5 and 99%.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Chemical exposure limits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits_qna_001",
+      "value": 1
+    }
+  ]
+}

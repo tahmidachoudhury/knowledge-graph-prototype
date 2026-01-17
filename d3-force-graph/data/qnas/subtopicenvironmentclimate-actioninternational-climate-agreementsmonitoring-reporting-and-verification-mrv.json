@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)",
+      "label": "Monitoring, reporting, and verification (mrv)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What has significantly enhanced measurement for climate solutions according to the text?",
+      "answer": "Advances in digital technology have significantly enhanced measurement for climate solutions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Monitoring, reporting, and verification (mrv)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many indicators of progress is the Australian Government reporting on in 2023?",
+      "answer": "The Australian Government commenced reporting on 50 indicators of progress in 2023.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Monitoring, reporting, and verification (mrv)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How is the implementation of the National Climate Agreement monitored at the national level?",
+      "answer": "There is no monitoring of implementation of the National Climate Agreement from the national level, with limited funding for sustainable Urban Mobility Policy goals.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Monitoring, reporting, and verification (mrv)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Monitoring, reporting, and verification (mrv)_qna_002",
+      "value": 1
+    }
+  ]
+}

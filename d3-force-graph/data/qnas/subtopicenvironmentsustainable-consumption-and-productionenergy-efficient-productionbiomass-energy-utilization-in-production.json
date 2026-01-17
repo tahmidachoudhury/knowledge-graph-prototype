@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production",
+      "label": "Biomass energy utilization in production",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Are indirect energy uses like fossil fuels in manufacturing inputs covered in this analysis?",
+      "answer": "Yes, indirect energy use, such as fossil fuels in manufacturing inputs like animal feed or fertilizer, is briefly covered.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Biomass energy utilization in production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is biomass recognized as in terms of energy sources?",
+      "answer": "Biomass is recognized as a sustainable energy source that can be utilized to produce chemicals, heat, and electricity.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Biomass energy utilization in production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did DACH perform in terms of biomass concentration compared to the control at a concentration of 1 mM?",
+      "answer": "At 1 mM, DACH maintained biomass concentration equivalent to the control without inhibitory effects.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Biomass energy utilization in production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_002",
+      "value": 1
+    }
+  ]
+}

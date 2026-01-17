@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control",
+      "label": "Automated temperature and climate control",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What did Wang et al. find regarding indoor air temperature distribution in a house in Lhasa?",
+      "answer": "They found that outdoor meteorological factors significantly influence the indoor thermal environment.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Automated temperature and climate control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the data on the indoor thermal environment of traditional houses gathered in the study?",
+      "answer": "The data was obtained through field measurements and questionnaire surveys.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Automated temperature and climate control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What temperature range is typically maintained for space heating in cold climates for public toilets?",
+      "answer": "Space heating in cold climates is typically controlled between 10 and 14 degrees Celsius, with 12 degrees Celsius being common.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Automated temperature and climate control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the focus of Wang et al.'s research regarding a house in Lhasa?",
+      "answer": "Wang et al. focused on obtaining the indoor air temperature distribution through field measurements and discussed the influence of outdoor meteorological factors on the indoor thermal environment in Lhasa.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Automated temperature and climate control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What were the indoor temperature and relative humidity range during the summer test period?",
+      "answer": "The indoor temperature range was 13.3 ± 2.3 °C and the relative humidity range was 69.1% to 83.0%.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Automated temperature and climate control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Automated temperature and climate control_qna_004",
+      "value": 1
+    }
+  ]
+}

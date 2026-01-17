@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Economic empowerment|Vocational training programs",
+      "label": "Vocational training programs",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Economic empowerment"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Economic empowerment|Vocational training programs_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What benefits do members of the association receive, and how are they tailored to individual needs?",
+      "answer": "Members of the association receive tangible and intangible advantages, including a comprehensive competence program tailored to individual needs. This program involves short seminars, courses, and educational programs to help members grow professionally (NFA3).",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Economic empowerment",
+      "subtopic": "Vocational training programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Economic empowerment|Vocational training programs",
+      "target": "Subtopic:Social|No poverty|Economic empowerment|Vocational training programs_qna_000",
+      "value": 1
+    }
+  ]
+}

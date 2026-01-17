@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Inquiry-based learning",
+      "label": "Inquiry-based learning",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Inquiry-based learning_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methodology was used to collect data in the study?",
+      "answer": "A concurrent triangulation methodology of teaching and learning was employed, including teacher ethnographic accounts, student self-assessments, and STEM researchers' observations.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "subtopic": "Inquiry-based learning",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Inquiry-based learning_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the teaching model proposed in the project?",
+      "answer": "The teaching model proposed is the socioscientific inquiry-based learning model (SSIBL).",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "subtopic": "Inquiry-based learning",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Stem education|Inquiry-based learning",
+      "target": "Subtopic:Social|Quality education|Stem education|Inquiry-based learning_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Stem education|Inquiry-based learning",
+      "target": "Subtopic:Social|Quality education|Stem education|Inquiry-based learning_qna_001",
+      "value": 1
+    }
+  ]
+}

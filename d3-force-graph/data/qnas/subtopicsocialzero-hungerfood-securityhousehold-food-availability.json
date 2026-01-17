@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Household food availability",
+      "label": "Household food availability",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Household food availability_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How often were food and FSW renewed during the study?",
+      "answer": "Food and FSW were renewed every 3 days.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Household food availability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Household food availability_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is increasing domestic food production important for Nigeria?",
+      "answer": "Increasing domestic food production is crucial for improving food security in Nigeria, as the nation heavily relies on food imports, particularly for staples, which strains foreign exchange reserves.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Household food availability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Household food availability_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How was the fidelity of the intervention monitored?",
+      "answer": "The fidelity of the intervention was monitored through weekly to bi-weekly contact with the supermarket managers, including images shared through text messages, phone calls, and emails.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Household food availability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Household food availability_qna_003",
+      "group": "QnA",
+      "label": "Gender and Women's Studies",
+      "question": "What role do women play in the rural food provisioning in the Solomon Islands?",
+      "answer": "Women are key actors in rural food provisioning, conducting much of the harvesting, cooking, and food-related labor within households, which underscores their significant contributions to food security and cultural practices.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Household food availability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Household food availability",
+      "target": "Subtopic:Social|Zero hunger|Food security|Household food availability_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Household food availability",
+      "target": "Subtopic:Social|Zero hunger|Food security|Household food availability_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Household food availability",
+      "target": "Subtopic:Social|Zero hunger|Food security|Household food availability_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Household food availability",
+      "target": "Subtopic:Social|Zero hunger|Food security|Household food availability_qna_003",
+      "value": 1
+    }
+  ]
+}

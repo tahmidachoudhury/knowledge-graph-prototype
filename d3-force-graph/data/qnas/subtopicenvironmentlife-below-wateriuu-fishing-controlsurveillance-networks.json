@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks",
+      "label": "Surveillance networks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does ICT-induced disintermediation refer to in the context of the paragraph?",
+      "answer": "ICT-induced disintermediation refers to how remote surveillance allows new information flows that bypass key stakeholders, enabling verification without onsite audits.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Surveillance networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did the study using statistical modeling verify the risk of NIS spread?",
+      "answer": "It showed a strong correlation between predicted risks of NIS spread via diving boats and actual NIS presence at diving sites.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Surveillance networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is the network analysis method considered well-suited for this study?",
+      "answer": "It is considered well-suited due to its previous applications in the study of food systems governance, organizational change, and the investigation of corporate power and interlocking directorships.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Surveillance networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_002",
+      "value": 1
+    }
+  ]
+}

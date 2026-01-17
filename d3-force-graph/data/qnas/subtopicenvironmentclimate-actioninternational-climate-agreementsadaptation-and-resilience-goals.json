@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals",
+      "label": "Adaptation and resilience goals",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the self-defined goals of the German Initiative on Sustainable Cocoa (GISCO)?",
+      "answer": "The self-defined goals of GISCO are to improve the living conditions of cocoa farmers and their families, to conserve and protect natural resources and biodiversity, and to increase the share of sustainably produced cocoa.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Adaptation and resilience goals",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the goals of the Fifth National Climate Assessment (NCA5) released in late 2023?",
+      "answer": "The goals of NCA5 include clear diversity, equity, accessibility, and inclusion (DEAI) objectives aimed at diversifying expert participation, broadening the types of knowledge included, and widening public engagement.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Adaptation and resilience goals",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the primary goal of the article discussed in the paragraph?",
+      "answer": "The primary goal of the article is to identify dimensions of energy vulnerability and empirically map the positioning of economies regarding these dimensions while assessing EU policy actions aimed at reducing vulnerability and increasing energy resilience.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Adaptation and resilience goals",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How do the consequences of climate change threaten the United Nations Sustainable Development Goals?",
+      "answer": "The consequences of climate change and natural hazard shocks threaten progress in human development, particularly the goal of sustained, inclusive, and sustainable economic growth and employment (SDG 8).",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Adaptation and resilience goals",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Adaptation and resilience goals_qna_003",
+      "value": 1
+    }
+  ]
+}

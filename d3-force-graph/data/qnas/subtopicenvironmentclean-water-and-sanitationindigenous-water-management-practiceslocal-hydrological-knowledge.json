@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge",
+      "label": "Local hydrological knowledge",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What hydrological features are exhibited by the Luvuvhu River?",
+      "answer": "The Luvuvhu River exhibits rapid flows, riffles, runs, and pools, particularly in its lowveld stretches.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Local hydrological knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How can the collaboration of scientists, policymakers, local residents, and indigenous knowledge specialists lead to novel outcomes in designing agricultural landscapes?",
+      "answer": "By combining their expertise, these stakeholders can work together to create innovative solutions that promote sustainable agricultural practices and address various challenges related to water use, disposal, and pumping.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Local hydrological knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the reported knowledge gap in the literature regarding spillways?",
+      "answer": "The knowledge gap pertains to the flow distribution across spillways and the effects of adverse conditions on spillway capacity.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Local hydrological knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_002",
+      "value": 1
+    }
+  ]
+}

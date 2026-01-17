@@ -1,0 +1,185 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "label": "Wildlife habitat assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_000",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What role do habitat structures play in nest site selection?",
+      "answer": "Habitat structures, including perches and shelter for fledglings, can significantly influence nest site selection.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodological approach was used to predict the ecological factors affecting nest site selection?",
+      "answer": "Conditional logistic regression was used to examine how ecological factors predicted the choice of nest site.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_002",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What factors influence the selection of a suitable nesting site for organisms in seasonal habitats?",
+      "answer": "The selection of a suitable nesting site is usually driven by environmental factors that may influence breeding success but are not necessarily the same as those factors.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_003",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What factors influence the selection of breeding habitats for birds?",
+      "answer": "The selection of breeding habitats depends on the availability of suitable nest locations, the suitability of the surrounding habitat for foraging and feeding nestlings, access to food resources, and predation risk.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_004",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "Why is the suitability of habitat important during pre- and post-breeding periods?",
+      "answer": "The suitability of the habitat is important during pre- and post-breeding periods for bird species that rely on the same territory during their presence in the breeding region.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is expected to influence the selection of a nest site and breeding success for Northern Wheatears?",
+      "answer": "Habitat around the cavities is expected to predict the selection of a nest site and influence breeding success.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_006",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the expected location for the nests in the study discussed in the paragraph?",
+      "answer": "The nests were expected to be south exposed and preferably located close to suitable foraging habitats, such as productive pastures interspersed with rocks and bare ground.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_007",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What habitat was actively selected by the northern lapwing for nesting?",
+      "answer": "Wetlands were the only habitat actively selected for nesting by the northern lapwing.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_008",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the relationship between plant height and ground cover and the choice of nesting habitat for the northern lapwing?",
+      "answer": "The likelihood of nesting in a cropland patch was inversely proportional to plant height and ground cover.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat assessment_qna_008",
+      "value": 1
+    }
+  ]
+}

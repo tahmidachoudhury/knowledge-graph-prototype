@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion",
+      "label": "Anaerobic digestion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is one of the effects of anaerobic digestion aside from producing biogas?",
+      "answer": "Anaerobic digestion also mineralizes part of the organic nitrogen compounds into ammonium nitrogen, which is readily available for plant uptake.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Anaerobic digestion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do longer distances to large pores affect microbial processes?",
+      "answer": "Areas with longer distances to these pores may be more inclined towards anaerobic respiration due to extended diffusion distances.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Anaerobic digestion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion_qna_001",
+      "value": 1
+    }
+  ]
+}

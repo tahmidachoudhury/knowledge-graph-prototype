@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods",
+      "label": "Ocean-based carbon capture methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What process was used to prepare the seawater samples after each incubation period?",
+      "answer": "The seawater samples were decanted into falcon tubes, centrifuged at 2200 g, and the supernatant was pipetted off; this process was repeated until the entire sample was centrifuged.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Ocean-based carbon capture methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to obtain the specific surface areas of Dicranopteris pedata REEs/C?",
+      "answer": "The specific surface areas were obtained using Brunauer-Emmett-Teller (BET, BELSORP-mini II, Japan) based on N2 adsorption and desorption curves.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Ocean-based carbon capture methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work",
+      "label": "Biological hazards in work",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What biochemical components are mentioned that may be affected by DEET in the study?",
+      "answer": "The biochemical components mentioned are proteins, lipids, carbohydrates, and pigments (chlorophyll-A, chlorophyll-B, and carotenoids).",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Biological hazards in work",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did the study find about the infectivity of the tested viruses in relation to human cells?",
+      "answer": "The study found that most of the tested viruses have the potential to enter human cells, indicating weak interspecies barriers in the early stages of viral infection.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Biological hazards in work",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work_qna_001",
+      "value": 1
+    }
+  ]
+}

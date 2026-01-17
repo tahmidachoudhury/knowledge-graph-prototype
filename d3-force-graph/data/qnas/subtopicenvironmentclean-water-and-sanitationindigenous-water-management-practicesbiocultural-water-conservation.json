@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Biocultural water conservation",
+      "label": "Biocultural water conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Biocultural water conservation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the goals of the National Cultural Flows Research Project (NCFRP) in Australia?",
+      "answer": "The NCFRP aims to support Indigenous-led science by assessing Aboriginal cultural water values, developing culturally appropriate methodologies, and recommending policy changes to improve water management and recognition of cultural flows.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Biocultural water conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Biocultural water conservation",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Biocultural water conservation_qna_000",
+      "value": 1
+    }
+  ]
+}

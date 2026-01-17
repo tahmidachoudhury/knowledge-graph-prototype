@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies",
+      "label": "Crop diversification strategies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies_qna_000",
+      "group": "QnA",
+      "label": "Experimental design and 15N application",
+      "question": "How were the microplots chosen for the WW and SB crops?",
+      "answer": "For WW, microplots were chosen where uniformly growing plants were present, whereas for SB, one representative plant was identified.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Crop diversification strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What diversification strategy is widely adopted by farmers involving pulses?",
+      "answer": "The inclusion of pulses into simplified rotations is the widely adopted diversification strategy.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Crop diversification strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What was the primary objective of the study mentioned in the paragraph?",
+      "answer": "The primary objective was to assess the overall performance of cropping systems with different levels of diversification over an 8-year study period.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Crop diversification strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What strategies are suggested to improve cereal yield fluctuations and farm profits?",
+      "answer": "Strategies include reducing harvested areas dedicated to rice and increasing areas allocated to alternative cereals.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Crop diversification strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Crop diversification strategies_qna_003",
+      "value": 1
+    }
+  ]
+}

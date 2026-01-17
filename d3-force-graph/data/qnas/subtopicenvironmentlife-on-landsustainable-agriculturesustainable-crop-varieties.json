@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties",
+      "label": "Sustainable crop varieties",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do ancient introgressions from wild ancestors play in wheat adaptation?",
+      "answer": "Ancient introgressions from wild ancestors increased diversity genome-wide and contributed to environmental adaptation in wheat.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Sustainable crop varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is phenotypic pre-screening of wild relative accessions for target traits limited?",
+      "answer": "It is limited because this screening can only effectively be performed for simple traits and has limited utility for complex adaptive traits unless evaluation is done within the genetic background of adapted cultivars.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Sustainable crop varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is leveraging genetic diversity from wild ancestors considered promising for wheat?",
+      "answer": "Leveraging genetic diversity from wild ancestors is considered promising as it helps broaden the climate adaptive potential of modern wheat.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Sustainable crop varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is SDS-PAGE used in relation to Zea mays?",
+      "answer": "SDS-PAGE is used to differentiate between cultivars of Zea mays and to identify inbred lines.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Sustainable crop varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_004",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is critical for breeding varieties adapted to local climates?",
+      "answer": "The development of effective strategies aimed at prioritizing wild relative germplasm is critical.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Sustainable crop varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What crop is considered the second most important worldwide, and how did it originate?",
+      "answer": "The allopolyploid bread wheat is the second most important crop, which originated from the hybridization of three wild grass species from the Triticum and Aegilops genera.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Sustainable crop varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_006",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What alternative strategy is suggested for prioritizing accessions of wild relatives for developing climate-resilient crops?",
+      "answer": "An alternative strategy is the development of core collections assembled from genotypes selected to maximize the genetic diversity of the sample.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Sustainable crop varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable crop varieties_qna_006",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "label": "Sustainable farming",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "By optimizing allocations of harvested area, what potential benefits can be achieved?",
+      "answer": "Optimized allocations of harvested area can reduce climate-induced production loss by 11% or improve farmer net profit by 11% while maintaining calorie production and cropland area.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Sustainable farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main focus of the exploratory study discussed in the paragraph?",
+      "answer": "The study focuses on understanding the institutional factors that influence the fulfillment of integrative potential in the Dutch rural context for reducing environmental impacts in energy production and agriculture while restoring nature.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Sustainable farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the implications of failing to recognize the potential of integrative solutions in rural areas?",
+      "answer": "Failing to recognize the potential of integrative solutions may lead to less effective environmental management and a failure to harness opportunities for sustainability improvements in energy and agriculture.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Sustainable farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What do CNABMs focus on in terms of agricultural practices?",
+      "answer": "CNABMs focus on the ways farmers work and make money while carefully handling natural resources, managing the soil sustainably, and minimizing emissions.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Sustainable farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_004",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which specific studies are mentioned in the paragraph, and what areas do they focus on?",
+      "answer": "Lu et al. studied multidimensional coordinated development in agriculture, while Zhao et al. examined interactions and trade-offs among economic, social, and environmental aspects in the context of water resource limitations in China's capital region.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Sustainable farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_005",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is economic viability important in sustainable farming and food production?",
+      "answer": "Economic viability is essential in sustainable farming and food production to ensure that producers can make a living while practising sustainable methods, thus promoting long-term economic sustainability in agriculture.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Sustainable farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_006",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What remains a significant challenge when balancing agricultural practices?",
+      "answer": "Balancing productivity, profitability, and environmental sustainability is a significant challenge.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Sustainable farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_007",
+      "group": "QnA",
+      "label": "",
+      "question": "How have policies concerning agricultural practices evolved over time in the European Union?",
+      "answer": "Agricultural policies in the European Union have evolved from subsidizing specific agricultural products for storage purposes to incorporating norms such as Multiple Compliance to redirect agricultural practices towards the conservation of existing natural resources.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Sustainable farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_008",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is it important to review the impacts of past policies on farmers and farming systems?",
+      "answer": "It is important to understand how past policies have impacted them to inform effective agricultural strategies that consider farming practices, environmental outcomes, farm viability, and human and animal wellbeing.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Sustainable farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "target": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "target": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "target": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "target": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "target": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "target": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "target": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "target": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Sustainable farming",
+      "target": "Subtopic:Social|No poverty|Rural development|Sustainable farming_qna_008",
+      "value": 1
+    }
+  ]
+}

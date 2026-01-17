@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release",
+      "label": "Permafrost carbon release",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is the Global Warming Potential (GWP100) investigated in the studies mentioned?",
+      "answer": "GWP100 is investigated by disaggregating it into fossil, biogenic, and land use changes, which allows for an examination of the carbon saving potential of bio-based materials.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Permafrost carbon release",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is there a need for studies measuring N2 emissions at the field scale?",
+      "answer": "The lack of N2 flux measurements restricts the validation and improvement of biogeochemical models, which are crucial for understanding nitrogen cycling.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Permafrost carbon release",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much faster is climate change advancing in the Arctic compared to the global average?",
+      "answer": "Climate change is advancing two to four times faster in the Arctic than the global average.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Permafrost carbon release",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is there a limited number of studies on the EKC hypothesis for Russia?",
+      "answer": "Despite being one of the main polluters on a global scale, few studies exist in the literature for Russia.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Permafrost carbon release",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Permafrost carbon release_qna_003",
+      "value": 1
+    }
+  ]
+}

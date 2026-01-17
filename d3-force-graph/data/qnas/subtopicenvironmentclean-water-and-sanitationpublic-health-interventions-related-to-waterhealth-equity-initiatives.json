@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Health equity initiatives",
+      "label": "Health equity initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Health equity initiatives_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the key themes analyzed in relation to HIA in the research?",
+      "answer": "The key themes are equity and participation, and methodology in understanding the relationships between proposed actions and health outcomes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "subtopic": "Health equity initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Health equity initiatives",
+      "target": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Health equity initiatives_qna_000",
+      "value": 1
+    }
+  ]
+}

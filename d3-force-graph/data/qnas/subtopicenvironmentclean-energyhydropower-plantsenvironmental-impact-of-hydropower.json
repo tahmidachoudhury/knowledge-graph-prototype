@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower",
+      "label": "Environmental impact of hydropower",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do anthropogenic activities impact fish biodiversity globally?",
+      "answer": "They severely affect fish biodiversity in more than half of the 2,456 river basins worldwide.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Environmental impact of hydropower",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the environmental pillar of the three-pillar model incorporate in terms of sustainability?",
+      "answer": "The environmental pillar incorporates indicators related to the physical environment, such as greenhouse gas emissions and eutrophication of waterways.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Environmental impact of hydropower",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the economic impact of water supply disruption from the Selangor River in Malaysia affect sustainability efforts in the region?",
+      "answer": "The economic impact of water supply disruption from the Selangor River in Malaysia can have significant implications on sustainability efforts in the region, as it can disrupt various sectors dependent on water, such as agriculture, industry, and households, leading to economic losses and challenges in maintaining environmental sustainability.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Environmental impact of hydropower",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Environmental impact of hydropower_qna_002",
+      "value": 1
+    }
+  ]
+}

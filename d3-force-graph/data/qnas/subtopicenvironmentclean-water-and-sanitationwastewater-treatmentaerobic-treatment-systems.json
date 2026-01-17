@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Aerobic treatment systems",
+      "label": "Aerobic treatment systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Aerobic treatment systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is aeroecology?",
+      "answer": "Aeroecology is the study of life in the air.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Aerobic treatment systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Aerobic treatment systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Aerobic treatment systems_qna_000",
+      "value": 1
+    }
+  ]
+}

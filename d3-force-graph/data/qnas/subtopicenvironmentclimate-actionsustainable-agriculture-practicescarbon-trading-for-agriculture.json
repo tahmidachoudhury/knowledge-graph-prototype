@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon trading for agriculture",
+      "label": "Carbon trading for agriculture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon trading for agriculture_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How do pollution taxes on farmers vary among Member States in the EU?",
+      "answer": "Pollution taxes imposed on farmers, particularly applicable to NH3 emissions, vary greatly among Member States, with some imposing low taxes while others have higher rates, indicating a lack of uniformity in applying the \"polluter pays\" principle.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Carbon trading for agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon trading for agriculture_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of GHG emissions does the agriculture sector contribute according to Parmesan et al. (2022)?",
+      "answer": "The agriculture sector contributes approximately 22% of GHG emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Carbon trading for agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon trading for agriculture",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon trading for agriculture_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon trading for agriculture",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon trading for agriculture_qna_001",
+      "value": 1
+    }
+  ]
+}

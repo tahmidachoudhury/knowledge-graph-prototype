@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Capital market regulations",
+      "label": "Capital market regulations",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance"
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Capital market regulations_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the two ECAs that were studied for changes in their portfolios?",
+      "answer": "The two ECAs studied are Exlm and UKEF.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "subtopic": "Capital market regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Capital market regulations",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Capital market regulations_qna_000",
+      "value": 1
+    }
+  ]
+}

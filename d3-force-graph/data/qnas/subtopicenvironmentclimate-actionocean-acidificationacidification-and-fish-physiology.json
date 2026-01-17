@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology",
+      "label": "Acidification and fish physiology",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What physiological reason is given for the counter-selection of smaller individuals in open environments?",
+      "answer": "Smaller individuals have a greater surface/volume ratio, making them more sensitive to desiccation in an open environment, leading to their counter-selection.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and fish physiology",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What do the results suggest about the relationship between ecology and morphological responses?",
+      "answer": "The results suggest that the ecology of each species plays a crucial role in shaping their morphological and physiological responses to land use changes and seasonal environmental changes.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and fish physiology",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What kind of shifts can result from the impacts on aquatic ecosystems mentioned in the paragraph?",
+      "answer": "The impacts can lead to shifts in aquatic ecosystem functioning, which can have consequences for human health and wellbeing.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and fish physiology",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and fish physiology_qna_002",
+      "value": 1
+    }
+  ]
+}

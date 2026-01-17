@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Wealth redistribution|Income reallocation",
+      "label": "Income reallocation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Wealth redistribution"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Wealth redistribution|Income reallocation_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Which policy proposals and concepts does the review suggest exploring in relation to alternative currencies?",
+      "answer": "The review suggests exploring universal basic income, localization, and entropy in relation to alternative currencies.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Wealth redistribution",
+      "subtopic": "Income reallocation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Wealth redistribution|Income reallocation",
+      "target": "Subtopic:Social|Reduced inequalities|Wealth redistribution|Income reallocation_qna_000",
+      "value": 1
+    }
+  ]
+}

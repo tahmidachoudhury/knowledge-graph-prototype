@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Satellite surveillance",
+      "label": "Satellite surveillance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Satellite surveillance_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What concerns did producers raise about satellite-based sustainability surveillance?",
+      "answer": "Producers expressed concerns about the implications for their agency, including actions by non-farming third parties like bank loan call-ins and remote surveillance.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Satellite surveillance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Satellite surveillance",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Satellite surveillance_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Human rights|Indigenous rights advocacy",
+      "label": "Indigenous rights advocacy",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Human rights"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Human rights|Indigenous rights advocacy_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What is COICA and what is its role in the Amazon?",
+      "answer": "COICA is the Coordinator of the Indigenous Organizations of the Amazon Basin, representing approximately 511 Indigenous Peoples, including 66 groups living in voluntary isolation. It advocates for the rights and interests of Indigenous Peoples in the Amazon region.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Human rights",
+      "subtopic": "Indigenous rights advocacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Human rights|Indigenous rights advocacy",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Human rights|Indigenous rights advocacy_qna_000",
+      "value": 1
+    }
+  ]
+}

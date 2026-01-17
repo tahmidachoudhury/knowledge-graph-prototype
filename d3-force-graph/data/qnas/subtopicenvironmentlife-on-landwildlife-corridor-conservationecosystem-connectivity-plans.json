@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans",
+      "label": "Ecosystem connectivity plans",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the paper propose to use ocean ecosystem connectivity in marine reserve design?",
+      "answer": "The paper suggests leveraging the spatial connectivity of ocean ecosystems as a means to incentivize a bilateral marine reserve agreement.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Ecosystem connectivity plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "In what contexts has the creation of resilient ecological networks been suggested to protect biodiversity?",
+      "answer": "The creation of resilient ecological networks has been suggested in contexts such as spatial planning, practical conservation management, and recent EU policy.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Ecosystem connectivity plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans_qna_001",
+      "value": 1
+    }
+  ]
+}

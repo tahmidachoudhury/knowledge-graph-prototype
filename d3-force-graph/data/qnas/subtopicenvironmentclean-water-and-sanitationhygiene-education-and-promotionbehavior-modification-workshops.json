@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavior modification workshops",
+      "label": "Behavior modification workshops",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavior modification workshops_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the study intend to apply the MCA methodology?",
+      "answer": "The study intends to apply the MCA methodology at in-person or online workshops through a tool for identifying and prioritizing NBS/BES.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "subtopic": "Behavior modification workshops",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavior modification workshops",
+      "target": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavior modification workshops_qna_000",
+      "value": 1
+    }
+  ]
+}

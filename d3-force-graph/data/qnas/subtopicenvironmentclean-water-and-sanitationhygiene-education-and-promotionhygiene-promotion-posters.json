@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Hygiene promotion posters",
+      "label": "Hygiene promotion posters",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Hygiene promotion posters_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What methods were used to communicate dynamic social norms in the intervention supermarkets?",
+      "answer": "Dynamic norms were communicated textually on stickers and banners placed at various locations within the store, such as the entrance and meat aisles.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "subtopic": "Hygiene promotion posters",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Hygiene promotion posters",
+      "target": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Hygiene promotion posters_qna_000",
+      "value": 1
+    }
+  ]
+}

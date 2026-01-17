@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management",
+      "label": "Supply chain management",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary purpose of ultra-processing food (UPFs) according to Monteiro et al.?",
+      "answer": "The primary purpose of ultra-processing food is profit, relying on cheap commodity ingredients and processing technologies to minimize costs while using branding and marketing to drive sales.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Supply chain management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the purpose of finding the values for T and AWAY by equating the first-order partial derivative of Equation (13) to zero with respect to the parameters T and AWAY?",
+      "answer": "The purpose of finding these values is to optimize the total profit of the supplier by determining the most efficient cycle time T and circularity index AWAY.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Supply chain management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management_qna_002",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What is the significance of bi-objective optimization in a three-echelon multiserver supply-chain problem in congested systems?",
+      "answer": "Bi-objective optimization in a three-echelon multiserver supply-chain problem helps in maximizing efficiency and reducing congestion in the supply chain network while also minimizing costs and resource utilization.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Supply chain management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the main components of the four \"tiers\" commonly distinguished in the supply chain?",
+      "answer": "The four \"tiers\" in the supply chain are Tier 1 for finished product assembly, Tier 2 for manufacturing subcomponents, Tier 3 for processing raw materials, and Tier 4 for cultivation, farming, or extraction of raw materials.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Supply chain management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of market uncertainty in distributing and transporting fashion goods?",
+      "answer": "Incorporating stochastic market demands helps in better predicting and adapting to fluctuations in demand, leading to more efficient transportation and logistics strategies in the fashion industry.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Supply chain management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Supply chain management_qna_004",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance",
+      "label": "Environmental compliance",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the importance of external communication on legal compliance by Italian waste treatment companies in the context of sustainability?",
+      "answer": "External communication on legal compliance by Italian waste treatment companies is significant as it demonstrates transparency, accountability, and adherence to regulations, thereby promoting sustainability practices.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "subtopic": "Environmental compliance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Should Switzerland enforce the same strict environmental regulations on Swiss companies producing goods abroad as they do domestically?",
+      "answer": "Yes, it is essential to maintain environmental standards regardless of location to ensure sustainability and responsibility.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "subtopic": "Environmental compliance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the role of environmental permits according to the paragraph?",
+      "answer": "Environmental permits are a requirement upon industrial producers and infrastructure developers.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "subtopic": "Environmental compliance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Environmental compliance_qna_002",
+      "value": 1
+    }
+  ]
+}

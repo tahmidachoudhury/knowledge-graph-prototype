@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "label": "Air data sharing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many response options were identified in total, and how many were shared between different nexus elements?",
+      "answer": "There were 71 response options in total, with 4 being shared between different nexus elements.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air data sharing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is standardizing and publicly archiving these datasets important?",
+      "answer": "It reduces computing and access difficulties, which facilitates aeroecology research and applications.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air data sharing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Who is granted access to the European PVOL data?",
+      "answer": "Access is granted to members of the ENRAM consortium and authors of the paper, as well as meteorological institutes of many OPERA member countries.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air data sharing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What computational benefits does the novel merging approach provide over traditional model ensembling methods in UDA?",
+      "answer": "The novel merging approach provides a cost-free solution that avoids additional training costs and computational overhead linked with traditional model ensembling methods, as it only requires a single model inference for parameter merging.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air data sharing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_003",
+      "value": 1
+    }
+  ]
+}

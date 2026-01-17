@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal tourism|Coastal destinations",
+      "label": "Coastal destinations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal tourism"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal tourism|Coastal destinations_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which three destinations in Mexico are noted as the main sun and beach tourist locations?",
+      "answer": "The three main sun and beach destinations in Mexico are Cancun, Los Cabos, and Puerto Vallarta.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal tourism",
+      "subtopic": "Coastal destinations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal tourism|Coastal destinations",
+      "target": "Subtopic:Environment|Life below water|Coastal tourism|Coastal destinations_qna_000",
+      "value": 1
+    }
+  ]
+}

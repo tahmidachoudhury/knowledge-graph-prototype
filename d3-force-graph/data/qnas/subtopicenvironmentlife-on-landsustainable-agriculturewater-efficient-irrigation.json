@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Water-efficient irrigation",
+      "label": "Water-efficient irrigation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Water-efficient irrigation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the goal of the watering procedure in the microplots?",
+      "answer": "The goal was to completely exchange the soil water inside the upper 20 cm of the microplots with the tracer solution for homogenous label distribution.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Water-efficient irrigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Water-efficient irrigation",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Water-efficient irrigation_qna_000",
+      "value": 1
+    }
+  ]
+}

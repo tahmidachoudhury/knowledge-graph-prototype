@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Public health awareness",
+      "label": "Public health awareness",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Public health awareness_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How was the survey for HIA practitioners distributed?",
+      "answer": "The survey invitation was circulated through existing email networks, including HIANET and various public health and impact assessment associations.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Public health awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Public health awareness",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Public health awareness_qna_000",
+      "value": 1
+    }
+  ]
+}

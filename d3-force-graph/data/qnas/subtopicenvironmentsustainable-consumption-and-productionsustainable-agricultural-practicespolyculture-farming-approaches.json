@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches",
+      "label": "Polyculture farming approaches",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of cocoa cultivation has increased due to the creation and distribution of hybrid cocoa varieties in West Africa?",
+      "answer": "The use of full-sun monocrop cocoa plantations has increased due to the creation and distribution of hybrid cocoa varieties.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Polyculture farming approaches",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why does UPF production contribute to biodiversity loss?",
+      "answer": "UPF production relies heavily on monoculture cropping for key ingredients, which reduces agricultural biodiversity and depletes soil health.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Polyculture farming approaches",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What evidence does the paper provide to support the idea of a polycrisis in society?",
+      "answer": "The paper states that the widespread perception of polycrisis indicates that social practices urgently need to change, reflecting an incongruity within biosemiotic processes.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Polyculture farming approaches",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Polyculture farming approaches_qna_002",
+      "value": 1
+    }
+  ]
+}

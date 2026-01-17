@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient water treatment",
+      "label": "Energy-efficient water treatment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient water treatment_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of the review discussed in the abstract?",
+      "answer": "The purpose of the review is to gain attention about advanced and green technology that has dual action for both cleaning wastewater and producing energy.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Energy-efficient water treatment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient water treatment",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient water treatment_qna_000",
+      "value": 1
+    }
+  ]
+}

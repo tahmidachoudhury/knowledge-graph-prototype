@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use legal frameworks",
+      "label": "Land use legal frameworks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use legal frameworks_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What kind of legal framework does the approach described in the paragraph operate under?",
+      "answer": "The approach operates under a largely unrestricted legal framework.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use legal frameworks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use legal frameworks",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use legal frameworks_qna_000",
+      "value": 1
+    }
+  ]
+}

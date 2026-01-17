@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Economic viability of green building practices",
+      "label": "Economic viability of green building practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Economic viability of green building practices_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the study approach understanding the multifunctionality concept of GI?",
+      "answer": "The study uses a combination of the Gini coefficient and fuzzy synthetic evaluation to understand the multifunctionality concept of GI among built environment professionals.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Economic viability of green building practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Economic viability of green building practices_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did Wang et al. (2012) assess the risk related to the implementation of green practice in FSCs?",
+      "answer": "Wang et al. (2012) assessed the risk related to the implementation of green practices in FSCs through empirical analysis and qualitative evaluation.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Economic viability of green building practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Economic viability of green building practices",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Economic viability of green building practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Economic viability of green building practices",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Economic viability of green building practices_qna_001",
+      "value": 1
+    }
+  ]
+}

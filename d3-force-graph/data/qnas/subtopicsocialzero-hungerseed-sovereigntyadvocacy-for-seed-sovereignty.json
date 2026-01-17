@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Advocacy for seed sovereignty",
+      "label": "Advocacy for seed sovereignty",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Advocacy for seed sovereignty_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "According to which organization's rules were the morphological parameters assessed?",
+      "answer": "The morphological parameters were assessed according to the International Seed Testing Association (ISTA) rules.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Advocacy for seed sovereignty",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Advocacy for seed sovereignty",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Advocacy for seed sovereignty_qna_000",
+      "value": 1
+    }
+  ]
+}

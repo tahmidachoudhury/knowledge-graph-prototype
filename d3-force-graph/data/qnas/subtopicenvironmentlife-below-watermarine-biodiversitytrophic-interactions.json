@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions",
+      "label": "Trophic interactions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the significance of the size/time of diet shift mentioned in the paragraph?",
+      "answer": "The Gompertz model's fit is consistent with the size/time of diet shift from herbivory.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Trophic interactions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the concept of a coupled system refer to?",
+      "answer": "The concept of a coupled system refers to the phenomenon where two or more systems influence each other through multiple forms of interaction.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Trophic interactions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does Fig. 1 illustrate about basic ecosystems?",
+      "answer": "Fig. 1 illustrates the relations between functional elements such as plants, herbivores, and carnivores in an ecosystem, along with the specific relations among structural elements inside the functional node herbivores.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Trophic interactions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_002",
+      "value": 1
+    }
+  ]
+}

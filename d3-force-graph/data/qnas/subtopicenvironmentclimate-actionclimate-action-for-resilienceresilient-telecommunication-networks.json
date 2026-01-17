@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient telecommunication networks",
+      "label": "Resilient telecommunication networks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient telecommunication networks_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do the data from the GSA and HYD network operators compare in terms of observed changes in heavy rainfall?",
+      "answer": "The data from both network operators (GSA and HYD) provide fully consistent results, supporting the validity of the observed changes in heavy rainfall.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Resilient telecommunication networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient telecommunication networks",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient telecommunication networks_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded hillslopes",
+      "label": "Restoration of degraded hillslopes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded hillslopes_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the primary features characterizing the landscape of AJK?",
+      "answer": "The landscape of AJK is primarily characterized by mountainous features, including terraces and sharp, curved valleys carved by numerous streams and rivers.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Restoration of degraded hillslopes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded hillslopes",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded hillslopes_qna_000",
+      "value": 1
+    }
+  ]
+}

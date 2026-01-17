@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy",
+      "label": "Ccs in conjunction with renewable energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the key requirements for a low-carbon power system in the transition to a low-carbon economy?",
+      "answer": "The key requirements include sufficient limitations on low-carbon generator power age and supply, as well as reliable fuel sources to ensure power generation at all times.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Ccs in conjunction with renewable energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the key requirements for a low-carbon power system during the transition to a low-carbon economy?",
+      "answer": "The key requirements for a low-carbon power system during the transition to a low-carbon economy include sufficient and growing limitations on low-carbon generator power age and supply, as well as solid fuel sources to ensure power generation at all times.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Ccs in conjunction with renewable energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which types of energy technologies are considered in the study?",
+      "answer": "The study considers both novel energy technologies (e.g., geothermal energy and CCS) and established technologies (e.g., wind and nuclear energy).",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Ccs in conjunction with renewable energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Ccs in conjunction with renewable energy_qna_002",
+      "value": 1
+    }
+  ]
+}

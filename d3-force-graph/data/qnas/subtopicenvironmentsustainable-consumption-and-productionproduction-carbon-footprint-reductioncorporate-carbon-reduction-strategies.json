@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies",
+      "label": "Corporate carbon reduction strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does R&D investment in CO2 emission reduction impact a company's performance according to Lee et al.?",
+      "answer": "Lee et al. claimed that R&D investment in the area of CO2 emission reduction has a positive impact on a company??s performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Corporate carbon reduction strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How do fluctuating carbon prices affect a company's operational strategy?",
+      "answer": "Fluctuating carbon prices affect a company's operational strategy by increasing running costs and creating uncertainty in production activities due to extreme volatility.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Corporate carbon reduction strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies_qna_001",
+      "value": 1
+    }
+  ]
+}

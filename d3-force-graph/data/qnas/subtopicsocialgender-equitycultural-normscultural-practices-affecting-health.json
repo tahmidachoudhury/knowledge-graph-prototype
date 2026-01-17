@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural practices affecting health",
+      "label": "Cultural practices affecting health",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural practices affecting health_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Why do Yates and Evans (2016) emphasize the importance of contextualizing behaviours when exploring everyday practices?",
+      "answer": "Yates and Evans (2016) stress the importance of contextualizing behaviours to consider the dynamics of related activities encompassed in the practice and the effects of related and interlocking practices and cultural meanings around it for a more comprehensive understanding.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Cultural practices affecting health",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural practices affecting health_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What regions have most research and practice of HIA taken place in?",
+      "answer": "Most research and practice of HIA have taken place in Europe, North America, and Oceania.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Cultural practices affecting health",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Cultural practices affecting health",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Cultural practices affecting health_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Cultural practices affecting health",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Cultural practices affecting health_qna_001",
+      "value": 1
+    }
+  ]
+}

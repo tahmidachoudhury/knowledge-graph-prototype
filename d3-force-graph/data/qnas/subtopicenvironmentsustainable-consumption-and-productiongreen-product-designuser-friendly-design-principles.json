@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles",
+      "label": "User-friendly design principles",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles_qna_000",
+      "group": "QnA",
+      "label": "User engagement",
+      "question": "What positive features of the app do users express sentiments about?",
+      "answer": "Users express positive sentiments about the app's intuitive design, real-time feedback, and gamification features.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "User-friendly design principles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What areas do user reviews indicate need improvement for the app?",
+      "answer": "User reviews indicate that there are areas for improvement related to user-centered design, usability, and functionality of the app.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "User-friendly design principles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What insights do spontaneous consumer expressions offer according to Fronzetti Colladon (2018)?",
+      "answer": "They offer valuable insights into product features and user experience when analyzed without creating a sense of surveillance.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "User-friendly design principles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|User-friendly design principles_qna_002",
+      "value": 1
+    }
+  ]
+}

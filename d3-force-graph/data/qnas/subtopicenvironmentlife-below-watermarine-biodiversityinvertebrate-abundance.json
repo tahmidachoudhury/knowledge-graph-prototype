@@ -1,0 +1,185 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "label": "Invertebrate abundance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was measured using the three longest arms in the study?",
+      "answer": "Arm length and the number of pointed and marginal spines were measured.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Invertebrate abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which types of organisms have shown a striking link between morphology and ecology?",
+      "answer": "Organisms with low mobility, such as amphibians and reptiles, have shown a particularly striking link between morphology and ecology.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Invertebrate abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the observed effects of high fragmentation on infaunal communities?",
+      "answer": "High fragmentation was linked to increased evenness and shifts in species composition within infaunal communities.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Invertebrate abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which epifaunal species are particularly sensitive to structural changes in their environment?",
+      "answer": "Epifaunal species such as annelids, crustaceans, and mollusks are particularly sensitive to structural changes, leading to shifts in their species richness and abundance.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Invertebrate abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_004",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How has previous research approached the study of epifaunal and infaunal communities?",
+      "answer": "Previous research has often studied these communities separately, without fully examining the role of fragmentation in shaping their structure and dynamics.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Invertebrate abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which macroinvertebrate families were identified as having high taxon abundances during the hot wet season?",
+      "answer": "The macroinvertebrate families identified were Odonata, Diptera, Coleoptera, Hemiptera, Trichoptera, and Ephemeroptera.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Invertebrate abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_006",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do macroinvertebrate communities function as bioindicators?",
+      "answer": "Macroinvertebrate communities are reliable bioindicators that assess the ecological integrity of river systems and respond to environmental changes caused by human activities and perturbations.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Invertebrate abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_007",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What role do macroinvertebrates play in the aquatic ecosystem health?",
+      "answer": "They play a vital role in supporting the overall health of aquatic ecosystems, as their lengthy life cycles allow them to respond to environmental changes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Invertebrate abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_008",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the collected macroinvertebrates preserved after being sampled?",
+      "answer": "The collected macroinvertebrates were preserved in a 500 mL plastic container with 70% ethanol solution.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Invertebrate abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Invertebrate abundance_qna_008",
+      "value": 1
+    }
+  ]
+}

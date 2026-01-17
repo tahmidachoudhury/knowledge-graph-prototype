@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Aquaponics farming systems",
+      "label": "Aquaponics farming systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Aquaponics farming systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the role of aquafaba in the production of eggless gluten-free (ESGF) cakes?",
+      "answer": "Aquafaba was used as a replacement for whole eggs in ESGF cakes, allowing for the creation of a gluten-free cake while maintaining similar textures and properties.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Aquaponics farming systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Aquaponics farming systems",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Aquaponics farming systems_qna_000",
+      "value": 1
+    }
+  ]
+}

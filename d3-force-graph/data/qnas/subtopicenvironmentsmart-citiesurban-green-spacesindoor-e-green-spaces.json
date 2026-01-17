@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Indoor e-green spaces",
+      "label": "Indoor e-green spaces",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Indoor e-green spaces_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main issue regarding contact with nature in European countries?",
+      "answer": "Contact with nature is becoming scarcer in European countries where most of the population lives in cities, largely due to increased indoor activities and the pace of life.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Indoor e-green spaces",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Indoor e-green spaces",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Indoor e-green spaces_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives",
+      "label": "Zero carbon building initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the aim of the study discussed in the paragraph?",
+      "answer": "The aim is to fill the knowledge gap regarding ethnic minority residential buildings in the Sichuan Plateau, understand their actual situation, and propose energy-saving measures.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Zero carbon building initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the overall goal of improving energy-saving design in rural residential buildings in severe cold regions of China?",
+      "answer": "The overall goal is to promote the sustainable development of the construction industry and contribute to a better and more livable living environment.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Zero carbon building initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does the study aim to achieve regarding ethnic minority residential buildings in the Sichuan Plateau?",
+      "answer": "The study aims to fill the knowledge gap by gaining an in-depth understanding of the actual situation and proposing energy-saving measures for sustainable development.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Zero carbon building initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Zero carbon building initiatives_qna_002",
+      "value": 1
+    }
+  ]
+}

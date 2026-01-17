@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Permaculture adoption",
+      "label": "Permaculture adoption",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Permaculture adoption_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the three major departures discussed in the article?",
+      "answer": "The three major departures include: 1) affirming relationships to place as a way of remembering what it means to be human, 2) moving beyond anthropomorphization toward animism to recognize the sentience of other-than-human beings, and 3) contributing to a transformative human ethic that restores relationships with the many beings that support life.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Permaculture adoption",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Permaculture adoption_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some consequences of the individualistic ethics of Western thinking mentioned in the paragraph?",
+      "answer": "The consequences include the colonization of nature and the mechanization of ecosystems for human society.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Permaculture adoption",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Permaculture adoption",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Permaculture adoption_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Permaculture adoption",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Permaculture adoption_qna_001",
+      "value": 1
+    }
+  ]
+}

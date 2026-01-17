@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history",
+      "label": "Ice core research for climate history",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What years were analyzed for the UHI seasonal analysis mentioned in the paragraph?",
+      "answer": "The UHI seasonal analysis was based on observations from the years 1980 to 2019.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Ice core research for climate history",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What specific data is summarized in the editorial regarding climate change?",
+      "answer": "The editorial summarizes data on levels and isotope compositions of atmospheric carbon dioxide since 1000 AD, global temperature anomalies since 1880 AD, and average air temperatures in Connecticut since 1896 AD.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Ice core research for climate history",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the temperature anomaly from 1920 to 1960 correlate with industrialization?",
+      "answer": "The temperature anomaly increased smoothly by about +0.2°C from 1920 to 1960, correlating mainly with the period of industrialization and increasing coal combustion.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Ice core research for climate history",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What historical comparison is made regarding temperature variations?",
+      "answer": "Skeptics argue that temperature rise could be of natural origin because similar variations have occurred in the past at geological time scales.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Ice core research for climate history",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What time period is used for the current climate data in WorldClim?",
+      "answer": "The current climate data from WorldClim is averaged from the years 1970-2000.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Ice core research for climate history",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice core research for climate history_qna_004",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Municipal solid waste (msw) analytics",
+      "label": "Municipal solid waste (msw) analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Municipal solid waste (msw) analytics_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What m/z range does the method acquire MSE data for?",
+      "answer": "The method acquires MSE data in the m/z range from 50 to 2000.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "subtopic": "Municipal solid waste (msw) analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Waste management|Municipal solid waste (msw) analytics",
+      "target": "Subtopic:Environment|Smart cities|Waste management|Municipal solid waste (msw) analytics_qna_000",
+      "value": 1
+    }
+  ]
+}

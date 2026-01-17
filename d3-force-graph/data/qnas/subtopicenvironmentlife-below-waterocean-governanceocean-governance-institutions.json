@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance institutions",
+      "label": "Ocean governance institutions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance institutions_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is the geographical context of the institutions mentioned in the paragraph?",
+      "answer": "The institutions mentioned are located in the UK.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "Ocean governance institutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance institutions",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance institutions_qna_000",
+      "value": 1
+    }
+  ]
+}

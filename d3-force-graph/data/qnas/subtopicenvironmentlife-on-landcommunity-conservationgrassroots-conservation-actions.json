@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Grassroots conservation actions",
+      "label": "Grassroots conservation actions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Grassroots conservation actions_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What do action situations exist within?",
+      "answer": "Action situations exist within a larger context of biophysical conditions, attributes of community, and rules-in-use.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Grassroots conservation actions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Grassroots conservation actions_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What role can householders in residential gardens play in conservation?",
+      "answer": "Household actions in residential gardens can lead to conservation gains and broader engagement in nature appreciation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Grassroots conservation actions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Grassroots conservation actions",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Grassroots conservation actions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Grassroots conservation actions",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Grassroots conservation actions_qna_001",
+      "value": 1
+    }
+  ]
+}

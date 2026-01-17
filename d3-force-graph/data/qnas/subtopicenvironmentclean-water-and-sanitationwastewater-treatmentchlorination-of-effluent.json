@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Chlorination of effluent",
+      "label": "Chlorination of effluent",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Chlorination of effluent_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which microalgal species was noted for its effectiveness in removing DEET from wastewater?",
+      "answer": "Chlorella vulgaris was identified as an effective species for removing 73% of 2 mg/L DEET from wastewater.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Chlorination of effluent",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Chlorination of effluent",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Chlorination of effluent_qna_000",
+      "value": 1
+    }
+  ]
+}

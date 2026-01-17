@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration",
+      "label": "Grassland restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors have contributed to the population losses of Lycaena tityrus?",
+      "answer": "Lycaena tityrus has suffered substantial population losses due to grassland intensification, meadow conversion, and afforestation in recent decades.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Grassland restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the main threat to grassland biodiversity in Western Europe?",
+      "answer": "The main threat to grassland biodiversity in Western Europe is land-use intensification, which includes practices such as fertilizer application and high-density grazing.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Grassland restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of disturbances do many grassland bryophyte species adapt to?",
+      "answer": "Many grassland bryophyte species are adapted to low but regular disturbances, such as trampling by grazing animals, which create patches of bare ground for colonization.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Grassland restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What factors were manipulated in the grassland experiment alongside nitrogen fertilization?",
+      "answer": "The factors manipulated in the grassland experiment were vascular plant species richness, vascular plant functional composition, and foliar fungal pathogen removal.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Grassland restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can habitat modification benefit biodiversity in seminatural grasslands?",
+      "answer": "Habitat modification can benefit biodiversity in seminatural grasslands through the maintenance of these habitats, which have high levels of biodiversity due to the long history of livestock farming providing time for species to adapt.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Grassland restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Grassland restoration_qna_004",
+      "value": 1
+    }
+  ]
+}

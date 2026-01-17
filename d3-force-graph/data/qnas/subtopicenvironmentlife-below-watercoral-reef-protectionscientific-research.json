@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Scientific research",
+      "label": "Scientific research",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Scientific research_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to extract and purify DNA from coral tissue biopsies and water samples?",
+      "answer": "DNA was extracted and purified from SDS archives using established protocols described in Baker and Cunning (2016).",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Scientific research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Scientific research",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Scientific research_qna_000",
+      "value": 1
+    }
+  ]
+}

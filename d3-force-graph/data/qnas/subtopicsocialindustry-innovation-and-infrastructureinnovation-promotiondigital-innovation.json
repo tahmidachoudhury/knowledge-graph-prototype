@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Digital innovation",
+      "label": "Digital innovation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Digital innovation_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "According to Giuseppe De Ruvo, what is the misconception about algorithms in the context of digital capitalism?",
+      "answer": "De Ruvo argues that the notion of algorithms being objective is a practical ideology that misleads individuals into thinking they can trust algorithmic outputs as completely accurate, while in reality, algorithms often make predictions that can be inaccurate and biased.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Digital innovation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Digital innovation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Digital innovation_qna_000",
+      "value": 1
+    }
+  ]
+}

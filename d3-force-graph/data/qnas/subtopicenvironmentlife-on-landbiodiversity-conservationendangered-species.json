@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species",
+      "label": "Endangered species",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of amphibian species are threatened with extinction as reported by the IUCN Red List of Threatened Species?",
+      "answer": "According to the IUCN Red List, 41% of amphibian species are threatened with extinction.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Endangered species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species_qna_001",
+      "group": "QnA",
+      "label": "Ecology and regulation",
+      "question": "What factors contribute to the swift parrot's elevated risk of extinction?",
+      "answer": "Key habitat loss, concurrent threats such as invasive species pressure and climate change, and unabated population decline contribute to the swift parrot's elevated risk of extinction.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Endangered species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the primary threats to many mammal species according to the paragraph?",
+      "answer": "The primary threats to many mammal species are anthropogenic factors such as habitat degradation, fragmentation, loss of habitats, persecution, and climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Endangered species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How can small mammals be further endangered aside from habitat destruction?",
+      "answer": "Small mammals can be further endangered by introduced or invasive predatory species and by being perceived as dangerous disease vectors or pests.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Endangered species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species_qna_004",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the two largest threats to amphibians and birds as identified through analysis of the IUCN Red List data?",
+      "answer": "Agriculture is the most prevalent threat to amphibians, while hunting and trapping are the most substantial threats to birds.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Endangered species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Endangered species_qna_004",
+      "value": 1
+    }
+  ]
+}

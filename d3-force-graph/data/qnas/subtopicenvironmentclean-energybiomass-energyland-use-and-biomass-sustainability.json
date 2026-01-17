@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability",
+      "label": "Land use and biomass sustainability",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What societal challenges are addressed in the context of the study?",
+      "answer": "The study addresses challenges related to sustainable energy transition, nature restoration, and environmental impacts from agriculture.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Land use and biomass sustainability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How is biomass production characterized in one of the case studies?",
+      "answer": "Biomass production is characterized as an integrative solution for sustainable energy production, nature restoration, reduced environmental impacts, and socio-economic support for the farming community.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Land use and biomass sustainability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What do the comprehensive framings of agricultural sustainability address according to the paragraph?",
+      "answer": "They address the unaccounted-for externalities of food, fiber, and fuel production while acknowledging the intersections and overlaps between sustainability pillars.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Land use and biomass sustainability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are some key implications of this study for ecosystem management?",
+      "answer": "The study has important implications for sustainable ecosystem management and planning.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Land use and biomass sustainability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability_qna_004",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Who originally interpreted the concept of the bioeconomy in terms of sustainable use of natural resources?",
+      "answer": "Baranov and Georgescu-Roegen originally interpreted the concept of the bioeconomy in terms of sustainable use of natural resources.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Land use and biomass sustainability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Land use and biomass sustainability_qna_004",
+      "value": 1
+    }
+  ]
+}

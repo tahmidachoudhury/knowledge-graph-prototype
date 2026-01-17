@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Vaccine development",
+      "label": "Vaccine development",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Vaccine development_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the primary process that pseudotyping has been applied to for enveloped RNA viruses?",
+      "answer": "Pseudotyping has been applied to reproduce key processes such as receptor usage, cellular tropism, and antibody-mediated neutralization.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Vaccine development",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Vaccine development",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Vaccine development_qna_000",
+      "value": 1
+    }
+  ]
+}

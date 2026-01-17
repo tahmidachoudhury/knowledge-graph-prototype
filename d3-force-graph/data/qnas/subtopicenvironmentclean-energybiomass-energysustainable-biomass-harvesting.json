@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting",
+      "label": "Sustainable biomass harvesting",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the gametophyte clones harvested for the study?",
+      "answer": "The biomass of the gametophyte clones, both male and female, was harvested separately.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Sustainable biomass harvesting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What issue does the analysis aim to address regarding Dicranopteris pedata?",
+      "answer": "The analysis aims to address how to dispose of and recycle the Dicranopteris pedata clipping waste biomass.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Sustainable biomass harvesting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting_qna_001",
+      "value": 1
+    }
+  ]
+}

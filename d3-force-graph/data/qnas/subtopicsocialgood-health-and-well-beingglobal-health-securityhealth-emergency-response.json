@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health emergency response",
+      "label": "Health emergency response",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health emergency response_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How have HIAs been beneficial in the context of pandemic responses?",
+      "answer": "HIAs have demonstrated potential to identify and help address health impacts resulting from pandemic responses.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "subtopic": "Health emergency response",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health security|Health emergency response",
+      "target": "Subtopic:Social|Good health and well-being|Global health security|Health emergency response_qna_000",
+      "value": 1
+    }
+  ]
+}

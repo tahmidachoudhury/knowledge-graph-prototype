@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society",
+      "label": "Harmony in society",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the preference for high group imply regarding social relations?",
+      "answer": "A preference for high group implies a tendency towards collective decisions in organizing interactions among people.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Harmony in society",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the two dimensions referred to in social relations?",
+      "answer": "The two dimensions are a preference for low or high external rules on human behavior (grid) and a preference for low or high group interactions.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Harmony in society",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What concept does the text elaborate on using a biosemiotics reading of Luhmann's social theory?",
+      "answer": "The text elaborates on the concept of societal identity.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Harmony in society",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Harmony in society_qna_002",
+      "value": 1
+    }
+  ]
+}

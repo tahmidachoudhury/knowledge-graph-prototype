@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research",
+      "label": "Epidemiological research",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "When was the study received and accepted?",
+      "answer": "The study was received on 18 December 2024 and accepted on 13 March 2025.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Epidemiological research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In which region was the study conducted?",
+      "answer": "The study was conducted in the central-eastern Po Plain in Italy.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Epidemiological research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the human population density in areas where the studies were conducted compared to the average across the study region?",
+      "answer": "The human population density in the study areas was 7 individuals per km², compared to a mean of 40 individuals per km² across the study region.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Epidemiological research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Between which years were the samples taken for the dataset in the study?",
+      "answer": "Between the years 2004 and 2022.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Epidemiological research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methodological approach was taken to ensure robust results in the study?",
+      "answer": "Rigorous constraints on missing data and temporal coverage were applied to assure robust results.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Epidemiological research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Epidemiological research_qna_004",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife sanctuary management",
+      "label": "Wildlife sanctuary management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife sanctuary management_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What significant management change occurred in Save Valley Conservancy in May 2014?",
+      "answer": "The conservancy was placed under the custodianship of the Zimbabwe Parks and Wildlife Management Authority (ZPWMA).",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife sanctuary management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife sanctuary management",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife sanctuary management_qna_000",
+      "value": 1
+    }
+  ]
+}

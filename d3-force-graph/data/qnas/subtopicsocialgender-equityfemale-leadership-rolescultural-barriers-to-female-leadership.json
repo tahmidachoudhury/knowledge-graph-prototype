@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Cultural barriers to female leadership",
+      "label": "Cultural barriers to female leadership",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Cultural barriers to female leadership_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the three primary barriers identified in household DSM programs?",
+      "answer": "The three primary barriers are: 1) the perception of DSM technology as a masculine domain versus the home as a feminine domain, 2) challenges faced by low-income households in accessing DSM technology, and 3) insufficient consideration of disparities in opportunities for youth and the elderly to participate in DSM programs.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "subtopic": "Cultural barriers to female leadership",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Female leadership roles|Cultural barriers to female leadership",
+      "target": "Subtopic:Social|Gender equity|Female leadership roles|Cultural barriers to female leadership_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Flood-resistant buildings",
+      "label": "Flood-resistant buildings",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Flood-resistant buildings_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What effect can flooding have on radon ingress in buildings?",
+      "answer": "Flooding can saturate the soil and change pressure dynamics around a building, potentially increasing radon ingress.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Flood-resistant buildings",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Flood-resistant buildings",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Flood-resistant buildings_qna_000",
+      "value": 1
+    }
+  ]
+}

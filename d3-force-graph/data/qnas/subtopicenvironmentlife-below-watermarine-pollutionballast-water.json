@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ballast water",
+      "label": "Ballast water",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What has been identified as the main pathway of non-indigenous species introduction in Madeira waters?",
+      "answer": "Maritime traffic has been identified as the main pathway of non-indigenous species introduction in Madeira waters.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Ballast water",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What role does maritime traffic play in the dispersal of non-indigenous species (NIS)?",
+      "answer": "Maritime traffic plays a key role in the local dispersion of non-indigenous species (NIS).",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Ballast water",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do maritime traffic and NIS hotspots contribute to marine invasions?",
+      "answer": "Both factors are widely accepted as playing significant roles in the spread and proliferation of NIS, which can lead to marine biological invasion events.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Ballast water",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Ballast water",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Ballast water",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Ballast water",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_002",
+      "value": 1
+    }
+  ]
+}

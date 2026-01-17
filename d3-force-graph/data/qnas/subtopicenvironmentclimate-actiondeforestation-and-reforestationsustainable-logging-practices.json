@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Sustainable logging practices",
+      "label": "Sustainable logging practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Sustainable logging practices_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How long has the Pinus pinea stand not been logged according to reports?",
+      "answer": "The Pinus pinea stand has not been logged since at least 1960.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Sustainable logging practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Sustainable logging practices",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Sustainable logging practices_qna_000",
+      "value": 1
+    }
+  ]
+}

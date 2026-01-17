@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanographic studies",
+      "label": "Oceanographic studies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanographic studies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the two scales at which observations were made during the study?",
+      "answer": "Observations were made at the macro-scale and the meso-scale.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Oceanographic studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanographic studies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of the velocity data generated from the unique model study?",
+      "answer": "The velocity data will be used as boundary conditions and validation data for numerical modelling.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Oceanographic studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Oceanographic studies",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Oceanographic studies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Oceanographic studies",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Oceanographic studies_qna_001",
+      "value": 1
+    }
+  ]
+}

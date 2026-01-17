@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion",
+      "label": "Landfill diversion",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the characteristics of older landfills mentioned in the paragraph?",
+      "answer": "Older landfills, which predate modern environmental regulations, do not have lining and capping systems, allowing waste to remain unisolated from the surrounding environment.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Landfill diversion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors are contributing to the need for new methods of treating SPL?",
+      "answer": "A shift in social acceptance regarding environmental footprint policies and an increase in landfill costs are driving the need for alternative methods to treat SPL.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Landfill diversion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion_qna_001",
+      "value": 1
+    }
+  ]
+}

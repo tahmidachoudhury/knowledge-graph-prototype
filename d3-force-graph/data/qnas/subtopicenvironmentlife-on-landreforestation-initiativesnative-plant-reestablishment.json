@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment",
+      "label": "Native plant reestablishment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What ecological contributions do populations of the species provide to their ecosystem?",
+      "answer": "They provide ecological support for an ecosystem through native seed germination and dispersal.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Native plant reestablishment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the purpose of collecting plant material one hour after spraying with CEO?",
+      "answer": "The plant material was collected to assess the effects of the CEO treatment on the leaves.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Native plant reestablishment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment_qna_001",
+      "value": 1
+    }
+  ]
+}

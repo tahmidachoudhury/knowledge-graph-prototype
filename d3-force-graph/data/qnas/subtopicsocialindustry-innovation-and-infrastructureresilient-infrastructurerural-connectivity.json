@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Rural connectivity",
+      "label": "Rural connectivity",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Rural connectivity_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are the potential social impacts of AI on rural communities as highlighted in the paper?",
+      "answer": "The paper indicates that AI-driven systems and digital communication are contributing to broader social changes in rural communities, leading to the decline of traditional social spaces and impacting community cohesion and mental well-being.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "subtopic": "Rural connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Rural connectivity",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Rural connectivity_qna_000",
+      "value": 1
+    }
+  ]
+}

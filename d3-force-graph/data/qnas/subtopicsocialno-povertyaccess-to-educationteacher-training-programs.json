@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Teacher training programs",
+      "label": "Teacher training programs",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Teacher training programs_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What have several studies investigated to improve SSI teaching?",
+      "answer": "Several studies have investigated how to effectively improve teachers' professional development (PD) for SSI teaching.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education",
+      "subtopic": "Teacher training programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Teacher training programs_qna_001",
+      "group": "QnA",
+      "label": "Education",
+      "question": "What do the PD programs mentioned in the paragraph help teachers to do?",
+      "answer": "The PD programs help teachers incorporate Socially Significant Issues (SSIs) into their curricula by promoting collaborative design and reflective practices.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education",
+      "subtopic": "Teacher training programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Teacher training programs_qna_002",
+      "group": "QnA",
+      "label": "Education and Training",
+      "question": "What is suggested to enhance teacher training in environmental education?",
+      "answer": "It is suggested to enhance teacher training by ensuring teachers feel competent and confident in introducing environmental education programs.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education",
+      "subtopic": "Teacher training programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Access to education|Teacher training programs",
+      "target": "Subtopic:Social|No poverty|Access to education|Teacher training programs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Access to education|Teacher training programs",
+      "target": "Subtopic:Social|No poverty|Access to education|Teacher training programs_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Access to education|Teacher training programs",
+      "target": "Subtopic:Social|No poverty|Access to education|Teacher training programs_qna_002",
+      "value": 1
+    }
+  ]
+}

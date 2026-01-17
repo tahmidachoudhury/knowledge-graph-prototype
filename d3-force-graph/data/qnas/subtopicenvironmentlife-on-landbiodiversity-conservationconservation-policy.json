@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy",
+      "label": "Conservation policy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What do the authors argue should be better integrated into upcoming biodiversity policies?",
+      "answer": "The authors argue that scientific evidence and underlying ecological processes should be better integrated into upcoming biodiversity policies.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Conservation policy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does conventional environmental policy currently impact the protection of natural resources?",
+      "answer": "Conventional environmental policy often favors nature's degradation by promoting destructive practices through harmful subsidies, such as making fossil fuels cheaper, which leads to biodiversity loss and environmental pollution without addressing the root causes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Conservation policy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How does conventional conservation policy fail to protect biodiversity, according to the paragraph?",
+      "answer": "Conventional conservation policy fails to protect biodiversity because it primarily focuses on direct causes of nature degradation without addressing the underlying economic practices and conditions that promote harmful activities, like harmful subsidies that make practices such as fossil fuel use cheaper, and also relies on weak legislation that lacks clear accountability.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Conservation policy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation policy_qna_002",
+      "value": 1
+    }
+  ]
+}

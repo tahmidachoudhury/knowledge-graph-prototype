@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics",
+      "label": "Demographic analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of the Ile-de-France region is urbanized and how does that relate to the overall French population?",
+      "answer": "20% of the Ile-de-France region is urbanized, housing 18% of the total French population.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Demographic analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What method was used for subgroup analysis in the study?",
+      "answer": "Randomly selected groups were used for subgroup analysis involving urban and reference sites.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Demographic analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Greece's population lived in urban areas as of 2022?",
+      "answer": "As of 2022, 80.36% of Greece's population lived in urban areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Demographic analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What software was used for data analysis in the survey?",
+      "answer": "Data were analyzed using R software version 4.0.3 and Stata software version 16.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Demographic analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics_qna_004",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "According to the study, how many factors were selected to guide the Multi-Criteria Analysis, and what is one of these factors?",
+      "answer": "Nine factors were selected for the MCA, one of which is population density.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Demographic analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Demographic analytics_qna_004",
+      "value": 1
+    }
+  ]
+}

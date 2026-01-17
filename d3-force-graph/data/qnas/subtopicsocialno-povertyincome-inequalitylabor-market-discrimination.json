@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Labor market discrimination",
+      "label": "Labor market discrimination",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Labor market discrimination_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does AI impact job markets and economic equality according to the text?",
+      "answer": "AI has the potential to significantly disrupt job markets, with experts noting that up to 40% of working hours could be impacted, leading to job losses and potentially exacerbating existing economic inequalities if not properly controlled.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Labor market discrimination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Labor market discrimination",
+      "target": "Subtopic:Social|No poverty|Income inequality|Labor market discrimination_qna_000",
+      "value": 1
+    }
+  ]
+}

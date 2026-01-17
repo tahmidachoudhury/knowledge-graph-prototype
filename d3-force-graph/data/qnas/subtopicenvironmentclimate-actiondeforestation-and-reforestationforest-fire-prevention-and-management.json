@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest fire prevention and management",
+      "label": "Forest fire prevention and management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest fire prevention and management_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What were the effects of the fires recorded in 2019/20 in South-Eastern Australia?",
+      "answer": "The fires affected 24 million hectares of forest, killed 33 people, and over one billion animals, and impacted human and animal populations significantly.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Forest fire prevention and management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest fire prevention and management_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What recent enhancement allows differentiation in the causes of forest loss?",
+      "answer": "Technological advances have enabled the disaggregation of fire-driven loss from other drivers of forest loss.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Forest fire prevention and management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest fire prevention and management",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest fire prevention and management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest fire prevention and management",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Forest fire prevention and management_qna_001",
+      "value": 1
+    }
+  ]
+}

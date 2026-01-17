@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment",
+      "label": "Threat assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What risks are associated with selecting high-performing individuals from coral populations?",
+      "answer": "Selection can reduce diversity, which may counteract conservation efforts, especially in small effective population sizes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Threat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some of the threats faced by tropical coral reefs mentioned in the paragraph?",
+      "answer": "Tropical coral reefs are threatened by global warming, nutrient pollution, and physical destruction due to anthropogenic stressors.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Threat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is assessing the risk of NIS proliferation in Marine Protected Areas (MPAs) complicated?",
+      "answer": "It is complicated due to the need to understand multiple compounding factors involved in the risk assessment.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Threat assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning",
+      "label": "Cross-cultural learning",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning_qna_000",
+      "group": "QnA",
+      "label": "Education and AI",
+      "question": "What are the three significant ways this research advances sociocultural learning theory?",
+      "answer": "The research advances sociocultural learning theory by (1) explicating how AI competencies develop through social practice in underserved communities, (2) providing a comprehensive framework for equitable AI education integration, and (3) demonstrating how open schooling methodologies foster transformative learning experiences.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Cross-cultural learning",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning_qna_001",
+      "group": "QnA",
+      "label": "Theory",
+      "question": "What theoretical framework does the study build upon to examine students' development of AI competencies?",
+      "answer": "The study builds on Vygotsky's sociocultural theory, which emphasizes learning through social interaction and cultural tools.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Cross-cultural learning",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does communicative learning focus on?",
+      "answer": "Communicative learning focuses on interpersonal interactions and involves comprehending the meaning behind someone's communication.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Cross-cultural learning",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Cross-cultural learning_qna_002",
+      "value": 1
+    }
+  ]
+}

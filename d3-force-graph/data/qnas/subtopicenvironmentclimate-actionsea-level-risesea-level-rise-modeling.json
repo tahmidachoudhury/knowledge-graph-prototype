@@ -1,0 +1,204 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "label": "Sea level rise modeling",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is it important to carefully select model parameters when using single species distribution models (SDMs)?",
+      "answer": "It is important to carefully select model parameters to avoid inaccurate results and ensure good predictions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Sea level rise modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What has not yet been made according to Haberle et al.?",
+      "answer": "A comparison between 2D and 3D models has not yet been made.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Sea level rise modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many tropical nights are projected to increase annually by the end of the century under the RCP4.5 and RCP8.5 scenarios?",
+      "answer": "The number of tropical nights is projected to increase by 45 days under RCP4.5 and by 73 days under RCP8.5.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Sea level rise modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_003",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What is the projected range of global mean temperature increase by the end of the current century according to scientific projections cited in Rain and Vomit, 2022b; Rain, 2023b?",
+      "answer": "Scientific projections indicate that the global mean temperature is expected to increase by a range of 1.5 ? C to 5.8 ? C by the end of the current century.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Sea level rise modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_004",
+      "group": "QnA",
+      "label": "",
+      "question": "What two challenges does the research aim to address in merging models for UDA?",
+      "answer": "The research addresses the challenge of incorporating high-performing yet computationally expensive models into faster but less accurate ones, and the challenge of combining models from easier tasks into harder tasks, achieving notable performance gains in both scenarios.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Sea level rise modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_005",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the main challenges addressed by the authors in their experiments regarding model merging?",
+      "answer": "The authors address two main challenges: (1) incorporating high-performing yet computationally expensive models into faster but less accurate ones, achieving a speed increase of 3.25 times and performance increases up to 6.8% in mIoU; and (2) combining models from easier tasks into harder tasks, which resulted in performance gains of 3.4% in mIoU and 7% in mPQ.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Sea level rise modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_006",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenges does the paper address regarding model merging in UDA?",
+      "answer": "The paper addresses two challenges: first, incorporating high-performing yet computationally expensive models into faster but less accurate ones, and second, merging models from easier tasks into harder tasks, resulting in performance improvements in both scenarios.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Sea level rise modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_007",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How have the ecological models been validated?",
+      "answer": "The ecological model has been validated against prior data from the area to ensure its coherence.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Sea level rise modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_008",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "By what year is the sea level projected to rise 31 to 61 inches according to the Sea Level Rise Work Group 2015?",
+      "answer": "The sea level is projected to rise 31 to 61 inches by the year 2100.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Sea level rise modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_009",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the projected sea level rise measurements for the year 2030 in the studied coastal areas?",
+      "answer": "The projected sea level rise by 2030 is about 6 to 10 inches.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Sea level rise modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Sea level rise modeling_qna_009",
+      "value": 1
+    }
+  ]
+}

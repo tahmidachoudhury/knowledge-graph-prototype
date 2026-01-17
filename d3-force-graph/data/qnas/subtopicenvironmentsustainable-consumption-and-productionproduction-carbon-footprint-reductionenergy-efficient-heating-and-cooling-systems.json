@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems",
+      "label": "Energy-efficient heating and cooling systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What specific aspects were analyzed in the energy simulation results?",
+      "answer": "The performance of the technology in terms of heating, emission reduction, and climate adaptation was analyzed in the energy simulation results.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Energy-efficient heating and cooling systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method is used to simulate the indoor thermal environment and energy consumption of residential buildings?",
+      "answer": "Energy consumption simulation software is used to accurately simulate the indoor thermal environment and energy consumption by considering factors like building, environment, and energy.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Energy-efficient heating and cooling systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Microbial contamination standards",
+      "label": "Microbial contamination standards",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Microbial contamination standards_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the 96-h EC50 value found for Chlorella vulgaris in relation to DEET?",
+      "answer": "The 96-h EC50 value for Chlorella vulgaris in relation to DEET was 17.4 mg/L.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Microbial contamination standards",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Microbial contamination standards",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Microbial contamination standards_qna_000",
+      "value": 1
+    }
+  ]
+}

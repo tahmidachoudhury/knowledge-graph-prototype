@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution",
+      "label": "Nutrition-sensitive food distribution",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What categories are included under UPF according to the paragraph?",
+      "answer": "UPF categories include Baked goods, Breakfast cereals, Confectionery, Dairy products and alternatives, Frozen processed potatoes, Ice cream and frozen desserts, Instant Pasta/Noodles, Processed Meat, Seafood and Alternatives to Meat, Ready meals, Sauces, dressings and condiments, Savoury snacks, Sweet biscuits, snack bars and fruit snacks, Sweet Spreads, Butter and Spreads, Ready Soups, Carbonated soft drinks, Concentrates, Drinking Milk Products, Functional Bottled Water, Flavoured Bottled Water, Juice drinks, Nectars, Ready to drink Coffee, Ready to drink Tea, Asian speciality drinks, Sports drinks, Energy drinks, and Flavoured Powder Drinks.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Nutrition-sensitive food distribution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of factors in supermarkets steer individuals' food choices?",
+      "answer": "Individuals' food choices in supermarkets are influenced by various factors in the physical and social environment, including what others are doing and social approval.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Nutrition-sensitive food distribution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Why did Luck and Bridgman (2009) consider food values as intermediary values in the chain to final end-states of existence?",
+      "answer": "Luck and Bridgman considered food values as intermediary values because end-states were considered too abstract to be of practical relevance to food policy or marketing communication strategies.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Nutrition-sensitive food distribution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Nutrition-sensitive food distribution_qna_002",
+      "value": 1
+    }
+  ]
+}

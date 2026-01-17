@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions",
+      "label": "Behavioral change interventions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of research does this study contrast with?",
+      "answer": "This study contrasts with previous research that focused mostly on short-term changes in acceptability judgments following interventions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "subtopic": "Behavioral change interventions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_001",
+      "group": "QnA",
+      "label": "Research Design",
+      "question": "How long was the intervention period of the study?",
+      "answer": "The intervention period lasted 13 weeks.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "subtopic": "Behavioral change interventions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why was the default nudge most effective in increasing the likelihood of a sustainable delivery choice?",
+      "answer": "The default nudge was most effective because participants followed the presented suggestion without further thought, making the choice automatically.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "subtopic": "Behavioral change interventions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions",
+      "target": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions",
+      "target": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions",
+      "target": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_002",
+      "value": 1
+    }
+  ]
+}

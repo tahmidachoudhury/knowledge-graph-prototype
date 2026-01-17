@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations",
+      "label": "Renewable energy in farm operations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of agricultural production costs on-farm is related to energy use?",
+      "answer": "Approximately 15% of agricultural production costs on-farm are energy-related.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Renewable energy in farm operations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of agricultural production costs on-farm are estimated to be energy-related?",
+      "answer": "Approximately 15% of agricultural production costs on-farm are estimated to be energy related.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Renewable energy in farm operations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary energy cost for mechanized farms?",
+      "answer": "The primary energy cost for mechanized farms is diesel fuel, which can represent up to 75% of the total energy spent on arable operations.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Renewable energy in farm operations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_002",
+      "value": 1
+    }
+  ]
+}

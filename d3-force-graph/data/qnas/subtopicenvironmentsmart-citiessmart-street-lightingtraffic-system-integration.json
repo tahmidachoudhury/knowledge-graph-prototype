@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Traffic system integration",
+      "label": "Traffic system integration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Traffic system integration_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed model merging method improve performance while addressing computational costs?",
+      "answer": "The proposed method allows for the integration of different models, boosting performance (up to 6.8% in mIoU) while increasing speed by 3.25 times, all without incurring additional computational costs associated with traditional model ensembling strategies.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Traffic system integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Traffic system integration",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Traffic system integration_qna_000",
+      "value": 1
+    }
+  ]
+}

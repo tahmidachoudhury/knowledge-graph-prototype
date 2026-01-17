@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|International health regulations",
+      "label": "International health regulations",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|International health regulations_qna_000",
+      "group": "QnA",
+      "label": "Research and Development",
+      "question": "What is the Gothenburg Consensus Statement, and when was it established?",
+      "answer": "The Gothenburg Consensus Statement is a framework established in 1999 for Health Impact Assessment (HIA) applied to policies, plans, programmes, and projects globally.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "subtopic": "International health regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|International health regulations_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "When did the World Congress on Public Health (WCPH) take place?",
+      "answer": "The World Congress on Public Health took place on 26 May 2023.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "subtopic": "International health regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health security|International health regulations",
+      "target": "Subtopic:Social|Good health and well-being|Global health security|International health regulations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health security|International health regulations",
+      "target": "Subtopic:Social|Good health and well-being|Global health security|International health regulations_qna_001",
+      "value": 1
+    }
+  ]
+}

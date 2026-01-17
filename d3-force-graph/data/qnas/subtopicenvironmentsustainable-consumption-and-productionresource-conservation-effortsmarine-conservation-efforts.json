@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Marine conservation efforts",
+      "label": "Marine conservation efforts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Marine conservation efforts_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the management of NIS relate to marine conservation efforts?",
+      "answer": "The lack of control mechanisms for NIS is problematic for marine conservation efforts, particularly in creating and implementing Marine Protected Areas and Marine Reserves.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Marine conservation efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Marine conservation efforts",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Marine conservation efforts_qna_000",
+      "value": 1
+    }
+  ]
+}

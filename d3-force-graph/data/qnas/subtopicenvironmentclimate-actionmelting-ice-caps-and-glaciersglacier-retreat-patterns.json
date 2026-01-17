@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "label": "Glacier retreat patterns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the focus of the analysis in the Results section as outlined in the paragraph?",
+      "answer": "The focus of the analysis in the Results section is on comparative studies of precipitation extremes based on Arctic-wide temperature changes during two consecutive time intervals.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier retreat patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many stations were analyzed in the study regarding rainfall changes in Austria?",
+      "answer": "A new dataset comprising 883 stations in Austria was analyzed for the study.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier retreat patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What analysis was performed to eliminate highly correlated climate variables, and what was the threshold used?",
+      "answer": "A Pearson Correlation coefficient analysis was performed to eliminate highly correlated variables with a threshold of 0.5, resulting in the removal of 12 variables.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier retreat patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the mean temperature analysis show about Ny- lesund and Svalbard Lufthavn?",
+      "answer": "Ny- lesund and Svalbard Lufthavn show a close resemblance in temperature climatology.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier retreat patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_003",
+      "value": 1
+    }
+  ]
+}

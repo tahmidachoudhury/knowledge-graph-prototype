@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Education research",
+      "label": "Education research",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Education research_qna_000",
+      "group": "QnA",
+      "label": "Education and AI",
+      "question": "What implications do the findings of the research have on educational policy and practice?",
+      "answer": "The findings suggest a fundamental reconceptualization of AI literacy development in secondary education, impacting educational policy and practice.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education",
+      "subtopic": "Education research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Quality education|Education research",
+      "target": "Subtopic:Social|Quality education|Quality education|Education research_qna_000",
+      "value": 1
+    }
+  ]
+}

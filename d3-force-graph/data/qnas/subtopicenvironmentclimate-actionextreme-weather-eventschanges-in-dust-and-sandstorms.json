@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms",
+      "label": "Changes in dust and sandstorms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms_qna_000",
+      "group": "QnA",
+      "label": "Analyse",
+      "question": "Welche Faktoren beeinflussen den Bruterfolg des Steinschmätzers?",
+      "answer": "Der Bruterfolg wird in erster Linie durch Prädation bestimmt, allerdings haben auch andere Umweltfaktoren einen Einfluss, etwa die Exposition des Geländes und die Bodenbewachsenheit.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in dust and sandstorms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which regions exhibit unhealthy soil conditions according to the findings?",
+      "answer": "Unhealthy soils dominate drylands and savannas with frequent surface exposure.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in dust and sandstorms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms_qna_001",
+      "value": 1
+    }
+  ]
+}

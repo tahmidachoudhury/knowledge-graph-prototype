@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Education for all|Underserved communities",
+      "label": "Underserved communities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Education for all"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Education for all|Underserved communities_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the study focus on regarding underserved students and emerging technologies?",
+      "answer": "The study focuses on the drivers and challenges faced by underserved students with emerging technologies, positioning them as innovators and problem solvers for a sustainable future.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Education for all",
+      "subtopic": "Underserved communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Education for all|Underserved communities",
+      "target": "Subtopic:Social|Quality education|Education for all|Underserved communities_qna_000",
+      "value": 1
+    }
+  ]
+}

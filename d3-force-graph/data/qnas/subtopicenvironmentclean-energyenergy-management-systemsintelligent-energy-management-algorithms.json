@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms",
+      "label": "Intelligent energy management algorithms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some common algorithms used in SDMs as mentioned in the paragraph?",
+      "answer": "Common SDM algorithms include Generalized Linear Models (GLM), Maximum Entropy (MaxEnt), Random Forests (RF), Generalized Additive Models (GAM), and Multivariate Adaptive Regression Splines (MARS).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Intelligent energy management algorithms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main advantage of extreme learning machine (ELM) compared to artificial neural network algorithms in the prediction process?",
+      "answer": "ELM demonstrates an outstanding generalization ability and a faster execution speed with fewer training parameters.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Intelligent energy management algorithms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some shortcomings of ELM mentioned in the paragraph?",
+      "answer": "ELM has displayed shortcomings in parameter settings, which has led to the integration of intelligent optimization algorithms for better performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Intelligent energy management algorithms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Intelligent energy management algorithms_qna_002",
+      "value": 1
+    }
+  ]
+}

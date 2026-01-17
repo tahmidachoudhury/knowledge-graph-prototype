@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on deep-sea ecosystems",
+      "label": "Acidification effects on deep-sea ecosystems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on deep-sea ecosystems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How long can Gongolaria barbata live, particularly in the Black Sea?",
+      "answer": "Gongolaria barbata can live for several years, specifically up to seven years in the Black Sea.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification effects on deep-sea ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on deep-sea ecosystems",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on deep-sea ecosystems_qna_000",
+      "value": 1
+    }
+  ]
+}

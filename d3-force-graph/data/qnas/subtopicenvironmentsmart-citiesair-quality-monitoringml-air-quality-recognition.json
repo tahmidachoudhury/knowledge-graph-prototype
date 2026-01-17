@@ -1,0 +1,527 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "label": "Ml air quality recognition",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What have advanced mathematical models and machine learning algorithms improved within GIS platforms?",
+      "answer": "They have significantly enhanced the accuracy of detecting and monitoring environmental phenomena.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do Multi-Modal Language Models differ from traditional machine learning models?",
+      "answer": "Multi-Modal Language Models focus on aligning language concepts with other data modalities, such as images and audio, whereas traditional machine learning models emphasize sample-to-label mapping (supervised learning) or lack direct connection to language semantics (unsupervised learning).",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What problem does the oversimplification in traditional models create in a continuous feature space?",
+      "answer": "It leads to artificial decision boundaries, complicates the learning of semantic relationships, and confines models to predefined label spaces.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What significant difference does the model highlight between categories like dogs and cars?",
+      "answer": "It groups data from the categories of dogs and cars as semantically distinct, emphasizing their differences due to the alignment of features in the continuous feature space.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_004",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the primary focus of the proposed layer-wise model merging technique in the context of UDA?",
+      "answer": "The proposed layer-wise model merging technique focuses on merging the initial layers for feature extraction while maintaining the distinctiveness of the task-specific final layers, which enhances model performance and allows for effective merging of models from different datasets and tasks.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_005",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed layer-wise model merging technique differ in its treatment of different layers?",
+      "answer": "The layer-wise model merging technique emphasizes merging initial layers, which are associated with feature extraction, in a unified manner while maintaining the distinctiveness of task-specific final layers to boost performance and parameter consistency.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_006",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main focus of the proposed layer-wise model merging method in the context of unsupervised domain adaptation (UDA)?",
+      "answer": "The proposed layer-wise model merging method focuses on merging existing available pretrained models without requiring additional training costs, ensuring that initial layers are merged differently from final layers to effectively combine models from different datasets and tasks.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_007",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed method ensure efficient computation while merging models for UDA?",
+      "answer": "The proposed method ensures efficient computation by only requiring a single model inference and eliminates additional computational costs associated with ensemble training and inference.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_008",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the primary focus of the proposed layer-wise model merging technique in the context of UDA?",
+      "answer": "The proposed layer-wise model merging technique focuses on maintaining the distinctiveness of task-specific layers while unifying the initial layers associated with feature extraction to enhance performance and facilitate integration of knowledge across different datasets and tasks.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_009",
+      "group": "QnA",
+      "label": "",
+      "question": "How does model merging provide computational benefits in UDA compared to traditional ensemble methods?",
+      "answer": "Model merging offers a computationally efficient solution because it requires only a single model inference, thus avoiding the additional training and inference costs associated with ensemble methods, which involve running multiple models simultaneously.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_010",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main focus of the proposed layer-wise model merging technique?",
+      "answer": "The proposed layer-wise model merging technique focuses on integrating the distinct functionalities of deeper layers that are closer to the classification output with the generalization capabilities of shallower layers, which allows for effective merging of models derived from different datasets and tasks.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_011",
+      "group": "QnA",
+      "label": "",
+      "question": "How does model merging benefit unsupervised domain adaptation according to the research findings?",
+      "answer": "Model merging enhances unsupervised domain adaptation by improving performance metrics such as mloU by up to 6.8% and mPQ by 7%, while also allowing the integration of high-performing yet computationally expensive models with faster, less accurate ones.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_012",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main objective of the proposed layer-wise model merging method in the context of unsupervised domain adaptation (UDA)?",
+      "answer": "The main objective of the proposed layer-wise model merging method is to combine the distinct strengths of different models trained on various datasets and tasks while maintaining parameter consistency across layers to enhance performance without incurring additional training costs.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_013",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the proposed layer-wise model merging approach differ from previous methods of model merging?",
+      "answer": "The proposed approach uniquely merges initial layers that focus on feature extraction while maintaining the distinctiveness of task-specific final layers, allowing effective integration of models from various datasets and tasks.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_014",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What additional techniques are mentioned in relation to selecting explanatory variables for the SADFM?",
+      "answer": "The techniques include Least Absolute Shrinkage and Selection Operator (LASSO), Elastic Nets (EN), and Autometrics.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_015",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What approach did Hao et al. (2020) take to enhance the performance of ELM?",
+      "answer": "They used improvements of ELM in the decomposition and ensemble model.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_016",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How are the variables for the regression model selected in the study?",
+      "answer": "The variables are selected using Machine Learning procedures.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_017",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What statistical techniques are mentioned for selecting additional explanatory variables in the SADFM?",
+      "answer": "The techniques mentioned include Least Absolute Shrinkage and Selection Operator (LASSO), Elastic Nets (EN), and Autometrics.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_018",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the key machine learning models identified as effective for predicting carbon prices?",
+      "answer": "The key machine learning models identified are Support Vector Regression (SSA-SVR) and Least Squares Support Vector Regression (SSA-LSSVR), which have shown strong performance in predicting carbon prices.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_019",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What types of learning models were selected for the framework in this study?",
+      "answer": "Four generally best-performing learning models and two common deep learning models, Recurrent Neural Network (RNN) and Long short-term memory (LSTM).",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_020",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodology is used to select variables for the regression model in the study?",
+      "answer": "Machine Learning procedures are used for variable selection.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_021",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methods are used for variable selection in the regression model?",
+      "answer": "Machine Learning procedures are used for variable selection in the regression model.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_022",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What explanatory variables selection methods were used in the SADFM?",
+      "answer": "The SADFM used methods based on Least Absolute Shrinkage and Selection Operator (LASSO), Elastic Nets (EN), and Autometrics.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_023",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodologies are used for variable selection in the regression model described in the paper?",
+      "answer": "Machine Learning procedures are used for variable selection in the regression model described in the paper.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_024",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to select the variables included in the regression model?",
+      "answer": "Machine Learning procedures were used for variable selection.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_025",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which machine learning techniques are mentioned as effective for classifying and predicting land use and land cover changes?",
+      "answer": "The machine learning techniques mentioned include random forest (RF), support vector machine (SVM), K-nearest neighbor (KNN), and multivariate adaptive regression splines (MARS).",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_026",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which machine learning model demonstrated the lowest kappa statistic in the study?",
+      "answer": "The K-nearest neighbors (KNN) model demonstrated the lowest kappa statistic at 0.45.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_009",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_010",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_011",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_012",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_013",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_014",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_015",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_016",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_017",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_018",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_019",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_020",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_021",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_022",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_023",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_024",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_025",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_026",
+      "value": 1
+    }
+  ]
+}

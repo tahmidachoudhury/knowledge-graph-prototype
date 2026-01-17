@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques",
+      "label": "Soil remediation techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How were the rhizosphere soil samples processed after collection?",
+      "answer": "The rhizosphere soil samples were sieved to < 2 mm and stored at -80°C for molecular analyses.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Soil remediation techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is phytoremediation and how does it contribute to environmental restoration in mining areas?",
+      "answer": "Phytoremediation is a bioremediation method that utilizes plants to restore vegetation, reduce soil and water loss, and remove hazardous pollutants in mining areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Soil remediation techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the key to phytoremediation mentioned in the paragraph?",
+      "answer": "The key to phytoremediation is selecting appropriate hyperaccumulators, particularly species that grow locally in the IREM (Industrial and Resource Environmental Management).",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Soil remediation techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are some advantages of phytoremediation compared to traditional techniques?",
+      "answer": "Phytoremediation offers unique advantages such as cost-effectiveness, energy efficiency, and environmental friendliness.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Soil remediation techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Soil remediation techniques_qna_003",
+      "value": 1
+    }
+  ]
+}

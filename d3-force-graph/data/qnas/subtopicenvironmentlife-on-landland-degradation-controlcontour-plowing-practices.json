@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Contour plowing practices",
+      "label": "Contour plowing practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Contour plowing practices_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How deep was the soil regularly ploughed in the cropland?",
+      "answer": "The soil in the cropland was regularly ploughed to a depth of 30 cm.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Contour plowing practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Contour plowing practices",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Contour plowing practices_qna_000",
+      "value": 1
+    }
+  ]
+}

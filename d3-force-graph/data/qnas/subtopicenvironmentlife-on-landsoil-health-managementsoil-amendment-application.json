@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil amendment application",
+      "label": "Soil amendment application",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil amendment application_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some benefits of using biochar as a soil amendment?",
+      "answer": "Benefits of using biochar include improving carbon content and nutrient levels, increasing cation exchange capacity, increasing water-holding capacity, increasing pH levels in acidic soil, and reducing toxic metals.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil amendment application",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil amendment application",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil amendment application_qna_000",
+      "value": 1
+    }
+  ]
+}

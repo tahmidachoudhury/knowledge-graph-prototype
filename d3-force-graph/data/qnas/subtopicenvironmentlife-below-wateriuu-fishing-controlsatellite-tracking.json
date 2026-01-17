@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Satellite tracking",
+      "label": "Satellite tracking",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Satellite tracking_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of GPS devices were used in 2022 and 2023 for tracking purposes?",
+      "answer": "In 2022, Lotek PinPoint Cell Solar 2G GPS-GSM devices were used, and in 2023, Interrex/Druid Mini solar-powered 2G GPS-GSM devices were utilized.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Satellite tracking",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Satellite tracking",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Satellite tracking_qna_000",
+      "value": 1
+    }
+  ]
+}

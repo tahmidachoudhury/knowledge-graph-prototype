@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy",
+      "label": "Afforestation policy advocacy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is there a need to bridge the gap between agricultural and forestry agendas?",
+      "answer": "There is a significant need to bridge the gap between agricultural and forestry agendas as noted by the State.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Afforestation policy advocacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What does the analysis aim to achieve regarding EU forest policy?",
+      "answer": "The analysis aims to invite readers to navigate the complexities of EU forest policy by unraveling worldviews and actor perspectives, ultimately facilitating improved dialogue among actors considering these heterogeneous worldviews.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Afforestation policy advocacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Which frameworks have been used to study EU forest policy and its actors?",
+      "answer": "Frameworks used include discourse analysis, Advocacy Coalition Framework (ACF), Shifting Coalitions Theory (SCT), policy integration theories, Multi-Level Governance (MLG), and Institutional Analysis and Development (IAD) Framework.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Afforestation policy advocacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Afforestation policy advocacy_qna_002",
+      "value": 1
+    }
+  ]
+}

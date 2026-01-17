@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Co-development projects",
+      "label": "Co-development projects",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Co-development projects_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What challenge is highlighted concerning teams' readiness for co-production?",
+      "answer": "The paragraph highlights that readiness for co-production, especially in the described form, is a challenge for teams and denotes a significant gap in co-production literature.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Co-development projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Co-development projects_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What elements associated with co-production were evaluated in the case studies discussed by Chambers et al. (2021)?",
+      "answer": "The case studies evaluated strengths, weaknesses, risks, and benefits associated with specific purposes and modes of co-production.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Co-development projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Co-development projects",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Co-development projects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Co-development projects",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Co-development projects_qna_001",
+      "value": 1
+    }
+  ]
+}

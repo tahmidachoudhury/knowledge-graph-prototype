@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation",
+      "label": "Conservation legislation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Name one of the European directives that is relevant to biodiversity conservation mentioned in the paragraph.",
+      "answer": "The Water Framework Directive is one of the European directives relevant to biodiversity conservation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Conservation legislation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What legislation is mentioned in relation to ecological networks in the EU?",
+      "answer": "The EU Nature Restoration Law ((EU) 2024 /1991) is mentioned in relation to ecological networks in the EU.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Conservation legislation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation_qna_002",
+      "group": "QnA",
+      "label": "Ethics and Regulation",
+      "question": "How can regulatory incentives be used to promote the conservation of biodiversity?",
+      "answer": "Regulatory incentives can be used to promote the conservation of biodiversity by imposing legal requirements and offering rewards or benefits to entities that engage in conservation efforts, thereby encouraging proactive conservation actions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Conservation legislation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "How does current legislation impact the conservation of natural resources?",
+      "answer": "Current legislation is characterized by weak enforcement and lacks clear responsibility, leading to ineffective protection of natural infrastructure, which is critical for maintaining biodiversity and ecosystem services.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Conservation legislation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation legislation_qna_003",
+      "value": 1
+    }
+  ]
+}

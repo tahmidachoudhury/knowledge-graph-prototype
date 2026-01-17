@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems",
+      "label": "Climate-resilient transportation systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is it important to consider the propagation of costs of extreme weather events through the global trade network?",
+      "answer": "It is important to consider the propagation of costs of extreme weather events through the global trade network for a comprehensive account of the social cost of carbon (SCC) used in cost-benefit analysis.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Climate-resilient transportation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How has climate change impacted the urgency of transitioning to a carbon-neutral transport system?",
+      "answer": "In the last decades, climate change has heightened concerns, making the transition to a carbon-neutral transport system a global political target, as highlighted by organizations like the European Conference of Ministers of Transport and the UNF CCC.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Climate-resilient transportation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems_qna_001",
+      "value": 1
+    }
+  ]
+}

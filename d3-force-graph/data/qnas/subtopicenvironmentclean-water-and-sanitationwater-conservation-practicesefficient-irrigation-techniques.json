@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Efficient irrigation techniques",
+      "label": "Efficient irrigation techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water conservation practices"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Efficient irrigation techniques_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technique was used for applying the tracer solution to the microplots?",
+      "answer": "The tracer solution was applied using drip irrigation in intervals, with a 15-minute application followed by a 45-minute pause, utilizing a sprinkling head connected to a peristaltic pump.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water conservation practices",
+      "subtopic": "Efficient irrigation techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Efficient irrigation techniques",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water conservation practices|Efficient irrigation techniques_qna_000",
+      "value": 1
+    }
+  ]
+}

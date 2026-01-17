@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement",
+      "label": "Fishery improvement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What was the primary goal of the study mentioned in the paragraph?",
+      "answer": "The primary goal was to contextualize how the TEK of local fishers can strengthen freshwater fisheries management and riverine biodiversity conservation efforts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishery improvement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the three key insights that the case study may provide for decision-makers?",
+      "answer": "The case study may provide insights on (1) relevant indicators for fisheries management, (2) priority fisheries species and their characteristics, and (3) key actors in the fisheries value chain for integrated decision-making.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishery improvement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement_qna_001",
+      "value": 1
+    }
+  ]
+}

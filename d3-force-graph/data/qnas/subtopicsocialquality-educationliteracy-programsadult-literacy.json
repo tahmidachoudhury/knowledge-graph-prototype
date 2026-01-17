@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Literacy programs|Adult literacy",
+      "label": "Adult literacy",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Literacy programs"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Literacy programs|Adult literacy_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many Australian adults participated in the online survey?",
+      "answer": "A total of 2042 Australian adults aged 18 years and above participated in the online survey.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Literacy programs",
+      "subtopic": "Adult literacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Literacy programs|Adult literacy",
+      "target": "Subtopic:Social|Quality education|Literacy programs|Adult literacy_qna_000",
+      "value": 1
+    }
+  ]
+}

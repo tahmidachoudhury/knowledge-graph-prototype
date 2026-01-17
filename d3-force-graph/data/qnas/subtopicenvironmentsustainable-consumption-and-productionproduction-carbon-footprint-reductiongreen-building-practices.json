@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Green building practices",
+      "label": "Green building practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Green building practices_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do sustainable building practices play according to the paragraph?",
+      "answer": "Sustainable building practices are crucial for mitigating climate change and improving occupant comfort globally.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Green building practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Green building practices_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is the importance of sustainable building practices highlighted in the context of the research?",
+      "answer": "Sustainable building practices are emphasized as they play a crucial role in mitigating climate change and improving occupant comfort, which is urgent given the increasing energy and environmental pressures.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Green building practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Green building practices",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Green building practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Green building practices",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Green building practices_qna_001",
+      "value": 1
+    }
+  ]
+}

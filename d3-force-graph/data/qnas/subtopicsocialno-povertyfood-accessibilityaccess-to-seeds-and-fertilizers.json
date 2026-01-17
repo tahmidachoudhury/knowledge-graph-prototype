@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Access to seeds and fertilizers",
+      "label": "Access to seeds and fertilizers",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Access to seeds and fertilizers_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some constraints to the large-scale application of inorganic fertilizers in sub-Saharan Africa?",
+      "answer": "Supply problems, late deliveries, and unsuitable fertilizer blends for local soil characteristics are constraints.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Access to seeds and fertilizers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Access to seeds and fertilizers",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Access to seeds and fertilizers_qna_000",
+      "value": 1
+    }
+  ]
+}

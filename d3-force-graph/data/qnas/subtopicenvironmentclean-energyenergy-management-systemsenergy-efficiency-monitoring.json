@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Energy efficiency monitoring",
+      "label": "Energy efficiency monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Energy efficiency monitoring_qna_000",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What features does the Power Tag Energy Sensor from Schneider Electric offer for real-time data analysis in industrial settings?",
+      "answer": "The Power Tag Energy Sensor offers energy monitoring, real-time measurement of electrical energy consumption, compact size for installation in tight spaces, wireless connectivity for simplified data transmission, and integration with the EcoStruxure platform for advanced energy and automation management.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Energy efficiency monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Energy efficiency monitoring",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Energy efficiency monitoring_qna_000",
+      "value": 1
+    }
+  ]
+}

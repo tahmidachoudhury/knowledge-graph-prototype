@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control",
+      "label": "Biological pest control",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why are bioherbicides based on allelochemical molecules considered advantageous over chemical herbicides?",
+      "answer": "Bioherbicides are advantageous because they have multisite actions, unlike chemical herbicides that have a well-defined single site of action.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Biological pest control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are biopesticides and what are they derived from?",
+      "answer": "Biopesticides are natural products used to control weeds and can be based on natural metabolites produced by living organisms, including plants and microbes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Biological pest control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why are agrochemical companies interested in biopesticides?",
+      "answer": "Agrochemical companies are becoming increasingly interested in eco-friendly products and are investing in the research and development of biopesticides.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Biological pest control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Empowerment of vulnerable populations",
+      "label": "Empowerment of vulnerable populations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Empowerment of vulnerable populations_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the intent of the authors regarding the NCA5's approach to DEAI?",
+      "answer": "The authors aim to show how NCA5 has attempted to address and overcome barriers related to DEAI in climate assessments and to comment on the effectiveness of these efforts.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Empowerment of vulnerable populations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Empowerment of vulnerable populations",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Empowerment of vulnerable populations_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Reflective practice",
+      "label": "Reflective practice",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Reflective practice_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How did reflective discourse impact the teachers involved in the SSI teaching community?",
+      "answer": "Reflective discourse enhanced both implicit and explicit aspects of the epistemic frames and significantly shaped the teachers' identity development.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Reflective practice",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Reflective practice_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the significance of sharing fragility in research and practice?",
+      "answer": "Sharing fragility by exposing our work and thoughts facilitates careful dialogues and valuable insights among researchers and practitioners.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Reflective practice",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Reflective practice_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does Mezirow identify as essential for transformative learning?",
+      "answer": "Mezirow identifies critical self-reflection and re-evaluating one's perspective as essential for transformative learning.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Reflective practice",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Reflective practice_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In what phase has the approach for fostering reflexivity been tested?",
+      "answer": "The approach has been tested in the initial preparatory phase for research teams.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Reflective practice",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Reflective practice",
+      "target": "Subtopic:Social|Quality education|Teacher training|Reflective practice_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Reflective practice",
+      "target": "Subtopic:Social|Quality education|Teacher training|Reflective practice_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Reflective practice",
+      "target": "Subtopic:Social|Quality education|Teacher training|Reflective practice_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Reflective practice",
+      "target": "Subtopic:Social|Quality education|Teacher training|Reflective practice_qna_003",
+      "value": 1
+    }
+  ]
+}

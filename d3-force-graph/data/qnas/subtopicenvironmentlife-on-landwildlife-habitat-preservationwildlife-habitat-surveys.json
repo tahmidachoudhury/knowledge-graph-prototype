@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys",
+      "label": "Wildlife habitat surveys",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the codes assigned to the different habitat types surveyed in the study?",
+      "answer": "The disturbed habitat is assigned the code MH1, the primary forest habitats are designated as MH2, and the secondary habitat with a natural edge is coded as MH3.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do the survey locations differ among the habitats studied?",
+      "answer": "Surveys in disturbed habitat (MH1) were conducted in a disturbed area, while surveys in primary habitat (MH2) were conducted in undisturbed forest locations, and edge habitat (MH3) consists of a secondary habitat with a natural edge.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of habitat was surveyed in the study mentioned in the paragraph?",
+      "answer": "Edge habitat (MH3) in secondary growth forest.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What was the purpose of the study mentioned in the paragraph?",
+      "answer": "The study aimed to develop the first regional assessment of habitat suitability and conservation status for Southeast Asia's small felids.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What has been of interest to naturalists regarding small terrestrial mammals for centuries?",
+      "answer": "Naturalists have been interested in the distribution and overall ecology, including the preferred habitats, of small terrestrial mammals for centuries.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat surveys_qna_004",
+      "value": 1
+    }
+  ]
+}

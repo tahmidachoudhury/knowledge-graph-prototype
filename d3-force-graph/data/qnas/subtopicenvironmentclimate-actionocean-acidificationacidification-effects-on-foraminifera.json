@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on foraminifera",
+      "label": "Acidification effects on foraminifera",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on foraminifera_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What temperature and duration were the sediment samples oven dried for?",
+      "answer": "The sediment samples were oven dried at 60 C for 72 hours to a constant weight.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification effects on foraminifera",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on foraminifera",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on foraminifera_qna_000",
+      "value": 1
+    }
+  ]
+}

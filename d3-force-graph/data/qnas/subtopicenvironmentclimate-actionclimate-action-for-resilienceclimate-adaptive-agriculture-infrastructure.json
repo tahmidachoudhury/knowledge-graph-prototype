@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure",
+      "label": "Climate-adaptive agriculture infrastructure",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Where was the research on crop production factors conducted?",
+      "answer": "The research involved institutions such as the University of Delaware, Colorado State University, and Columbia University among others.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Climate-adaptive agriculture infrastructure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What are some current trends in multicriteria analysis in agriculture as discussed in the Springer Nature publication?",
+      "answer": "Some current trends in multicriteria analysis in agriculture include the use of decision-making models to assess the socioeconomic impact of climate change in rural areas and the integration of immigrants into the rural economy.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Climate-adaptive agriculture infrastructure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the lack of proper information about new trends in crop production and cultivation practices affect agricultural sustainability, as mentioned by a policymaker?",
+      "answer": "The lack of proper information about new trends in crop production and cultivation practices hinders the adoption of cost-effective measures, impacting the overall sustainability of agricultural practices.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Climate-adaptive agriculture infrastructure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does R. Kate's, W. Travis, and T. Wil banks propose addressing climate change in the context of viticulture?",
+      "answer": "R. Kate's, W. Travis, and T. Wil banks propose transformational adaptation when incremental adaptations to climate change are deemed insufficient in the viticulture sector.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Climate-adaptive agriculture infrastructure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-adaptive agriculture infrastructure_qna_003",
+      "value": 1
+    }
+  ]
+}

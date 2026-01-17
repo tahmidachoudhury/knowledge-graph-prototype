@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution",
+      "label": "Nutrient pollution",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What hypothesis is proposed regarding COTS outbreaks and their relationship with nutrient levels?",
+      "answer": "The terrestrial runoff/nutrient enrichment hypothesis suggests that elevated nutrients from eutrophic runoff enhance the success of larvae by increasing phytoplankton food.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Nutrient pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How does marine water eutrophication change with Q2 [32-67] UPD consumption in kg New_x0004_10,000?",
+      "answer": "Marine water eutrophication decreases by 1.023 kg New_x0004_10,000 with Q2 [32-67] UPD consumption.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Nutrient pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What were the observed effects on nutrient concentrations in the Odesa coastal environment following the dam breach?",
+      "answer": "Significant increases in nitrate and phosphate concentrations were observed in the Odesa coastal environment.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Nutrient pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What caused eutrophication in the Black Sea?",
+      "answer": "Eutrophication in the Black Sea was caused by excessive loading of nutrients, leading to phytoplankton blooms and expanded hypoxia and anoxia zones.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Nutrient pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_004",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What are some of the contributing factors to the eutrophication of water bodies?",
+      "answer": "Eutrophication of water bodies arises due to agricultural watersheds run-off and nutrient enrichment.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Nutrient pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_005",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the Ebro Delta influence nutrient availability in the study area?",
+      "answer": "The Ebro Delta receives high riverine inputs from the Ebro River and the Rhone River, which contribute to nutrient availability in the area, assisted by local upwelling events.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Nutrient pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Nutrient pollution_qna_005",
+      "value": 1
+    }
+  ]
+}

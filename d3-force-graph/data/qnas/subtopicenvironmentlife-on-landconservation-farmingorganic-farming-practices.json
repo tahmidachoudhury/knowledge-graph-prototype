@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices",
+      "label": "Organic farming practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are some of the restrictions in organic farming as mentioned in the paragraph?",
+      "answer": "In organic farming, synthetic chemicals such as fertilizers, herbicides, and pesticides are not allowed.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Organic farming practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What role do legumes play in organic farming according to the paragraph?",
+      "answer": "Legumes increase the nitrogen input to the soil through biological nitrogen fixation from the atmosphere.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Organic farming practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are the key motivators for the expansion of organic farming in Denmark?",
+      "answer": "The protection of ecological, human, and animal health are key motivators for the expansion of organic farming in Denmark.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Organic farming practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What role do legumes play in organic farming according to the paragraph?",
+      "answer": "Legumes enable higher crop yields in organic farming than would be feasible without synthetic nitrogen fertilizer.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Organic farming practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices_qna_004",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What practices for organic cotton production were examined by Radhakrishnan in 2017?",
+      "answer": "Radhakrishnan examined different practices for organic cotton production, from its growing to its industrialization.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Organic farming practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Organic farming practices_qna_004",
+      "value": 1
+    }
+  ]
+}

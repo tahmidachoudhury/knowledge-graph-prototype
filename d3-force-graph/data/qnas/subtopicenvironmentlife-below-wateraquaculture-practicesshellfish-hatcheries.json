@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries",
+      "label": "Shellfish hatcheries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is a detailed assessment of juvenile COTS growth needed?",
+      "answer": "A detailed assessment of their growth is needed due to their remarkable growth plasticity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Shellfish hatcheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the goal of identifying new growth markers or traits in juvenile COTS?",
+      "answer": "The goal was to find markers or traits that varied regularly over time, similar to aging methods used for other marine invertebrates.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Shellfish hatcheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the deposited eggs handled in the study?",
+      "answer": "Deposited eggs were collected daily and transferred, separated by female, to small glass vials until hatching.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Shellfish hatcheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_002",
+      "value": 1
+    }
+  ]
+}

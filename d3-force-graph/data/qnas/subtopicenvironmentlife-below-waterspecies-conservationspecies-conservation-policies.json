@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies",
+      "label": "Species conservation policies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What commitment has the Australian Government made regarding the swift parrot?",
+      "answer": "The Australian Government committed to averting the extinction of swift parrots.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species conservation policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "Are there any restrictions on reproducing the WWF publications for commercial purposes?",
+      "answer": "Yes, reproduction of the publication for resale or other commercial purposes is prohibited without prior written permission from WWF.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species conservation policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems",
+      "label": "No-till farming systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has contributed to the increase in atmospheric N2O emissions over the last four decades?",
+      "answer": "The increase in atmospheric N2O emissions is mainly due to soil N2O emissions from agriculture.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "No-till farming systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What measures can help reduce global warming from agriculture?",
+      "answer": "Global warming from agriculture can be reduced by increasing the storage of soil organic carbon and reducing methane (CH4) and nitrous oxide (N2O) emissions while increasing productivity.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "No-till farming systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems_qna_001",
+      "value": 1
+    }
+  ]
+}

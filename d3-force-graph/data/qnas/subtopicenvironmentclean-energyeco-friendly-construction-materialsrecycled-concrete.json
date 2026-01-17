@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete",
+      "label": "Recycled concrete",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can optimizing concrete mixes impact emissions during the construction phase?",
+      "answer": "Optimizing concrete mixes to meet specific project needs, utilizing renewable energy sources, and incorporating recycled materials can significantly cut emissions during the construction phase.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Recycled concrete",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are some limitations of recycling concrete?",
+      "answer": "Concrete may not be 100% recyclable due to factors such as contamination, material degradation, and the limitations of current recycling technologies.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Recycled concrete",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How can recycled aggregates benefit the cement industry?",
+      "answer": "Recycled aggregates can minimize the need for raw material extraction and reduce production emissions in the cement industry.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Recycled concrete",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What roles do urban planning and repurposing existing structures play in the cement industry's environmental impact?",
+      "answer": "They play a critical role in minimizing the need for new construction, which helps reduce the environmental footprint of cement.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Recycled concrete",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled concrete_qna_003",
+      "value": 1
+    }
+  ]
+}

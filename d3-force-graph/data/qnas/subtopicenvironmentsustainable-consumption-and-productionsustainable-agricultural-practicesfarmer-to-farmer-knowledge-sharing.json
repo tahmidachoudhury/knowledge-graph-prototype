@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing",
+      "label": "Farmer-to-farmer knowledge sharing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What dual meaning does the term \"dialogue\" have in the study presented?",
+      "answer": "The term \"dialogue\" refers to both the collective knowledge creation process (methodological approach) and the dialogical relations between humans and non-humans in farming (theoretical lenses).",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Farmer-to-farmer knowledge sharing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does sustainability research relate to knowledge co-production according to the paragraph?",
+      "answer": "Sustainability research stresses interactions between different forms of knowledge, highlighting an instrumental use of knowledge co-production.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Farmer-to-farmer knowledge sharing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What role do knowledge networks and interdisciplinary dialogue play in the research mentioned?",
+      "answer": "Knowledge networks and interdisciplinary dialogue are spotlighted to address multifaceted challenges faced by agriculture, thereby propelling scientific discourse, shaping policy agendas, and contributing to global agroecosystem transformation.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Farmer-to-farmer knowledge sharing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Farmer-to-farmer knowledge sharing_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "label": "Geographic income disparities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the geographical coordinates of the high-altitude populations studied?",
+      "answer": "The geographical coordinates are K htai: 47.23 N, 10.97 E; Obernberg: 46.98 N, 11.42 E; Obergurgl: 46.86 N, 11.2 E; Venn: 47.1 N, 11.54 E.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Geographic income disparities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is addressing socioeconomic disparities important for understanding environmental behavior?",
+      "answer": "Addressing socioeconomic disparities is essential because economic disparities weaken collective engagement and exacerbate educational inequalities, which limit access to knowledge necessary for sustainable practices.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Geographic income disparities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How are households categorized in the SAM and how many regional categories are there?",
+      "answer": "Households are categorized regionally into 6 geopolitical regions of Nigeria: South-South, South-East, South-West, North-Central, North-East, and North-West.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Geographic income disparities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "target": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "target": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "target": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_002",
+      "value": 1
+    }
+  ]
+}

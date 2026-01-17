@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global philanthropy",
+      "label": "Global philanthropy",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms"
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global philanthropy_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does Cassandra contribute to the future according to the paragraph?",
+      "answer": "Cassandra is dedicated to making the world a better place for future youth through place-based education.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms",
+      "subtopic": "Global philanthropy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global philanthropy",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global philanthropy_qna_000",
+      "value": 1
+    }
+  ]
+}

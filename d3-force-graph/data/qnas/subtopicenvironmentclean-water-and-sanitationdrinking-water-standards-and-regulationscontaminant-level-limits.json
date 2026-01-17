@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits",
+      "label": "Contaminant level limits",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What range of indoor radon concentrations was observed in the studies?",
+      "answer": "The minimum concentration measured was 14.3 Bq/m3 and the maximum was 1083 Bq/m3.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Contaminant level limits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How is the threshold defined in the context of the study?",
+      "answer": "The threshold is defined as the 99th percentile of the data.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Contaminant level limits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did the concentration of DEET affect the biochemical composition of Chlorella vulgaris?",
+      "answer": "When DEET concentration exceeded the tolerance limit of 17.4 mg/L, the pigments and biochemical concentrations in Chlorella vulgaris drastically reduced, indicating irreversible damage.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Contaminant level limits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which heavy metals were found at concentrations exceeding recommended levels in the ICUW?",
+      "answer": "Heavy metals exceeding recommended levels included arsenic, boron, bromide, fluoride, and nitrate.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Contaminant level limits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Contaminant level limits_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef monitoring",
+      "label": "Reef monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef monitoring_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the timeline for collecting samples from the M. capitata patch reef population?",
+      "answer": "Samples were collected from the M. capitata patch reef population at 30 sites in early November 2017, with temperature data collected from August 2017 to March 2019, and collection sites revisited in October 2019 during a coral bleaching event.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Reef monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Reef monitoring",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Reef monitoring_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices",
+      "label": "Conservation planning practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What type of research is emphasized as necessary for effective conservation planning?",
+      "answer": "Robust data-driven research is emphasized as necessary for effective conservation planning to understand wildlife persistence and adaptability to urbanising landscapes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Conservation planning practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How has the ecological landscape perspective been applied in the UK regarding conservation measures?",
+      "answer": "The ecological landscape perspective has been adopted in ongoing implementations of conservation measures in the UK.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Conservation planning practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices_qna_001",
+      "value": 1
+    }
+  ]
+}

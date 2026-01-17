@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques",
+      "label": "Aeration techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors influence the diffusion distances of dissolved oxygen in soil?",
+      "answer": "The diffusion distances of dissolved oxygen are influenced by soil management practices.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Aeration techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is air continuity important for soil aeration?",
+      "answer": "Air continuity is important for soil aeration because oxygen diffusion in water is much slower than in the air, specifically about 10,000 times slower.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Aeration techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques_qna_001",
+      "value": 1
+    }
+  ]
+}

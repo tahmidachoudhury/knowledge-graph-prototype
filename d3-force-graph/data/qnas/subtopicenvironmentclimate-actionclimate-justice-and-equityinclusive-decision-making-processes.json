@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes",
+      "label": "Inclusive decision-making processes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the significance of speaking from a broad perspective in climate assessments?",
+      "answer": "Speaking from a broad perspective is important for climate assessments to produce legitimate and authoritative climate knowledge that informs policy and reflects the priorities and needs of the public.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Inclusive decision-making processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the main focus of the NCA5 in relation to DEAI?",
+      "answer": "The NCA5 focuses on efforts to further the application of Diversity, Equity, Accessibility, and Inclusion (DEAI) in climate assessments, aiming to overcome barriers related to disciplinary bias and the exclusion of diverse knowledge systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Inclusive decision-making processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the purpose of the Fifth National Climate Assessment (NCA5) released in late 2023?",
+      "answer": "The NCA5 explores the enablers of diversity, equity, accessibility, and inclusion (DEAI) in developing climate assessments.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Inclusive decision-making processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusive decision-making processes_qna_002",
+      "value": 1
+    }
+  ]
+}

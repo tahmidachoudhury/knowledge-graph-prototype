@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems",
+      "label": "Acidification and coastal ecosystems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What have studies indicated about the level of MP contamination in mangrove ecosystems?",
+      "answer": "Studies have indicated that mangrove ecosystems have substantially higher MP contamination compared to other ecosystems.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and coastal ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does environmental pollution specifically impact mangroves?",
+      "answer": "Environmental pollution, particularly solid waste like floating single-use plastic bags, can obstruct water flow and damage the roots and branches of mangroves, leading to stunted growth or death.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and coastal ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What effect do industrial effluents have on mangrove populations?",
+      "answer": "The mixing of industrial effluents can harm mangrove populations by altering their natural habitat and health.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and coastal ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What impact does untreated sewage have on mangroves according to the paragraph?",
+      "answer": "Untreated sewage hinders the propagation of mangroves and contributes to the acidification of local waters.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and coastal ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some stressors that have increased pressures on ecosystems over the past decades?",
+      "answer": "Some stressors include chemical pollution, habitat destruction, climate change, and introduced harmful species.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and coastal ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_005",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What types of ecosystems have been notably affected by anthropogenic forcings according to the paragraph?",
+      "answer": "Coastal ecosystems have been notably affected by anthropogenic forcings.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and coastal ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_006",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What challenges do contaminated sediments in river deltas pose?",
+      "answer": "Contaminated sediments in river deltas pose risks for the open sea and related management challenges due to pollution and sediment stability issues.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and coastal ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and coastal ecosystems_qna_006",
+      "value": 1
+    }
+  ]
+}

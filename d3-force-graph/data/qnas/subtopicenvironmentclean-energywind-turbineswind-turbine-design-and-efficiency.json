@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency",
+      "label": "Wind turbine design and efficiency",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the advantages of 2D simulations compared to 3D simulations in CFD?",
+      "answer": "2D simulations offer quicker results and are adequate for acquiring the majority of pertinent parameters.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine design and efficiency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does CFD modeling benefit engineers in improving fluidized bed efficiency?",
+      "answer": "CFD modeling allows engineers to analyze fluidized bed dynamics without the need for expensive pilot-scale experiments, significantly reducing development and optimization costs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine design and efficiency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency_qna_001",
+      "value": 1
+    }
+  ]
+}

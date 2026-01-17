@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems",
+      "label": "Closed-loop design systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is highlighted as a limitation in the research findings?",
+      "answer": "A limitation highlighted in the research findings is that a limited number of cases investigate slowing loops within the integration of digital technologies in Life Cycle Inventory development.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "subtopic": "Closed-loop design systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What research questions guided this study?",
+      "answer": "The research questions that guided the study are: 1) What circular loops are addressed when digital technologies are integrated into the development of a Life Cycle Inventory? 2) What trade-offs are revealed in the integration of digital technologies in Life Cycle Inventory development addressing circularity along a life cycle?",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "subtopic": "Closed-loop design systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the focus of dos Santos et al.'s work on distributed economies in the context of sustainability?",
+      "answer": "The focus of dos Santos et al.'s work on distributed economies is on designing sustainability for all, as detailed in their publication in Lecture Notes in Mechanical Engineering.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Closed-loop systems",
+      "subtopic": "Closed-loop design systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Closed-loop systems|Closed-loop design systems_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Soil conservation measures",
+      "label": "Soil conservation measures",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Soil conservation measures_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What geological and climatic features contribute to soil erosion in the study region?",
+      "answer": "The features contributing to soil erosion include steep hills in the west, sparsely covered and poor lands in the north, and heavy seasonal rains.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Soil conservation measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Soil conservation measures",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Soil conservation measures_qna_000",
+      "value": 1
+    }
+  ]
+}

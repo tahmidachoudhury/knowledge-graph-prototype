@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Drought-tolerant crop varieties",
+      "label": "Drought-tolerant crop varieties",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Drought-tolerant crop varieties_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What traits do most weeds share?",
+      "answer": "Most weeds share traits including the ability to rapidly colonize disturbed soils, high specific leaf area and deep rooting, and the ability to produce a very high output of seed.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "subtopic": "Drought-tolerant crop varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Drought-tolerant crop varieties",
+      "target": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Drought-tolerant crop varieties_qna_000",
+      "value": 1
+    }
+  ]
+}

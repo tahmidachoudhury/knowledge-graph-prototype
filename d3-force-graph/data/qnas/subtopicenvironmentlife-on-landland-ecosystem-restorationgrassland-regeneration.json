@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration",
+      "label": "Grassland regeneration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary factor threatening grassland biodiversity mentioned in the paragraph?",
+      "answer": "Nitrogen fertilization is the primary factor threatening grassland biodiversity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Grassland regeneration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What role do vascular plants play in relation to bryophyte abundance in grasslands?",
+      "answer": "Increases in vascular plant cover are likely to decrease bryophyte abundance through light competition.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Grassland regeneration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What effect does nitrogen fertilization have on vascular plant communities in grasslands?",
+      "answer": "Nitrogen fertilization leads to a shift in vascular plant communities towards fast growth strategies that are better adapted to nutrient-rich conditions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Grassland regeneration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What has not yet been tested in relation to bryophyte diversity and abundance in grasslands?",
+      "answer": "No studies have yet tested whether vascular plant fast-slow functional composition might affect bryophyte diversity and abundance in grasslands.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Grassland regeneration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the purpose of the hypotheses formulated in the study?",
+      "answer": "The hypotheses aimed to investigate the effects of weeding, nitrogen fertilization, fungicide application, and vascular plant richness on bryophyte cover and richness within the grassland ecosystem.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Grassland regeneration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods were found to improve NUE in grasslands?",
+      "answer": "The application of inhibitors and splitting N application were effective methods.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Grassland regeneration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Grassland regeneration_qna_005",
+      "value": 1
+    }
+  ]
+}

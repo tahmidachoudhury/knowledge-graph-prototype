@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Climate-resilient buildings",
+      "label": "Climate-resilient buildings",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Climate-resilient buildings_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What findings were presented by Rijal et al. about traditional houses in Nepal?",
+      "answer": "They found that thermal adaptability of buildings and their inhabitants is crucial for energy-efficient building design, particularly in harsh winter climates, and significant energy savings can be achieved through passive building design.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Climate-resilient buildings",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Climate-resilient buildings",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Climate-resilient buildings_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Anxiety disorders",
+      "label": "Anxiety disorders",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Anxiety disorders_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some other related terms to eco-anxiety mentioned in the paragraph?",
+      "answer": "Other related terms include ecological grief, climate grief, and solastalgia.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing",
+      "subtopic": "Anxiety disorders",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Anxiety disorders_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Is there a formally defined mental health disorder for eco-anxiety or eco-grief?",
+      "answer": "No, there is no formally defined mental health disorder or diagnosis to describe the emotions associated with an awareness of ecological loss.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing",
+      "subtopic": "Anxiety disorders",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Anxiety disorders",
+      "target": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Anxiety disorders_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Anxiety disorders",
+      "target": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Anxiety disorders_qna_001",
+      "value": 1
+    }
+  ]
+}

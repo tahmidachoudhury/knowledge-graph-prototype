@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment",
+      "label": "Health technology assessment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What gaps remain in the field of HIA that researchers and practitioners need to address?",
+      "answer": "Researchers and practitioners need to assess predictive accuracy, increase case study examples, and support the institutionalisation of HIA.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems",
+      "subtopic": "Health technology assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Who were the participants included in the survey for HIA research?",
+      "answer": "The participants included HIA practitioners, academics, educators, commissioners, or anyone with relevant HIA experience (self-identified).",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems",
+      "subtopic": "Health technology assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What common methodology was identified among the studies regarding the evaluation of EHDs?",
+      "answer": "The studies exhibited methodological challenges and lacked consistency, with seven studies using device-oriented functional units (FU) and others using treatment-oriented FU.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems",
+      "subtopic": "Health technology assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment",
+      "target": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment",
+      "target": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment",
+      "target": "Subtopic:Social|Good health and well-being|Health policy and systems|Health technology assessment_qna_002",
+      "value": 1
+    }
+  ]
+}

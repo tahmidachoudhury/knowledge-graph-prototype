@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Judicial independence|Judicial autonomy",
+      "label": "Judicial autonomy",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Judicial independence"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Judicial independence|Judicial autonomy_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the statutory autonomy of Exlm and how does it influence its actions?",
+      "answer": "Exlm has statutory autonomy, which has led it to resist executive orders aimed at limiting fossil fuel lending.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Judicial independence",
+      "subtopic": "Judicial autonomy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Judicial independence|Judicial autonomy",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Judicial independence|Judicial autonomy_qna_000",
+      "value": 1
+    }
+  ]
+}

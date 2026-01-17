@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management",
+      "label": "Regenerative land management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the impacts of full-sun cocoa plantations on soil fertility and biodiversity?",
+      "answer": "Full-sun cocoa plantations degrade soil fertility and biodiversity, which impacts crop health and decreases resilience.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Regenerative land management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does regenerative farming relate to food production and the farming system?",
+      "answer": "Regenerative farming not only focuses on soil restoration but also critically examines food production and the broader farming system, including the role and welfare of all actors involved.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Regenerative land management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management_qna_001",
+      "value": 1
+    }
+  ]
+}

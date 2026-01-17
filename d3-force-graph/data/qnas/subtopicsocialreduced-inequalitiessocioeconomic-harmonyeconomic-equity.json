@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic equity",
+      "label": "Economic equity",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic equity_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the WEAII differ from traditional economic thinking?",
+      "answer": "The WEAII rejects traditional economic indicators like the maximization of economic growth at any cost and emphasizes equitable distribution of wealth and wellbeing instead.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Economic equity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic equity",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic equity_qna_000",
+      "value": 1
+    }
+  ]
+}

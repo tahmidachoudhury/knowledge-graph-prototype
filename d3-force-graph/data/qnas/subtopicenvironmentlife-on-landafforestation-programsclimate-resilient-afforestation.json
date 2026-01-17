@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Climate-resilient afforestation",
+      "label": "Climate-resilient afforestation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Climate-resilient afforestation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do acrocarpous and pleurocarpous species differ in their habitat requirements?",
+      "answer": "Acrocarpous species require more open conditions than pleurocarpous species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Climate-resilient afforestation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Climate-resilient afforestation",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Climate-resilient afforestation_qna_000",
+      "value": 1
+    }
+  ]
+}

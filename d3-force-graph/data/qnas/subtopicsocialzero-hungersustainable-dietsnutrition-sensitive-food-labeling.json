@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Nutrition-sensitive food labeling",
+      "label": "Nutrition-sensitive food labeling",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Nutrition-sensitive food labeling_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What regulations affect beekeepers regarding the labeling of their products?",
+      "answer": "Strict regulations prohibit beekeepers from labeling their products with health-promoting information.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Nutrition-sensitive food labeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Nutrition-sensitive food labeling",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Nutrition-sensitive food labeling_qna_000",
+      "value": 1
+    }
+  ]
+}

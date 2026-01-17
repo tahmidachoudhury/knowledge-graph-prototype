@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice algae and microbial communities",
+      "label": "Ice algae and microbial communities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice algae and microbial communities_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the relationship between UGS, UBS, and chlorophyll-a (Chl-a) described in the paragraph?",
+      "answer": "The relationship between UGS, UBS, and Chl-a is not well established and research on this impact remains scarce.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Ice algae and microbial communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice algae and microbial communities",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice algae and microbial communities_qna_000",
+      "value": 1
+    }
+  ]
+}

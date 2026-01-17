@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Income polarization trends",
+      "label": "Income polarization trends",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Income polarization trends_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the World Inequality Report (WID 2018) indicate about social inequalities?",
+      "answer": "The report indicates that social inequalities are increasing almost everywhere on the planet, although at different rates.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Income polarization trends",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Income polarization trends_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to economists like Piketty and Milanovi, what is seen as a direct consequence of aggressive economic liberalism policies?",
+      "answer": "They see the widening of inequalities as a direct consequence of the self-regulating market under aggressive economic liberalism policies and the power of financial capitalism.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Income polarization trends",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Income polarization trends_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the potential consequences of AI's rapid growth on global inequality?",
+      "answer": "AI's rapid growth may worsen global inequalities, increase dependence on automated systems for cognitive tasks, and disrupt established economic paradigms, potentially leaving many workers without meaningful employment.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Income polarization trends",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Income polarization trends",
+      "target": "Subtopic:Social|No poverty|Income inequality|Income polarization trends_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Income polarization trends",
+      "target": "Subtopic:Social|No poverty|Income inequality|Income polarization trends_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Income polarization trends",
+      "target": "Subtopic:Social|No poverty|Income inequality|Income polarization trends_qna_002",
+      "value": 1
+    }
+  ]
+}

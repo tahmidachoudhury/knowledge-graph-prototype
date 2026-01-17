@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Wetland restoration",
+      "label": "Wetland restoration",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Wetland restoration_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What impact has human land use had on wetlands in agricultural landscapes?",
+      "answer": "Human land use and land reclamation have strongly reduced the extent and worsened the ecological conditions of wetlands in most agricultural landscapes.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Wetland restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Wetland restoration_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What methodology did Maleki et al. (2018) use for wetland restoration prioritization?",
+      "answer": "Maleki et al. (2018) applied a Multicriteria-Spatial Decision Support System (MSDSS) for prioritization of wetland restoration using different scenarios.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Wetland restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Wetland restoration",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Wetland restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Wetland restoration",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Wetland restoration_qna_001",
+      "value": 1
+    }
+  ]
+}

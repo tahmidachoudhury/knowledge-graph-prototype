@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Equality before law|Indigenous peoples' rights recognition",
+      "label": "Indigenous peoples' rights recognition",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Equality before law"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Equality before law|Indigenous peoples' rights recognition_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What does the term \"Indigenous Peoples (IPs)\" refer to?",
+      "answer": "It refers to a society of people that self-identify as Indigenous and are descendants of those present in a given location before colonization by another ethnic group.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Equality before law",
+      "subtopic": "Indigenous peoples' rights recognition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Equality before law|Indigenous peoples' rights recognition",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Equality before law|Indigenous peoples' rights recognition_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries",
+      "label": "Urban growth boundaries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the concept of peri-urban areas, and why are they considered as zones of transition?",
+      "answer": "Peri-urban areas are zones of transition from rural to urban land uses located between urban and regional centres and the rural environment. They are considered zones of transition because urban development extends into rural and industrial land, resulting in porous and transitory boundaries.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Urban growth boundaries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is the Ile-de-France region significant in terms of size and population?",
+      "answer": "The Ile-de-France region is one of the smallest regions in France, covering only 2.2% of the total surface area, yet it accommodates a significant portion of the population, making it a densely populated area by urbanization.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Urban growth boundaries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What criteria were used to delimit the urbanization sprawl of Xalapa?",
+      "answer": "High-resolution satellite imagery was used, following building-aggregation and road communication criteria.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Urban growth boundaries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How were the sampling sites for the survey chosen?",
+      "answer": "Subgroups of survey sites were randomly selected for urban and reference areas, with line limits drawn above and below each reference site to determine the sampling areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Urban growth boundaries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Urban growth boundaries_qna_003",
+      "value": 1
+    }
+  ]
+}

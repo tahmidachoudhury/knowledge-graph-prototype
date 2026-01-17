@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Waste sorting technologies",
+      "label": "Waste sorting technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Waste sorting technologies_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did the three sites score in terms of waste management according to the High Index evaluation?",
+      "answer": "Factory A scored the highest with 80 points, followed by Factory B with 47.5 points and Factory C with the lowest score of 32.5 points. The evaluation included parameters such as waste generation, segregation of hazardous waste, recycling programs, and steps implementation.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "subtopic": "Waste sorting technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Waste management|Waste sorting technologies",
+      "target": "Subtopic:Environment|Smart cities|Waste management|Waste sorting technologies_qna_000",
+      "value": 1
+    }
+  ]
+}

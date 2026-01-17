@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity",
+      "label": "Influence on marine biodiversity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What ecological aspect has been documented to be adversely affected by eutrophication?",
+      "answer": "Eutrophication has been widely documented to adversely affect species richness in plants.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Influence on marine biodiversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What factors have contributed to the decline of Gongolaria barbata?",
+      "answer": "The decline has been attributed to severe repeated anoxic crises (mala gues) and competition with exotic flora introduced from the NE Atlantic and NW Pacific, particularly the invasive Sargassum muticum.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Influence on marine biodiversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity_qna_002",
+      "group": "QnA",
+      "label": "Conservation",
+      "question": "What are the main possible causes of decline for G. barbata populations?",
+      "answer": "The main possible causes of decline for G. barbata populations are uprooting, overgrazing by herbivores, habitat destruction, and competition with introduced seaweeds.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Influence on marine biodiversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the effects of edge conditions on epifaunal and infaunal communities?",
+      "answer": "Edge conditions lead to greater exposure to predators and environmental stress for epifaunal and infaunal communities, resulting in behavioral and physiological changes, shifts in species richness, abundance, and community dynamics.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Influence on marine biodiversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does nitrogen enrichment affect bryophyte cover and species richness according to the study?",
+      "answer": "Nitrogen enrichment directly reduces bryophyte cover and species richness, possibly due to toxic effects.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Influence on marine biodiversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Influence on marine biodiversity_qna_004",
+      "value": 1
+    }
+  ]
+}

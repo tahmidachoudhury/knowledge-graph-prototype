@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement",
+      "label": "Youth engagement",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Youth empowerment initiatives"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is it important to engage young people in co-designing technologies aimed at enhancing societal participation?",
+      "answer": "Engaging young people in co-designing technologies is important because it allows them to voice their perspectives and ensures that the technologies address their real needs, potentially lowering barriers to their participation.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Youth empowerment initiatives",
+      "subtopic": "Youth engagement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is it important to engage young people in the design of technologies aimed at societal participation?",
+      "answer": "Engaging young people in the design of technologies allows them to voice their perspectives and ensures that the technologies address their real needs and preferences.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Youth empowerment initiatives",
+      "subtopic": "Youth engagement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is it important to engage young people in the design of technologies that support societal participation?",
+      "answer": "Engaging young people in design allows them to voice their perspectives, ensures the technologies address real needs, and can increase their interest in societal matters in the future.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Youth empowerment initiatives",
+      "subtopic": "Youth engagement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement",
+      "target": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement",
+      "target": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement",
+      "target": "Subtopic:Social|Reduced inequalities|Youth empowerment initiatives|Youth engagement_qna_002",
+      "value": 1
+    }
+  ]
+}

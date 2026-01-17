@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Nutrition psychiatry",
+      "label": "Nutrition psychiatry",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Nutrition psychiatry_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How are diets high in ultra-processed foods (UPFs) linked to mental health?",
+      "answer": "Diets high in UPFs are linked to increased risks for diet-related chronic diseases, including common mental health disorders such as anxiety and depression.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Nutrition psychiatry",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Nutrition psychiatry",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Nutrition psychiatry_qna_000",
+      "value": 1
+    }
+  ]
+}

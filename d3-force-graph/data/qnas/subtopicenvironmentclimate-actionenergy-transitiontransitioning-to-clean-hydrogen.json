@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transitioning to clean hydrogen",
+      "label": "Transitioning to clean hydrogen",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transitioning to clean hydrogen_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What role does the editorial suggest Saudi Arabia aims to achieve in the nuclear energy sector?",
+      "answer": "Saudi Arabia aims to become the Middle East's largest producer of nuclear energy and to advance its nuclear energy systems in line with its ambitions for energy innovation.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Transitioning to clean hydrogen",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Transitioning to clean hydrogen",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Transitioning to clean hydrogen_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems",
+      "label": "Climate-resilient energy systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the principles and criteria outlined in the literature review by Sharif and Yamakawa (2016) for assessing urban energy resilience?",
+      "answer": "According to Sharif and Yamakawa (2016), the literature review identified principles and criteria for assessing urban energy resilience, including adaptability, diversity, redundancy, connectivity, efficiency, sufficiency, and transparency in urban energy systems to enhance resilience to various shocks and stresses.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Climate-resilient energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How are energy vulnerability and resilience defined in the article?",
+      "answer": "Energy vulnerability refers to the susceptibility of economies to energy shocks based on factors like industry dependence on energy, while energy resilience pertains to the resources and capabilities available to mitigate the socio-economic impacts of such shocks; they are intertwined but not overlapping concepts.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Climate-resilient energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How are energy vulnerability and resilience characterized according to the paragraph?",
+      "answer": "Energy vulnerability and resilience are characterized as intertwined yet not overlapping concepts; both relate to the dependence on specific energy sources and supply security, with different levels of resources impacting the ability to mitigate socio-economic costs from energy shocks.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Climate-resilient energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_002",
+      "value": 1
+    }
+  ]
+}

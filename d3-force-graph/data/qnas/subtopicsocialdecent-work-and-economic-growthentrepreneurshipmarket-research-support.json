@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Entrepreneurship|Market research support",
+      "label": "Market research support",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Entrepreneurship"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Entrepreneurship|Market research support_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the study address empirical evidence gaps?",
+      "answer": "It employs advanced econometric techniques, including panel data analysis, cointegration tests, and asymmetric modeling.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Entrepreneurship",
+      "subtopic": "Market research support",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Entrepreneurship|Market research support_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Who else, besides researchers, can find the insights from the review helpful?",
+      "answer": "Policy makers and industry practitioners can also benefit from the insights by identifying experts for consultancy, key literature for informed decisions, and methodological guides for applied research.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Entrepreneurship",
+      "subtopic": "Market research support",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Entrepreneurship|Market research support",
+      "target": "Subtopic:Social|Decent work and economic growth|Entrepreneurship|Market research support_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Entrepreneurship|Market research support",
+      "target": "Subtopic:Social|Decent work and economic growth|Entrepreneurship|Market research support_qna_001",
+      "value": 1
+    }
+  ]
+}

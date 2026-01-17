@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Resilient healthcare systems",
+      "label": "Resilient healthcare systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Resilient healthcare systems_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the role of radiology societies in addressing climate change impacts on healthcare?",
+      "answer": "Radiology societies advocate for urgent, impactful, and measurable changes in healthcare delivery by engaging members, policymakers, industry partners, and patients.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Resilient healthcare systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Resilient healthcare systems_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What actions can professional societies take to mitigate the environmental impact of radiological practice?",
+      "answer": "Radiological societies need to advocate for urgent, impactful, and measurable changes, prioritize research and education on climate and environmental threats, and work on improving access to care.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Resilient healthcare systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Resilient healthcare systems",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Resilient healthcare systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Resilient healthcare systems",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Resilient healthcare systems_qna_001",
+      "value": 1
+    }
+  ]
+}

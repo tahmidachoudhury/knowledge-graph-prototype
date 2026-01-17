@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation",
+      "label": "Use of sustainable materials in transportation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the purpose of the project mentioned in the paragraph?",
+      "answer": "The purpose of the project was to provide the environmental impact of bio-based materials based on a comprehensive and generalized dataset rather than a specific product or single point result.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Use of sustainable materials in transportation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does information and communication technology (ICT) contribute to environmental protection as mentioned in the text?",
+      "answer": "ICT diminishes asymmetric information regarding market situations, which reduces traveling, transaction, and time costs, ultimately leading to a significant decrease in energy-intensive activities that protect environmental quality.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Use of sustainable materials in transportation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation_qna_001",
+      "value": 1
+    }
+  ]
+}

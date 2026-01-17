@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Indigenous education initiatives",
+      "label": "Indigenous education initiatives",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Indigenous education initiatives_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is Val's goal in her work within Ojibwa homelands?",
+      "answer": "Val seeks to elevate Indigenous knowledges and facilitate equitable research practices in the Great Lakes region.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education",
+      "subtopic": "Indigenous education initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Access to education|Indigenous education initiatives",
+      "target": "Subtopic:Social|No poverty|Access to education|Indigenous education initiatives_qna_000",
+      "value": 1
+    }
+  ]
+}

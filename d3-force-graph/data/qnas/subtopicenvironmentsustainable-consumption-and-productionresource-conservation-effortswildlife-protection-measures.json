@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Wildlife protection measures",
+      "label": "Wildlife protection measures",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Wildlife protection measures_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What measures were applied starting at the end of the 1990s to help wildlife in the study area?",
+      "answer": "EU agri-environmental measures were applied to create and manage environments for wild fauna and flora on set-aside arable land.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Wildlife protection measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Wildlife protection measures",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Wildlife protection measures_qna_000",
+      "value": 1
+    }
+  ]
+}

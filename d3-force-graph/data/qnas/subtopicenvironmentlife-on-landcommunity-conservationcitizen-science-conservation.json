@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation",
+      "label": "Citizen science conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is Citizen Science, and how is it utilized in conservation efforts in the Philippines?",
+      "answer": "Citizen Science refers to the participation of local people in scientific activities and has been widely used in local conservation efforts in the Philippines.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Citizen science conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does Citizen Science benefit from local resource users?",
+      "answer": "Citizen Science benefits from the context-and-location-specific knowledge of local resource users about their immediate environments, enhancing conservation efforts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Citizen science conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How can citizen science complement the use of weather radar data?",
+      "answer": "Citizen science can provide species-specific information that complements the general data obtained from radar observations.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Citizen science conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How are citizen scientists and crowdsourcing labeling services involved in bioacoustics?",
+      "answer": "Citizen scientists and crowdsourcing labeling services like Amazon Mechanical Turk are less involved in annotating bioacoustic recordings compared to labeling datasets from imagery sources, such as those collected by camera traps and satellites.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Citizen science conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How was the large spatial coverage and high number of samples achieved in the survey?",
+      "answer": "The coverage and sample size were primarily achieved by incorporating volunteers for fieldwork, including rangers of national parks and citizen scientists.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Citizen science conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Citizen science conservation_qna_004",
+      "value": 1
+    }
+  ]
+}

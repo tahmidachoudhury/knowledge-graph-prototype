@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal",
+      "label": "Invasive species removal",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the purpose of displacing aquatic macrophytes, sand, and boulders during the sampling?",
+      "answer": "The purpose was to dislodge macroinvertebrates that might be attached to the mentioned substrates.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Invasive species removal",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the primary cause of biodiversity loss as indicated in the document?",
+      "answer": "The primary cause of biodiversity loss includes direct human drivers such as greenhouse gas emissions from fossil fuel combustion, habitat conversion, pollution, and the introduction of invasive species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Invasive species removal",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal_qna_001",
+      "value": 1
+    }
+  ]
+}

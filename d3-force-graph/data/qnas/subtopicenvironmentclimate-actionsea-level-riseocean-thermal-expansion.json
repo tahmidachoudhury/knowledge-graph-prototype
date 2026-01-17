@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion",
+      "label": "Ocean thermal expansion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do regional temperature records in Connecticut compare to global temperature records?",
+      "answer": "The regional temperature record in Connecticut tracked the global temperature increase closely, suggesting that similar comparisons could be made for other regions with long-term temperature records.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Ocean thermal expansion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What three key indices are increasing according to the paragraph?",
+      "answer": "The three key indices that are increasing are global atmospheric pCO2, average global temperature, and average Connecticut air temperature.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Ocean thermal expansion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What temperature increase is projected for Connecticut by the year 2100?",
+      "answer": "Connecticut temperatures are projected to increase by approximately 1.4 to 7.8 degrees by the year 2100.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Ocean thermal expansion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the temperature increase from the lowest to the highest observed in seawater temperatures from Dalian to Fujian?",
+      "answer": "The lowest temperature increased by 14 degrees, while the highest temperature increased by 8 degrees.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Ocean thermal expansion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role does climate change play in the dynamics of MHWs in Chesapeake Bay?",
+      "answer": "Climate change plays a key role by contributing to increases in MHW frequency primarily driven by long-term warming from anthropogenic climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Ocean thermal expansion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Ocean thermal expansion_qna_004",
+      "value": 1
+    }
+  ]
+}

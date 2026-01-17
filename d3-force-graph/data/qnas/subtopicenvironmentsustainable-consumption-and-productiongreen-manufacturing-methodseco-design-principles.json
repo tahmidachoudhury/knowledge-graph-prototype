@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles",
+      "label": "Eco-design principles",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "In Chapman's (2017) \"The Routledge Handbook of Sustainable Product Design,\" what are some key principles and guidelines for creating sustainable products? How can sustainable product design contribute to environmental conservation and long-term viability?",
+      "answer": "Key principles include lifecycle assessment, material selection, and user involvement. Sustainable product design contributes to environmental conservation by minimizing resource depletion and reducing environmental impact, thereby ensuring long-term viability.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "subtopic": "Eco-design principles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What principle does the Ecopath model work on?",
+      "answer": "The Ecopath model works on the principle of mass balance for each functional group.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "subtopic": "Eco-design principles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What principle does the EC's Hierarchy of action on pollution endorse that is being contradicted by the EU-ETS design?",
+      "answer": "The prevention first principle is being contradicted by the EU-ETS design.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "subtopic": "Eco-design principles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Eco-design principles_qna_002",
+      "value": 1
+    }
+  ]
+}

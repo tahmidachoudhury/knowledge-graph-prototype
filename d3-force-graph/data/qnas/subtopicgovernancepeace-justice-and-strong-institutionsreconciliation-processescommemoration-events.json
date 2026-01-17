@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Commemoration events",
+      "label": "Commemoration events",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Reconciliation processes"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Commemoration events_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many participants were registered for the event mentioned in the paragraph?",
+      "answer": "More than 800 participants were registered.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Reconciliation processes",
+      "subtopic": "Commemoration events",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Commemoration events",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Commemoration events_qna_000",
+      "value": 1
+    }
+  ]
+}

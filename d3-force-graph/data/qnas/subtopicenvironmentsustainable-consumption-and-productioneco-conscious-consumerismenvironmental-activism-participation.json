@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation",
+      "label": "Environmental activism participation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is it important to understand the experiences of environmental observers?",
+      "answer": "It is important to understand their experiences because their cognitive processing and emotions can lead to mental health challenges, which may result in behavioural changes such as disengagement or engagement in activism.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "subtopic": "Environmental activism participation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Can high personal norms lead individuals to actively participate in environmental protection actions?",
+      "answer": "Yes, according to FrÃƒÂ¤ulein et al. (2023), high personal norms encourage people to engage in environmental protection actions and choose environmentally friendly alternatives. Individuals with strong personal norms are more likely to reduce damage to the environment by making sustainable choices.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "subtopic": "Environmental activism participation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "According to Cleveland et al. (2005), what might prevent concerned consumers from taking action to protect the environment?",
+      "answer": "Cleveland et al. (2005) suggest that even if consumers are worried about the environment, their concern might not lead to action unless they feel empowered to make a difference.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "subtopic": "Environmental activism participation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What percentage of respondents identified as politically left correctly perceived environmental impacts to primarily accrue abroad?",
+      "answer": "52% of respondents identifying themselves as politically left correctly perceived environmental impacts to primarily accrue abroad.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "subtopic": "Environmental activism participation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Environmental activism participation_qna_003",
+      "value": 1
+    }
+  ]
+}

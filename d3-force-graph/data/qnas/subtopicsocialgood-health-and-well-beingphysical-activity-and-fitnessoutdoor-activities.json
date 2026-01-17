@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Physical activity and fitness|Outdoor activities",
+      "label": "Outdoor activities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Physical activity and fitness"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Physical activity and fitness|Outdoor activities_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do natural selection and sexual selection affect male locomotor performance?",
+      "answer": "Males with poorer locomotor performance are less likely to mate, making them subjects of both natural and sexual selection, which together exert pressure to enhance locomotor performance.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Physical activity and fitness",
+      "subtopic": "Outdoor activities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Physical activity and fitness|Outdoor activities",
+      "target": "Subtopic:Social|Good health and well-being|Physical activity and fitness|Outdoor activities_qna_000",
+      "value": 1
+    }
+  ]
+}

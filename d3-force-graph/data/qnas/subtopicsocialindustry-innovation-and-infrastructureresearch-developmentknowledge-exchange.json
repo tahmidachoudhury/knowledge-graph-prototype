@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange",
+      "label": "Knowledge exchange",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the expected contributions of new ways of producing knowledge?",
+      "answer": "New ways of producing knowledge are expected to contribute to transformative societal change.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "subtopic": "Knowledge exchange",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do large language models (LLMs) impact knowledge creation, according to the research presented?",
+      "answer": "LLMs can promote knowledge creation if used well, but they also pose risks by producing texts that users may not perceive as sources of knowledge, which could lead individuals to retreat into ignorance.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "subtopic": "Knowledge exchange",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange_qna_001",
+      "value": 1
+    }
+  ]
+}

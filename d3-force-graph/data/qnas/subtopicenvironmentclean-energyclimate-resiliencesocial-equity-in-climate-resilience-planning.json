@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Social equity in climate resilience planning",
+      "label": "Social equity in climate resilience planning",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Social equity in climate resilience planning_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is essential for addressing climate justice and implementing climate adaptation strategies?",
+      "answer": "Support from residents is essential for addressing climate justice and facilitating the implementation of climate adaptation strategies.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Social equity in climate resilience planning",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Social equity in climate resilience planning_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is highlighted as a pivotal component of climate justice in relation to the study?",
+      "answer": "Equitable access to public support for climate adaptation is highlighted as a pivotal component of climate justice.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Social equity in climate resilience planning",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Social equity in climate resilience planning",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Social equity in climate resilience planning_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Social equity in climate resilience planning",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Social equity in climate resilience planning_qna_001",
+      "value": 1
+    }
+  ]
+}

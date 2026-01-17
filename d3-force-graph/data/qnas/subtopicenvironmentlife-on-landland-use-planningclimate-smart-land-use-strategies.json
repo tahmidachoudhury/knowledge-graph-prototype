@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies",
+      "label": "Climate-smart land use strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are potential impacts of land use changes on radon emissions?",
+      "answer": "Land use changes driven by climate adaptation strategies can disturb the soil and potentially increase radon emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Climate-smart land use strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What were the aims of this study regarding the socio-ecological system (SES) in the YRB?",
+      "answer": "The aims of the study were to construct a network among SES components in the YRB, explore the effects of land-use and climate change on SES network coupling relationships, and identify their thresholds to guide ecological zoning management.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Climate-smart land use strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies_qna_001",
+      "value": 1
+    }
+  ]
+}

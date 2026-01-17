@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health information sharing",
+      "label": "Health information sharing",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health information sharing_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do advanced systems improve data sharing and security?",
+      "answer": "Advanced systems increase the sharing processes and security of data transmission.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "subtopic": "Health information sharing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health security|Health information sharing",
+      "target": "Subtopic:Social|Good health and well-being|Global health security|Health information sharing_qna_000",
+      "value": 1
+    }
+  ]
+}

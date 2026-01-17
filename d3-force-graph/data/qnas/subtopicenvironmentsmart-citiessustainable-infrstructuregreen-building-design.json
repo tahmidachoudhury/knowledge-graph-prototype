@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Green building design",
+      "label": "Green building design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Green building design_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some of the design problems identified in residential buildings according to the studies mentioned?",
+      "answer": "The design problems identified include building orientation, materials, and roof design.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Green building design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Green building design",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Green building design_qna_000",
+      "value": 1
+    }
+  ]
+}

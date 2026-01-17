@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries",
+      "label": "Research for fisheries",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many fishing households were part of the study conducted in the Nabaoy River Watershed?",
+      "answer": "The study included 126 fishing households in the Nabaoy River Watershed.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "subtopic": "Research for fisheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What does the study aim to achieve in fisheries management?",
+      "answer": "The study aims to reduce ecological impacts while ensuring socioeconomic benefits through a comprehensive assessment of fisheries management indicators beyond just species and income evaluations.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "subtopic": "Research for fisheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Who are some of the researchers mentioned that have contributed to the study of fisheries economic analysis?",
+      "answer": "Researchers mentioned include Garza-Gil, Garc a-de-la-Fuente, Raffray, Akbari, and de la Puente.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "subtopic": "Research for fisheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries",
+      "target": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries",
+      "target": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries",
+      "target": "Subtopic:Social|Zero hunger|Sustainable fishing|Research for fisheries_qna_002",
+      "value": 1
+    }
+  ]
+}

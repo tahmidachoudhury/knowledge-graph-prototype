@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient air conditioning units",
+      "label": "Energy-efficient air conditioning units",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient air conditioning units_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What types of equipment did respondents indicate using to regulate the indoor temperature and humidity?",
+      "answer": "Respondents were asked whether they used fans, air conditioners, or other equipment to regulate indoor temperature and humidity.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Energy-efficient air conditioning units",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient air conditioning units",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient air conditioning units_qna_000",
+      "value": 1
+    }
+  ]
+}

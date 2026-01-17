@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation campaigns",
+      "label": "Reforestation campaigns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation campaigns_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific time frames were used for the summer and winter campaigns to estimate the percentage cover of vascular plants?",
+      "answer": "The summer campaign was conducted in August 2022, and the winter campaign was conducted in March/April 2023.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Reforestation campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation campaigns",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation campaigns_qna_000",
+      "value": 1
+    }
+  ]
+}

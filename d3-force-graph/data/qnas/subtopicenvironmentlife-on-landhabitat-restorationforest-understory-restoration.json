@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration",
+      "label": "Forest understory restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can nitrogen fertilization indirectly affect bryophytes?",
+      "answer": "Nitrogen fertilization can indirectly affect bryophytes by changing vascular plant community composition and increasing vascular plant biomass, which leads to greater competition for light and space, potentially excluding less competitive bryophytes from the understory.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Forest understory restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the hypothesis regarding the impact of disturbance by weeding on bryophyte cover and richness?",
+      "answer": "The hypothesis asserts that disturbance by weeding increases bryophyte cover and richness by creating bare ground for colonization and increasing light levels.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Forest understory restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors",
+      "label": "Radiation monitors",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is ongoing monitoring of radon emissions necessary?",
+      "answer": "Ongoing monitoring is necessary because erosion and geological changes can alter natural radon emission patterns, which poses risks for indoor radon exposure.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Radiation monitors",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is post-irradiation examination (PIE) important in nuclear reactor research?",
+      "answer": "PIE is important because it measures the performance of nuclear fuels and materials and helps understand their behaviors in the extreme temperature and radiation environments of a nuclear reactor.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Radiation monitors",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is one of the main goals of introducing XCT into the PIE workflow for nuclear materials?",
+      "answer": "One of the main goals is to provide a non-destructive means to probe the structure in three dimensions, revealing insights into the effects of irradiation on material structures.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Radiation monitors",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are gamma rays commonly used for in the context of plants?",
+      "answer": "Gamma rays are commonly used as mutagens due to their ease of application, good penetration, reproducibility, high mutation frequency, and fewer disposal problems.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Radiation monitors",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Radiation monitors_qna_003",
+      "value": 1
+    }
+  ]
+}

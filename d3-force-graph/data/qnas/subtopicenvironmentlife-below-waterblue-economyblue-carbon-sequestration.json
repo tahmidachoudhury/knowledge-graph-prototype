@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration",
+      "label": "Blue carbon sequestration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the estimated amount of carbon dioxide equivalent stored in mangrove forests globally?",
+      "answer": "An estimated 21,896.56 metric tons of carbon dioxide equivalent (CO2e) are stored in mangrove forests globally.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Blue carbon sequestration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much carbon do BCEs (Benthic Coastal Ecosystems) accumulate globally?",
+      "answer": "BCEs are believed to contain more than 30,000 teragrams (Tg) of carbon across approximately 185 million hectares.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Blue carbon sequestration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration_qna_001",
+      "value": 1
+    }
+  ]
+}

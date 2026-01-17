@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass",
+      "label": "Biogas production from biomass",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the main products generated from the pyrolysis of faecal sludge?",
+      "answer": "The main products from the pyrolysis of faecal sludge include biochar, bio-oil, tar, and syngas.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biogas production from biomass",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why has there been a recent lack of energy-rich feedstocks for biogas production in Europe?",
+      "answer": "The recent expansion of biogas production across Europe has resulted in a lack of energy-rich feedstocks such as slaughterhouse waste.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biogas production from biomass",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the two modelled scenarios for biogas production discussed in the study?",
+      "answer": "The two scenarios are (1) harvesting and ensiling of cover crops and cereal straw with co-digestion of cattle manure, and (2) mono-digestion of cattle manure with direct cover crop soil incorporation.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biogas production from biomass",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are some potential adverse effects associated with the use of energy crops in biogas production?",
+      "answer": "Potential adverse effects include changes in land use and soil carbon storage, as well as increased energy inputs for harvesting, transport, and processing.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biogas production from biomass",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the annual production of natural gas in Russia?",
+      "answer": "Russia produces roughly 600 billion cubic meters of natural gas per year.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biogas production from biomass",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biogas production from biomass_qna_004",
+      "value": 1
+    }
+  ]
+}

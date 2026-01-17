@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods",
+      "label": "Distillation methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What impurities are leached out from the SPL in the mentioned method?",
+      "answer": "Fluoride and cyanide impurities are leached out from the SPL.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Distillation methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What method did McGeer et al. patent in 1958?",
+      "answer": "McGeer et al. patented a distillation method for recovering material from the aluminum reduction cell lining using high temperature and vacuum.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Distillation methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What advantage does the distillation method have regarding the treatment of SPL?",
+      "answer": "The distillation method does not require the SPL to be ground into very small particles prior to treatment, which saves time and reduces costs related to investment, labor, and energy demand.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Distillation methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the end products foreseen from the distillation method?",
+      "answer": "The foreseen end products from the distillation method would be sodium, cryolite, and a purified carbon material (first cut SPL).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Distillation methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the temperature gradient in the distillation column facilitate separation of components?",
+      "answer": "As the vapors ascend the distillation column, a successively lower temperature allows the fluorides to condense in the first part, while sodium remains in the vapor phase until a lower temperature allows it to condense in the upper part of the column.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Distillation methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Distillation methods_qna_004",
+      "value": 1
+    }
+  ]
+}

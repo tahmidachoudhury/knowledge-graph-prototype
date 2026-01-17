@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories",
+      "label": "Wildlife habitat inventories",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of habitats were expected to be included in foraging individuals' habitat selection?",
+      "answer": "Foraging individuals were expected to select a mixture of habitats, including summer crops, pasturelands, and wetlands.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat inventories",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What significant morphological differences were found in common toads based on habitat type?",
+      "answer": "The study found that common toads exhibit habitat-specific morphologies, with the greatest differences observed between natural and urban habitats.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat inventories",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories_qna_001",
+      "value": 1
+    }
+  ]
+}

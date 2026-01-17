@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "label": "Trawl net restrictions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the restrictions placed on the PVOL data?",
+      "answer": "The restrictions state that PVOL data cannot be distributed further and can only be used for extracting animal migration information for scientific research.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Trawl net restrictions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main limitation of supervised models in bioacoustics according to the paragraph?",
+      "answer": "The main limitation is their dependency on extensively manually annotated datasets and the inability to recognize classes that are absent from the training set, which is known as open set or novel species recognition.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Trawl net restrictions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What equipment was used for the macroinvertebrate sampling?",
+      "answer": "A standardised handheld kick net with a frame size of 30 cm x 30 cm, mesh size of 500 m, and handle length of 1.5 m was used for macroinvertebrate sampling.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Trawl net restrictions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How has the acceptance of live trapping evolved in recent years?",
+      "answer": "Although live trapping is comparatively less harmful than killing traps, it is becoming increasingly restricted in practice.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Trawl net restrictions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_004",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What size limitation is imposed on the small mammals that can be studied using the baited tubes?",
+      "answer": "The baited tubes limit fecal collection to animals below a weight of approximately 100 grams.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Trawl net restrictions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_004",
+      "value": 1
+    }
+  ]
+}

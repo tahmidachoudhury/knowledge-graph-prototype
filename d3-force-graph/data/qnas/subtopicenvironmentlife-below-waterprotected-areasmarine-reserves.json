@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine reserves",
+      "label": "Marine reserves",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine reserves_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is required for marine reserves to produce measurable outcomes?",
+      "answer": "Marine reserves require sustainable financing to support staffing and enforcement in order to produce measurable outcomes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Marine reserves",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Marine reserves",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Marine reserves_qna_000",
+      "value": 1
+    }
+  ]
+}

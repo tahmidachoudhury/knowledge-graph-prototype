@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives",
+      "label": "Dam removal initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What measurements were conducted to investigate the flow behavior leading up to the spillway outlets?",
+      "answer": "ADV (Acoustic Doppler Velocimetry) measurements were conducted to capture flow velocities.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Dam removal initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is one aim of the study mentioned in the paragraph?",
+      "answer": "One aim of the study is to enhance the understanding of how poor flow distribution across a spillway impacts its performance and to identify contributing factors to this loss.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Dam removal initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some human activities threatening river ecosystems?",
+      "answer": "Human activities such as damming threaten river ecosystems.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Dam removal initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "Which human activities are primarily responsible for the decline in freshwater migratory fish?",
+      "answer": "Habitat loss and modifications, particularly barriers to migration routes such as dams, are primarily responsible for the decline in freshwater migratory fish.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Dam removal initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the measured flow cross sections indicate about the flow field near the spillway?",
+      "answer": "The measured flow cross sections indicate a stable flow field leading away from the inlet, with stagnation and recirculation zones leading up to the spillway, along with minor variations for increasing inlet flow rates.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Dam removal initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Dam removal initiatives_qna_004",
+      "value": 1
+    }
+  ]
+}

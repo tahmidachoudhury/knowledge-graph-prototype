@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Enhanced oil recovery with carbon capture",
+      "label": "Enhanced oil recovery with carbon capture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Enhanced oil recovery with carbon capture_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is necessary for substantial CO2 capture in standalone absorption systems?",
+      "answer": "Higher amine concentrations are necessary to ensure adequate amine groups are available for CO2 capture.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Enhanced oil recovery with carbon capture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Enhanced oil recovery with carbon capture",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Enhanced oil recovery with carbon capture_qna_000",
+      "value": 1
+    }
+  ]
+}

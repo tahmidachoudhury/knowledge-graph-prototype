@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Health sector adaptation",
+      "label": "Health sector adaptation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Health sector adaptation_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the role of individual radiologists and radiology practices in addressing climate change?",
+      "answer": "Individual radiologists and radiology practices can act as agents for change in their daily practice and within their healthcare organizations.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Health sector adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Health sector adaptation",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Health sector adaptation_qna_000",
+      "value": 1
+    }
+  ]
+}

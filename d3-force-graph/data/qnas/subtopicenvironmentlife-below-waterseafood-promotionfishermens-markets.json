@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Fishermen's markets",
+      "label": "Fishermen's markets",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Fishermen's markets_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of markets is the catch commercialized in?",
+      "answer": "The catch is commercialized in national fresh fish markets.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "subtopic": "Fishermen's markets",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Seafood promotion|Fishermen's markets",
+      "target": "Subtopic:Environment|Life below water|Seafood promotion|Fishermen's markets_qna_000",
+      "value": 1
+    }
+  ]
+}

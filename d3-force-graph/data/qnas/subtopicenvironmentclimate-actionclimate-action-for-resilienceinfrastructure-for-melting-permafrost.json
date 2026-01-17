@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost",
+      "label": "Infrastructure for melting permafrost",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost_qna_000",
+      "group": "QnA",
+      "label": "International Relations",
+      "question": "In which direction are Russia and the countries of the Caspian area likely to shift their focus regarding energy production and distribution?",
+      "answer": "Russia and the countries of the Caspian area are likely to shift their focus toward the East, strengthening production capacity and gas pipelines in relation to China.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure for melting permafrost",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is referred to by \"dual-scale\" in the context of studying internal frost damage in concrete?",
+      "answer": "\"Dual-scale\" refers to investigations encompassing both macro-scale (above 10 mm) and meso-scale (15 mm) studies.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure for melting permafrost",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What aspect of concrete is lacking experimental studies according to the paragraph?",
+      "answer": "The interactive effects of pre-existing cracks and internal frost damage on concrete are lacking experimental studies.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure for melting permafrost",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for melting permafrost_qna_002",
+      "value": 1
+    }
+  ]
+}

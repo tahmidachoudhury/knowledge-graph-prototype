@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Agroforestry techniques",
+      "label": "Agroforestry techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Agroforestry techniques_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the benefits of combining trees with crops or livestock in agroecology?",
+      "answer": "The benefits include providing shade, windbreaks, and increased biodiversity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Agroforestry techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Agroforestry techniques",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Agroforestry techniques_qna_000",
+      "value": 1
+    }
+  ]
+}

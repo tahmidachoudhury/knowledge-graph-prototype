@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems",
+      "label": "Life cycle assessment of solar energy systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does dynamic LCIA differ from traditional assessments?",
+      "answer": "Dynamic LCIA investigates time-dependent environmental impacts, considering the timing of greenhouse emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Life cycle assessment of solar energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What method is suggested for assessing the environmental impacts associated with biogas production?",
+      "answer": "Life cycle assessment (LCA) is suggested as a suitable method for assessing the environmental impacts.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Life cycle assessment of solar energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of data do the studies from Pourzahedi & Eckelman, Bafana et al., and Temizel-Sekeryan & Hicks provide?",
+      "answer": "These studies provide life cycle inventory data and assessment results for several synthesis routes of silver nanoparticles.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Life cycle assessment of solar energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What do LCA studies often omit regarding system-level uncertainties?",
+      "answer": "LCA studies often omit rigorous evaluation of system-level uncertainties.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Life cycle assessment of solar energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of uncertainties have considerable impacts on environmental footprints from different farming systems?",
+      "answer": "Uncertainties associated with life cycle inventory analysis (LCI) have considerable impacts.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Life cycle assessment of solar energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Life cycle assessment of solar energy systems_qna_004",
+      "value": 1
+    }
+  ]
+}

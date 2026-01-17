@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction",
+      "label": "Fleet capacity reduction",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What will be quantified in this study regarding capacity loss?",
+      "answer": "The interactions between two phenomena causing capacity loss will be quantified in this study.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Fleet capacity reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What effect do fleet-related measures have on emissions in the evaluated policy packages?",
+      "answer": "When fleet-related measures are included along with activity-related measures, emissions can be reduced to 0.4 million tonnes of CO2 equivalents, showing a significant decrease of 94.2%.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Fleet capacity reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the average size reduction of daily and monthly files compared to the original VP files?",
+      "answer": "Daily files were on average 25% of the original VP file size, and monthly files were 6%.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Fleet capacity reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_002",
+      "value": 1
+    }
+  ]
+}

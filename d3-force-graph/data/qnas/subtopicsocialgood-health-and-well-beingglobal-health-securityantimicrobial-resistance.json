@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Antimicrobial resistance",
+      "label": "Antimicrobial resistance",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Antimicrobial resistance_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the intensive production of ASFs relate to public health concerns?",
+      "answer": "The intensive production of ASFs is linked to the spread of antimicrobial resistance (AMR) and zoonotic disease outbreaks due to high-density farming conditions and antibiotic use.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "subtopic": "Antimicrobial resistance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health security|Antimicrobial resistance",
+      "target": "Subtopic:Social|Good health and well-being|Global health security|Antimicrobial resistance_qna_000",
+      "value": 1
+    }
+  ]
+}

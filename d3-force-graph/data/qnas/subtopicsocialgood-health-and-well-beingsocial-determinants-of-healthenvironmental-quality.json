@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "label": "Environmental quality",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What crucial factors influence environmental quality according to the paragraph?",
+      "answer": "Factors that influence environmental quality include globalization, trade openness, economic growth, and renewable energy.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Environmental quality",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors influencing environmental quality are explored in the review?",
+      "answer": "The review explores the effects of trade openness, renewable energy consumption, economic growth, and globalization on carbon emissions.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Environmental quality",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What socioeconomic factors were explored in relation to environmental protection preferences in the study?",
+      "answer": "The study explored income, education, and employment status as socioeconomic factors affecting environmental protection preferences.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Environmental quality",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What percentage of occurrence locations were identified as environmental outliers in the study?",
+      "answer": "4.6% of the occurrence locations, or 269 locations, were identified as environmental outliers.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Environmental quality",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_004",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What environmental stressor is mentioned as a consequence of poor air quality in cities?",
+      "answer": "Air pollution is identified as an important environmental stressor.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Environmental quality",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_004",
+      "value": 1
+    }
+  ]
+}

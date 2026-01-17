@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Education in rural areas",
+      "label": "Education in rural areas",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Education in rural areas_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main objective of the study discussed in the paragraph?",
+      "answer": "The main objective of the study is to identify and better understand how institutional factors influence the fulfillment of integrative potential in rural areas.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Education in rural areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Education in rural areas",
+      "target": "Subtopic:Social|No poverty|Rural development|Education in rural areas_qna_000",
+      "value": 1
+    }
+  ]
+}

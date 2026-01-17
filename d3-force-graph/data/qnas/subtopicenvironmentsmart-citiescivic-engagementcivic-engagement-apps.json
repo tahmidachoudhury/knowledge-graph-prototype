@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Civic engagement apps",
+      "label": "Civic engagement apps",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Civic engagement apps_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are some of the motivations for app engagement mentioned in the findings?",
+      "answer": "The motivations for app engagement include cost savings, empowerment, convenience, and alignment with sustainability goals.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Civic engagement apps",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Civic engagement apps",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Civic engagement apps_qna_000",
+      "value": 1
+    }
+  ]
+}

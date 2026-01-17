@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems",
+      "label": "Gunshot detection systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the conventional methods previously used for detecting sound events in bioacoustics?",
+      "answer": "Conventional methods predominantly employ supervised learning techniques that rely on substantial amounts of manually annotated bioacoustic data.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Gunshot detection systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do Multi-Modal Language Models improve AI applications in bioacoustics?",
+      "answer": "Multi-Modal Language Models enhance the versatility and possibilities of AI applications by addressing challenges that limit the deployment of AI in real-world scenarios.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Gunshot detection systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do modern AI techniques contribute to the use of ARUs?",
+      "answer": "Modern AI techniques are applied for the automated detection and localization of bioacoustic events, helping to identify sound events of interest and providing timestamps for them.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Gunshot detection systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are common methods used in bioacoustics for sound event detection?",
+      "answer": "Common methods in bioacoustics for sound event detection include computer vision and deep learning techniques such as Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) within supervised learning frameworks.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Gunshot detection systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is a necessary component for training models in bioacoustic sound event detection?",
+      "answer": "A necessary component for training models in bioacoustic sound event detection is a large amount of manually annotated and time-stamped data for every sound of interest.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Gunshot detection systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What potential advantage do Multi-Modal Language Models offer to bioacoustics sound event detection?",
+      "answer": "They offer unparalleled model flexibility and potential, which can help overcome the challenges of current supervised-learning techniques, such as the need for extensive annotated data and limitations to a predefined label space.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Gunshot detection systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the zero-shot recognition capability of the Multi-Modal Language Model technique?",
+      "answer": "The zero-shot recognition capability allows the model to recognize categories without having seen similar data during training.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Gunshot detection systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_007",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How are categories defined during the inference phase for bioacoustics applications using an Audio-Language Model?",
+      "answer": "Various sets of categories can be defined in words or descriptive phrases to suit the requirements and interests of a specific project after the model is trained.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Gunshot detection systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Gunshot detection systems_qna_007",
+      "value": 1
+    }
+  ]
+}

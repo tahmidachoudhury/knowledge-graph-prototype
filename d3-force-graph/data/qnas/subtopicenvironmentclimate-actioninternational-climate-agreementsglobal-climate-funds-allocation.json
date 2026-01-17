@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation",
+      "label": "Global climate funds allocation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What will the next section of the document address regarding ECAs?",
+      "answer": "The next section locates ECAs in the literature on climate finance and energy transitions and presents descriptive data on the energy lending of G20 ECAs.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Global climate funds allocation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the next section of the document focus on regarding ECAs?",
+      "answer": "The next section locates ECAs in the literature on climate finance and energy transitions and presents descriptive data on the energy lending of G20 ECAs.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Global climate funds allocation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What role does the Recovery, Transformation and Resilience Plan (RTRP) play in Spain's green transition?",
+      "answer": "The RTRP proposes assigning 39% of the funds that Spain receives from the Next Generation EU programme to the green transition.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Global climate funds allocation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Global climate funds allocation_qna_002",
+      "value": 1
+    }
+  ]
+}

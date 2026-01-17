@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "label": "Wildlife monitoring plans",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What were the goals regarding the assessment of small felids in Southeast Asia?",
+      "answer": "The goals included predicting geographic distribution, evaluating protected areas' effectiveness, highlighting unprotected suitable areas, and assessing habitat association with broader biodiversity richness.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How were active nests approached during the survey?",
+      "answer": "Active nests were quickly reached to cause the least possible disturbance to the breeding pair, using direct visual observations from a distance with the aid of telescopes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the importance of identifying animal behaviors according to the paragraph?",
+      "answer": "Identifying animal behaviors allows for further identification possibilities, which can aid in macro-ecological applications like monitoring species and reducing ecological threats.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method is proposed for monitoring vocalizing animals, such as birds?",
+      "answer": "Passive acoustic monitoring (PAM) methods are proposed for this purpose.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do passive acoustic monitoring (PAM) methods collect data?",
+      "answer": "PAM methods collect acoustic data using autonomous recording units.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the three advantages of the non-invasive monitoring strategy mentioned in the paragraph?",
+      "answer": "The three advantages are: 1) the welfare of the animals is not affected, eliminating the need for legal permits required for live-trapping; 2) field work can be conducted by volunteers; and 3) molecular species identification can be integrated into routine work in molecular laboratories.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_005",
+      "value": 1
+    }
+  ]
+}

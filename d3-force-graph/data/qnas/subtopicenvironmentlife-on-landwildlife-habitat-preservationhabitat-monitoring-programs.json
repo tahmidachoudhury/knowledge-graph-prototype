@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs",
+      "label": "Habitat monitoring programs",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the range of home range estimates for male individuals?",
+      "answer": "Home range estimates for males range from 7.6 to 269.0 hectares.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat monitoring programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What distinguishes the various techniques for analyzing acoustic data?",
+      "answer": "The techniques are primarily distinguished by whether the analysis aims to identify species present or summarize the area's acoustic environment (soundscape).",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat monitoring programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What time period were the bird surveys conducted for the CBMS monitoring program in 2023?",
+      "answer": "The bird surveys were conducted annually between March and June, specifically from March 1st to May 26th, 2023.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat monitoring programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the purpose of the Dormouse Monitoring System (DoMoS)?",
+      "answer": "The purpose of the Dormouse Monitoring System (DoMoS) is to know the site of occurrence of a species and record it together with habitat data.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat monitoring programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat monitoring programs_qna_003",
+      "value": 1
+    }
+  ]
+}

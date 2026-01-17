@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects",
+      "label": "Boundary mapping projects",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What has been emphasized during the recent mapping exercise conducted by CHUSSDEV in Cross River State?",
+      "answer": "The importance of accurate mapping to address challenges such as forest and biodiversity loss faced by the sector.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Boundary mapping projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Since the study was conducted, what has continued to be a challenge in mapping in Nigeria?",
+      "answer": "Mapping in Nigeria has continued to be limited despite further developments in the field.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Boundary mapping projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What distance were the study sites located from protected area (PA) boundaries compared to the mean across the study region?",
+      "answer": "The study sites were located 35 km away from PA boundaries, compared to a mean distance of 48 km across the study region.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Boundary mapping projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What were the challenges faced in categorizing policies during the mapping process?",
+      "answer": "Some policies were elaborate and included multiple items or instruments, making categorization difficult.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Boundary mapping projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Boundary mapping projects_qna_003",
+      "value": 1
+    }
+  ]
+}

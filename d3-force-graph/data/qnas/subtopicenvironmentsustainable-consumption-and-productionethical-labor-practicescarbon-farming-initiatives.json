@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives",
+      "label": "Carbon farming initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical labor practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does biochar differ from charcoal, and what is its primary use?",
+      "answer": "Biochar differs from charcoal in that it does not burn easily, and its primary use is as a soil amendment.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical labor practices",
+      "subtopic": "Carbon farming initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the objectives of the field trial mentioned in the abstract?",
+      "answer": "The objectives were to collect reliable measurement data on N2 emissions and N2O/(N2O + N2) ratios in typical German crops and to provide a dataset to test and improve biogeochemical models.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical labor practices",
+      "subtopic": "Carbon farming initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What major activities contribute to greenhouse gas emissions in agriculture, forestry, and other land use (AFOLU)?",
+      "answer": "Land clearing, soil cultivation, and fertilizer use contribute significantly to greenhouse gas emissions in AFOLU.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical labor practices",
+      "subtopic": "Carbon farming initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Ethical labor practices|Carbon farming initiatives_qna_002",
+      "value": 1
+    }
+  ]
+}

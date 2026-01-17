@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance",
+      "label": "Glacier mass balance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the unique opportunity offered by the comparison of the two datasets?",
+      "answer": "It allowed for an objective assessment of the role of measurement uncertainty versus real changes.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier mass balance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is eco-anxiety?",
+      "answer": "Eco-anxiety is a term used to describe negative emotional states such as cognitive dissonance, sadness, and distress experienced in response to ecological losses, particularly those associated with climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier mass balance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the positive (negative) change in average annual temperature indicate in developed and emerging economies?",
+      "answer": "The positive (negative) change in average annual temperature indicates rising (decreasing) temperatures in developed and emerging economies.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier mass balance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the two forms of the Environmental Kuznets Curve (EKC) hypothesis described in the paragraph?",
+      "answer": "The two forms of the EKC hypothesis are the U-shaped curve and the inverted U-shaped curve.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier mass balance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier mass balance_qna_003",
+      "value": 1
+    }
+  ]
+}

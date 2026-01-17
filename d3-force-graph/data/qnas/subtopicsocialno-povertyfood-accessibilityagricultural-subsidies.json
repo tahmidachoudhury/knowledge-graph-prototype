@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies",
+      "label": "Agricultural subsidies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What organizations focus on subsidies in specific sectors such as agriculture, fisheries, and forestry?",
+      "answer": "The Food and Agriculture Organization (FAO) focuses on subsidies in agriculture, fisheries, and forestry.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Agricultural subsidies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much does agriculture contribute to Africa's GDP?",
+      "answer": "Agriculture contributes approximately 32% to Africa's GDP.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Agricultural subsidies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What were the key changes in agricultural policies after the revision in 2014 with Regulation 1306/2013?",
+      "answer": "The key changes in agricultural policies after the revision in 2014 with Regulation 1306/2013 shifted from subsidy of productivity to environmentally friendly agricultural practices.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Agricultural subsidies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Agricultural subsidies_qna_002",
+      "value": 1
+    }
+  ]
+}

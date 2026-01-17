@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Food safety and security",
+      "label": "Food safety and security",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Food safety and security_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has scholarly attention predominantly focused on regarding food security post-COVID-19?",
+      "answer": "Scholarly attention has disproportionately focused on the consumption end of the supply chain or the accessibility of food.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "subtopic": "Food safety and security",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health security|Food safety and security",
+      "target": "Subtopic:Social|Good health and well-being|Global health security|Food safety and security_qna_000",
+      "value": 1
+    }
+  ]
+}

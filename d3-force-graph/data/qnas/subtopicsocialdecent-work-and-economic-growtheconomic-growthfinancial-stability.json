@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability",
+      "label": "Financial stability",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How might the transition to a low-carbon economy affect financial stability?",
+      "answer": "The transition to a low-carbon economy has implications for financial stability, systemic financial risk, and financial regulation.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "subtopic": "Financial stability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the two primary questions this review aims to address regarding the banking system and natural hazard shocks?",
+      "answer": "The two primary questions are: 1) What are the direct effects of natural hazard shocks on the banking system, particularly on bank stability, profitability, and credit supply? 2) How does the banking system shape the resilience of the real economy to natural hazard shocks?",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "subtopic": "Financial stability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does Section 2 of the review discuss?",
+      "answer": "Section 2 discusses a conceptual framework of how natural hazard shocks affect the banking sector and how banks' responses translate into real economic outcomes.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "subtopic": "Financial stability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does financialised capitalism represent in economic terms?",
+      "answer": "Financialised capitalism represents a structural transformation of economies, firms, states, and households through the growing dominance of financial actors and markets, shifting focus from production and labour to finance.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic growth",
+      "subtopic": "Financial stability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic growth|Financial stability_qna_003",
+      "value": 1
+    }
+  ]
+}

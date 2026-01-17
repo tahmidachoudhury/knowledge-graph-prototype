@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all",
+      "label": "Access to climate information for all",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the National Climate Assessment (NCA) aim to provide?",
+      "answer": "The NCA aims to provide policy-relevant information on how people within the United States experience climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Access to climate information for all",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What issue does Giulio Pennacchioni address regarding climate change and misinformation?",
+      "answer": "Giulio Pennacchioni highlights that while individuals may contribute to the possession of false information through superficial research, there is a significant amount of misinformation circulating about climate change, necessitating the involvement of collective agents like institutions to uncover it.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Access to climate information for all",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What role do institutions play in combating misinformation, particularly regarding climate change, as suggested in Giulio Pennacchioni's work?",
+      "answer": "Institutions play a crucial role in providing clear and truthful information about climate change and must be involved in uncovering misinformation, as this task should not fall solely on individuals.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Access to climate information for all",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What responsibility do institutions have in addressing the dissemination of misinformation about climate change?",
+      "answer": "Institutions have the responsibility to provide tools and resources for individuals to develop good epistemic conduct, rather than leaving the task of uncovering misinformation solely to individuals. Collective efforts are necessary to combat misinformation related to climate change effectively.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Access to climate information for all",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Access to climate information for all_qna_003",
+      "value": 1
+    }
+  ]
+}

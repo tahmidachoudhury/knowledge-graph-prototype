@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Food insecurity",
+      "label": "Food insecurity",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Food insecurity_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of households experienced severe food insecurity before and after the COVID-19 lockdown?",
+      "answer": "The percentage of households experiencing severe food insecurity increased from 4.9% before the lockdown to 38.6% after the lockdown.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty",
+      "subtopic": "Food insecurity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Food insecurity_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the primary challenges mentioned in the paragraph that affect food security in Nigeria?",
+      "answer": "The primary challenges affecting food security in Nigeria include poverty, natural disasters, and conflicts.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty",
+      "subtopic": "Food insecurity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Food insecurity_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors contribute to the increased vulnerability of Pacific Island communities to food insecurity?",
+      "answer": "The integration into global food supply chains since decolonization, reliance on imported foods, and the shift from locally-grown and harvested food to low-quality imported foods have increased vulnerability to external economic shocks and decreased food sovereignty.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty",
+      "subtopic": "Food insecurity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Food insecurity_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of rural areas in Nigeria experiences food insecurity compared to urban areas?",
+      "answer": "Rural food insecurity in Nigeria is almost 52%, compared to 18% in urban areas.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty",
+      "subtopic": "Food insecurity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Urban poverty|Food insecurity",
+      "target": "Subtopic:Social|No poverty|Urban poverty|Food insecurity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Urban poverty|Food insecurity",
+      "target": "Subtopic:Social|No poverty|Urban poverty|Food insecurity_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Urban poverty|Food insecurity",
+      "target": "Subtopic:Social|No poverty|Urban poverty|Food insecurity_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Urban poverty|Food insecurity",
+      "target": "Subtopic:Social|No poverty|Urban poverty|Food insecurity_qna_003",
+      "value": 1
+    }
+  ]
+}

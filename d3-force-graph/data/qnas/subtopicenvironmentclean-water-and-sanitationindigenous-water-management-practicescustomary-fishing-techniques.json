@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Customary fishing techniques",
+      "label": "Customary fishing techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Customary fishing techniques_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the commonly used method for illegal bushmeat hunting?",
+      "answer": "The commonly used method for illegal bushmeat hunting is wire snaring.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Customary fishing techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Customary fishing techniques",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Customary fishing techniques_qna_000",
+      "value": 1
+    }
+  ]
+}

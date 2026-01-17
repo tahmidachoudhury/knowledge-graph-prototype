@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)",
+      "label": "Battery energy storage systems (bess)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of bioelectrochemical systems (BESs) in energy generation?",
+      "answer": "BESs are versatile technologies for energy generation, with electrochemically active bacteria (EAB) playing a crucial role.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Battery energy storage systems (bess)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the capacity retention percentage of the energy storage device over 1000 cycles?",
+      "answer": "The capacity retention is up to 89.72% over 1000 cycles.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Battery energy storage systems (bess)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)_qna_001",
+      "value": 1
+    }
+  ]
+}

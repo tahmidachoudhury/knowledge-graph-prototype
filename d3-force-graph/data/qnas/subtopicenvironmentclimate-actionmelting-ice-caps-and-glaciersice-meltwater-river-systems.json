@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice meltwater river systems",
+      "label": "Ice meltwater river systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice meltwater river systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the primary external disturbances that threaten watershed sustainability in the Yangtze River basin?",
+      "answer": "The primary external disturbances are intensified land use and climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Ice meltwater river systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice meltwater river systems",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice meltwater river systems_qna_000",
+      "value": 1
+    }
+  ]
+}

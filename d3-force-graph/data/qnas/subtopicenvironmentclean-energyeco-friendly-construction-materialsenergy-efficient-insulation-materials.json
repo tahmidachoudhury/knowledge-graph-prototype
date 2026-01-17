@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials",
+      "label": "Energy-efficient insulation materials",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What materials are pivotal for achieving thermal objectives in GI projects?",
+      "answer": "Insulation materials are pivotal for achieving thermal objectives in GI projects.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Energy-efficient insulation materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of materials are recommended for reducing energy consumption in residential buildings in the Sichuan Plateau?",
+      "answer": "High-efficiency thermal insulation materials are recommended for reducing energy consumption in residential buildings on the Sichuan Plateau.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Energy-efficient insulation materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of the findings in this paper regarding global temperature changes?",
+      "answer": "The findings show that cotton and hemp fibre insulation have a negligible impact on global temperature changes, achieving a net-zero effect in the short term and close-to-zero impact in the long term.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Energy-efficient insulation materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does this paper support decision-making for practitioners in the built environment?",
+      "answer": "It provides data ranges that help practitioners identify the most environmentally friendly insulation materials, aiding in the progress towards net-zero emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Energy-efficient insulation materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Energy-efficient insulation materials_qna_003",
+      "value": 1
+    }
+  ]
+}

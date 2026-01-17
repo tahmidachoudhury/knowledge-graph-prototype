@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives",
+      "label": "Sustainable packaging alternatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What environmental issues are linked to the production of ultra-processed foods?",
+      "answer": "The production of ultra-processed foods contributes to environmental problems such as biodiversity losses associated with commodity ingredient production and plastic packaging waste.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Sustainable packaging alternatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What was the closing question for respondents in the company version of the questionnaire?",
+      "answer": "Respondents were asked about their willingness to implement green practices in the future, with response options being \"yes\" or \"no\".",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Sustainable packaging alternatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What are some sustainable options consumers are willing to pay more for when it comes to plastics packaging?",
+      "answer": "Consumers are willing to pay more for sustainable options such as bioplastics and recycled plastics, according to studies by Herrmann et al., 2022 and Rein and Schmid, 2020.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Sustainable packaging alternatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable packaging alternatives_qna_002",
+      "value": 1
+    }
+  ]
+}

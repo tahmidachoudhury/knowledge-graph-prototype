@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation partnerships",
+      "label": "Wildlife conservation partnerships",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation partnerships_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Which institutions are associated with the authors mentioned in the paragraph?",
+      "answer": "The authors are associated with the Environmental Education Unit at the University of Botswana, the Department of Environmental Sciences at the University of North Carolina Wilmington, and the Department of Range and Forest Resources at Botswana University of Agriculture and Natural Resources.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife conservation partnerships",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation partnerships",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation partnerships_qna_000",
+      "value": 1
+    }
+  ]
+}

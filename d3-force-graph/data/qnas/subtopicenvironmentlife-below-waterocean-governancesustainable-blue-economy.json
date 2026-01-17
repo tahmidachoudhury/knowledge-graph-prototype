@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Sustainable blue economy",
+      "label": "Sustainable blue economy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Sustainable blue economy_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the significance of the FAO S 2022 publication mentioned in the abstract?",
+      "answer": "The significance lies in its call for a Blue Transformation to address the inadequacies in strategies for creating healthy, sustainable, and equitable food systems that consider the long-term impacts of overfishing and habitat degradation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "Sustainable blue economy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Sustainable blue economy_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Which components are essential for securing livelihoods in Blue Transformation?",
+      "answer": "Multi-stakeholder interventions and equitable distribution of benefits are essential for securing livelihoods.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "Sustainable blue economy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|Sustainable blue economy",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|Sustainable blue economy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|Sustainable blue economy",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|Sustainable blue economy_qna_001",
+      "value": 1
+    }
+  ]
+}

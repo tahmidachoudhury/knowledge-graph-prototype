@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems",
+      "label": "Home energy management systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of the energy consumption simulation software mentioned in the paragraph?",
+      "answer": "The software is used to accurately simulate the indoor thermal environment and energy consumption of residential buildings, considering various factors and analyzing the impact of different optimization and renovation measures.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Home energy management systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What role do energy apps play in household energy management according to the paragraph?",
+      "answer": "Energy apps facilitate household energy management and foster engagement by providing feedback mechanisms that encourage user engagement and enhance energy awareness.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Home energy management systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What aspect of app-based energy feedback is noted as being under-researched?",
+      "answer": "The extent to which these apps shape sustainable energy practices within households remains under-researched and limited to pilot-level projects.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Home energy management systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_002",
+      "value": 1
+    }
+  ]
+}

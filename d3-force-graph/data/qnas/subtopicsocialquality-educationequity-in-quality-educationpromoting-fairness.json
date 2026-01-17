@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Equity in quality education|Promoting fairness",
+      "label": "Promoting fairness",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Equity in quality education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Equity in quality education|Promoting fairness_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why do teachers often adopt a neutral or value-free stance in the classroom?",
+      "answer": "Teachers adopt a neutral or value-free stance to avoid controversy and the perception of indoctrination, stemming from concerns about maintaining neutrality.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Equity in quality education",
+      "subtopic": "Promoting fairness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Equity in quality education|Promoting fairness",
+      "target": "Subtopic:Social|Quality education|Equity in quality education|Promoting fairness_qna_000",
+      "value": 1
+    }
+  ]
+}

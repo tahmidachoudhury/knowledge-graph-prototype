@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge",
+      "label": "Participation of indigenous knowledge",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is highlighted by the swings in research and policy interests regarding traditional knowledge?",
+      "answer": "The swings highlight the longstanding privileged role of external knowledge sources that have often devalued traditional knowledge, only to later recognize its value when it aligns with modern narratives.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Participation of indigenous knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is Indigenous knowledge important in the context of reducing GHG emissions in Africa?",
+      "answer": "Indigenous knowledge is important because it can contribute to reducing GHG emissions, but its role in this context is not well understood.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Participation of indigenous knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the consequences of the lack of understanding from governments regarding Indigenous worldviews?",
+      "answer": "The lack of understanding from governments leads to inadequate environmental and social safeguards, resulting in advancing impacts and threats that bring the Amazon region closer to a dangerous tipping point.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Participation of indigenous knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "How does COICA view the relationship between Indigenous Peoples and the Amazon?",
+      "answer": "For Amazonian Indigenous Peoples, the Amazon is more than a physical space; it is where their past, present, and future converge, representing their home, energy, and source of healing and food.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Participation of indigenous knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Participation of indigenous knowledge_qna_003",
+      "value": 1
+    }
+  ]
+}

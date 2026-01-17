@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations",
+      "label": "Epidemiological investigations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What was the null hypothesis (HO) of the study?",
+      "answer": "The null hypothesis (HO) was that there was no significant influence of the COVID-19 pandemic on water, energy, and food security concerning households.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "subtopic": "Epidemiological investigations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What statistical test was used to analyze the data in the study?",
+      "answer": "A paired t-test was used to analyze the statistical mean of water-energy-food accessibility under pre-COVID-19 and post-COVID-19 lockdown scenarios.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "subtopic": "Epidemiological investigations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific context did the current study base its investigation on?",
+      "answer": "The current study based its investigation on a construction site located in the UK but was not limited to specific manufacturer locations or products.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "subtopic": "Epidemiological investigations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many articles were reviewed in the study, and what were their focuses?",
+      "answer": "A total of 245 articles were reviewed, with 185 focused on assessing aquatic ecosystem health and 60 linking ecosystem health to human health or well-being.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "subtopic": "Epidemiological investigations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Epidemiological investigations_qna_003",
+      "value": 1
+    }
+  ]
+}

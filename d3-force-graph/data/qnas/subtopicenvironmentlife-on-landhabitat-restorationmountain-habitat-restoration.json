@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration",
+      "label": "Mountain habitat restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration_qna_000",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What broader pressures are Alpine habitats facing that affect their seasonality and habitat structure?",
+      "answer": "Alpine habitats are under pressure from climate change and land-use modifications, which lead to changes in seasonality, habitat structure, and eventually to population declines.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Mountain habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration_qna_001",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "How do topographic characteristics affect bird breeding success?",
+      "answer": "Topographic characteristics such as elevation, slope, and aspect can influence the microhabitat and microclimate of a nest, which in turn can affect incubation behavior and breeding success in high-Alpine bird species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Mountain habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What drives the abundance and accessibility of food resources in Alpine environments?",
+      "answer": "Vegetation development, which generally follows snowmelt, drives the abundance and accessibility of food resources in Alpine environments.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Mountain habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of habitats were the high-altitude populations sampled from?",
+      "answer": "The high-altitude populations were sampled from unfertilized alpine meadows in the central Alps.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Mountain habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration_qna_004",
+      "group": "QnA",
+      "label": "Ecology and conservation",
+      "question": "Between which elevational ranges were healthier M. aculeata populations found?",
+      "answer": "Healthier M. aculeata populations were found in the middle elevational range of 3700 m to 4100 m.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Mountain habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Mountain habitat restoration_qna_004",
+      "value": 1
+    }
+  ]
+}

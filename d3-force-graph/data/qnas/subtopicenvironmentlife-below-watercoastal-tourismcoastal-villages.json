@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal tourism|Coastal villages",
+      "label": "Coastal villages",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal tourism"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal tourism|Coastal villages_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why were the traditional houses of Yueli Village chosen for this research instead of more famous traditional settlements?",
+      "answer": "They were chosen to better reflect the universality and authenticity of the research.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal tourism",
+      "subtopic": "Coastal villages",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal tourism|Coastal villages",
+      "target": "Subtopic:Environment|Life below water|Coastal tourism|Coastal villages_qna_000",
+      "value": 1
+    }
+  ]
+}

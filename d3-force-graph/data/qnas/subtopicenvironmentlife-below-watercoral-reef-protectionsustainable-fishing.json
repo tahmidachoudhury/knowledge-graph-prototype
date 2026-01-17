@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Sustainable fishing",
+      "label": "Sustainable fishing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Sustainable fishing_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can financial gains be created from spillover in marine reserves?",
+      "answer": "Spillover can be leveraged to create financial gains by leasing profitable harvestable zones within a marine reserve, which can finance reserve monitoring and enforcement without compromising fish biomass.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Sustainable fishing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Sustainable fishing",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Sustainable fishing_qna_000",
+      "value": 1
+    }
+  ]
+}

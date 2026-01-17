@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "label": "Biomass gasification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main focus of the research mentioned in the paragraph?",
+      "answer": "The main focus of the research is to evaluate the ability of 2D simulation studies to represent 3D simulation studies in the gasification process of woody biomass in a fluidized bed reactor.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does gasification involve according to the paragraph?",
+      "answer": "Gasification encompasses a complex interplay of multi-phase, multi-scale, and multi-physics phenomena, involving diverse physical and chemical processes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the benefits of biomass gasification mentioned in the paragraph?",
+      "answer": "The notable benefit of biomass gasification mentioned is its substantial reduction in CO2 emissions, which provides a significant environmental advantage.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technology is commonly used in high-temperature processes like gasification and waste treatment?",
+      "answer": "Fluidized bed technology is commonly used in high-temperature processes such as gasification, waste treatment, and CO2 utilization.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What alternative process to direct combustion is explored by Tsekos et al. in their study?",
+      "answer": "Tsekos et al. explored the gasification process as an alternative to direct combustion of biomass.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_005",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the focus of Tsekos et al.'s research on woody biomass?",
+      "answer": "Tsekos et al. introduced a novel approach to woody biomass gasification using an indirectly heated bubbling fluidized bed steam reformer to enhance efficiency and environmental performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific comparison does the study by João Cardoso et al. focus on in relation to biomass gasification processes?",
+      "answer": "The study focuses on the comparison of hydrodynamic behavior captured by 2D and 3D models in biomass gasification processes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_006",
+      "value": 1
+    }
+  ]
+}

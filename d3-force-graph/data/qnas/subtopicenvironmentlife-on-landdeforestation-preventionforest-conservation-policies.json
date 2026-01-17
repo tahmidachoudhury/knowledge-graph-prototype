@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies",
+      "label": "Forest conservation policies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What recent changes have been made to forestry and land use policies in the State?",
+      "answer": "The State has recently defined ambitions for forestry and land use, indicating more formal direction setting and greater prioritization of land use topics.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest conservation policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some of the priorities emphasized by the EU forest-related policy instruments?",
+      "answer": "The priorities include renewable energy, nature protection, biodiversity conservation, and climate and land use policies.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest conservation policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What recent initiative by the European Commission shows a growing interest in advancing EU forest policy?",
+      "answer": "The increased issuance of policy instruments since the Green Deal indicates this growing interest.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest conservation policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies_qna_003",
+      "group": "QnA",
+      "label": "Research Questions",
+      "question": "What are the two main research questions addressed in the exploration of EU forest policy?",
+      "answer": "The two main research questions are: 1) How do EU forest policy actors envisage forests and their ecosystem services in terms of perceived problems, preferred solutions, and responsibilities to govern forests? 2) How can Cultural Theory contribute to understanding overlaps and differences in these views, and what theoretical implications could arise from a better understanding of them?",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest conservation policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies_qna_004",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What impact did the policy change have on the classification of forested areas in Tasmania?",
+      "answer": "The policy change led to high conservation value reserves being reclassified as production forestry land and previously used forestry land being converted into reserves.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest conservation policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest conservation policies_qna_004",
+      "value": 1
+    }
+  ]
+}

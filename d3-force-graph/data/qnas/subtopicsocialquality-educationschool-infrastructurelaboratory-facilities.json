@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|School infrastructure|Laboratory facilities",
+      "label": "Laboratory facilities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "School infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|School infrastructure|Laboratory facilities_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is infusing SSIs into the classroom considered crucial for future science education?",
+      "answer": "Infusing SSIs into the classroom is considered crucial for equipping students with the competencies needed to respond to various challenges they will face in an uncertain future.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "School infrastructure",
+      "subtopic": "Laboratory facilities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|School infrastructure|Laboratory facilities",
+      "target": "Subtopic:Social|Quality education|School infrastructure|Laboratory facilities_qna_000",
+      "value": 1
+    }
+  ]
+}

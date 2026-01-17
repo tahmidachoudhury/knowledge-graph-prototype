@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Medical device innovation",
+      "label": "Medical device innovation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Medical device innovation_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the two groups that the studies were categorized into?",
+      "answer": "The studies were categorized into electronic surgical devices (EHDs used to conduct surgical procedures) and electronic non-surgical devices (EHDs that offer clinical or non-clinical services that do not involve surgery).",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Medical device innovation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Medical device innovation",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Medical device innovation_qna_000",
+      "value": 1
+    }
+  ]
+}

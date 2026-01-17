@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation",
+      "label": "Cover cropping and crop rotation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is a potential problem with ensiling cover crops?",
+      "answer": "The potential problem is their relatively high moisture content at the time of harvest, which may cause issues for fermentation.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Cover cropping and crop rotation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the hypothesized environmental benefit of digesting cover crops and cattle manure?",
+      "answer": "The hypothesized environmental benefit is overall positive impacts on ecosystems and resource availability due to displacement of natural gas.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Cover cropping and crop rotation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "During which growth stages are N2O and N2 emissions highest?",
+      "answer": "N2O and N2 emissions are highest during early growth stages, ripening, and after harvest, particularly when plant nitrogen and water uptake are low.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Cover cropping and crop rotation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the improved 15N gas flux method contribute to research?",
+      "answer": "The improved 15N gas flux method provides a dataset for a plot-scale field study over a growing season, showing that the drivers for N2O and N2 fluxes differ between crop species.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Cover cropping and crop rotation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Cover cropping and crop rotation_qna_003",
+      "value": 1
+    }
+  ]
+}

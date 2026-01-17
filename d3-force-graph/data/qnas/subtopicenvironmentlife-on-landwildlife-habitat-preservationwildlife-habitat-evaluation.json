@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "label": "Wildlife habitat evaluation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which modeling techniques were used in the study to assess the habitat suitability of I. griffithii?",
+      "answer": "The study utilized an ensemble model incorporating GLM, MARS, MaxEnt, RF, and SVM.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat evaluation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is one drawback of relying solely on one SDM to assess habitat suitability?",
+      "answer": "Relying on only one SDM can lead to substantial deviations in results by introducing biases and limiting the accuracy of predictions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat evaluation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodologies were used to compare morphological traits among the birds in different study areas?",
+      "answer": "Morphological comparisons were made using ANOVA or the Kruskal-Wallis test.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat evaluation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does MaxEnt do in the context of ecological niche modeling?",
+      "answer": "MaxEnt compares the environmental conditions of occurrence locations of a species with those of selected background locations to assess potential areas of occurrence based on environmental similarity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat evaluation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to calibrate and evaluate the ecological niche model?",
+      "answer": "The ecological niche model was calibrated and evaluated using R with the kuenm package.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat evaluation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_004",
+      "value": 1
+    }
+  ]
+}

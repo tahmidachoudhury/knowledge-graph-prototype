@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Endangered species protection",
+      "label": "Endangered species protection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Endangered species protection_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How is the species classified by the IUCN?",
+      "answer": "The species is listed as an endangered species by the IUCN.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Endangered species protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Endangered species protection",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Endangered species protection_qna_000",
+      "value": 1
+    }
+  ]
+}

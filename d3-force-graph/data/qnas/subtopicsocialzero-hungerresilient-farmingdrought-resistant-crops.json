@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops",
+      "label": "Drought-resistant crops",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many weed species have been identified as resistant to herbicides worldwide?",
+      "answer": "A total of 404 herbicide-resistant weed species have been identified globally.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Drought-resistant crops",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main problem caused by weeds resistant to acetolactate synthase (ALS) inhibitors?",
+      "answer": "Weeds resistant to ALS inhibitors are particularly problematic for rice and other cereals, making up approximately one-third of all resistant cases.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Drought-resistant crops",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops_qna_001",
+      "value": 1
+    }
+  ]
+}

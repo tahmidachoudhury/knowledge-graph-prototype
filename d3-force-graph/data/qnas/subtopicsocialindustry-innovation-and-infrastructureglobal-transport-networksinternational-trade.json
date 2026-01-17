@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade",
+      "label": "International trade",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What role does trade play in Somalia's GDP?",
+      "answer": "Trade forms a large part of Somalia's GDP through imports and exports.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "International trade",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "According to the FEH, what influences a nation's trade patterns?",
+      "answer": "According to the FEH, a nation's trade patterns are influenced by its resource endowments, leading to the specialisation and export of goods that capitalise on abundant local resources.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "International trade",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some of the challenges associated with international trade in goods mentioned in the introduction?",
+      "answer": "International trade in goods has been associated with major environmental and social challenges, as highlighted in the introduction.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "International trade",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|International trade_qna_002",
+      "value": 1
+    }
+  ]
+}

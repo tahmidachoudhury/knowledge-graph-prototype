@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Urban waterborne disease outbreaks",
+      "label": "Urban waterborne disease outbreaks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Urban waterborne disease outbreaks_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Is the link between runoff events and COTS outbreaks definitive?",
+      "answer": "No, the link between runoff events and COTS outbreaks is considered equivocal.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Urban waterborne disease outbreaks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Urban waterborne disease outbreaks_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do reservoirs of juveniles play in COTS outbreaks?",
+      "answer": "Reservoirs of juveniles may drive outbreaks through a mechanism known as the juveniles-in-waiting hypothesis, which indicates that juvenile COTS contribute to population increases.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Urban waterborne disease outbreaks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Urban waterborne disease outbreaks",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Urban waterborne disease outbreaks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Urban waterborne disease outbreaks",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Urban waterborne disease outbreaks_qna_001",
+      "value": 1
+    }
+  ]
+}

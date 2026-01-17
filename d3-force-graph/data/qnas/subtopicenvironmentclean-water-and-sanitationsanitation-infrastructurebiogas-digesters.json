@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters",
+      "label": "Biogas digesters",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Name two types of bioelectrochemical systems (BESs) and their functions.",
+      "answer": "Microbial electrolysis cells (MECs) produce hydrogen gas at the cathode, and microbial fuel cells (MFCs) break down organic material to produce electricity.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Biogas digesters",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What negative environmental impacts are associated with the biogas scenarios in the study?",
+      "answer": "The study notes that emissions from ensiling, biogas plant operation, and agronomic effects can increase other environmental impacts, despite the reduction in global warming effects.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Biogas digesters",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How has the technological maturity of biogas been showcased in Sweden?",
+      "answer": "The technological maturity of biogas in Sweden is evident in the area of biomethane-powered buses, showcasing its viability as an alternative fuel.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Biogas digesters",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are some perception-based factors that influence the adoption of biogas technology in households?",
+      "answer": "Factors such as perceived usefulness, ease of use, and compatibility with existing practices can influence biogas adoption in households.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Biogas digesters",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Biogas digesters_qna_003",
+      "value": 1
+    }
+  ]
+}

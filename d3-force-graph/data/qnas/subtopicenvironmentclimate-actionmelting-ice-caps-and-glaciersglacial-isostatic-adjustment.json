@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacial isostatic adjustment",
+      "label": "Glacial isostatic adjustment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacial isostatic adjustment_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which geological plates are involved in the geodynamics of the study area in Ecuador?",
+      "answer": "The involved geological plates are the Caribbean and South American continental plates, which are subducted by the oceanic Nazca Plate.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacial isostatic adjustment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacial isostatic adjustment",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacial isostatic adjustment_qna_000",
+      "value": 1
+    }
+  ]
+}

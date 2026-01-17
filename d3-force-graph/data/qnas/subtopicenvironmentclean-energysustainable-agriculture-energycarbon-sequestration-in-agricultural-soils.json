@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils",
+      "label": "Carbon sequestration in agricultural soils",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What type of soil is referred to as grassland and what are its key characteristics?",
+      "answer": "The grassland soil is a flu-vic Gleysol with a clay loam texture, soil organic carbon contents of 4.42%, soil organic matter content of 4.46%, and a pH of 6.71.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Carbon sequestration in agricultural soils",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What environmental impact did diversified rotations have in terms of carbon emissions?",
+      "answer": "Diversified rotations resulted in net CO2 withdrawal when accounting for carbon sequestration in the soil.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Carbon sequestration in agricultural soils",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the current challenges in grassland soil carbon sequestration?",
+      "answer": "The current challenges in grassland soil carbon sequestration include understanding the complex dynamics of carbon cycling in grassland ecosystems, managing competing land uses for agricultural production and conservation, and developing effective strategies to enhance carbon storage in soil.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Carbon sequestration in agricultural soils",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do grassland management practices impact soil carbon stocks according to a new synthesis?",
+      "answer": "The synthesis suggests that grassland management practices have a significant impact on soil carbon stocks, with potential for either increasing or decreasing carbon sequestration depending on the approach taken.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Carbon sequestration in agricultural soils",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is noted about the impact of soil organic carbon (SOC) in LCA of agricultural products?",
+      "answer": "The lack of reported impacts regarding soil organic carbon (SOC) changes in the Life Cycle Assessment of agricultural products is noted.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Carbon sequestration in agricultural soils",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the expected impact of SOC accumulation on agricultural GHG emissions?",
+      "answer": "SOC accumulation is expected to have a major potential to mitigate agricultural GHG emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Carbon sequestration in agricultural soils",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Carbon sequestration in agricultural soils_qna_005",
+      "value": 1
+    }
+  ]
+}

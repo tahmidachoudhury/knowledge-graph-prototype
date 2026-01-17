@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization",
+      "label": "Efficient resource utilization",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "According to De Lo and Patterson (2017), which challenges are most efficiently tackled using a sectoral scope?",
+      "answer": "Challenges that have relatively clear, uncontentious causes, effects, and interests bound by sector are most efficiently tackled using a sectoral scope.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Efficient resource utilization",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is a better understanding of resource usage in radiology necessary?",
+      "answer": "A better understanding of resource usage in radiology is needed to improve environmental sustainability and address the environmental impact of radiological practices.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Efficient resource utilization",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much have natural resource uses increased from 1970 to 2020 according to the Global Resources Outlook?",
+      "answer": "The use of natural resources has more than tripled, increasing from 30.9 billion tonnes in 1970 to 95.1 billion tonnes in 2020.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Efficient resource utilization",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the three main aspects highlighted by Cyber et al. (2021) regarding sector and resource specific life cycle based categorizations?",
+      "answer": "Cyber et al. (2021) highlight the three main aspects of natural resource use, resource retention, and transformation of resources in sector and resource specific life cycle based categorizations.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Efficient resource utilization",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Efficient resource utilization_qna_003",
+      "value": 1
+    }
+  ]
+}

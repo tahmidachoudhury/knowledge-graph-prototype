@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec for cooling systems",
+      "label": "Otec for cooling systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec for cooling systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the inclination angle of a mixing tee affect temperature fluctuation?",
+      "answer": "The temperature fluctuation is significantly higher in a 90 mixing tee compared to a 45 mixing tee.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec for cooling systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec for cooling systems",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec for cooling systems_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels",
+      "label": "Transitioning from fossil fuels",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has heightened production of non-renewable energy sources led to?",
+      "answer": "It has led to an increase in greenhouse gas (GHG) emissions, which is a critical factor in global climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Transitioning from fossil fuels",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the proposed changes to energy consumption policies for African nations?",
+      "answer": "The proposed changes include increasing the proportion of renewable energy sources and reducing environmental pollution.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Transitioning from fossil fuels",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are some of the critical solutions considered to combat emissions in specified economies?",
+      "answer": "The study considers renewable energy consumption as a critical solution to combat emissions and deal with energy shortages at minimum environmental cost.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Transitioning from fossil fuels",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which green sources are mentioned as being utilized to reduce environmental pressure?",
+      "answer": "The green sources mentioned include solar, hydro, wind, and geothermal.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Transitioning from fossil fuels",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels_qna_004",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the significance of renewable energy?",
+      "answer": "Renewable energy is essential for reducing carbon emissions and combating climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Transitioning from fossil fuels",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Transitioning from fossil fuels_qna_004",
+      "value": 1
+    }
+  ]
+}

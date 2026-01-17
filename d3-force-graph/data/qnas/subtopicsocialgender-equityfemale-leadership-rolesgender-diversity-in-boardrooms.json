@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Gender diversity in boardrooms",
+      "label": "Gender diversity in boardrooms",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Gender diversity in boardrooms_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of board seats in the MIs are occupied by executives from transnational corporations?",
+      "answer": "71.7%",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "subtopic": "Gender diversity in boardrooms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Female leadership roles|Gender diversity in boardrooms",
+      "target": "Subtopic:Social|Gender equity|Female leadership roles|Gender diversity in boardrooms_qna_000",
+      "value": 1
+    }
+  ]
+}

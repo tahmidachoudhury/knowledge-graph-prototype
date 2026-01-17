@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Grid data analytics",
+      "label": "Grid data analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Grid data analytics_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the paragraph relate to the potential of energy big data?",
+      "answer": "The paragraph mentions that the approach of analyzing user reviews aligns with the growing recognition of energy big data’s potential to enhance efficiency by analyzing user dimensions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Grid data analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Grid data analytics",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Grid data analytics_qna_000",
+      "value": 1
+    }
+  ]
+}

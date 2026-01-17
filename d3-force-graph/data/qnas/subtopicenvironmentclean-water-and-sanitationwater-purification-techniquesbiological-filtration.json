@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration",
+      "label": "Biological filtration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What organism was studied for its potential to remove DEET from wastewater?",
+      "answer": "Chlorella vulgaris was studied for its potential to remove DEET from wastewater.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Biological filtration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What were the removal percentages of DEET by Chlorella vulgaris at different tested concentrations?",
+      "answer": "Chlorella vulgaris achieved a 72% removal at 5 mg/L (T1), 35% at 10 mg/L (T2), and 15% at 25 mg/L (T3) of DEET.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Biological filtration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the main objectives of the study discussed in the paragraph?",
+      "answer": "The main objectives are to investigate the effects of DEET on the metabolic composition and pigment levels of Chlorella vulgaris and to assess its removal capacity at varying DEET concentrations.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Biological filtration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_002",
+      "value": 1
+    }
+  ]
+}

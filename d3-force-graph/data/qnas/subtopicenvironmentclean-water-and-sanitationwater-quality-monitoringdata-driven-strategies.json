@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies",
+      "label": "Data-driven strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How do data-driven models contribute to the prediction of groundwater quality in the AKO basin?",
+      "answer": "Data-driven models help in predicting groundwater quality by utilizing various algorithms and statistical methods to analyse the data collected from the AKO basin in Maharashtra, India.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Data-driven strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of the proposal for a new customization process for a data-based water quality index using a random forest approach by Lee et al. (2023)?",
+      "answer": "The proposal by Lee et al. (2023) suggests a new way to customize a water quality index using a random forest approach, improving data analysis and accuracy.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Data-driven strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What dataset was used in the study described in the paragraph?",
+      "answer": "A Germany-wide dataset of monitoring sites along with sequential data for the Boye and Kinzig catchments was used.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Data-driven strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques",
+      "label": "Crop rotation techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much manure is applied to the spring barley in rotation 1 per hectare?",
+      "answer": "27.7 Mg ha 1 of manure is applied to the spring barley in rotation 1.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Crop rotation techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many grains were sown in each pot during the experiment?",
+      "answer": "Ten grains were sown in each pot.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Crop rotation techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What did Hooper et al. (2012) report about yields in short and simplified crop rotations?",
+      "answer": "Hooper et al. (2012) reported a yield reduction of 5 to 10% in response to a 21 to 40% decrease in crop species.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Crop rotation techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Crop rotation techniques_qna_002",
+      "value": 1
+    }
+  ]
+}

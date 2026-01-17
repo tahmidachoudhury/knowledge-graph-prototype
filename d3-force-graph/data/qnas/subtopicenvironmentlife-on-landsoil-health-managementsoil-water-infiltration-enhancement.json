@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement",
+      "label": "Soil water infiltration enhancement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did Basket and DeLonge compare infiltration rates in soils managed with conventional and alternative farming methods?",
+      "answer": "Basket and DeLonge conducted a meta-analysis to compare infiltration rates in soils managed with conventional and alternative farming methods.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil water infiltration enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What directly impacts water flux regulation according to the paragraph?",
+      "answer": "Soil porosity, infiltration rates, and water-holding capacity directly impact water flux regulation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil water infiltration enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement_qna_001",
+      "value": 1
+    }
+  ]
+}

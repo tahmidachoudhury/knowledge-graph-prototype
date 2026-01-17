@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement",
+      "label": "Organic food consumption encouragement",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some potential health benefits of edible insects according to Wazowski et al.?",
+      "answer": "Wazowski et al. discuss the potential health benefits of edible insects, highlighting their nutritional value, sustainable production, and potential to address food insecurity.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Organic food consumption encouragement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is done with any additional barley grain production beyond what is used for feed?",
+      "answer": "Any additional barley grain production is assumed to be sold and substitutes other organic barley production at the market.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Organic food consumption encouragement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement_qna_001",
+      "value": 1
+    }
+  ]
+}

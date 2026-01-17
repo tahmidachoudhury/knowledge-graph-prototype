@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties",
+      "label": "Conservation treaties",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation"
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which international treaty is mentioned as relevant for biodiversity conservation?",
+      "answer": "The Convention on Biological Diversity (CBD) is mentioned as a relevant international treaty for biodiversity conservation.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "subtopic": "Conservation treaties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What legal disclaimer is included in the WWF publication regarding the reproduction of its materials?",
+      "answer": "The disclaimer states that reproduction for resale or commercial purposes is prohibited without prior written permission, and reproduction for non-commercial educational purposes is authorized with proper acknowledgment.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "subtopic": "Conservation treaties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Conservation treaties_qna_001",
+      "value": 1
+    }
+  ]
+}

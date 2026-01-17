@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Watershed restoration",
+      "label": "Watershed restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Watershed restoration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does land use impact ecological recovery in streams according to the study?",
+      "answer": "Streams in catchments with higher cropland or urban areas showed a greater likelihood of recovery, whereas streams in forested catchments were more prone to degradation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Watershed restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Watershed restoration",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Watershed restoration_qna_000",
+      "value": 1
+    }
+  ]
+}

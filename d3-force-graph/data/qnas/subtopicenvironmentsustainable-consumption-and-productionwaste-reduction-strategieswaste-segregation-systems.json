@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Waste segregation systems",
+      "label": "Waste segregation systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Waste segregation systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can segregated bins contribute to the success of Waste Warriors in reducing plastic waste?",
+      "answer": "Segregated bins can facilitate waste sorting for Waste Warriors, but their effectiveness depends on the municipal waste system's ability to process separated wastes.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Waste segregation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Waste segregation systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Waste segregation systems_qna_000",
+      "value": 1
+    }
+  ]
+}

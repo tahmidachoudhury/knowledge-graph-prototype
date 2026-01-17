@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusion of marginalized communities",
+      "label": "Inclusion of marginalized communities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusion of marginalized communities_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What role does public engagement play in the National Climate Assessment?",
+      "answer": "Public engagement plays a crucial role in guiding the NCA, ensuring that the process is inclusive and reflects diverse perspectives.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Inclusion of marginalized communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusion of marginalized communities",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Inclusion of marginalized communities_qna_000",
+      "value": 1
+    }
+  ]
+}

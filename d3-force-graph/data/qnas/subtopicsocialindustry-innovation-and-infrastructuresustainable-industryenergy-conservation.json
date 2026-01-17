@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation",
+      "label": "Energy conservation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the primary focus of the research mentioned in the paragraph?",
+      "answer": "The primary focus of the research is to promote energy conservation and sustainable development of local traditional buildings of ethnic minorities on the Sichuan Plateau.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Energy conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What historical events led to efforts in measuring and reducing energy use?",
+      "answer": "The oil shocks of the 1970s and early 1980s, which resulted in significant price increases and some supply shortages.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Energy conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation_qna_001",
+      "value": 1
+    }
+  ]
+}

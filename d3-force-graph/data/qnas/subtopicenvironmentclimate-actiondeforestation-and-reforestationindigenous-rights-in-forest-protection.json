@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous rights in forest protection",
+      "label": "Indigenous rights in forest protection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous rights in forest protection_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How has Costa Rica contributed to the recognition of the right to a healthy environment?",
+      "answer": "Costa Rica added the right to a healthy environment to its constitution in 1994, leading to significant environmental protections and practices, including high levels of national park land and reliance on renewable energy.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Indigenous rights in forest protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous rights in forest protection",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous rights in forest protection_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Embracing imperfection",
+      "label": "Embracing imperfection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Embracing imperfection_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to the ELM, what impact does depth of elaboration have on acceptability judgments?",
+      "answer": "The depth of elaboration impacts the stability of acceptability judgments, with less elaboration leading to instability and susceptibility to situational influences.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Minimalist lifestyles",
+      "subtopic": "Embracing imperfection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Embracing imperfection",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Minimalist lifestyles|Embracing imperfection_qna_000",
+      "value": 1
+    }
+  ]
+}

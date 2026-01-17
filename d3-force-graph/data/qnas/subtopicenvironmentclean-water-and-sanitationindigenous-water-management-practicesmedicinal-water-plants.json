@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants",
+      "label": "Medicinal water plants",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What medicinal properties are associated with I. griffithii?",
+      "answer": "I. griffithii is valued for its phytochemical and medicinal properties, and studies have revealed it helps in cancer treatment.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Medicinal water plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What medicinal uses of honey are mentioned in ancient texts?",
+      "answer": "Honey was mentioned as a medicine to treat wounds and used as a laxative in ancient texts.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Medicinal water plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is propolis and how was it historically used?",
+      "answer": "Propolis is a sticky, resinous substance that has been used for medicinal purposes since the seventeenth and eighteenth centuries, mainly for external applications, particularly in cerata, ointments, and plasters.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Medicinal water plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do populations in developing nations typically rely on wild-harvested plants?",
+      "answer": "They often rely on wild-harvested plants used in traditional medicine as their primary healthcare.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Medicinal water plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What traditional uses does Cinnamomum cassia have?",
+      "answer": "Cinnamomum cassia has been traditionally used to treat gastritis and dyspepsia, blood circulation disturbances, and inflammatory diseases.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Medicinal water plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Medicinal water plants_qna_004",
+      "value": 1
+    }
+  ]
+}

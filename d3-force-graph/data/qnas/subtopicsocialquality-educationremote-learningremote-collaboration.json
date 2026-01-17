@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Remote learning|Remote collaboration",
+      "label": "Remote collaboration",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Remote learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Remote learning|Remote collaboration_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What skills are considered essential for collaborative, interdisciplinary learning in the context of rapid technological evolution?",
+      "answer": "Transversal skills are considered essential for collaborative, interdisciplinary learning, enabling individuals to thrive in a rapidly evolving technological landscape.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Remote learning",
+      "subtopic": "Remote collaboration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Remote learning|Remote collaboration",
+      "target": "Subtopic:Social|Quality education|Remote learning|Remote collaboration_qna_000",
+      "value": 1
+    }
+  ]
+}

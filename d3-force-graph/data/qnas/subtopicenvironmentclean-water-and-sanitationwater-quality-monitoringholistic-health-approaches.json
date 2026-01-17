@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Holistic health approaches",
+      "label": "Holistic health approaches",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Holistic health approaches_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How have methodologies and perspectives in HIA adapted to recent events?",
+      "answer": "Methodologies and perspectives have taken advantage of legislative drivers and events such as the COVID-19 pandemic to include health and equity considerations.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Holistic health approaches",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Holistic health approaches",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Holistic health approaches_qna_000",
+      "value": 1
+    }
+  ]
+}

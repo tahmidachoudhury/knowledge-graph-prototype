@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "label": "Geospatial tools",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which technology and tools were employed in this study to investigate urban dynamics?",
+      "answer": "The study employed machine learning and Google Earth Engine to investigate urban dynamics.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Geospatial tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does Google Earth Engine contribute to urban change analysis?",
+      "answer": "Google Earth Engine allows for the rapid processing of extensive spatial datasets, making it possible to detect and analyze urban changes even in data-scarce regions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Geospatial tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How is the concept of ES hotspots utilized in urban planning?",
+      "answer": "A real-world application illustrated at the city scale showed that a hotspot map summarizing the provision of seven ecosystem services was used to support the identification of key areas in the urban plan of Trento, Italy.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Geospatial tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which R package was used to filter the GPS data, and what aspects did it address?",
+      "answer": "The R package SDL filter was used to filter the GPS data, addressing spatial and temporal duplicates and unrealistic fixes based on speed.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Geospatial tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_003",
+      "value": 1
+    }
+  ]
+}

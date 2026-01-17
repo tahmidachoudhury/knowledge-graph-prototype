@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Psychotherapy methods",
+      "label": "Psychotherapy methods",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Psychotherapy methods_qna_000",
+      "group": "QnA",
+      "label": "Methodology",
+      "question": "What methods will be used in the study to understand the internal connections between influencing factors?",
+      "answer": "The study will use the Delphi method and the DEMATEL-ISM-MICMAC method to study the structure and internal connections between the influencing factors.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing",
+      "subtopic": "Psychotherapy methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Psychotherapy methods",
+      "target": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Psychotherapy methods_qna_000",
+      "value": 1
+    }
+  ]
+}

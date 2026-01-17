@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community-based wildlife protection",
+      "label": "Community-based wildlife protection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community-based wildlife protection_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why might rural communities struggle with local hunting management?",
+      "answer": "Rural communities may struggle because they often have no legal means to exclude external commercial hunters who target areas with intact forests or near protected areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community-based wildlife protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community-based wildlife protection",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community-based wildlife protection_qna_000",
+      "value": 1
+    }
+  ]
+}

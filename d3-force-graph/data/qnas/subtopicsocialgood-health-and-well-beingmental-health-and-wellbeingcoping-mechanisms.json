@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Coping mechanisms",
+      "label": "Coping mechanisms",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Coping mechanisms_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is the expression and coping mechanisms for eco-grief poorly understood?",
+      "answer": "There is limited understanding of how people express and cope with eco-grief, as highlighted by emerging research on this emotional state.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing",
+      "subtopic": "Coping mechanisms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Coping mechanisms",
+      "target": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Coping mechanisms_qna_000",
+      "value": 1
+    }
+  ]
+}

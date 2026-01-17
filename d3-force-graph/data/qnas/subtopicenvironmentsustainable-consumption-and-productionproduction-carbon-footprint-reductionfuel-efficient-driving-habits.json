@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits",
+      "label": "Fuel-efficient driving habits",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How can increased efficiency affect diesel fuel consumption and CO2 emissions?",
+      "answer": "Increased efficiency can lead to a reduction in diesel fuel consumption and a subsequent decrease in CO2 emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Fuel-efficient driving habits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the GUTB technique in relation to tractor fuel consumption?",
+      "answer": "The GUTB (Gear-up and Throttle-back) technique is a fuel-saving practice that improves engine efficiency by maintaining high engine load and operating engine speed at 60-80% of rated speed when drawbar loads are light, typically at 75% of rated power or less.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Fuel-efficient driving habits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does adaptive driving rely on operator feedback?",
+      "answer": "Adaptive driving depends on the operator receiving accurate feedback on both engine performance and driver performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Fuel-efficient driving habits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Fuel-efficient driving habits_qna_002",
+      "value": 1
+    }
+  ]
+}

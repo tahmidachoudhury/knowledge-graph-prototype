@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring",
+      "label": "Urban canopy monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What software was used to assess the green coverage percentage during the evaluation?",
+      "answer": "ImageJ software was used to assess the green coverage percentage.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Urban canopy monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why was summer cover of vascular plants measured?",
+      "answer": "It was measured because shading from vascular plants is likely to be most important when vascular plant biomass is high.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Urban canopy monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral reef restoration",
+      "label": "Coral reef restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral reef restoration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How long were corals allowed to recover after sampling before further procedures?",
+      "answer": "The corals were allowed to recover for at least four days prior to any repetitive sampling.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Coral reef restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Coral reef restoration",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Coral reef restoration_qna_000",
+      "value": 1
+    }
+  ]
+}

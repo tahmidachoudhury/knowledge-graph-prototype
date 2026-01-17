@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation",
+      "label": "Forest habitat preservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary characteristic of the forest habitat (MH2) surveyed?",
+      "answer": "The forest habitat (MH2) is characterized by mature humid tropical forest with relatively low canopy.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest habitat preservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation_qna_001",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What are variable retention silvicultural practices and what purpose do they serve?",
+      "answer": "Variable retention silvicultural practices involve retaining mature habitat clumps in harvested areas to provide resources for some forest species, such as brushtail possums.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest habitat preservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation_qna_001",
+      "value": 1
+    }
+  ]
+}

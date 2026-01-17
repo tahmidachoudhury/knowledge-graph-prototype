@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise",
+      "label": "Impact on sea level rise",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some regional manifestations of climate change mentioned in the paragraph?",
+      "answer": "Regional manifestations of climate change include rising sea levels, shrinking mountain glaciers, and beach erosion.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Impact on sea level rise",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What impact is expected from the acceleration of sea-level rise in the 21st century?",
+      "answer": "It is expected to adversely affect human activities, particularly in coastal regions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Impact on sea level rise",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise_qna_001",
+      "value": 1
+    }
+  ]
+}

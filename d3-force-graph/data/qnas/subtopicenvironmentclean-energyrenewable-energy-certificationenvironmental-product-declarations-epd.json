@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)",
+      "label": "Environmental product declarations (epd)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many items have been registered with the Environmental Protection Agency (EPA)?",
+      "answer": "Over 120 items have been registered with the EPA.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "subtopic": "Environmental product declarations (epd)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What aspect did Grazieschi et al. (2021) address in their study?",
+      "answer": "Grazieschi et al. (2021) collected cradle-to-gate data from Environmental Product Declarations (EPDs) to generate a database of environmental impacts for fossil fuel and bio-based insulation materials.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "subtopic": "Environmental product declarations (epd)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What challenges are associated with using Environmental Product Declarations (EPDs) for bio-based materials?",
+      "answer": "The challenges include a lack of transparency and standardization, leading to uncertainties in the use of EPDs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "subtopic": "Environmental product declarations (epd)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did Hawkins et al. (2021) and Carcassi et al. (2022) approach their investigations?",
+      "answer": "Hawkins et al. (2021) used Environmental Product Declarations (EPDs), while Carcassi et al. (2022) developed a Life Cycle Inventory (LCI) for small-scale material production.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "subtopic": "Environmental product declarations (epd)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What databases were used to gather literature for the environmental impact assessments of EHDs?",
+      "answer": "The literature was gathered from three databases: PubMED, Scopus, and Embase.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "subtopic": "Environmental product declarations (epd)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_005",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is it important to consider a wider boundary of the healthcare pathway when assessing EHDs?",
+      "answer": "Considering a wider boundary allows for a more comprehensive environmental sustainability assessment by evaluating both the direct life cycle impacts of the device and the positive and negative effects of EHD use within the healthcare pathway.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "subtopic": "Environmental product declarations (epd)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)",
+      "target": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)",
+      "target": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)",
+      "target": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)",
+      "target": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)",
+      "target": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)",
+      "target": "Subtopic:Environment|Clean energy|Renewable energy certification|Environmental product declarations (epd)_qna_005",
+      "value": 1
+    }
+  ]
+}

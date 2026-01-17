@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures",
+      "label": "Environmental protection measures",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What type of abatement activity is discussed in relation to environmental protection in this paper?",
+      "answer": "The paper considers the case of end-of-pipe abatement as an important category of environmental protection.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "subtopic": "Environmental protection measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How can an ecological tax help in reducing pollution and protecting the environment?",
+      "answer": "An ecological tax can assist in reducing pollution and safeguarding the environment by encouraging the development of high-elimination and low-cost technologies, as mentioned by Tamara et al. This can effectively control carbon dioxide emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "subtopic": "Environmental protection measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What complex relationship does income have with environmental protection in wealthier countries?",
+      "answer": "Higher-income individuals in wealthier countries are less likely to prioritize environmental protection, indicating a complex relationship.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "subtopic": "Environmental protection measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Environmental protection measures_qna_002",
+      "value": 1
+    }
+  ]
+}

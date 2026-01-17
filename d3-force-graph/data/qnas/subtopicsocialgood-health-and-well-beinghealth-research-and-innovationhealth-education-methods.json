@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Health education methods",
+      "label": "Health education methods",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Health education methods_qna_000",
+      "group": "QnA",
+      "label": "Methods",
+      "question": "What methods were used to develop the research agenda for HIA?",
+      "answer": "A mixed method approach that included data collection through a survey and qualitative interactive workshops was used to develop the research agenda.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Health education methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Health education methods",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Health education methods_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks",
+      "label": "Biomass feedstocks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors influence the physico-chemical properties of biochar?",
+      "answer": "The physico-chemical properties of biochar are influenced by the composition of the original feedstock and pyrolysis parameters such as holding time and highest treatment temperature (HTT).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass feedstocks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors influence the composition of biochar?",
+      "answer": "The composition of biochar is primarily influenced by the feedstock used and the temperature at which the feedstock is pyrolyzed.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass feedstocks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What variation affects the overall environmental consequences of energy crop usage in biogas production?",
+      "answer": "The overall environmental consequences vary depending on the feedstock and case-specific factors.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass feedstocks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does PLA compare to other feedstocks for glucose or ethanol production?",
+      "answer": "PLA shares common features with wastes used in valorization processes, resulting in high outputs and higher Technology Readiness Levels (TRL).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass feedstocks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks_qna_004",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the predominant components of waste generated during the initial stages of cotton processing?",
+      "answer": "Waste generated during the initial stages of cotton processing contains higher percentages of lignocellulosic and hemicellulose, ranging between 20% and 30%.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass feedstocks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass feedstocks_qna_004",
+      "value": 1
+    }
+  ]
+}

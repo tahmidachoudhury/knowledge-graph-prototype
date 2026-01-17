@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "label": "Acidification modeling",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are different modeling approaches important in ecological studies?",
+      "answer": "Different modeling approaches are important as they simulate a range of potential outcomes for target species, supporting decision-makers in minimizing biological consequences and preparing for possible environmental changes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does ensemble modeling address uncertainty in predictions?",
+      "answer": "Ensemble modeling addresses uncertainty by combining several species distribution models (SDMs) to create a consensus projection, which enhances prediction accuracy and reduces biases.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is a limitation of agent-based models (ABM) in simulating socio-ecological systems?",
+      "answer": "A limitation of ABM is that it typically relies on explicitly defined connection rules between components, and computational costs increase significantly as the number of components grows.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What role does scenario-based modeling play according to the text?",
+      "answer": "Scenario-based modeling is mobilized at the science-policy interface to identify plausible futures and highlight the need to tackle drivers as a key element of transformative change to reverse biodiversity loss.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_003",
+      "value": 1
+    }
+  ]
+}

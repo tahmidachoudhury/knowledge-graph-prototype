@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Vocational training|Skills development",
+      "label": "Skills development",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Vocational training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Vocational training|Skills development_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What competencies are highlighted as vital for preparing young people in an AI-driven world?",
+      "answer": "The vital competencies are \"transversal skills,\" including adaptability, creativity, communication, collaboration, and critical thinking.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Vocational training",
+      "subtopic": "Skills development",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Vocational training|Skills development",
+      "target": "Subtopic:Social|Quality education|Vocational training|Skills development_qna_000",
+      "value": 1
+    }
+  ]
+}

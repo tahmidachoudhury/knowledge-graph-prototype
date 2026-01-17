@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans",
+      "label": "Habitat connectivity plans",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How are amphibian populations expected to be structured?",
+      "answer": "Amphibian populations are expected to be locally structured due to their weak dispersal ability and occupation of specific, sometimes disconnected habitats.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat connectivity plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of habitat do breeding lapwings need to find suitable foraging patches according to the paragraph?",
+      "answer": "Breeding lapwings need to explore larger areas, including well-managed restored wetlands and summer crops, to find suitable foraging patches.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat connectivity plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge",
+      "label": "Cultural norms challenge",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender-based violence"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What does the term 'critical' imply in the context of the research program discussed?",
+      "answer": "The term 'critical' implies a reasoned judgment and prudence foundational to the conceptualization of the approach, rather than simply being contrarian.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender-based violence",
+      "subtopic": "Cultural norms challenge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the focus of the critical approach in scientific study according to York and Clark (2010)?",
+      "answer": "The critical approach is focused on challenging conventional wisdom and strongly held assumptions in both scientific and broader social realms.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender-based violence",
+      "subtopic": "Cultural norms challenge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How do researchers attempt to compensate for unequal power relations in the research process?",
+      "answer": "Researchers attempt to compensate for unequal power relations by involving practitioners in defining or criticizing the research process and by using non-traditional academic formats for presenting research outputs.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender-based violence",
+      "subtopic": "Cultural norms challenge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to Scott (2014), what elements contribute to the process of institutionalisation?",
+      "answer": "Regulative, normative, and cultural-cognitive elements contribute to the process of institutionalisation, establishing a new societal practice.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender-based violence",
+      "subtopic": "Cultural norms challenge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge",
+      "target": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge",
+      "target": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge",
+      "target": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge",
+      "target": "Subtopic:Social|Gender equity|Gender-based violence|Cultural norms challenge_qna_003",
+      "value": 1
+    }
+  ]
+}

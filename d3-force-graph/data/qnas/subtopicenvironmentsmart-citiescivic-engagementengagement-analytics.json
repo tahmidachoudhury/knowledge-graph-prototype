@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics",
+      "label": "Engagement analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics_qna_000",
+      "group": "QnA",
+      "label": "Methodology",
+      "question": "What methods were used in the study to analyze the data collected from GISCO meetings and interviews?",
+      "answer": "The analysis was conducted using social network analysis and qualitative content analysis with MaxQDA.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Engagement analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What potential effect does engaging in action have on emotions, according to the findings?",
+      "answer": "Engaging in action potentially transforms emotions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Engagement analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods are being used to analyze the relationships and discourse of non-state actors at COPs?",
+      "answer": "The analysis employs topic modeling using natural language processing and social network analysis to explore discussion topics and map relationships among non-state actors and business interest groups at COPs from 2003 to 2023.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Engagement analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does Luca Ausili view the relationship between political leaders and the use of numerical data in communication?",
+      "answer": "Ausili argues that the assumption that numbers represent neutrality is incorrect and that the overemphasis on quantification can lead to the exclusion of important issues from political debate, resulting in disillusionment among the population.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Engagement analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methodologies does the study use to analyze user engagement with smart energy apps?",
+      "answer": "The study uses advanced text-mining techniques including word analysis, sentiment analysis, topic modeling, and exploratory qualitative analysis to analyze user engagement.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Engagement analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Engagement analytics_qna_004",
+      "value": 1
+    }
+  ]
+}

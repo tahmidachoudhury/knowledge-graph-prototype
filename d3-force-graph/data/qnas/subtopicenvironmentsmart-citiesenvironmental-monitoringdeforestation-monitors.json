@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Deforestation monitors",
+      "label": "Deforestation monitors",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Deforestation monitors_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What challenge does the swift parrot's breeding range illustrate regarding forest quality data?",
+      "answer": "The swift parrot's breeding range exemplifies the challenge that data on forest quality are not captured by satellite imagery of tree cover extent, making it difficult to assess the integrity of forests.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Deforestation monitors",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Deforestation monitors",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Deforestation monitors_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment",
+      "label": "Otec resource assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the figure of merit (ZT) used for in thermoelectric materials?",
+      "answer": "The figure of merit (ZT) is used to evaluate the efficiency of a thermoelectric material, based on its Seebeck coefficient, electrical resistivity, total thermal conductivity, and absolute temperature.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec resource assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How is the annual installed capacity of various energy resources calculated?",
+      "answer": "The annual installed capacity of various energy resources is calculated by obtaining the fraction of installed capacity data of a particular energy resource to the total installed capacity for the same year under consideration.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec resource assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment_qna_001",
+      "value": 1
+    }
+  ]
+}

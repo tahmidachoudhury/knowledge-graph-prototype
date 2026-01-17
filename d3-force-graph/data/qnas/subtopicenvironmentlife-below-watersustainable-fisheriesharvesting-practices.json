@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices",
+      "label": "Harvesting practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does dualization affect fish footprint according to the demographic dynamics of consumption patterns?",
+      "answer": "Dualization declines fish footprint by 0.01% according to the assessment of consumption patterns.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Harvesting practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which two types of fishing vessels are primarily responsible for the high exploitation rates of commercial species?",
+      "answer": "Bottom trawlers and purse seiners are primarily responsible for the high exploitation rates of commercial species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Harvesting practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of fishing vessels provided data for the Ecopath model in the study?",
+      "answer": "The model included data from trawlers, purse seiners, surface longliners, bottom longliners, and small-scale vessels.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Harvesting practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare",
+      "label": "Ai in healthcare",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What area of study does this research intend to explore regarding students' learning experiences with AI?",
+      "answer": "The research explores students' views to develop refined human judgment in using, recreating, and interpreting AI-generated content.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Ai in healthcare",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the author's stance on the ethical use of AI in scientific research?",
+      "answer": "The author emphasizes the importance of using AI ethically and transparently while supporting authors in overcoming challenges associated with these technologies.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Ai in healthcare",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What concerns are raised regarding the use of AI in healthcare?",
+      "answer": "The concerns include the potential for ethical implications, unintended consequences, and the risk of worsening racial, gender, and geographic disparities in healthcare due to bias in training data.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Ai in healthcare",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What concerns does the World Health Organization (WHO) highlight regarding AI in healthcare?",
+      "answer": "The WHO emphasizes the need for ethical guidelines and appropriate governance to ensure AI tools promote human well-being, safety, and autonomy, while also addressing the risk of worsening disparities in healthcare outcomes.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Ai in healthcare",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_004",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are some of the critical challenges associated with the use of AI in healthcare, as discussed in the paragraph?",
+      "answer": "The critical challenges include ethical implications of AI-driven healthcare tools, the potential to worsen racial, gender, and geographic disparities in healthcare, and the need for responsible and governed use of AI to ensure it benefits all groups equitably.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Ai in healthcare",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_005",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What does the WHO emphasize regarding the use of AI tools in healthcare?",
+      "answer": "The WHO emphasizes the need for ethical guidelines and appropriate governance for the use of AI tools in healthcare to ensure they promote human well-being, safety, and autonomy while safeguarding public health.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Ai in healthcare",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_006",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What concerns does the WHO have regarding AI in healthcare?",
+      "answer": "The WHO urges caution in using AI tools, emphasizing the need for ethical guidelines and governance to ensure they promote human well-being, safety, and autonomy while safeguarding public health.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Ai in healthcare",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_007",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What concerns are raised regarding the ethical implications of AI in healthcare?",
+      "answer": "Concerns include the potential for AI to worsen racial, gender, and geographic disparities in healthcare due to bias in training data, along with the need for ethical guidelines and governance to ensure AI promotes well-being and safety.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Ai in healthcare",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Ai in healthcare_qna_007",
+      "value": 1
+    }
+  ]
+}

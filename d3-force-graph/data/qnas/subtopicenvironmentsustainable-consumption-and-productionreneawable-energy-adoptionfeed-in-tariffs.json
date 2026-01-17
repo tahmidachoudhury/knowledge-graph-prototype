@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs",
+      "label": "Feed-in tariffs",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What effect does an electricity price surcharge have in the 2015/16 Irish scenario?",
+      "answer": "An electricity price surcharge shifts the burden from those with lower incomes towards those with higher incomes.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Feed-in tariffs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What type of support did renewable energy generation in Ireland receive between 2006 and 2015?",
+      "answer": "Renewable energy generation in Ireland received support under the Renewable Energy Feed-in Tariff (REFIT) scheme.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Feed-in tariffs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What type of price support mechanism does the Renewable Energy Support Scheme (RESS) use?",
+      "answer": "The Renewable Energy Support Scheme (RESS) uses a contracts for differences-style price support mechanism.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Feed-in tariffs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_002",
+      "value": 1
+    }
+  ]
+}

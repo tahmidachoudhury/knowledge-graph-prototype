@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Atmospheric dispersion",
+      "label": "Atmospheric dispersion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Atmospheric dispersion_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What turbulent model is highlighted as effective in examining temperature variations in turbulent mixing flow?",
+      "answer": "The Large-Eddy Simulation (LES) model is highlighted as a highly effective method for examining temperature variations linked to turbulent mixing flow at a tee junction.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Atmospheric dispersion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Atmospheric dispersion",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Atmospheric dispersion_qna_000",
+      "value": 1
+    }
+  ]
+}

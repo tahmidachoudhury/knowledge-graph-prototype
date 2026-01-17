@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Equity in quality education|Eliminating disparities",
+      "label": "Eliminating disparities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Equity in quality education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Equity in quality education|Eliminating disparities_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the status of AI application in addressing educational disparities as mentioned in the study?",
+      "answer": "The application of AI to overcome educational disparities is still in its early stages, despite digital technologies providing solutions during the pandemic.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Equity in quality education",
+      "subtopic": "Eliminating disparities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Equity in quality education|Eliminating disparities",
+      "target": "Subtopic:Social|Quality education|Equity in quality education|Eliminating disparities_qna_000",
+      "value": 1
+    }
+  ]
+}

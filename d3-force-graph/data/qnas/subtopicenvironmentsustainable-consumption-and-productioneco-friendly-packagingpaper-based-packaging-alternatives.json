@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Paper-based packaging alternatives",
+      "label": "Paper-based packaging alternatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Paper-based packaging alternatives_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much of global waste is made up of paper and cardboard?",
+      "answer": "Paper and cardboard comprise 17% of global waste.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Paper-based packaging alternatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Paper-based packaging alternatives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Paper-based packaging alternatives_qna_000",
+      "value": 1
+    }
+  ]
+}

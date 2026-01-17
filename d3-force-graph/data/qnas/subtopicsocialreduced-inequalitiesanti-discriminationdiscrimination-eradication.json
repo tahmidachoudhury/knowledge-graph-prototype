@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination eradication",
+      "label": "Discrimination eradication",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Anti-discrimination"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination eradication_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the main goals of the NCA5 process regarding DEAI?",
+      "answer": "The main goals of the NCA5 process regarding DEAI are: (1) diverse and inclusive participation in the assessment development process; (2) integration of equity and environmental justice in NCA5 content; and (3) accessible and inclusive engagement, outreach, and communication.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Anti-discrimination",
+      "subtopic": "Discrimination eradication",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination eradication",
+      "target": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination eradication_qna_000",
+      "value": 1
+    }
+  ]
+}

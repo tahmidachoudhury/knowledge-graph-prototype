@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts",
+      "label": "Forest restoration efforts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How successful have global efforts been in active restoration focused on canopy-forming species?",
+      "answer": "There are few globally successful examples, and success has typically occurred in very small areas of only a few dozen square meters.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest restoration efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What approach did Valente et al. (2021) utilize for identifying priority areas for forest restoration?",
+      "answer": "Valente et al. (2021) used a mixed method of participatory analysis and multi-criteria evaluation to identify priority areas for forest restoration coupled with water-related ecosystem services.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest restoration efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts_qna_001",
+      "value": 1
+    }
+  ]
+}

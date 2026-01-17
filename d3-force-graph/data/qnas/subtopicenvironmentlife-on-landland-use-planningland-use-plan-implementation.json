@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use plan implementation",
+      "label": "Land use plan implementation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use plan implementation_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What factors influence the adoption and implementation success of GI?",
+      "answer": "The adoption and implementation success of GI is influenced by the region, stakeholders' perceptions, and knowledge levels.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use plan implementation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use plan implementation",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use plan implementation_qna_000",
+      "value": 1
+    }
+  ]
+}

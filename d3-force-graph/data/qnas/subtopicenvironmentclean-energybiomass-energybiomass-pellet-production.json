@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "label": "Biomass pellet production",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What advanced modeling techniques were used in Miao Yang et al.'s study on biomass particles in a CFB furnace?",
+      "answer": "Miao Yang et al. used the Eulerian Lagrangian framework and the multi-phase particle-in-cell (MP-PIC) collision model.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What modeling approaches did Abdelmotalib et al. use to investigate flow dynamics and thermal properties of bed materials?",
+      "answer": "They employed an Eulerian-Eulerian model integrated with the Kinetic Theory of Granular Flow (KTGF).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to consolidate the milled powders into pellets?",
+      "answer": "The milled powders were consolidated into pellets using spark plasma sintering (SPS).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the dimensions of the disc-shaped pellets produced?",
+      "answer": "The disc-shaped pellets were 20 mm in diameter and 12 mm thick.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the density of sintered pellets measured in the study?",
+      "answer": "The density of sintered pellets was measured using the Archimedes method.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What temperatures were used for calcining the Dicranopteris pedata powder?",
+      "answer": "The Dicranopteris pedata powder was calcined at 400 °C, 600 °C, and 800 °C.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_005",
+      "value": 1
+    }
+  ]
+}

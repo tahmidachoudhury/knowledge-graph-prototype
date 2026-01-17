@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities",
+      "label": "Socioeconomic opportunities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What benefits do socioscientific issues (SSI) provide in educational practices?",
+      "answer": "SSI enhances higher-order thinking, scientific literacy, ethical considerations, and civic engagement.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Socioeconomic opportunities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do socioeconomic variations affect individuals' priorities towards environmental protection?",
+      "answer": "Socioeconomic variations affect individuals' priorities as access to education, employment, and financial resources can greatly influence the degree to which they prioritize environmental protection over economic growth.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Socioeconomic opportunities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "According to the paragraph, what is the significance of the adjective 'socio-economic' in relation to alternative currencies?",
+      "answer": "The adjective 'socio-economic' signifies that alternative currencies assemble various tools and rules to guide practices aimed at achieving an ethical project.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Socioeconomic opportunities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which groups differentiated by age and education were mentioned in the survey results?",
+      "answer": "Key socio-demographic subgroups differentiated by age, level of education, and level of socio-economic advantage were mentioned.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Socioeconomic opportunities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic opportunities_qna_003",
+      "value": 1
+    }
+  ]
+}

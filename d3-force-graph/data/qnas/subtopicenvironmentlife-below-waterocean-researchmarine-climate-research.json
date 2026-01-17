@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine climate research",
+      "label": "Marine climate research",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine climate research_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does the research suggest regarding the impact of climate variability on marine heatwaves?",
+      "answer": "The research indicates that the West Coast is more influenced by climate variability, which can enhance or suppress marine heatwaves during different phases of climate modes, suggesting potential for long-term predictability.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine climate research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine climate research_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How does climate variability relate to marine heatwaves?",
+      "answer": "While climate change drives long-term trends in MHWs, climate variability modulates their frequency and intensity on shorter timescales.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine climate research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine climate research_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the connection between large-scale climate modes of variability and marine heatwaves (MHWs)?",
+      "answer": "Large-scale climate modes of variability, such as the El Niño Southern Oscillation (ENSO), can enhance or suppress marine heatwaves by modifying ocean temperatures and through teleconnections that link distant climate forcing with regional impacts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine climate research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine climate research_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the study regarding MHWs (Marine Heat Waves)?",
+      "answer": "The study focuses on characterizing MHWs, investigating their trends, spatial co-occurrence, and the contributions of long-term temperature increases versus temperature variance to MHW trends.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine climate research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine climate research",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine climate research_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine climate research",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine climate research_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine climate research",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine climate research_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine climate research",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine climate research_qna_003",
+      "value": 1
+    }
+  ]
+}

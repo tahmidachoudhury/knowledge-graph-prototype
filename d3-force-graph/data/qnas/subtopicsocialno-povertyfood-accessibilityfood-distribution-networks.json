@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks",
+      "label": "Food distribution networks",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What recent events have highlighted vulnerabilities in the food supply chain in Australia?",
+      "answer": "Major flood events in Australia have destroyed crops and disrupted the distribution of food into major supermarket chains.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Food distribution networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How did the experts categorize the barriers to digital technology deployment in the food industry?",
+      "answer": "The experts were categorized into three groups: retailers, food processors, and distribution channels, which included supermarkets.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Food distribution networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some of the impediments to implementing blockchain technology in the food supply chain?",
+      "answer": "Challenges such as high implementation and maintenance costs, interoperability issues, data privacy concerns, scalability limitations, and lack of standardized regulations can hinder the adoption of blockchain technology in the food supply chain.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Food distribution networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenges does the digitalization of SPC in the food supply chain face?",
+      "answer": "The digitalization of SPC in the food supply chain faces challenges such as a conservative perception, a risk-averse culture, and a lack of technical expertise, hindering its full potential for improvement.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Food distribution networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can blockchain technology help in managing disruptions and risks in food supply chains during COVID-19 outbreaks?",
+      "answer": "Blockchain technology can help in developing resilient food supply chains by providing transparency, traceability, and real-time information sharing to mitigate disruptions and risks during COVID-19 outbreaks.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Food distribution networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Food distribution networks_qna_004",
+      "value": 1
+    }
+  ]
+}

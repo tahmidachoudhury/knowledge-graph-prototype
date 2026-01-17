@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat enhancement initiatives",
+      "label": "Habitat enhancement initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat enhancement initiatives_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors are predicted to influence breeding success according to the paragraph?",
+      "answer": "The habitat, likely mediated by other factors such as predation, is predicted to influence breeding success.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat enhancement initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat enhancement initiatives_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the key components that conservation interventions should strive to improve according to Lawton et al. (2010)?",
+      "answer": "Conservation interventions should strive to improve habitat quality (Better), habitat size (Bigger), habitat quantity (More), and connectivity (Joined).",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat enhancement initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat enhancement initiatives",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat enhancement initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat enhancement initiatives",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat enhancement initiatives_qna_001",
+      "value": 1
+    }
+  ]
+}

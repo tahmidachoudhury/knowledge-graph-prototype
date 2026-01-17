@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs",
+      "label": "Genetic research breakthroughs",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which method was used to annotate the identified SNPs in the study?",
+      "answer": "The ANNOVAR annotation method was used to annotate the identified SNPs.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Genetic research breakthroughs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methodologies are relevant for studying the genetic structure of A. O. obstetricans?",
+      "answer": "The study mentions the use of ddRAD-seq for understanding the genetic structure of A. O. obstetricans.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Genetic research breakthroughs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What challenge is associated with the shift from genetic to genomic methods?",
+      "answer": "The shift poses challenges that are acknowledged in the context of improving accuracy of inferences.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Genetic research breakthroughs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the total number of positively selected genes identified in the high-altitude group?",
+      "answer": "A total of 624 positively selected genes (PSG) were identified in the high-altitude group.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Genetic research breakthroughs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Genetic research breakthroughs_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate action in international development",
+      "label": "Climate action in international development",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate action in international development_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main focus of the paper regarding REDD + projects in developing countries?",
+      "answer": "The paper focuses on understanding how the dynamics of developing countries' contexts affect the drivers shaping the initiation of REDD + collaborative regimes, specifically through the case study of Ghana's Cocoa Forest REDD +Programme.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Climate action in international development",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Climate action in international development",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Climate action in international development_qna_000",
+      "value": 1
+    }
+  ]
+}

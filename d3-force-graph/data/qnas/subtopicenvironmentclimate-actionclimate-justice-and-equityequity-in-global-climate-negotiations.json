@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in global climate negotiations",
+      "label": "Equity in global climate negotiations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in global climate negotiations_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which four countries are primarily represented among the board seats of the MIs?",
+      "answer": "The United States, Switzerland, the United Kingdom, and the Netherlands.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Equity in global climate negotiations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in global climate negotiations_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What limitation does the MSI face in achieving its common goals?",
+      "answer": "The MSI quickly reaches its limits due to the lack of representation of actors from the Global South.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Equity in global climate negotiations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in global climate negotiations",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in global climate negotiations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in global climate negotiations",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in global climate negotiations_qna_001",
+      "value": 1
+    }
+  ]
+}

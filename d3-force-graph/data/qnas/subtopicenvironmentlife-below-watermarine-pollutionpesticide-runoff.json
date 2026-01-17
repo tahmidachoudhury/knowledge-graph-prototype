@@ -1,0 +1,185 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "label": "Pesticide runoff",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the significance of the persistence of compounds like PCDD/PCDF, PCBs, and HCH isomers in environmental reservoirs?",
+      "answer": "Their high persistence means they will not degrade in soils and sediments for extended time frames, likely for centuries and longer.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pesticide runoff",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the status of glyphosate in terms of usage in the United States?",
+      "answer": "Glyphosate is the most widely used herbicide in both commercial and private applications in the United States.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pesticide runoff",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors influence the toxicity of glyphosate to wild bees?",
+      "answer": "The toxicity of glyphosate to wild bees depends on dosage, lifecycle stage (adult vs. larval), and mode of contact.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pesticide runoff",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What have recent empirical studies suggested regarding the effects of co-formulants in glyphosate-based herbicides?",
+      "answer": "Recent empirical studies suggest that co-formulants such as surfactants and spreaders may be a central factor in lethal effects rather than glyphosate itself.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pesticide runoff",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do eco toxic substances from veterinary products impact soil fauna and biodiversity?",
+      "answer": "Pollution by eco toxic substances at the animal husbandry stage can harm aquatic and soil biodiversity, insects, and scavenger species. This pollution can result from the use of veterinary products like antibiotics, anthelmintics, and hormones.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pesticide runoff",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_005",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do chemicals used in cotton farming harm the environment?",
+      "answer": "The chemicals used in cotton farming not only harm the health of workers but also have negative impacts on the land and aquatic animals, leading to soil quality degradation and potential contamination of water bodies.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pesticide runoff",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_006",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the use of chemical pesticides in wool farming impact the environment?",
+      "answer": "The use of chemical pesticides in wool farming can result in contamination of land and water sources, and the presence of these chemicals in wool fibres can lead to pollution during wool processing. Additionally, toxic pesticides can have adverse effects on the health of both animals and farmers.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pesticide runoff",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_007",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the persistent negative effects of pesticides on biodiversity and biological control potential on European farmland according to Geiger et al. (2010)?",
+      "answer": "Geiger et al. (2010) found that pesticides have persistent negative effects on biodiversity and biological control potential on European farmland, impacting the ecosystem.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pesticide runoff",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_008",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do climate change and persistent organic pollutants (POPs) interrelate according to the described reviews?",
+      "answer": "The reviews describe a range of interlinks between climate change and POPs, but one publication emphasizes global flows and temperature effects, while another highlights the risk of flooding and release of POPs.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pesticide runoff",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pesticide runoff_qna_008",
+      "value": 1
+    }
+  ]
+}

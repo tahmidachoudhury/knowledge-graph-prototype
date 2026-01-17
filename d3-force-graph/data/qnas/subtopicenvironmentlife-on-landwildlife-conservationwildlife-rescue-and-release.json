@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife rescue and release",
+      "label": "Wildlife rescue and release",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife rescue and release_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Who is responsible for identifying and releasing the captured specimens in live trapping studies?",
+      "answer": "Small mammal experts are responsible for identifying and releasing the captured specimens on site.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife rescue and release",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife rescue and release",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife rescue and release_qna_000",
+      "value": 1
+    }
+  ]
+}

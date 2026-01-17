@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and marine microorganisms",
+      "label": "Acidification and marine microorganisms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and marine microorganisms_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did a global-scale meta-analysis conclude about microbial biomass in oligotrophic environments?",
+      "answer": "It concluded that oligotrophic environments exhibit higher variations in microbial biomass over time.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and marine microorganisms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and marine microorganisms",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and marine microorganisms_qna_000",
+      "value": 1
+    }
+  ]
+}

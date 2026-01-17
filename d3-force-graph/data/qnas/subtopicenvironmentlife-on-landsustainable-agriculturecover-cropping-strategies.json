@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Cover cropping strategies",
+      "label": "Cover cropping strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Cover cropping strategies_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the suggested strategy for harvesting straw to avoid losses before harvesting cover crops?",
+      "answer": "The most viable strategy is to harvest the straw at the same time as the main crop and store it until the cover crops are harvested.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Cover cropping strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Cover cropping strategies",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Cover cropping strategies_qna_000",
+      "value": 1
+    }
+  ]
+}

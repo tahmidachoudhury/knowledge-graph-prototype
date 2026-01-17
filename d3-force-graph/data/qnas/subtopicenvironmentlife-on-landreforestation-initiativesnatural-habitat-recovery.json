@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery",
+      "label": "Natural habitat recovery",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is the natural recovery of Cystoseira sensu lato forests often unachievable?",
+      "answer": "Natural recovery is frequently unachievable due to severe degradation, making recovery nearly impossible even when causes of collapse are removed.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Natural habitat recovery",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which habitat showed significantly higher corticosterone concentrations in the Small Ground Finch according to the study?",
+      "answer": "Urban habitats showed significantly higher corticosterone concentrations in the Small Ground Finch compared to agricultural and natural habitats.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Natural habitat recovery",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did the case study by Gillmann et al. (2024a) reveal about species during recovery?",
+      "answer": "The case study highlighted the importance of species dispersal capacity and increasing interspecific competition during recovery, alongside a decrease in species tolerance to organic pollution.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Natural habitat recovery",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_002",
+      "value": 1
+    }
+  ]
+}

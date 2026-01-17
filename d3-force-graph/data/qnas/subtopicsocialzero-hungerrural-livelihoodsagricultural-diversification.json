@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Agricultural diversification",
+      "label": "Agricultural diversification",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Agricultural diversification_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has historically driven growth in agricultural production in Africa?",
+      "answer": "Growth in agricultural production has historically relied on land expansion in Africa.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Agricultural diversification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Agricultural diversification_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the study suggest about the relationship between agriculture expansion and biodiversity?",
+      "answer": "The results indicate that agriculture expansion is increasing pressure on biodiversity.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Agricultural diversification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Agricultural diversification",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Agricultural diversification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Agricultural diversification",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Agricultural diversification_qna_001",
+      "value": 1
+    }
+  ]
+}

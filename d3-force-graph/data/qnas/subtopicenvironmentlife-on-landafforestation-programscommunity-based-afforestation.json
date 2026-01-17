@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Community-based afforestation",
+      "label": "Community-based afforestation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Community-based afforestation_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What has been a consequence of the implementation of local REDD+ pilot initiatives in Ghana?",
+      "answer": "The implementation of local REDD+ pilot initiatives has often marginalized local community interests, leading to conflicts and power struggles among government bodies, corporations, and local communities.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Community-based afforestation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Community-based afforestation",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Community-based afforestation_qna_000",
+      "value": 1
+    }
+  ]
+}

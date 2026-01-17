@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife",
+      "label": "Impact of wind farms on wildlife",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some negative effects of excess nitrogen on animals mentioned in the paragraph?",
+      "answer": "Negative effects include microclimatic cooling, reduced host-plant quality, and loss of host plants or nectar sources.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms",
+      "subtopic": "Impact of wind farms on wildlife",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some of the severe threats to lapwings mentioned in the paragraph?",
+      "answer": "Severe threats to lapwings include reseeding, increased expansion of winter crops, and the loss of wetlands, field margins, and semi-natural habitats.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms",
+      "subtopic": "Impact of wind farms on wildlife",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What negative impacts are associated with spillover from wildlife to livestock?",
+      "answer": "Spillover from wildlife to livestock can negatively impact both animal and human health and can lead to considerable economic losses.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms",
+      "subtopic": "Impact of wind farms on wildlife",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is one example of a nocturnal small mammal mentioned in the paragraph?",
+      "answer": "Bats are mentioned as a mainly nocturnal group of small mammals.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms",
+      "subtopic": "Impact of wind farms on wildlife",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife",
+      "target": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife",
+      "target": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife",
+      "target": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife",
+      "target": "Subtopic:Environment|Clean energy|Wind farms|Impact of wind farms on wildlife_qna_003",
+      "value": 1
+    }
+  ]
+}

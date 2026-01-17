@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Heat-resistant pavements",
+      "label": "Heat-resistant pavements",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Heat-resistant pavements_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How were the materials compared in the study?",
+      "answer": "The materials were compared using a common thermal transmittance as the functional unit.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Heat-resistant pavements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Heat-resistant pavements_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can the results of the dual-scale tests be utilized?",
+      "answer": "The results can be used as a test case for the development of upscaling numerical models that describe heat transfer and frost degradation in concrete.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Heat-resistant pavements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Heat-resistant pavements",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Heat-resistant pavements_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Heat-resistant pavements",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Heat-resistant pavements_qna_001",
+      "value": 1
+    }
+  ]
+}

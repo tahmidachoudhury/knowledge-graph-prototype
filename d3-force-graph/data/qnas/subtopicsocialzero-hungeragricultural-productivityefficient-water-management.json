@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Efficient water management",
+      "label": "Efficient water management",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Efficient water management_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How much water was mixed with the fungicides for application in the plots?",
+      "answer": "0.62 L of water was mixed with the fungicides Score Profi and Ortiva for each application per plot.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Efficient water management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Efficient water management",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Efficient water management_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines",
+      "label": "Pit latrines",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of pots were used to keep female subjects in the experiment?",
+      "answer": "Females were kept in translucent plastic pots (1 L).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Pit latrines",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were fecal pellets collected from small mammals in the field according to the methodology?",
+      "answer": "Fecal pellets were collected using baited tubes made from plastic pipes, designed to allow small mammals to enter, feed, and defecate inside them.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Pit latrines",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines_qna_001",
+      "value": 1
+    }
+  ]
+}

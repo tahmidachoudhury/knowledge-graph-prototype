@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Traditional land management",
+      "label": "Traditional land management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Traditional land management_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does the traditional architecture of ethnic minorities in the Sichuan Plateau relate to their environment?",
+      "answer": "The traditional architecture embodies the wisdom of harmonious coexistence between local people and nature, reflecting strong regional and historical characteristics.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "subtopic": "Traditional land management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Indigenous land rights|Traditional land management",
+      "target": "Subtopic:Environment|Life on land|Indigenous land rights|Traditional land management_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation",
+      "label": "Urban heat islands mitigation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the study identify urban heat islands (UHIs)?",
+      "answer": "The study identifies urban heat islands (UHIs) through a comprehensive spatial and temporal assessment of Land Surface Temperature (LST).",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Urban heat islands mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What effect intensified the exceptionally hot conditions during the night in Athens?",
+      "answer": "The urban heat island (UHI) effect intensified the exceptionally hot conditions during the night in Athens.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Urban heat islands mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What phenomenon related to temperature does the paragraph mention, and what causes it?",
+      "answer": "The paragraph mentions the surface UHI (SUHI) phenomenon, which is caused by factors such as urban development and changing land-use patterns.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Urban heat islands mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role does UBS play in temperature regulation within urban environments?",
+      "answer": "UBS aids in temperature regulation by facilitating energy exchange with water bodies, providing a cooling effect similar to UGS during warm conditions.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Urban heat islands mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Urban heat islands mitigation_qna_003",
+      "value": 1
+    }
+  ]
+}

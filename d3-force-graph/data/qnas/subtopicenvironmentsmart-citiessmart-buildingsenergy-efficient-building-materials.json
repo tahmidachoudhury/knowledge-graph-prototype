@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Energy-efficient building materials",
+      "label": "Energy-efficient building materials",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Energy-efficient building materials_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What type of energy-saving technologies are suggested for use in residential buildings on the Sichuan Plateau?",
+      "answer": "Suggested energy-saving technologies include high-efficiency thermal insulation materials and other equipment that can help reduce the energy consumption levels of residential buildings.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Energy-efficient building materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Energy-efficient building materials",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Energy-efficient building materials_qna_000",
+      "value": 1
+    }
+  ]
+}

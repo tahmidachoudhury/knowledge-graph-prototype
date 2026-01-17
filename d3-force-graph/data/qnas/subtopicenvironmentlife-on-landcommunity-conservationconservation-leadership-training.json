@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training",
+      "label": "Conservation leadership training",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What role do world leaders who signed the Leaders' Pledge for Nature play in achieving a nature-positive future?",
+      "answer": "The world leaders who signed the Leaders' Pledge for Nature are expected to lead early implementation actions and secure necessary finance for reversing biodiversity loss by 2030.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Conservation leadership training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the purpose of the Leaders' Pledge for Nature mentioned in the report?",
+      "answer": "The Leaders' Pledge for Nature commits world leaders to reverse biodiversity loss by 2030 and aims to secure a nature-positive world.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Conservation leadership training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What role do leaders who signed the Leaders' Pledge for Nature play in achieving biodiversity goals?",
+      "answer": "Leaders who signed the pledge are expected to lead early implementation efforts, securing necessary finance, and committing to actions that aim to reverse biodiversity loss by 2030.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Conservation leadership training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What role do world leaders who signed the Leaders' Pledge for Nature play in the effort to achieve a nature-positive world?",
+      "answer": "They must lead the way in early implementation and secure the necessary finance for conservation and sustainable use of biodiversity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Conservation leadership training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Conservation leadership training_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels",
+      "label": "Maximum contaminant levels",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the observed concentration range of DEET in the aquatic environment?",
+      "answer": "The observed concentration range of DEET in the aquatic environment varies from ng/L to mg/L.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Maximum contaminant levels",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the maximum detected concentration of DEET in the Indian aquatic matrix?",
+      "answer": "The maximum detected concentration of DEET in the Indian aquatic matrix is 0.388 g/L.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Maximum contaminant levels",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the main characteristics of Cel that hinder its clinical application?",
+      "answer": "The main characteristics of Cel that hinder its clinical application are hydrophobicity, low bioavailability, and systemic toxicity.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Maximum contaminant levels",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What concentration of DEET requires testing due to its persistent nature?",
+      "answer": "Concentrations over 2 mg/L require testing due to the persistent and stable nature of DEET.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Maximum contaminant levels",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Maximum contaminant levels_qna_003",
+      "value": 1
+    }
+  ]
+}

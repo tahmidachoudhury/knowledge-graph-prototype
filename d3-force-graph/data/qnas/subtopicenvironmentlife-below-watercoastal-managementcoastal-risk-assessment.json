@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment",
+      "label": "Coastal risk assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the two major factors in developing a spatially explicit risk assessment for NIS spread?",
+      "answer": "The two major factors are the existence and distribution of NIS hotspots (like ports, harbors, and marinas) and the intensity of maritime traffic in the region.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "subtopic": "Coastal risk assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of the area analyzed falls under low, medium, and severe erosion risk?",
+      "answer": "39.7% of the area falls under low erosion risk, 58.4% under medium risk, and 1.9% under severe risk.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "subtopic": "Coastal risk assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_002",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How does Formation ABAC assist in risk and challenge assessment, as highlighted by Kayak et al. (2022)?",
+      "answer": "Formation ABAC assists in risk and challenge assessment by allowing decision-makers to analyse and prioritize risks and challenges associated with different alternatives, ultimately aiding in making informed decisions to mitigate potential negative impacts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "subtopic": "Coastal risk assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment",
+      "target": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment",
+      "target": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment",
+      "target": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_002",
+      "value": 1
+    }
+  ]
+}

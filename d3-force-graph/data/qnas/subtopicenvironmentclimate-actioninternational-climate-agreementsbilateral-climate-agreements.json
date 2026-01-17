@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements",
+      "label": "Bilateral climate agreements",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What assumption is made about knowledge sharing among countries in the agreement?",
+      "answer": "The assumption is that members of the agreement fully share their knowledge about adaptation capacity, and some knowledge unintentionally spills over between signatory and non-signatory countries, as well as between two non-signatory countries.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Bilateral climate agreements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How do members of the agreement share their knowledge regarding adaptation capacity?",
+      "answer": "Members of the agreement fully share their knowledge about adaptation capacity, and there is an assumption of unintentional knowledge spillover between signatory and non-signatory countries.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Bilateral climate agreements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements_qna_002",
+      "group": "QnA",
+      "label": "International Relations",
+      "question": "What strategic alliance is being strengthened according to the gas agreements mentioned in the paragraph?",
+      "answer": "A strategic alliance between Russia and China is being strengthened due to the gas agreements.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Bilateral climate agreements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Bilateral climate agreements_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity",
+      "label": "Shared prosperity",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the primary aim of the study discussed in the paragraph?",
+      "answer": "The primary aim of the study was to assess the relative importance of the key principles of a wellbeing economy to the Australian general public and to investigate preferences between demographic subgroups.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "subtopic": "Shared prosperity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the Wellbeing Economy Alliance (WEAII)?",
+      "answer": "The Wellbeing Economy Alliance (WEAII) is an international network formed by governments from six developed countries to promote a new way of economic thinking that prioritizes wellbeing over traditional economic indicators.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "subtopic": "Shared prosperity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does WEAII acknowledge as one potential indicator of collective wellbeing?",
+      "answer": "WEAII acknowledges economic growth and wealth creation as a potential indicator of collective wellbeing.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "subtopic": "Shared prosperity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Shared prosperity_qna_002",
+      "value": 1
+    }
+  ]
+}

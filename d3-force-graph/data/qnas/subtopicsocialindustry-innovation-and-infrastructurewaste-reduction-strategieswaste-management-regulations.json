@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste management regulations",
+      "label": "Waste management regulations",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste management regulations_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How are environmental permitting and emissions activities regulated in the UK?",
+      "answer": "In the UK, environmental permitting is regulated by Regulations 2016 SI 2016/11542 (EPR), applicable to England and Wales, which regulates emission activities, installations, and mobile plants, as well as waste operations and materials facilities.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Waste management regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste management regulations",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste management regulations_qna_000",
+      "value": 1
+    }
+  ]
+}

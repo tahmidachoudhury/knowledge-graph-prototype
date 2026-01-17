@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Online public consultations",
+      "label": "Online public consultations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Online public consultations_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "When was the editorial published online?",
+      "answer": "The editorial was published online on 20 February 2025.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Online public consultations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Online public consultations",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Online public consultations_qna_000",
+      "value": 1
+    }
+  ]
+}

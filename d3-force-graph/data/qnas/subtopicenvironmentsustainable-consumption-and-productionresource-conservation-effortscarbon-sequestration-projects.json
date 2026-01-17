@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Carbon sequestration projects",
+      "label": "Carbon sequestration projects",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Carbon sequestration projects_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What solutions are being developed to address the climate problem mentioned in the paragraph?",
+      "answer": "Research is actively developing solutions to sequester CO2 in order to decrease atmospheric CO2 levels.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Carbon sequestration projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Carbon sequestration projects",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Carbon sequestration projects_qna_000",
+      "value": 1
+    }
+  ]
+}

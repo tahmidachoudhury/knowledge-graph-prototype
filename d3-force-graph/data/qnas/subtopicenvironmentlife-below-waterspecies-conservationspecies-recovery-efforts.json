@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts",
+      "label": "Species recovery efforts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What recent initiative is being used to assess species recovery and conservation impact alongside the IUCN Red List?",
+      "answer": "The new initiative is called the Green Status of Species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species recovery efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the Green Status of Species provide insights into conservation efforts?",
+      "answer": "The Green Status of Species offers insights by assessing the recovery of species populations and showing the past, current, and potential future impact of conservation actions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species recovery efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts_qna_001",
+      "value": 1
+    }
+  ]
+}

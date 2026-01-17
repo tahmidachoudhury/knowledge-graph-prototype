@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Watershed management plans",
+      "label": "Watershed management plans",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Watershed management plans_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenges do decision-makers face in watershed management according to the paragraph?",
+      "answer": "Decision-makers face challenges due to the complex dynamic interactions of natural and human components within a watershed, which hinder the achievement of long-term sustainability goals.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Watershed management plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Watershed management plans",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Watershed management plans_qna_000",
+      "value": 1
+    }
+  ]
+}

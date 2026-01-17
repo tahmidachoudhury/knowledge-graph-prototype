@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds",
+      "label": "Preservation of traditional seeds",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can gametophytes be preserved as genetic resources according to the study?",
+      "answer": "Gametophytes can be vegetatively cultured (cloned) and preserved as genetic resources.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Preservation of traditional seeds",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How are Ae. tauschii and T. turgidum represented in germplasm collections?",
+      "answer": "Both Ae. tauschii and T. turgidum are among the most represented in germplasm collections, which host thousands of accessions of these species.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Preservation of traditional seeds",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Preservation of traditional seeds_qna_001",
+      "value": 1
+    }
+  ]
+}

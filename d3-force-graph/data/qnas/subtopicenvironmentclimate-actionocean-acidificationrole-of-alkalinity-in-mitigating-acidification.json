@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification",
+      "label": "Role of alkalinity in mitigating acidification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is it important to integrate engineering knowledge with natural methods in CO2 management?",
+      "answer": "It is essential to effectively handle the raising CO2 levels amid the challenges in enhancing microalgae assimilation.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Role of alkalinity in mitigating acidification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the risks associated with using high alkalinity and corrosive amine solutions in the proposed microalgae integration process?",
+      "answer": "The high alkalinity and corrosiveness of the amine solution may be toxic to the microalgae cells, potentially affecting growth and system performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Role of alkalinity in mitigating acidification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation volunteer groups",
+      "label": "Conservation volunteer groups",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation volunteer groups_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What conservation model has seen an increase in popularity in Australia since post-2010?",
+      "answer": "The private or non-governmental organisation (NGO)-led protected area model has burgeoned in Australia since post-2010.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Conservation volunteer groups",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation volunteer groups_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which groups of people are identified as examples of environmental observers in the research?",
+      "answer": "Examples of environmental observers include volunteers and employees of environmental organizations, citizen scientists, environmental professionals, and Indigenous knowledge keepers.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Conservation volunteer groups",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Conservation volunteer groups",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Conservation volunteer groups_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Conservation volunteer groups",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Conservation volunteer groups_qna_001",
+      "value": 1
+    }
+  ]
+}

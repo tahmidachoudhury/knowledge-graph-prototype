@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings",
+      "label": "Renewable energy integration in buildings",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What potential solution is suggested for reducing total energy consumption in buildings on the Sichuan Plateau?",
+      "answer": "Fully utilizing renewable energy sources is suggested as a solution to reduce the total energy consumption of buildings.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Renewable energy integration in buildings",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How has the incorporation of renewable energies in cities impacted the costs of electricity production?",
+      "answer": "The incorporation of renewable energies in cities has reduced the costs of electricity production due to the affordability of products like solar panels and batteries, which have become more cost-effective with the integration of smart technologies in cities.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Renewable energy integration in buildings",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings_qna_001",
+      "value": 1
+    }
+  ]
+}

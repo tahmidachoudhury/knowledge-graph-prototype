@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Cross-sectoral coordination",
+      "label": "Cross-sectoral coordination",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Emergency water supply and response"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Cross-sectoral coordination_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does an integrative approach compare to a sector-based approach?",
+      "answer": "An integrative approach that addresses multiple challenges is more likely to provide synergetic benefits compared to sector-based approaches that focus on only one challenge.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Emergency water supply and response",
+      "subtopic": "Cross-sectoral coordination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Cross-sectoral coordination_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "When might a sectoral approach be more effective?",
+      "answer": "A sectoral approach might work better when the causes and effects of a problem are bound by one sector only.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Emergency water supply and response",
+      "subtopic": "Cross-sectoral coordination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Cross-sectoral coordination",
+      "target": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Cross-sectoral coordination_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Cross-sectoral coordination",
+      "target": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Cross-sectoral coordination_qna_001",
+      "value": 1
+    }
+  ]
+}

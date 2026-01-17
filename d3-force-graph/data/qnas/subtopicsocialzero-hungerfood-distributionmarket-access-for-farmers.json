@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers",
+      "label": "Market access for farmers",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is understanding direct connections in a network important for food systems analysis?",
+      "answer": "It helps in understanding how actors in the network establish influence, rapid communication, and ease in spreading information.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Market access for farmers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Who are the target audiences for the manuscript discussing net-zero agriculture in Africa?",
+      "answer": "The target audiences include policymakers, government officials, researchers, academics, agricultural and environmental organizations, private sectors, agribusiness leaders, development agencies, financial institutions, agricultural cooperatives, and young professionals.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Market access for farmers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why are supermarkets identified as a promising place to shift consumer choices?",
+      "answer": "Supermarkets are identified as promising because they are where most consumers in Western societies buy their groceries, thus reaching a wide range of individuals effectively.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Market access for farmers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Market access for farmers_qna_002",
+      "value": 1
+    }
+  ]
+}

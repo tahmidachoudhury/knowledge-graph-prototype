@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach",
+      "label": "One health approach",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What health concepts suggest that biodiversity loss affects ecosystem services and health risks?",
+      "answer": "The health concepts EcoHealth, OneHealth, and Planetary Health suggest that biodiversity loss affects ecosystem services and health risks.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "One health approach",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What broader implication does the study have for understanding viral zoonosis?",
+      "answer": "The results advance our understanding of the molecular interactions driving viral zoonosis by suggesting that interspecies barriers may be weak during the early stages of infection.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "One health approach",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What concepts complement the SAFA guidelines in relation to health and welfare?",
+      "answer": "The One Health concept and the One Welfare approach complement the SAFA guidelines, emphasizing the connection between animal and human health and the wellbeing of animals in relation to humans and the environment.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "One health approach",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|One health approach_qna_002",
+      "value": 1
+    }
+  ]
+}

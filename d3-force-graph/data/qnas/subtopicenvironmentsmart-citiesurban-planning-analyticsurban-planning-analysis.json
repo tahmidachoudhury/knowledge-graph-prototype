@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "label": "Urban planning analysis",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can scenario planning be implemented in the formulation of a city development plan?",
+      "answer": "Scenario planning can be effectively implemented in the formulation of a city development plan by considering various potential futures, identifying key drivers of change, and developing strategies to navigate uncertainties and opportunities in urban development.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban planning analysis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to the paragraph, how should critical analysis approach the future?",
+      "answer": "Critical analysis should not attempt to dogmatically prefigure the future but should seek to find the new world through criticism of the old.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban planning analysis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is it essential to adopt nuanced urban development and planning strategies when identifying preference heterogeneity among citizens?",
+      "answer": "It is crucial to adopt nuanced urban development and planning strategies to cater to the diverse preferences of both permanent and non-permanent residents, leveraging smart city technologies for connectivity and resource management.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban planning analysis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main theme of Sharif's (2021) work on urban sustainability assessment?",
+      "answer": "The main theme of Sharif's (2021) work is on urban sustainability assessment, providing an overview and bibliometric analysis of the topic.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban planning analysis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_003",
+      "value": 1
+    }
+  ]
+}

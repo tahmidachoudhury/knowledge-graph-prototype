@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Anti-corruption measures|Corruption risk assessments",
+      "label": "Corruption risk assessments",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Anti-corruption measures"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Anti-corruption measures|Corruption risk assessments_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the significant political risks associated with the pursuit of quantification in political communication, as discussed by Luca Ausili?",
+      "answer": "The significant political risks include the potential misrepresentation of data as objective, leading to the exclusion of non-quantifiable issues from political debate, which can result in disillusionment and distrust towards political leaders.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Anti-corruption measures",
+      "subtopic": "Corruption risk assessments",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Anti-corruption measures|Corruption risk assessments",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Anti-corruption measures|Corruption risk assessments_qna_000",
+      "value": 1
+    }
+  ]
+}

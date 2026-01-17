@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration",
+      "label": "Fauna and flora diversity restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the effect of interspecific competition on recovery and degradation of ecological status?",
+      "answer": "The study found stronger positive effects of interspecific competition during recovery (β = 2.99) compared to degradation (β = 1.59).",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Fauna and flora diversity restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main goal of the CALM framework introduced by Fauna & Flora International?",
+      "answer": "The main goal of the CALM framework is to put nature at the heart of sustainable development by facilitating collaboration across landscapes to address the impacts of development on biodiversity and ecosystem services.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Fauna and flora diversity restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration_qna_001",
+      "value": 1
+    }
+  ]
+}

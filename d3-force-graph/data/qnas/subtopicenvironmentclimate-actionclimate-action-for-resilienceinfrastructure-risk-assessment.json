@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment",
+      "label": "Infrastructure risk assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "According to the climate change vulnerability Index study, where are the top 10 countries most vulnerable to climate change located?",
+      "answer": "The top 10 countries most vulnerable to climate change are all from Sub-Saharan Africa (SSA).",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure risk assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can the robustness of multi-criteria decision analysis methods for the energy sector's sustainability assessment be tested?",
+      "answer": "The robustness of multi-criteria decision analysis methods can be tested through criteria weight change in the assessment.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure risk assessment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment_qna_001",
+      "value": 1
+    }
+  ]
+}

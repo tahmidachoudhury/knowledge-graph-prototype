@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements",
+      "label": "International health agreements",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health collaboration"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What does the International Best Practice Principles for HIA published by the IAIA emphasize?",
+      "answer": "The International Best Practice Principles for HIA emphasize Equity and Equality, Participation, Ethical use of evidence, Sustainability, and a Comprehensive approach to health.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health collaboration",
+      "subtopic": "International health agreements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the purpose of international agreements according to the paragraph?",
+      "answer": "International agreements provide a platform for integrating national policies into a global framework to manage conflicts, promote sustainable policies, and align national policies with global sustainability, inequality reduction, and resilience goals.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health collaboration",
+      "subtopic": "International health agreements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which organization has embraced HIA globally?",
+      "answer": "The World Health Organisation (WHO) has embraced HIA globally.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health collaboration",
+      "subtopic": "International health agreements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements",
+      "target": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements",
+      "target": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements",
+      "target": "Subtopic:Social|Good health and well-being|Global health collaboration|International health agreements_qna_002",
+      "value": 1
+    }
+  ]
+}

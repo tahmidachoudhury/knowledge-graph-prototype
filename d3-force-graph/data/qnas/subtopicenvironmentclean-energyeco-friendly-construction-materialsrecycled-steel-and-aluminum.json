@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum",
+      "label": "Recycled steel and aluminum",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of the SPL is currently recycled or reused according to International Aluminium?",
+      "answer": "40 to 50 percent of the SPL is recycled or reused today.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Recycled steel and aluminum",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors influence the amount of SPL generated at aluminum producing sites?",
+      "answer": "The amount of SPL generated can vary depending on the lifetime of the cells, the design, the degree of cleaning before and sorting during deconstruction, and the degree of reuse of the steel casing.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Recycled steel and aluminum",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is primary aluminum metal considered as besides being a valuable product?",
+      "answer": "Primary aluminum metal can also be considered as a power bank, as it can be recycled endlessly using a fraction of the energy needed for producing primary aluminum.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Recycled steel and aluminum",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does increasing the silicon content in steel affect its magnetic properties?",
+      "answer": "Increasing the silicon content significantly improves the steel's magnetic properties, enabling rapid magnetization and demagnetization while reducing energy losses associated with hysteresis and eddy currents.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Eco-friendly construction materials",
+      "subtopic": "Recycled steel and aluminum",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum",
+      "target": "Subtopic:Environment|Clean energy|Eco-friendly construction materials|Recycled steel and aluminum_qna_003",
+      "value": 1
+    }
+  ]
+}

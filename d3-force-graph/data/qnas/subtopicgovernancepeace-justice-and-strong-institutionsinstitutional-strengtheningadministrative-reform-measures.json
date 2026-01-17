@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Administrative reform measures",
+      "label": "Administrative reform measures",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Administrative reform measures_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are some themes that the reforms focus on according to the paragraph?",
+      "answer": "The reforms focus on efficiency and seeking optimal ways to ensure that all nexus elements are considered together.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "subtopic": "Administrative reform measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Administrative reform measures_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How have OECD inspection reforms impacted regulatory practices?",
+      "answer": "OECD inspection reforms have led to improved regulatory practices by enhancing transparency, efficiency, and accountability in inspections, ultimately contributing to better compliance and enforcement mechanisms.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "subtopic": "Administrative reform measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Administrative reform measures",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Administrative reform measures_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Administrative reform measures",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Administrative reform measures_qna_001",
+      "value": 1
+    }
+  ]
+}

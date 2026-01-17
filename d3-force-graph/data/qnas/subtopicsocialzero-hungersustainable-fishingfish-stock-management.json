@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Fish stock management",
+      "label": "Fish stock management",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Fish stock management_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the primary focus of Fedor Baranov's work on bioeconomics?",
+      "answer": "Baranov's work focused on understanding how many fish can be caught and how to sustainably manage fish populations based on their dynamics.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "subtopic": "Fish stock management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable fishing|Fish stock management",
+      "target": "Subtopic:Social|Zero hunger|Sustainable fishing|Fish stock management_qna_000",
+      "value": 1
+    }
+  ]
+}

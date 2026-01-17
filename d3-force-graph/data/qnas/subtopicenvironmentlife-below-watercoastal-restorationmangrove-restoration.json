@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Mangrove restoration",
+      "label": "Mangrove restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Mangrove restoration_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is the conservation and restoration of mangroves considered a win-win-win solution?",
+      "answer": "The conservation and restoration of mangroves are considered a win-win-win solution because they enhance biodiversity, mitigate climate change, and support the livelihoods of people in coastal areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Mangrove restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Mangrove restoration",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Mangrove restoration_qna_000",
+      "value": 1
+    }
+  ]
+}

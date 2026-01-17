@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "label": "Electrochemical treatment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the set operating voltage range for the electrochemical tests?",
+      "answer": "The operating voltage range was set at -1.0 V to 1.0 V.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "For how long was the electrode surface soaked in the supportive electrolyte environment?",
+      "answer": "The surface was soaked for 3 hours.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How is aluminum produced in the electrolysis process?",
+      "answer": "Aluminum is produced by the electrochemical reduction of aluminum ions on the cathode, while oxygen is oxidized on the carbon anodes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary function of bioelectrochemical systems (BESs)?",
+      "answer": "BESs are primarily employed to treat wastewater and produce bioenergy, exceeding standard biologic treatment strategies by degrading various organic pollutants and enabling resource recovery.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenge do bioelectrochemical systems (BESs) currently face regarding their treatment and recovery efficacies?",
+      "answer": "The efficacies of treatment and recovery are insufficient to provide high-quality effluents for possible reuse and energy self-sufficiency.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Who is regarded as the father of bio-electrochemistry?",
+      "answer": "Luigi Galvani is regarded as the father of bio-electrochemistry.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_006",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can the optimization of sequential chemical coagulation - electro-oxidation process help in the treatment of industrial textile wastewater according to Lavas and colleagues?",
+      "answer": "The optimization of this process can enhance the treatment efficiency of industrial textile wastewater by improving the removal of contaminants.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_006",
+      "value": 1
+    }
+  ]
+}

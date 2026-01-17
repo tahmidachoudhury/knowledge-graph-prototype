@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Socioeconomic impacts on coastal communities",
+      "label": "Socioeconomic impacts on coastal communities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Socioeconomic impacts on coastal communities_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What challenge do contemporary Earth crises pose to common notions of sustainability?",
+      "answer": "Contemporary Earth crises challenge ideologies that place humans at the center of existence and separate from nature, prompting a reevaluation of sustainability concerning Earth-based kinships.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Socioeconomic impacts on coastal communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Socioeconomic impacts on coastal communities",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Socioeconomic impacts on coastal communities_qna_000",
+      "value": 1
+    }
+  ]
+}

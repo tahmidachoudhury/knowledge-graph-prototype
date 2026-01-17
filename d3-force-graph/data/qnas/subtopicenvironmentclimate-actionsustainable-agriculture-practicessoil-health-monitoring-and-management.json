@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management",
+      "label": "Soil health monitoring and management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can total N2O or N2 production within the soil column be calculated?",
+      "answer": "By applying production-diffusion modelling to include subsoil fluxes.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Soil health monitoring and management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some of the benefits of healthy soils?",
+      "answer": "Healthy soils are associated with higher primary productivity, resilience to climate change, and play a pivotal role in food security and human health.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Soil health monitoring and management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management_qna_001",
+      "value": 1
+    }
+  ]
+}

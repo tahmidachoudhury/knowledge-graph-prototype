@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Biomimicry applications",
+      "label": "Biomimicry applications",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Biomimicry applications_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the second interpretation of bioeconomy that emerged in the late nineties?",
+      "answer": "The second interpretation of bioeconomy is a strategy of technical innovation that limits biological and ecological processes, often referred to as biomimicry or nature-inspired innovation.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "subtopic": "Biomimicry applications",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Biomimicry applications_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some expected outcomes of technological innovations in the context of bioeconomy?",
+      "answer": "Technological innovations in the context of bioeconomy are expected to improve the efficiency and sustainability of the economic process by using nature as a mentor.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "subtopic": "Biomimicry applications",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Biomimicry applications",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Biomimicry applications_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Biomimicry applications",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Biomimicry applications_qna_001",
+      "value": 1
+    }
+  ]
+}

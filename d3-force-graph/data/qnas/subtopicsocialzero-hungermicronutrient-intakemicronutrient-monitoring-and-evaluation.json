@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Micronutrient monitoring and evaluation",
+      "label": "Micronutrient monitoring and evaluation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Micronutrient monitoring and evaluation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to analyze the concentration of REEs in the solution?",
+      "answer": "The concentration of REEs in the solution was analyzed using Inductively Coupled Plasma Mass Spectrometry (ICP-MS).",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake",
+      "subtopic": "Micronutrient monitoring and evaluation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Micronutrient intake|Micronutrient monitoring and evaluation_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "Which year does the report on the nutrient profile of Beilschmiedia mannii seeds and Combretum racemosum leaves focus on?",
+      "answer": "The report is published in 2021.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Micronutrient intake",
+      "subtopic": "Micronutrient monitoring and evaluation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Micronutrient intake|Micronutrient monitoring and evaluation",
+      "target": "Subtopic:Social|Zero hunger|Micronutrient intake|Micronutrient monitoring and evaluation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Micronutrient intake|Micronutrient monitoring and evaluation",
+      "target": "Subtopic:Social|Zero hunger|Micronutrient intake|Micronutrient monitoring and evaluation_qna_001",
+      "value": 1
+    }
+  ]
+}

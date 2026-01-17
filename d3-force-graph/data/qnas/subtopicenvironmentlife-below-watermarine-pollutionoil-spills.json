@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Oil spills",
+      "label": "Oil spills",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Oil spills_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What event triggered the environmental changes in the north-western Black Sea?",
+      "answer": "The Kakhovka Dam explosion triggered the environmental changes in the north-western Black Sea.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Oil spills",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Oil spills",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Oil spills_qna_000",
+      "value": 1
+    }
+  ]
+}

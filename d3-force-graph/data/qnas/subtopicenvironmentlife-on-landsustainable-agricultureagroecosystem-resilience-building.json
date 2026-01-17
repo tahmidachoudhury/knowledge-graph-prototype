@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Agroecosystem resilience building",
+      "label": "Agroecosystem resilience building",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Agroecosystem resilience building_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What conclusion did the literature review by Chopin et al. (2021) reach about agricultural sustainability assessment tools?",
+      "answer": "The literature review concluded that a wider framing is required for agricultural sustainability measurements, taking into account factors such as resilience and stability.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Agroecosystem resilience building",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Agroecosystem resilience building_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the SES framework contribute to understanding social-ecological systems?",
+      "answer": "The SES framework identifies key variables needed to understand the interactions between social and ecological systems, allowing for assessment of their resilience and potential for sustainable development.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Agroecosystem resilience building",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Agroecosystem resilience building",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Agroecosystem resilience building_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Agroecosystem resilience building",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Agroecosystem resilience building_qna_001",
+      "value": 1
+    }
+  ]
+}

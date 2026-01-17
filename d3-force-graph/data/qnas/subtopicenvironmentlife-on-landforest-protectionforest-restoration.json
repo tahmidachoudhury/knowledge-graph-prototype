@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest restoration",
+      "label": "Forest restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest restoration_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What was the purpose of the Forestry (Rebuilding the Forest Industry) Act 2014?",
+      "answer": "The purpose of the Forestry (Rebuilding the Forest Industry) Act 2014 was to invigorate the forest industry and related purposes, repealing previous legislation that protected forests of high conservation value.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Forest restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Forest restoration",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Forest restoration_qna_000",
+      "value": 1
+    }
+  ]
+}

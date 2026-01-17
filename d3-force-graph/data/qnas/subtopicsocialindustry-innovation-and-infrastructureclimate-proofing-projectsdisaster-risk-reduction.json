@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Disaster risk reduction",
+      "label": "Disaster risk reduction",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Disaster risk reduction_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some of the factors contributing to the high probability of disaster occurrences in Ecuador?",
+      "answer": "Inadequate land use, population density, lack of territorial planning, and natural hazards are contributing factors.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Disaster risk reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Disaster risk reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Disaster risk reduction_qna_000",
+      "value": 1
+    }
+  ]
+}

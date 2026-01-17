@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Equal access to opportunities|Access to resources",
+      "label": "Access to resources",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Equal access to opportunities"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Equal access to opportunities|Access to resources_qna_000",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What is the significance of access to food resources for breeding success?",
+      "answer": "Access to food resources is key to breeding success, as it affects the ability to feed nestlings adequately.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Equal access to opportunities",
+      "subtopic": "Access to resources",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Equal access to opportunities|Access to resources",
+      "target": "Subtopic:Social|Reduced inequalities|Equal access to opportunities|Access to resources_qna_000",
+      "value": 1
+    }
+  ]
+}

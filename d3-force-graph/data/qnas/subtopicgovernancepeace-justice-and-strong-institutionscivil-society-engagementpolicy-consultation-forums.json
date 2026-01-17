@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums",
+      "label": "Policy consultation forums",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the potential benefit of using the Circular Policy Canvas over an extended period of time?",
+      "answer": "The Circular Policy Canvas offers an opportunity for scholars to observe temporal policy shifts over time, providing valuable insights into evolving policy agendas.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "subtopic": "Policy consultation forums",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What does Patrizia Pedrini suggest about the responsibility of individuals in their epistemic behavior?",
+      "answer": "She questions whether individuals should be held accountable for their epistemic behavior in policymaking contexts, emphasizing that institutions have a role in equipping citizens with the necessary tools for good epistemic conduct through public education.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "subtopic": "Policy consultation forums",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Who were the participants in the interviews that informed the study's findings?",
+      "answer": "The interviews were conducted with representatives of public administration and civil society.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "subtopic": "Policy consultation forums",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Policy consultation forums_qna_002",
+      "value": 1
+    }
+  ]
+}

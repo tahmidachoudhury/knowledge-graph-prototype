@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation",
+      "label": "Cold seawater pipes for energy generation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was added to the reaction mixture after 1-bromoheptane was introduced?",
+      "answer": "100 mL of cold water was added after the reaction completion.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Cold seawater pipes for energy generation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What happens to the average temperature as the length of the pipe increases?",
+      "answer": "The average temperature drops as the length of the pipe increases.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Cold seawater pipes for energy generation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does a mixing tee merge?",
+      "answer": "A mixing tee merges two pipe streams that have different volumetric flow rates, temperatures, or chemical compositions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Cold seawater pipes for energy generation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What happens to thermal mixing when the branch pipe is inclined at 45 and 60 degrees?",
+      "answer": "Thermal mixing occurs more rapidly over a shorter distance when the branch pipe is inclined at 45 and 60 degrees.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Cold seawater pipes for energy generation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What trend was observed regarding average temperature for inclination angles of 45 and 60 degrees?",
+      "answer": "The average temperature follows a linear trend, indicating a lack of variation at the shortest distance along the central axis of the main pipe.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Cold seawater pipes for energy generation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_005",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is the average cold water temperature in most of China, and what temperature does it need to be heated to at distribution points?",
+      "answer": "The average cold water temperature in most of China is 10 to 20 C, and it needs to be heated to 45 C at distribution points.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Cold seawater pipes for energy generation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Cold seawater pipes for energy generation_qna_005",
+      "value": 1
+    }
+  ]
+}

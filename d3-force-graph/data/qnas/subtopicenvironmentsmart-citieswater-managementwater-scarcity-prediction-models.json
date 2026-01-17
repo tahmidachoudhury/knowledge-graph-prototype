@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "label": "Water scarcity prediction models",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "By how much is water demand expected to increase by 2050?",
+      "answer": "Water demand is expected to increase by 55% by 2050.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Water scarcity prediction models",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the growing demand for freshwater impact global population according to OECD predictions?",
+      "answer": "The growing demand for freshwater is predicted to cause a severe water deficit for a large share of the global population, highlighting the importance of sustainable water management.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Water scarcity prediction models",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How was the water consumption data of other demands (industrial, domestic, livestock, electricity) derived and allocated to countries?",
+      "answer": "The water consumption data of other demands was derived from the Water GAP 2.2 model for the period 1970-2000 at the watershed level. This data was assigned to relevant countries based on geographical location, with allocation for watersheds shared by multiple countries done according to the area of the part of the watershed in each country using a specific formula.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Water scarcity prediction models",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How was the blue water consumption induced by Japanese final demand estimated using the CLIO model?",
+      "answer": "The blue water consumption induced by Japanese final demand was estimated using the CLIO model, which covered the transaction flow of goods between 5000 sectors of 231 countries for the year 2005. This estimation was based on the direct water consumption data of each sector and the transaction flow data within the CLIO model.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Water scarcity prediction models",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "target": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "target": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "target": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "target": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_003",
+      "value": 1
+    }
+  ]
+}

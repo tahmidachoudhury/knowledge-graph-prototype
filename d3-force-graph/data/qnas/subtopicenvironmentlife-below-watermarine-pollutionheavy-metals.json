@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals",
+      "label": "Heavy metals",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What challenges do reservoirs of POPs and heavy metals present to society?",
+      "answer": "Reservoirs of POPs, heavy metals, and other PBTs present a high risk and management challenge, threatening both present and future generations if not adequately eliminated or secured.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Heavy metals",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What environmental risk is posed by heavy metals mentioned in the paragraph?",
+      "answer": "Heavy metals that were secured in the earth's crust for millions of years have been mined and are now at the surface, posing exposure risks to the wider environment.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Heavy metals",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the acceptable daily intake of silver according to the EPA?",
+      "answer": "The EPA states that a daily intake of silver of 5 g/kg based on body weight is acceptable and does not lead to poisoning.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Heavy metals",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to measure the concentration of heavy metal ions?",
+      "answer": "The concentration of heavy metal ions was measured using ICP-MS (Inductively Coupled Plasma Mass Spectrometry).",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Heavy metals",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are REEs and what risks do they pose according to the text?",
+      "answer": "REEs are rare earth elements that can accumulate in the liver and other body structures, leading to toxic effects that include liver damage and lung issues.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Heavy metals",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_005",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the consequence of increased nutrient loads and metals in aquatic ecosystems?",
+      "answer": "Increased nutrient loads, metals, and other toxic substances can negatively affect macroinvertebrate abundances and diversities, leading to shifts in community composition.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Heavy metals",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Heavy metals_qna_005",
+      "value": 1
+    }
+  ]
+}

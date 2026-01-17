@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "label": "Sampling frequency regulations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How often are scanning routines for PVOL data typically conducted?",
+      "answer": "Scanning routines for PVOL data are typically conducted every 5 to 15 minutes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Sampling frequency regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What time intervals were used for sampling in the experiment?",
+      "answer": "The time intervals for sampling were 0.5, 1, 4, 8, 12, 24, 48, and 72 hours.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Sampling frequency regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many occurrence locations remained after the filtering process?",
+      "answer": "After the filtering process, 5788 occurrence locations remained.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Sampling frequency regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How were the occurrence locations divided after filtering?",
+      "answer": "The remaining occurrence locations were randomly split into 50% for training and 50% for testing subsets.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Sampling frequency regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How long was the sampling conducted for?",
+      "answer": "The sampling was conducted for a total time of 8 minutes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Sampling frequency regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_004",
+      "value": 1
+    }
+  ]
+}

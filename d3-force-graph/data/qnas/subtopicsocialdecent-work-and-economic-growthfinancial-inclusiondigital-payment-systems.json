@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Digital payment systems",
+      "label": "Digital payment systems",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Digital payment systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How does the paper categorize alternative currencies in terms of their purpose?",
+      "answer": "The paper categorizes alternative currencies as monetary devices aimed at transforming territories and society for socio-economic transformation.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "subtopic": "Digital payment systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Digital payment systems",
+      "target": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Digital payment systems_qna_000",
+      "value": 1
+    }
+  ]
+}

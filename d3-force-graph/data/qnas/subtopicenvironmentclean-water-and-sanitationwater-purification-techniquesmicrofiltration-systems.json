@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems",
+      "label": "Microfiltration systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the surface area and pore size distribution of the samples determined?",
+      "answer": "The surface area and pore size distribution were determined by nitrogen adsorption/desorption isotherm using the Quantochrome Autosorp device.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Microfiltration systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does micro-XCT differ from standard XCT?",
+      "answer": "Micro-XCT provides sub-millimeter and even sub-micron XCT to examine the physical properties and morphological composition of samples, whereas standard XCT may not achieve this level of resolution.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Microfiltration systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What volume of filtered seawater was used in the incubation chambers for symbiont sampling?",
+      "answer": "A volume of 150 mL of 0.2 m filtered seawater was used in the incubation chambers.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Microfiltration systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the pure Pb(NO3)2 solution obtained from the initial mixture?",
+      "answer": "The pure Pb(NO3)2 solution was obtained by filtration through a 0.22 m filter.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Microfiltration systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What equipment was used for the peptide separation process?",
+      "answer": "The peptide mixture was separated using a NanoACQUITY UPLC MClass system.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Microfiltration systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What particles predominantly pass through wet scrubbers and what is their size range?",
+      "answer": "Particles in the size range of 60-200 nm predominantly pass through wet scrubbers, constituting a significant portion of the inhalable particle mass.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Microfiltration systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Microfiltration systems_qna_005",
+      "value": 1
+    }
+  ]
+}

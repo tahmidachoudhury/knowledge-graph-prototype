@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Eco-friendly alternatives",
+      "label": "Eco-friendly alternatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Eco-friendly alternatives_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the best alternatives to combat environmental deterioration suggested in the study?",
+      "answer": "The best alternatives are renewable energy, information & communication technology (ICT), and circular economy.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "subtopic": "Eco-friendly alternatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Eco-friendly alternatives_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is one advantage of using essential oils (EOs) as an alternative to chemical herbicides?",
+      "answer": "One advantage of using essential oils is that they cause no constraint on the environment due to their high volatility and biodegradability.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "subtopic": "Eco-friendly alternatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Eco-friendly alternatives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Eco-friendly alternatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Eco-friendly alternatives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Eco-friendly alternatives_qna_001",
+      "value": 1
+    }
+  ]
+}

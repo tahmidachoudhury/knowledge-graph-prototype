@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Waste management",
+      "label": "Waste management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Waste management_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does the study emphasize regarding plastic waste management practices?",
+      "answer": "The study highlights the need for effective research and the establishment of improved plastic waste management practices to reduce the introduction of microplastics in mangrove ecosystems.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "subtopic": "Waste management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Plastic waste reduction|Waste management",
+      "target": "Subtopic:Environment|Life below water|Plastic waste reduction|Waste management_qna_000",
+      "value": 1
+    }
+  ]
+}

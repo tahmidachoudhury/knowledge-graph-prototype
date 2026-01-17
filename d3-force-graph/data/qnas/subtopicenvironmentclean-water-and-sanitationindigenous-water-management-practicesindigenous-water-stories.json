@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water stories",
+      "label": "Indigenous water stories",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water stories_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What role do Indigenous Peoples' knowledge and stories play in managing water resources in Australia?",
+      "answer": "Indigenous Peoples' knowledge and stories, acquired over thousands of generations, are essential for understanding and managing surface and groundwater, forming a basis of cultural identity, survival, and ecological management in Australia.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Indigenous water stories",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water stories",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water stories_qna_000",
+      "value": 1
+    }
+  ]
+}

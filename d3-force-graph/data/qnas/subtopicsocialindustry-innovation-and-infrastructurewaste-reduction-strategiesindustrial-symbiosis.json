@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Industrial symbiosis",
+      "label": "Industrial symbiosis",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Industrial symbiosis_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do structural elements relate to functional types in metabolic systems?",
+      "answer": "Structural elements generate a series of functional types that, through synergistic collaboration, reproduce the structural elements of the whole.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Industrial symbiosis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Industrial symbiosis",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Industrial symbiosis_qna_000",
+      "value": 1
+    }
+  ]
+}

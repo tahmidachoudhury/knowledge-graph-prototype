@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species",
+      "label": "Climate resilient tree species",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What interaction affects climate-mediated differences in trees?",
+      "answer": "The interaction of competition with climate and tree age shows attenuated climate-mediated differences, particularly when competition is high.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Climate resilient tree species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the expected effects of climate warming on tree growth rates?",
+      "answer": "Climate warming is expected to affect tree growth rates, biomass accumulation, and carbon storage.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Climate resilient tree species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What can influence age-induced growth responses to climate in trees?",
+      "answer": "Species-specific morphological and physiological shifts during ontogeny and limiting environmental conditions can influence age-induced growth responses to climate.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Climate resilient tree species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can size-mediated extrinsic factors affect individual tree sensitivity to climate?",
+      "answer": "Size-mediated extrinsic factors, such as asymmetric inter-tree competition, can modulate individual sensitivity to climate more than tree age.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Climate resilient tree species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is generally agreed upon regarding the competition effects on individual tree growth?",
+      "answer": "Most studies agree that competition effects on individual tree growth are primarily negative, making trees more susceptible to climatic stress.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Climate resilient tree species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the stress gradient hypothesis suggest about trees in harsh environments?",
+      "answer": "The stress gradient hypothesis suggests that a tree can benefit from its neighbors when growing under a harsh environment.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Climate resilient tree species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Climate resilient tree species_qna_005",
+      "value": 1
+    }
+  ]
+}

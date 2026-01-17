@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies",
+      "label": "Glacier monitoring technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What did Rijal et al.'s research focus on in the Himalayan region of Nepal?",
+      "answer": "Their research focused on thermal measurements and surveys of thermal comfort of traditional houses during the harsh winter climate.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier monitoring technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What limitation do many studies that utilize satellite imagery for LST analyses have?",
+      "answer": "Many studies rely on a limited number of snapshots and neglect the temporal dimension relevant to Earth's dynamic systems and weather patterns during satellite image acquisition.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier monitoring technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies_qna_001",
+      "value": 1
+    }
+  ]
+}

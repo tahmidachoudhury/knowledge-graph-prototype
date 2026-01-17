@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Constructed wetlands",
+      "label": "Constructed wetlands",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Constructed wetlands_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Can you give an example of an urban wetland that serves as an EcoHaven Oasis?",
+      "answer": "The Inciralti-Cakalburnu Urban Wetland (ICUW) in Izmir, Turkey, exemplifies an EcoHaven Oasis.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Constructed wetlands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Constructed wetlands",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Constructed wetlands_qna_000",
+      "value": 1
+    }
+  ]
+}

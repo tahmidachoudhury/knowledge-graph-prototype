@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Compostable packaging options",
+      "label": "Compostable packaging options",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Compostable packaging options_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What considerations must be taken into account regarding sterilization packaging?",
+      "answer": "The packaging of the sterilized product must be suitable for the sterilization process, meaning it should be permeable to the sterilization method but germ-tight to prevent recontamination.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Compostable packaging options",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Compostable packaging options",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Compostable packaging options_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste reduction targets",
+      "label": "Plastic waste reduction targets",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste reduction targets_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does Target 11.6 aim to reduce by 2030?",
+      "answer": "Target 11.6 aims to reduce the adverse per capita environmental impact of cities, specifically focusing on air quality and waste management.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "subtopic": "Plastic waste reduction targets",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste reduction targets",
+      "target": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic waste reduction targets_qna_000",
+      "value": 1
+    }
+  ]
+}

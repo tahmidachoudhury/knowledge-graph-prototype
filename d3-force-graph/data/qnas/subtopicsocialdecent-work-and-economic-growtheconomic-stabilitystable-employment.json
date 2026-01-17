@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Stable employment",
+      "label": "Stable employment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Stable employment_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does stable employment contribute to engagement in sustainable practices?",
+      "answer": "Stable employment alleviates financial constraints and enables long-term decision-making, which reinforces engagement in sustainable practices.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Stable employment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Stable employment",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Stable employment_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon capture and storage (ccs) for offsets",
+      "label": "Carbon capture and storage (ccs) for offsets",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon capture and storage (ccs) for offsets_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How have cost projections for Direct Air Capture and Carbon Storage (DACCS) been characterized over time?",
+      "answer": "Cost projections for DACCS have long relied on a limited number of original data points, leading to uncertainties in their viability.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Carbon capture and storage (ccs) for offsets",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon capture and storage (ccs) for offsets",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon capture and storage (ccs) for offsets_qna_000",
+      "value": 1
+    }
+  ]
+}

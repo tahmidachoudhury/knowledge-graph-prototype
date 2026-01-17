@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance",
+      "label": "Global climate governance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What does the OECD report \"Accelerating Climate Action Refocusing Policies through a Well-Being Lens\" focus on?",
+      "answer": "The OECD report focuses on accelerating climate action by refocusing policies through a well-being lens, highlighting the importance of considering well-being in climate policy decisions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Global climate governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Who handled the content discussed in the paragraph?",
+      "answer": "The content was handled by So-Young Lee from the Institute for Global Environmental Strategies (IGES), Japan.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Global climate governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How do non-state actors contribute to the United Nations Framework Convention on Climate Change (UNFCCC) process?",
+      "answer": "Non-state actors contribute informally by sharing expertise, overseeing the progress of Parties, and supporting ambition through hybrid multilateral governance, though they do not directly participate in decision-making for negotiation texts.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Global climate governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does the proposed new framework aim to improve in carbon price forecasting?",
+      "answer": "The new framework aims to provide a better-informed basis for investment decisions and climate governance in China and the EU.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Global climate governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What country within the EU is the focus of the paper regarding climate strategy?",
+      "answer": "The focus of the paper regarding climate strategy is on Spain.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Global climate governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Global climate governance_qna_004",
+      "value": 1
+    }
+  ]
+}

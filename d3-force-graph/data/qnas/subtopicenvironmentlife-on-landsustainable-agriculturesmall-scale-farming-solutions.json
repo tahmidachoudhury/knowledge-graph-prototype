@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions",
+      "label": "Small-scale farming solutions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the common agricultural practices in developing nations mentioned in the paragraph?",
+      "answer": "Subsistence farming and small-holder farms are commonplace in developing nations such as sub-Saharan Africa.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Small-scale farming solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How have small-scale and subsistence farms in developing countries traditionally operated?",
+      "answer": "Small-scale and subsistence farms in developing countries have traditionally relied on animal traction and human labor for their operations and transport of products to markets, resulting in less dependence on fossil fuel inputs.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Small-scale farming solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What do stakeholders believe are the main challenges hindering the success of the \"Farm to Fork\" strategic policy?",
+      "answer": "Stakeholders believe that fundamental, financial, and behavioural problems exist, making the whole process complicated.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Small-scale farming solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is there a growing concern about the potential 'death by a thousand cuts' in rural communities reliant on small-scale agriculture?",
+      "answer": "This concern arises because these communities face significant pressure from planned large-scale mining projects and degradation of the natural environment, which threatens their access to land and the essential services provided by nature.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Small-scale farming solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Small-scale farming solutions_qna_003",
+      "value": 1
+    }
+  ]
+}

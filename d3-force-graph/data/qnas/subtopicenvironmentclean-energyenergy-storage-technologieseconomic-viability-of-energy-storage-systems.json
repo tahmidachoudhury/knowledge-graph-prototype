@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems",
+      "label": "Economic viability of energy storage systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Why were BECCS and DACCS chosen for examination in the economic dimension of CDR?",
+      "answer": "They were chosen because they are technologies that have reached relatively high technology readiness levels (TRL) and have high inherent storage permanence.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Economic viability of energy storage systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the feasibility of 100% renewable electricity systems respond to critics according to DÃƒÂ¼sseldorf and Ellison?",
+      "answer": "According to DÃƒÂ¼sseldorf and Ellison, the feasibility of 100% renewable electricity systems is a response to critics who question its viability.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Economic viability of energy storage systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems_qna_001",
+      "value": 1
+    }
+  ]
+}

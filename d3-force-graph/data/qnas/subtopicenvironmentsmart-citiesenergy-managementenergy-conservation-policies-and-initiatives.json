@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Energy conservation policies and initiatives",
+      "label": "Energy conservation policies and initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Energy conservation policies and initiatives_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What potential long-term benefits are associated with engagement in smart energy applications?",
+      "answer": "Long-term engagement with smart energy applications could lead to benefits in sustainable energy consumption practices by enabling users to make informed and energy-efficient choices.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Energy conservation policies and initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Energy conservation policies and initiatives",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Energy conservation policies and initiatives_qna_000",
+      "value": 1
+    }
+  ]
+}

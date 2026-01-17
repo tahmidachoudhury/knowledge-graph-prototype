@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Ethical sourcing of raw materials",
+      "label": "Ethical sourcing of raw materials",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Ethical sourcing of raw materials_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What recent trend is observed in the pharmaceutical industry regarding the sourcing of ingredients?",
+      "answer": "There is an increasing demand for naturally sourced pharmaceutical and cosmetic ingredients, driven by concerns about the safety of synthetic substances.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "subtopic": "Ethical sourcing of raw materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Ethical sourcing of raw materials",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Ethical sourcing of raw materials_qna_000",
+      "value": 1
+    }
+  ]
+}

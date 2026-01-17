@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use",
+      "label": "Customary land use",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What area was selected for the research study on traditional houses?",
+      "answer": "Yueli Village, Wenchuan County, Aba Prefecture was selected for the research study.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "subtopic": "Customary land use",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is there a need for more research on traditional residential architecture according to the paragraph?",
+      "answer": "There is a need for more research on traditional residential architecture in specific geographical and cultural contexts, particularly the traditional houses of ethnic minorities in the Sichuan Plateau.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "subtopic": "Customary land use",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do village hunters differ from traditional forest hunter-gatherers in terms of offtake sales?",
+      "answer": "Village hunters typically sell a greater proportion of their offtake than traditional hunter-gatherers.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "subtopic": "Customary land use",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use",
+      "target": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use",
+      "target": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use",
+      "target": "Subtopic:Environment|Life on land|Indigenous land rights|Customary land use_qna_002",
+      "value": 1
+    }
+  ]
+}

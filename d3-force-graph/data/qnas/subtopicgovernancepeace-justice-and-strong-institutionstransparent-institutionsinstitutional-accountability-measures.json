@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Institutional accountability measures",
+      "label": "Institutional accountability measures",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Transparent institutions"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Institutional accountability measures_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What responsibility do institutions have in relation to the epistemic behavior of individuals, as discussed in the collection?",
+      "answer": "Institutions have a responsibility to provide individuals with the tools necessary for developing good epistemic conduct through public education, as individuals may engage in epistemic misconduct as a result of inadequate education.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Transparent institutions",
+      "subtopic": "Institutional accountability measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Institutional accountability measures_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What responsibility do institutions have regarding the epistemic behavior of individuals, particularly in the context of public education?",
+      "answer": "Institutions have a responsibility to provide individuals with the necessary tools for developing good epistemic conduct, as failing to do so may lead individuals to engage in epistemic misconduct when expressing themselves as policymakers, such as during voting or public debate.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Transparent institutions",
+      "subtopic": "Institutional accountability measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Institutional accountability measures",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Institutional accountability measures_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Institutional accountability measures",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Institutional accountability measures_qna_001",
+      "value": 1
+    }
+  ]
+}

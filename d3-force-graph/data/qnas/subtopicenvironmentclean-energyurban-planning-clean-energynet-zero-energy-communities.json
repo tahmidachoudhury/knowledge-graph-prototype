@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Net-zero energy communities",
+      "label": "Net-zero energy communities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Net-zero energy communities_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does the research promote within the built environment?",
+      "answer": "The research promotes net-zero targets within the built environment.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Net-zero energy communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Net-zero energy communities_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What does achieving net zero entail in terms of carbon emissions?",
+      "answer": "Achieving net zero involves reducing carbon emissions to minimal levels, with any remaining emissions being absorbed and stored by natural processes and other CO2 removal methods, resulting in no net increase in atmospheric CO2.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Net-zero energy communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Net-zero energy communities",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Net-zero energy communities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Net-zero energy communities",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Net-zero energy communities_qna_001",
+      "value": 1
+    }
+  ]
+}

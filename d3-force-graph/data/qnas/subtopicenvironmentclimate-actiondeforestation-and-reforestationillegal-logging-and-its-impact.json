@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact",
+      "label": "Illegal logging and its impact",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the estimated annual tonnage of wildlife harvested through illegal bushmeat hunting globally?",
+      "answer": "Approximately 5 million tons of wildlife are harvested annually through illegal bushmeat hunting.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Illegal logging and its impact",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does land ownership affect illegal bushmeat harvesting levels?",
+      "answer": "The levels of illegal bushmeat harvesting have been found to vary across different land ownership.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Illegal logging and its impact",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact_qna_001",
+      "value": 1
+    }
+  ]
+}

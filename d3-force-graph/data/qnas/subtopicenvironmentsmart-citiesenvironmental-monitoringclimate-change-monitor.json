@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "label": "Climate change monitor",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the time period covered by the rainfall observations analyzed?",
+      "answer": "The observations covered the period from 1900 to 2023.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many monitoring stations are included in the dataset of the study?",
+      "answer": "The dataset includes high-frequency temperature measurements from 54 monitoring stations.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How much variance do the first three principal components summarize in the climatic data?",
+      "answer": "The first three principal components summarize 80.4% of the variance of the background environmental variable data.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the average annual temperature trend found for urban center stations in the Mediterranean region from 1981 to 2020?",
+      "answer": "The mean annual ambient temperature trend for urban center stations was 0.43 °C per decade.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the purpose of the pilot study mentioned in the paragraph?",
+      "answer": "The purpose of the pilot study was to test the performance of the new monitoring strategy under large-scale conditions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main aim of the investigation mentioned in the paragraph?",
+      "answer": "The main aim is to investigate concurrent changes in extreme precipitation patterns under the Arctic warming scenario using the Peak Over Threshold (POT) method.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_005",
+      "value": 1
+    }
+  ]
+}

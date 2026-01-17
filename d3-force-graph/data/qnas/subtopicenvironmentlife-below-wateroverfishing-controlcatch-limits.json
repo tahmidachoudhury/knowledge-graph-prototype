@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Catch limits",
+      "label": "Catch limits",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Catch limits_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the total fish catch in 2021?",
+      "answer": "The total fish catch in 2021 was 14.242 tonnes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Catch limits",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Catch limits",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Catch limits_qna_000",
+      "value": 1
+    }
+  ]
+}

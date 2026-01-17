@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification research",
+      "label": "Ocean acidification research",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification research_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "According to the research mentioned in the paragraph, what are the two global change drivers being studied?",
+      "answer": "The two global change drivers being studied are eutrophication and increasing temperature, which is a vital component of climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Ocean acidification research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification research",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification research_qna_000",
+      "value": 1
+    }
+  ]
+}

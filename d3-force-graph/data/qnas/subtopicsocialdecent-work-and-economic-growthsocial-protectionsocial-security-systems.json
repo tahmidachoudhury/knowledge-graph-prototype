@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Social protection|Social security systems",
+      "label": "Social security systems",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Social protection"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Social protection|Social security systems_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the advantages of SSA over EMD mentioned in the paragraph?",
+      "answer": "SSA can be applied to a wider range of data generating processes, does not require primary functions to be pre-set, and extracts main factors in a more effective and intuitive way.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Social protection",
+      "subtopic": "Social security systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Social protection|Social security systems",
+      "target": "Subtopic:Social|Decent work and economic growth|Social protection|Social security systems_qna_000",
+      "value": 1
+    }
+  ]
+}

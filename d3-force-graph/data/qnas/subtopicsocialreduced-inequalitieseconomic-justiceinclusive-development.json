@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Economic justice|Inclusive development",
+      "label": "Inclusive development",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Economic justice"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Economic justice|Inclusive development_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What practical outcomes does the research propose?",
+      "answer": "The research offers practical pathways for crafting more inclusive sustainability strategies that address the needs of marginalized populations.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Economic justice",
+      "subtopic": "Inclusive development",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Economic justice|Inclusive development",
+      "target": "Subtopic:Social|Reduced inequalities|Economic justice|Inclusive development_qna_000",
+      "value": 1
+    }
+  ]
+}

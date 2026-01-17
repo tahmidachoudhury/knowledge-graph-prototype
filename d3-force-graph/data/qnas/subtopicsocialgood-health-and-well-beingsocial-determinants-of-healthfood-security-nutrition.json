@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition",
+      "label": "Food security & nutrition",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the consequences of the nutrition transition occurring in Pacific Island countries?",
+      "answer": "The nutrition transition in Pacific Island countries has led to a shift from local, nutritious food sources to greater reliance on imported, low-quality foods, resulting in high prevalence of diabetes and obesity, decreased food sovereignty, and increased vulnerability to external economic shocks.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Food security & nutrition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What impacts are associated with the nutrition transition in Pacific Island countries?",
+      "answer": "The nutrition transition has led to increased reliance on less healthy imported foods, contributing to high rates of diabetes and obesity, as well as decreased food sovereignty and increased vulnerability to external economic shocks.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Food security & nutrition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What limitations do the studies mentioned in the paragraph have?",
+      "answer": "The studies have limitations as they do not integrate food security indicators or allow for a detailed analysis of the distributional effects on households.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Food security & nutrition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Food security & nutrition_qna_002",
+      "value": 1
+    }
+  ]
+}

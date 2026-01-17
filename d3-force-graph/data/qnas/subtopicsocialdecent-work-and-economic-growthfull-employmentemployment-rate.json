@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Employment rate",
+      "label": "Employment rate",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Employment rate_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Africa's labor force is employed in agriculture?",
+      "answer": "About 65% of Africa's labor force is employed in agriculture.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "subtopic": "Employment rate",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Employment rate_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What unemployment rate was reported by the National Bureau of Statistics in 2021?",
+      "answer": "The unemployment rate reported was 33.3%.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "subtopic": "Employment rate",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Full employment|Employment rate",
+      "target": "Subtopic:Social|Decent work and economic growth|Full employment|Employment rate_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Full employment|Employment rate",
+      "target": "Subtopic:Social|Decent work and economic growth|Full employment|Employment rate_qna_001",
+      "value": 1
+    }
+  ]
+}

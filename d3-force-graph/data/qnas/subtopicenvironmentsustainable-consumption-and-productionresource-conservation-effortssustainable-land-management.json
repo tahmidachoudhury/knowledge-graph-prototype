@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable land management",
+      "label": "Sustainable land management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable land management_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methodologies are explored in land management research as per the paragraph?",
+      "answer": "Land management research explores the incorporation of MCA methods combined with Geo-tools like GIS and in the form of Spatial MCA, which considers criteria related to biodiversity, ecosystem services, and resilience.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Sustainable land management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable land management_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main focus of the F.A.O. Global Soil Partnership 2012-2022 regarding sustainable soil management?",
+      "answer": "The main focus of the F.A.O. Global Soil Partnership 2012-2022 is to implement sustainable soil management practices.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Sustainable land management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable land management",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable land management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable land management",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable land management_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies",
+      "label": "Land use compatibility studies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What were the significant correlations found concerning stability of acceptability judgments?",
+      "answer": "Knowledge and personal values were not significantly related to the stability of acceptability judgments.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use compatibility studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Can the evaluation methods used in the UK-based case study be applied to other scenarios?",
+      "answer": "Yes, the methods can be adapted for specific scenarios and projects due to the transparency of the data and methods used.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use compatibility studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How have the studies in West Africa impacted cocoa land use planning?",
+      "answer": "The limited spatial accuracy and public accessibility of the studies' methods have resulted in limited applicability for cocoa land use planning.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use compatibility studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some specific areas where studies on coupled systems have been conducted?",
+      "answer": "Studies on coupled systems have been conducted in areas such as the coupling between urbanization and ecological environment quality, land resources coupling, and agroecological coupling.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use compatibility studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How many sampling sites were involved in the study and what factors were considered when selecting these sites?",
+      "answer": "The study involved 16 sampling sites selected based on associated land use activities such as agriculture, water abstraction, solid waste disposal, and proximity to a wastewater sewage plant, sand mining, and brick making.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use compatibility studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_005",
+      "group": "QnA",
+      "label": "Geography",
+      "question": "Which counties were included in the study region mentioned in the paragraph?",
+      "answer": "The study region includes Broward County, Miami-Dade County, and Palm Beach County.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use compatibility studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use compatibility studies_qna_005",
+      "value": 1
+    }
+  ]
+}

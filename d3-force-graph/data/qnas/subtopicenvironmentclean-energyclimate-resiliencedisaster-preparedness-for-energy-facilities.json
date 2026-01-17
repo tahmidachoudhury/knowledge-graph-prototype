@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Disaster preparedness for energy facilities",
+      "label": "Disaster preparedness for energy facilities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Disaster preparedness for energy facilities_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some factors contributing to the severity of the energy crisis mentioned in the paragraph?",
+      "answer": "Factors include expensive maintenance of energy generation, lack of clean energy sources, accidents, natural catastrophes, wars, and inadequate energy storage.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Disaster preparedness for energy facilities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Disaster preparedness for energy facilities",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Disaster preparedness for energy facilities_qna_000",
+      "value": 1
+    }
+  ]
+}

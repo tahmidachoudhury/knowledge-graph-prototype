@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Carbon offset programs",
+      "label": "Carbon offset programs",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Carbon offset programs_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the current system of emission allowances impact firms' behavior towards climate mitigation?",
+      "answer": "Firms do not need to mitigate their climate impact as long as they can afford to pay for extra allowances.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Carbon offset programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Carbon offset programs",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Carbon offset programs_qna_000",
+      "value": 1
+    }
+  ]
+}

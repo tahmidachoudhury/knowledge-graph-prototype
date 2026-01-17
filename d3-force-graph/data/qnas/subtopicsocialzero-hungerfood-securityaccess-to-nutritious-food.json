@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Access to nutritious food",
+      "label": "Access to nutritious food",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Access to nutritious food_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the accessibility argument relate to food security in the Minority World context?",
+      "answer": "The accessibility argument recognizes that food is plentiful if households have the financial means to purchase it.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Access to nutritious food",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Access to nutritious food",
+      "target": "Subtopic:Social|Zero hunger|Food security|Access to nutritious food_qna_000",
+      "value": 1
+    }
+  ]
+}

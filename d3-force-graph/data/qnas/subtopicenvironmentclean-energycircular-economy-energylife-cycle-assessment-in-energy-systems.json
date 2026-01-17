@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems",
+      "label": "Life cycle assessment in energy systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which geographical area was used as the primary case study for the life cycle assessments in the study?",
+      "answer": "The UK was used as the primary case study for the life cycle assessments.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "subtopic": "Life cycle assessment in energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What framework is recognized as a valuable solution for enhancing Life Cycle Assessment?",
+      "answer": "The use of digital technologies (DTs) is recognized as a valuable solution for improving the Life Cycle Inventory phase in LCA.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "subtopic": "Life cycle assessment in energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the proper uses of Multiple Criteria Decision Analysis (CDA) methods in energy systems analysis?",
+      "answer": "Proper uses of CDA methods in energy systems analysis include evaluating renewable energy options, comparing energy efficiency measures, and selecting the most sustainable energy technologies based on multiple criteria such as cost, environmental impact, and reliability.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "subtopic": "Life cycle assessment in energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the improper uses of CDA methods in energy systems analysis?",
+      "answer": "Improper uses of CDA methods in energy systems analysis may include oversimplifying complex energy system issues, ignoring critical factors such as technological advancements or policy changes, and relying solely on quantitative data without considering qualitative aspects such as stakeholder preferences and social impacts.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "subtopic": "Life cycle assessment in energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the Integrated multidimensional sustainability assessment of energy system transformation pathways contribute to sustainable development?",
+      "answer": "The integrated sustainability assessment helps in evaluating energy system transformation pathways, which is crucial for ensuring sustainable development by considering various dimensions of sustainability simultaneously.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "subtopic": "Life cycle assessment in energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_005",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the resource life cycle dimension provide a more detailed analysis compared to previous methods?",
+      "answer": "The resource life cycle dimension, with six phases, offers more granularity than previous approaches (such as the three-phase model in Milos, 2018).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "subtopic": "Life cycle assessment in energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems",
+      "target": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems",
+      "target": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems",
+      "target": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems",
+      "target": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems",
+      "target": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems",
+      "target": "Subtopic:Environment|Clean energy|Circular economy energy|Life cycle assessment in energy systems_qna_005",
+      "value": 1
+    }
+  ]
+}

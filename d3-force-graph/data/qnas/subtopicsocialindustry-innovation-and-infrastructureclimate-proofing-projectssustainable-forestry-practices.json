@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Sustainable forestry practices",
+      "label": "Sustainable forestry practices",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Sustainable forestry practices_qna_000",
+      "group": "QnA",
+      "label": "Methodology",
+      "question": "What specific methodologies were employed in the literature search for this study?",
+      "answer": "The methodologies included a comprehensive search for scientific articles using the Web of Science Core Collection database, focusing on both general scientific articles and those specifically related to forests.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Sustainable forestry practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Sustainable forestry practices",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Sustainable forestry practices_qna_000",
+      "value": 1
+    }
+  ]
+}

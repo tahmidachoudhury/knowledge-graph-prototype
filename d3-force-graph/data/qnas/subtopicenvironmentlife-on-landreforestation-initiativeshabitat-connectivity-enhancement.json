@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Habitat connectivity enhancement",
+      "label": "Habitat connectivity enhancement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Habitat connectivity enhancement_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does functional connectivity relate to habitat availability and quality?",
+      "answer": "Functional connectivity is expected to increase with greater habitat availability and quality across the landscape, regardless of whether habitats are structurally connected or not.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Habitat connectivity enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Habitat connectivity enhancement_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is further research on improving the connection between nature and people deemed necessary?",
+      "answer": "Further research is required as it could be key to achieving sustainability.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Habitat connectivity enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Habitat connectivity enhancement",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Habitat connectivity enhancement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Habitat connectivity enhancement",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Habitat connectivity enhancement_qna_001",
+      "value": 1
+    }
+  ]
+}

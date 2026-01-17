@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Heat recovery technologies",
+      "label": "Heat recovery technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Heat recovery technologies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What effect does a reduction in temperature difference have on thermal mixing quality?",
+      "answer": "A reduction in temperature difference results in improved thermal mixing quality.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Heat recovery technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Heat recovery technologies_qna_001",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What were some of the best available technologies used to enhance the old manufacturing system?",
+      "answer": "Six of the best available technologies used to enhance the old manufacturing system included wastewater heat recovery, reusable cooling water, reactive dyes, low/unsalted dyeing processes, steam, and thermal oil pipeline transformation, exhaust gas heat recovery, alkali recovery and reuse via nanofiltration membrane, and efficient evaporation.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Heat recovery technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Heat recovery technologies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Heat recovery technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Heat recovery technologies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Heat recovery technologies_qna_001",
+      "value": 1
+    }
+  ]
+}

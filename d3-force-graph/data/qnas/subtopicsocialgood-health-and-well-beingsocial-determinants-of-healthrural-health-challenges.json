@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Rural health challenges",
+      "label": "Rural health challenges",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Rural health challenges_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is a significant challenge faced by rural areas in Ghana according to the paragraph?",
+      "answer": "A significant challenge faced by rural areas in Ghana is high poverty rates, which strongly depend on access to and utilization of natural resources.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Rural health challenges",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Rural health challenges",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Rural health challenges_qna_000",
+      "value": 1
+    }
+  ]
+}

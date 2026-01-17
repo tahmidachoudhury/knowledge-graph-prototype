@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens",
+      "label": "Rooftop gardens",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_000",
+      "group": "QnA",
+      "label": "Conservation",
+      "question": "Why are urban gardens considered important refuges for birds in Australia?",
+      "answer": "Urban gardens are important because they provide reliable food resources, sources of water, and serve as stepping stones between larger patches of intact habitat, which can help birds during habitat disturbances such as prescribed burning.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens",
+      "subtopic": "Rooftop gardens",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do gardens contribute to bird conservation in urban settings according to the paper?",
+      "answer": "Gardens contribute to bird conservation by providing reliable food resources, serving as important sources of water, and acting as stepping stones for birds moving between larger patches of intact habitat.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens",
+      "subtopic": "Rooftop gardens",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why are household gardens considered important for urban birds in Australia?",
+      "answer": "Household gardens are important as they offer reliable food resources, provide crucial water sources, and serve as stepping stones for birds moving between larger habitat patches.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens",
+      "subtopic": "Rooftop gardens",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens",
+      "target": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens",
+      "target": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens",
+      "target": "Subtopic:Social|Zero hunger|Community gardens|Rooftop gardens_qna_002",
+      "value": 1
+    }
+  ]
+}

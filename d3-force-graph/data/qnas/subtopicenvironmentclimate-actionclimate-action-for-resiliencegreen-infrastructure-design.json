@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Green infrastructure design",
+      "label": "Green infrastructure design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Green infrastructure design_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do ecosystem properties compare to thermal and water management in GI systems?",
+      "answer": "Ecosystem properties are more passive compared to thermal and water management in GI systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Green infrastructure design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Green infrastructure design",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Green infrastructure design_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection",
+      "label": "Citizen environmental data collection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does the study aim to assist legislators in addressing environmental issues?",
+      "answer": "The study aims to provide an empirical sketch to legislators that can help resolve environmental issues through green steps at the domestic level.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Citizen environmental data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How does receiving additional information on environmental impacts affect left-leaning respondents differently from centrist respondents?",
+      "answer": "Left-leaning respondents are more prone to update their knowledge on environmental impacts of local consumption when receiving additional information compared to centrist respondents.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Citizen environmental data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection_qna_001",
+      "value": 1
+    }
+  ]
+}

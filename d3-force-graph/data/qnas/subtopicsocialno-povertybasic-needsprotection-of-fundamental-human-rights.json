@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights",
+      "label": "Protection of fundamental human rights",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "According to the paragraph, what does the UN Special Rapporteur on human rights and the environment emphasize?",
+      "answer": "The UN Special Rapporteur emphasizes the human rights obligations related to the enjoyment of a safe, clean, healthy, and sustainable environment.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "subtopic": "Protection of fundamental human rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main subject of the report \"The Human Right to a Clean, Healthy and Sustainable Environment\" as mentioned in several cited documents?",
+      "answer": "The report addresses the right to a clean, healthy, and sustainable environment, highlighting the importance of environmental protection for human rights and well-being.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "subtopic": "Protection of fundamental human rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main focus of the UN Special Rapporteur on human rights and the environment's reports?",
+      "answer": "The reports focus on human rights obligations relating to the enjoyment of a safe, clean, healthy, and sustainable environment.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "subtopic": "Protection of fundamental human rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights",
+      "target": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights",
+      "target": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights",
+      "target": "Subtopic:Social|No poverty|Basic needs|Protection of fundamental human rights_qna_002",
+      "value": 1
+    }
+  ]
+}

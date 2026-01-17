@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global access to internet-based information|Internet infrastructure access",
+      "label": "Internet infrastructure access",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global access to internet-based information"
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global access to internet-based information|Internet infrastructure access_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is one of the major themes discussed in the thematic collection of Topoi regarding the information that circulates online?",
+      "answer": "One major theme addresses the quantity, quality, and nature of information circulating on the Internet and its influence on socially relevant and potentially dangerous phenomena that can affect individual decisions.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global access to internet-based information",
+      "subtopic": "Internet infrastructure access",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global access to internet-based information|Internet infrastructure access",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global access to internet-based information|Internet infrastructure access_qna_000",
+      "value": 1
+    }
+  ]
+}

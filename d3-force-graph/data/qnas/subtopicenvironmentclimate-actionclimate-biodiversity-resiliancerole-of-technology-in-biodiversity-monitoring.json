@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring",
+      "label": "Role of technology in biodiversity monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does TEK contribute to environmental management in the Philippines?",
+      "answer": "TEK contributes to sustainability and productivity in various systems such as forest management, farming practices, land management, biodiversity conservation, fisheries monitoring, and climatic adaptations.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Role of technology in biodiversity monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods were used to process the weather radar data for extracting biological targets?",
+      "answer": "The data was processed with methods optimized specifically for extracting bird targets.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Role of technology in biodiversity monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technology was used to analyze the past and present distribution patterns of Gongolaria barbata?",
+      "answer": "A GIS (Geographical Information System) database, specifically ArcGis10, was used to analyze the distribution patterns.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Role of technology in biodiversity monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is gaining popularity due to the increased accuracy of algorithms?",
+      "answer": "The use of species identification algorithms is gaining popularity.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Role of technology in biodiversity monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the role of platforms like ARBIMON in species identification?",
+      "answer": "Platforms like ARBIMON allow users to train species identification algorithms through user-friendly interfaces that require no programming skills.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Role of technology in biodiversity monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_005",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How do off-the-shelf species identification algorithms impact implementation barriers?",
+      "answer": "Off-the-shelf species identification algorithms reduce implementation barriers by requiring fewer programming skills from users.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Role of technology in biodiversity monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Role of technology in biodiversity monitoring_qna_005",
+      "value": 1
+    }
+  ]
+}

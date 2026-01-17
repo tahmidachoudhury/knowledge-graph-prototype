@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance",
+      "label": "Fauna abundance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How many OTUs were classified as abundant taxa, and how many phyla did they represent?",
+      "answer": "A total of 201 OTUs representing 10 phyla were classified as abundant taxa.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fauna abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What has been the average decline in the abundance of freshwater populations according to the Freshwater Living Planet Index from 1970 to 2016?",
+      "answer": "The average decline in the abundance of freshwater populations is 76% from 1970 to 2016.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fauna abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the implications of high nutrient availability in the Ebro Delta area?",
+      "answer": "High nutrient availability contributes to a favorable environment for fish nursery, supports high biodiversity, and includes species of commercial interest.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fauna abundance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_002",
+      "value": 1
+    }
+  ]
+}

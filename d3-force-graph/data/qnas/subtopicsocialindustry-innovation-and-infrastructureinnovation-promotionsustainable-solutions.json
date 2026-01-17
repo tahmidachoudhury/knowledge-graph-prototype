@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions",
+      "label": "Sustainable solutions",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are socio-scientific issues (SSIs) in the context of SSIBL?",
+      "answer": "In the context of SSIBL, socio-scientific issues (SSIs) refer to Anthropocene challenges, particularly the dilemma between scientific and technical development and societal change.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Sustainable solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "According to Jerneck et al. (2011), what dual focus should the field of sustainability science strive for?",
+      "answer": "The field must strive to be both problem-solving and critical.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Sustainable solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenge does the paper address regarding the application of certain approaches in sustainability science?",
+      "answer": "The paper addresses the challenge that the potential contributions of certain approaches have been limited due to their often neglected, misunderstood, or superficially applied dimensions in sustainability science.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Sustainable solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What distinguishes sustainability science from other fields of research?",
+      "answer": "Sustainability science is problem and solution-oriented rather than simply curiosity-driven, focusing on facilitating practical sustainability transformations.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Sustainable solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions_qna_004",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the consecutive solutions mentioned in the study that could lead to sustainability?",
+      "answer": "The consecutive solutions mentioned are Renewable Energy (RE), Information and Communications Technology (ICT), and circular economy.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Sustainable solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Sustainable solutions_qna_004",
+      "value": 1
+    }
+  ]
+}

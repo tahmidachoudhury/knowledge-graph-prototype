@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Mulching strategies",
+      "label": "Mulching strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Mulching strategies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How have essential oils (EOs) demonstrated their effectiveness against weeds?",
+      "answer": "EOs have shown promising herbicidal activity by inhibiting seed germination and seedling growth in various plant species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Mulching strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Mulching strategies",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Mulching strategies_qna_000",
+      "value": 1
+    }
+  ]
+}

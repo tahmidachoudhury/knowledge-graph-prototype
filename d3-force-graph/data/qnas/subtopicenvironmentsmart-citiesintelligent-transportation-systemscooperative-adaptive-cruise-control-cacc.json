@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Cooperative adaptive cruise control (cacc)",
+      "label": "Cooperative adaptive cruise control (cacc)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Cooperative adaptive cruise control (cacc)_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What advantage do central tire inflation systems (CTIS) provide?",
+      "answer": "CTIS provides the advantage of quick adjustments to tire inflation pressure, which improves traction, reduces slip and tire wear, and increases tire-soil contact area.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Cooperative adaptive cruise control (cacc)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Cooperative adaptive cruise control (cacc)",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Cooperative adaptive cruise control (cacc)_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|E-prescriptions",
+      "label": "E-prescriptions",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|E-prescriptions_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of using an EHG drug delivery system for Cel?",
+      "answer": "The purpose of using an EHG drug delivery system for Cel is to enhance biocompatibility, facilitate clinical translation, and optimize immune stimulation while overcoming the deficiencies of Cel.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "E-prescriptions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|E-prescriptions",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|E-prescriptions_qna_000",
+      "value": 1
+    }
+  ]
+}

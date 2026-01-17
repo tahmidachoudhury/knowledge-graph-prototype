@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities",
+      "label": "Addressing food deserts and inequalities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are some potential trade-offs associated with using smart solutions to address hunger issues in low-income countries?",
+      "answer": "The uneven distribution of smart solutions could minimize the capacity to address hunger issues in low-income countries.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Addressing food deserts and inequalities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In which region of the Netherlands were the intervention supermarkets located?",
+      "answer": "The intervention supermarkets were located in the east part of the Netherlands.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Addressing food deserts and inequalities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why was randomization not feasible for the supermarket selection?",
+      "answer": "Randomization was not feasible because the retailer was in charge of the supermarket selection, including the locations permitted for intervention.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Addressing food deserts and inequalities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities",
+      "target": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities",
+      "target": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities",
+      "target": "Subtopic:Social|Zero hunger|Food security|Addressing food deserts and inequalities_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management",
+      "label": "River basin management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main goal of the study conducted in the Yangtze River basin?",
+      "answer": "The main goal is to understand how socio-ecological systems (SESs) respond to land use and climate changes to develop effective integrated watershed management strategies.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "River basin management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What method does the study propose to analyze the SES in the Yangtze River basin?",
+      "answer": "The study proposes a network analysis method to construct an SES network comprising six dimensions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "River basin management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What role does the Yangtze River Basin (YRB) play in China?",
+      "answer": "The Yangtze River Basin serves as a vital ecological shield, energy hub, and agricultural heartland of China.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "River basin management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_002",
+      "value": 1
+    }
+  ]
+}

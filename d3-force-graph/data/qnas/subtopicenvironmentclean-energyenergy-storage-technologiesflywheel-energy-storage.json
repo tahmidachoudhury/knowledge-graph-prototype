@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flywheel energy storage",
+      "label": "Flywheel energy storage",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flywheel energy storage_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How much did the power factor improve for the Fe-Al-Si alloy according to Srinithi et al.?",
+      "answer": "The power factor improved from 2.5 x 10^-4 W/m K² to 8.8 x 10^-4 W/m K² for the Fe-Al-Si alloy.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Flywheel energy storage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Flywheel energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Flywheel energy storage_qna_000",
+      "value": 1
+    }
+  ]
+}

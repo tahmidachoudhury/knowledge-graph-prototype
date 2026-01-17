@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity",
+      "label": "Algal diversity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some of the key components of Spirulina platensis?",
+      "answer": "Spirulina platensis mainly consists of polysaccharides, proteins, and lipids.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Algal diversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What shift in algae taxa was observed as a result of the extreme drought-heatwave event?",
+      "answer": "The dominant algae taxa shifted from Bacillariophyta to Cyanobacteria.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Algal diversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity_qna_001",
+      "value": 1
+    }
+  ]
+}

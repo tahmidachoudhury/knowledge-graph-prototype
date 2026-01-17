@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Economic viability of geothermal energy",
+      "label": "Economic viability of geothermal energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Economic viability of geothermal energy_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How might understanding stable acceptability judgements assist in decision-making?",
+      "answer": "By understanding what factors make acceptability judgements more stable, interventions can be designed to create a more reliable basis for decision-making regarding energy technologies.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "subtopic": "Economic viability of geothermal energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Geothermal energy|Economic viability of geothermal energy",
+      "target": "Subtopic:Environment|Clean energy|Geothermal energy|Economic viability of geothermal energy_qna_000",
+      "value": 1
+    }
+  ]
+}

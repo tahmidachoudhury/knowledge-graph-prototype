@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "label": "Subject-specific training",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What method was used to analyze the lesson plans and discourse relevant to SSI teaching in the study?",
+      "answer": "The study used descriptive analysis, epistemic network analysis (ENA), and context analysis.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Subject-specific training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the two domains of learning categorized by Mezirow?",
+      "answer": "The two domains of learning categorized by Mezirow are communicative and instrumental learning.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Subject-specific training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the primary goal of unsupervised domain adaptation (UDA) in the context of segmentation tasks?",
+      "answer": "The primary goal of UDA is to train models from a source labeled domain that can generalize to an unlabeled target domain, addressing challenges in tasks with limited annotated data due to difficulty in capturing or high annotation costs.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Subject-specific training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the goal of unsupervised domain adaptation (UDA) in semantic and panoptic segmentation tasks?",
+      "answer": "The goal of UDA is to train models from a source labeled domain so that they can generalize to an unlabeled target domain, which is crucial for tasks with limited annotated data.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Subject-specific training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "target": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "target": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "target": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "target": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_003",
+      "value": 1
+    }
+  ]
+}

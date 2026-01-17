@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods",
+      "label": "Climate-resilient livelihoods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the significance of understanding the impacts of natural hazard shocks on bank stability and credit supply?",
+      "answer": "Understanding these impacts is crucial to informing policy efforts aimed at achieving sustained economic growth and employment despite increasing climate risks.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Climate-resilient livelihoods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the relationship between temperature and economic activities as inferred by the growing literature mentioned in the paragraph?",
+      "answer": "The growing literature aims to understand how temperature affects aggregate economic outcomes and emphasizes the sensitivity of economic activities to climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Climate-resilient livelihoods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the critical sustainability science research program aim to address in terms of environmental changes?",
+      "answer": "It aims to clarify social conditions and processes that drive ongoing and concerning environmental changes.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Climate-resilient livelihoods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What issue does the study address regarding climate change and human activities?",
+      "answer": "The study addresses the exacerbation of the contradiction between environmental resources and economic development due to climate change and human activities.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Climate-resilient livelihoods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-resilient livelihoods_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites",
+      "label": "Rehabilitation of mining sites",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How much REEs/C was used in the experiment with the actual mine wastewater?",
+      "answer": "In the experiment with mine wastewater, 0.1 g of REEs/C was used.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Rehabilitation of mining sites",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What ecological restoration technologies are mentioned for mine areas?",
+      "answer": "The ecological restoration technologies mentioned include physical, chemical, and biological treatment strategies, notably phytoremediation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Rehabilitation of mining sites",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the purpose of the removal experiment involving REEs/C in mine wastewater?",
+      "answer": "The purpose was to test the potential of REEs/C for practical applications in removing heavy metals from mine wastewater.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Rehabilitation of mining sites",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_002",
+      "value": 1
+    }
+  ]
+}

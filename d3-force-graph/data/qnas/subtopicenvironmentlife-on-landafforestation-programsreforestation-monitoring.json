@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring",
+      "label": "Reforestation monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is a limitation of the methods used to measure chlorophyll concentration?",
+      "answer": "While the methods provide accurate quantification, they are often limited in their ability to assess large areas comprehensively.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Reforestation monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which parameters were evaluated after 21 days of planting?",
+      "answer": "The evaluated parameters included root length, root fresh weight, root dry weight, shoot length, shoot diameter, fresh and dry weight of shoot, number of leaves, and leaf surface area.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Reforestation monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "When were the plots installed in the forest stands for data collection and dendrochronology analysis?",
+      "answer": "The plots were installed in 2019.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Reforestation monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What research techniques are combined to explore the questions stated in the paragraph?",
+      "answer": "The study combines dendroecological techniques with detailed forest inventory data.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Reforestation monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How long has the research observed intensive dry periods affecting trees?",
+      "answer": "The research has observed intensive dry periods over the last fifty years.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Reforestation monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation monitoring_qna_004",
+      "value": 1
+    }
+  ]
+}

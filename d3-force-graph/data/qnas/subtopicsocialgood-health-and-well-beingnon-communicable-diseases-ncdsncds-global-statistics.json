@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|NCDs global statistics",
+      "label": "NCDs global statistics",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|NCDs global statistics_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What issue did NCA5 authors highlight concerning DEAI?",
+      "answer": "NCA5 authors highlighted the need for a consistent definition of DEAI for the entire assessment effort.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "subtopic": "NCDs global statistics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|NCDs global statistics_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How many authors contributed to the NCA5 report?",
+      "answer": "The NCA5 report included more than 500 authors.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "subtopic": "NCDs global statistics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|NCDs global statistics",
+      "target": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|NCDs global statistics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|NCDs global statistics",
+      "target": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|NCDs global statistics_qna_001",
+      "value": 1
+    }
+  ]
+}

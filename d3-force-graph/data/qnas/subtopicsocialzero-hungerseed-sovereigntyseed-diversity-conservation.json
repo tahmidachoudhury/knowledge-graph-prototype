@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation",
+      "label": "Seed diversity conservation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenge remains in capturing adaptive diversity from Ae. tauschii and wild emmer for wheat breeding?",
+      "answer": "The challenge is how effective prior efforts were at capturing the adaptive diversity represented in these wild ancestors due to their broad adaptive range and wide geographic distribution.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Seed diversity conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What do crop improvement programs often fail to utilize from germplasm collections?",
+      "answer": "They often utilize only a small fraction of the wild relative diversity available.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Seed diversity conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is the diversity of wild relatives important for crop improvement programs?",
+      "answer": "They are a valuable source of adaptive diversity for developing improved varieties.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Seed diversity conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What complicates the selection of relevant genotypes from germplasm collections?",
+      "answer": "The size of these collections, which may include thousands of accessions, complicates the selection.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Seed diversity conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Seed diversity conservation_qna_003",
+      "value": 1
+    }
+  ]
+}

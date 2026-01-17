@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife corridor protection",
+      "label": "Wildlife corridor protection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife corridor protection_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What happened to the fences of Save Valley Conservancy between 2000 and 2001?",
+      "answer": "The fences were removed following the fast track land reform programme.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife corridor protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife corridor protection",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife corridor protection_qna_000",
+      "value": 1
+    }
+  ]
+}

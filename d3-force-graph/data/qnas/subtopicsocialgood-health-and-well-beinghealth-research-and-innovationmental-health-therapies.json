@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Mental health therapies",
+      "label": "Mental health therapies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Mental health therapies_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of apitherapy in mental health?",
+      "answer": "Apitherapy is becoming increasingly important in providing relief from mental health issues.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Mental health therapies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Mental health therapies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Mental health therapies_qna_000",
+      "value": 1
+    }
+  ]
+}

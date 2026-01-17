@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacial lake outburst floods (glofs)",
+      "label": "Glacial lake outburst floods (glofs)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacial lake outburst floods (glofs)_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much water was released due to the Kakhovka Dam collapse?",
+      "answer": "Approximately 14.4 billion cubic meters of water were released due to the dam collapse.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacial lake outburst floods (glofs)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacial lake outburst floods (glofs)",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacial lake outburst floods (glofs)_qna_000",
+      "value": 1
+    }
+  ]
+}

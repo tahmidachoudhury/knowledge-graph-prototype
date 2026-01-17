@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing",
+      "label": "Soil ph balancing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which solution was used to adjust the pH to alkaline after pouring the mixture into ice-cold water?",
+      "answer": "A saturated sodium acetate solution was used to adjust the pH to alkaline.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil ph balancing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How was the soil classified in the northern section where winter wheat was grown?",
+      "answer": "The soil in the northern section was classified as silt loam with a pH of 7.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil ph balancing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What measurement was taken for the pH in the southern section where sugar beet was grown?",
+      "answer": "The pH in the southern section was measured as 7.5.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil ph balancing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was done to the hydrolyzed root tips right before examination?",
+      "answer": "The hydrolyzed root tips were cut and squashed between a slide and a cover slip in a drop of 45% acetic acid before examination.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil ph balancing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the pH of the soil at the Swift Current site?",
+      "answer": "The pH of the soil at the Swift Current site is 6.5 (measured at a 1:2 ratio of soil to water).",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil ph balancing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the pH of the soil at Brooks?",
+      "answer": "The pH of the soil at Brooks was 7.8.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil ph balancing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the effect of pH stability when using TMEDA and DACH in cultivation?",
+      "answer": "The use of TMEDA and DACH mitigated pH fluctuations compared to the control.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil ph balancing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil ph balancing_qna_006",
+      "value": 1
+    }
+  ]
+}

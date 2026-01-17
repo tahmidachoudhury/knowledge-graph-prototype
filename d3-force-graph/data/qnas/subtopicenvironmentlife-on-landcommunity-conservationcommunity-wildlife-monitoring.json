@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "label": "Community wildlife monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the purpose of pooling data from two locations within the habitat?",
+      "answer": "To increase detection to permissible levels and capture a broad range of species without over-parameterizing the models.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What physiological marker is commonly used to study avian stress in relation to human impact?",
+      "answer": "Corticosterone is the physiological marker commonly used to study avian stress associated with human impact.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenges do species identification techniques face?",
+      "answer": "Species identification techniques can perform sub-optimally when monitoring communities with multiple overlapping vocalizing species or in environments with numerous background noises.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the purpose of the BIOMON project?",
+      "answer": "The purpose of the BIOMON project was to explore the effectiveness of acoustic indices in monitoring bird communities in biodiverse sites.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Which program is coordinated by BirdLife Cyprus for monitoring birds?",
+      "answer": "The Common Birds Monitoring Scheme (CBMS) is coordinated by BirdLife Cyprus for monitoring birds.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main objective of the paper discussed in the paragraph?",
+      "answer": "The main objective of the paper is to introduce the Multi-Modal Language Model technique to the bioacoustics community and to examine its potential and limitations.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_006",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What new monitoring strategy is being developed as described in the paragraph?",
+      "answer": "The new strategy combines non-invasive field sampling using baited tubes to collect fecal pellets and molecular species determination utilizing the mitochondrial COI gene as a barcoding marker.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_006",
+      "value": 1
+    }
+  ]
+}

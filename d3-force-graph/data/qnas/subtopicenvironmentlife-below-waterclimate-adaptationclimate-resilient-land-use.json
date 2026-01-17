@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient land use",
+      "label": "Climate-resilient land use",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient land use_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What aspects have researchers and managers focused on regarding land-use and climate changes?",
+      "answer": "Researchers and managers have concentrated on recording the influence of climate and land-use changes, particularly on individuals or a few natural properties, while overlooking the coupled interactions among socio-ecological elements.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-resilient land use",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient land use",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient land use_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "label": "Soil fertility enhancement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the application of livestock manure impact soil nutrient availability?",
+      "answer": "The application of livestock manure can increase the amount of nitrogen and phosphorous available in the soil locally, although the nutrients supplied may vary by context.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Soil fertility enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does manure impact the availability of trace elements and micronutrients in the soil?",
+      "answer": "Manure impacts the presence and availability of trace elements and micronutrients like zinc, copper, and manganese in the soil.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Soil fertility enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the advantage of combined organic-chemical fertilization compared to exclusive fertilization types?",
+      "answer": "Combined organic-chemical fertilization contributes to higher stability in soil and root microbial networks.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Soil fertility enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do gamma rays play in crop plant growth according to the paragraph?",
+      "answer": "Gamma rays act as essential physical activators for crop plant growth, yield attributes, and yields without the use of external fertilizers.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Soil fertility enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_003",
+      "value": 1
+    }
+  ]
+}

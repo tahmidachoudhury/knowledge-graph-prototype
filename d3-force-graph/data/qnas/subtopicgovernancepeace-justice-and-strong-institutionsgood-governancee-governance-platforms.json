@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|E-governance platforms",
+      "label": "E-governance platforms",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|E-governance platforms_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What opportunities does interactive governance aim to revitalize in a liberal democratic order?",
+      "answer": "It aims to appreciate, use, and revitalize the opportunities provided by a liberal democratic order.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "subtopic": "E-governance platforms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|E-governance platforms_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are potential outcomes of combining traditional and new elements in governance?",
+      "answer": "Potential outcomes include enabling more democracy, enhancing possibilities for dealing with the future, and securing citizens' rights.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "subtopic": "E-governance platforms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|E-governance platforms",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|E-governance platforms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|E-governance platforms",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|E-governance platforms_qna_001",
+      "value": 1
+    }
+  ]
+}

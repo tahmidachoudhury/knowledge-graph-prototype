@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of degraded wetlands",
+      "label": "Rehabilitation of degraded wetlands",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of degraded wetlands_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What has been identified as a consequence of ongoing wetland degradation?",
+      "answer": "Ongoing biodiversity loss is identified as a consequence of wetland degradation, indicating a need for further restoration efforts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Rehabilitation of degraded wetlands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of degraded wetlands",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of degraded wetlands_qna_000",
+      "value": 1
+    }
+  ]
+}

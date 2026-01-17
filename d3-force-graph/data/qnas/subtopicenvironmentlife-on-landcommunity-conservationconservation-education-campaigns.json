@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns",
+      "label": "Conservation education campaigns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What does the document mention regarding permission for reproduction?",
+      "answer": "The document states that reproduction for educational or non-commercial purposes is authorized with advance written notification to WWF and appropriate acknowledgement, but commercial reproduction requires prior written permission.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Conservation education campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What conditions are outlined for the reproduction of the WWF publication for educational purposes?",
+      "answer": "Reproduction of the WWF publication for educational or non-commercial purposes is authorized, provided there is an advance written notification to WWF and appropriate acknowledgment is made.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Conservation education campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How is reproduction of the WWF publication permitted?",
+      "answer": "Reproduction of the publication for educational or non-commercial purposes is authorized with advance written notification to WWF and appropriate acknowledgment, while reproduction for resale or commercial purposes requires prior written permission.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Conservation education campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Conservation education campaigns_qna_002",
+      "value": 1
+    }
+  ]
+}

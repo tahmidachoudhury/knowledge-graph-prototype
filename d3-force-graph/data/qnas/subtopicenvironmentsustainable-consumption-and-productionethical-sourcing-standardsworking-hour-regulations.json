@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Working hour regulations",
+      "label": "Working hour regulations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Working hour regulations_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What might be the impact of increasing regulations on businesses?",
+      "answer": "Increased regulations may lead to higher time, costs, and risks associated with opening and operating a business.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "subtopic": "Working hour regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Working hour regulations",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Working hour regulations_qna_000",
+      "value": 1
+    }
+  ]
+}

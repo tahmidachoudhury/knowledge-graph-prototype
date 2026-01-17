@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species habitat restoration",
+      "label": "Species habitat restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species habitat restoration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the main cause of habitat loss for the swift parrot?",
+      "answer": "Forest degradation is the major cause of habitat loss for species that rely on old forest features, including the swift parrot.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species habitat restoration_qna_001",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What do cleared and regenerating forests represent for the swift parrot population?",
+      "answer": "Cleared and regenerating forests represent a detrimental, long-term loss of habitat for the swift parrot population.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species habitat restoration",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species habitat restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species habitat restoration",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species habitat restoration_qna_001",
+      "value": 1
+    }
+  ]
+}

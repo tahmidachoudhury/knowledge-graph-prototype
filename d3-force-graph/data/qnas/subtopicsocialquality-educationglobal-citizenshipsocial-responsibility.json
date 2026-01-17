@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Social responsibility",
+      "label": "Social responsibility",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Social responsibility_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the primary focus of the paragraph regarding human responsibility?",
+      "answer": "The primary focus is on reaffirming our relations to Earth and recognizing our responsibility to practice relationships with responsibility, reciprocity, and respect towards all beings.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Social responsibility",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Social responsibility_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the Social Identity Theory (SIT) contribute to predicting responsible behaviour?",
+      "answer": "The SIT is highly regarded as the main motive for predicting responsible behaviour, as mentioned by Han et al. (2021). It has been used to predict various consumer behaviours, including Hijab fashion by Blandly and Salem (2022).",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Social responsibility",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Social responsibility",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Social responsibility_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Social responsibility",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Social responsibility_qna_001",
+      "value": 1
+    }
+  ]
+}

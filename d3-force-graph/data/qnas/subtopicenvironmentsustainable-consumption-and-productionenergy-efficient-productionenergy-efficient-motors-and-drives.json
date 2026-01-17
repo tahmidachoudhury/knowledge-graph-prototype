@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives",
+      "label": "Energy-efficient motors and drives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How has increased fuel use efficiency been achieved in modern tractors?",
+      "answer": "Increased fuel use efficiency has been achieved by power/load matching and the use of variable transmission.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Energy-efficient motors and drives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do increases in silicon content affect the properties of silicon steels?",
+      "answer": "Increasing the Si content significantly improves the magnetic properties of silicon steels, enabling rapid magnetization and demagnetization and reducing energy losses associated with hysteresis and eddy currents.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Energy-efficient motors and drives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives_qna_001",
+      "value": 1
+    }
+  ]
+}

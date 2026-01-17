@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Stem curriculum integration",
+      "label": "Stem curriculum integration",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Stem curriculum integration_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What challenges does the integration of SSI into science education present?",
+      "answer": "The integration of SSI into science education presents challenges related to engaging students in controversial and ill-structured problems that require interdisciplinary thinking and evidence-based reasoning.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "subtopic": "Stem curriculum integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Stem education|Stem curriculum integration",
+      "target": "Subtopic:Social|Quality education|Stem education|Stem curriculum integration_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Adaptive water supply systems",
+      "label": "Adaptive water supply systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Adaptive water supply systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has shown a fluctuating change and remains a key to synergistic development according to the analysis?",
+      "answer": "The water resources system has shown a fluctuating change and is still the key to synergistic development.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Adaptive water supply systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Adaptive water supply systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Adaptive water supply systems_qna_000",
+      "value": 1
+    }
+  ]
+}

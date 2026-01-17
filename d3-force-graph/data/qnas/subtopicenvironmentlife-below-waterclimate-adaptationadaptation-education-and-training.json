@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Adaptation education and training",
+      "label": "Adaptation education and training",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Adaptation education and training_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is familiarity with climate adaptation strategies important for marginalized households?",
+      "answer": "Familiarity with climate adaptation strategies can influence their support for the development of such measures, especially for households lacking private resources who need government assistance.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Adaptation education and training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Adaptation education and training",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Adaptation education and training_qna_000",
+      "value": 1
+    }
+  ]
+}

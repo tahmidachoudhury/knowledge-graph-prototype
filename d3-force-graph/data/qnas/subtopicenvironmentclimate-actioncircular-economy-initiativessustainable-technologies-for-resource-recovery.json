@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Sustainable technologies for resource recovery",
+      "label": "Sustainable technologies for resource recovery",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Sustainable technologies for resource recovery_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is necessary for supporting innovations in radiology related to sustainability?",
+      "answer": "Deeper collaboration with industry partners is necessary to support innovations in the supply chain, energy utilization, and circular economy.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Sustainable technologies for resource recovery",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Sustainable technologies for resource recovery",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Sustainable technologies for resource recovery_qna_000",
+      "value": 1
+    }
+  ]
+}

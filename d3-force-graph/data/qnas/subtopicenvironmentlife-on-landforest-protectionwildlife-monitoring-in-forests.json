@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "label": "Wildlife monitoring in forests",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of biological targets does the VP data estimate?",
+      "answer": "The VP data estimates density, speed, and direction of biological targets such as birds, bats, and insects.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_001",
+      "group": "QnA",
+      "label": "Ecology and regulation",
+      "question": "What features of the swift parrot's foraging trees are important for its feeding habits?",
+      "answer": "The mean diameter-at-breast-height (DBH) of foraging trees is important; swift parrots typically forage on trees with a DBH of 84 cm, while younger trees with a mean DBH of 59 cm are not foraged.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods are ecologists using to study and monitor ecological changes?",
+      "answer": "Ecologists are increasingly using automated data collection and monitoring methods, including sensors such as cameras and acoustic recorders.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of sounds are included in field recordings mentioned in the paragraph?",
+      "answer": "Field recordings can include a broad array of sounds from diverse animals such as birds, frogs, whales, insects, and bats.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the primary development purpose of hair traps?",
+      "answer": "Hair traps were primarily developed for detecting arboreal species, specifically dormice, but can also be used for other species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is one non-invasive method used for monitoring small mammal distribution?",
+      "answer": "Owl pellet analysis is one non-invasive method used for obtaining small mammal remains.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_006",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some limitations of owl pellet analysis for large scale monitoring?",
+      "answer": "Limitations include: a) applicability is limited to areas with relevant birds of prey, b) prey preferences of birds can introduce bias, c) limited hunting ground range, and d) known locality of pellet regurgitation but not the original habitat of the prey.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_007",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods are mentioned for detecting small mammals and other species?",
+      "answer": "The methods mentioned include hair traps, nest boxes, non-invasive baited tubes, and camera traps.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_007",
+      "value": 1
+    }
+  ]
+}

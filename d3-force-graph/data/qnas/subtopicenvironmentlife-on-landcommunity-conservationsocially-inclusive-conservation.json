@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Socially inclusive conservation",
+      "label": "Socially inclusive conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Socially inclusive conservation_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What role do socioeconomic inequalities play in environmental sustainability efforts?",
+      "answer": "Socioeconomic inequalities hinder cooperation in sustainability efforts and contribute to biodiversity loss.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Socially inclusive conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Socially inclusive conservation_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "In what area has the application of social ecology theory been primarily limited in Botswana, according to the paragraph?",
+      "answer": "The application of social ecology theory has primarily been limited to wildlife management in Botswana.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Socially inclusive conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Socially inclusive conservation",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Socially inclusive conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Socially inclusive conservation",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Socially inclusive conservation_qna_001",
+      "value": 1
+    }
+  ]
+}

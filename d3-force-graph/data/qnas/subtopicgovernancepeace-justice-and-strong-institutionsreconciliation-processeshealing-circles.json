@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Healing circles",
+      "label": "Healing circles",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Reconciliation processes"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Healing circles_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the main focus of the Kinship Circle book club's article?",
+      "answer": "The article focuses on reflections regarding sustainability and the importance of decentering the human experience to include other-than-human beings, based on discussions from the book series \"Kinship: Belonging in a World of Relations.\"",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Reconciliation processes",
+      "subtopic": "Healing circles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Healing circles_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the purpose of the Kinship Circle framework mentioned in the paragraph?",
+      "answer": "The purpose of the Kinship Circle framework is to apply concepts of decentering humans in educational settings and to promote Earth-centered ethics rooted in humility and responsibility.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Reconciliation processes",
+      "subtopic": "Healing circles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Healing circles",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Healing circles_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Healing circles",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Reconciliation processes|Healing circles_qna_001",
+      "value": 1
+    }
+  ]
+}

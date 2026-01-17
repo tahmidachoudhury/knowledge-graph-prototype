@@ -1,0 +1,204 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "label": "Traffic simulation and modeling tools",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can managers enhance their decision-making process through evaluating the strengths and weaknesses of various simulation tools?",
+      "answer": "Managers can improve decision-making by identifying the strengths and weaknesses of different simulation tools, allowing them to select tools that can be seamlessly integrated into existing systems for a more efficient workflow.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic simulation and modeling tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What significant advancement has occurred in the twenty-first century regarding the study of complex flow problems?",
+      "answer": "The computational fluid dynamics (CFD) field has gained a significant boost in solving complex flow problems numerically.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic simulation and modeling tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did Gauder et al. contribute to the understanding of CFD problems?",
+      "answer": "Gauder et al. compared various turbulent models (LES, DES, and RANS) in CFD, contributing to the understanding of CFD problem sources and establishing guidelines for future numerical model applications.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic simulation and modeling tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What software was used for gas solid flow modeling in this research?",
+      "answer": "The research utilized ANSYS 16.0 for gas solid flow modeling.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic simulation and modeling tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How are 2D and 3D modeling described in terms of their roles in CFD solutions?",
+      "answer": "2D modeling is faster and sufficient for most parameters, while 3D modeling is required for detailed analysis and optimization.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic simulation and modeling tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is required to ensure the accuracy and reliability of complex mathematical models used in CFD software?",
+      "answer": "The complex mathematical models used in CFD software need to be verified and validated to ensure their accuracy and reliability.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic simulation and modeling tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why do Cammarata et al. suggest that three-dimensional simulations are more appropriate for validating CFD models?",
+      "answer": "They suggest that three-dimensional simulations provide a more accurate representation of gas and solid phase movements.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic simulation and modeling tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_007",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What advantage do 2D models offer despite their limitations?",
+      "answer": "2D models can offer valuable insights into global flow trends and are more practical for initial design assessments.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic simulation and modeling tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_008",
+      "group": "QnA",
+      "label": "",
+      "question": "How can quantitative modelling of transport flows help in evaluating balanced policy packages for mobility systems?",
+      "answer": "Quantitative modelling of transport flows can help in evaluating balanced policy packages for mobility systems by providing a tool to explore potential implications of implementing different measures. It can assist in understanding the impact of measures such as taxation levels or the introduction of driving bans on transport flows and overall system behaviour.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic simulation and modeling tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_009",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the ranking of Tool3 among the simulation tools?",
+      "answer": "Tool3 is ranked as the first among the simulation tools for Mass in autonomous vehicles.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic simulation and modeling tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic simulation and modeling tools_qna_009",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions",
+      "label": "Civil society coalitions",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the two types of coalitions mentioned regarding stability?",
+      "answer": "The stability of the grand coalition and the stability of coalitions composed of a small number of countries.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "subtopic": "Civil society coalitions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How has the government’s authoritarian approach affected civil society actors?",
+      "answer": "It has led civil society actors to collaborate more closely together, resulting in a stronger counter-movement than before.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "subtopic": "Civil society coalitions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How do the participation motives of civil society organizations differ from those of participating companies?",
+      "answer": "Civil society organizations often weight the participation motives differently than the participating companies, impacting their engagement in MSIs.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Civil society engagement",
+      "subtopic": "Civil society coalitions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Civil society engagement|Civil society coalitions_qna_002",
+      "value": 1
+    }
+  ]
+}

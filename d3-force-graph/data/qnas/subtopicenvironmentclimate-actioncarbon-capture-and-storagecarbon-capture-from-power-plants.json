@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants",
+      "label": "Carbon capture from power plants",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the production of greenhouse gas emissions in Sri Lanka differ from the U.S.?",
+      "answer": "The production of greenhouse gas emissions in Sri Lanka did not consider building energy use, which underestimates the environmental impact of production compared to the U.S.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture from power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How are consumption-based CO2 emissions different from production-based emissions?",
+      "answer": "Consumption-based CO2 emissions consider the emissions traded with goods in addition to production-based emissions, providing a more comprehensive view of a country's total emissions impact.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture from power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the effect of the scrubber on particle number concentrations at the 20 kW and 60 kW loads?",
+      "answer": "The particle number concentrations were reduced by 25% at the 20 kW load and by 38% at the 60 kW load after passing through the scrubber.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture from power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which greenhouse gas emissions does the analysis primarily focus on and why?",
+      "answer": "The analysis primarily focuses on carbon dioxide (CO2) emissions because they account for the largest share of GHG emissions and are largely by-products of energy consumption.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture from power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture from power plants_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife disease management",
+      "label": "Wildlife disease management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife disease management_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the financial implications of rabies prevention and control in the US?",
+      "answer": "Billions of US dollars are forfeited annually for rabies prevention and control measures in response to rabies outbreaks caused by bats.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife disease management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife disease management",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife disease management_qna_000",
+      "value": 1
+    }
+  ]
+}

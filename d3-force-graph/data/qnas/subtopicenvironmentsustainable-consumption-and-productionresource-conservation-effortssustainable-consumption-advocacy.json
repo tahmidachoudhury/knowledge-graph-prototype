@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable consumption advocacy",
+      "label": "Sustainable consumption advocacy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable consumption advocacy_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What does advertising promote according to the paragraph?",
+      "answer": "Advertising promotes consumption, early disposal, and ownership of the latest trends, appealing to the desire for status.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Sustainable consumption advocacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable consumption advocacy_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What shift is occurring among green economy and sustainable consumption advocates in high-income countries?",
+      "answer": "Advocates are shifting their focus towards understanding the global environmental impacts of national economic activity rather than solely focusing on local consumption to address the rising extraterritorial environmental impacts.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Sustainable consumption advocacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable consumption advocacy",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable consumption advocacy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable consumption advocacy",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Sustainable consumption advocacy_qna_001",
+      "value": 1
+    }
+  ]
+}

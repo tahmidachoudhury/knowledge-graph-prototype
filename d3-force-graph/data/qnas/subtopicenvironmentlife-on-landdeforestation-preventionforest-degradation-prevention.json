@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention",
+      "label": "Forest degradation prevention",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the relationship between forest degradation and deforestation mentioned in the paragraph?",
+      "answer": "Degradation was 6.5 times that of deforestation, meaning that forest degradation is significantly more prevalent than deforestation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest degradation prevention",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is reducing deforestation and forest degradation an important objective for environmental agendas?",
+      "answer": "Reducing deforestation and forest degradation aims to arrest biodiversity loss, reduce emissions, and tackle climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest degradation prevention",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What are some of the threats facing the forests in the transboundary forest landscape of West Africa mentioned in the paragraph?",
+      "answer": "The forests are threatened by large-scale deforestation caused by factors such as agriculture, mining, infrastructural development, and pollution from various economic sectors.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest degradation prevention",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the CALM framework propose to address the pressures on forest landscapes in West Africa?",
+      "answer": "The CALM framework proposes to engage various stakeholders in individual, collective, and collaborative actions to avoid and secure priority areas for biodiversity, mitigate and manage induced cumulative effects, and restore degraded ecosystems.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest degradation prevention",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest degradation prevention_qna_003",
+      "value": 1
+    }
+  ]
+}

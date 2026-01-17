@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Price stability",
+      "label": "Price stability",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Price stability_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the sections included in the structure of the paper?",
+      "answer": "The paper includes sections on the theoretical background, factors influencing stability, methods and results of Study 1 and Study 2, a discussion of the results, and a conclusion of the research.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Price stability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Price stability",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Price stability_qna_000",
+      "value": 1
+    }
+  ]
+}

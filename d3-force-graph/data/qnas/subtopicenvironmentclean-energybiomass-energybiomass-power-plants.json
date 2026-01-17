@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants",
+      "label": "Biomass power plants",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is a key benefit of combustion of woody biomass in fluidized bed systems?",
+      "answer": "It efficiently converts a wide range of biomass types into heat and power and has the potential for carbon neutral operations.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of biomass can fluidized beds accommodate?",
+      "answer": "Fluidized beds can accommodate a wide variety of biomass types, including those with high moisture or ash content.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the research on fluidized bed technology contribute to renewable energy applications?",
+      "answer": "The research highlights the versatility of fluidized bed technology in accommodating various biomass conversion processes, which broadens the scope of renewable energy applications.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the main benefit of the studies conducted on fluidized bed reactors according to the paragraph?",
+      "answer": "The studies emphasize the critical role of advanced modeling and simulation techniques in enhancing the understanding of fluidized bed reactors, leading to more efficient and sustainable energy production from woody biomass.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What aspect of fluidized bed reactors have modeling studies explored?",
+      "answer": "Modeling studies have explored the differences between 2D and 3D simulation results, particularly regarding aerodynamics within fluidized bed reactors.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What advantage do 3D models have over 2D models in the context of biomass gasification?",
+      "answer": "3D models provide a more comprehensive understanding of complex flow patterns and interactions within the fluidized bed, which are crucial for optimizing gasification efficiency and reactor design.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_006",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How do 3D models compare to 2D models in modeling fluidized bed combustion systems?",
+      "answer": "3D models provide a more detailed and comprehensive representation of physical phenomena but require higher computational resources compared to 2D models.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass power plants_qna_006",
+      "value": 1
+    }
+  ]
+}

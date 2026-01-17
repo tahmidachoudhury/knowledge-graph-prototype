@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon farming practices",
+      "label": "Carbon farming practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon farming practices_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What role can agriculture play in relation to greenhouse gas emissions?",
+      "answer": "Agriculture can act as both a source and a sink of GHG emissions, with the potential to sequester an estimated 4% of global GHG emissions by the end of the century.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Carbon farming practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon farming practices_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the significance of cultivated S. japonica in terms of its uses?",
+      "answer": "Cultivated S. japonica is used as human food, animal feeds, industrial raw materials, and contributes to oceanic carbon sequestration.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Carbon farming practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon farming practices",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon farming practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon farming practices",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Carbon farming practices_qna_001",
+      "value": 1
+    }
+  ]
+}

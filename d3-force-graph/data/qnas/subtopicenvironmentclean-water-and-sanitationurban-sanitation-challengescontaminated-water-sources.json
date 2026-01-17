@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources",
+      "label": "Contaminated water sources",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the UNEP unintentional POP inventory toolkit focus on?",
+      "answer": "The UNEP unintentional POP inventory toolkit contains a dedicated chapter on contaminated sites, highlighting the significance of historic reservoirs and releases of unintentionally produced POPs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Contaminated water sources",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is a major source of DEET pollution in water systems?",
+      "answer": "A major source of DEET pollution in water systems is its significant use in personal care products and applications in agriculture.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Contaminated water sources",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What are some of the threats to the quality of water resources worldwide according to the cited sources?",
+      "answer": "The quality of water resources is threatened by processes along watercourses, including geogenic processes and human activities as mentioned by Scott et al. (2017) and Mishra and Sharma (2021).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Contaminated water sources",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_002",
+      "value": 1
+    }
+  ]
+}

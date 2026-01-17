@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest preservation",
+      "label": "Forest preservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest preservation_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is distinguishing different types of forest loss important for conservation policies?",
+      "answer": "Distinguishing between types of forest loss is vital because it helps inform effective conservation and land use policy, considering the impact of altered processes and drivers on forest quality.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Forest preservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest preservation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Tasmanian forests are considered intact or of high integrity?",
+      "answer": "Only a third of Tasmanian forests remaining are intact or of high integrity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Forest preservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Forest preservation",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Forest preservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Forest preservation",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Forest preservation_qna_001",
+      "value": 1
+    }
+  ]
+}

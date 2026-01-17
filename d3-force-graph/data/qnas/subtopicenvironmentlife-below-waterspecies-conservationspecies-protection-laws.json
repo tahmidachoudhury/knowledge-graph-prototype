@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species protection laws",
+      "label": "Species protection laws",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_000",
+      "group": "QnA",
+      "label": "Regulation",
+      "question": "What is the German BNatschG law concerned with?",
+      "answer": "The German BNatschG law is concerned with the protection of many species, including those of conservation concern.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species protection laws",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What legal document prohibits the indiscriminate use of killing traps in mammals monitoring?",
+      "answer": "The Berne Convention prohibits the indiscriminate use of killing traps, and this has been adapted in the EU by Decision 82/72/EEC and subsequently enforced in Germany by law since 2005.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species protection laws",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What does Germany's federal law on nature protection state regarding trapping?",
+      "answer": "Germany's federal law on nature protection generally bans trapping, including live traps, if it is associated with avoidable pain, suffering, or harm.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species protection laws",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species protection laws",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species protection laws",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species protection laws",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_002",
+      "value": 1
+    }
+  ]
+}

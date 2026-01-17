@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Seagrass diversity",
+      "label": "Seagrass diversity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Seagrass diversity_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the study on biodiversity patterns in seagrass mosaics?",
+      "answer": "The study examines the effects of habitat fragmentation on epifauna and infauna within eelgrass meadows, particularly in relation to different fragmentation levels and patch zones.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Seagrass diversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Seagrass diversity",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Seagrass diversity_qna_000",
+      "value": 1
+    }
+  ]
+}

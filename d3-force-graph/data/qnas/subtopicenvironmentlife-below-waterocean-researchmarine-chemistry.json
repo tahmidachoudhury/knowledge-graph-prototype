@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine chemistry",
+      "label": "Marine chemistry",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine chemistry_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role does stable isotope analysis play in the study of water quality?",
+      "answer": "Stable isotope analysis reveals marine and freshwater interactions, which influence the water's chemical composition.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine chemistry",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine chemistry",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine chemistry_qna_000",
+      "value": 1
+    }
+  ]
+}

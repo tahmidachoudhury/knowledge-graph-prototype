@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas",
+      "label": "Disruptive ideas",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What innovation is included in the SPM regarding transformative potential?",
+      "answer": "The innovation is a checklist that allows interested parties to assess the transformative potential of policies, projects, and initiatives across all sectors.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Disruptive ideas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "According to Mezirow, what triggers the transformative learning process?",
+      "answer": "The transformative learning process is typically triggered by a disorienting event, which can be either dramatic or gradual.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Disruptive ideas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why can business model innovations be challenging to implement, especially when they contradict mainstream business logic?",
+      "answer": "Business model innovations can be difficult to implement when they oppose mainstream business logic, making it challenging for companies to adopt new strategies that deviate from the norm.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Disruptive ideas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Disruptive ideas_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation laws",
+      "label": "Wildlife conservation laws",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation laws_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What paperwork is required for studies involving live trapping of small mammals?",
+      "answer": "Paperwork is required to obtain exceptions from the laws for the specific study sites.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife conservation laws",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation laws_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What must governments enact and enforce to ensure that everyone can enjoy their rights in relation to the environment?",
+      "answer": "Governments must enact and enforce laws and policies to protect the environment, such as restrictions on fossil fuels, laws to protect endangered species, and funding for ecological restoration.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife conservation laws",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation laws",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation laws_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation laws",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation laws_qna_001",
+      "value": 1
+    }
+  ]
+}

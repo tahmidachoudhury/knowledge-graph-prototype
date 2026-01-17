@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms",
+      "label": "Carbon credit trading platforms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What financial turnover did the carbon emissions trading reach by December 2020?",
+      "answer": "The turnover reached approximately 10.55 billion yuan.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Carbon credit trading platforms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is it necessary to forecast carbon prices accurately?",
+      "answer": "Accurate forecasting of carbon prices is necessary to enhance the enthusiasm of market participants and to mitigate risks associated with excessive price fluctuations in the market.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Carbon credit trading platforms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What characteristics do carbon prices exhibit that complicate their prediction?",
+      "answer": "Carbon prices exhibit non-stationarity, nonlinearity, multi-scale, and chaos, which complicate their prediction.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Carbon credit trading platforms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "According to the GHG Market Sentiment Survey 2021, how have global carbon markets reacted to COVID-19?",
+      "answer": "The survey indicates that global carbon markets have been resilient to the effects of COVID-19.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Carbon credit trading platforms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon credit trading platforms_qna_003",
+      "value": 1
+    }
+  ]
+}

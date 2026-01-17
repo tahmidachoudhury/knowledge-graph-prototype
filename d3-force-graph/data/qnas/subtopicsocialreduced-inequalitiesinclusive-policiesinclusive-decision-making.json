@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Inclusive decision-making",
+      "label": "Inclusive decision-making",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Inclusive decision-making_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why do the authors believe their approach increases external validity?",
+      "answer": "The authors believe their approach increases external validity because they examine acceptability judgments over periods that are more relevant for policymaking in real-world contexts.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "subtopic": "Inclusive decision-making",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Inclusive decision-making_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can MAES contribute to policy and decision-making processes?",
+      "answer": "MAES can significantly increase stakeholder awareness and guide specific decisions, contributing to policy and decision-making at various levels.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "subtopic": "Inclusive decision-making",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive policies|Inclusive decision-making",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive policies|Inclusive decision-making_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive policies|Inclusive decision-making",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive policies|Inclusive decision-making_qna_001",
+      "value": 1
+    }
+  ]
+}

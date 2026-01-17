@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Timber trade regulation",
+      "label": "Timber trade regulation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Timber trade regulation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is one of the challenges mentioned regarding EU forest policy discussions?",
+      "answer": "A challenge involves polarized discussions around the legitimacy of the EU's legal competence on forests, especially as some member states oppose it due to conflicts with their national interests.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Timber trade regulation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Timber trade regulation_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What role does trade play in relation to biodiversity according to the paragraph?",
+      "answer": "The paragraph highlights that trade impacts biodiversity, specifically through discussions on forest-risk commodities and their overseas impacts, underscoring the intersection between trade and environmental policies.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Timber trade regulation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Timber trade regulation",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Timber trade regulation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Timber trade regulation",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Timber trade regulation_qna_001",
+      "value": 1
+    }
+  ]
+}

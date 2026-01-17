@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Small-scale fisheries",
+      "label": "Small-scale fisheries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Small-scale fisheries_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In which location did the case study take place?",
+      "answer": "The case study took place in a riverine fishing community along the Nabaoy River in Aklan province, Central Philippines.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Small-scale fisheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Small-scale fisheries",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Small-scale fisheries_qna_000",
+      "value": 1
+    }
+  ]
+}

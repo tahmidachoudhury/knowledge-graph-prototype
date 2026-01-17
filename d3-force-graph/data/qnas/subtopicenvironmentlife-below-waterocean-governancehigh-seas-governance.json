@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|High seas governance",
+      "label": "High seas governance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|High seas governance_qna_000",
+      "group": "QnA",
+      "label": "Governance",
+      "question": "How does the article suggest multi-level governance could contribute to the NSR?",
+      "answer": "The article suggests that multi-level governance could assist in securing local effects, resolving disputes beyond trade, integrating member countries, and raising environmental sustainability within the NSR framework.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "High seas governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|High seas governance_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the article suggest that multi-level governance could assist in relation to the NSR?",
+      "answer": "The article suggests that multi-level governance could assist in securing local effects, resolving disputes beyond trade, integrating member countries, and raising environmental sustainability through effective governance mechanisms.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "High seas governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|High seas governance_qna_002",
+      "group": "QnA",
+      "label": "Governance and participation",
+      "question": "Who are some of the authors associated with the terminology and concepts of governance mentioned in the paragraph?",
+      "answer": "Key authors include Kooiman, Marin & Mayntz, Ansell & Gash, McQueen et al., Gonser & Schmid, Torng et al., and Evers & von Essen.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "High seas governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|High seas governance",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|High seas governance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|High seas governance",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|High seas governance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|High seas governance",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|High seas governance_qna_002",
+      "value": 1
+    }
+  ]
+}

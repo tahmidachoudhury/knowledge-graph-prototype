@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Enhanced geothermal systems (egs)",
+      "label": "Enhanced geothermal systems (egs)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Enhanced geothermal systems (egs)_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is interpreting ES hotspot/coldspot dynamics in GAA crucial?",
+      "answer": "It is important to interpret these dynamics with caution.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "subtopic": "Enhanced geothermal systems (egs)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Geothermal energy|Enhanced geothermal systems (egs)",
+      "target": "Subtopic:Environment|Clean energy|Geothermal energy|Enhanced geothermal systems (egs)_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Gender identity|Non-binary identities",
+      "label": "Non-binary identities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender identity"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Gender identity|Non-binary identities_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the identities mentioned for Kendall in the paragraph?",
+      "answer": "Kendall is a fourth-generation settler of the Keweenaw, a queer, non-binary humanities Ph.D. candidate, and practices shamanism.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender identity",
+      "subtopic": "Non-binary identities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Gender identity|Non-binary identities",
+      "target": "Subtopic:Social|Gender equity|Gender identity|Non-binary identities_qna_000",
+      "value": 1
+    }
+  ]
+}

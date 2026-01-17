@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans",
+      "label": "Species recovery plans",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "For what type of analyses is the Species Threat Abatement and Restoration most effective?",
+      "answer": "The Species Threat Abatement and Restoration is most effective for forward-looking analyses of impact risk hot-spots and global extinctions mitigation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species recovery plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenge is mentioned regarding the assessment of swift parrot habitat loss?",
+      "answer": "No quantitative range-wide assessment of habitat loss has been undertaken, despite being listed in recovery plans for over a decade.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species recovery plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the purpose of the Green Status assessments in relation to species conservation?",
+      "answer": "The Green Status assessments provide a tool for assessing the recovery of species populations and measuring their conservation success.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species recovery plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "How has the IUCN Red List's new Green Status assessments improved our understanding of species extinction risk and recovery?",
+      "answer": "Green Status assessments provide a tool for assessing the recovery of species populations and measuring conservation success, revealing that some species may have a low extinction risk but remain depleted compared to their historical population levels.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species recovery plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_004",
+      "group": "QnA",
+      "label": "",
+      "question": "What does the Green Status of Species provide in relation to species recovery and conservation?",
+      "answer": "The Green Status of Species provides a tool for assessing the recovery of species populations and measuring their conservation success over time.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species recovery plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_005",
+      "group": "QnA",
+      "label": "",
+      "question": "What does the Green Status of Species provide in relation to species recovery?",
+      "answer": "The Green Status of Species provides a tool for assessing the recovery of populations and measuring conservation success, revealing the past, current, and potential future impact of conservation efforts for species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species recovery plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species recovery plans_qna_005",
+      "value": 1
+    }
+  ]
+}

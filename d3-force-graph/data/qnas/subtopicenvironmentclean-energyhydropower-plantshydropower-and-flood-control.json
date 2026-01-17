@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and flood control",
+      "label": "Hydropower and flood control",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and flood control_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What event in the past 20 years has demonstrated the mobilisation of POPs/PBTs?",
+      "answer": "Large floods have demonstrated the mobilisation of POPs/PBTs from reservoirs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower and flood control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and flood control",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and flood control_qna_000",
+      "value": 1
+    }
+  ]
+}

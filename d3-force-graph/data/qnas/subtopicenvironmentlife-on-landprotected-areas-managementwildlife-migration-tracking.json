@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking",
+      "label": "Wildlife migration tracking",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How far did GPS tagged lapwings typically stay from their nests during the breeding period?",
+      "answer": "GPS tagged lapwings stayed close to their nests throughout the breeding period, at an average distance of 207 153 m.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife migration tracking",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What data was recorded regarding the nests?",
+      "answer": "The number and incubation stage of the eggs, as well as the exact location of the nest (averaged GPS coordinates) with a precision of approximately 3 m, were recorded.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife migration tracking",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What equipment was used to track the Lapwings?",
+      "answer": "GPS devices were equipped on the Lapwings at each of the seven study sites during the breeding seasons of 2022 and 2023.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife migration tracking",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why were certain individuals excluded from the study on habitat selection?",
+      "answer": "Individuals were excluded if they failed reproduction and wandered away from the nest site, as well as three individuals due to GPS malfunctioning.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife migration tracking",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What percentage of the GPS tracking fixes fell within the nest buffer zone?",
+      "answer": "The mean percentage of all GPS fixes that fell inside the nest buffer zone was 80.0% with a standard deviation of 17.3%.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife migration tracking",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What do weather radars detect besides weather?",
+      "answer": "Weather radars also continuously register the movements of billions of animals aloft in the lower atmosphere.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife migration tracking",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_006",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What has contributed to the expansion of understanding aerial animal movements in Europe?",
+      "answer": "The comprehensive datasets gathered from weather surveillance radars provide new avenues for understanding continental scale movements of aerial animals.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife migration tracking",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_007",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the two public datasets derived from European weather radars focused on?",
+      "answer": "The datasets focus on animal movement data, particularly bird migration.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife migration tracking",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife migration tracking_qna_007",
+      "value": 1
+    }
+  ]
+}

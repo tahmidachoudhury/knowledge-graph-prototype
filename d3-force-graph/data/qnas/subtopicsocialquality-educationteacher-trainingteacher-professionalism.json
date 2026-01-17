@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism",
+      "label": "Teacher professionalism",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What do the findings suggest about professional engagement in communities for teachers?",
+      "answer": "The findings suggest that practical engagement in professional communities may effectively foster teachers' SSI teaching skills, which can inform the design of professional development programs in SSI education.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Teacher professionalism",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism_qna_001",
+      "group": "QnA",
+      "label": "Education",
+      "question": "What aspect of teachers is focused on in the studies mentioned regarding PD programs?",
+      "answer": "The studies focus on teachers' beliefs, pedagogical content knowledge, attributes, or epistemic frames related to effective SSI teaching or qualitative lesson planning.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Teacher professionalism",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism",
+      "target": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism",
+      "target": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism_qna_001",
+      "value": 1
+    }
+  ]
+}

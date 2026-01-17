@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control",
+      "label": "Invasive species control",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of species are considered non-native invasive winners according to the paragraph?",
+      "answer": "1-2% of species could be considered non-native invasive winners.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Invasive species control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the potential ecological harm associated with spreading agents in herbicide applications?",
+      "answer": "Spreading agents may adhere to non-target species, including insects, which poses a risk of ecological harm.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Invasive species control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is Target 6 focused on within the GBF framework?",
+      "answer": "Target 6 aims to reduce the introduction of Invasive Alien Species (IAS) by 50% by 2030 and minimize their impact, particularly in priority sites such as islands.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Invasive species control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which biotic interaction was found to have a significant influence on ecological status?",
+      "answer": "Interspecific competition was identified as a significant biotic interaction influencing ecological status.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Invasive species control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Invasive species control_qna_003",
+      "value": 1
+    }
+  ]
+}

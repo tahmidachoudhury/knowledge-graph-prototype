@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping",
+      "label": "Wildlife habitat mapping",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What do the colored lines on the map represent?",
+      "answer": "The colored lines represent the location of transects: Orange for Disturbed Habitat MH1, Yellow and Red for Forest Habitat MH2, and Blue for Edge Habitat MH3.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping_qna_001",
+      "group": "QnA",
+      "label": "Ecology and habitat management",
+      "question": "What did the GIS analysis reveal about the habitat preferences of M. aculeata?",
+      "answer": "The GIS analysis showed that M. aculeata was found on the north aspect, with steppe slope in rocky habitat.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What land cover features were expected to correlate with nest site and foraging habitat selection?",
+      "answer": "The expected land cover features include low plant height, sparse vegetation, and proximity to wetlands.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is detailed distribution information important according to Rondini et al. (2011)?",
+      "answer": "Detailed distribution information is important for developing global conservation strategies for mammals and making predictions about their future distribution.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some parameters that can enhance accuracy for species distribution models?",
+      "answer": "Parameters like vegetation type, edaphic factors, topography, species interactions, and geomorphology can enhance accuracy for species distribution models.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat mapping_qna_004",
+      "value": 1
+    }
+  ]
+}

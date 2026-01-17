@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Family planning|Natural family planning methods",
+      "label": "Natural family planning methods",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Family planning"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Family planning|Natural family planning methods_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What findings did Hawcroft and Milfont (2010) report from their meta-analysis regarding the NEP scale?",
+      "answer": "Hawcroft and Milfont (2010) reported that the ecocentric dimension of the NEP scale positively correlates with individuals' pro-ecological behaviors.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Family planning",
+      "subtopic": "Natural family planning methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Family planning|Natural family planning methods",
+      "target": "Subtopic:Social|Gender equity|Family planning|Natural family planning methods_qna_000",
+      "value": 1
+    }
+  ]
+}

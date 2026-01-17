@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement",
+      "label": "Soil microbial activity enhancement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of relative gas diffusivity greater than 0.15-0.2?",
+      "answer": "A relative gas diffusivity greater than 0.15-0.2 indicates a favorable condition for microbial activity in the soil, correlating with optimal moisture levels.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil microbial activity enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the impact of water on microbial activity in soil, specifically regarding denitrification?",
+      "answer": "Microbial activity, particularly denitrification, is highly dependent on soil water content, with activity decreasing linearly as water potential decreases between field capacity and the permanent wilting point.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil microbial activity enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the optimal soil moisture range for microbial activity?",
+      "answer": "The optimal soil moisture for microbial activity, with unrestricted water and oxygen supply, is around 50-60% water-filled pore space.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil microbial activity enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the effects of root respiration and increased microbial activity caused by rhizodeposition on denitrification?",
+      "answer": "They can increase O2 consumption in the rhizosphere, leading to increased denitrification.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil microbial activity enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the study indicate about the effect of organic fertilization on microbial communities?",
+      "answer": "The study indicates that organic fertilization enhances the resistance of microbial communities under changing environmental conditions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil microbial activity enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does organic fertilization affect soil microorganisms?",
+      "answer": "Organic fertilization improves soil microbial abundances and enhances the functional diversity of microorganisms.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil microbial activity enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil microbial activity enhancement_qna_005",
+      "value": 1
+    }
+  ]
+}

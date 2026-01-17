@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Maternal and neonatal infections",
+      "label": "Maternal and neonatal infections",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Maternal and neonatal infections_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is A. O. obstetricans important for studying chytrid epidemiology?",
+      "answer": "A. O. obstetricans has been a model organism for studying chytrid epidemiology for nearly three decades.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Maternal and neonatal infections",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Maternal and neonatal infections",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Maternal and neonatal infections_qna_000",
+      "value": 1
+    }
+  ]
+}

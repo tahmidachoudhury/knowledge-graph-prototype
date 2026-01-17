@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Technology & health access",
+      "label": "Technology & health access",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Technology & health access_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has driven the proliferation of healthcare technologies according to the paragraph?",
+      "answer": "Global concerns about an aging population, epidemics, pandemics, health inequalities, and escalating healthcare costs have driven the proliferation of healthcare technologies.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Technology & health access",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Technology & health access",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Technology & health access_qna_000",
+      "value": 1
+    }
+  ]
+}

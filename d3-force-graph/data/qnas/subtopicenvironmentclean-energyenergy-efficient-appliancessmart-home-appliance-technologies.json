@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "label": "Smart home appliance technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the prospects and challenges associated with appliance-level energy characterization of residential electricity demand?",
+      "answer": "Prospects include enhanced energy efficiency and consumption insights, while challenges involve data collection and privacy concerns in monitoring residential electricity demand.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Smart home appliance technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the prospects, challenges, and recommendations associated with appliance-level energy characterization of residential electricity demand?",
+      "answer": "The appliance-level energy characterization of residential electricity demand offers prospects for more efficient energy management, but also presents challenges such as data collection and analysis. Recommendations include implementing smart metering technology for better monitoring.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Smart home appliance technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What specific patterns did the research identify concerning user interactions with smart energy apps?",
+      "answer": "The research identified patterns such as monitoring energy consumption, managing appliances, and integrating smart home features like electric vehicle (EV) charging.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Smart home appliance technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the significance of systematically analyzing user-generated content related to smart solutions?",
+      "answer": "It can help reveal evolving attitudes towards smart solutions, particularly in relation to household energy use.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Smart home appliance technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_003",
+      "value": 1
+    }
+  ]
+}

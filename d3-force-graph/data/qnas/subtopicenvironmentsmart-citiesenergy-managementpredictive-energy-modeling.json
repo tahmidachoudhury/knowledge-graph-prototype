@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "label": "Predictive energy modeling",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is projected to happen to future energy demands by the year 2050?",
+      "answer": "Future energy demands are projected to increase by approximately 30% by the year 2050.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Predictive energy modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do MAR and CARS models contribute to forecasting natural gas consumption for residential users?",
+      "answer": "MARS and CARS models contribute to forecasting natural gas consumption for residential users by providing advanced analytical tools for predicting future trends and consumption patterns in the residential sector.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Predictive energy modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What hybrid model did Sun et al. (2016) propose for carbon price predictions?",
+      "answer": "Sun et al. (2016) proposed a hybrid model based on Variational Mode Decomposition (VMD) and spiking neural networks (SNN).",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Predictive energy modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to Zhang and Wu (2022), what does their model integration improve?",
+      "answer": "Their model integration improves the prediction efficiency of algorithms.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Predictive energy modeling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_003",
+      "value": 1
+    }
+  ]
+}

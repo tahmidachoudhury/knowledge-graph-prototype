@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Local fish campaigns",
+      "label": "Local fish campaigns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Local fish campaigns_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Why is investigating the validity of the fish footprint Subnets curve hypothesis important?",
+      "answer": "It is important because it helps understand the relationship between income levels and fish consumption, especially in terms of how poorer economies may consume more fish due to affordability issues, while wealthier countries may consume fish for health reasons.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "subtopic": "Local fish campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Seafood promotion|Local fish campaigns",
+      "target": "Subtopic:Environment|Life below water|Seafood promotion|Local fish campaigns_qna_000",
+      "value": 1
+    }
+  ]
+}

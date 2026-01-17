@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Waste-to-energy technologies",
+      "label": "Waste-to-energy technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Waste-to-energy technologies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of thermoelectric (TE) devices in energy consumption?",
+      "answer": "Thermoelectric devices are significant because they can generate electricity directly from waste heat, contributing to the efficient use of thermal energy and reduction in fossil fuel usage.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "subtopic": "Waste-to-energy technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Waste-to-energy technologies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Waste-to-energy technologies_qna_000",
+      "value": 1
+    }
+  ]
+}

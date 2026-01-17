@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Seagrass bed restoration",
+      "label": "Seagrass bed restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Seagrass bed restoration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors influence the recovery time of seaweed species after environmental disturbance?",
+      "answer": "Recovery time can take several years to several decades and is influenced by the environmental conditions returning to an average state, as well as the potential for a multiple stable states (MSS) regime shift that might prevent recovery altogether.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Seagrass bed restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Seagrass bed restoration",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Seagrass bed restoration_qna_000",
+      "value": 1
+    }
+  ]
+}

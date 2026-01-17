@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Renewable energy incentives",
+      "label": "Renewable energy incentives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Renewable energy incentives_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is meant by a negative subsidy cost or rebate in the context of renewable energy generation?",
+      "answer": "A negative subsidy cost or rebate occurs when the market price of energy rises above the pre-agreed strike price, resulting in the renewable energy generator reimbursing the difference back to the governing body.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Renewable energy incentives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Renewable energy incentives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Renewable energy incentives_qna_000",
+      "value": 1
+    }
+  ]
+}

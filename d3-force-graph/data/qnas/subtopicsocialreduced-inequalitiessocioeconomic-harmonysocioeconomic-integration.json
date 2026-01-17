@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic integration",
+      "label": "Socioeconomic integration",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic integration_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some key institutional factors that hinder integration in Dutch rural areas according to the study?",
+      "answer": "Key institutional factors include diverging perceptions of desired outcomes, exclusion of important actors from decision-making, and imbalances in the sharing of costs and benefits.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Socioeconomic integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic integration_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is integrative potential defined as in the paragraph?",
+      "answer": "Integrative potential is defined as the opportunity to implement solutions that contribute to solving multiple societal challenges at the same time, providing co-benefits or synergies.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Socioeconomic integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic integration",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic integration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic integration",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Socioeconomic integration_qna_001",
+      "value": 1
+    }
+  ]
+}

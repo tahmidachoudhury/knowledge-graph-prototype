@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Infectious disease modeling and prediction",
+      "label": "Infectious disease modeling and prediction",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Infectious disease modeling and prediction_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What modeling platform is frequently utilized for assessing the distribution of D. rotundus?",
+      "answer": "MaxEnt is the modeling platform frequently utilized for assessing the distribution of D. rotundus.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Infectious disease modeling and prediction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Infectious disease modeling and prediction",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Infectious disease modeling and prediction_qna_000",
+      "value": 1
+    }
+  ]
+}

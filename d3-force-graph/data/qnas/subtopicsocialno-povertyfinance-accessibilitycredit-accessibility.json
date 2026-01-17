@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility",
+      "label": "Credit accessibility",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What has been largely overlooked in the study of public bilateral financial institutions?",
+      "answer": "Export Credit Agencies (ECAs) have been largely overlooked in scholarly attention despite their significant role.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "subtopic": "Credit accessibility",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of institutions have been largely overlooked in scholarly attention regarding public bilateral financial institutions?",
+      "answer": "Public bilateral financial institutions, especially Export Credit Agencies (ECAs), have been largely overlooked.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "subtopic": "Credit accessibility",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility",
+      "target": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility",
+      "target": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility_qna_001",
+      "value": 1
+    }
+  ]
+}

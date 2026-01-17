@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts",
+      "label": "Transboundary climate impacts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What dual role do digital solutions to climate shocks play according to the paragraph?",
+      "answer": "Digital solutions serve as both a response to climate shocks and a potential catalyst for renewed crisis.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Transboundary climate impacts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What call did the United Nations make during the Climate Change Conference?",
+      "answer": "The UN called on countries to work together to address the global economic crisis in climate change and to transform the current economic system sustainably.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Transboundary climate impacts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the article suggest addressing the challenges of the NSR?",
+      "answer": "The article suggests that effective multi-level governance can resolve disputes, integrate member countries, and raise environmental sustainability, thereby proposing transnational cooperation and governance as key measures to enhance local effects of the NSR.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Transboundary climate impacts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Transboundary climate impacts_qna_002",
+      "value": 1
+    }
+  ]
+}

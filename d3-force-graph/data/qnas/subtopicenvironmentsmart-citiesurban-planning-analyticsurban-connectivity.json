@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban connectivity",
+      "label": "Urban connectivity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban connectivity_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "In what contexts are the risks of overlooking interconnectedness more evident?",
+      "answer": "The risks become more evident in highly populated regions where multiple functions have to be served by limited space.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban connectivity_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much did the degree of coupling coordination in the Central Plains Urban Agglomeration increase from 2011 to 2020?",
+      "answer": "The degree of coupling coordination increased from 0.324 in 2011 to 0.978 in 2020.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban connectivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban connectivity",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban connectivity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban connectivity",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban connectivity_qna_001",
+      "value": 1
+    }
+  ]
+}

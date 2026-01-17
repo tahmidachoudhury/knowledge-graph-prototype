@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Solar dryers for crop processing",
+      "label": "Solar dryers for crop processing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Solar dryers for crop processing_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the common problems associated with Ru (II) complexes in light-harvesting applications?",
+      "answer": "The common problems are the limited absorption of the (MLCT) band and the expensive expenditure on Ru (II) complexes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Solar dryers for crop processing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Solar dryers for crop processing_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do full-sun cocoa systems affect the age at which cocoa stops producing?",
+      "answer": "Full-sun systems have been found to stop producing cocoa at a younger age compared to other systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Solar dryers for crop processing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Solar dryers for crop processing",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Solar dryers for crop processing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Solar dryers for crop processing",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Solar dryers for crop processing_qna_001",
+      "value": 1
+    }
+  ]
+}

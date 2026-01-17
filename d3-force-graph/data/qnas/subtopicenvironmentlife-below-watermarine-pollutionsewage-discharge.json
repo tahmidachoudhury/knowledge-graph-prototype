@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sewage discharge",
+      "label": "Sewage discharge",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sewage discharge_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does DEET potentially contaminate due to increased domestic usage?",
+      "answer": "DEET potentially contaminates the aquatic matrix, sewage channels, and municipal wastewater treatment plants.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Sewage discharge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Sewage discharge",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Sewage discharge_qna_000",
+      "value": 1
+    }
+  ]
+}

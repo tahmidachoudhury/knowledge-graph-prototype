@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste",
+      "label": "Radioactive waste",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is highlighted as a significant concern for industries affected by Natural Hazards Triggering Technological Accidents (Natech)?",
+      "answer": "The risk of the release of POPs and other PBTs by these industries should be globally evaluated.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Radioactive waste",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of data is required during the nuclear reactor approval process?",
+      "answer": "The approval process requires data collected on reactor materials and parts both pre-and post-irradiation and under various extreme environments.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Radioactive waste",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What kind of facility is the Irradiated Materials Characterization Laboratory (IMCL)?",
+      "answer": "IMCL is a Hazard Category-2 Nuclear Facility that can handle highly radioactive materials.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Radioactive waste",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the order of samples used for testing and commissioning the instrument?",
+      "answer": "The order was nonradioactive samples, unirradiated nuclear fuel, irradiated non-fuel samples, and finally irradiated nuclear fuel samples by the end of 2021.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Radioactive waste",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some common effects of gamma irradiation on chromosomal activity?",
+      "answer": "Gamma irradiation disturbs mitotic activity, induces chromosomal aberration, and affects yield, with common changes including stickiness, lagging chromosomes, and bridges at anaphase and telophase.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Radioactive waste",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Radioactive waste_qna_004",
+      "value": 1
+    }
+  ]
+}

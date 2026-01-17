@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability",
+      "label": "Industrial sustainability",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What has been a major consequence of the Industrial Revolution as indicated in the paragraph?",
+      "answer": "A major consequence of the Industrial Revolution has been the severe impact on sustainability due to an emphasis on economic growth at any cost.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Industrial sustainability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the general attitude towards sustainability in the third cluster of companies?",
+      "answer": "The third cluster shows no inclination towards sustainability, indicating that the topic is passively perceived without any active efforts to implement green practices or monitor resource usage and emissions.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Industrial sustainability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What finding do the authors report regarding the explanatory power of the factors once Industrial Production (IP) is included in the SADFM?",
+      "answer": "The explanatory power of the factors becomes negligible when Industrial Production (IP) is included in the model.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Industrial sustainability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_002",
+      "value": 1
+    }
+  ]
+}

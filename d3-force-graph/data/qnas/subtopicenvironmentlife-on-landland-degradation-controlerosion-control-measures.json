@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Erosion control measures",
+      "label": "Erosion control measures",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Erosion control measures_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is timely implementation of management measures important in the context of erosion?",
+      "answer": "Timely implementation of management measures is important to address risks in at-risk areas effectively, as flagged by the early warning systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Erosion control measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Erosion control measures",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Erosion control measures_qna_000",
+      "value": 1
+    }
+  ]
+}

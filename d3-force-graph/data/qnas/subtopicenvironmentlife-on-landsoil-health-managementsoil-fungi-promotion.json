@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion",
+      "label": "Soil fungi promotion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the author plan to enhance the visibility of Kew Bulletin?",
+      "answer": "The author plans to enhance the journal's online presence through regular social media posts to communicate the excitement and importance of plant and fungal taxonomy to a broader audience.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil fungi promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Were there significant differences observed in fungal communities under manure treatments across growth stages?",
+      "answer": "No significant differences in diversity or community structure were observed for fungal communities in manure treatments across different growth stages.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil fungi promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the keywords associated with this study?",
+      "answer": "The keywords associated with this study are Rhizosphere microbes, Bacteria, Fungi, Growth stages, and Temporal stability.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil fungi promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What were the two aims of the long-term field experiment characterized in the study?",
+      "answer": "The study aimed to (i) determine whether organic fertilizer enhanced temporal variations in rhizosphere bacterial and fungal communities, and (ii) assess the stability of both bacterial and fungal communities across different sorghum growth stages.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil fungi promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What four experimental treatments were manipulated in the study?",
+      "answer": "The four experimental treatments manipulated were nitrogen availability, presence of fungal pathogens, functional composition of the vascular plant community, and vascular plant richness.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil fungi promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the nitrogen availability and presence of fungal pathogens implemented in the experiment?",
+      "answer": "Nitrogen availability was manipulated through fertilization, and the presence of fungal pathogens was manipulated through fungicide application.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil fungi promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil fungi promotion_qna_005",
+      "value": 1
+    }
+  ]
+}

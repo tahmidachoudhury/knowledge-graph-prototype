@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate justice in international agreements",
+      "label": "Climate justice in international agreements",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate justice in international agreements_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What challenges are associated with the inclusivity of the COP processes, specifically concerning non-state actors?",
+      "answer": "The challenges associated with inclusivity in the COP processes include existing power imbalances and climate injustices that critics argue replicate inequities, highlighting the need for increased involvement of non-state actors in decision-making.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Climate justice in international agreements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Climate justice in international agreements",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Climate justice in international agreements_qna_000",
+      "value": 1
+    }
+  ]
+}

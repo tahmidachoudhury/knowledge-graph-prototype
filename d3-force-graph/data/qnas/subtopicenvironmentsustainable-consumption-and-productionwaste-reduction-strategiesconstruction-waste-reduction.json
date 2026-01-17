@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Construction waste reduction",
+      "label": "Construction waste reduction",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Construction waste reduction_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What fundamental shift is researchers proposing for the construction sector regarding cement use?",
+      "answer": "They propose a shift that reduces material intensity by using less clinker in cement, less cement in concrete, less concrete in structures, and ultimately fewer structures overall.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Construction waste reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Construction waste reduction_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the primary goal of the strategies mentioned in the paragraph regarding the built environment?",
+      "answer": "The primary goal is to reduce resource demands and environmental impacts associated with the built environment through a holistic approach to sustainability.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Construction waste reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Construction waste reduction",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Construction waste reduction_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Construction waste reduction",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Waste reduction strategies|Construction waste reduction_qna_001",
+      "value": 1
+    }
+  ]
+}

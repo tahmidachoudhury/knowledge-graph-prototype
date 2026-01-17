@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands",
+      "label": "Impact on low-lying islands",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is a major challenge in managing NIS in the archipelago?",
+      "answer": "A major challenge is the lack of practical tools to assess risks, which hampers the implementation of management policies and strategies.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Impact on low-lying islands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What environmental vulnerabilities does the Philippines face due to its location within the Ring of Fire?",
+      "answer": "The Philippines is particularly vulnerable to seismic and climatological disturbances, experiencing issues such as changing weather patterns and increased incidences of drought and flooding.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Impact on low-lying islands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which island was the focus of the study mentioned in the paragraph?",
+      "answer": "The study was conducted on San Cristobal, the easternmost island of the archipelago.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Impact on low-lying islands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which islands in the Galapagos are inhabited by humans?",
+      "answer": "The islands of Santa Cruz, San Cristobal, Isabela, and Floreana are inhabited by humans.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Impact on low-lying islands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What existential threat do the counties face if no adaptation measures are implemented regarding sea level rise?",
+      "answer": "The continued sea level rise poses an existential threat to the region.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Impact on low-lying islands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Impact on low-lying islands_qna_004",
+      "value": 1
+    }
+  ]
+}

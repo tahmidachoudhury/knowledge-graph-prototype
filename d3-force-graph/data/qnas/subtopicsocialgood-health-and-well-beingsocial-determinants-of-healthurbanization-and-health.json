@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Urbanization and health",
+      "label": "Urbanization and health",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Urbanization and health_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What role does urbanization play in environmental determinants according to the paragraph?",
+      "answer": "Urbanization is highlighted as a significant environmental determinant that contributes to environmental pollution through the increased demand for energy-intensive products.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Urbanization and health",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Urbanization and health_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why have policymakers focused on the connection between urbanization and environmental quality?",
+      "answer": "Policymakers have focused on this connection due to the positive and negative externalities of urbanization on sustainability, aiming to provide better solutions to address environmental stress.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Urbanization and health",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Urbanization and health",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Urbanization and health_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Urbanization and health",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Urbanization and health_qna_001",
+      "value": 1
+    }
+  ]
+}

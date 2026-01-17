@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Green transportation options",
+      "label": "Green transportation options",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Green transportation options_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are some benefits of using ICT according to the paragraph?",
+      "answer": "ICT reduces travelling, transaction, and time costs, ultimately contributing to sustainability and potentially declining emissions due to its green services.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "subtopic": "Green transportation options",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Green transportation options",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Green transportation options_qna_000",
+      "value": 1
+    }
+  ]
+}

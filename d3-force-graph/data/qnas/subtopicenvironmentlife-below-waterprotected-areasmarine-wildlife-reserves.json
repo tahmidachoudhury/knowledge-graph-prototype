@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves",
+      "label": "Marine wildlife reserves",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How have fully protected marine reserves been shown to benefit local communities?",
+      "answer": "Fully protected marine reserves have been shown to improve fish abundances, increase food security, and boost fisher incomes for nearby communities.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Marine wildlife reserves",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What challenge does incomplete ownership of a resource pose for marine reserves?",
+      "answer": "Incomplete ownership can reduce the effectiveness of marine reserves, particularly for transboundary stocks where adults move or larvae disperse over large distances.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Marine wildlife reserves",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves_qna_001",
+      "value": 1
+    }
+  ]
+}

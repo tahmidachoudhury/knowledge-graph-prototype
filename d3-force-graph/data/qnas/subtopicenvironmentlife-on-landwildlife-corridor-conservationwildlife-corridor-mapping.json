@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor mapping",
+      "label": "Wildlife corridor mapping",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor mapping_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What were the spatial scales at which the analysis was applied?",
+      "answer": "The analysis was applied at three spatial scales: potential, core, and Swift Parrot Important Breeding Areas (SPIBAs).",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Wildlife corridor mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor mapping",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor mapping_qna_000",
+      "value": 1
+    }
+  ]
+}

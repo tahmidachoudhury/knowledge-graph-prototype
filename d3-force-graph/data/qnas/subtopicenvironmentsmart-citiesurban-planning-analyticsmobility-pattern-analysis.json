@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Mobility pattern analysis",
+      "label": "Mobility pattern analysis",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Mobility pattern analysis_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are some key findings from the Austria-wide mobility survey conducted in 2013/2014?",
+      "answer": "In the Austria-wide mobility survey conducted in 2013/2,014 key findings included data on transportation habits, mode choices, and travel patterns of individuals across the country.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Mobility pattern analysis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Mobility pattern analysis_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of data are collected and analyzed in the network analysis method?",
+      "answer": "The method involves both quantitative and qualitative data collection.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Mobility pattern analysis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Mobility pattern analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Mobility pattern analysis_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Mobility pattern analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Mobility pattern analysis_qna_001",
+      "value": 1
+    }
+  ]
+}

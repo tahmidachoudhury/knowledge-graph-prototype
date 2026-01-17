@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs",
+      "label": "Access to agricultural inputs",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the importance of optimizing tire inflation pressure in tractors?",
+      "answer": "Optimizing tire inflation pressure is crucial to ensure tires are inflated to the manufacturer's recommended pressure for a given load, speed, and surface conditions, which helps prevent tire damage.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Access to agricultural inputs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which production factors are represented in the SAM?",
+      "answer": "The SAM represents labor and capital as production factors, and land is considered a specific type of capital for the crop production sector.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Access to agricultural inputs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do the common factors extracted impact the regression model's performance, according to the paper?",
+      "answer": "Common factors extracted by partial least squares add valuable information beyond the selected individual indicators, while those extracted by two-step-Kalman Iter are not significant.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Access to agricultural inputs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_002",
+      "value": 1
+    }
+  ]
+}

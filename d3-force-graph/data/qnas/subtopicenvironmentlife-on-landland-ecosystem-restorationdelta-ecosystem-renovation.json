@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Delta ecosystem renovation",
+      "label": "Delta ecosystem renovation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Delta ecosystem renovation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many functional groups does the ecological model of the Ebro Delta area consist of?",
+      "answer": "The ecological model of the Ebro Delta area consists of 55 functional groups.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Delta ecosystem renovation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Delta ecosystem renovation",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Delta ecosystem renovation_qna_000",
+      "value": 1
+    }
+  ]
+}

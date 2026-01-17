@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Environmental benefits of otec",
+      "label": "Environmental benefits of otec",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Environmental benefits of otec_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did Hicks & Temizel-Sekeryan categorize the potential environmental benefits of nanosilver products?",
+      "answer": "Hicks & Temizel-Sekeryan categorized the benefits into three groups: human behavioral benefits, passive benefits, and replacement benefits.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Environmental benefits of otec",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Environmental benefits of otec",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Environmental benefits of otec_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global resource allocation",
+      "label": "Global resource allocation",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms"
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global resource allocation_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What factors are leading to significant resource allocations by states in the Arctic?",
+      "answer": "The perception of strategic importance due to easier access to fossil resources like oil and rare Earth metals, alongside considerations of Indigenous land rights, are leading to significant resource allocations.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms",
+      "subtopic": "Global resource allocation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global resource allocation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is it problematic that a significant part of the world's oil resources and gas reserves are concentrated in few regions?",
+      "answer": "It causes dependency on fuel supplies and prices for other countries, with particular attention to their volatility.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial support mechanisms",
+      "subtopic": "Global resource allocation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global resource allocation",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global resource allocation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global resource allocation",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global financial support mechanisms|Global resource allocation_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Wind turbine technology advances",
+      "label": "Wind turbine technology advances",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Wind turbine technology advances_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the average installed capacity increase for wind energy in Australia from 2009 to 2018?",
+      "answer": "The average installed capacity increase for wind energy in Australia was 1.33%.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms",
+      "subtopic": "Wind turbine technology advances",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind farms|Wind turbine technology advances",
+      "target": "Subtopic:Environment|Clean energy|Wind farms|Wind turbine technology advances_qna_000",
+      "value": 1
+    }
+  ]
+}

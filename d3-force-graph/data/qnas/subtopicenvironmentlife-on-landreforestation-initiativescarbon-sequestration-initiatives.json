@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Carbon sequestration initiatives",
+      "label": "Carbon sequestration initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Carbon sequestration initiatives_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the estimated carbon sequestration capability of forests over 200 years old?",
+      "answer": "Forests over 200 years old continue to sequester over 1.6 MgC ha⁻¹ yr⁻¹, reaching up to 2.4 MgC ha⁻¹ yr⁻¹ in some studies.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Carbon sequestration initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Carbon sequestration initiatives_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What strategy does the EU policy include to help mitigate climate change?",
+      "answer": "The EU policy includes the retention of mature trees to ensure long-term carbon sequestration.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Carbon sequestration initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Carbon sequestration initiatives",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Carbon sequestration initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Carbon sequestration initiatives",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Carbon sequestration initiatives_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track",
+      "label": "Greenhouse gas track",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main challenge in the direct quantification of N2 emissions?",
+      "answer": "The main challenge in the direct quantification of N2 emissions is its high atmospheric background concentration of 78.1%.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Greenhouse gas track",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the estimated contribution of CT and MR imaging to total carbon dioxide emissions in 2016?",
+      "answer": "CT and MR imaging were estimated to contribute up to 0.77% of total carbon dioxide emissions in 2016.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Greenhouse gas track",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does urbanization correlate with carbon pollution according to the paragraph?",
+      "answer": "Urbanization correlates with carbon pollution as the six hundred top cities are responsible for 70% of global carbon pollution.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Greenhouse gas track",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much of the total emissions do municipally owned facilities contribute?",
+      "answer": "Municipally owned facilities contribute only 5% of a community's total emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Greenhouse gas track",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of total GHG emissions do urban regions account for?",
+      "answer": "Urban regions account for over 70% of total GHG emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Greenhouse gas track",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_005",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main challenge with sector-based emissions inventories according to the paragraph?",
+      "answer": "The main challenge is that sector-based emissions inventories lack a comprehensive view of a city's true metabolism.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Greenhouse gas track",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_006",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How does consumption-based accounting affect reported emissions?",
+      "answer": "Consumption-based accounting can greatly increase reported emissions by including emissions from all goods and services produced and consumed within a city.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Greenhouse gas track",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_007",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What do cities do after completing a GHG inventory?",
+      "answer": "Cities develop mitigation and adaptation strategies for meeting emissions reduction targets and responding to future climate impacts.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Greenhouse gas track",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Greenhouse gas track_qna_007",
+      "value": 1
+    }
+  ]
+}

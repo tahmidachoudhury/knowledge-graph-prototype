@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Funding mechanisms for ccs projects",
+      "label": "Funding mechanisms for ccs projects",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Funding mechanisms for ccs projects_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What does the acronym CCS stand for in the context of currencies?",
+      "answer": "CCS stands for complementary currency system, which is used to describe a specific unit or system of account that complements the official currency.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Funding mechanisms for ccs projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Funding mechanisms for ccs projects_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What does the acronym CCs refer to in the context of the paragraph?",
+      "answer": "CCs refers to complementary currencies or community currencies.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Funding mechanisms for ccs projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Funding mechanisms for ccs projects",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Funding mechanisms for ccs projects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Funding mechanisms for ccs projects",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Funding mechanisms for ccs projects_qna_001",
+      "value": 1
+    }
+  ]
+}

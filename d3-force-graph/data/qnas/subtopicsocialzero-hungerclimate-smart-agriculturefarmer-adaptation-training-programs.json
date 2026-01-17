@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Farmer adaptation training programs",
+      "label": "Farmer adaptation training programs",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Farmer adaptation training programs_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What must farmers do to adapt to disrupted ecosystems?",
+      "answer": "Farmers must adapt by utilizing knowledge, resources, and supportive policies.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "subtopic": "Farmer adaptation training programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Farmer adaptation training programs",
+      "target": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Farmer adaptation training programs_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion",
+      "label": "Fungi and mycorrhizae promotion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the main hypothesis tested in the study regarding fertilization?",
+      "answer": "The hypothesis was that the rhizosphere bacterial and fungal communities would be more stable over time with organic fertilization compared to chemical-only fertilization.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Fungi and mycorrhizae promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do foliar fungal pathogens influence vascular plant biomass in grasslands?",
+      "answer": "Foliar fungal pathogens can sometimes have similar effects on vascular plant biomass as vertebrates, possibly benefiting bryophytes by reducing vascular plant dominance and increasing light levels.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Fungi and mycorrhizae promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What effect do copper-based and organic fungicides have on bryophytes?",
+      "answer": "Copper-based and organic fungicides have been shown to directly reduce the germination of spores and asexual propagules in bryophytes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Fungi and mycorrhizae promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the hypothesized indirect effect of fungicides on bryophytes?",
+      "answer": "The hypothesized indirect negative effect of fungicides on bryophytes is mediated by higher vascular plant cover following the removal of fungal pathogens.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Fungi and mycorrhizae promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Fungi and mycorrhizae promotion_qna_003",
+      "value": 1
+    }
+  ]
+}

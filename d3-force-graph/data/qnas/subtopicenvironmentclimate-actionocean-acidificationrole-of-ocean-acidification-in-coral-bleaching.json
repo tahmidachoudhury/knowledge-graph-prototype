@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching",
+      "label": "Role of ocean acidification in coral bleaching",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do climate-driven coral bleaching events impact marine diversity and human life?",
+      "answer": "Coral bleaching events lead to mortality and reef degradation, which negatively affect marine diversity, ecosystem services, and human life.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Role of ocean acidification in coral bleaching",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What synergistic stressors may exacerbate coral bleaching beyond warming?",
+      "answer": "Ocean acidification and local eutrophication are synergistic stressors that may further exacerbate coral bleaching.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Role of ocean acidification in coral bleaching",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What could happen if algal symbiont populations do not recover quickly after a bleaching event?",
+      "answer": "If algal symbiont populations do not recover within relatively short time periods, it may ultimately lead to mass coral mortality events.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Role of ocean acidification in coral bleaching",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Role of ocean acidification in coral bleaching_qna_002",
+      "value": 1
+    }
+  ]
+}

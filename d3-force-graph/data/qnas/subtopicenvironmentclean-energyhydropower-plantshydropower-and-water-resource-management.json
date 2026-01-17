@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and water resource management",
+      "label": "Hydropower and water resource management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and water resource management_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the four levels of factors influencing the synergistic development of water resources, economic society, and ecological environment?",
+      "answer": "The four levels are: fundamental factors (total water resources, precipitation, NDVI), deep core elements (percentage of groundwater supply, total water supply, water resource utilization rate, energy consumption of 10,000 yuan of GDP), direct influencing factors (total grain output, water resources per capita, water use per capita), and the analysis of the coupled system.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower and water resource management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and water resource management_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What model does the current study introduce to explore the coupled system of water resources, economy and society, and ecology and environment?",
+      "answer": "The study introduces the DEMATEL-ISM-MICMAC model to explore the coupled system.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower and water resource management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and water resource management",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and water resource management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and water resource management",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower and water resource management_qna_001",
+      "value": 1
+    }
+  ]
+}

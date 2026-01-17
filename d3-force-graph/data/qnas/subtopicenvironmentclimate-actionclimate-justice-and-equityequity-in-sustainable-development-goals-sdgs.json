@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)",
+      "label": "Equity in sustainable development goals (sdgs)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is it important to consider the dependence between SDGs in research projects?",
+      "answer": "It is important to consider the dependence between SDGs because ignoring it could lead to a misrepresentation of SDG prevalence in research outputs.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Equity in sustainable development goals (sdgs)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is the financing of SDGs important in maximizing their beneficial impact on the environment and combating climate change?",
+      "answer": "The financing of Sustainable Development Goals (SDGs) is vital to maximize their beneficial impact on the environment and counteract climate change, as it determines the extent to which these goals can be achieved effectively.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Equity in sustainable development goals (sdgs)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Which Sustainable Development Goal addresses climate change?",
+      "answer": "Sustainable Development Goal 13 addresses climate change and its wide-ranging consequences.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Equity in sustainable development goals (sdgs)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Equity in sustainable development goals (sdgs)_qna_002",
+      "value": 1
+    }
+  ]
+}

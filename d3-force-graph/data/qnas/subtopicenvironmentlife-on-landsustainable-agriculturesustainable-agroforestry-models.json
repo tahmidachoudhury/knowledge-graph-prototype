@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable agroforestry models",
+      "label": "Sustainable agroforestry models",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable agroforestry models_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why do cocoa farms pose a classification challenge in Nigeria?",
+      "answer": "Cocoa farms have rarely been differentiated from other land covers in Nigeria due to their similar spatial signature to open canopy forests and a high chance of misclassification.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Sustainable agroforestry models",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable agroforestry models_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which solutions emerged as the top-rated options for addressing the challenges on Tinos, and what were their scores?",
+      "answer": "Conservation Agriculture scored 78/100 and Agroforestry scored 71/100 as the top-rated solutions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Sustainable agroforestry models",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable agroforestry models",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable agroforestry models_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable agroforestry models",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Sustainable agroforestry models_qna_001",
+      "value": 1
+    }
+  ]
+}

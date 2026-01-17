@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Infrastructure development projects",
+      "label": "Infrastructure development projects",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Infrastructure development projects_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What role does infrastructure development play in the Arctic?",
+      "answer": "Infrastructure development is important for the sustained development of the region, particularly for strengthening transport corridors for economic and social advancements.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs",
+      "subtopic": "Infrastructure development projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Poverty eradication programs|Infrastructure development projects",
+      "target": "Subtopic:Social|No poverty|Poverty eradication programs|Infrastructure development projects_qna_000",
+      "value": 1
+    }
+  ]
+}

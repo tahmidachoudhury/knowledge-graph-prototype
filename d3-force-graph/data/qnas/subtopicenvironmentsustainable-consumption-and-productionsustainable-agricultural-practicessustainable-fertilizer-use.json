@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use",
+      "label": "Sustainable fertilizer use",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What can the digestate obtained after digestion be used for?",
+      "answer": "The digestate can be used as a bio-based fertilizer to recycle nutrients back to agricultural fields.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Sustainable fertilizer use",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does fertilization with digestate affect nitrogen uptake efficiency for crops?",
+      "answer": "Fertilization with digestate increases the share of directly plant-available nitrogen, improving nitrogen uptake efficiency, thereby contributing to better yields and reducing nitrogen losses to the environment.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Sustainable fertilizer use",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of fertilizer was applied at the rate of 5130 kg ha⁻¹ per year?",
+      "answer": "Cow dung was applied as manure fertilizer at the rate of 5130 kg ha⁻¹ per year.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Sustainable fertilizer use",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of nitrogen fertilizer was applied to the plots, and how much was used each year?",
+      "answer": "Solid pellets of urea were applied to the plots, totaling 100 kg N ha⁻¹ per year, with 50 kg N ha⁻¹ applied in April and late June.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Sustainable fertilizer use",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Sustainable fertilizer use_qna_003",
+      "value": 1
+    }
+  ]
+}

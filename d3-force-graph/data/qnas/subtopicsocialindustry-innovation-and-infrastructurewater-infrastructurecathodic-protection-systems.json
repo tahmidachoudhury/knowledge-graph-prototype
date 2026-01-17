@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems",
+      "label": "Cathodic protection systems",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is required when the cathode lining of a Hall-Héroult cell is worn-out?",
+      "answer": "It needs to be relined with new cathode lining materials.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Cathodic protection systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is spent potlining (SPL) and how much is generated for every metric ton of aluminum produced?",
+      "answer": "Spent potlining (SPL) is the worn-out cathode lining from aluminum production, and it is estimated that approximately 25 kg of SPL is generated for every metric ton of aluminum produced.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Cathodic protection systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems_qna_001",
+      "value": 1
+    }
+  ]
+}

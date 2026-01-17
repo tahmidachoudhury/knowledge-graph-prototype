@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Waste reduction|Food waste-to-energy projects",
+      "label": "Food waste-to-energy projects",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Waste reduction"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Waste reduction|Food waste-to-energy projects_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of global waste is constituted by food and green waste?",
+      "answer": "Food and green waste constitute 44% of global waste.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Waste reduction",
+      "subtopic": "Food waste-to-energy projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Waste reduction|Food waste-to-energy projects",
+      "target": "Subtopic:Social|Zero hunger|Waste reduction|Food waste-to-energy projects_qna_000",
+      "value": 1
+    }
+  ]
+}

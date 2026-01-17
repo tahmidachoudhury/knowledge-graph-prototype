@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies",
+      "label": "Coastal erosion studies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What model was used to identify areas at severe erosion risk in the study?",
+      "answer": "The ICONA model was applied to identify areas at severe erosion risk.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Coastal erosion studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is a significant challenge in applying some water erosion models?",
+      "answer": "A significant challenge in applying some water erosion models is the need for extensive research or calibration based on local conditions, as well as access to baseline data and statistical information, which may not be readily available in many regions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Coastal erosion studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the primary purpose of the models described in the paragraph?",
+      "answer": "The primary purpose of the models is to provide essential data for early warning systems by accurately evaluating erosion in various regions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Coastal erosion studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Coastal erosion studies_qna_002",
+      "value": 1
+    }
+  ]
+}

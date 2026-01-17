@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife corridors",
+      "label": "Wildlife corridors",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife corridors_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did the recent study on gaur and sambar in central India focus on?",
+      "answer": "The study focused on how landscape genetics provide insights into the effects of landscape structure permeability and gene flow on large-bodied herbivores.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife corridors",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife corridors",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife corridors_qna_000",
+      "value": 1
+    }
+  ]
+}

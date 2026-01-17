@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries",
+      "label": "Climate-resilient fisheries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What were the key elements included in the report on the impacts of climate change on fisheries and aquaculture?",
+      "answer": "The report included a synthesis of current knowledge, adaptation, and mitigation options for the impacts of climate change on fisheries and aquaculture.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-resilient fisheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors were associated with high climate change awareness in the fishing community?",
+      "answer": "High climate change awareness was associated with the increasing frequency and intensity of extreme climatological events and erratic weather patterns.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-resilient fisheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does climate change vulnerability affect the decline in fish footprint?",
+      "answer": "Climate change vulnerability, which is a combination of climate exposure and adaptive capacity, leads to a decline in fish footprint by 0.40%. This decline is due to the environmental consciousness triggered by the threat of climate change to biodiversity, driving sustainable production and consumption practices.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-resilient fisheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient fisheries_qna_002",
+      "value": 1
+    }
+  ]
+}

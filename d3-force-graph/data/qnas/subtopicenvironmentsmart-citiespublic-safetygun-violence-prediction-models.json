@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gun violence prediction models",
+      "label": "Gun violence prediction models",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gun violence prediction models_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What have individual prediction models of econometrics or AI shown according to the paragraph?",
+      "answer": "Individual prediction models of econometrics or AI have shown a lack of prediction robustness due to inherent shortcomings.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Gun violence prediction models",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Gun violence prediction models",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Gun violence prediction models_qna_000",
+      "value": 1
+    }
+  ]
+}

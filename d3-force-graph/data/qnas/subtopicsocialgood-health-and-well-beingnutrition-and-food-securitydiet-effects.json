@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects",
+      "label": "Diet effects",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What health concerns are associated with ultra-processed dietary patterns?",
+      "answer": "Ultra-processed dietary patterns are associated with multiple adverse health outcomes, including obesity, type-2 diabetes, cardiovascular disease, and mental health disorders.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Diet effects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the potential adverse consequences associated with high and excessive production and consumption of UPFs and ASFs?",
+      "answer": "The adverse consequences include the substitution of healthier foods and eating patterns, the reinforcement of socio-economic and environmental injustice, and increased risks for diet-related chronic diseases.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Diet effects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_001",
+      "value": 1
+    }
+  ]
+}

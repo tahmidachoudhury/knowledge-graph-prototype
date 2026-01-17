@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management",
+      "label": "Wildlife management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary application of Species Distribution Models (SDMs) mentioned in the paragraph?",
+      "answer": "SDMs are used in fields such as ecology, geographical ecology, epidemiology, wildlife management, evolution, and conservation studies.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does wildlife contribute to human activities as mentioned in the paragraph?",
+      "answer": "Wildlife contributes to diets, livelihoods, and socio-cultural activities of people worldwide.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is context-specific hunting management important?",
+      "answer": "Context-specific hunting management is key to achieving a sustainable future due to the complex factors associated with regional hunting patterns.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What economic impacts can declines in wild animal populations have on villages?",
+      "answer": "Declines in wild animal populations can trigger increased food and economic insecurity among people relying on wild meat, as well as lead to increased land conversion to agriculture for new food and income sources.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife management_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Satellite water monitoring",
+      "label": "Satellite water monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Emergency water supply and response"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Satellite water monitoring_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of satellite imagery is utilized for quantitative assessments in environmental monitoring?",
+      "answer": "Multi-temporal satellite imagery is utilized for quantitative assessments in environmental monitoring.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Emergency water supply and response",
+      "subtopic": "Satellite water monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Satellite water monitoring",
+      "target": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Satellite water monitoring_qna_000",
+      "value": 1
+    }
+  ]
+}

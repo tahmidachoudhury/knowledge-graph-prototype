@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilience in educational infrastructure",
+      "label": "Resilience in educational infrastructure",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilience in educational infrastructure_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What educational institutions are mentioned in the paragraph?",
+      "answer": "The paragraph mentions the College of Environmental and Resource Science at Fujian Normal University and the School of Resources and Environmental Sciences at Quanzhou Normal University in Fujian Province, China.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Resilience in educational infrastructure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Resilience in educational infrastructure",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Resilience in educational infrastructure_qna_000",
+      "value": 1
+    }
+  ]
+}

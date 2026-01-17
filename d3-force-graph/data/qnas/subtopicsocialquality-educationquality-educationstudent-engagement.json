@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Student engagement",
+      "label": "Student engagement",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Student engagement_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does fostering opportunities for reflexivity in the learning domains affect teams?",
+      "answer": "It strengthens teams' abilities to apply a critical co-production lens in their engagement work.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education",
+      "subtopic": "Student engagement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Quality education|Student engagement",
+      "target": "Subtopic:Social|Quality education|Quality education|Student engagement_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands",
+      "label": "Loss of coastal wetlands",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much has the extent of inland wetlands declined?",
+      "answer": "The extent of inland wetlands has declined by an estimated 75%.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Loss of coastal wetlands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the two primary drivers of biodiversity loss mentioned in the text?",
+      "answer": "The two primary drivers are the ongoing reclamation and degradation of inland wetlands and agricultural intensification.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Loss of coastal wetlands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What action was taken in the central-eastern Po Plain to support biodiversity conservation?",
+      "answer": "The application of biodiversity conservation actions helped create low-water wetlands with plenty of mudflats.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Loss of coastal wetlands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which bird species is now nesting in the created low-water wetlands in the Po Plain?",
+      "answer": "Northern lapwings are nesting in the created low-water wetlands.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Loss of coastal wetlands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What major finding relates to East Coast and West Coast estuaries in terms of climate change vulnerability?",
+      "answer": "East Coast estuaries are highly vulnerable to climate change, while West Coast estuaries may serve as future thermal refugia for MHWs.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Loss of coastal wetlands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Loss of coastal wetlands_qna_004",
+      "value": 1
+    }
+  ]
+}

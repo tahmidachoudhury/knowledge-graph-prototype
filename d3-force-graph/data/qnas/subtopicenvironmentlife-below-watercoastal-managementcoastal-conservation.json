@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal conservation",
+      "label": "Coastal conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal conservation_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does the study suggest regarding conservation strategies for coastal ecosystems?",
+      "answer": "The study suggests the development of targeted conservation strategies to address the effects of patch- and seascape-level fragmentation in coastal ecosystems.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "subtopic": "Coastal conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal management|Coastal conservation",
+      "target": "Subtopic:Environment|Life below water|Coastal management|Coastal conservation_qna_000",
+      "value": 1
+    }
+  ]
+}

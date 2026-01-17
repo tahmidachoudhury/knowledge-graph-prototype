@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Combined heat and power (chp)",
+      "label": "Combined heat and power (chp)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Combined heat and power (chp)_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is it important to maintain the thermal state in turbines and compressors utilized in turbomachinery?",
+      "answer": "Maintaining the thermal state is crucial to avoid thermal stress and boost productivity.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Combined heat and power (chp)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Combined heat and power (chp)",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Combined heat and power (chp)_qna_000",
+      "value": 1
+    }
+  ]
+}

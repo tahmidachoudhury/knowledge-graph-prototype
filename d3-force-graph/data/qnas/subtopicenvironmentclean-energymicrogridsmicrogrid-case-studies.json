@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Microgrids|Microgrid case studies",
+      "label": "Microgrid case studies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Microgrids"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Microgrids|Microgrid case studies_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What type of studies were conducted to qualitatively test the framework?",
+      "answer": "Seven empirical case studies were conducted to qualitatively test the framework.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Microgrids",
+      "subtopic": "Microgrid case studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Microgrids|Microgrid case studies_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the main focus of the in-depth case studies conducted on ECAs?",
+      "answer": "The studies aim to understand changes in ECA portfolios at the organizational level.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Microgrids",
+      "subtopic": "Microgrid case studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Microgrids|Microgrid case studies_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the two organizations studied in the case studies regarding ECA portfolio changes?",
+      "answer": "The two organizations studied are Exlm and UKEF.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Microgrids",
+      "subtopic": "Microgrid case studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Microgrids|Microgrid case studies",
+      "target": "Subtopic:Environment|Clean energy|Microgrids|Microgrid case studies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Microgrids|Microgrid case studies",
+      "target": "Subtopic:Environment|Clean energy|Microgrids|Microgrid case studies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Microgrids|Microgrid case studies",
+      "target": "Subtopic:Environment|Clean energy|Microgrids|Microgrid case studies_qna_002",
+      "value": 1
+    }
+  ]
+}

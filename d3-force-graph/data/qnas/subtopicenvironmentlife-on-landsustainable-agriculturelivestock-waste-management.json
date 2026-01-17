@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management",
+      "label": "Livestock waste management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the environmental impact of mycoprotein compare to beef, chicken, and pork?",
+      "answer": "Life-cycle analyses suggest that mycoprotein has a lower environmental impact than beef and similar impact to chicken and pork, with the highest impacts from energy and emissions, and negligible impacts from eutrophication and land use.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Livestock waste management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much manure was produced by the 560 cattle in year 1?",
+      "answer": "The manure production was 18.0 Mg fresh matter (FM).",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Livestock waste management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is the effective management of manure in livestock production crucial for reducing GHG emissions?",
+      "answer": "Efficient management of manure, including solid-liquid separation and dry solids' management, is important as GHG emissions from manure management significantly contribute to the overall GHG footprint of meat products throughout their lifecycle.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Livestock waste management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Livestock waste management_qna_002",
+      "value": 1
+    }
+  ]
+}

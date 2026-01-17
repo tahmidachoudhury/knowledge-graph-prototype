@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "label": "Multimodal freight",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why have multi-modal models gained interest in recent years?",
+      "answer": "Multi-modal models have gained interest primarily because of their unique ability to process and generate a range of data modalities simultaneously, including vision, audio, and language.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Multimodal freight",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do Multi-Modal Language Models align language concepts?",
+      "answer": "Multi-Modal Language Models focus on aligning language concepts with other data modalities, such as imagery and audio.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Multimodal freight",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How do Multi-Modal Language Models overcome the issues associated with traditional models?",
+      "answer": "They align features of data modalities with language concepts by maximizing feature similarities, which results in a continuous feature space that encodes semantic relationships.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Multimodal freight",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do Multi-Modal Language Models differ from traditional models in terms of category usage?",
+      "answer": "Multi-Modal Language Models do not rely on fixed sets of predefined categories; instead, they align unique text descriptions to audio samples in a shared feature space.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Multimodal freight",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of concepts are encoded by the Multi-Modal Language Models according to the paragraph?",
+      "answer": "The models encode both specific concepts like wheel rolling and birds singing, as well as relational concepts such as over footsteps.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Multimodal freight",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_004",
+      "value": 1
+    }
+  ]
+}

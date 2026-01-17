@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology",
+      "label": "Marine biotechnology",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the potential application of halophilic PPB as indicated in the findings?",
+      "answer": "The findings suggest that halophilic PPB have untapped potential as bio-platforms for sustainable pharmaceutical production.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine biotechnology",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is cell-based meat and seafood made, and what is the process involved in producing it?",
+      "answer": "Cell-based meat and seafood are made by harvesting stem cells from living animals or extracting muscle strands from fish, molluscs, or crustaceans. These cells are then inoculated in a nutrient-dense media and transferred to a bioreactor for cell proliferation. For plant-based products, the desired protein is extracted and inserted into the DNA of a host organism before being transferred to a bioreactor.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine biotechnology",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role does the Agricultural Genomics Institute at Shenzhen play in marine science?",
+      "answer": "It hosts the Key Laboratory of Synthetic Biology of the Ministry of Agriculture and Rural Affairs, contributing to marine scientific research.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine biotechnology",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_002",
+      "value": 1
+    }
+  ]
+}

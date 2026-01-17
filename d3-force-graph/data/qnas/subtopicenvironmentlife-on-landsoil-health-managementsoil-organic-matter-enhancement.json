@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement",
+      "label": "Soil organic matter enhancement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the origin of a large fraction of particulate organic matter (POM)?",
+      "answer": "A large fraction of POM originates from roots.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil organic matter enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What historical observations contributed to the theory of using biochar for soil fertility and crop yield?",
+      "answer": "The theory of using biochar to increase soil fertility and crop yield was introduced based on observations made on Amazonian Black Earth, also known as terra preta.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil organic matter enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How do particulate organic matter (POM) fragments contribute to denitrification activity in soil?",
+      "answer": "POM fragments provide large amounts of labile carbon that promote local oxygen consumption in microsites, affecting their aeration status compared to the surrounding soil matrix.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil organic matter enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What changes occurred in organic carbon levels during the extreme drought-heatwave event?",
+      "answer": "There were increases in organic carbon and labile organic carbon contents during the event.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil organic matter enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil organic matter enhancement_qna_003",
+      "value": 1
+    }
+  ]
+}

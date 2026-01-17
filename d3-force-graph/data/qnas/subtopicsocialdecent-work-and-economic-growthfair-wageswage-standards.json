@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Fair wages|Wage standards",
+      "label": "Wage standards",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Fair wages"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Fair wages|Wage standards_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What standard value is set for the elasticity of real wages with respect to unemployment in the studied literature?",
+      "answer": "The elasticity is set at -0.1.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Fair wages",
+      "subtopic": "Wage standards",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Fair wages|Wage standards",
+      "target": "Subtopic:Social|Decent work and economic growth|Fair wages|Wage standards_qna_000",
+      "value": 1
+    }
+  ]
+}

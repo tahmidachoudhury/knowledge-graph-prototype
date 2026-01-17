@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives",
+      "label": "Diverse perspectives",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many worldviews are summarized in the text?",
+      "answer": "Four worldviews are summarized in the text.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Diverse perspectives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What outcome is associated with exposure to new experiences and perspectives in transformative learning?",
+      "answer": "Exposure to new experiences and perspectives in transformative learning can result in changes in frames of reference, shifts in beliefs, and a motivation to act.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Diverse perspectives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Diverse perspectives_qna_001",
+      "value": 1
+    }
+  ]
+}

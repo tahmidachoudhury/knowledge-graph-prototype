@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property",
+      "label": "Women's access to land and property",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal economic opportunities"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What does Vandana Shiva argue about the historical perception of farming?",
+      "answer": "Vandana Shiva argues that farming has been historically constructed as a male-dominated, patriarchal activity that devalues and invisibilizes the crucial role of women's knowledges and labor.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal economic opportunities",
+      "subtopic": "Women's access to land and property",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the range of farms managed by women in European countries like Latvia and Denmark?",
+      "answer": "The number of farms managed by women ranges from 45% in Latvia and Lithuania to 5% in Denmark, Malta, and the Netherlands.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal economic opportunities",
+      "subtopic": "Women's access to land and property",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of land in Denmark was owned by female farmers in 2020?",
+      "answer": "In Denmark in 2020, only 5% of the land belonged to farms owned by female farmers.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal economic opportunities",
+      "subtopic": "Women's access to land and property",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do women-owned farms compare in size to male-owned farms according to the statistics?",
+      "answer": "Women-owned farms are significantly smaller in size than male-owned ones.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal economic opportunities",
+      "subtopic": "Women's access to land and property",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property",
+      "target": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property",
+      "target": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property",
+      "target": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property",
+      "target": "Subtopic:Social|Gender equity|Equal economic opportunities|Women's access to land and property_qna_003",
+      "value": 1
+    }
+  ]
+}

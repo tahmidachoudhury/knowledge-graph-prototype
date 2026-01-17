@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Deep sea biodiversity",
+      "label": "Deep sea biodiversity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Deep sea biodiversity_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How many OTUs were classified as specialists, and how many phyla did they represent?",
+      "answer": "A total of 159 OTUs were classified as specialists, representing a set of 22 diverse phyla.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Deep sea biodiversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Deep sea biodiversity",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Deep sea biodiversity_qna_000",
+      "value": 1
+    }
+  ]
+}

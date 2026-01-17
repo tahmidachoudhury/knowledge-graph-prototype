@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fishing fleet management",
+      "label": "Fishing fleet management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fishing fleet management_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Where can a complete description of the fleets be found?",
+      "answer": "A complete description of the fleets can be found in the supplementary material, specifically in Supplementary Material Table S3.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Fishing fleet management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Fishing fleet management",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Fishing fleet management_qna_000",
+      "value": 1
+    }
+  ]
+}

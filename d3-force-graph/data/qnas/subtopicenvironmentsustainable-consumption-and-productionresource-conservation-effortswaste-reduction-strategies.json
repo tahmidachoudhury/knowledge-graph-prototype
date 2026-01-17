@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Waste reduction strategies",
+      "label": "Waste reduction strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Waste reduction strategies_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are some of the primary focuses of environmental strategies within the healthcare sector?",
+      "answer": "Environmental strategies within the healthcare sector typically focus on waste reduction, reduction in energy use, and emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Waste reduction strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Waste reduction strategies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Waste reduction strategies_qna_000",
+      "value": 1
+    }
+  ]
+}

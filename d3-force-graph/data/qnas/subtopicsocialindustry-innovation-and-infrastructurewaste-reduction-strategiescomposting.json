@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Composting",
+      "label": "Composting",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Composting_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is mentioned as an example of a successful case study in waste management within sub-Saharan Africa?",
+      "answer": "Burkina Faso's transition from centralized composting to individual on-site pits within their homes is mentioned as an example.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Composting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Composting",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Composting_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures",
+      "label": "Barrier mitigation measures",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What barriers do wildlife face in human-modified landscapes?",
+      "answer": "Wildlife face novel spatio-genetic barriers, which include physical barriers like buildings and waterways, as well as behavioural barriers such as reluctance to disperse across terrain.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Barrier mitigation measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors influence the impact of barriers on species?",
+      "answer": "The impact of barriers varies depending on the behavioural and ecological sensitivity of a species, creating complex interactions between landscape composition and gene flow.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Barrier mitigation measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do barriers between terrestrial and aquatic habitats influence amphibians?",
+      "answer": "Barriers are likely to affect their survival and may exert selection on their morphology and locomotor performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Barrier mitigation measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is expected to be the effect of habitat barriers on male lizards?",
+      "answer": "Males are expected to be more strongly impacted by barriers in their habitat, leading to stronger selection pressures on their morphology.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Barrier mitigation measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Barrier mitigation measures_qna_003",
+      "value": 1
+    }
+  ]
+}

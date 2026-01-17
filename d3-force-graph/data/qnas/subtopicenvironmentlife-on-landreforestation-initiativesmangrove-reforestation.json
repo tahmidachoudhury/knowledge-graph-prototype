@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation",
+      "label": "Mangrove reforestation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the target area for mangrove expansion in Pakistan?",
+      "answer": "The target area for mangrove expansion in Pakistan is 865,000 acres.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Mangrove reforestation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the global target for mangrove recovery mentioned in the paragraph?",
+      "answer": "The global target for mangrove recovery mentioned is an ambitious goal for recovery as outlined in the report.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Mangrove reforestation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation_qna_001",
+      "value": 1
+    }
+  ]
+}

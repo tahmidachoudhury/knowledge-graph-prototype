@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation",
+      "label": "Forest fragmentation mitigation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the consequences of continued forest fragmentation in the region?",
+      "answer": "Continued forest fragmentation will result in increased edge effects and a greater proportion of forest remaining in an early successional state, leading to a reduced and homogenized assemblage of amphibians and reptiles.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest fragmentation mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods were used to determine fragmentation levels for the study?",
+      "answer": "Fragmentation levels were determined by comparing historical and contemporary aerial imagery, along with supplementary data.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest fragmentation mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Democratic practices|Democratic governance workshops",
+      "label": "Democratic governance workshops",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Democratic practices"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Democratic practices|Democratic governance workshops_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is being scrutinized in response to the environmental crisis within democratic governance?",
+      "answer": "The routines and institutions of democratic governance, as well as their methods of intermediating between institutional politics and the people, are being scrutinized.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Democratic practices",
+      "subtopic": "Democratic governance workshops",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Democratic practices|Democratic governance workshops",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Democratic practices|Democratic governance workshops_qna_000",
+      "value": 1
+    }
+  ]
+}

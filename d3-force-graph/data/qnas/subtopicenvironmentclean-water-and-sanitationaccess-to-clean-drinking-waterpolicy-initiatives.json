@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Access to clean drinking water|Policy initiatives",
+      "label": "Policy initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Access to clean drinking water"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Access to clean drinking water|Policy initiatives_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Can you give an example of a policy that has not been categorized by some dimensions?",
+      "answer": "Yes, 'washing machine microfibre filters' has not been assigned a type in the CE strategy dimension.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Access to clean drinking water",
+      "subtopic": "Policy initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Access to clean drinking water|Policy initiatives",
+      "target": "Subtopic:Environment|Clean water and sanitation|Access to clean drinking water|Policy initiatives_qna_000",
+      "value": 1
+    }
+  ]
+}

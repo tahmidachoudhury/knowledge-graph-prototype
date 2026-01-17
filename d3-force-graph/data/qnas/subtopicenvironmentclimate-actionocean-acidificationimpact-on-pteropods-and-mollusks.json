@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks",
+      "label": "Impact on pteropods and mollusks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What spectrometer was used to analyze differences in surface elemental composition and speciation of Dicranopteris pedata REEs/C?",
+      "answer": "Differences in surface elemental composition and speciation were analyzed using a Multifunctional imaging electron spectrometer (XPS, Thermo ESCALAB 250XI, Thermo Fisher Scientific, USA).",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Impact on pteropods and mollusks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the two categories of macroinvertebrates mentioned in the paragraph?",
+      "answer": "The two categories are pollution sensitive taxa (e.g., Leptophlebiidae, Siphlonuridae, Arctopsychidae, and Perlidae) and pollution tolerant taxa (e.g., Chironomidae, Lymnaeidae, Planorbidae, and Glossiphoniidae).",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Impact on pteropods and mollusks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks_qna_001",
+      "value": 1
+    }
+  ]
+}

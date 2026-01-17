@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Obesity and health risks",
+      "label": "Obesity and health risks",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Obesity and health risks_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the health risks associated with high levels of processed meat consumption?",
+      "answer": "High levels of processed meat consumption are associated with increased risks of chronic diseases such as cardiovascular diseases, type 2 diabetes, and some forms of cancer.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "subtopic": "Obesity and health risks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Obesity and health risks",
+      "target": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Obesity and health risks_qna_000",
+      "value": 1
+    }
+  ]
+}

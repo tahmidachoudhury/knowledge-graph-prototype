@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "label": "Innovation in carbon offset methodologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How have carbon price prediction approaches evolved in recent years?",
+      "answer": "Various carbon price prediction approaches have emerged, which can be broadly classified into three categories: traditional econometric methods, artificial intelligence (AI) algorithms, and hybrid models.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Innovation in carbon offset methodologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do hybrid models improve prediction outcomes in carbon price forecasting?",
+      "answer": "Hybrid models improve prediction outcomes by integrating the abilities of each algorithm, diversifying the risk of single methods, and exploring complex internal information from various angles.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Innovation in carbon offset methodologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which decomposition technique has been widely employed for maximizing forecasting precision in carbon prices?",
+      "answer": "Empirical mode decomposition (EMD) has been widely employed for maximizing forecasting precision in carbon prices.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Innovation in carbon offset methodologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What method has been introduced to improve prediction results in carbon price forecasting?",
+      "answer": "A reconstruction method has been introduced, using sample entropy (SE) to reconstitute subgroups into new components, which helps avoid errors of subjective selection.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Innovation in carbon offset methodologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What technique is commonly used in literature to predict carbon prices?",
+      "answer": "A two-step technique involving decomposition followed by a single learning method is widely used to improve prediction accuracy.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Innovation in carbon offset methodologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_004",
+      "value": 1
+    }
+  ]
+}

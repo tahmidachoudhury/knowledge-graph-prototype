@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation",
+      "label": "Indigenous food heritage preservation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What impact have UPFs and intensive animal source foods (ASFs) had on traditional dietary patterns?",
+      "answer": "They have contributed to the loss of food cultures, disconnected populations from their traditional diets, and reduced culinary skills.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Indigenous food heritage preservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What role does wild meat play in human communities?",
+      "answer": "Wild meat plays important socio-cultural roles in some human communities, and declines in wild animals may negatively impact these roles.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Indigenous food heritage preservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is sustainable extraction of wild meat important?",
+      "answer": "Ensuring sustainable extraction of wild meat is key to achieving food security and preserving socio-cultural roles in communities that rely on it.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Indigenous food heritage preservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does the future of Arctic food systems depend on?",
+      "answer": "The future of Arctic food systems depends on the alignment of tradition with innovation, facilitation of resilience, and heritage-driven interaction with the global economy at a pace determined by local communities.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Indigenous food heritage preservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What has Kate been exploring in relation to Anishinaabe homelands?",
+      "answer": "Kate has been exploring her role in the relationships between land, food, and people.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Indigenous food heritage preservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Indigenous food heritage preservation_qna_004",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Animal welfare standards",
+      "label": "Animal welfare standards",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Animal welfare standards_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How do financialised food systems affect non-human animals?",
+      "answer": "Financialised food systems cause suffering to non-human animals through confinement, painful procedures, and unnatural feeding routines used in livestock production.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "subtopic": "Animal welfare standards",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Animal welfare standards_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is the consideration of animal welfare value significant in consumer purchasing decisions in Denmark and Italy?",
+      "answer": "The animal welfare value holds high importance in these countries due to Denmark's strong regulatory regime and Italy's surprising emphasis despite less societal demands and national regulations.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Ethical sourcing standards",
+      "subtopic": "Animal welfare standards",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Animal welfare standards",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Animal welfare standards_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Animal welfare standards",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Ethical sourcing standards|Animal welfare standards_qna_001",
+      "value": 1
+    }
+  ]
+}

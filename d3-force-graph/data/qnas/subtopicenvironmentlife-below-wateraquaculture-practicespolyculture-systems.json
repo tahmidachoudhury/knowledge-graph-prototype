@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems",
+      "label": "Polyculture systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What experimental design was employed for the larvae after hatching?",
+      "answer": "A split-brood design was used, with larvae individually transferred and allocated to one out of four treatments based on two rearing temperatures and two host plant treatments.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Polyculture systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of species combinations were selected for the subsample in the study?",
+      "answer": "The subsample included ten monocultures (five fast and five slow species), combinations of 4- and 8-species mixtures for fast, mixed and slow species, and two replicates of the 20-species plots.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Polyculture systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects",
+      "label": "Rural energy projects",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of the transition from non-commercial to commercial energy in rural China?",
+      "answer": "The transition signifies improved accessibility and affordability of energy sources, which can lead to a reduction in reliance on traditional and polluting fuels.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Rural energy projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is there a need for more studies on the energy consumption of traditional houses of rural ethnic minorities compared to urban houses?",
+      "answer": "There are few studies focusing on this area, and existing research shows limitations and shortcomings in understanding the unique energy consumption characteristics of these traditional houses.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Rural energy projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the difference in energy use between rural and urban dwellings as mentioned in the paragraph?",
+      "answer": "There are significant differences, indicating that rural dwellings have less access to energy resources and therefore should utilize renewable energy more effectively to reduce total energy consumption.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Rural energy projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some limitations in the current research on energy consumption of traditional houses of rural ethnic minorities?",
+      "answer": "There are few studies compared to urban houses, and existing research lacks an in-depth understanding of the actual situation of rural minority housing.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Rural energy projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is a limitation mentioned in the existing studies on the energy consumption of traditional houses of rural ethnic minorities?",
+      "answer": "There are few studies comparing the energy consumption of traditional houses of rural ethnic minorities with urban houses, and existing studies lack an in-depth understanding of the actual situation of rural minority housing.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Rural energy projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural energy projects_qna_004",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection",
+      "label": "Data collection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did the researchers determine the period to consider for their data collection related to the hatching date?",
+      "answer": "If the hatching date was known, they considered the period from hatching to the following 30 days; if not known, they used the day after deployment plus 30 days.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How did the two approaches in sampling complement each other in data collection?",
+      "answer": "The two approaches in sampling, based on sustainability policies and involvement in SPD processes, provided depth and consistency in data collection.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What year is considered a standard year for catch data in the study?",
+      "answer": "The year 2021 is considered a standard year in terms of volumes and species composition.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Data collection_qna_002",
+      "value": 1
+    }
+  ]
+}

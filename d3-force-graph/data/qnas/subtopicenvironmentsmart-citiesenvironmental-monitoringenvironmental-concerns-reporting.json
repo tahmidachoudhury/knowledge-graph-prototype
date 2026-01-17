@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting",
+      "label": "Environmental concerns reporting",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What term is used to describe the negative emotions experienced by individuals in environmental observation roles?",
+      "answer": "The term used is \"eco-grief.\"",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Environmental concerns reporting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is one keyword associated with the paragraph that highlights the theme of environmental concern?",
+      "answer": "Environmental concern.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Environmental concerns reporting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting_qna_002",
+      "group": "QnA",
+      "label": "Ethics and Regulation",
+      "question": "What concerns are associated with using people as intermediaries for the environment as a stakeholder?",
+      "answer": "Concerns with using people as intermediaries for the environment as a stakeholder include the fact that...",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Environmental concerns reporting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What challenges have environmental issues raised regarding society and politics?",
+      "answer": "They have raised questions concerning the ability of society and politics to cope with environmental challenges, particularly in liberal democracies.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Environmental concerns reporting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental concerns reporting_qna_003",
+      "value": 1
+    }
+  ]
+}

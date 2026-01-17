@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity",
+      "label": "Seabird diversity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do the habitats in which the northern lapwings were studied differ?",
+      "answer": "The habitats differed in their structure, with some being intensively farmed and others being recently established marshland habitats on arable land.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Seabird diversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many bird species are hosted by the Cakalburnu Lagoon?",
+      "answer": "The Cakalburnu Lagoon hosts 121 bird species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Seabird diversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What has been the primary focus of most studies on bird populations in relation to anthropogenic impacts on oceanic islands?",
+      "answer": "Most studies have focused on species richness, abundance, or habitat use, with few addressing physiological changes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Seabird diversity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Seabird diversity_qna_002",
+      "value": 1
+    }
+  ]
+}

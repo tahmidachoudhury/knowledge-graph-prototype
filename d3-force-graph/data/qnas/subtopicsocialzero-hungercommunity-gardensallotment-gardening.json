@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Allotment gardening",
+      "label": "Allotment gardening",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Community gardens|Allotment gardening_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the leaf cuttings prepared for the larvae?",
+      "answer": "Leaf cuttings were taken from at least 20 plants per day and randomly allocated to the larvae within treatments, with fresh cuttings supplied daily.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Community gardens",
+      "subtopic": "Allotment gardening",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Community gardens|Allotment gardening",
+      "target": "Subtopic:Social|Zero hunger|Community gardens|Allotment gardening_qna_000",
+      "value": 1
+    }
+  ]
+}

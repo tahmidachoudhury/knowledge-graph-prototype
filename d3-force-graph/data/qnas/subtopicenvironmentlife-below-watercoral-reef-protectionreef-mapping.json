@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping",
+      "label": "Reef mapping",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How far from the top of the limestone cliff were the surveys conducted?",
+      "answer": "Surveys were conducted between 50 and 100 meters from the top of the cliff.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Reef mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What methods were used to assess the current distribution of Gongolaria barbata?",
+      "answer": "The current distribution was established through an extensive survey conducted by snorkelling along approximately 30 km of coastline, along with GIS analysis.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Reef mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How were the locations of Gongolaria barbata recorded during the field work?",
+      "answer": "All the G. barbata populations were geolocalised and recorded on 1:2 500 maps.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Reef mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_002",
+      "value": 1
+    }
+  ]
+}

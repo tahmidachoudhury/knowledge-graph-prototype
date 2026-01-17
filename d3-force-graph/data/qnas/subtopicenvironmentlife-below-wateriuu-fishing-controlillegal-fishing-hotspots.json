@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Illegal fishing hotspots",
+      "label": "Illegal fishing hotspots",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Illegal fishing hotspots_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of areas are considered NIS hotspots?",
+      "answer": "NIS hotspots include ports, harbors, marinas, and anchoring areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Illegal fishing hotspots",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Illegal fishing hotspots",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Illegal fishing hotspots_qna_000",
+      "value": 1
+    }
+  ]
+}

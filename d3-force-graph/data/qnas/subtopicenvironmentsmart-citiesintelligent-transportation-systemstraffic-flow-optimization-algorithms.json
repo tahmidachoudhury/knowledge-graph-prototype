@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms",
+      "label": "Traffic flow optimization algorithms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "According to Giuseppe De Ruvo, what is the misconception regarding the objectivity of algorithms?",
+      "answer": "The misconception is that algorithms are objective tools that produce infallible results, whereas in reality, they can be misleading and perform imperfect calculations depending on the complexity of the context.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic flow optimization algorithms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What new algorithm is introduced in the study?",
+      "answer": "The study introduces a new Causal Direction from Dependency (D2C) algorithm.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic flow optimization algorithms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms_qna_001",
+      "value": 1
+    }
+  ]
+}

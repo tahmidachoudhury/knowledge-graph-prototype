@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management",
+      "label": "Water quality management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to minimize tank effects during the experiment?",
+      "answer": "Coral racks were haphazardly redistributed daily to minimize tank effects during the experiment.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Water quality management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to assess coral health prior to the experiment?",
+      "answer": "Imaging Pulse Amplitude Modulated Fluorometry (IPAM) was used to assess coral health prior to the experiment.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Water quality management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management_qna_001",
+      "value": 1
+    }
+  ]
+}

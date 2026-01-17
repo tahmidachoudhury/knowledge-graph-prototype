@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "label": "Manufacturing processes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors were found to affect the sustainability of the aluminum production process the most according to the LCA study?",
+      "answer": "The distance to the SPL treatment plant, the energy used during treatment, and the SPL pre-processing were found to affect sustainability the most.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "subtopic": "Manufacturing processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How are value chains related in the production of textile products?",
+      "answer": "In the production of textile products, since like products are made of several components, it entails a multitude of related value chains. These value chains encompass various stages such as spinning fibre into yarn, weaving, adding chemical finishings, assembling the final product with cutting and sewing components like fabric, buttons, and zippers.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "subtopic": "Manufacturing processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What is the output of the material production stage?",
+      "answer": "The output of the material production stage is 100 kg yarn, along with waste and emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "subtopic": "Manufacturing processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main objective of the study mentioned in the paragraph?",
+      "answer": "The main objective of the study is to obtain new experimental data on melting equilibria and solid-state transformations for typical silicon contents in electrical steel, and to reassess the thermodynamic system over the entire alloy range for better process modeling.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "subtopic": "Manufacturing processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_003",
+      "value": 1
+    }
+  ]
+}

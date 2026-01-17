@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices",
+      "label": "Soil carbon sequestration practices",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can supply-side practices in agriculture contribute to climate change mitigation?",
+      "answer": "According to the IPCC special report on climate change and land, supply-side practices can contribute to climate change mitigation by reducing crop and livestock emissions, sequestering carbon in soils and biomass, and decreasing emission intensity within sustainable production systems.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "subtopic": "Soil carbon sequestration practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can both measurement and modeling approaches benefit analyses of land management practices for soil C sequestration?",
+      "answer": "A combination of direct measurements for validation purposes and modeling at larger scales can help define the efficacy of different land management practices in enhancing soil C sequestration.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "subtopic": "Soil carbon sequestration practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices",
+      "target": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices",
+      "target": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_001",
+      "value": 1
+    }
+  ]
+}

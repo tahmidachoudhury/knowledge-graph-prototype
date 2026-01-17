@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration",
+      "label": "Role of reforestation in wildlife habitat restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of environment is represented by the North reference site?",
+      "answer": "The North reference site represents the original temperate pine-oak forest environment.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Role of reforestation in wildlife habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration_qna_001",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "How does the harvesting rotation of eucalyptus plantations affect their suitability for swift parrots?",
+      "answer": "Eucalyptus plantations are harvested on even shorter rotations (30 years), making them unlikely to provide adequate food sources for swift parrots.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Role of reforestation in wildlife habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration_qna_002",
+      "group": "QnA",
+      "label": "Ecology and regulation",
+      "question": "Why are regenerated trees from forestry practices unlikely to support the nesting needs of swift parrots?",
+      "answer": "Regenerated trees are unlikely to reach the necessary age and size to provide suitable nesting cavities or substantial food resources for swift parrots.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Role of reforestation in wildlife habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of reforestation in wildlife habitat restoration_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture",
+      "label": "Climate-resilient agriculture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What do researchers recognize as critical regarding agriculture and climate?",
+      "answer": "Researchers recognize the urgent need to understand and address the challenge of enhancing climate resilience in agriculture.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-resilient agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How have climate shocks impacted the productivity and livelihoods of agricultural producers?",
+      "answer": "Climate shocks present a risk for the loss of productivity, diminished farm income, and adverse effects on rural livelihoods, especially for producers in semi-arid regions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-resilient agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do climate challenges in Africa threaten agricultural productivity by 2050?",
+      "answer": "Climate challenges such as droughts, floods, deforestation, and rising sea levels threaten agricultural productivity in Africa, potentially reducing rain-fed yields by up to 50% by 2050.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-resilient agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "How do the authors propose to address climate change and food system resilience in their studies?",
+      "answer": "They propose combining ambitious climate policies with efforts to eradicate poverty, emphasizing the need for diversified and resilient food systems that are sustainable and environmental limits-oriented.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-resilient agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-resilient agriculture_qna_003",
+      "value": 1
+    }
+  ]
+}

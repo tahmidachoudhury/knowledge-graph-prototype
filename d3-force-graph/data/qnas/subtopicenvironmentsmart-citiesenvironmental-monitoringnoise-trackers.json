@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "label": "Noise trackers",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the tracks subsampled for the study?",
+      "answer": "The tracks were subsampled by keeping one fix every six hours with a 15-minute time tolerance using the R package amt.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Noise trackers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the height at which the acoustic recorders were installed at each site?",
+      "answer": "The acoustic recorders were installed at a height of approximately 1.5 meters.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Noise trackers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are acoustic indices used for in the context of ecoacoustic datasets?",
+      "answer": "Acoustic indices are mathematical formulae that summarize the acoustic environment of an area of interest for analyzing ecoacoustic datasets.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Noise trackers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is there a need for further development in the field of passive acoustic monitoring?",
+      "answer": "Current challenges compromise the effectiveness of passive acoustic monitoring methods, highlighting the need for more robust and comprehensive solutions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Noise trackers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_003",
+      "value": 1
+    }
+  ]
+}

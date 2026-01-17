@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Stem equity initiatives",
+      "label": "Stem equity initiatives",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Stem education|Stem equity initiatives_qna_000",
+      "group": "QnA",
+      "label": "Education and AI",
+      "question": "In what ways does the research address equity and inclusion in AI education?",
+      "answer": "The research addresses equity and inclusion by explicating AI competencies in underserved communities and promoting equitable AI education integration.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Stem education",
+      "subtopic": "Stem equity initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Stem education|Stem equity initiatives",
+      "target": "Subtopic:Social|Quality education|Stem education|Stem equity initiatives_qna_000",
+      "value": 1
+    }
+  ]
+}

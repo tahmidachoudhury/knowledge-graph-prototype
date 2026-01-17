@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Handicrafts and artisanal production",
+      "label": "Handicrafts and artisanal production",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Handicrafts and artisanal production_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What role do craftsmen play in the energy efficiency of homes on the Sichuan Plateau?",
+      "answer": "Craftsmen's reliance on traditional practices and their inability to utilize new technologies limit the comfort and energy-saving efficiency of their homes.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Handicrafts and artisanal production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Handicrafts and artisanal production_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What is the traditional approach followed in the silk manufacturing process to make yarns and fabrics?",
+      "answer": "The silk manufacturing process to make yarns and fabrics still follows the traditional approach as it was done in the ancient world despite developments in spinning and weaving technologies.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Handicrafts and artisanal production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Handicrafts and artisanal production",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Handicrafts and artisanal production_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Handicrafts and artisanal production",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Handicrafts and artisanal production_qna_001",
+      "value": 1
+    }
+  ]
+}

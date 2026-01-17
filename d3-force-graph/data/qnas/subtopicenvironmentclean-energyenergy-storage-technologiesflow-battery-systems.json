@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems",
+      "label": "Flow battery systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the typical lifetime of a modern Hall-Héroult aluminum reduction cell?",
+      "answer": "The typical lifetime is around 2000 days.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Flow battery systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How often do anodes in an aluminum reduction cell need to be replaced?",
+      "answer": "Anodes need to be replaced approximately every 2 to 4 weeks, depending on anode size and current density.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Flow battery systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What limits the lifetime of a Hall-Héroult cell?",
+      "answer": "The lifetime is limited by cathode wear.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Flow battery systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is the structure of the electrolysis cell used in the Hall Héroult process?",
+      "answer": "The electrolysis cell consists of a carbon anode and a graphitic cathode with a cryolitic-based electrolyte in-between, lined with steel and various insulating materials.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Flow battery systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the two different anode designs used in the Hall Héroult process?",
+      "answer": "The two anode designs are the Søderberg and prebaked anode designs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Flow battery systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How are the carbon anodes prepared for use in the prebaked Hall Héroult cells?",
+      "answer": "The carbon anodes are preformed and baked in a carbon anode plant before being assembled to the anode rod and placed inside the electrolysis cell.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Flow battery systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main design type discussed for the aluminum electrolysis cell in the paragraph?",
+      "answer": "The main design type discussed is the prebake anode design.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Flow battery systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_007",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What role does the liquid electrolyte play in a dye-sensitive solar cell?",
+      "answer": "The liquid electrolyte containing iodide and triiodide separates the working electrode from the platinum counter electrode in a dye-sensitive solar cell.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Flow battery systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Flow battery systems_qna_007",
+      "value": 1
+    }
+  ]
+}

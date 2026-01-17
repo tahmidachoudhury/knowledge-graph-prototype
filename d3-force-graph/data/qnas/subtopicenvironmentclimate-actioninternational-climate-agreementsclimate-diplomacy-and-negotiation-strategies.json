@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies",
+      "label": "Climate diplomacy and negotiation strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the two stages involved in the game played by countries regarding International Environmental Agreements?",
+      "answer": "The first stage involves countries deciding on their participation in the agreement and collectively deciding their mitigation and adaptation policies, while the second stage involves decisions on mitigation strategies and investment in R&D.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Climate diplomacy and negotiation strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What issues were highlighted regarding the negotiations on the summaries for policymakers?",
+      "answer": "The negotiations were influenced more by national interests than by science, leading to challenges in justifying scientific evidence presented in plain English.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Climate diplomacy and negotiation strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What role do side events play in the context of UNFCCC negotiations?",
+      "answer": "Side events serve as major avenues for non-state actor engagement, facilitating knowledge transfer, capacity building, and increasing the legitimacy and acceptance of the climate governance process.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Climate diplomacy and negotiation strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methods were used in the analysis of relationships and discourse of non-state actors and business interest groups at COPs?",
+      "answer": "The analysis utilized topic modeling on side events and social network analysis of COP28 delegation data to map relationships between nominators and fossil fuel lobbyists, revealing pathways to access COP events.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Climate diplomacy and negotiation strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Climate diplomacy and negotiation strategies_qna_003",
+      "value": 1
+    }
+  ]
+}

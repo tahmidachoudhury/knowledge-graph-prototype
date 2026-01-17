@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "label": "Changes in thunderstorm patterns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does a shape parameter greater than 0 signify regarding precipitation extremes?",
+      "answer": "A shape parameter greater than 0 indicates a high probability of experiencing precipitation extremes.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method is used to model the excess part of precipitation extremes in the study?",
+      "answer": "The study uses the Generalized Pareto Distribution (GPD) method to model the excess part of precipitation extremes.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which statistical method is used to identify precipitation extremes in this study?",
+      "answer": "The peak over threshold (POT) method is used to identify precipitation extremes in the study.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the correlation between hourly heavy rainfall changes and temperature increases according to the findings?",
+      "answer": "Hourly heavy rainfall changes are aligned with temperature increases, showing a sensitivity of a 7% increase per 1°C of warming.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which approach is employed on datasets of corrected precipitation to study extreme events?",
+      "answer": "The peaks over threshold (POT) approach is employed.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does a shape parameter less than 0 indicate in the context of precipitation extremes according to the generalized extreme value theory (GEVT)?",
+      "answer": "A shape parameter less than 0 indicates that we can expect precipitation extremes with low probability and an upper bound.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the relationship observed between heavy rainfall and temperature according to several studies?",
+      "answer": "Several studies suggest that there is a relationship where heavy rainfall increases by about 7% for each degree of warming.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_006",
+      "value": 1
+    }
+  ]
+}

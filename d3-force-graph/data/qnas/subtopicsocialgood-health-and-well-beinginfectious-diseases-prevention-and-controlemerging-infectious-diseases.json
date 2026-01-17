@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Emerging infectious diseases",
+      "label": "Emerging infectious diseases",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Emerging infectious diseases_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors make predicting emerging zoonotic viruses challenging?",
+      "answer": "Predicting emerging zoonotic viruses is challenging due to the largely random process influenced by many ecological, evolutionary, social, genetic, and virological factors.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Emerging infectious diseases",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Emerging infectious diseases",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Emerging infectious diseases_qna_000",
+      "value": 1
+    }
+  ]
+}

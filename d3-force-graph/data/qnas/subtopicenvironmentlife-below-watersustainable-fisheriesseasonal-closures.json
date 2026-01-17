@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Seasonal closures",
+      "label": "Seasonal closures",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Seasonal closures_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the ecological timescale discussed in the paragraph?",
+      "answer": "The ecological timescale emphasises mechanisms linked to resources needed for survival and reproduction that play out within seasons.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Seasonal closures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Seasonal closures",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Seasonal closures_qna_000",
+      "value": 1
+    }
+  ]
+}

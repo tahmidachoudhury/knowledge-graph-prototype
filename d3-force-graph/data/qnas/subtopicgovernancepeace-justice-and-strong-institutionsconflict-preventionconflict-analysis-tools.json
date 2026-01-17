@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools",
+      "label": "Conflict analysis tools",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods are used for the analysis in the research discussed?",
+      "answer": "The methods include quantitative bibliometric databases and qualitative thematic analysis using review protocols such as PICO(S), SPIDER, SPAR-4-SLR, PRISMA, and TOPIC+M.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention",
+      "subtopic": "Conflict analysis tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the impact of the method of extracting common factors on the study's findings?",
+      "answer": "The way common factors are extracted is crucial; partial least squares provide valuable information, while those extracted by two-step-Kalman Iter (2SKF) are not significant.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention",
+      "subtopic": "Conflict analysis tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the method of extracting common factors impact the analysis?",
+      "answer": "The way common factors are extracted is crucial; partial least squares provide valuable information, while two-step-Kalman Iter (2SKF) does not yield significant results.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention",
+      "subtopic": "Conflict analysis tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the extraction method of common factors impact the research findings?",
+      "answer": "The way the common factors are extracted is crucial, as common factors extracted by partial least squares provide valuable additional information, while those extracted by two-step-Kalman Iter (2SKF) are not significant.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention",
+      "subtopic": "Conflict analysis tools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Conflict analysis tools_qna_003",
+      "value": 1
+    }
+  ]
+}

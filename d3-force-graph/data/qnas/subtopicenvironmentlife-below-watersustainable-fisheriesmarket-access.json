@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access",
+      "label": "Market access",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the trend in fish export in developed countries from 1990 to 2021 according to SDG 17.4?",
+      "answer": "The trend in fish export in developed countries from 1990 to 2021 shows an increase in the export of tonnes, as per SDG 17.4 on debt sustainability financing.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Market access",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the significant positive lag-dependent variable (fish footprintt-1) indicate in the empirical model?",
+      "answer": "The significant positive lag-dependent variable suggests the persistent effects of fish footprint driven by historical consumption patterns, showing that fish footprint historically increases by at least 0.35% across economies.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Market access",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What ecological and economic challenges is the fisheries sector currently facing according to the paragraph?",
+      "answer": "The fisheries sector is facing ecological challenges, such as overfishing and habitat degradation, and economic challenges, including unequal access to resources and markets.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Market access",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_002",
+      "value": 1
+    }
+  ]
+}

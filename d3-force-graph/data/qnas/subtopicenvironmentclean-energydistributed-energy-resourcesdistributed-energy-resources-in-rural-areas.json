@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Distributed energy resources in rural areas",
+      "label": "Distributed energy resources in rural areas",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Distributed energy resources in rural areas_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How does the availability of energy differ between rural and urban areas on the Sichuan Plateau?",
+      "answer": "There are significant differences in energy utilization, with rural dwellings having less access to energy resources compared to urban areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Distributed energy resources in rural areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Distributed energy resources in rural areas",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Distributed energy resources in rural areas_qna_000",
+      "value": 1
+    }
+  ]
+}

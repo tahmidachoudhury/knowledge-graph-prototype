@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Sustainable forestry",
+      "label": "Sustainable forestry",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Sustainable forestry_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Were the criteria weights calculated using the AHP method in the assessment of sustainable forest management in Quebec, Canada?",
+      "answer": "Yes, the criteria weights were calculated using the AHP method.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Sustainable forestry",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Sustainable forestry",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Sustainable forestry_qna_000",
+      "value": 1
+    }
+  ]
+}

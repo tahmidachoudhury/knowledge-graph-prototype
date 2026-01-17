@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|School infrastructure|Technology integration",
+      "label": "Technology integration",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "School infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|School infrastructure|Technology integration_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What do the European Commission's Digital Competitiveness Framework and the UNESCO AI Competencies framework emphasize for AI integration in education?",
+      "answer": "They emphasize teachers' performance, pedagogical strategies, and learners' digital competencies, promoting inclusive and ethical AI integration.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "School infrastructure",
+      "subtopic": "Technology integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|School infrastructure|Technology integration",
+      "target": "Subtopic:Social|Quality education|School infrastructure|Technology integration_qna_000",
+      "value": 1
+    }
+  ]
+}

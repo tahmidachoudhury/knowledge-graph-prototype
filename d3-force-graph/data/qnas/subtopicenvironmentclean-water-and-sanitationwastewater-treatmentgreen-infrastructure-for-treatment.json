@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Green infrastructure for treatment",
+      "label": "Green infrastructure for treatment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Green infrastructure for treatment_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is recommended for effective water management in green infrastructure (GI) projects?",
+      "answer": "Integrated green-grey infrastructure systems are recommended for effective water management in GI projects.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Green infrastructure for treatment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Green infrastructure for treatment_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are some terms that have been used in GI debates?",
+      "answer": "Some terms used in GI debates include Nature-Based Solutions, green-grey infrastructure, sustainable urban drainage systems, ecological infrastructure, and sponge cities.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Green infrastructure for treatment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Green infrastructure for treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Green infrastructure for treatment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Green infrastructure for treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Green infrastructure for treatment_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training",
+      "label": "Wildlife conservation training",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are some issues faced by wildlife conservation personnel in Zimbabwe according to the paragraph?",
+      "answer": "They are often underequipped, receive poor salaries, are understaffed, and lack sufficient supervision.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife conservation training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What factors could increase the capture success of small mammals according to the paragraph?",
+      "answer": "Future tests with tube diameters, bait, timing of placement, and training for field workers could increase capture success.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife conservation training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training_qna_001",
+      "value": 1
+    }
+  ]
+}

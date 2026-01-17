@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification research initiatives",
+      "label": "Ocean acidification research initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification research initiatives_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which institutions or initiatives are associated with the work discussed in the paragraph?",
+      "answer": "The institutions associated are the Institute of Marine Science (ICM-CSIC) and the Ecopath International Initiative (Ell).",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Ocean acidification research initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification research initiatives",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification research initiatives_qna_000",
+      "value": 1
+    }
+  ]
+}

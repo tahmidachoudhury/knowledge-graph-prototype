@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns",
+      "label": "Seafood awareness campaigns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is it important for messaging about food consumption to be accurate and reliable?",
+      "answer": "It's crucial for messaging to be accurate and reliable as seen in the case of 'Seas piracy' where recommendations to stop eating fish were questioned by scientists and organizations, highlighting the impact misinformation can have on consumers' choices and beliefs.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "subtopic": "Seafood awareness campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why did some participants lack awareness when discussing the sustainability of seafood?",
+      "answer": "Participants lacked awareness regarding the sustainability of seafood, especially compared to meat, indicating a knowledge gap in this specific area of food consumption.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "subtopic": "Seafood awareness campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Why are more intrusive policy instruments like taxes necessary to address the food industry?",
+      "answer": "While information-based instruments like educational campaigns and labelling policies are commonly used, they are not always effective in changing consumer behaviour. Therefore, more intrusive policy instruments such as taxes are necessary to additionally address the industry. These measures can help promote sustainable production and consumption by encouraging industry accountability and responsibility (Fought and Zander, 2018; Gamma and Oglethorpe, 2011).",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "subtopic": "Seafood awareness campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What type of communication was used to encourage vegetarian purchases in the supermarket?",
+      "answer": "Dynamic norm communications, including floor stickers, stickers in shopping trolleys, banners, and wobblers, were used to encourage vegetarian purchases.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Seafood promotion",
+      "subtopic": "Seafood awareness campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns",
+      "target": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns",
+      "target": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns",
+      "target": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns",
+      "target": "Subtopic:Environment|Life below water|Seafood promotion|Seafood awareness campaigns_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing",
+      "label": "Regular water testing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How soon after collection were the water samples analyzed?",
+      "answer": "The water samples were analyzed within 8 hours of collection.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Regular water testing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many integrated water samples were taken from each site for analysis?",
+      "answer": "Two integrated water samples were taken from each site.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Regular water testing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing_qna_001",
+      "value": 1
+    }
+  ]
+}

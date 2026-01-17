@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine parks",
+      "label": "Marine parks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine parks_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "When did the Madeira region begin its pioneering efforts in creating marine protected areas?",
+      "answer": "The Madeira region began its pioneering efforts in creating marine protected areas with the Selvagens Islands Nature Reserve in 1971.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Marine parks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Marine parks",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Marine parks_qna_000",
+      "value": 1
+    }
+  ]
+}

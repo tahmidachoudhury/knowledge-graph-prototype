@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems",
+      "label": "Pathogen tracking systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "When was DEET first documented in fresh-water environments?",
+      "answer": "DEET was first documented in fresh-water environments throughout the 1990s in American and European regions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Pathogen tracking systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What software was used to characterize the ITS2 types present in the samples?",
+      "answer": "The software used to characterize the ITS2 types present in the samples was SymPortal.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Pathogen tracking systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods are mentioned for obtaining genomic datasets?",
+      "answer": "Double digest Restriction Associated DNA sequencing (RAD-seq) and sequence-capture methods are mentioned for obtaining genomic datasets.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Pathogen tracking systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What tool was used to process the DNA samples after extraction?",
+      "answer": "Quantitative PCR (qPCR) using the QuantStudio 3 (Applied Biosystems, USA) was used to process the DNA samples after extraction.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Pathogen tracking systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of sequencing platform was utilized in this study?",
+      "answer": "The Illumina platform was used for sequencing.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Pathogen tracking systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What pathogen is associated with Desmodus rotundus in the context of this study?",
+      "answer": "Desmodus rotundus is a reservoir for the rabies virus.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Pathogen tracking systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Pathogen tracking systems_qna_005",
+      "value": 1
+    }
+  ]
+}

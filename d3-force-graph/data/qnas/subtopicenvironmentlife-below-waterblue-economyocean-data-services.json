@@ -1,0 +1,242 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "label": "Ocean data services",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the two measurement networks mentioned in the paragraph?",
+      "answer": "The two measurement networks are operated by GeoSphere Austria (GSA) and the Hydrographic Service of Austria (HYD).",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does TEK compare to traditionally acquired scientific data?",
+      "answer": "TEK is regarded as a crucial alternative and/or complementary to traditionally acquired scientific data, especially in complex environments and data-poor contexts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What organization provides public access to archived Level II radar data in the US?",
+      "answer": "NOAA (National Oceanic and Atmospheric Administration) provides public access to archived Level II radar data in the US.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What research platform is mentioned as a source for printed documents related to G. barbata?",
+      "answer": "The MACROPHYTES research platform of the Mediterranean Institute of Oceanography (MIO) is mentioned for keeping printed documents.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How large is the ecoacoustic dataset mentioned in the study?",
+      "answer": "The dataset is 1.58 TB in size.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many audio files are included in the ecoacoustic dataset collected from Cyprus?",
+      "answer": "The dataset comprises over 313,000 audio files.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_006",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Where has the complete ecoacoustic dataset been made available for use?",
+      "answer": "The complete dataset has been made available on the Hugging Face repository and the ARBIMON platform, operated by Rainforest Connection.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_007",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much data does the ecoacoustic dataset collected in Cyprus comprise?",
+      "answer": "The ecoacoustic dataset from Cyprus comprises 1.58 TB of data.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_008",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What potential applications does the Cyprus ecoacoustic dataset support?",
+      "answer": "The dataset can support applications such as developing or improving species recognition algorithms, refining acoustic indices, and developing tools for removing signals from non-biological processes or non-focal species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_009",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What software was used for processing HDMSE data?",
+      "answer": "The HDMSE data were processed with Progenesis QI software.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_010",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which database is used to rely on historical data of disasters recorded in Nigeria?",
+      "answer": "The historical data is sourced from the EMDAT database.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_011",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the time span of the dataset for Bjørnøya?",
+      "answer": "The dataset for Bjørnøya spans from January 1, 1964, to December 31, 2023.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Ocean data services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_009",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_010",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Ocean data services",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Ocean data services_qna_011",
+      "value": 1
+    }
+  ]
+}

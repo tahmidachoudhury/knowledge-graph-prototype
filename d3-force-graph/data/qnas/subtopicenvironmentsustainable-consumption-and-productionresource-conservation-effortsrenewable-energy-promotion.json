@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Renewable energy promotion",
+      "label": "Renewable energy promotion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Renewable energy promotion_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What supports renewable energy in Ireland after the closure of the REFIT scheme?",
+      "answer": "After the closure of the REFIT scheme, renewable energy in Ireland is supported by the Renewable Energy Support Scheme (RESS).",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Renewable energy promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Renewable energy promotion",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Renewable energy promotion_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination",
+      "label": "Chemical contamination",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the environmental impact of using almost 800 different types of chemicals globally in textile processes?",
+      "answer": "The environmental impact of using almost 800 different types of chemicals globally in textile processes is significant, with 80% of them being synthetic and hazardous. This can lead to pollution of water sources, soil contamination, and harmful effects on ecosystems.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Chemical contamination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination_qna_001",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What are some of the key environmental implications of synthetic organic dyes as contaminants in the aquatic environment according to Track et al. (2020)?",
+      "answer": "According to Track et al. (2020), synthetic organic dyes as contaminants in the aquatic environment can have implications for ecosystems, affecting the overall health of water bodies and the organisms living in them.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Chemical contamination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the potential impact of the release of unused carbon disulphide into water courses during the manufacturing of rayon fibre?",
+      "answer": "The release of unused carbon disulphide can lead to water pollution, affecting the ecosystem and aquatic life.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Chemical contamination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of primary pollutants are identified in the paragraph?",
+      "answer": "Primary pollutants include chlorinated, fluorinated, and other halogenated industrial chemicals or pesticides, as well as unintentional POPs such as polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF).",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Chemical contamination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are persistent organic pollutants (POPs) and persistent, bioaccumulative and toxic substances (PBTs) primarily accumulating in?",
+      "answer": "They are mainly accumulating in reservoirs such as landfills, dump sites, contaminated sites, mine tailings, as well as in environmental sinks like soils and sediments.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Chemical contamination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Chemical contamination_qna_004",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control",
+      "label": "Coral disease control",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the main phenomenon caused by population outbreaks of COTS?",
+      "answer": "Population outbreaks of COTS cause major coral loss in Indo-Pacific reefs.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Coral disease control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the potential role of cohorts of juveniles in the reef infrastructure?",
+      "answer": "Cohorts of juveniles can accumulate as a hidden army in the reef infrastructure, potentially serving as a proximate source of outbreaks during suitable conditions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Coral disease control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control_qna_001",
+      "value": 1
+    }
+  ]
+}

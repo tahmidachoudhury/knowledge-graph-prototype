@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "label": "Ai in governance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the notable gap identified in the existing policies and frameworks?",
+      "answer": "There is a lack of empirical research that integrates AI, curriculum, and sustainability in schools.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "subtopic": "Ai in governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How can government interventions help in overcoming the challenges associated with smart cities?",
+      "answer": "Government interventions and multiscale governance mechanisms are essential to ensure balanced growth and avoid disproportionate impacts on societal groups.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "subtopic": "Ai in governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is emphasized as necessary for the sustainable development of AI in relation to emerging and developing economies?",
+      "answer": "There is an urgent need for collaborative governance that establishes binding international standards to develop digital infrastructure and skills in emerging markets, enabling participation in AI development while protecting climate goals.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "subtopic": "Ai in governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the article suggest smaller countries might struggle with AI development?",
+      "answer": "Smaller countries may struggle with AI development due to a lack of infrastructure capable of meeting the high energy demands required for AI, raising concerns about equitable participation in AI advancements.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "subtopic": "Ai in governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "target": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "target": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "target": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "target": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_003",
+      "value": 1
+    }
+  ]
+}

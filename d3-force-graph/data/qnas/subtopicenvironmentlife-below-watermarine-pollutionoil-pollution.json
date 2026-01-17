@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Oil pollution",
+      "label": "Oil pollution",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Oil pollution_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How long have studies reported the phytotoxic effect of essential oils (EOs) on plants?",
+      "answer": "Studies have widely reported the phytotoxic effect of essential oils on plants for the last 20 years.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Oil pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Oil pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Oil pollution_qna_000",
+      "value": 1
+    }
+  ]
+}

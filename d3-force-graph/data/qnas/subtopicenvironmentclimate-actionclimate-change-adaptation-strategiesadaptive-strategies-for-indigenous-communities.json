@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities",
+      "label": "Adaptive strategies for indigenous communities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the primary focus of the research regarding traditional buildings of ethnic minorities in the Sichuan Plateau?",
+      "answer": "The primary focus is to promote energy conservation and sustainable development of local traditional buildings while improving the living environment of the Sichuan Plateau.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Adaptive strategies for indigenous communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What demographic shift is occurring in the Arctic concerning Indigenous populations?",
+      "answer": "Currently, about 50% of the Arctic population is not Indigenous, leading to demographic and cultural shifts away from traditional lifestyles.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Adaptive strategies for indigenous communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What impact does the increase in settler populations have on Indigenous communities in the Arctic?",
+      "answer": "The increase in settler populations further imperils the ways and cultures of diverse Arctic Indigenous nations and disrupts their food cultures.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Adaptive strategies for indigenous communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What role do Indigenous territories play in the context of the Amazon, as highlighted in the discussions by COICA?",
+      "answer": "Indigenous territories are recognized as \"spaces for sustainable conservation,\" storing nearly one third of the Amazonia region's above-ground carbon, thereby significantly contributing to climate change mitigation and adaptation.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Adaptive strategies for indigenous communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Adaptive strategies for indigenous communities_qna_003",
+      "value": 1
+    }
+  ]
+}

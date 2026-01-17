@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Peer lending groups",
+      "label": "Peer lending groups",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "According to the paragraph, what role does hierarchical trust play in the context of money?",
+      "answer": "Hierarchical trust acts as a basis for money, where a third-party rule setter protects and regulates it, thus ensuring social cohesion.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Peer lending groups",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why did borrowing and lending apparel experience a decrease during the pandemic?",
+      "answer": "Borrowing and lending apparel often involve non-monetary exchanges among relatives or friends. The decline during the pandemic can be attributed to lockdown restrictions and social distancing measures that kept individuals apart from their close circles.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Peer lending groups",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Peer lending groups",
+      "target": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Peer lending groups",
+      "target": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_001",
+      "value": 1
+    }
+  ]
+}

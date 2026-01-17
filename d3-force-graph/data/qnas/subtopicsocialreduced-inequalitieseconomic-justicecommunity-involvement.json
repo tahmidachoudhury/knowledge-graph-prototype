@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Economic justice|Community involvement",
+      "label": "Community involvement",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Economic justice"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Economic justice|Community involvement_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What do the terms \"citizen currencies\" and \"community currencies\" emphasize?",
+      "answer": "\"Citizen currencies\" emphasize formal citizen involvement, while \"community currencies\" reflect the economic and social interests of a community.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Economic justice",
+      "subtopic": "Community involvement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Economic justice|Community involvement",
+      "target": "Subtopic:Social|Reduced inequalities|Economic justice|Community involvement_qna_000",
+      "value": 1
+    }
+  ]
+}

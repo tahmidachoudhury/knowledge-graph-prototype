@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops",
+      "label": "Climate-resilient crops",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is a potential tradeoff mentioned in the paragraph regarding cereal production?",
+      "answer": "The potential tradeoff is between the quantity of cereal production and its stability, particularly in light of climate variability and extremes.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Climate-resilient crops",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is rainfed production significant in this study?",
+      "answer": "Rainfed production constitutes approximately two-thirds (62%) of Indian cereal area and is more susceptible to climate variability.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Climate-resilient crops",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do transcription factors contribute to plant growth?",
+      "answer": "Transcription factors are critical regulators in diverse signaling networks that enhance plant growth and development, especially under stress situations.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Climate-resilient crops",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of the multicriteria climatic classification system for grape-growing regions worldwide?",
+      "answer": "The multicriteria climatic classification system helps in identifying the suitability of different regions for grape cultivation based on various climatic factors.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Climate-resilient crops",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors, besides yields, are important for crop production stability?",
+      "answer": "Changes in harvested area associated with climate variability are important factors for crop production stability.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Climate-resilient crops",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Climate-resilient crops_qna_004",
+      "value": 1
+    }
+  ]
+}

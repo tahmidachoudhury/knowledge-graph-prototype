@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Digital social services delivery",
+      "label": "Digital social services delivery",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Digital social services delivery_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the significance of the social license to automate concept in DSM?",
+      "answer": "The social license to automate concept highlights the legitimacy, credibility, and trust required for user acceptance of DSM programs, emphasizing that DSM is not just a personal choice but is influenced by broader social conditions and community stakeholder requirements.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Digital social services delivery",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Digital social services delivery",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Digital social services delivery_qna_000",
+      "value": 1
+    }
+  ]
+}

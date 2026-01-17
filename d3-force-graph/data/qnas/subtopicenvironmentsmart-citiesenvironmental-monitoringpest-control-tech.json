@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Pest control tech",
+      "label": "Pest control tech",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Pest control tech_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does indoor agriculture contribute to sustainability and minimize pest infestation?",
+      "answer": "Biotechnological progress has contributed to the development of diverse crop varieties that thrive in urban settings.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Pest control tech",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Pest control tech_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What implications do certain microtine rodents have for agriculture?",
+      "answer": "Some microtine rodents are considered pests to agriculture, particularly at the peak of their population cycles, which can have implications for pest management practices.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Pest control tech",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Pest control tech",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Pest control tech_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Pest control tech",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Pest control tech_qna_001",
+      "value": 1
+    }
+  ]
+}

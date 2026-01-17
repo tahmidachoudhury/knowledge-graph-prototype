@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)",
+      "label": "Payment for ecosystem services (pes)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What condition allows second-best subsidies to achieve decarbonization at a similar cost to the first-best solution, according to Rezai and van der Ploeg (2017)?",
+      "answer": "Credible public commitment allows second-best subsidies to achieve decarbonization at the same cost as the first-best solution.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Payment for ecosystem services (pes)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to the findings, is an emissions trading system (ETS) always superior to operational permits for GHG regulations?",
+      "answer": "No, climatic and economic projections in an ETS scenario are not necessarily superior to those in an operational permit scenario.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Payment for ecosystem services (pes)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Which system is identified as the best-performing in terms of macroeconomic, microeconomic, and climate outcomes?",
+      "answer": "An ETS with a declining number of permits is identified as the best-performing system.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Payment for ecosystem services (pes)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_002",
+      "value": 1
+    }
+  ]
+}

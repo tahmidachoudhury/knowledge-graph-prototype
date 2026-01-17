@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows",
+      "label": "Seagrass meadows",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of fauna are being assessed in the seagrass meadows according to the study?",
+      "answer": "The study assesses both large (> 1 mm) and small (0.2 - 1 mm) epifauna, as well as infauna.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Seagrass meadows",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do edge effects relate to seagrass meadows?",
+      "answer": "Seagrass meadows serve as a valuable model for studying edge effects and fragmentation because they are transitional zones between seagrass beds and adjacent habitats, where pronounced edge effects influence species distribution and ecosystem function.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Seagrass meadows",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does this study aim to analyze regarding seagrass meadows?",
+      "answer": "This study aims to analyze how edge effects vary in seagrass meadows with different fragmentation levels, focusing on epifaunal and infaunal communities.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Seagrass meadows",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_002",
+      "value": 1
+    }
+  ]
+}

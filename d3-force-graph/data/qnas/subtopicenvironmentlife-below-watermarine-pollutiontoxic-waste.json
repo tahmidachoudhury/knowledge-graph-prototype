@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Toxic waste",
+      "label": "Toxic waste",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Toxic waste_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is SPL considered hazardous waste?",
+      "answer": "SPL is considered hazardous due to the production of deadly gases like phosphine (PH3) and hydrogen cyanide (HCN) when it reacts with moisture or water.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Toxic waste",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Toxic waste",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Toxic waste_qna_000",
+      "value": 1
+    }
+  ]
+}

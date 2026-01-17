@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community conservation networks",
+      "label": "Community conservation networks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community conservation networks_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What critical aspect do the authors believe is lacking in the policy context regarding ecological networks?",
+      "answer": "The authors believe that clear conservation prioritizations are lacking in the policy context regarding ecological networks.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community conservation networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community conservation networks",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community conservation networks_qna_000",
+      "value": 1
+    }
+  ]
+}

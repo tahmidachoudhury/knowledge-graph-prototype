@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform",
+      "label": "Advocacy for food policy reform",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What does the global food governance system involve?",
+      "answer": "A multi-level system of institutions, actors, and interests involved in dialogue, decision making, and implementation of actions that impact the global food system.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "subtopic": "Advocacy for food policy reform",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is required for the proposed actions regarding food systems to be successful?",
+      "answer": "Strong coordination and advocacy from various civil society groups is required.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "subtopic": "Advocacy for food policy reform",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What entities are suggested to be included in the advocacy for food systems?",
+      "answer": "Public health alliances, food sovereignty alliances, labour unions, farmers, small-scale agri-food businesses and retailers, consumer groups, animal welfare groups, governments without vested interests, and intergovernmental organisations.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "subtopic": "Advocacy for food policy reform",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform",
+      "target": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform",
+      "target": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform",
+      "target": "Subtopic:Social|Zero hunger|Food justice|Advocacy for food policy reform_qna_002",
+      "value": 1
+    }
+  ]
+}

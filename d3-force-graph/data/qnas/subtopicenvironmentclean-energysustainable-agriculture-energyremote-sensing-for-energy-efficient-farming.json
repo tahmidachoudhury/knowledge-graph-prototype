@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming",
+      "label": "Remote sensing for energy-efficient farming",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the primary objective of the research conducted in Gonbad Kavous?",
+      "answer": "The primary objective is to evaluate early warning signals through remote sensing indices to identify and manage areas at high risk effectively, improve soil management practices, and conserve natural resources.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Remote sensing for energy-efficient farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What program is mentioned as a significant contributor to capturing thermal radiance across landscapes?",
+      "answer": "The Landsat program is mentioned as a significant contributor to capturing thermal radiance across diverse landscapes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Remote sensing for energy-efficient farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What equation was used to calculate the green coverage percentage in the ImageJ analysis?",
+      "answer": "The equation used was: Green coverage percentage (%) = (green surface area of plant / Total surface area of plant) * 100.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Remote sensing for energy-efficient farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What tool was used to calculate the green surface area in ImageJ analysis?",
+      "answer": "A fixed saturation range of 50 to 110 was used in ImageJ analysis to isolate the actively photosynthetic tissue.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Remote sensing for energy-efficient farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Remote sensing for energy-efficient farming_qna_003",
+      "value": 1
+    }
+  ]
+}

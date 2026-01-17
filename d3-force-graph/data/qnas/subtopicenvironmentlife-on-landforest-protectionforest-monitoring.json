@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest monitoring",
+      "label": "Forest monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest monitoring_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the mean forest cover within 20 km of study sites compare to the mean forest cover across the study region?",
+      "answer": "The mean forest cover within 20 km of study sites was 90%, while the mean forest cover across the study region was 50%.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Forest monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Forest monitoring",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Forest monitoring_qna_000",
+      "value": 1
+    }
+  ]
+}

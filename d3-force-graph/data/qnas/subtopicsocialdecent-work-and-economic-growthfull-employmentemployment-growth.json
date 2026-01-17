@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Employment growth",
+      "label": "Employment growth",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Employment growth_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does Sustainable Development Goal 8 (SDG 8) promote?",
+      "answer": "SDG 8 promotes sustained economic growth, full and productive employment, and decent work.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "subtopic": "Employment growth",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Full employment|Employment growth",
+      "target": "Subtopic:Social|Decent work and economic growth|Full employment|Employment growth_qna_000",
+      "value": 1
+    }
+  ]
+}

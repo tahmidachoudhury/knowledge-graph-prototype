@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Threats to coastal ecosystem services",
+      "label": "Threats to coastal ecosystem services",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Threats to coastal ecosystem services_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are estuarine systems considered among the most productive yet threatened ecosystems?",
+      "answer": "Estuarine systems are considered highly productive because they support a rich diversity of economically and ecologically important species and provide vital ecosystem services, but they are threatened by factors such as marine heatwaves and human activities.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Threats to coastal ecosystem services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Threats to coastal ecosystem services",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Threats to coastal ecosystem services_qna_000",
+      "value": 1
+    }
+  ]
+}

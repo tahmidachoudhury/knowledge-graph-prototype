@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded peatlands",
+      "label": "Restoration of degraded peatlands",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded peatlands_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What was the effect of disturbance on bryophyte richness in the study?",
+      "answer": "Disturbance increased bryophyte richness and modulated the effects of nitrogen fertilization and other treatments.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Restoration of degraded peatlands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded peatlands",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded peatlands_qna_000",
+      "value": 1
+    }
+  ]
+}

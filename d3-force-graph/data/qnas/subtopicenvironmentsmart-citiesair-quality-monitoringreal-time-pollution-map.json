@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Real-time pollution map",
+      "label": "Real-time pollution map",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Real-time pollution map_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What online resource provides easy-to-read visuals of warming for different geographic areas?",
+      "answer": "The ShowYourStripes website provides easy-to-read visuals of warming for the globe, regions, countries, and towns.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Real-time pollution map",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Real-time pollution map_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What time period does the study cover for mapping ES dynamics?",
+      "answer": "From 2009 to 2020.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Real-time pollution map",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Real-time pollution map",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Real-time pollution map_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Real-time pollution map",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Real-time pollution map_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Safe drinking water access",
+      "label": "Safe drinking water access",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Safe drinking water access_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the change in access to safely managed water provisions before and after the lockdown?",
+      "answer": "Access to safely managed water provisions dropped from 30.0% to 24.6% due to the lockdown measures.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Safe drinking water access",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Safe drinking water access",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Safe drinking water access_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation",
+      "label": "Participatory conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What approach does the IPAs program use for conservation?",
+      "answer": "The IPAs program employs a bottom-up approach that involves national and regional stakeholders and promotes community-led management.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Participatory conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "In what context was the participatory MCA methodology validated?",
+      "answer": "It was validated during an all-day workshop on Tinos, a Greek island on the Aegean Sea.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Participatory conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "Who are the contributors mentioned as part of creating a Nature-Positive World?",
+      "answer": "Contributors to creating a Nature-Positive World include Locke, Rockström, Bakker, Bapna, and others involved in biodiversity initiatives.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Participatory conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Participatory conservation_qna_002",
+      "value": 1
+    }
+  ]
+}

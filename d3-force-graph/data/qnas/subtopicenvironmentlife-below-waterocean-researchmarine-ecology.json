@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine ecology",
+      "label": "Marine ecology",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine ecology_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Which study investigates the ecological importance of elasmobranchs and their role in marine ecosystems?",
+      "answer": "\"The ecological importance of elasmobranchs\" appears in the book \"Sharks and Their Relatives II,\" emphasizing their crucial role in marine ecological dynamics.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine ecology",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine ecology",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine ecology_qna_000",
+      "value": 1
+    }
+  ]
+}

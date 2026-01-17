@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness",
+      "label": "Nutritional labeling awareness",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Where were the floor stickers placed in the supermarket to promote vegetarian options?",
+      "answer": "The floor stickers were placed near the entrance and the meat (alternative) shelves.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Nutritional labeling awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is understanding the demographic of young adults important in relation to food consumption habits?",
+      "answer": "Understanding the demographic of young adults is important due to their high acceptance towards alternatives and their consumption habits being among the most impactful in the food industry.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Nutritional labeling awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How can knowledge provision help improve consumers' label understanding?",
+      "answer": "Educational interventions can effectively enhance consumers' understanding of labels and help them identify sustainable products.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Nutritional labeling awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_003",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What was the aim of the pilot investigation conducted by SiriKit et al. (2013)?",
+      "answer": "The aim of the pilot investigation conducted by SiriKit et al. (2013) was to explore consumers' perceptions of individual and combined sustainable food labels in the UK.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Nutritional labeling awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_004",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the impact of knowledge and information nudges on sustainable dietary choices, as investigated by Morten et al. (2021)?",
+      "answer": "Morten et al. (2021) investigated the impact of knowledge and information nudges on sustainable dietary choices and tested how they can potentially change diets.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Nutritional labeling awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_005",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do food values impact consumer food preferences and guide marketing decisions?",
+      "answer": "Food values significantly relate to actual grocery store purchases, explaining consumer food preferences and guiding marketing decisions effectively.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Nutritional labeling awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_006",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How could further empirical evidence on specific food products enhance marketing strategies for sustainable food?",
+      "answer": "Further empirical evidence focusing on specific food products would be beneficial for refining marketing strategies that require a more targeted approach. This deeper analysis could provide insights into consumer preferences and behaviours, aiding in the development of more effective marketing campaigns.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Nutritional labeling awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Nutritional labeling awareness_qna_006",
+      "value": 1
+    }
+  ]
+}

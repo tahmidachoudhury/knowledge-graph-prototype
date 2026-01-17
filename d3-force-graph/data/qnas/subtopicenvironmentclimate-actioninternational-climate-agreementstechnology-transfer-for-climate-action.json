@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action",
+      "label": "Technology transfer for climate action",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is one of the essential strategies mentioned for managing climate-induced migration in Africa?",
+      "answer": "Investing in innovative technologies alongside renewable energy sources and crops resistant to climate change is one of the essential strategies.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Technology transfer for climate action",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can the diffusion of technologies within a nation be facilitated through the financialization channel?",
+      "answer": "The diffusion of technologies within a nation can be pushed through the financialization channel by helping sectors initiate the carbon reduction process and realize the need for cleaner energy alternatives.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Technology transfer for climate action",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "According to empirical studies, what factor is predicted to enhance the feasibility of adopting renewable-energy technology in nations?",
+      "answer": "Greater trade openness is predicted to enhance the feasibility of adopting renewable-energy technology in nations.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "International climate agreements",
+      "subtopic": "Technology transfer for climate action",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action",
+      "target": "Subtopic:Environment|Climate action|International climate agreements|Technology transfer for climate action_qna_002",
+      "value": 1
+    }
+  ]
+}

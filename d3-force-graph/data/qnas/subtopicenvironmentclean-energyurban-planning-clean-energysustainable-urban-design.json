@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design",
+      "label": "Sustainable urban design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the implications of this research for urban development and environmental management?",
+      "answer": "The research offers valuable insights into sustainable urban development and environmental management in tropical urban settings.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Sustainable urban design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design_qna_001",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How did Walton and Austin (2011) explore pro-environmental behaviour in an urban social structural context?",
+      "answer": "Walton and Austin (2011) explored pro-environmental behaviour in an urban social structural context by examining the influencing factors and dynamics within urban environments that shape individuals' environmental attitudes and behaviours.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Sustainable urban design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design_qna_001",
+      "value": 1
+    }
+  ]
+}

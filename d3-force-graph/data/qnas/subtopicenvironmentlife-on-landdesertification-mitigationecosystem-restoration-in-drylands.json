@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Ecosystem restoration in drylands",
+      "label": "Ecosystem restoration in drylands",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Ecosystem restoration in drylands_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What example is provided to illustrate the effects of increased aridity on ecosystem relationships?",
+      "answer": "Research in the arid regions of northern China shows that the relationship between plant and microbial diversity and soil multifunctionality shifts when aridity exceeds a threshold of 0.82.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Ecosystem restoration in drylands",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Ecosystem restoration in drylands",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Ecosystem restoration in drylands_qna_000",
+      "value": 1
+    }
+  ]
+}

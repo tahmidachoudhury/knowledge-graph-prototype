@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification",
+      "label": "Photocatalytic purification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the process of (MLCT) facilitate in relation to TiO2?",
+      "answer": "The process of (MLCT) facilitates the rapid movement of photo-electric charges toward TiO2, which exceeds electron recombination using the oxidized dye component.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Photocatalytic purification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of coordination modes allow N3 dye to attach to titanium surfaces?",
+      "answer": "Unidentate, bridging bidentate, and chelating are the three types of coordination modes that enable the carboxylate groups of N3 dye to chemically attach to titanium surfaces.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Photocatalytic purification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification_qna_001",
+      "value": 1
+    }
+  ]
+}

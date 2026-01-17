@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices",
+      "label": "Sustainable grazing practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What environmental challenges do Anxi cattle (AX) face in their habitat?",
+      "answer": "Anxi cattle (AX) are adapted to the cold, arid environments and poor-quality forage of the Gobi Desert.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Sustainable grazing practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the Australian pastoral industry relate to data-driven sustainability?",
+      "answer": "The Australian pastoral industry has become one of the most recent industries to adopt data-driven sustainability, relying on data from extensive monitoring and surveillance.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Sustainable grazing practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices_qna_001",
+      "value": 1
+    }
+  ]
+}

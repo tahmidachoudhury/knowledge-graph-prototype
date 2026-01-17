@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Mental health in farming",
+      "label": "Mental health in farming",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Mental health in farming_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What kind of mental health challenges can environmental observers face?",
+      "answer": "Mental health challenges can range in severity and duration, possibly leading to disengagement from their profession or participation in new forms of action, such as activism.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Mental health in farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Mental health in farming_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does eco-grief differ from other forms of grief?",
+      "answer": "Eco-grief is characterized as overwhelming, ongoing, and unprecedented, differing from other forms of grief and anxiety that are connected to specific life events.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Mental health in farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Mental health in farming",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Mental health in farming_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Mental health in farming",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Mental health in farming_qna_001",
+      "value": 1
+    }
+  ]
+}

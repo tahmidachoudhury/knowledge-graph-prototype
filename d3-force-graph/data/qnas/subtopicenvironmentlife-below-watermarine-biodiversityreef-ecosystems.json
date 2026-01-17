@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems",
+      "label": "Reef ecosystems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why are coral reefs considered important to ocean health and coastal communities?",
+      "answer": "Coral reefs support a vast array of organisms, connect marine ecosystems, protect coastlines, and fuel fisheries and global tourism industries.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Reef ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the publication year of the Coral Reefs article referenced in the paragraph?",
+      "answer": "The Coral Reefs article referenced in the paragraph was published in 2025.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Reef ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Where can Gongolaria barbata typically be found?",
+      "answer": "Gongolaria barbata is usually found in very shallow, sheltered, and well-lit marine reef habitats and in coastal lagoons.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Reef ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In which types of habitats can Gongolaria barbata typically be found?",
+      "answer": "Gongolaria barbata is typically found in very shallow, very sheltered, and well-lit reef habitats, rock-pools, and coastal lagoons.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Reef ecosystems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Reef ecosystems_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research",
+      "label": "Marine pollution research",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is there a lack of extensive research on MPs in mangroves compared to plastic waste?",
+      "answer": "Most studies have focused primarily on plastic waste, while research on microplastics in mangroves is still in its infancy.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine pollution research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What research fields are represented by the various departments mentioned in the affiliations?",
+      "answer": "The research fields include water pollution research, textile technology, environmental engineering, botany and microbiology, and physics.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine pollution research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the primary objective of the study conducted by Ricky et al.?",
+      "answer": "The primary objective of the study is to evaluate the impacts of DEET on the biochemical composition of Chlorella vulgaris post-treatment, in order to understand the phycoremediation potential of the algal species relative to its tolerance limit.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine pollution research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine pollution research_qna_002",
+      "value": 1
+    }
+  ]
+}

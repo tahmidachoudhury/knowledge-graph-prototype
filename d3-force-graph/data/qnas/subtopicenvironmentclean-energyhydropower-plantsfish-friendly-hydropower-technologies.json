@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Fish-friendly hydropower technologies",
+      "label": "Fish-friendly hydropower technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Fish-friendly hydropower technologies_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the study innovate on previous work by Hedberg et al.?",
+      "answer": "The study innovates by exacerbating adverse conditions through modifications in channel geometry and pier design, which leads to a greater degree of oblique approach and less approach flow toward the spillway.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Fish-friendly hydropower technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Fish-friendly hydropower technologies",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Fish-friendly hydropower technologies_qna_000",
+      "value": 1
+    }
+  ]
+}

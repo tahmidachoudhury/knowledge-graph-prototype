@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Equal health services|Obstetric care access",
+      "label": "Obstetric care access",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal health services"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal health services|Obstetric care access_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has A. O. obstetricans lost due to its recent expansion across Western Europe?",
+      "answer": "A. O. obstetricans has lost much of its genetic variation.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal health services",
+      "subtopic": "Obstetric care access",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Equal health services|Obstetric care access",
+      "target": "Subtopic:Social|Gender equity|Equal health services|Obstetric care access_qna_000",
+      "value": 1
+    }
+  ]
+}

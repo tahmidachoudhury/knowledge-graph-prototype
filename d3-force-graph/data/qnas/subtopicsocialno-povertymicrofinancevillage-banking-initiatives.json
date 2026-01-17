@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Village banking initiatives",
+      "label": "Village banking initiatives",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Village banking initiatives_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What social movement is mentioned as having contributed to the creation of local currencies?",
+      "answer": "The Transition Towns Movement contributed to the creation of local currencies.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Village banking initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Village banking initiatives",
+      "target": "Subtopic:Social|No poverty|Microfinance|Village banking initiatives_qna_000",
+      "value": 1
+    }
+  ]
+}

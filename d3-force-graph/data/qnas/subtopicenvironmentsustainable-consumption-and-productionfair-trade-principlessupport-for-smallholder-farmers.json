@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Support for smallholder farmers",
+      "label": "Support for smallholder farmers",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Support for smallholder farmers_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is recommended for further research in relation to small-holder agriculture?",
+      "answer": "It is recommended that the current work be expanded to include a review analysis relevant to small landholder farming systems and on-farm energy use and efficiency.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "subtopic": "Support for smallholder farmers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Support for smallholder farmers_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many people in Ghana rely on cocoa production for their livelihoods?",
+      "answer": "Approximately six million people, or roughly 30% of Ghana's population, rely on cocoa production for their livelihoods.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Fair trade principles",
+      "subtopic": "Support for smallholder farmers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Support for smallholder farmers",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Support for smallholder farmers_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Support for smallholder farmers",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Fair trade principles|Support for smallholder farmers_qna_001",
+      "value": 1
+    }
+  ]
+}

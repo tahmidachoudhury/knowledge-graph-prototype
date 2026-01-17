@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification",
+      "label": "Expansion of desertification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some environmental challenges posed by rapid urbanization in the Greater Asmara Area?",
+      "answer": "Environmental challenges include soil sealing, loss of vegetation cover, threats to protected natural areas, and climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Expansion of desertification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which institutions were involved in the research mentioned in the paragraph?",
+      "answer": "The institutions involved include the Department of Arid Zone Management at Gorgan University of Agricultural Sciences and Natural Resources, the Department of Natural Resources and Environmental Engineering at Shiraz University, the Department of Biology at the University of Utrecht, and the Department of Structural and Geotechnical Engineering at Széchenyi István University.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Expansion of desertification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is Gonbad Kavous County particularly vulnerable to land degradation and soil erosion?",
+      "answer": "Gonbad Kavous County is particularly vulnerable due to groundwater depletion and land-use changes experienced over recent decades.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Expansion of desertification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What environmental challenges has the Mediterranean basin faced in recent decades?",
+      "answer": "The Mediterranean basin has faced challenges related to climate change and increased urbanization, including extensive droughts, desertification, wildfires, and increased flooding.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Expansion of desertification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is discussed in the Special Report by Bow et al. (2017) on climate change, desertification, land degradation, and food security?",
+      "answer": "The Special Report by Bow et al. (2017) discusses climate change, desertification, land degradation, sustainable land management, food security, and greenhouse gas fluxes in terrestrial ecosystems, highlighting the interconnections between these factors and their impact on global sustainability.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Expansion of desertification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Expansion of desertification_qna_004",
+      "value": 1
+    }
+  ]
+}

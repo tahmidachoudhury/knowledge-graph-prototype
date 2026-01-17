@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Tobacco cessation",
+      "label": "Tobacco cessation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Tobacco cessation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the current state of policy responses to UPFs in regions outside Latin America?",
+      "answer": "Elsewhere, policy responses to the issue of UPFs have been weak or only emerging, similar to the earlier stages of tobacco control.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "subtopic": "Tobacco cessation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Tobacco cessation",
+      "target": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Tobacco cessation_qna_000",
+      "value": 1
+    }
+  ]
+}

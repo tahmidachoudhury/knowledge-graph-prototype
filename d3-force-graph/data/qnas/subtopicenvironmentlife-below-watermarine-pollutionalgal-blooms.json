@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms",
+      "label": "Algal blooms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What phase of growth were the algal species evaluated until?",
+      "answer": "The algal species were evaluated until they reached the death phase of their growth cycle.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Algal blooms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the acute toxicity assessment reveal about the effect of DEET on algal growth rate?",
+      "answer": "The assessment reveals that as the concentration of DEET increases, the algal growth rate reduces to half at the 96-hour EC50.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Algal blooms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How long did the algal blooms triggered by the dam breach last?",
+      "answer": "The algal blooms lasted for a total of 21 days, with severe blooms occurring within one week and persisting for a further 20 days.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Algal blooms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can nitrogen impact bryophytes?",
+      "answer": "Nitrogen can negatively impact bryophytes through ammonium toxicity, osmotic effects leading to tissue browning, and disturbances in carbon metabolism, while moderate nitrogen levels can promote their growth.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Algal blooms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the expected effects of nitrogen fertilization on bryophyte cover and richness?",
+      "answer": "Nitrogen fertilization is hypothesized to reduce bryophyte cover and richness directly due to toxicity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Algal blooms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Algal blooms_qna_004",
+      "value": 1
+    }
+  ]
+}

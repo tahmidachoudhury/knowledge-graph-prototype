@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks",
+      "label": "Ocean governance frameworks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the core component of the IAD framework?",
+      "answer": "The core component of the IAD framework is an action situation where individuals interact and engage in various activities.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "Ocean governance frameworks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What does the IFCG conceptualize in terms of governance?",
+      "answer": "The IFCG conceptualizes a collaborative governance regime (CGR) as being embedded or nested in a broader system context.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "Ocean governance frameworks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What theoretical framework is proposed in the paper?",
+      "answer": "The paper proposes a theoretical framework for capturing and analyzing the governance of MSIs, building on work related to inter-organizational networks.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "Ocean governance frameworks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance frameworks_qna_002",
+      "value": 1
+    }
+  ]
+}

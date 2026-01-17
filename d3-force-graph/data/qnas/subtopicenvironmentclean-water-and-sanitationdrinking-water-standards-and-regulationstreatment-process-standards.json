@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Treatment process standards",
+      "label": "Treatment process standards",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Treatment process standards_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the washing conditions for the column before re-equilibration?",
+      "answer": "The column was washed for 10 minutes with 85% (v/v) ACN and 0.1% formic acid at a flow rate of 300 nL/min.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Treatment process standards",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Treatment process standards",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Treatment process standards_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Sustainable sanitation systems",
+      "label": "Sustainable sanitation systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Sustainable sanitation systems_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What frameworks guided the qualitative study on waste management in Borakalalo ward?",
+      "answer": "The qualitative study was guided by a socio-ecological systems framework.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "subtopic": "Sustainable sanitation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Sustainable sanitation systems_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What framework can be related to sustainable communities in the context of waste management?",
+      "answer": "The socio-ecological systems framework can be related to sustainable communities in the context of waste management.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "subtopic": "Sustainable sanitation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Sustainable sanitation systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Sustainable sanitation systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Sustainable sanitation systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Sustainable sanitation systems_qna_001",
+      "value": 1
+    }
+  ]
+}

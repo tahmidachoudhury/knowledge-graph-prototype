@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Equal health services|Female-specific health research",
+      "label": "Female-specific health research",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal health services"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal health services|Female-specific health research_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many females were sampled from high-altitude and low-altitude populations?",
+      "answer": "A total of 48 females were sampled from high-altitude populations and 34 from low-altitude populations.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal health services",
+      "subtopic": "Female-specific health research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal health services|Female-specific health research_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was one of the primary focuses of the survey conducted on HIA research?",
+      "answer": "The survey focused on understanding participants' current roles, backgrounds in HIA, their views on important areas of research, priority research questions, and ways to build and support HIA research.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal health services",
+      "subtopic": "Female-specific health research",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Equal health services|Female-specific health research",
+      "target": "Subtopic:Social|Gender equity|Equal health services|Female-specific health research_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Equal health services|Female-specific health research",
+      "target": "Subtopic:Social|Gender equity|Equal health services|Female-specific health research_qna_001",
+      "value": 1
+    }
+  ]
+}

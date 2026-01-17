@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods",
+      "label": "Bioremediation sanitation methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the range of reported removal rates of DEET during wastewater treatment procedures?",
+      "answer": "The reported removal rates of DEET during wastewater treatment procedures range from 10 to 90%.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "subtopic": "Bioremediation sanitation methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What experiment was designed to evaluate the removal capacity of various REEs/C?",
+      "answer": "An experiment was designed for removing Pb(II) utilizing three tested REEs/Cs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "subtopic": "Bioremediation sanitation methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods_qna_001",
+      "value": 1
+    }
+  ]
+}

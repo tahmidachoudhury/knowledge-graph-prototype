@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland reclamation",
+      "label": "Grassland reclamation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland reclamation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why might short swards and bare ground be beneficial for ground-foraging birds?",
+      "answer": "Short swards and bare ground improve access to food resources for ground-foraging birds.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Grassland reclamation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Grassland reclamation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much of the earth's terrestrial land surface is covered by grasslands?",
+      "answer": "Grasslands cover about 40% of the earth's terrestrial land surface.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Grassland reclamation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Grassland reclamation",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Grassland reclamation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Grassland reclamation",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Grassland reclamation_qna_001",
+      "value": 1
+    }
+  ]
+}

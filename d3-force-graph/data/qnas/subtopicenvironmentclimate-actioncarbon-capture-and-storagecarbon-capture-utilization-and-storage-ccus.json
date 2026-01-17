@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)",
+      "label": "Carbon capture utilization and storage (ccus)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of the total energy requirement in the amine-based CO2 capture process is accounted for by solvent regeneration?",
+      "answer": "Over 57% to 70% of the total energy requirement is used for solvent regeneration.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture utilization and storage (ccus)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was tested regarding CO2 in the biocomposite system?",
+      "answer": "The CO2 removal from the rich-CO2 TEA solution of the biocomposite system was tested by comparing the amount of CO2 removed with that of the suspended system.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture utilization and storage (ccus)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of greenhouse gas emissions is attributed to resource extraction and processing?",
+      "answer": "Resource extraction and processing lead to more than 55% of greenhouse gas emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture utilization and storage (ccus)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)_qna_003",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How is CO2 captured from industrial emissions for the production of e-fuels?",
+      "answer": "CO2 is captured from industrial emissions, concentrated, and eventually purified before being used in the production process.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture utilization and storage (ccus)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)_qna_004",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What are the production-based CO2 emissions, and what are the sources of these emissions within a country's borders?",
+      "answer": "Production-based CO2 emissions refer to the emissions produced within a country's borders, including those from burning fossil fuels, cement production, and other sources. These emissions can come from residential, commercial, public services, and various sectors with high energy consumption.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon capture utilization and storage (ccus)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon capture utilization and storage (ccus)_qna_004",
+      "value": 1
+    }
+  ]
+}

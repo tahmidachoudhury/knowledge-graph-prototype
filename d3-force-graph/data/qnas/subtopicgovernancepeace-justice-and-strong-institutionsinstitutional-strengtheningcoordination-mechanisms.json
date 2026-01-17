@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms",
+      "label": "Coordination mechanisms",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are institutions defined as according to North (1991)?",
+      "answer": "Institutions are defined as humanly devised constraints that structure political, economic, and social interaction.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "subtopic": "Coordination mechanisms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What problem arises from the silos in public administrations?",
+      "answer": "The problem that arises from silos in public administrations is coordination difficulties due to the differing perspectives and priorities of each organizational unit, which do not share information with one another.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "subtopic": "Coordination mechanisms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the three types of strategies defined under the policy mechanisms for solving collective action problems?",
+      "answer": "The three types of strategies are rules, incentives, and norms.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Institutional strengthening",
+      "subtopic": "Coordination mechanisms",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Institutional strengthening|Coordination mechanisms_qna_002",
+      "value": 1
+    }
+  ]
+}

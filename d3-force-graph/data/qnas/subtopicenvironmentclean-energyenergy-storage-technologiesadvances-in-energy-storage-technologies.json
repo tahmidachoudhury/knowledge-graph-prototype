@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies",
+      "label": "Advances in energy storage technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main focus of the special issue titled \"Challenges and Recent Advancements in Nuclear Energy Systems\"?",
+      "answer": "The special issue focuses on studies, insights, and innovations related to the growth of nuclear energy for peaceful purposes, particularly in the context of Saudi Arabia’s nuclear initiatives and aspirations.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advances in energy storage technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is interest in renewable energy storage devices increasing?",
+      "answer": "Interest is increasing due to the dependence on non-renewable fossil fuels and the need for environmentally friendly, high-performance energy storage solutions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advances in energy storage technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did the researchers improve the power factor of the Fe-V-Al alloy?",
+      "answer": "By implementing the off-stoichiometric concept, the power factor of the Fe-V-Al alloy was further improved to 68 x 10^(-4) W/m K².",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advances in energy storage technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advances in energy storage technologies_qna_002",
+      "value": 1
+    }
+  ]
+}

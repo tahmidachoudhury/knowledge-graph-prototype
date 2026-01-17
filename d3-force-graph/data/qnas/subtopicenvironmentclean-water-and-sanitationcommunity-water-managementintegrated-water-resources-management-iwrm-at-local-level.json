@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Community water management|Integrated water resources management (iwrm) at local level",
+      "label": "Integrated water resources management (iwrm) at local level",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Community water management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Community water management|Integrated water resources management (iwrm) at local level_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the MMI stand for, and what does it amalgamate?",
+      "answer": "MMI stands for Multi-Metric Index, and it is an amalgamation of several community-related indices that differ between river types, designed to reflect the impact of various stressors on water bodies.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Community water management",
+      "subtopic": "Integrated water resources management (iwrm) at local level",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Community water management|Integrated water resources management (iwrm) at local level",
+      "target": "Subtopic:Environment|Clean water and sanitation|Community water management|Integrated water resources management (iwrm) at local level_qna_000",
+      "value": 1
+    }
+  ]
+}

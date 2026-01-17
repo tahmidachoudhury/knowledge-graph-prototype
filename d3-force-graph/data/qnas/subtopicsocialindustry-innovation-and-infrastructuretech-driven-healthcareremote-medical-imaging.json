@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging",
+      "label": "Remote medical imaging",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technique is used to observe internal crack propagation in concrete?",
+      "answer": "X-ray Computed Tomography Scanning (X-ray CT scanning) is used to observe internal crack propagation.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote medical imaging",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How is the contrast in an X-ray radiograph determined?",
+      "answer": "The contrast between different regions in an X-ray radiograph or CT image is directly correlated to the X-ray attenuation through that region of the sample.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote medical imaging",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What capabilities of X-ray computed tomography are described in the work at INL?",
+      "answer": "The work describes the post-irradiation examination capabilities of X-ray computed tomography at INL.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote medical imaging",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is XCT and what information does it provide?",
+      "answer": "XCT, or X-ray computed tomography, is a nondestructive technique that provides surface and volumetric information on samples.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote medical imaging",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "When was the computed tomography technique recognized with the Nobel Prize in Medicine?",
+      "answer": "The computed tomography technique was recognized with the Nobel Prize in Medicine in 1979.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote medical imaging",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the primary function of XCT as described in the paragraph?",
+      "answer": "XCT collects a series of radiographs based on sample rotation and reconstructs them mathematically to produce a three-dimensional (3D) dataset.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote medical imaging",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What software is installed on the Xradia 620 Versa to aid in image reconstruction?",
+      "answer": "The ZEISS Scout-and-Scan Control System Reconstructor software is installed for performing preliminary reconstructions from radiographic datasets.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote medical imaging",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_007",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the expected growth of CT and MR imaging emissions between 2016 and 2030?",
+      "answer": "It is expected that CT and MR imaging emissions will grow by 30% between 2016 and 2030.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote medical imaging",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote medical imaging_qna_007",
+      "value": 1
+    }
+  ]
+}

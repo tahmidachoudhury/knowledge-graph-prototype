@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Resource management agreements",
+      "label": "Resource management agreements",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Resource management agreements_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the importance of resource security mentioned in the document?",
+      "answer": "The importance of resource security is highlighted as essential for poverty eradication and environmental sustainability.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Conflict prevention",
+      "subtopic": "Resource management agreements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Resource management agreements",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Conflict prevention|Resource management agreements_qna_000",
+      "value": 1
+    }
+  ]
+}

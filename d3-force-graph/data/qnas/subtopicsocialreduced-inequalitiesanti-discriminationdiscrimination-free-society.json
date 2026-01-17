@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination-free society",
+      "label": "Discrimination-free society",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Anti-discrimination"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination-free society_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What kind of environment does the author wish to foster at Kew Bulletin?",
+      "answer": "The author aims to create a welcoming and inclusive environment for all authors, reviewers, and readers, where diverse voices and perspectives are valued and celebrated.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Anti-discrimination",
+      "subtopic": "Discrimination-free society",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination-free society",
+      "target": "Subtopic:Social|Reduced inequalities|Anti-discrimination|Discrimination-free society_qna_000",
+      "value": 1
+    }
+  ]
+}

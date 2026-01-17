@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education",
+      "label": "Environmental education",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to measure the participants' relationship with nature?",
+      "answer": "Participants completed two quantitative scales, INS and NEP-R, before and after an educational intervention.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Environmental education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was one significant finding regarding environmental concern after the intervention?",
+      "answer": "The findings showed that environmental concern increased in both groups after the training, but the impact was significant only in the treatment group that used the garden.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Environmental education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education_qna_001",
+      "value": 1
+    }
+  ]
+}

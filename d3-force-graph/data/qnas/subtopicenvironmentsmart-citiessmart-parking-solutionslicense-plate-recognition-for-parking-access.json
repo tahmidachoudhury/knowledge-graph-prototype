@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|License plate recognition for parking access",
+      "label": "License plate recognition for parking access",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|License plate recognition for parking access_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What key feature allows CLAP to recognize group-level categories like birds, frogs, and whales?",
+      "answer": "CLAP uses simple prompt engineering to recognize group-level categories without specific model fine-tuning or additional training.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "License plate recognition for parking access",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|License plate recognition for parking access_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What unique recognition capability does the continuous semantic feature space provide according to the paragraph?",
+      "answer": "It allows the identification of unique amalgamated concepts, such as \"dog-like cars,\" without needing dedicated training data, provided that these concepts are sufficiently represented and aligned with language features.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "License plate recognition for parking access",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|License plate recognition for parking access",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|License plate recognition for parking access_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|License plate recognition for parking access",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|License plate recognition for parking access_qna_001",
+      "value": 1
+    }
+  ]
+}

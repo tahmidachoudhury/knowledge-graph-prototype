@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting",
+      "label": "Economic viability of energy-efficient lighting",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting_qna_000",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How was the RL function tested in the model developed by Botany et al. (2020)?",
+      "answer": "The model developed by Botany et al. (2020) included the RL channel for determining the environmental and economic sustainability dimensions of an FSC, but it was not empirically tested in an Italian focal company as they did not manage a RL channel.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "subtopic": "Economic viability of energy-efficient lighting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What types of decision-making problems can be solved using the proposed Temporal PROMETHEUS II method?",
+      "answer": "The decision-making problems that can be solved using the Temporal PROMETHEUS II method include economic evaluation, clean energy management, sustainable development of cities and communities, responsible consumption and production, and sustainable healthcare systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "subtopic": "Economic viability of energy-efficient lighting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the average installation rate compare in Scenario 3 to Scenario 1, and what impact does it have on energy accessibility?",
+      "answer": "In Scenario 3, the average installation rate may be lesser than Scenario 1, but it still rounds off to a 3% increase per year, contributing to higher energy accessibility possibilities.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "subtopic": "Economic viability of energy-efficient lighting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is a welfare-maximizing cost-recovery option dependent on?",
+      "answer": "The welfare-maximizing cost-recovery option is largely predicated on whether one expects the long-term cost trajectory to be positive or negative.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "subtopic": "Economic viability of energy-efficient lighting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the significant impacts demonstrated by this study concerning EAT technology?",
+      "answer": "The study demonstrates the significant impacts of light intensity and temperature on the efficacy of the EAT system.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy efficient lighting",
+      "subtopic": "Economic viability of energy-efficient lighting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting",
+      "target": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting",
+      "target": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting",
+      "target": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting",
+      "target": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting",
+      "target": "Subtopic:Environment|Clean energy|Energy efficient lighting|Economic viability of energy-efficient lighting_qna_004",
+      "value": 1
+    }
+  ]
+}

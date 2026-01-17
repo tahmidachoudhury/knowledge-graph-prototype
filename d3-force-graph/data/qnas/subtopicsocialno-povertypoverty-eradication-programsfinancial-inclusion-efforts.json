@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts",
+      "label": "Financial inclusion efforts",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the significance of financial inclusion as noted in the research?",
+      "answer": "Financial inclusion fosters economic growth but also contributes to environmental degradation, highlighting the need for regulatory measures.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs",
+      "subtopic": "Financial inclusion efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the unintended consequences of financial inclusion discussed in the paragraph?",
+      "answer": "The unintended environmental consequences of financial inclusion are critically analyzed in the context of driving economic growth.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs",
+      "subtopic": "Financial inclusion efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts",
+      "target": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts",
+      "target": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts_qna_001",
+      "value": 1
+    }
+  ]
+}

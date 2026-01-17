@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Biodegradable sanitation products",
+      "label": "Biodegradable sanitation products",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Biodegradable sanitation products_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Have you ever bought a bio-based cloth/item?",
+      "answer": "Yes, I have bought a bio-based cloth/item.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "subtopic": "Biodegradable sanitation products",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Biodegradable sanitation products",
+      "target": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Biodegradable sanitation products_qna_000",
+      "value": 1
+    }
+  ]
+}

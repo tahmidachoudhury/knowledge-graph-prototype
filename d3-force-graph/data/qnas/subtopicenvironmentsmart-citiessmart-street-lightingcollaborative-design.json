@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design",
+      "label": "Collaborative design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is one critique mentioned regarding existing approaches to knowledge co-production?",
+      "answer": "Existing approaches range from overly simplified tools to theoretical platitudes that often lack adaptability to contextual nuances.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Collaborative design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How does the approach benefit interdisciplinary project teams?",
+      "answer": "The approach allows teams to develop early iterations of their engagement plans and facilitates different forms of learning prior to engagement.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Collaborative design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design_qna_002",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How can design be expanded to include more-than-human concerns, as discussed by Achaea, Light, and Familiar in the Participatory Design Conference 2020?",
+      "answer": "Achaea, Light, and Familiar propose expanding design to include more-than-human concerns by integrating ecological, environmental, and non-human perspectives into the design process, fostering a more sustainable and inclusive approach.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Collaborative design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Collaborative design_qna_002",
+      "value": 1
+    }
+  ]
+}

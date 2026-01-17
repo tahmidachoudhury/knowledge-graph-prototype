@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems",
+      "label": "Agroforestry systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What shift in cocoa farming practices has been observed since the promotion of hybrid cocoa varieties?",
+      "answer": "There has been a shift away from traditional shaded cocoa agroforestry systems towards full-sun monocrop cocoa plantations.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Agroforestry systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is agroforestry and why has it become a topic of interest?",
+      "answer": "Agroforestry is the practice of integrating trees with agricultural crops, and it has gained interest as a climate change mitigation measure due to its ability to retain trees and regulate micro-climates, as well as provide diversified income streams.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Agroforestry systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can agroforestry systems compare to full-sun systems in terms of total system output?",
+      "answer": "With proper management, agroforestry systems can achieve up to 10 times the total system output, including non-cocoa harvests, compared to full-sun cocoa plantations.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Agroforestry systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What regions in West Africa were involved in the studies distinguishing agroforestry cocoa systems from full-sun counterparts?",
+      "answer": "The studies were conducted in Ghana and Cameroon.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Agroforestry systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Agroforestry systems_qna_003",
+      "value": 1
+    }
+  ]
+}

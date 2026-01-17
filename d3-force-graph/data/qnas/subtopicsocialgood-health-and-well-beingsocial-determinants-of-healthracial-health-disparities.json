@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Racial health disparities",
+      "label": "Racial health disparities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Racial health disparities_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is a key issue that HIAs often fail to address according to the paragraph?",
+      "answer": "HIAs often fail to adequately consider impacts on different population groups.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Racial health disparities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Racial health disparities",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Racial health disparities_qna_000",
+      "value": 1
+    }
+  ]
+}

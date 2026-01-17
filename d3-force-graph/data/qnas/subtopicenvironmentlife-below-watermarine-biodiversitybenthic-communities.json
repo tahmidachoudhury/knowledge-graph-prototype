@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities",
+      "label": "Benthic communities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How do nutrient and sediment dynamics in ecotones affect species distribution?",
+      "answer": "Nutrient and sediment dynamics in ecotones shift, influencing species distribution and ecosystem function, particularly affecting infaunal organisms like polychaetes and burrowing crustaceans due to changes in sediment composition.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Benthic communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What roles do the groups mentioned in the paragraph play in relation to benthic food webs?",
+      "answer": "The groups connect primary producers with higher trophic levels and serve as bioindicators of environmental stress.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Benthic communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What has been observed regarding the recovery trajectory of benthic invertebrates over the past 2 decades?",
+      "answer": "The recovery trajectory of benthic invertebrates has slowed down over the past 2 decades.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Benthic communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the three main factors the study focuses on regarding benthic invertebrate ecological status?",
+      "answer": "Competition, abiotic stress (related to species tolerances), and all other potentially relevant variables in the dataset.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Benthic communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Benthic communities_qna_003",
+      "value": 1
+    }
+  ]
+}

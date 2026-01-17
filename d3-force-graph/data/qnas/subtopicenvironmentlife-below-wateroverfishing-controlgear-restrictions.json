@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Gear restrictions",
+      "label": "Gear restrictions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Gear restrictions_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is the unique characteristic of the small-scale fleet regarding gear types?",
+      "answer": "The small-scale fleet uses multiple gear types, unlike other categories which are associated with a primary gear type.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Gear restrictions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Gear restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Gear restrictions_qna_000",
+      "value": 1
+    }
+  ]
+}

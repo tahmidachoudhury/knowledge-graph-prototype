@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous practices in forest conservation",
+      "label": "Indigenous practices in forest conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous practices in forest conservation_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the professional background of Mai Anh?",
+      "answer": "Mai Anh is a Ph.D. candidate in forest science and a Vietnamese mom of a 3-year-old boy.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Indigenous practices in forest conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous practices in forest conservation_qna_001",
+      "group": "QnA",
+      "label": "Gender Women",
+      "question": "How do mangrove food practices and values differ between men and women in Solomon Islands communities?",
+      "answer": "The research examines gendered dimensions of food practices, revealing that women often engage in harvesting and food provisioning, while the impacts of environmental changes can differ significantly between men and women.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Indigenous practices in forest conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous practices in forest conservation",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous practices in forest conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous practices in forest conservation",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Indigenous practices in forest conservation_qna_001",
+      "value": 1
+    }
+  ]
+}

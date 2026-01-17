@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation",
+      "label": "Coral transplantation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is understanding heat tolerance in corals critical for restoration projects?",
+      "answer": "Understanding heat tolerance is critical for determining the viability of coral populations and for selecting suitable corals to propagate for restoration projects.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Coral transplantation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does knowledge of heat tolerance benefit coral restoration projects?",
+      "answer": "It allows for the selection of coral stocks for propagation based on their heat tolerance relative to others of the same species in the same locale, which is crucial for effective restoration.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Coral transplantation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How long were the coral fragments acclimated to laboratory conditions?",
+      "answer": "The coral fragments were acclimated for 12 weeks.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Coral transplantation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "At what age can juvenile COTS transition to a coral diet?",
+      "answer": "Juvenile COTS can transition to a coral diet as early as four to six months of age.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Coral transplantation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "According to the paragraph, what can expelled symbionts potentially do?",
+      "answer": "Expelled symbionts can remain photosynthetically competent and may be reacquired by neighboring adult corals or coral recruits.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Coral transplantation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_005",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why was it necessary to give the coral fragments time to heal before measuring symbionts?",
+      "answer": "It was necessary to prevent the loss of symbionts from tissue lesions caused by the fragmentation process.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Coral transplantation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the fragment tissue surface area calculated?",
+      "answer": "The fragment tissue surface area was calculated using ImageJ (v. 1.51) by tracing the circumference or dimensions of the coral fragments in photographs.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Coral transplantation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Coral transplantation_qna_006",
+      "value": 1
+    }
+  ]
+}

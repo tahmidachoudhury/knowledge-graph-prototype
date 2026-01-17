@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves",
+      "label": "Indigenous land reserves",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How do Indigenous-managed lands compare to protected areas regarding vertebrate biodiversity according to the studies referenced?",
+      "answer": "Vertebrate biodiversity on indigenous-managed lands in Australia, Brazil, and Canada equals that found in protected areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "subtopic": "Indigenous land reserves",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How has the biodiversity of Indigenous territories in certain countries compared to formally protected areas?",
+      "answer": "In countries like Canada, Brazil, and Australia, vertebrate biodiversity in Indigenous territories equals or surpasses that found within formally protected areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Indigenous land rights",
+      "subtopic": "Indigenous land reserves",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves",
+      "target": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves",
+      "target": "Subtopic:Environment|Life on land|Indigenous land rights|Indigenous land reserves_qna_001",
+      "value": 1
+    }
+  ]
+}

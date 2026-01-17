@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability",
+      "label": "Market stability",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the current state of the market in relation to society as discussed in the paragraph?",
+      "answer": "The paragraph states that markets have become increasingly disconnected from society and are now often viewed as being placed above it due to globalized financial industry and neoliberal policies.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Market stability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What ambivalent role does money have in the context of market and society?",
+      "answer": "Money plays a crucial but ambivalent role in the relationship between the market and society, impacting how they interact and function.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Market stability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability_qna_001",
+      "value": 1
+    }
+  ]
+}

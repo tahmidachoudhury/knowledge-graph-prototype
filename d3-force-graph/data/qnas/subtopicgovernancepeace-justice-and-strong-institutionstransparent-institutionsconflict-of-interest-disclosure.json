@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Conflict of interest disclosure",
+      "label": "Conflict of interest disclosure",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Transparent institutions"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Conflict of interest disclosure_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What percentage of total board seat positions in the identified MIs were held by executives from the ultra-processed food industry or affiliated interest groups?",
+      "answer": "Executives from the UPF industry or affiliated interest groups held almost half of the total board seat positions, specifically 43.8%.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Transparent institutions",
+      "subtopic": "Conflict of interest disclosure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Conflict of interest disclosure_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why are changes in knowledge production important for science-policy interfaces?",
+      "answer": "Changes in knowledge production and solutions to societal problems affect science-policy interfaces and the division of responsibilities, impacting dynamics such as trust and values.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Transparent institutions",
+      "subtopic": "Conflict of interest disclosure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Conflict of interest disclosure",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Conflict of interest disclosure_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Conflict of interest disclosure",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Transparent institutions|Conflict of interest disclosure_qna_001",
+      "value": 1
+    }
+  ]
+}

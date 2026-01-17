@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects",
+      "label": "Ecosystem restoration projects",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What global initiative did the United Nations declare regarding ecosystem restoration?",
+      "answer": "The United Nations declared the United Nations Decade of Ecosystem Restoration from 2021 to 2030.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "subtopic": "Ecosystem restoration projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What kind of projects aim to restore physical habitat conditions mentioned in the paragraph?",
+      "answer": "Hydromorphological restoration projects aim to restore physical habitat conditions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "subtopic": "Ecosystem restoration projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects_qna_001",
+      "value": 1
+    }
+  ]
+}

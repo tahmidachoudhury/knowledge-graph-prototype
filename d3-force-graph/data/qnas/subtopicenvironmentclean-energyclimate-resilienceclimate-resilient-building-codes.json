@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes",
+      "label": "Climate-resilient building codes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many climatic zones does the Code for Thermal Design of Civil Buildings in China indicate?",
+      "answer": "The Code indicates five climatic zones: severe cold areas, cold regions, hot summer and cold winter regions, mild regions, and hot summer and warm winter regions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Climate-resilient building codes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What major initiative is driving the need for new building regulations according to the paragraph?",
+      "answer": "The Recovery, Transformation and Resilience Plan (RTRP) presented by the Spanish Government in October 2020 is a fundamental driving force behind the new building regulations.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Climate-resilient building codes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What climatic zones are referenced in the context of the Sichuan Plateau?",
+      "answer": "The climatic zones referenced are severe cold areas, cold regions, hot summer and cold winter regions, mild regions, and hot summer and warm winter regions according to the Code for Thermal Design of Civil Buildings.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Climate-resilient building codes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient building codes_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Binary cycle geothermal power plants",
+      "label": "Binary cycle geothermal power plants",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Binary cycle geothermal power plants_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was observed about mixing temperature during downward and horizontal injection in a 45 mixing tee?",
+      "answer": "The mixing temperature remains relatively constant with minimal fluctuations in temperature for both downward injection and horizontal injection in a 45 mixing tee.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "subtopic": "Binary cycle geothermal power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Geothermal energy|Binary cycle geothermal power plants",
+      "target": "Subtopic:Environment|Clean energy|Geothermal energy|Binary cycle geothermal power plants_qna_000",
+      "value": 1
+    }
+  ]
+}

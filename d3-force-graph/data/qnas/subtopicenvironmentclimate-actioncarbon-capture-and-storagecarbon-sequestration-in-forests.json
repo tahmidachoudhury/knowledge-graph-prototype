@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon sequestration in forests",
+      "label": "Carbon sequestration in forests",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon sequestration in forests_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Who are the authors affiliated with the European Forest Institute?",
+      "answer": "Jeanne-Lazya Roux is affiliated with the European Forest Institute, Bonn, Germany, and Joensuu, Finland.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon sequestration in forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon sequestration in forests_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What do simulation models suggest about the future efficiency of European forests to absorb carbon?",
+      "answer": "Simulation models suggest that the efficiency of forests to absorb carbon will likely be reduced in the future due to drought, heat stress, and wildfires.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Carbon sequestration in forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon sequestration in forests",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon sequestration in forests_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon sequestration in forests",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Carbon sequestration in forests_qna_001",
+      "value": 1
+    }
+  ]
+}

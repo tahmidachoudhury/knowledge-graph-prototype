@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies",
+      "label": "Microbial treatment technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do microbial fuel cells (MFCs) contribute to energy generation and wastewater treatment?",
+      "answer": "MFCs generate electricity by consuming organic contaminants found in wastewater, thereby producing energy while also treating the water.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Microbial treatment technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is a possible solution to inefficiencies in energy generation discussed in the paragraph?",
+      "answer": "The application of microbial fuel cells (MFCs) for wastewater treatment is suggested as a more affordable and ecologically friendly solution.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Microbial treatment technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies_qna_002",
+      "group": "QnA",
+      "label": "Technology",
+      "question": "What technology is highlighted in the review for its potential in cleaning wastewater and generating energy?",
+      "answer": "Microbial fuel cells (MFCs) are highlighted for their potential to cleanse wastewater and recover energy.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Microbial treatment technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What do microbial fuel cells (MFCs) address in relation to energy and environmental issues?",
+      "answer": "MFCs address both wastewater treatment and energy production, providing a long-term solution to energy and environmental issues.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Microbial treatment technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies_qna_004",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How does Zenith et al. (2016) propose to treat industrial wastewater, and what is the significance of using microbes for this purpose?",
+      "answer": "Zenith et al. (2016) propose the use of microbes as eco-friendly tools for the treatment of industrial wastewater. Microbes are significant as they offer an environmentally friendly solution for managing industrial waste waters.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Microbial treatment technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Microbial treatment technologies_qna_004",
+      "value": 1
+    }
+  ]
+}

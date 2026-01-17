@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production",
+      "label": "Nutrition-sensitive food production",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are ultra-processed foods (UPFs)?",
+      "answer": "Ultra-processed foods (UPFs) are formulations of ingredients, mostly of exclusive industrial use, created by a series of industrial techniques and processes, including items like soft drinks, confectionery, mass produced breads, and reconstituted meat products.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "subtopic": "Nutrition-sensitive food production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How has the prevalence of ultra-processed foods changed globally?",
+      "answer": "The prevalence of ultra-processed foods first grew in high-income countries but is now rapidly increasing in middle and low-income countries due to globalization and new growth opportunities in emerging markets.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "subtopic": "Nutrition-sensitive food production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production",
+      "target": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production",
+      "target": "Subtopic:Social|Zero hunger|Food systems|Nutrition-sensitive food production_qna_001",
+      "value": 1
+    }
+  ]
+}

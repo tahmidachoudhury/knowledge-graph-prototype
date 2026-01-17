@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Protected forests",
+      "label": "Protected forests",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Protected forests_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the two specific forest stands studied in this research?",
+      "answer": "The two forest stands studied are a Pinus pinea forest stand at Hoyo de Pinares and a Pinus nigra forest stand at Sierra de Cazorla.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Protected forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Protected forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Protected forests_qna_000",
+      "value": 1
+    }
+  ]
+}

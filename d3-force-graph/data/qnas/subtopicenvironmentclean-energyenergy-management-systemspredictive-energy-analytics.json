@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Predictive energy analytics",
+      "label": "Predictive energy analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Predictive energy analytics_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the significance of the final prediction results obtained from the framework?",
+      "answer": "The final prediction results incorporate the optimal prediction values from each decomposition sequence and clearly outperform the prediction results of a single algorithm.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Predictive energy analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Predictive energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Predictive energy analytics_qna_000",
+      "value": 1
+    }
+  ]
+}

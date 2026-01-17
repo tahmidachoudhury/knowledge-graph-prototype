@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Land use pattern analysis",
+      "label": "Land use pattern analysis",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Land use pattern analysis_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What advanced spatial techniques are utilized in this research to analyze urban transitions?",
+      "answer": "The research utilizes machine learning algorithms (MLAs) and Google Earth Engine (GEE) to analyze urban transitions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Land use pattern analysis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Land use pattern analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Land use pattern analysis_qna_000",
+      "value": 1
+    }
+  ]
+}

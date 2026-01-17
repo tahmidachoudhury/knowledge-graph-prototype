@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies",
+      "label": "Carbon capture and storage technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is there uncertainty surrounding the deployment of Carbon Dioxide Removal (CDR)?",
+      "answer": "There is uncertainty because ambiguous amounts of residual emissions and the sectors they originate from complicate questions about which sectors or entities should be responsible for deploying or paying for CDR.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Carbon capture and storage technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors influence the economics of Direct Air Carbon Capture and Storage (DACCS)?",
+      "answer": "The economics of DACCS varies depending on capture technology, energy costs, location, and whether the captured CO2 is stored or used.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Carbon capture and storage technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technologies have been developed to address CO2 emissions?",
+      "answer": "Carbon Capture, Utilization, and Storage (CCUS) technologies have been developed to tackle CO2 emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Carbon capture and storage technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can post-combustion CO2 capture processes with phase-change solvents be assessed for environmental, health, and safety considerations?",
+      "answer": "Post-combustion CO2 capture processes with phase-change solvents can be assessed for environmental, health, and safety considerations through a thorough assessment that evaluates the impact on the environment, potential health hazards, and overall safety aspects of the process.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Carbon capture and storage technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Carbon capture and storage technologies_qna_003",
+      "value": 1
+    }
+  ]
+}

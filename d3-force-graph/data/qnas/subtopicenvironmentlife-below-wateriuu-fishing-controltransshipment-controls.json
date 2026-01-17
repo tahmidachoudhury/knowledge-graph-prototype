@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Transshipment controls",
+      "label": "Transshipment controls",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Transshipment controls_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Which European directives govern the migration testing of materials that may contact food?",
+      "answer": "The migration testing is governed by the European Council Directive 82/711/EEC.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Transshipment controls",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Transshipment controls",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Transshipment controls_qna_000",
+      "value": 1
+    }
+  ]
+}

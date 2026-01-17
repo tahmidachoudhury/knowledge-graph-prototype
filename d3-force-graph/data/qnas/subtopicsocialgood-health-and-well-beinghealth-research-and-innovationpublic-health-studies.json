@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies",
+      "label": "Public health studies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many studies were initially selected for full article screening?",
+      "answer": "A total of 42 studies were selected for full article screening.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Public health studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many studies were ultimately included in the analysis after the screening process?",
+      "answer": "A final total of 17 studies were included in the analysis.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Public health studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What limitation is noted regarding the study's conclusions?",
+      "answer": "The sample size does not allow for definitive conclusions.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Public health studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the main sections classified in this study?",
+      "answer": "The main sections classified in the study are literature section, data & method, results & discussion, and conclusion & policy recommendations.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Public health studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which section of the study reviews the relevant literature?",
+      "answer": "Section 2 provides a survey of the relevant literature.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Public health studies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Public health studies_qna_004",
+      "value": 1
+    }
+  ]
+}

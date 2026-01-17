@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention",
+      "label": "Soil moisture retention",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How does biochar affect the water-holding capacity of soil?",
+      "answer": "Biochar increases the water-holding capacity of soil.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil moisture retention",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does increasing water content affect oxygen availability in the soil?",
+      "answer": "As water content increases, the diffusive oxygen supply decreases and the anaerobic soil volume may spread into larger areas with lower oxygen consumption rates.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil moisture retention",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What happens to radon release after heavy rains?",
+      "answer": "After heavy rains, the soil can release radon more readily during periods of drying.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil moisture retention",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_002",
+      "value": 1
+    }
+  ]
+}

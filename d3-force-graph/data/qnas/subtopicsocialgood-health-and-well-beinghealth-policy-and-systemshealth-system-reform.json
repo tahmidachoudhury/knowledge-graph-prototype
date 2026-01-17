@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health system reform",
+      "label": "Health system reform",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health policy and systems|Health system reform_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What aspect does the re-structure concept focus on in relation to system change?",
+      "answer": "It focuses on the relevance and role of institutions and the consequences of institutional failure or decline in facilitating system change.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health policy and systems",
+      "subtopic": "Health system reform",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health policy and systems|Health system reform",
+      "target": "Subtopic:Social|Good health and well-being|Health policy and systems|Health system reform_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture",
+      "label": "Biomass energy for agriculture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the main sources of energy for residents in the Sichuan Plateau?",
+      "answer": "The main sources of energy for residents in the Sichuan Plateau are traditional biomass materials such as firewood, straw, and animal manure.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Biomass energy for agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the main source of energy for residents in the Sichuan Plateau?",
+      "answer": "The main source of energy for residents in the Sichuan Plateau is traditional biomass, including firewood, straw, and animal manure.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Biomass energy for agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the main sources of energy for residents in the Sichuan Plateau?",
+      "answer": "The main sources of energy for residents in the Sichuan Plateau are traditional biomass materials, including firewood, straw, and animal manure.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Biomass energy for agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Which type of biochar has had more research focused on its effects on soil fertility and crop yield?",
+      "answer": "Far more research has focused on evaluating the benefits of sewage sludge biochar compared to faecal sludge biochar.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Biomass energy for agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_004",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of agricultural residues are included as raw materials for bioenergy production?",
+      "answer": "Agricultural residues include cotton stalks, wheat straw, rice straw, coconut shells, corn stover, and rice husks.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Biomass energy for agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Are cover crops and agricultural residues commonly used as exclusive feedstock in biogas plants?",
+      "answer": "No, they are not commonly used as exclusive feedstock; the common practice is to co-digest them with animal manure.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Biomass energy for agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Biomass energy for agriculture_qna_005",
+      "value": 1
+    }
+  ]
+}

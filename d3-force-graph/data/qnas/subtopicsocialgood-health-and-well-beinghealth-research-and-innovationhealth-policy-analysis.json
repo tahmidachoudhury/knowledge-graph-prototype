@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis",
+      "label": "Health policy analysis",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the analysis identify about the methodology of HIA?",
+      "answer": "The analysis identifies different paradigms operating in the field of HIA and varying perspectives on how HIA methodology is theorized and practiced.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Health policy analysis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to Payne et al. (2021), what is the approach taken to reviewing policies in Australia?",
+      "answer": "Payne et al. (2021) adopt an approach to reviewing policies in Australia that involves analysing their effectiveness, sustainability, feasibility, and compliance.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Health policy analysis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the \"Analysis and Findings\" section present in the study?",
+      "answer": "The \"Analysis and Findings\" section presents the analysis and key findings of the study.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Health policy analysis",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Health policy analysis_qna_002",
+      "value": 1
+    }
+  ]
+}

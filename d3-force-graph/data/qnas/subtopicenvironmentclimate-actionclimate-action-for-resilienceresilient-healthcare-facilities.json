@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient healthcare facilities",
+      "label": "Resilient healthcare facilities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient healthcare facilities_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does healthcare delivery contribute to the planetary health crisis?",
+      "answer": "Healthcare delivery contributes to the planetary health crisis through greenhouse gas emissions from fossil fuel combustion for medical equipment production, generation of waste, and contamination of water supplies.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Resilient healthcare facilities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient healthcare facilities",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient healthcare facilities_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Fair distribution of climate impacts",
+      "label": "Fair distribution of climate impacts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Fair distribution of climate impacts_qna_000",
+      "group": "QnA",
+      "label": "Taxes and regulation",
+      "question": "Which groups are particularly vulnerable to the impacts of the challenges mentioned in water, energy, and food management?",
+      "answer": "Low- and middle-income states are particularly susceptible to these impacts.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Fair distribution of climate impacts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Fair distribution of climate impacts_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What has caused doubt among a significant portion of the population about climate change?",
+      "answer": "Doubt about climate change has been caused by the perception that scientific evidence is often unconvincing, alongside various socio-political and psychological factors.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Fair distribution of climate impacts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Fair distribution of climate impacts",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Fair distribution of climate impacts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Fair distribution of climate impacts",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Fair distribution of climate impacts_qna_001",
+      "value": 1
+    }
+  ]
+}

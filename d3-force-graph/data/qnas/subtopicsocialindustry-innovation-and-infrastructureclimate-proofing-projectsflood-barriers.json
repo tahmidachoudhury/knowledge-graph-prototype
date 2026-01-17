@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Flood barriers",
+      "label": "Flood barriers",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Flood barriers_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is one key finding from the research on arced labyrinth weirs?",
+      "answer": "The hydraulic modeling coupled with CFD simulations showed that experimental results deviated from theory, likely due to the geometry obstructing the flow.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Flood barriers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Flood barriers",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Flood barriers_qna_000",
+      "value": 1
+    }
+  ]
+}

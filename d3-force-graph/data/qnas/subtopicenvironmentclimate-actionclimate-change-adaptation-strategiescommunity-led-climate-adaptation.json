@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation",
+      "label": "Community-led climate adaptation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of teams were involved in applying and testing the approach?",
+      "answer": "Interdisciplinary project teams from the CSIRO S Valuing Sustainability Future Science Platform were involved in applying and testing the approach.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Community-led climate adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What actions are permitted under the Creative Commons Attribution 4.0 International License?",
+      "answer": "Users are allowed to use, share, adapt, distribute, and reproduce the article in any medium or format as long as they give appropriate credit to the original authors and the source.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Community-led climate adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why are place-based solutions focusing on households considered more viable?",
+      "answer": "Place-based solutions focusing on households are considered more viable because they are relevant and practical for the local community, making them easier to adopt than externally generated solutions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Community-led climate adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Community-led climate adaptation_qna_002",
+      "value": 1
+    }
+  ]
+}

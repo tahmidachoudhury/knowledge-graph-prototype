@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Farmer field schools",
+      "label": "Farmer field schools",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Farmer field schools_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What specific application of FSE in GI has not been previously explored according to the paragraph?",
+      "answer": "The application of Fuzzy Synthetic Evaluations (FSE) in GI knowledge assessment specifically in the context of developing nations has not been explored.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Farmer field schools",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Farmer field schools",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Farmer field schools_qna_000",
+      "value": 1
+    }
+  ]
+}

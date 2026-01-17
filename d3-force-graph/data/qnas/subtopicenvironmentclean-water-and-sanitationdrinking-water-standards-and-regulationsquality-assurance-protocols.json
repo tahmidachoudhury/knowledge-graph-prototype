@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols",
+      "label": "Quality assurance protocols",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_000",
+      "group": "QnA",
+      "label": "Methodology",
+      "question": "What methodology is mentioned in the paper for analyzing the case study?",
+      "answer": "Protocol analysis and guided expert interviews.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Quality assurance protocols",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the sediment sample prepared before being sent for further analysis to BEMLAB?",
+      "answer": "A sediment subsample of 0.5 kg was separated from the homogenized dried sediment samples and sent to BEMLAB for further analysis.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Quality assurance protocols",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to determine the protein concentration in the samples?",
+      "answer": "The Bradford method (1976) was used to determine the protein concentration in the samples using a Bio-Rad protein assay kit with bovine gamma globulin as a standard.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Quality assurance protocols",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_002",
+      "value": 1
+    }
+  ]
+}

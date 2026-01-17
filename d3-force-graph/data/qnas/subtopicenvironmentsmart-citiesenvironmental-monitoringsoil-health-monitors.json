@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors",
+      "label": "Soil health monitors",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of adding highly enriched 15N labelled NO3 to soil?",
+      "answer": "The purpose is to monitor the denitrification products N2O and N2.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Soil health monitors",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What indicators are integrated into the soil health index created in the study?",
+      "answer": "The soil health index integrates indicators such as total porosity, plant-available water, and carbon stock.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Soil health monitors",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors_qna_001",
+      "value": 1
+    }
+  ]
+}

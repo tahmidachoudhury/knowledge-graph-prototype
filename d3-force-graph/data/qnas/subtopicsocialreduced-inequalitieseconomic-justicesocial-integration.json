@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Economic justice|Social integration",
+      "label": "Social integration",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Economic justice"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Economic justice|Social integration_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does the paragraph imply about the integration approach?",
+      "answer": "The paragraph implies that while integration can be desirable, it is not a universal solution and should be assessed for its potential before being pursued.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Economic justice",
+      "subtopic": "Social integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Economic justice|Social integration",
+      "target": "Subtopic:Social|Reduced inequalities|Economic justice|Social integration_qna_000",
+      "value": 1
+    }
+  ]
+}

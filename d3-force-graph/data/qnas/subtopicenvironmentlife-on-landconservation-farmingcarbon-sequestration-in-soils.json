@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils",
+      "label": "Carbon sequestration in soils",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of soil was discovered in the Amazon basin and what are its characteristics?",
+      "answer": "The soil discovered in the Amazon basin is a specific type of fertile, very dark, carbon-rich soil that contains greater nutrient content and organic carbon content than surrounding soils.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Carbon sequestration in soils",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In which publication and year can the research on N2 emissions be found?",
+      "answer": "The research on N2 emissions can be found in \"Biology and Fertility of Soils\" published in 2025.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Carbon sequestration in soils",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils_qna_001",
+      "value": 1
+    }
+  ]
+}

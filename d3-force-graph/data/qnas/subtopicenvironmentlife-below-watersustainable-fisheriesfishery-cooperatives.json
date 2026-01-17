@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives",
+      "label": "Fishery cooperatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the conditions under which BMRA can reproduce the gains of a fully cooperative fishing agreement?",
+      "answer": "BMRA can reproduce these fully cooperative gains if adult movement from the fishing patch to the reserve patch is low (40%), and adult movement from the reserve patch to the fishing patch is high (60%), regardless of larval movement.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishery cooperatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the role of a sole owner in the fully cooperative fishing agreement described in the paper?",
+      "answer": "The sole owner has perfect tenure over the entire spatial extent of the resource and simultaneously manages both countries' waters to maximize system-wide profit.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishery cooperatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives_qna_001",
+      "value": 1
+    }
+  ]
+}

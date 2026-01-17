@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas",
+      "label": "Fishing quotas",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why are transboundary fish stocks considered to be at risk of overexploitation?",
+      "answer": "Transboundary fish stocks are at risk of overexploitation because fishing nations tend to respond to individual non-cooperative incentives, leading to overly aggressive behavior and over-extraction.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishing quotas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What predicts a high-value BMRA in the context of adult movement?",
+      "answer": "High adult movement, particularly when the movement to the fishing patch outweighs the movement to the reserve patch by 10-30%, predicts a high-value BMRA.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishing quotas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some countries with the lowest mean annual fishing biocapacity?",
+      "answer": "Central African Republic, Lesotho, South Sudan, Afghanistan, Serbia & Montenegro, Luxembourg, Niger, Czech Republic, Slovakia, and Iraq are some countries with the lowest mean annual fishing biocapacity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishing quotas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishing quotas_qna_002",
+      "value": 1
+    }
+  ]
+}

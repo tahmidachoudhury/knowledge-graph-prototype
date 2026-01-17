@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Participating in eco-conscious communities",
+      "label": "Participating in eco-conscious communities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Participating in eco-conscious communities_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How were participants grouped in the online focus groups to discuss sustainability topics?",
+      "answer": "Participants were grouped based on similar knowledge levels to help them feel at ease when discussing topics related to sustainability.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "subtopic": "Participating in eco-conscious communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Participating in eco-conscious communities_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does the paragraph suggest individuals can contribute to sustainability?",
+      "answer": "Individuals can contribute to sustainability by relearning their connection to Earth and practicing responsible relationships with all forms of life.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-conscious consumerism",
+      "subtopic": "Participating in eco-conscious communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Participating in eco-conscious communities",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Participating in eco-conscious communities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Participating in eco-conscious communities",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-conscious consumerism|Participating in eco-conscious communities_qna_001",
+      "value": 1
+    }
+  ]
+}

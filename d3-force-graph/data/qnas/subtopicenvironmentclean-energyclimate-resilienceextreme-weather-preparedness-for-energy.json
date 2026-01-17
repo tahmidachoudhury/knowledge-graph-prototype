@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy",
+      "label": "Extreme weather preparedness for energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does EVT stand for and what is its significance in climate studies?",
+      "answer": "EVT stands for Extreme Value Theory, which is significant in climate studies as it enables accurate extrapolation of probabilities and magnitudes for rare events, providing realistic risk assessments and addressing underestimations of hazards by conventional methods.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Extreme weather preparedness for energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What robust methodologies does EVT provide for modeling extremes?",
+      "answer": "EVT provides methodologies such as the generalized extreme value (GEV) distribution and the generalized Pareto distribution (GPD) for modeling extremes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Extreme weather preparedness for energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does extreme value theory (EVT) differ from classical statistical methods?",
+      "answer": "EVT concentrates on the tail of the distribution, focusing on rare and high-impact occurrences, while classical statistical methods primarily focus on the average behavior of stochastic processes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Extreme weather preparedness for energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is EVT considered indispensable in the context of disaster preparedness and infrastructure design?",
+      "answer": "EVT is considered indispensable because it accounts for heavy tails and trend behavior, allowing for more accurate assessments of risks related to catastrophic events which are often underestimated by conventional methods.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Extreme weather preparedness for energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of extreme weather events does the analysis focus on?",
+      "answer": "The analysis focuses on episodes of high ambient temperature.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Extreme weather preparedness for energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Extreme weather preparedness for energy_qna_004",
+      "value": 1
+    }
+  ]
+}

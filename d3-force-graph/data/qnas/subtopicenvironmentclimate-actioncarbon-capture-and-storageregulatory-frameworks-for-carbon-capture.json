@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture",
+      "label": "Regulatory frameworks for carbon capture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What should you do if the material is not included under the Creative Commons licence and your intended use is not covered by statutory regulation or exceeds the permitted use?",
+      "answer": "You will need to obtain permission directly from the copyright holder.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Regulatory frameworks for carbon capture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Who provided guidance to the NCA5 authors on DEAI efforts?",
+      "answer": "The USGCRP provided guidance to the NCA5 authors on defining and enabling DEAI efforts.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Regulatory frameworks for carbon capture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of checks were performed to validate the results of the study?",
+      "answer": "The study performed robustness checks to validate the results through the new D2C algorithm.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Regulatory frameworks for carbon capture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_002",
+      "value": 1
+    }
+  ]
+}

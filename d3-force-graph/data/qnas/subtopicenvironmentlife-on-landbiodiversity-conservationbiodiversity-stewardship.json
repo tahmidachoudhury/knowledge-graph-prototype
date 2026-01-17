@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship",
+      "label": "Biodiversity stewardship",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What has primarily driven the steep decline in biodiversity according to the paragraph?",
+      "answer": "Natural habitat loss or deterioration due to land use change, with agriculture as the most prominent driver.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Biodiversity stewardship",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the title of the report produced by the WWF UK related to biodiversity and due diligence?",
+      "answer": "The title of the report is \"Designing Due Diligence.\"",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Biodiversity stewardship",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship_qna_001",
+      "value": 1
+    }
+  ]
+}

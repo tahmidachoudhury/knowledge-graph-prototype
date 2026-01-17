@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Learning communities",
+      "label": "Learning communities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Learning communities_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What feelings does the study suggest are involved in creating collective thinking across academia and practice?",
+      "answer": "The study suggests that it can entail feelings of being part of a community and may involve actual consequences and risks.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning",
+      "subtopic": "Learning communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Learning communities_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do large language models (LLMs) pose risks to knowledge creation according to Francesco Bianchini?",
+      "answer": "LLMs pose risks by producing texts that may not be perceived as credible sources of knowledge, potentially leading individuals to retreat into ignorance, while also being manipulable to generate fictitious content.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning",
+      "subtopic": "Learning communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Lifelong learning|Learning communities",
+      "target": "Subtopic:Social|Quality education|Lifelong learning|Learning communities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Lifelong learning|Learning communities",
+      "target": "Subtopic:Social|Quality education|Lifelong learning|Learning communities_qna_001",
+      "value": 1
+    }
+  ]
+}

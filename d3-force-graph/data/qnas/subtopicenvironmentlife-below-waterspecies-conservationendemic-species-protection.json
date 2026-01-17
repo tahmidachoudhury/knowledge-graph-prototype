@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection",
+      "label": "Endemic species protection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of understanding climate change and population pressures in relation to alpine plant species?",
+      "answer": "Understanding these factors is essential for the conservation of alpine plant species, particularly those that are endemic and endangered.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Endemic species protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What concern is growing regarding endemic bird populations in the Galapagos?",
+      "answer": "There is growing concern over declines in endemic bird populations.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Endemic species protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which small terrestrial mammals are listed in Annex IV of the Habitats Directive and are of special concern?",
+      "answer": "The small terrestrial mammals listed in Annex IV of the Habitats Directive include Microtus tatricus, Sicista betulina, S. subtilis, Cricetus cricetus, and Muscardinus avellanarius.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Endemic species protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Endemic species protection_qna_002",
+      "value": 1
+    }
+  ]
+}

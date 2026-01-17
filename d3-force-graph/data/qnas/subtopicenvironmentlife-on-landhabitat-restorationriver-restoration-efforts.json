@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts",
+      "label": "River restoration efforts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How can recovery of degraded streams become achievable according to the studies mentioned?",
+      "answer": "Recovery becomes achievable when efforts improve both hydromorphology and water quality.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "River restoration efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors are mentioned as influencing the recovery potential of rivers?",
+      "answer": "The recovery potential of rivers is influenced by river type, connectivity, and baseline degradation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "River restoration efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do near-natural and heavily degraded rivers differ in their vulnerability to stressors?",
+      "answer": "Near-natural rivers may be more vulnerable to new stressors, while heavily degraded rivers often face limits to further decline due to already diminished conditions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "River restoration efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific research questions does the study aim to address?",
+      "answer": "1. Which variables are most important for the recovery and degradation potential of rivers? 2. What are the individual relationships between the important variables and ecological status? 3. How do these relations differ between recovery and degradation conditions?",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "River restoration efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the primary goal of the study as described in the paragraph?",
+      "answer": "To investigate the drivers influencing the ecological status of rivers, with a focus on the roles of competition and abiotic stress in recovery and degradation conditions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "River restoration efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|River restoration efforts_qna_004",
+      "value": 1
+    }
+  ]
+}

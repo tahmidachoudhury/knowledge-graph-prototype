@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Sustainability standards for renewable energy",
+      "label": "Sustainability standards for renewable energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Sustainability standards for renewable energy_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What approach was employed for the assessment of sustainable development in electricity generation technologies in Egypt?",
+      "answer": "AHP for determining criteria weights, WSM for multi-criteria assessment.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "subtopic": "Sustainability standards for renewable energy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Renewable energy certification|Sustainability standards for renewable energy",
+      "target": "Subtopic:Environment|Clean energy|Renewable energy certification|Sustainability standards for renewable energy_qna_000",
+      "value": 1
+    }
+  ]
+}

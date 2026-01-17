@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Arctic ecosystem recovery",
+      "label": "Arctic ecosystem recovery",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Arctic ecosystem recovery_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the overlapping needs in the circumpolar Arctic?",
+      "answer": "The overlapping needs in the circumpolar Arctic are for secure and sustainable food and energy.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Arctic ecosystem recovery",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Arctic ecosystem recovery_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role does species tolerance play in ecological recovery and degradation?",
+      "answer": "Species tolerance to environmental stressors is crucial for both recovery and degradation, as supported by multiple studies.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Arctic ecosystem recovery",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Arctic ecosystem recovery",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Arctic ecosystem recovery_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Arctic ecosystem recovery",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Arctic ecosystem recovery_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation",
+      "label": "Chemical precipitation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What method is used to correct precipitation data in the context described?",
+      "answer": "The corrected precipitation is given by the formula (Pg + p)k.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Chemical precipitation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What process was used to precipitate the samples?",
+      "answer": "The samples were precipitated via the chloroform-methanol method.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Chemical precipitation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does the wet scrubber affect the chemical composition of particles that pass through it?",
+      "answer": "The scrubber has little effect on reducing the health and environmental impacts of remaining particles, as changes in particle composition are minimal, primarily involving sulfate uptake, diffusion-driven uptake of ultrafine particles, and wet deposition of coarse particles.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Chemical precipitation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_002",
+      "value": 1
+    }
+  ]
+}

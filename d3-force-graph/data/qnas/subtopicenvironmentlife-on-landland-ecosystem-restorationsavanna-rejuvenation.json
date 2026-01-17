@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Savanna rejuvenation",
+      "label": "Savanna rejuvenation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Savanna rejuvenation_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "In which biome is the Luvuvhu River situated?",
+      "answer": "The Luvuvhu River is situated within the savanna biome.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Savanna rejuvenation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Savanna rejuvenation",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Savanna rejuvenation_qna_000",
+      "value": 1
+    }
+  ]
+}

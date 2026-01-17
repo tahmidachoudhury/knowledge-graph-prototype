@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Urban heat trackers",
+      "label": "Urban heat trackers",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Urban heat trackers_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How has satellite data advanced the understanding of Land Surface Temperature (LST)?",
+      "answer": "Satellite data has significantly advanced the understanding of LST by enabling the identification of global temperature hotspots and providing insights into urban development, climate change, and land-use patterns that contribute to the development of the surface UHI phenomenon.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Urban heat trackers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Urban heat trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Urban heat trackers_qna_000",
+      "value": 1
+    }
+  ]
+}

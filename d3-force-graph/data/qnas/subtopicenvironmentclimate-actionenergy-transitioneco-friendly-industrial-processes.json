@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes",
+      "label": "Eco-friendly industrial processes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "In which industries are mixing tees important?",
+      "answer": "Mixing tees are important in petrochemical facilities, electronic cooling, nuclear power plants, the refrigeration industry, and for greenhouse effect reduction inside buildings.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Eco-friendly industrial processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_001",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How can integrating cleaner production technologies help improve energy and water efficiency in denim manufacturing processes?",
+      "answer": "By incorporating cleaner production technologies, such as energy-efficient machinery and water recycling systems, denim manufacturers can reduce their environmental impact and lower their resource consumption.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Eco-friendly industrial processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_001",
+      "value": 1
+    }
+  ]
+}

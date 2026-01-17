@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification",
+      "label": "Moringa seed purification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the DEET stock solution prepared for the study?",
+      "answer": "The DEET stock solution was prepared by dissolving 0.1 mL of DEET in 100 mL of ultrapure water, resulting in a concentration of 1000 mg/L, with a pH in the range of 6.9 to 7.0.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Moringa seed purification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of homogenizing A. thaliana leaves in a homogenization buffer?",
+      "answer": "The purpose of homogenizing A. thaliana leaves in a homogenization buffer is to extract proteins for further analysis.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Moringa seed purification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some components of the homogenization buffer used for protein extraction from A. thaliana leaves?",
+      "answer": "The homogenization buffer contains 8 M urea, 100 mM TEAB, 2 mM EDTA, 10 mM dithiothreitol (DTT), and a protease inhibitor mix including phenylmethylsulfonyl fluoride (PMSF) and leupeptin, among others.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Moringa seed purification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the aquafaba samples prepared for use in the gluten-free cake production?",
+      "answer": "The aquafaba samples were drained from the seeds of commercially canned pulses and then stored at 4°C before use.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Moringa seed purification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How was the aquafaba prepared before being mixed into the ESGF cake batter?",
+      "answer": "The aquafaba was drained from the seeds of commercially canned pulses and then stored at 4°C before mixing it into the cake batter.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Moringa seed purification",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Moringa seed purification_qna_004",
+      "value": 1
+    }
+  ]
+}

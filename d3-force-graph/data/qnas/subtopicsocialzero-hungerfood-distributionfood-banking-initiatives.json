@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food banking initiatives",
+      "label": "Food banking initiatives",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food banking initiatives_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which organizations have called for the transformation of the global food governance system?",
+      "answer": "FAO, IFAD, UNICEF, WFP, and WHO.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Food banking initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food banking initiatives_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How can civil society groups mobilise their resources effectively according to the paragraph?",
+      "answer": "By framing their efforts around financialised food systems, which can create space for allies to collect and utilize their resources.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Food banking initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Food banking initiatives",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Food banking initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Food banking initiatives",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Food banking initiatives_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems",
+      "label": "Sustainable food distribution systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What portion of total GHG emissions is the global food supply chain responsible for?",
+      "answer": "The global food supply chain is responsible for a quarter of total GHG emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Sustainable food distribution systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How have corporations that manufacture UPFs fared in the food system?",
+      "answer": "Corporations that manufacture and distribute UPFs have become the most profitable in the food system, generating growing returns to shareholders, primarily located in the Global North.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Sustainable food distribution systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of product is noted for providing passive benefits in terms of environmental impact?",
+      "answer": "Food storage containers are noted as providing passive benefits by reducing food losses and thus decreasing the environmental impact of food production.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Sustainable food distribution systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What did a recent review on policies to reduce Ultra-Processed Food (UPF) consumption suggest?",
+      "answer": "The review concluded that policies such as taxation, marketing regulations, and subsidies would be beneficial for both climate-environment-related sustainability and health.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Sustainable food distribution systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Sustainable food distribution systems_qna_003",
+      "value": 1
+    }
+  ]
+}

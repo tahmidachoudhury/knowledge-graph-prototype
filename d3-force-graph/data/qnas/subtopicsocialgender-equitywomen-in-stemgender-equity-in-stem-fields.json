@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Women in stem|Gender equity in stem fields",
+      "label": "Gender equity in stem fields",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Women in stem"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Women in stem|Gender equity in stem fields_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What additional support might scientists need according to the paragraph?",
+      "answer": "Scientists may need additional guidance and training on equity and inclusion priorities.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Women in stem",
+      "subtopic": "Gender equity in stem fields",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Women in stem|Gender equity in stem fields",
+      "target": "Subtopic:Social|Gender equity|Women in stem|Gender equity in stem fields_qna_000",
+      "value": 1
+    }
+  ]
+}

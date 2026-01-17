@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Leak detection and monitoring in ccs",
+      "label": "Leak detection and monitoring in ccs",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Leak detection and monitoring in ccs_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the role of X-ray CT scanning in the experimental program?",
+      "answer": "X-ray CT scanning was used to observe the cracking propagation inside the concrete at the meso-scale.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Leak detection and monitoring in ccs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Leak detection and monitoring in ccs_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the time frame mentioned for observing the TSS plume after the dam breach?",
+      "answer": "The TSS plume was observed between 9 June and 2 July 2023.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Leak detection and monitoring in ccs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Leak detection and monitoring in ccs",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Leak detection and monitoring in ccs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Leak detection and monitoring in ccs",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Leak detection and monitoring in ccs_qna_001",
+      "value": 1
+    }
+  ]
+}

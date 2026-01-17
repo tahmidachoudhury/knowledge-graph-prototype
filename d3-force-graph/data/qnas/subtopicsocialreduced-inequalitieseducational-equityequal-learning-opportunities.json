@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Educational equity|Equal learning opportunities",
+      "label": "Equal learning opportunities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Educational equity"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Educational equity|Equal learning opportunities_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What outcomes are anticipated from the capability developed prior to engagement?",
+      "answer": "The capability developed prior to engagement is anticipated to manifest as opportunities for different forms of learning.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Educational equity",
+      "subtopic": "Equal learning opportunities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Educational equity|Equal learning opportunities",
+      "target": "Subtopic:Social|Reduced inequalities|Educational equity|Equal learning opportunities_qna_000",
+      "value": 1
+    }
+  ]
+}

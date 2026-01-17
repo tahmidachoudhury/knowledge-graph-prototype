@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine conservation areas",
+      "label": "Marine conservation areas",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine conservation areas_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the target percentage for marine protected areas to be achieved by 2030 under the Convention on Biological Diversity?",
+      "answer": "The target is to increase marine protected areas from 7.7% to 30% by 2030.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Marine conservation areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Marine conservation areas",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Marine conservation areas_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Farm-level climate adaptation plans",
+      "label": "Farm-level climate adaptation plans",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Farm-level climate adaptation plans_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the primary contribution of the study as stated in the paragraph?",
+      "answer": "The primary contribution lies in linking climate disasters to agri-food systems and mitigation policies by integrating macro- and microeconomic analyses into a unified framework.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Farm-level climate adaptation plans",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Farm-level climate adaptation plans",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Farm-level climate adaptation plans_qna_000",
+      "value": 1
+    }
+  ]
+}

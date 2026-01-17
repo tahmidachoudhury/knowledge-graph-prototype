@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Human waste recycling",
+      "label": "Human waste recycling",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Human waste recycling_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What components can be found in human waste?",
+      "answer": "Human waste is a complex heterogeneous mixture that can contain microorganisms, water, oils, nutrients, inorganic material, and is often rich in organic matter.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "subtopic": "Human waste recycling",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Human waste recycling",
+      "target": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Human waste recycling_qna_000",
+      "value": 1
+    }
+  ]
+}

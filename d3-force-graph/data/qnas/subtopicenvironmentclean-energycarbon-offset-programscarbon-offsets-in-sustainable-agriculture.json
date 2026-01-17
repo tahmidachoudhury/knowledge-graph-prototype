@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture",
+      "label": "Carbon offsets in sustainable agriculture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What environmental impacts are associated with the need for increased agricultural production in Africa?",
+      "answer": "The environmental impacts include land clearing, deforestation, and greenhouse gas (GHG) emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Carbon offsets in sustainable agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is it important to include emissions beyond the farmgate level in the analysis of carbon footprint?",
+      "answer": "It is important to assess the sustainability of agri-food production systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Carbon offsets in sustainable agriculture",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Carbon offsets in sustainable agriculture_qna_001",
+      "value": 1
+    }
+  ]
+}

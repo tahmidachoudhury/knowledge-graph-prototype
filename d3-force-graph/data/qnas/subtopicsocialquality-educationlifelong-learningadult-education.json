@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Adult education",
+      "label": "Adult education",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Adult education_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Who initially proposed the transformative learning theory and in what context?",
+      "answer": "Jack Mezirow initially proposed the transformative learning theory in the context of adult education in the late 1970s.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning",
+      "subtopic": "Adult education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Lifelong learning|Adult education",
+      "target": "Subtopic:Social|Quality education|Lifelong learning|Adult education_qna_000",
+      "value": 1
+    }
+  ]
+}

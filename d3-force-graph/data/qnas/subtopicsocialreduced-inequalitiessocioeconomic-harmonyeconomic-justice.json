@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic justice",
+      "label": "Economic justice",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic justice_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do traditional economic indicators compare to the principles of dignity and fairness in terms of importance?",
+      "answer": "Traditional economic indicators like economic prosperity and growth were considered important but ranked below dignity and fairness.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Economic justice",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic justice",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic justice_qna_000",
+      "value": 1
+    }
+  ]
+}

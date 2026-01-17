@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Sustainable waste management",
+      "label": "Sustainable waste management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Sustainable waste management_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is projected to happen to greenhouse gas emissions from solid waste treatment and disposal by 2050 if no corrective actions are taken?",
+      "answer": "Greenhouse gas emissions are projected to increase from 1.6 billion tons in 2016 to 2.6 billion tons by 2050.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Sustainable waste management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Sustainable waste management",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Sustainable waste management_qna_000",
+      "value": 1
+    }
+  ]
+}

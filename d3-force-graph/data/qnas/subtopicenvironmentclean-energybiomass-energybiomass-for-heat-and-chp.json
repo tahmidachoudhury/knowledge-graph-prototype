@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp",
+      "label": "Biomass for heat and chp",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What were the payback periods for the different heating methods evaluated in the study?",
+      "answer": "The payback periods are 11 years for electric heating, 24 years for coal-fired heating, and 6 years for biomass heating.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass for heat and chp",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What were the payback periods for the different heating methods evaluated in the study?",
+      "answer": "The payback periods were 11 years for electric heating, 24 years for coal-fired heating, and 6 years for biomass heating.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass for heat and chp",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What were the payback periods for electric heating, coal-fired heating, and biomass heating?",
+      "answer": "The payback periods were 11 years for electric heating, 24 years for coal-fired heating, and 6 years for biomass heating.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass for heat and chp",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is one environmentally favorable alternative to combustion in CHP units?",
+      "answer": "Upgrading to transport fuel such as biomethane is an environmentally favorable alternative to combustion in CHP units.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass for heat and chp",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the penetration of renewables for providing heat energy in Europe compare to fossil fuel dominance in the heating sector?",
+      "answer": "In Europe, the penetration of renewables for providing heat energy is less compared to fossil fuel dominance in the heating sector.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass for heat and chp",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass for heat and chp_qna_004",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources",
+      "label": "Pollution sources",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What factors are mentioned as having significant negative impacts on the quality of inland-sea and coastal waters?",
+      "answer": "Urbanisation, industrial activities, agricultural activities, and warfare are mentioned as factors that have significant negative impacts on the quality of inland-sea and coastal waters.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pollution sources",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What role do the river systems mentioned play in the health of the North-Western Black Sea (NWBS)?",
+      "answer": "The river systems provide the main riverine inputs to the NWBS and are the principal source of anthropogenic pollution into the NWBS, impacting its health.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pollution sources",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources_qna_001",
+      "value": 1
+    }
+  ]
+}

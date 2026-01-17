@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts",
+      "label": "Anti-poaching efforts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which animal species were most targeted in illegal bushmeat hunting?",
+      "answer": "The most targeted animal species included impala (96%), wildebeest (53%), eland (53%), and African buffalo (51%).",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Anti-poaching efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What methods do illegal hunters use to hunt animals?",
+      "answer": "Illegal hunters use a wide range of methods including dogs, spotlighting, firearms, spears, and bows and arrows.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Anti-poaching efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is illegal bushmeat hunting still prevalent in protected areas despite the risks?",
+      "answer": "The potential benefits accrued by illegal hunters outweigh the costs.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Anti-poaching efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What types of strategies have been implemented to combat illegal hunting?",
+      "answer": "Various bottom-up and top-down strategies have been implemented to reduce the rate and intensity of illegal hunting.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Anti-poaching efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Anti-poaching efforts_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding",
+      "label": "Coastal and inland flooding",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is sea-level rise included in the assessments of future risk for areas likely to be permanently flooded?",
+      "answer": "Sea-level rise is considered a long-term risk that could affect large areas that are expected to be permanently flooded in the coming decades and centuries.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Coastal and inland flooding",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many hectares of farmland were destroyed by floods in 2022?",
+      "answer": "Floods destroyed over 676,000 hectares of farmland in 2022.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Coastal and inland flooding",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are coastal regions particularly vulnerable to climate-induced sea-level rise?",
+      "answer": "Coastal regions are increasingly vulnerable due to increased flood risks associated with sea-level rise.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Coastal and inland flooding",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which three counties are highlighted as ideal case studies for climate adaptation measures due to their vulnerability to flooding and sea level rise?",
+      "answer": "The three counties are Broward County, Miami-Dade County, and Palm Beach County.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Coastal and inland flooding",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding_qna_004",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What aspect did UNEP emphasize in relation to flooding and POPs?",
+      "answer": "UNEP stressed the relevance of flooding and the risk of release of POPs and other chemicals of concern.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Coastal and inland flooding",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Coastal and inland flooding_qna_004",
+      "value": 1
+    }
+  ]
+}

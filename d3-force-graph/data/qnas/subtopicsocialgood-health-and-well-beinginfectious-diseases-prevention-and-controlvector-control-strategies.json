@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies",
+      "label": "Vector control strategies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What health risks are associated with mosquito bites that DEET helps to prevent?",
+      "answer": "DEET helps to protect against mosquito-borne illnesses such as malaria, zika virus, Lyme disease, spotted fever, and the Nile virus.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Vector control strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary use of N,N-Diethyl-m-toluamide (DEET)?",
+      "answer": "DEET is primarily used in personal care products as a preventive measure against mosquito-borne diseases.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Vector control strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the main uses of DEET as mentioned in the paragraph?",
+      "answer": "DEET is primarily used in products such as lotions, sprays, and towelettes as an insect repellent.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Vector control strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How does DEET function to deter insects?",
+      "answer": "DEET works by impeding the olfactory perception of hematophagous insects towards the human scent.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Vector control strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Vector control strategies_qna_003",
+      "value": 1
+    }
+  ]
+}

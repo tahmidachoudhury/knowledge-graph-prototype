@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Real estate trends",
+      "label": "Real estate trends",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Real estate trends_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What trend was observed in the path coefficient of urban blue spaces (UBS) between 2017 and 2023?",
+      "answer": "The path coefficient for UBS increased from 0.99 in 2017 to 1.8 in 2023.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Real estate trends",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Real estate trends",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Real estate trends_qna_000",
+      "value": 1
+    }
+  ]
+}

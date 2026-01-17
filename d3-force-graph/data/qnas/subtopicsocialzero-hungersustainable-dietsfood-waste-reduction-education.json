@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education",
+      "label": "Food waste reduction education",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main purpose of the study mentioned in the paragraph?",
+      "answer": "The main purpose of the study is to propose alternative approaches for achieving sustainable household solid waste management through the integration of local knowledge.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Food waste reduction education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why are only a few types of food waste considered unfit for human consumption, and what must be done with these types of waste?",
+      "answer": "Due to structural differences, only a few types of food waste are unfit for human consumption and must be reprocessed for value recovery to minimize waste and ensure resource efficiency.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Food waste reduction education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Where can more information about eliminating food waste be found according to the Ellen MacArthur Foundation (2013)?",
+      "answer": "More information about eliminating food waste can be found on the Ellen MacArthur Foundation website.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Food waste reduction education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_002",
+      "value": 1
+    }
+  ]
+}

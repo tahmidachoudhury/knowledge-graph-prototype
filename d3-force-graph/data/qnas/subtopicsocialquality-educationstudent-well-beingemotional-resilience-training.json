@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training",
+      "label": "Emotional resilience training",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Student well-being"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific objectives does the research aim to achieve?",
+      "answer": "The research aims to examine how observers learn about the changing environment, explore the emotional reactions from such learning, understand the impact of emotional learning on actions, and gain insight into how emotion-triggered actions might transform those emotions.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Student well-being",
+      "subtopic": "Emotional resilience training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How have contemporary scholars expanded the study of transformative learning theory?",
+      "answer": "Contemporary scholars have expanded the study of transformative learning theory to include cultural, tacit, and emotional aspects of learning.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Student well-being",
+      "subtopic": "Emotional resilience training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training",
+      "target": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training",
+      "target": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training_qna_001",
+      "value": 1
+    }
+  ]
+}

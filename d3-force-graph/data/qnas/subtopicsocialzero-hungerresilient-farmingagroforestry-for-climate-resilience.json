@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience",
+      "label": "Agroforestry for climate resilience",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What do the interviews suggest about farmers' preferences for agroforestry versus full-sun methods?",
+      "answer": "The interviews suggest that 74% of respondents use agroforestry or mixed methods, indicating a preference despite government promotion of full-sun methods.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Agroforestry for climate resilience",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main topic discussed in the review by D. Wang et al. on nanoscience and nanotechnology in food and agroforestry?",
+      "answer": "The main topic discussed in the review by D. Wang et al. is the application of nanoscience and nanotechnology in food and agroforestry.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Agroforestry for climate resilience",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience_qna_001",
+      "value": 1
+    }
+  ]
+}

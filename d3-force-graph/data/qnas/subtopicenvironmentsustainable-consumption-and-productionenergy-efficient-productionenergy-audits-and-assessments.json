@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments",
+      "label": "Energy audits and assessments",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What research methods are used to analyze energy consumption in residential buildings on the Sichuan Plateau?",
+      "answer": "The research methods used are field measurements, questionnaire surveys, and energy simulations.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Energy audits and assessments",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How is the average energy installed capacity increase for each energy resource determined?",
+      "answer": "The average energy installed capacity increase for each energy resource is determined by processing the data resulting from the fraction calculation through an equation to assess the increase in installed capacity for each year.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Energy audits and assessments",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments_qna_001",
+      "value": 1
+    }
+  ]
+}

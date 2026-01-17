@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Threatened and endangered species protection",
+      "label": "Threatened and endangered species protection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Threatened and endangered species protection_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is it important to have effective protected areas in Uganda?",
+      "answer": "It is important to have effective protected areas to prevent serious biodiversity loss.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Threatened and endangered species protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Threatened and endangered species protection_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What key management recommendation was made to prevent the extinction of the swift parrot?",
+      "answer": "The management and protection of known swift parrot habitat at the landscape scale.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Threatened and endangered species protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Threatened and endangered species protection",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Threatened and endangered species protection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Threatened and endangered species protection",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Threatened and endangered species protection_qna_001",
+      "value": 1
+    }
+  ]
+}

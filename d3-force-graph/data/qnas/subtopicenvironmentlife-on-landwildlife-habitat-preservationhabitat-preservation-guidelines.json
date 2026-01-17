@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat preservation guidelines",
+      "label": "Habitat preservation guidelines",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat preservation guidelines_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the recommended conservation measures for the critically endangered species mentioned in the paragraph?",
+      "answer": "The recommended conservation measures include habitat restoration, sustainable harvesting practices, involving local communities, and promoting stewardship.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat preservation guidelines",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat preservation guidelines",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat preservation guidelines_qna_000",
+      "value": 1
+    }
+  ]
+}

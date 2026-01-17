@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness",
+      "label": "Environmental racism awareness",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does Shelby aim to change perceptions of nature?",
+      "answer": "Shelby aims to change the way we speak about our other-than-human kin, especially those introduced to novel ecosystems through human actions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Environmental racism awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does political ideology influence issue knowledge and concern regarding environmental impacts in other countries?",
+      "answer": "Left-leaning individuals show a moderation of issue knowledge but not concern. Right-leaning individuals tend to believe that environmental impacts in other countries are none of their business.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Environmental racism awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Will providing factual information about environmental issues be sufficient to increase knowledge and concern among all parts of society?",
+      "answer": "Providing factual information alone may not be sufficient to increase knowledge and concern among parts of society that normally pay less attention to environmental issues, even in settings with low levels of societal inequality.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Environmental racism awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How do environmental attitudes influence decision-making in low- and high-cost situations according to Riemann and Preisendorfer in 2003?",
+      "answer": "According to Riemann and Preisendorfer in 2,003 environmental attitudes can influence decision-making differently in low- and high-cost situations, affecting individuals' behaviours based on their environmental values.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Environmental racism awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness_qna_004",
+      "group": "QnA",
+      "label": "Ethics and Regulation",
+      "question": "How does Pacheco-Vega's work on environmental regulation relate to the typology of \"stick, carrot, and sermon\"?",
+      "answer": "Pacheco-Vega's work on environmental regulation relates to the typology of \"stick, carrot, and sermon\" by examining various approaches to environmental governance, including coercive, incentivizing, and persuasive methods.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Environmental racism awareness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Environmental racism awareness_qna_004",
+      "value": 1
+    }
+  ]
+}

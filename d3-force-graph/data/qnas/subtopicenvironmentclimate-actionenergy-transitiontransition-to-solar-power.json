@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transition to solar power",
+      "label": "Transition to solar power",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Transition to solar power_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the expected impact of adopting sustainable energy practices on future generations?",
+      "answer": "Adopting sustainable energy practices is expected to cultivate a mindset focused on reducing carbon emissions among future generations.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Transition to solar power",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Transition to solar power",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Transition to solar power_qna_000",
+      "value": 1
+    }
+  ]
+}

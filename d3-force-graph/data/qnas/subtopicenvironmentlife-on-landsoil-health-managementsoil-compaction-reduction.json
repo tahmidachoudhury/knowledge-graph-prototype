@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction",
+      "label": "Soil compaction reduction",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How does soil condition affect tire inflation pressure?",
+      "answer": "In softer soil conditions, tire inflation pressure may be reduced compared to the recommended pressure for the same load on firmer surfaces because the soil deforms to increase the contact patch area and thus reduce tire deflection.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil compaction reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does off-road rolling resistance compare to internal rolling resistance?",
+      "answer": "In off-road conditions, the rolling resistance caused by soil deformation is about 5 times greater than the internal rolling resistance, depending upon the tire construction.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil compaction reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can rolling resistance be reduced according to the text?",
+      "answer": "Rolling resistance can be reduced by traveling at higher speeds, increasing the contact area, and reducing weight. If weight cannot be reduced, increasing the contact area can lower soil-tire contact pressure.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil compaction reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods can be used to reduce contact pressure on the soil?",
+      "answer": "Contact pressure can be reduced by increasing tire diameter, section width, using minimum allowable inflation pressure, fitting dual tires at low inflation pressure, and using repeated wheeling where possible.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil compaction reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of distances in soil does the review focus on regarding the formation of anoxia?",
+      "answer": "The review focuses on critical air distances in soil that lead to the formation of anoxia.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil compaction reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What processes can affect the spatial configurations of air-filled pore space in soil?",
+      "answer": "Spatial configurations of air-filled pore space can be affected by biotic processes like bioturbation, abiotic processes like wetting and drying cycles, or technical processes like tillage.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil compaction reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_006",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the bulk density of the grassland soil compared to the cropland soil?",
+      "answer": "The bulk density of the grassland soil was lower at 1.0 g cm-3, while the bulk density of the cropland soil was 1.3 g cm-3.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil compaction reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_007",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the use of automatic spindle pickers during cotton fibre picking affect the soil quality?",
+      "answer": "The use of automatic spindle pickers during cotton fibre picking can affect soil quality through processes like compaction and disruption of soil structure.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil compaction reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil compaction reduction_qna_007",
+      "value": 1
+    }
+  ]
+}

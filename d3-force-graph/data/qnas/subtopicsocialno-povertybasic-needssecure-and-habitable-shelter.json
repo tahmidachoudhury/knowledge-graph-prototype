@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Secure and habitable shelter",
+      "label": "Secure and habitable shelter",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Secure and habitable shelter_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the \"secure\" theme in the Australian wellbeing framework emphasize?",
+      "answer": "The \"secure\" theme emphasizes living peacefully, feeling safe, having financial security, and access to housing.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "subtopic": "Secure and habitable shelter",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Basic needs|Secure and habitable shelter",
+      "target": "Subtopic:Social|No poverty|Basic needs|Secure and habitable shelter_qna_000",
+      "value": 1
+    }
+  ]
+}

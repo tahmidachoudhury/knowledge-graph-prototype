@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Desert climate adaptation",
+      "label": "Desert climate adaptation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Desert climate adaptation_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What adaptive phenotypes were linked to the candidate genes identified in the study?",
+      "answer": "Candidate genes were associated with high-altitude adaptability, cold climate adaptation, and dryland adaptation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Desert climate adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Desert climate adaptation",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Desert climate adaptation_qna_000",
+      "value": 1
+    }
+  ]
+}

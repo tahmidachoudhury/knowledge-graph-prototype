@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses",
+      "label": "Acidification effects on seagrasses",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific changes do S. japonica gametophytes undergo to acclimate to high seawater temperatures?",
+      "answer": "They undergo transformations of amino acids, changes in sugar metabolism, and intensification of the innate immune system.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification effects on seagrasses",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What specific effects on communities are less understood in relation to seagrass meadows?",
+      "answer": "The specific effects of fragmentation and edge effects on epifaunal and infaunal communities are less understood.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification effects on seagrasses",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do bryophytes react to changes in their environment?",
+      "answer": "Bryophytes take up nutrients over their whole leaf surface area and can react quickly to environmental changes, which may be influenced by the conditions created by fast- or slow-growing vascular plant communities.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification effects on seagrasses",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_002",
+      "value": 1
+    }
+  ]
+}

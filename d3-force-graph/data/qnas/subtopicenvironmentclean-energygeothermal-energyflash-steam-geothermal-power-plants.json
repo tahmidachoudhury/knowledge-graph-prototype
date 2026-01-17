@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Flash steam geothermal power plants",
+      "label": "Flash steam geothermal power plants",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Flash steam geothermal power plants_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the temperature and duration of the hydrothermal processing for the sulfur doping stage?",
+      "answer": "The hydrothermal processing for the sulfur doping stage is carried out at 105°C for 24 hours.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "subtopic": "Flash steam geothermal power plants",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Geothermal energy|Flash steam geothermal power plants",
+      "target": "Subtopic:Environment|Clean energy|Geothermal energy|Flash steam geothermal power plants_qna_000",
+      "value": 1
+    }
+  ]
+}

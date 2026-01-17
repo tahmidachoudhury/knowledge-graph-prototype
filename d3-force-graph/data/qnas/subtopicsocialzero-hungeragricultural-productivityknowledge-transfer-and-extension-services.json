@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Knowledge transfer and extension services",
+      "label": "Knowledge transfer and extension services",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Knowledge transfer and extension services_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is lacking in Ekiti regarding government policy dynamics and local knowledge?",
+      "answer": "There is a lack of understanding of how contradicting government policy dynamics for modernization and sustainability interact with local knowledge and influence farmer decision-making for cocoa production.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Knowledge transfer and extension services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Knowledge transfer and extension services",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Knowledge transfer and extension services_qna_000",
+      "value": 1
+    }
+  ]
+}

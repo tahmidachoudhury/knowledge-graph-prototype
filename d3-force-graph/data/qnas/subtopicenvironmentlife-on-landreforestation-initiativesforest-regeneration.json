@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration",
+      "label": "Forest regeneration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What kinds of disturbances are encompassed in forest loss analyses?",
+      "answer": "Forest loss analyses encompass both temporary and permanent stand-removing disturbances.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Forest regeneration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What defines old-growth forests according to the studies mentioned?",
+      "answer": "Old-growth forests are defined by naturally regenerated forest stands of native tree species, a long period without significant human intervention, presence of a dominant cohort of large live and dead trees, complex structure with varied tree sizes and ages, accumulation of large deadwood material, provision of diverse ecosystem services, and natural disturbance regimes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Forest regeneration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration_qna_001",
+      "value": 1
+    }
+  ]
+}

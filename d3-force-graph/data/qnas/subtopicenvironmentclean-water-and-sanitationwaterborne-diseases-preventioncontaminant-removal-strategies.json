@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies",
+      "label": "Contaminant removal strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What do the variables Qt and Qe represent in the equations provided?",
+      "answer": "Qt represents the adsorbed amount of heavy metals at time t, and Qe represents the adsorbed amount at adsorption equilibrium.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Contaminant removal strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the removal percentages of Pb(II) using REEs/C prepared at different temperatures?",
+      "answer": "The removal percentages of Pb(II) were 85.1% for REEs/C prepared at 400 °C, 84.0% for REEs/C prepared at 800 °C, and 67.0% for REEs/C prepared at 600 °C.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Contaminant removal strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What functional groups were confirmed in the REEs/C-4 that contributed to its effectiveness in Pb(II) removal?",
+      "answer": "Rich functional groups such as aromatic, hydroxyl, and C = C/C-C were confirmed in REEs/C-4, providing more chelation sites for complexing with Pb(II).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Contaminant removal strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Contaminant removal strategies_qna_002",
+      "value": 1
+    }
+  ]
+}

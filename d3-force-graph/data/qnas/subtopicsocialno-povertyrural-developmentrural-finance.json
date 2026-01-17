@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural finance",
+      "label": "Rural finance",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural finance_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What role do banks and financial intermediaries play according to Section 5?",
+      "answer": "Section 5 examines the mediating role of banks and financial intermediaries in relation to the real economic impact of natural hazard-related shocks, starting with macro-level approaches and then addressing regional and local levels.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Rural finance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Rural finance",
+      "target": "Subtopic:Social|No poverty|Rural development|Rural finance_qna_000",
+      "value": 1
+    }
+  ]
+}

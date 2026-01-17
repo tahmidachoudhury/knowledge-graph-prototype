@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "label": "Hydropower plant design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How might the approach flow angle differ from standard design assumptions for a spillway?",
+      "answer": "The approach flow angle might differ from standard design assumptions due to irregularities in the riverbed or limitations on the footprint of the spillway structure.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does CFD contribute to the design process mentioned in the paragraph?",
+      "answer": "CFD allows for testing solutions before a physical model is built for validation, which can increase discharge capacity in spillway designs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the limitations imposed on the design of hydraulic structures in Norwegian and Swedish hydropower systems?",
+      "answer": "The limitations are imposed by the topography and bathymetry of the natural rivers where these structures are constructed.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the flow leading up to the spillway differ in previous studies compared to the authors' investigation?",
+      "answer": "Previous studies may have investigated the total rating curve or discharge capacity, but the authors focus on the lateral component in the flow leading up to the spillway.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodology was used to assess and quantify the effects on spillway performance?",
+      "answer": "A spillway model with multiple parallel outlets was modified and tested under a range of variable parameters to assess and quantify the effects.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_004",
+      "value": 1
+    }
+  ]
+}

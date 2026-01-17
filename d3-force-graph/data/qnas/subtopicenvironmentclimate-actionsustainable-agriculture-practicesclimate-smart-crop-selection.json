@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection",
+      "label": "Climate-smart crop selection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which diploid ancestor of wheat is examined for its genome-wide environmental scans (GWES) in this study?",
+      "answer": "The diploid ancestor examined is Aegilops tauschii (Ae. tauschii).",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Climate-smart crop selection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What has been the focus of kelp breeders in terms of temperature tolerance?",
+      "answer": "They have been developing high temperature tolerant varieties to extend growing time and increase yield.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Climate-smart crop selection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some recommendations for wine-growing regions like South Moravia and the Bermuda Region to adapt to climate change?",
+      "answer": "In South Moravia and the Bermuda Region, the scientists suggest growing heat-loving varieties like Mourned or Grenade to replace grape varieties like Pinot Noir, Cabernet Sauvignon, and Merlot that may not thrive in the new climatic conditions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Climate-smart crop selection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What makes the prioritization of genebank germplasm for breeding climate-adapted wheat varieties challenging?",
+      "answer": "The prioritization is challenging due to the polygenic nature of adaptation to varied environments.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Climate-smart crop selection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_004",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the second approach enhance the selection of wild relative accessions?",
+      "answer": "It is based on environmental parameters at the site of accession origin.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Climate-smart crop selection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which two wild ancestors of wheat are mentioned as important for broadening the climate adaptive potential of modern wheat?",
+      "answer": "Aegilops tauschii and Triticum turgidum ssp. dicoccodies (wild emmer) are mentioned as important wild ancestors.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Climate-smart crop selection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Climate-smart crop selection_qna_005",
+      "value": 1
+    }
+  ]
+}

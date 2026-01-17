@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-optimized crop rotation",
+      "label": "Energy-optimized crop rotation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-optimized crop rotation_qna_000",
+      "group": "QnA",
+      "label": "Experimental design and 15N application",
+      "question": "How much nitrogen was applied to the WW crop, and how was it split?",
+      "answer": "The WW crop was fertilized with 21 g N m², split into two doses of 14 g N m² on April 8th and 7 g N m² on June 11th.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Energy-optimized crop rotation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-optimized crop rotation",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-optimized crop rotation_qna_000",
+      "value": 1
+    }
+  ]
+}

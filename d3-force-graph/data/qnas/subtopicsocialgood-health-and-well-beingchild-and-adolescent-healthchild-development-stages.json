@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Child and adolescent health|Child development stages",
+      "label": "Child development stages",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Child and adolescent health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Child and adolescent health|Child development stages_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What metrics were used to document growth in two studies about juvenile COTS?",
+      "answer": "Changes in total diameter and arm number were used as metrics to document growth.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Child and adolescent health",
+      "subtopic": "Child development stages",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Child and adolescent health|Child development stages_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the age range of juveniles studied in the research?",
+      "answer": "The juveniles studied were from settlement to 300 days old.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Child and adolescent health",
+      "subtopic": "Child development stages",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Child and adolescent health|Child development stages",
+      "target": "Subtopic:Social|Good health and well-being|Child and adolescent health|Child development stages_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Child and adolescent health|Child development stages",
+      "target": "Subtopic:Social|Good health and well-being|Child and adolescent health|Child development stages_qna_001",
+      "value": 1
+    }
+  ]
+}

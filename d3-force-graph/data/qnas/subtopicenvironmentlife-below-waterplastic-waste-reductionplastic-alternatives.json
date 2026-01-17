@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives",
+      "label": "Plastic alternatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the alternative offered by the critical sustainability science approach compared to other sustainability research methods?",
+      "answer": "It offers an alternative to both mainstream and (critical) idealist/culturalist approaches in sustainability research.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "subtopic": "Plastic alternatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is the bio-based alternative mentioned for clinical applications?",
+      "answer": "The bio-based alternative mentioned for clinical applications is polylactic acid (PLA).",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "subtopic": "Plastic alternatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How can decision makers at the European and national scale promote the use of plastic alternatives?",
+      "answer": "Decision makers can apply policy tools to increase the provision of plastic alternatives like biodegradable plastics or refill systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "subtopic": "Plastic alternatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives",
+      "target": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives",
+      "target": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives",
+      "target": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic alternatives_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Collaboration networks",
+      "label": "Collaboration networks",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Collaboration networks_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What sources are referenced in the context of governance of inter-organizational networks?",
+      "answer": "The sources referenced include works by Glicker (2020), Glicker and Nemeth (2012), Klijn et al. (2010), and Provan and Kenis (2008).",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "subtopic": "Collaboration networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Collaboration networks_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What approach was used to explore the responses of the network attributes along the LUD and SPEI gradients?",
+      "answer": "The responses of the network attributes were explored using network analysis and a moving-window approach.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "subtopic": "Collaboration networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Collaboration networks",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Collaboration networks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Collaboration networks",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Collaboration networks_qna_001",
+      "value": 1
+    }
+  ]
+}

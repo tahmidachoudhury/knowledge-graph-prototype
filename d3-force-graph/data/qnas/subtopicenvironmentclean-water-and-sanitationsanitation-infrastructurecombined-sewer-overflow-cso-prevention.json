@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Combined sewer overflow (cso) prevention",
+      "label": "Combined sewer overflow (cso) prevention",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Combined sewer overflow (cso) prevention_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What limitations exist in Hager's work on side weirs in relation to discharge?",
+      "answer": "Hager's work focuses on side weirs that do not handle the full discharge, which is a limitation compared to the authors' study.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Combined sewer overflow (cso) prevention",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Combined sewer overflow (cso) prevention",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Combined sewer overflow (cso) prevention_qna_000",
+      "value": 1
+    }
+  ]
+}

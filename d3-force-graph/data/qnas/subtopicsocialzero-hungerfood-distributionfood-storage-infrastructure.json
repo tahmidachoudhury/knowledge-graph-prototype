@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food storage infrastructure",
+      "label": "Food storage infrastructure",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food storage infrastructure_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What visual elements were included on the wobblers in the meat shelf?",
+      "answer": "The wobblers included a picture of a meat product on the left-hand side and a meat substitute on the right-hand side, with an arrow pointing from the meat product to the meat substitute.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Food storage infrastructure",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Food storage infrastructure",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Food storage infrastructure_qna_000",
+      "value": 1
+    }
+  ]
+}

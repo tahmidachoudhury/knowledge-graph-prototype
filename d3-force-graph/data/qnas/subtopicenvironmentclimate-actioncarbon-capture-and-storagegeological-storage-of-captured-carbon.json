@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Geological storage of captured carbon",
+      "label": "Geological storage of captured carbon",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Geological storage of captured carbon_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much of the world's proved natural gas reserves does Russia hold?",
+      "answer": "Russia holds almost 17% of the world's proved natural gas reserves.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Geological storage of captured carbon",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Geological storage of captured carbon",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Geological storage of captured carbon_qna_000",
+      "value": 1
+    }
+  ]
+}

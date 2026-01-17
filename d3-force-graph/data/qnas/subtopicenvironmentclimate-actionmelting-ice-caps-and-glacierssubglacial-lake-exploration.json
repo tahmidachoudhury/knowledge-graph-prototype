@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Subglacial lake exploration",
+      "label": "Subglacial lake exploration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Subglacial lake exploration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What effect does full submersion of specimens during freeze-thaw cycles have compared to just having water on top?",
+      "answer": "Full submersion induces more internal cracks than solely having water on top during freeze-thaw cycles.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Subglacial lake exploration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Subglacial lake exploration",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Subglacial lake exploration_qna_000",
+      "value": 1
+    }
+  ]
+}

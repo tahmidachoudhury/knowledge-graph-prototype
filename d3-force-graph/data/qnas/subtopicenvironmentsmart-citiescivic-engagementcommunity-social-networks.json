@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks",
+      "label": "Community social networks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is TEK important for local societies?",
+      "answer": "TEK is a crucial building block of local social capital.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Community social networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method is used to measure degree centrality in social networks according to the paragraph?",
+      "answer": "The method elucidates structural features of social networks and measures degree centrality based on the number of direct connections actors have within the overall network.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Community social networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What type of social structure do individuals of the species exhibit?",
+      "answer": "Individuals exhibit fission fusion social structures and live in small communities known as mobs.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Community social networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is social capital and why is it important for sustainability?",
+      "answer": "Social capital refers to relationships and structures that enhance the effectiveness of a social unit, and it is important for sustainability as it facilitates cooperation and reciprocity among community members.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Community social networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does AI affect social interaction in rural communities according to the paper?",
+      "answer": "AI's impact on social interaction has led to broader social changes, particularly in rural communities where economic shifts and urban migration have declined traditional social spaces, such as village cafés, which are essential for community cohesion and mental well-being.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Community social networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Community social networks_qna_004",
+      "value": 1
+    }
+  ]
+}

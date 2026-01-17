@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Ecological succession management",
+      "label": "Ecological succession management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Ecological succession management_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the paper propose to compare the outcomes under BMRA to those of a sole owner?",
+      "answer": "The paper discusses how to compare conservation and economic gains under BMRA to those associated with the sole owner management approach.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Ecological succession management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Ecological succession management_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the ecological world-view, as discussed by Await et al. (2022)?",
+      "answer": "The ecological world-view, as defined by Await et al. (2022), is an environmental perspective that highlights the potential for disrupting global development, constraining human society, and reducing human control over nature.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Ecological succession management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Ecological succession management",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Ecological succession management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Ecological succession management",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Ecological succession management_qna_001",
+      "value": 1
+    }
+  ]
+}

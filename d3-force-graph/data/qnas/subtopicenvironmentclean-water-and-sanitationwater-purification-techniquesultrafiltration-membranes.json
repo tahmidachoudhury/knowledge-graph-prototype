@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Ultrafiltration membranes",
+      "label": "Ultrafiltration membranes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Ultrafiltration membranes_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the names of the two fractions obtained after ultracentrifugation?",
+      "answer": "The two fractions obtained were the soluble fraction (supernatant) and the membrane fraction (pellet).",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Ultrafiltration membranes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Ultrafiltration membranes",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Ultrafiltration membranes_qna_000",
+      "value": 1
+    }
+  ]
+}

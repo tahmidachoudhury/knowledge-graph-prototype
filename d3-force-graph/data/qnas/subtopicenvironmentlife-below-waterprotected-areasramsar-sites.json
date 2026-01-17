@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Ramsar sites",
+      "label": "Ramsar sites",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Ramsar sites_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is the geographical location of the Inciralti-Cakalburnu Urban Wetland (ICUW)?",
+      "answer": "The ICUW is located in Izmir, Turkey.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Ramsar sites",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Ramsar sites",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Ramsar sites_qna_000",
+      "value": 1
+    }
+  ]
+}

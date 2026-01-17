@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Telepathology services",
+      "label": "Telepathology services",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Telepathology services_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does XCT assist in subsequent destructive analysis?",
+      "answer": "XCT identifies features of interest for further examination using higher-resolution techniques, saving time and improving results by eliminating random searches.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Telepathology services",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Telepathology services",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Telepathology services_qna_000",
+      "value": 1
+    }
+  ]
+}

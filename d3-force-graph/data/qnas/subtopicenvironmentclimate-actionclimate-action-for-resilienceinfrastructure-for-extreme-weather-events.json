@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events",
+      "label": "Infrastructure for extreme weather events",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the term \"super scaling\" refer to in the context of heavy rainfall and temperature relationships?",
+      "answer": "\"Super scaling\" refers to larger percentages of increase in heavy rainfall determined in some areas, such as the Netherlands, beyond the standard Clausius Clapeyron estimate.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure for extreme weather events",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which extreme climate event types are used as case studies in the paper?",
+      "answer": "The case studies include tropical cyclones, flooding, extreme heat, and droughts.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure for extreme weather events",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What case studies are used to illustrate the framework discussed in the paper?",
+      "answer": "The case studies used to illustrate the framework are tropical storms, floods, extreme heat, and droughts.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure for extreme weather events",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methodological approach does the study use to assess the economic costs of weather events?",
+      "answer": "The study employs a refined structural Gravity model to assess the international transmission of economic costs from extreme weather events.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure for extreme weather events",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure for extreme weather events_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Quality jobs|Work-life balance",
+      "label": "Work-life balance",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Quality jobs"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Quality jobs|Work-life balance_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What balance must be considered in daily radiological work according to the paragraph?",
+      "answer": "The balance between responsible imaging usage and the immediate needs of patients must be considered.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Quality jobs",
+      "subtopic": "Work-life balance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Quality jobs|Work-life balance",
+      "target": "Subtopic:Social|Decent work and economic growth|Quality jobs|Work-life balance_qna_000",
+      "value": 1
+    }
+  ]
+}

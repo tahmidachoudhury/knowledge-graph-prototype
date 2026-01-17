@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Poor housing quality",
+      "label": "Poor housing quality",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Urban poverty|Poor housing quality_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What gap in research is highlighted in the paragraph regarding traditional residential architecture?",
+      "answer": "The gap highlighted is the insufficient research on traditional residential architecture in specific geographical and cultural contexts, particularly regarding the traditional residential houses of ethnic minorities in the Sichuan Plateau.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Urban poverty",
+      "subtopic": "Poor housing quality",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Urban poverty|Poor housing quality",
+      "target": "Subtopic:Social|No poverty|Urban poverty|Poor housing quality_qna_000",
+      "value": 1
+    }
+  ]
+}

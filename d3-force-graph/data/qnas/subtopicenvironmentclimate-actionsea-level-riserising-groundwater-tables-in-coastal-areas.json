@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas",
+      "label": "Rising groundwater tables in coastal areas",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_000",
+      "group": "QnA",
+      "label": "Natural Hazards",
+      "question": "What caused the increase in hydrostatic load according to the paragraph?",
+      "answer": "The increase in hydrostatic load was caused by soil saturation due to severe rainfall and agricultural activities.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Rising groundwater tables in coastal areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What factors were considered for assessing GUISE?",
+      "answer": "The factors considered for assessing GUISE included groundwater level above the sea, aquifer thickness, land cover, distance from the coastline, soil clay content, recharge, and distance from rivers.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Rising groundwater tables in coastal areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_001",
+      "value": 1
+    }
+  ]
+}

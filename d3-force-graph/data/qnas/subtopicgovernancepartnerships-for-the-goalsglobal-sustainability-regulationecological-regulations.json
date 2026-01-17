@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations",
+      "label": "Ecological regulations",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation"
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What theoretical framework do the authors base their proposals on?",
+      "answer": "The proposals are based on ecological regulation theory.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "subtopic": "Ecological regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What challenge is highlighted regarding government management in the context of ecological environment protection and economic development?",
+      "answer": "The government cannot effectively manage the ecological environment and promote high-quality economic development solely through laws and regulations.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "subtopic": "Ecological regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the purpose of the European Commission's Directorate-General for Environment?",
+      "answer": "The purpose of the European Commission's Directorate-General for Environment is to develop and implement EU policies on the environment with the goal of ensuring a high level of environmental protection and sustainability.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "subtopic": "Ecological regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Ecological regulations_qna_002",
+      "value": 1
+    }
+  ]
+}

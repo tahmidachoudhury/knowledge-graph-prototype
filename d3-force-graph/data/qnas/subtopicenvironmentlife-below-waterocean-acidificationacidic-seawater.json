@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater",
+      "label": "Acidic seawater",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What gases are formed when SPL reacts with water?",
+      "answer": "The gases formed are ammonia (NH3), phosphine (PH3), and hydrogen cyanide (HCN).",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidic seawater",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some consequences of marine heatwaves that can lead to multi-stressor compound events?",
+      "answer": "Marine heatwaves can lead to low dissolved oxygen and pH levels, as well as the expansion of hypoxic zones during these events.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidic seawater",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater_qna_001",
+      "value": 1
+    }
+  ]
+}

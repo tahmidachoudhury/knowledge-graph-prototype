@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Community-based conservation",
+      "label": "Community-based conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Community-based conservation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What kind of approaches are suggested for the conservation and sustainable use of biodiversity?",
+      "answer": "Rights-based and community-led approaches are suggested for the conservation and sustainable use of biodiversity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Community-based conservation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Community-based conservation",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Community-based conservation_qna_000",
+      "value": 1
+    }
+  ]
+}

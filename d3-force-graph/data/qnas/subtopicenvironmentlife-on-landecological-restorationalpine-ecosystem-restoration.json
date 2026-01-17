@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration",
+      "label": "Alpine ecosystem restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors are influenced by fluctuations in altitude according to the paragraph?",
+      "answer": "Fluctuations in altitude influence the soil organic matter content, which regulates factors such as soil moisture, soil erosion, vegetation, and biomass production.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Alpine ecosystem restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_001",
+      "group": "QnA",
+      "label": "Geography",
+      "question": "Where is the study area located, and what is its geographical feature?",
+      "answer": "The study area is located in Val Piora, Swiss Alps, covering a 6 km² area of Alpine grassland interspersed with rocks, screes, and low shrub, at altitudes ranging from 1850 to 2450 m a.s.l.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Alpine ecosystem restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is noted about the Himalayan alpine zone in the background section of the abstract?",
+      "answer": "It harbors a rich diversity of endemic medicinal plant species due to its habitat heterogeneity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Alpine ecosystem restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_003",
+      "group": "QnA",
+      "label": "Ecology and conservation",
+      "question": "What is the main focus of the present study related to M. aculeata in alpine environments?",
+      "answer": "The study focuses on exploring population ecology, spatial distribution patterns, significant threats, diversity patterns along elevational gradients, and future conservation strategies for the dwindling populations of M. aculeata.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Alpine ecosystem restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is the genus Meconopsis significant for alpine ecosystems?",
+      "answer": "The genus Meconopsis is significant for alpine ecosystems because it has a narrow distribution range and contributes to regional biodiversity and primary production.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Alpine ecosystem restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "At what elevation does the alpine vegetation zone begin in AJK?",
+      "answer": "The alpine vegetation zone begins at elevations above 3000 m in AJK.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Alpine ecosystem restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Alpine ecosystem restoration_qna_005",
+      "value": 1
+    }
+  ]
+}

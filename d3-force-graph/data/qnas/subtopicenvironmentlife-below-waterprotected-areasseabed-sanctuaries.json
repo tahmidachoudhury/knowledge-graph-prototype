@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seabed sanctuaries",
+      "label": "Seabed sanctuaries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seabed sanctuaries_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What specific habitat was identified for the field surveys of Gongolaria barbata?",
+      "answer": "The suitable habitat identified for G. barbata is the very shallow sheltered upper sublittoral rocky zone.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Seabed sanctuaries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Seabed sanctuaries",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Seabed sanctuaries_qna_000",
+      "value": 1
+    }
+  ]
+}

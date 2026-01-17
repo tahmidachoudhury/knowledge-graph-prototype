@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Financial regulations",
+      "label": "Financial regulations",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Financial regulations_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is one of the common drivers of the proliferation of UPFs and ASFs mentioned in the commentary?",
+      "answer": "A regulatory environment that prioritizes the interests of large corporations and financiers over other considerations is identified as a common driver.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Financial regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Financial regulations",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Financial regulations_qna_000",
+      "value": 1
+    }
+  ]
+}

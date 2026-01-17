@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Sea level rise adaptation",
+      "label": "Sea level rise adaptation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Sea level rise adaptation_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What has been implemented worldwide to mitigate the negative consequences of sea-level rise in coastal areas?",
+      "answer": "Various adaptation measures for infrastructure have been implemented.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "subtopic": "Sea level rise adaptation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal management|Sea level rise adaptation",
+      "target": "Subtopic:Environment|Life below water|Coastal management|Sea level rise adaptation_qna_000",
+      "value": 1
+    }
+  ]
+}

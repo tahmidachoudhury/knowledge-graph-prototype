@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions",
+      "label": "Acidification in polar regions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does nitrogen influence bryophytes according to the paragraph?",
+      "answer": "Nitrogen could indirectly affect bryophytes by reducing vascular plant richness and shifting community composition towards fast growth.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification in polar regions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the shift in vascular plant species affect bryophytes according to the hypotheses?",
+      "answer": "A shift to fast-growing vascular plant species with high specific leaf area (SLA) is expected to reduce bryophyte species richness and cover due to lower structural heterogeneity and alterations in water and nutrient availability.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification in polar regions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions_qna_001",
+      "value": 1
+    }
+  ]
+}

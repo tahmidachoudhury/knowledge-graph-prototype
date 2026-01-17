@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement",
+      "label": "Stream habitat enhancement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What hypotheses were proposed regarding macroinvertebrate community structure?",
+      "answer": "The hypotheses proposed that macroinvertebrate community structure will differ across various river sections and be affected by barriers like dams and weirs, as well as seasonal differences in water and sediment concentration levels.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Stream habitat enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What species traits were used as a proxy for interspecific competition in the study?",
+      "answer": "The species traits used were feeding type, habitat preference, and stream zonation preference.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Stream habitat enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the relationship between water quality improvements and broader ecological outcomes?",
+      "answer": "The relationship is complex and influenced by additional factors beyond just water quality enhancements.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Stream habitat enhancement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Stream habitat enhancement_qna_002",
+      "value": 1
+    }
+  ]
+}

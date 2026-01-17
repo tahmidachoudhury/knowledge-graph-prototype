@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "label": "Enviro data analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How were missing data handled in the dataset used for the study?",
+      "answer": "Missing data was imputed using K-nearest neighbors (KNN).",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Enviro data analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the dataset relate to other variables of interest?",
+      "answer": "The dataset can be analyzed to answer ecological questions by relating acoustic patterns over time and space to widely available variables such as land cover data.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Enviro data analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to analyze the background environmental variables at occurrence locations?",
+      "answer": "A principal component analysis (PCA) was used to analyze the background environmental variables at each occurrence location.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Enviro data analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the study mentioned in the paragraph?",
+      "answer": "The study focuses on using a Machine Learning approach to analyze the Russian case in relation to economic growth and its impacts, particularly on environmental factors.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Enviro data analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_003",
+      "value": 1
+    }
+  ]
+}

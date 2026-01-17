@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Food sovereignty movements",
+      "label": "Food sovereignty movements",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Food sovereignty movements_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which aspect of the movement does the paper seek to outline through its analysis?",
+      "answer": "The paper seeks to outline convergences and tensions within the movement related to alternative currencies and degrowth.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "subtopic": "Food sovereignty movements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Food sovereignty movements_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the primary focus of the degrowth movement as mentioned in the paragraph?",
+      "answer": "The primary focus of the degrowth movement is on alternative currencies and their role in socio-ecological transformations.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "subtopic": "Food sovereignty movements",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food justice|Food sovereignty movements",
+      "target": "Subtopic:Social|Zero hunger|Food justice|Food sovereignty movements_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food justice|Food sovereignty movements",
+      "target": "Subtopic:Social|Zero hunger|Food justice|Food sovereignty movements_qna_001",
+      "value": 1
+    }
+  ]
+}

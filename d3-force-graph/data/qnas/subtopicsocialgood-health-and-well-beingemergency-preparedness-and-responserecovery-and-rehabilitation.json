@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation",
+      "label": "Recovery and rehabilitation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is meant by 'creative destruction' in the context of the paragraph?",
+      "answer": "'Creative destruction' refers to the idea that some indirect impacts of disasters could be positive, often associated with rebuilding efforts that improve or innovate upon previous conditions.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Recovery and rehabilitation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What plan is a fundamental driving force behind the initiatives mentioned in the paragraph?",
+      "answer": "The Recovery, Transformation and Resilience Plan (RTRP) presented by the Spanish Government in October 2020 is a fundamental driving force.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Recovery and rehabilitation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Recovery and rehabilitation_qna_001",
+      "value": 1
+    }
+  ]
+}

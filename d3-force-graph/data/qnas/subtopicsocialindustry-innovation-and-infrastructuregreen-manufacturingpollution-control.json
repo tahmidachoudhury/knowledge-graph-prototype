@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control",
+      "label": "Pollution control",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What do the PHH suggest about developing nations with loose environmental regulations?",
+      "answer": "The PHH suggest that developing nations with loose environmental regulations become hubs for pollution-intensive production, attracting multinational firms to transfer their highly polluting industries to these areas due to lower manufacturing costs.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Pollution control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Canadian industries’ expenditures on pollution management was attributed to end-of-pipe abatement in 2021?",
+      "answer": "The share of Canadian industries’ expenditure on pollution abatement and control attributed to end-of-pipe abatement was 46.1% in 2021.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Pollution control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some of the environmental benefits of implementing environmental protection technologies in the textile industry supply chain?",
+      "answer": "By implementing environmental protection technologies, the textile industry can reduce GHG emissions, waste disposal, and wastewater discharge into rivers, creating a cleaner and healthier environment for society.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Pollution control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control_qna_003",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How can air pollution be linked to textile dyeing processes?",
+      "answer": "Common textile dyeing processes often involve the use of harmful chemicals and dyes that can release pollutants into the air, contributing to air pollution.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Pollution control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What legislative process did the EU begin in 2020 that relates to pollution prevention?",
+      "answer": "The EU started a process of revising its Industrial Emissions Directive (IED, 2010/75/EU) in 2020 to endorse the prevention first principle.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Pollution control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Pollution control_qna_004",
+      "value": 1
+    }
+  ]
+}

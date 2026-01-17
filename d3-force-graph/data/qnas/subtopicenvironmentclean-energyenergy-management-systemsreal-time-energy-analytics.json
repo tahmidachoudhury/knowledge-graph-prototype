@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "label": "Real-time energy analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How was the performance of the energy-autonomous technology evaluated?",
+      "answer": "The performance was evaluated through building energy consumption simulations conducted using DesignBuilder software and the EnergyPlus calculation engine.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which software was used for simulating and analyzing energy consumption in the study?",
+      "answer": "DesignBuilder software was used for simulating and analyzing energy consumption.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the review by Padua in Energy Re's Soc SCI 2020 focus on?",
+      "answer": "The review by Padua focuses on the complexity of energy behaviour, technologies, analytical traditions, and household energy consumption data in the United States.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which specific energy app is being investigated in this study?",
+      "answer": "The study investigates the Tibber energy app.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_004",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What do the findings provide insights for?",
+      "answer": "The findings provide actionable insights for improving app design, advancing smart energy solutions, and informing energy efficiency and conservation initiatives.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of data do existing studies on energy apps predominantly rely on?",
+      "answer": "Existing studies predominantly rely on theoretical frameworks or pilot-scale interventions rather than real-world data from active users.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can analyzing user reviews of smart energy apps be beneficial according to the paragraph?",
+      "answer": "Analyzing user reviews can provide valuable insights into users' perceptions and interactions with the apps, including their engagement with features, awareness of energy feedback, and perceptions of the app's utility for informed energy decisions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_006",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Floodplain renovation",
+      "label": "Floodplain renovation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Floodplain renovation_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How have hydromorphological restoration projects performed in terms of success?",
+      "answer": "They have shown varying degrees of success, with some studies reporting positive outcomes and others finding minimal or no improvements beyond the local habitat scale.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Floodplain renovation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Floodplain renovation",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Floodplain renovation_qna_000",
+      "value": 1
+    }
+  ]
+}

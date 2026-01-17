@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Rainwater harvesting systems",
+      "label": "Rainwater harvesting systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Rainwater harvesting systems_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why are corrections applied to precipitation gauge measurements?",
+      "answer": "Corrections are applied to mitigate biases caused by undercatch, specifically to improve data accuracy in measuring precipitation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Rainwater harvesting systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Rainwater harvesting systems",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Rainwater harvesting systems_qna_000",
+      "value": 1
+    }
+  ]
+}

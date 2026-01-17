@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health financing for security",
+      "label": "Health financing for security",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health financing for security_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What budget is required to match the anticipated expenditures for IPBES according to Chair Obura?",
+      "answer": "A predictable budget of around USD 2 million per year is needed to match foreseen expenditures.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "subtopic": "Health financing for security",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health security|Health financing for security",
+      "target": "Subtopic:Social|Good health and well-being|Global health security|Health financing for security_qna_000",
+      "value": 1
+    }
+  ]
+}

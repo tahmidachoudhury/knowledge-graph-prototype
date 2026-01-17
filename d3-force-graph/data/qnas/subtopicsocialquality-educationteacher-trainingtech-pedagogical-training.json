@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Tech pedagogical training",
+      "label": "Tech pedagogical training",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Tech pedagogical training_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What framework does the study synthesize with the CARE-KNOW-DO pedagogical model?",
+      "answer": "The study synthesizes the UNESCO AI Competencies Framework with the CARE-KNOW-DO pedagogical model.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Tech pedagogical training",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Tech pedagogical training",
+      "target": "Subtopic:Social|Quality education|Teacher training|Tech pedagogical training_qna_000",
+      "value": 1
+    }
+  ]
+}

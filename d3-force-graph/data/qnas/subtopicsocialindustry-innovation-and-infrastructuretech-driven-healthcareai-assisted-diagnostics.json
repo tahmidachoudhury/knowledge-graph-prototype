@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics",
+      "label": "Ai-assisted diagnostics",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What limitation does the supervised learning framework impose on AI applications in bioacoustics?",
+      "answer": "The supervised learning framework limits the application scope to predefined categories within a closed setting.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Ai-assisted diagnostics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is automated analysis important in the context of ARUs?",
+      "answer": "Automated analysis is essential because the manual review of the vast amount of audio data collected by ARUs is impractical.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Ai-assisted diagnostics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics_qna_001",
+      "value": 1
+    }
+  ]
+}

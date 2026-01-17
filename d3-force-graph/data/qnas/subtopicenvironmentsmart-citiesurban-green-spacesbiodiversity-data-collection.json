@@ -1,0 +1,223 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "label": "Biodiversity data collection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What method was used to reduce model overfitting in the occurrence data collection?",
+      "answer": "The spThin package in R 4.3.1 was utilized to remove duplicate data within a 1 km² grid.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What role can urban gardeners play in the context of biodiversity in Australia?",
+      "answer": "Urban gardeners can play a significant role in the fight for Australia's biodiversity by contributing to the habitat needs of local birds and wildlife.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which bird species is specifically mentioned as an example of an urban exploiter in Queensland and the Australian Capital Territory?",
+      "answer": "The noisy miner (Manorina melanocephala) is mentioned as an example of an urban exploiter in Queensland and the Australian Capital Territory.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the trend concerning amphibian species diversity in relation to urbanisation as noted by Mazgajska and Mazgajski (2020)?",
+      "answer": "The diversity of amphibian species decreases as the degree of urbanisation increases.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What projects were involved in the creation of these datasets?",
+      "answer": "The datasets were created through the COST action ENRAM and the BiodivERsA projects GloBAM and HiRAD.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the study conducted in Xalapa, Mexico?",
+      "answer": "The study focuses on comparing the species composition of urban bird communities in Xalapa with those of two reference sites adjacent to the urban area.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What gap in knowledge does the study aim to address?",
+      "answer": "The study aims to address the scarcity of information regarding the specific factors that shape avian communities in urban environments, particularly in the Neotropics.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_007",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of cluster analyses were performed to study the urban bird community composition?",
+      "answer": "S rensen (incidence-based) and Bray-Curtis (abundance-based) cluster analyses were performed.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_008",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What variables were compared to assess bird community similarity?",
+      "answer": "The study compared the compositional similarity of bird communities at both urban sites in relation to their proximity to natural conservation areas and the vegetation cover.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_009",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many survey points were included in the urban area for the bird community study?",
+      "answer": "A total of 114 survey points were included in the urban area.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_010",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many sites were included in the final dataset and what was the sampling period?",
+      "answer": "The final dataset included 1599 sites sampled between two and 12 times from 2004 to 2022.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_009",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_010",
+      "value": 1
+    }
+  ]
+}

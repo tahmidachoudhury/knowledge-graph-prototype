@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives",
+      "label": "Pond restoration initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What measures have been implemented to address the global freshwater biodiversity crisis?",
+      "answer": "Measures such as improved wastewater treatment and local habitat restoration have been implemented.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Pond restoration initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is widely believed to have contributed to the recovery of benthic invertebrate assemblages in Europe?",
+      "answer": "The recovery is widely believed to have primarily resulted from improvements in water quality.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Pond restoration initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do biotic interactions play in recovery trajectories according to recent research in freshwater systems?",
+      "answer": "Biotic interactions, particularly competition, play a critical role in shaping recovery trajectories by limiting recolonization success and influencing community dynamics.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Pond restoration initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions",
+      "label": "Waste management solutions",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is waste management considered important in the global agenda?",
+      "answer": "Waste management is important in the global agenda because it affects each of the United Nations' triple planetary crises: climate change, nature and biodiversity, and pollution and waste.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "subtopic": "Waste management solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does Level 2 of the solutions in Jakarta aim to enhance waste management practices?",
+      "answer": "Level 2 of the solutions in Jakarta concentrates on enhancing waste management practices through the 3R concept: Reduce, Reuse, Recycle.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "subtopic": "Waste management solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can a company improve waste management as part of its business strategy?",
+      "answer": "A company can improve waste management by focusing on minimizing risks in waste collection and disposal through the implementation of a new risk evaluation model and the establishment of a project team with expertise in EHS risk assessment and waste management.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "subtopic": "Waste management solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some of the costs associated with managing obsolete or dead stock items in terms of waste management?",
+      "answer": "The management of obsolete or dead stock items adds to carbon emissions, labour costs, and waste management costs, such as those for incineration or landfilling, which can have a significant impact on a company's bottom line and environmental footprint.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "subtopic": "Waste management solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Waste management solutions_qna_003",
+      "value": 1
+    }
+  ]
+}

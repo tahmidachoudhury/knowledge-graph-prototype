@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "label": "Carbon emission reduction",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What is carbon lock-in, and how does it hinder efforts to reduce greenhouse gas emissions?",
+      "answer": "Carbon lock-in refers to dependence on high-carbon technologies and infrastructure, hindering efforts to transition to low-carbon alternatives.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Carbon emission reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What approach did Capo rale et al. use to analyse the relationship between CO2 emissions and GDP in China?",
+      "answer": "G.M. Capo rale, G. Claudio-Quiroga, and L.A. Gillan used a fractional integration and cointegration approach to analyse the relationship between CO2 emissions and GDP in China.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Carbon emission reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does the CO2 Subnets curve concept relate to environmental policymaking?",
+      "answer": "The CO2 Subnets curve concept suggests that initially, economic growth leads to an increase in CO2 emissions, but eventually, as the economy develops, emissions decrease. This can inform environmental policymaking strategies.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Carbon emission reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the relationship between industrialization and CO2 emissions as discussed in the paragraph?",
+      "answer": "The paragraph states that growth in the economy attributed to industrialization and manufacturing leads to increased energy consumption, which subsequently raises CO2 emissions.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Carbon emission reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What relationship does the paper analyze in Spain?",
+      "answer": "The paper analyzes the short-run relationship between economic activity and CO2 emissions in Spain.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Carbon emission reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_004",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats",
+      "label": "Protected habitats",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of habitats does Lycaena tityrus inhabit?",
+      "answer": "Lycaena tityrus inhabits humid to moderately dry locations such as low-intensity grassland, alpine meadows, sandy heathland, bogs, and forest edges.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Protected habitats",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why are private lands like gardens considered important for biodiversity conservation in Australia?",
+      "answer": "Private lands such as gardens provide essential habitats that can serve as refuges for biodiversity, particularly birds, especially in areas where public protected areas are insufficient.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Protected habitats",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats_qna_001",
+      "value": 1
+    }
+  ]
+}

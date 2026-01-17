@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Health promotion campaigns",
+      "label": "Health promotion campaigns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Health promotion campaigns_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How did the USSR contribute to the promotion of bee products for health in Eastern Europe?",
+      "answer": "The USSR began widely promoting the usefulness of bee products for treating people and improving health at the end of the 1950s, leading to the publication of several educational materials for beekeepers in the Estonian Soviet Socialist Republic.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "subtopic": "Health promotion campaigns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Health promotion campaigns",
+      "target": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Health promotion campaigns_qna_000",
+      "value": 1
+    }
+  ]
+}

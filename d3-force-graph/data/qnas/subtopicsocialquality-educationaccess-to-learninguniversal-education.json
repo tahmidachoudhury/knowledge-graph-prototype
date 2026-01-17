@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Universal education",
+      "label": "Universal education",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the central goal of the 2030 Agenda as discussed in the paragraph?",
+      "answer": "The central goal of the 2030 Agenda is to achieve quality education for sustainability.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "subtopic": "Universal education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What advancements related to education for all are mentioned in the paragraph?",
+      "answer": "Advancements include global initiatives like the United Nations Human Rights Declaration and the Open Education Movement.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "subtopic": "Universal education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_002",
+      "group": "QnA",
+      "label": "Education",
+      "question": "What is a key objective of SSI teaching and learning highlighted in the paragraph?",
+      "answer": "A key objective is to cultivate student competence and encourage them to become life-long learners who can solve common daily problems as well as future challenges.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "subtopic": "Universal education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Access to learning|Universal education",
+      "target": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Access to learning|Universal education",
+      "target": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Access to learning|Universal education",
+      "target": "Subtopic:Social|Quality education|Access to learning|Universal education_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties",
+      "label": "Plankton varieties",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the study mentioned in the article?",
+      "answer": "The study focuses on assessing the impact of extreme drought-heatwave events on the aquatic plankton communities of the Yangtze River using environmental DNA approaches.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Plankton varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did extreme drought-heatwave events affect the diversity of aquatic plankton communities?",
+      "answer": "The events reduced the diversity of the communities, increased their diversity, and simplified and destabilized community network structure.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Plankton varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do aquatic plankton communities play in river ecosystems?",
+      "answer": "Aquatic plankton communities serve as the foundational base of the aquatic food web and contribute to primary production.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Plankton varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role does phytoplankton play in aquatic systems?",
+      "answer": "Phytoplankton is a key component of Chl-a and plays a critical role in determining the trophic state of aquatic systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Plankton varieties",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Plankton varieties_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design",
+      "label": "Passive solar design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How can the results of Li24's study guide energy-saving design in China?",
+      "answer": "The results can serve as a guide for energy-saving design specifically for rural residential buildings in plateau solar radiation areas of severe cold regions in China.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Passive solar design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What energy-saving measures are suggested for improving thermal comfort in buildings?",
+      "answer": "Significant energy savings can be achieved through passive building design and lower indoor temperature settings for heating.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Passive solar design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What significance does Wang et al. attribute to geographical advantages in relation to building energy conservation?",
+      "answer": "Wang et al. emphasized the importance of utilizing geographical advantages to enhance the indoor environment of passive buildings in plateau areas, which is critical for energy conservation and thermal design.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Passive solar design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the proposed solution for rural residential buildings in the Lhasa plateau area to achieve near-zero energy heating?",
+      "answer": "The proposed solution is to adopt efficient passive design methods.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Passive solar design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_004",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is it important to improve the indoor environment of passive buildings in plateau areas?",
+      "answer": "It is important for building energy conservation and thermal design, utilizing geographical advantages to enhance the indoor environment effectively.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Passive solar design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_005",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the proposed method for achieving near-zero energy heating in rural residential buildings in the Lhasa plateau area?",
+      "answer": "The proposed method is to adopt efficient passive design methods.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Passive solar design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Passive solar design_qna_005",
+      "value": 1
+    }
+  ]
+}

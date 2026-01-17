@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Green space resilience",
+      "label": "Green space resilience",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Green space resilience_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How have the species adapted to anthropogenic pressures?",
+      "answer": "They are often seen as adaptive to anthropogenic pressures in urban, rural, and urbanizing landscapes, and can persist in remnant green spaces.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Green space resilience",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Green space resilience_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What multi-faceted approaches are suggested for fostering long-term urban resilience?",
+      "answer": "Adopting multi-faceted approaches that combine and assess multiple environmental pressures is suggested for fostering long-term urban resilience.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Green space resilience",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Green space resilience",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Green space resilience_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Green space resilience",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Green space resilience_qna_001",
+      "value": 1
+    }
+  ]
+}

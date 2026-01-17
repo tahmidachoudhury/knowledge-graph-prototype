@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Water contamination mitigation",
+      "label": "Water contamination mitigation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Water contamination mitigation_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the stages of war that can lead to water quality deterioration?",
+      "answer": "The preparation, actual armed conflict, and post-war activities are the stages of war that can lead to the deterioration of water quality.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Public health interventions related to water",
+      "subtopic": "Water contamination mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Water contamination mitigation",
+      "target": "Subtopic:Environment|Clean water and sanitation|Public health interventions related to water|Water contamination mitigation_qna_000",
+      "value": 1
+    }
+  ]
+}

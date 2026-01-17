@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption",
+      "label": "Activated carbon adsorption",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the source of carbon used for producing activated carbon in this study?",
+      "answer": "The source of carbon used for producing activated carbon is Spirulina platensis microalgae.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Activated carbon adsorption",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of adsorption models were used to explore kinetic parameters in the study?",
+      "answer": "The adsorption models used were pseudo-first-order, pseudo-second-order, Elovich, and intraparticle diffusion models.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Activated carbon adsorption",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role does chemisorption play in the adsorption process described in the paragraph?",
+      "answer": "Chemisorption, such as ion exchange and chelation, plays a significant role in the adsorption process mentioned.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Activated carbon adsorption",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What potential application of REEs is discussed in terms of enhancing adsorption?",
+      "answer": "Doping REEs into magnetic carbonisation material can significantly enhance the adsorption of phosphate.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Activated carbon adsorption",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Activated carbon adsorption_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices",
+      "label": "Regenerative agriculture practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does regenerative farming aim to achieve?",
+      "answer": "Regenerative farming aims to rebuild the foundations of farming by improving soil health, rather than merely sustaining it.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Regenerative agriculture practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How has regenerative farming emerged in recent decades?",
+      "answer": "Regenerative farming has flourished in response to environmental and economic crises and the production-oriented farming and agro-industry.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Regenerative agriculture practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What does the paper aim to explore in relation to farming practices?",
+      "answer": "The paper aims to explore the conditions for careful farming practices and how people negotiate and relate to practices of regenerative farming.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Regenerative agriculture practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Regenerative agriculture practices_qna_002",
+      "value": 1
+    }
+  ]
+}

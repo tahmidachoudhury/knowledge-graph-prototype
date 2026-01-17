@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Women in stem|Diversity in stem workforce",
+      "label": "Diversity in stem workforce",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Women in stem"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Women in stem|Diversity in stem workforce_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What ongoing conversation is mentioned in relation to the NCA5?",
+      "answer": "The ongoing conversation is about diversity and representation in science.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Women in stem",
+      "subtopic": "Diversity in stem workforce",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Women in stem|Diversity in stem workforce",
+      "target": "Subtopic:Social|Gender equity|Women in stem|Diversity in stem workforce_qna_000",
+      "value": 1
+    }
+  ]
+}

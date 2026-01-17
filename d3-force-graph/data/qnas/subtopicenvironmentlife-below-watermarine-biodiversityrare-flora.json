@@ -1,0 +1,185 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "label": "Rare flora",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What distinguishes the genus Meconopsis from other plant species in the region?",
+      "answer": "The genus Meconopsis is distinguished by its beautiful, bright flowers and is popular in ornamental horticulture, despite thriving in harsh environmental conditions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Rare flora",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the typical habitat of Meconopsis aculeata?",
+      "answer": "Meconopsis aculeata typically grows on damp rocks in the alpine zone of the Himalayas.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Rare flora",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenge is noted regarding wild S. japonica sporophytes in northern China?",
+      "answer": "Wild S. japonica sporophytes in northern China have small fronds and a narrow distribution range.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Rare flora",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is Gongolaria barbata, and what are its key characteristics?",
+      "answer": "Gongolaria barbata is a long-lived brown seaweed species that is non-caespitose, characterized by an erect structure with the presence of aerocysts, and it grows in very shallow, sheltered, and well-lit marine habitats.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Rare flora",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which institute holds the Herbarium C.F. Boudouresque?",
+      "answer": "Aix-Marseille University - Mediterranean Institute of Oceanography (HCOM) holds the Herbarium C.F. Boudouresque.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Rare flora",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Name one herbarium that is not indexed.",
+      "answer": "The Herbarium Mouret from Muséum Océanographique de Monaco is not indexed.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Rare flora",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are Dicranopteris pedata and Phytolacca americana L. known for?",
+      "answer": "They are typical rare-earth hyperaccumulators that have received attention from researchers.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Rare flora",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_007",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did the species richness of vascular plants change in the unweeded subplots?",
+      "answer": "The species richness of vascular plants had changed substantially over time, and the realized richness of these subplots was estimated in August 2022.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Rare flora",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_008",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many species had SLA values available in the databases mentioned?",
+      "answer": "SLA values were available for 51 species, except for Orobanche minor, which has no leaves.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Rare flora",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Rare flora_qna_008",
+      "value": 1
+    }
+  ]
+}

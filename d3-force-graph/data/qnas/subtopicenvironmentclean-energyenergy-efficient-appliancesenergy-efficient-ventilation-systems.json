@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems",
+      "label": "Energy-efficient ventilation systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What categories were identified for the flow patterns in a T-section according to Kamide et al.?",
+      "answer": "The flow patterns in a T-section were categorized into wall jet, deflecting jet, and impinging jet.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Energy-efficient ventilation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why might ventilation systems designed for energy conservation be a concern regarding radon levels?",
+      "answer": "They may not adequately remove radon, requiring specific radon mitigation strategies in addition to energy efficiency measures.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Energy-efficient ventilation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_001",
+      "value": 1
+    }
+  ]
+}

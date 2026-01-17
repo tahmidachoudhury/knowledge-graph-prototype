@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests",
+      "label": "Ecosystem services provided by forests",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do various human demands interact with ecosystem services according to the study?",
+      "answer": "The study states that forests are central to different human demands for ecosystem services such as biomass, biodiversity, and climate mitigation, and trade-offs occur between these services that require prioritization.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Ecosystem services provided by forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the main ecological functions performed by forests as discussed in the paragraph?",
+      "answer": "Forests regulate the Earth's climate, absorb CO2, stabilize weather patterns, and provide crucial ecosystem services such as cooling the planet, maintaining rainfall seasonality, and supporting agriculture.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Ecosystem services provided by forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the three broad multifunctional drivers of GI identified in the study?",
+      "answer": "The three broad multifunctional drivers of GI identified in the study are ecosystem services, water resources management, and thermal regulation.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Ecosystem services provided by forests",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Ecosystem services provided by forests_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Public funding leverage",
+      "label": "Public funding leverage",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Public funding leverage_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the three areas of deep leverage defined by Abson et al. (2017)?",
+      "answer": "The three areas of deep leverage are re-think, re-connect, and re-structure.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Public funding leverage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Public funding leverage_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What approach does the Leverage Points framework use in the analysis of system change?",
+      "answer": "The Leverage Points approach extends the scope of the analysis from the current state to the drivers and barriers of system change.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Public funding leverage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Public funding leverage",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Public funding leverage_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Public funding leverage",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Public funding leverage_qna_001",
+      "value": 1
+    }
+  ]
+}

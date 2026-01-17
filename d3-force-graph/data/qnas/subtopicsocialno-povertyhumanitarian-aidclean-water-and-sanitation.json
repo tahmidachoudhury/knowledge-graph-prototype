@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Humanitarian aid|Clean water and sanitation",
+      "label": "Clean water and sanitation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Humanitarian aid"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Humanitarian aid|Clean water and sanitation_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What role has the COVID-19 crisis highlighted in relation to public health and well-being?",
+      "answer": "The crisis has underscored the crucial role of clean water, sanitation, and energy access in ensuring public health and well-being.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Humanitarian aid",
+      "subtopic": "Clean water and sanitation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Humanitarian aid|Clean water and sanitation",
+      "target": "Subtopic:Social|No poverty|Humanitarian aid|Clean water and sanitation_qna_000",
+      "value": 1
+    }
+  ]
+}

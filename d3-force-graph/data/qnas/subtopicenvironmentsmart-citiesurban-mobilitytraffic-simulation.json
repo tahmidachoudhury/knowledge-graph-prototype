@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation",
+      "label": "Traffic simulation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the method proposed by Playoff et al. (2021) improve efficiency in generating information about road utilization?",
+      "answer": "The method proposed by Playoff et al. (2021) allows for faster calculation of magnitudes based on a network property, leading to more efficient generation of information about road utilization compared to simulating individual agent movement.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "subtopic": "Traffic simulation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the focus of the comparative study conducted by Reuge et al.?",
+      "answer": "Reuge et al. focused on the differences between three-dimensional simulations and two-dimensional axi-symmetric and Cartesian simulations.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "subtopic": "Traffic simulation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What is a scenario in the context of transportation systems and policy packages?",
+      "answer": "A scenario refers to the transportation system resulting from the introduction of a policy package, including the volume of traffic in each mode of transportation.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "subtopic": "Traffic simulation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation",
+      "target": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation",
+      "target": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation",
+      "target": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_002",
+      "value": 1
+    }
+  ]
+}

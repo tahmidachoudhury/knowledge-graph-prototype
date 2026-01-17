@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Farmer field schools for resilience-building",
+      "label": "Farmer field schools for resilience-building",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Farmer field schools for resilience-building_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which crops were studied in the field trial?",
+      "answer": "The crops studied were winter wheat (WW, Triticum aestivum L.) and sugar beet (SB, Beta vulgaris subsp. vulgaris).",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Farmer field schools for resilience-building",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Farmer field schools for resilience-building",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Farmer field schools for resilience-building_qna_000",
+      "value": 1
+    }
+  ]
+}

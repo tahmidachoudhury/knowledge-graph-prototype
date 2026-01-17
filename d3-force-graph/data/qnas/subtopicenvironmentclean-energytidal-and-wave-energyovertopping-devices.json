@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices",
+      "label": "Overtopping devices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What previous work has been conducted on single ogee spillways?",
+      "answer": "A multitude of experimental work has been conducted, including high head spillway experiments, theoretical modeling of spillway crests, and measurements of pressure distribution along a single ogee spillway.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy",
+      "subtopic": "Overtopping devices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of spillway is the focus of the experiments in this study?",
+      "answer": "The focus of the experiments is on an ogee-shaped spillway with three outlets.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy",
+      "subtopic": "Overtopping devices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is the discharge over an ogee-crested spillway expressed mathematically?",
+      "answer": "The discharge is given by the formula Q=CLH^3/2, where Q is discharge, C is the spillway discharge coefficient, L is the spillway length, and H is the total head over the spillway crest.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy",
+      "subtopic": "Overtopping devices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices",
+      "target": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices",
+      "target": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices",
+      "target": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_002",
+      "value": 1
+    }
+  ]
+}

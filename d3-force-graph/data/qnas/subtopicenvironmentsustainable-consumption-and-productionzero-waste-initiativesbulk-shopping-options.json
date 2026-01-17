@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Bulk shopping options",
+      "label": "Bulk shopping options",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Bulk shopping options_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How can nudging impact shopping behavior in supermarkets?",
+      "answer": "Nudging can target automatic decision-making processes and subtly disrupt habitual shopping behaviors, making it easier for customers to adopt alternative behaviors with minimal cognitive effort.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "subtopic": "Bulk shopping options",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Bulk shopping options_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does multitasking while shopping online impact our decision-making process?",
+      "answer": "Multitasking while shopping online, such as checking social media or cooking, can lead to a high cognitive load. This can result in less environmentally friendly decision-making due to distractions and other cognitive demands.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Zero-waste initiatives",
+      "subtopic": "Bulk shopping options",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Bulk shopping options",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Bulk shopping options_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Bulk shopping options",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Zero-waste initiatives|Bulk shopping options_qna_001",
+      "value": 1
+    }
+  ]
+}

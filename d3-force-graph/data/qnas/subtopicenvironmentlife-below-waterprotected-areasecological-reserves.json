@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Ecological reserves",
+      "label": "Ecological reserves",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Ecological reserves_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of habitats are included in the Tropical Moist Forest of EBG according to Holdridge (1967)?",
+      "answer": "The Tropical Moist Forest of EBG includes primary forest, secondary forest, saw-grass swamp, and thorn scrub.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Ecological reserves",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Ecological reserves",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Ecological reserves_qna_000",
+      "value": 1
+    }
+  ]
+}

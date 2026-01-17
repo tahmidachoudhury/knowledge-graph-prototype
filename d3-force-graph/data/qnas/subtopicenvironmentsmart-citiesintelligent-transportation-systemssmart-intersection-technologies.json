@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "label": "Smart intersection technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the reported performance improvements when merging models in UDA according to the experimental results?",
+      "answer": "The experimental results demonstrate performance increases of up to 6.8% in mean Intersection over Union (mIoU) when merging different-architecture models with a shared backbone, as well as a 7% increase in mean Precision Quality (mPQ) for merging semantic and panoptic segmentation models.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Smart intersection technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed method improve segmentation performance in UDA scenarios?",
+      "answer": "The proposed method improves segmentation performance by merging model weights from different datasets and architectures, which increases speed by 3.25 times and enhances performance by up to 6.8% in mean Intersection over Union (mIoU) for merging models from easier to harder tasks.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Smart intersection technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What performance improvements were observed through model merging for different tasks in the experiments presented in the study?",
+      "answer": "The experiments showed performance increases of up to 6.8% in mean Intersection over Union (mIoU) for merging models from different architectures with a shared backbone, and a 7% increase in mean Precision (mPQ) when merging semantic and panoptic segmentation models.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Smart intersection technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What performance improvements were observed when using the proposed model merging method for UDA?",
+      "answer": "The proposed model merging method achieved a performance increase of up to 6.8% in mean Intersection over Union (mIoU) and 7% in mean Precision and Quality (mPQ) for semantic and panoptic segmentation.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Smart intersection technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did the proposed model merging technique improve performance in UDA tasks?",
+      "answer": "The proposed model merging technique increased the speed of model processing by 3.25 times and achieved performance improvements of up to 6.8% in mean Intersection over Union (mIoU) and 7% in mean Panoptic Quality (mPQ) compared to previous state-of-the-art UDA methods.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Smart intersection technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_004",
+      "value": 1
+    }
+  ]
+}

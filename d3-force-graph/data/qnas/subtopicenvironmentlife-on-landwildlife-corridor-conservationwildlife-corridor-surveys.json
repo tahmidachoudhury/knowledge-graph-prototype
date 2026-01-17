@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys",
+      "label": "Wildlife corridor surveys",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_000",
+      "group": "QnA",
+      "label": "Methods",
+      "question": "What methods were used to survey the transects in the study?",
+      "answer": "The survey methods employed were Visual Encounter Surveys.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Wildlife corridor surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the study aim to identify through fourth corner modeling techniques?",
+      "answer": "The study aims to identify WLRs (within-level responses) between amphibian and reptile species, the environment, and their traits.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Wildlife corridor surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is significant about this study in relation to previous research?",
+      "answer": "This study is significant because it is the first time fourth corner modeling techniques have been used in a full amphibian and reptile assemblage.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Wildlife corridor surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Where was the study conducted and why was this location chosen?",
+      "answer": "The study was conducted at Estación Biológica Las Guacamayas in Guatemala, chosen due to its variety of disturbed and undisturbed habitats for the reptile and amphibian community.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Wildlife corridor surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to recent studies, what has been noted about smaller species of felids in Southeast Asia?",
+      "answer": "Smaller species are largely under-studied, with available information often limited or specific to certain geographic contexts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Wildlife corridor surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to analyze the faunal responses in the study?",
+      "answer": "Field surveys and statistical modeling were used to assess faunal responses across different fragmentation levels and patch zones.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Wildlife corridor surveys",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Wildlife corridor surveys_qna_005",
+      "value": 1
+    }
+  ]
+}

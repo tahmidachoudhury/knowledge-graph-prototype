@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Cross-regional transport",
+      "label": "Cross-regional transport",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Cross-regional transport_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What authority do Dutch provincial governments have in relation to regional public transport, and how does this impact mobility transitions?",
+      "answer": "Dutch provincial governments have the authority to provide concessions for public transport operators and regulate regional public transport, adjusting services based on travellers' needs to offer alternatives to car use.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Cross-regional transport",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Cross-regional transport_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In what regions is transport infrastructure well developed compared to others in the Arctic?",
+      "answer": "In northern Fennoscandia, transport infrastructure is well developed and integrated into national systems, whereas in the Asian Arctic and parts of North America, transport is often limited and challenged by significant distances.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Cross-regional transport",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Cross-regional transport",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Cross-regional transport_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Cross-regional transport",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Cross-regional transport_qna_001",
+      "value": 1
+    }
+  ]
+}

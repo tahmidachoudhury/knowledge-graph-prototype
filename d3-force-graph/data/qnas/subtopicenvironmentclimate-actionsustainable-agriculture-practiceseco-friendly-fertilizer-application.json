@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application",
+      "label": "Eco-friendly fertilizer application",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the benefits of using biochar as an end product?",
+      "answer": "Biochar can reduce fertilizer need, improve soil health, and enhance crop yield, particularly in areas vulnerable to climate change-induced droughts.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Eco-friendly fertilizer application",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of nitrogen fertilization has shown positive effects on species performance?",
+      "answer": "Limited nitrogen fertilization and higher plant rearing temperatures have shown positive effects on the species performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Eco-friendly fertilizer application",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Where was the long-term fertilization experiment conducted?",
+      "answer": "The experiment was conducted at the Dongyang experimental station in Shanxi Province, China.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Eco-friendly fertilizer application",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Eco-friendly fertilizer application_qna_002",
+      "value": 1
+    }
+  ]
+}

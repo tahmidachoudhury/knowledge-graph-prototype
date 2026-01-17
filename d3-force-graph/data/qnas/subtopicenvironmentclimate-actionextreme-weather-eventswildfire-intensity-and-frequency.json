@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency",
+      "label": "Wildfire intensity and frequency",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of temperate forests in South-Eastern Australia was affected by the fires in 2019/20?",
+      "answer": "The fires affected 23% of temperate forests in South-Eastern Australia.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Wildfire intensity and frequency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is there a need to adopt better practices for managing vital resources in the Mediterranean?",
+      "answer": "Better practices are needed to address the effects of climate change and the pressures on natural resources resulting from environmental challenges like droughts, wildfires, and flooding.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Wildfire intensity and frequency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is Greece, particularly Attica, considered a climate change hotspot?",
+      "answer": "Greece, particularly Attica, is considered a climate change hotspot because it is experiencing faster warming rates than the global average and has an increased occurrence of heat waves, prolonged droughts, and a heightened risk of forest fires.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Wildfire intensity and frequency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Wildfire intensity and frequency_qna_002",
+      "value": 1
+    }
+  ]
+}

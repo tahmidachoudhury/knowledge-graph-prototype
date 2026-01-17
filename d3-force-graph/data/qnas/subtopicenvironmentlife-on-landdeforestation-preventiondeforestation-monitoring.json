@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring",
+      "label": "Deforestation monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the current deforestation rate in Ghana, and how does it compare globally?",
+      "answer": "Ghana's deforestation rate is currently estimated at 3.2% per annum, making it one of the highest in the world.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Deforestation monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of analysis did the study provide regarding forest degradation and deforestation?",
+      "answer": "The study provided the first quantitative analysis of forest degradation and deforestation across the swift parrot's breeding range.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Deforestation monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the evaluation of historic deforestation and forest dynamics conducted in the study?",
+      "answer": "The evaluation was conducted using global datasets of forest extent, change, and loss, analyzing data since the year 2000.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Deforestation monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is quantifying forest degradation more challenging than quantifying deforestation?",
+      "answer": "Quantifying forest degradation is more challenging because canopy cover may be partially impacted or regenerate over time, complicating measurements.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Deforestation monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the objective of the proposed analysis in the paragraph?",
+      "answer": "The objective is to provide the first quantitative analysis of deforestation, degradation, and forest loss.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Deforestation monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Deforestation monitoring_qna_004",
+      "value": 1
+    }
+  ]
+}

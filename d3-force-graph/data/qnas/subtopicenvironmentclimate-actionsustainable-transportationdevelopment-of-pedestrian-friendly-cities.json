@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Development of pedestrian-friendly cities",
+      "label": "Development of pedestrian-friendly cities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Development of pedestrian-friendly cities_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the 15-min city concept designed to achieve?",
+      "answer": "The 15-min city concept is designed to ensure that locals can access all of their basic essentials within a 15-minute walk or bike ride.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Development of pedestrian-friendly cities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Development of pedestrian-friendly cities",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Development of pedestrian-friendly cities_qna_000",
+      "value": 1
+    }
+  ]
+}

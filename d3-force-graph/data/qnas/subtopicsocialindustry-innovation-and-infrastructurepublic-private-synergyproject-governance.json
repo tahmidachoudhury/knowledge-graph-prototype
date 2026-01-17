@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance",
+      "label": "Project governance",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What perspective is proposed for understanding the governance of MSIs?",
+      "answer": "A relational perspective is proposed for understanding the governance of MSIs, focusing on social processes and social relations.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Project governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are the three key elements of governance identified in the definition provided?",
+      "answer": "The three key elements of governance are actors, processes, and structures.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Project governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What does the literature on MSIs indicate as the fourth element of network governance?",
+      "answer": "The fourth element of network governance is negotiated topics and outcomes.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Project governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the purpose of elaborating on the four elements of network governance in the research?",
+      "answer": "The purpose is to derive specific sub-questions that contribute to the empirical measurement of governance and explain (un)achieved outcomes of collaboration.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Project governance",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Project governance_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity",
+      "label": "Tropical cyclone intensity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the maximum wind gust velocity reached during the storm mentioned in the paragraph?",
+      "answer": "The maximum wind gust velocity reached was up to 42 m/s.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Tropical cyclone intensity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What trends have been observed regarding marine heatwaves (MHWs) over the past few decades?",
+      "answer": "The frequency, intensity, and duration of MHWs have been increasing globally, and these trends are expected to continue throughout the twenty-first century.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Tropical cyclone intensity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the primary drivers behind the increase in marine heatwaves?",
+      "answer": "The ongoing increase in MHWs is primarily driven by rising mean sea surface temperature (SST) associated with anthropogenic climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Tropical cyclone intensity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which coast had a higher average MHW mean intensity and what were the values for each coast?",
+      "answer": "The East Coast had a higher average MHW mean intensity at 3.40 C, compared to the West Coast which had an average of 2.53 C.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Tropical cyclone intensity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Tropical cyclone intensity_qna_003",
+      "value": 1
+    }
+  ]
+}

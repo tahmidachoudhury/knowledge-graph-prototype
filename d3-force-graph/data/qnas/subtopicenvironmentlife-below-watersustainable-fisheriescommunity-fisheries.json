@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Community fisheries",
+      "label": "Community fisheries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Community fisheries_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How are the members of the studied fishing community categorized in relation to Indigenous Cultural Communities (ICCs)?",
+      "answer": "The fishing community is not categorized as members of any ICCs/IPs group, and they are considered local people under the TEK holder typology.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Community fisheries",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Community fisheries",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Community fisheries_qna_000",
+      "value": 1
+    }
+  ]
+}

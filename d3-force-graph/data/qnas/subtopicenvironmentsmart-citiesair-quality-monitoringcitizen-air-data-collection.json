@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Citizen air data collection",
+      "label": "Citizen air data collection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Citizen air data collection_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage increase in emissions did the City of Portland experience after implementing a consumption-based inventory?",
+      "answer": "The City of Portland saw a 118% increase in emissions after conducting a consumption-based inventory.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Citizen air data collection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Citizen air data collection",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Citizen air data collection_qna_000",
+      "value": 1
+    }
+  ]
+}

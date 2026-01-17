@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Integration of renewable energy in urban areas",
+      "label": "Integration of renewable energy in urban areas",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Integration of renewable energy in urban areas_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the status of renewable energy utilization in the region?",
+      "answer": "The utilization of renewable energy is insufficient, and there are significant differences in energy use between rural and urban dwellings, indicating a need for better integration of renewable resources to reduce total energy consumption.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Integration of renewable energy in urban areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Integration of renewable energy in urban areas",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Integration of renewable energy in urban areas_qna_000",
+      "value": 1
+    }
+  ]
+}

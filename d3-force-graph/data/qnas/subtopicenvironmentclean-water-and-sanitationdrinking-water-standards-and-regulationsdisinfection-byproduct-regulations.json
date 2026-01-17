@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations",
+      "label": "Disinfection byproduct regulations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What substance was tested for its removal potential in the experimental runs?",
+      "answer": "DEET was tested for its removal potential in the experimental runs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Disinfection byproduct regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many species of halophilic PPB were highlighted as capable of producing three or more chemicals simultaneously?",
+      "answer": "The study highlighted 22 species capable of producing three or more chemicals simultaneously.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Disinfection byproduct regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many chemicals have been estimated as likely POPs according to the Stockholm Convention POP criteria?",
+      "answer": "Approximately 590 chemicals are estimated to be likely POPs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Disinfection byproduct regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of chemicals have increasingly been produced and used in consumer goods over the past 60 years?",
+      "answer": "Brominated, chlorinated, and fluorinated POPs and other PBTs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Disinfection byproduct regulations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Disinfection byproduct regulations_qna_003",
+      "value": 1
+    }
+  ]
+}

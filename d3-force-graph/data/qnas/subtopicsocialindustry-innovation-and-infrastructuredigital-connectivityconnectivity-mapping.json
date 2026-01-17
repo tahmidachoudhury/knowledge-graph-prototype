@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping",
+      "label": "Connectivity mapping",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Can the mapping approach used in this study be applied to other regions?",
+      "answer": "Yes, the approach is replicable in other resource-scarce, rapidly urbanizing African cities.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Connectivity mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods were used in the bibliometric study to uncover research topic clusters?",
+      "answer": "The study used co-word map analysis and network visualization methods.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Connectivity mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many clusters were revealed in the network map analysis of articles citing the primary 18 Gudrun articles?",
+      "answer": "The network map analysis revealed eight clusters.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Connectivity mapping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity mapping_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "label": "Air quality prediction",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is predicting the timing and magnitude of N2O emissions challenging?",
+      "answer": "The timing and magnitude of N2O emissions are notoriously difficult to predict, leading to considerable uncertainty in nitrogen budgets and ecosystem modelling.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the purpose of the VMD-SE-PSO-ELM hybrid model?",
+      "answer": "The VMD-SE-PSO-ELM hybrid model is established to improve the prediction performance of carbon prices series in China’s S ETS pilots.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How many evaluation criteria are used to certify the forecasting performance of the models, and what are they?",
+      "answer": "Four evaluation criteria are used: root mean square error (RMSE), average absolute error (MAE), average absolute percentage error (MAPE), and goodness of fit (R2).",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the three streams of carbon forecasting methods mentioned in the paragraph?",
+      "answer": "The three streams of carbon forecasting methods are traditional econometric models, machine learning models, and ensemble models.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the second stage of the proposed framework focused on?",
+      "answer": "It focuses on finding the best-performing prediction model from various available models for the factors of trend and period after decomposition.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_005",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the framework's interpretability contribute to its application?",
+      "answer": "The framework is easily interpretable and extendable, allowing for the inclusion of more feature variables to further improve the prediction efficiency of the algorithm.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_006",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is there a strong interest in modeling and forecasting GHG emissions?",
+      "answer": "There is interest in modeling and forecasting GHG emissions to ensure that energy policies are as effective as possible by understanding the main dynamics and drivers of emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_007",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is there interest in modeling and forecasting GHG emissions?",
+      "answer": "There is interest in modeling and forecasting GHG emissions to understand the main dynamics and drivers of emissions and ensure that energy policies are as effective as possible.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_007",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Job security|Contract stability",
+      "label": "Contract stability",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Job security"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Job security|Contract stability_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the two types of stability associated with coalitions in IEAs?",
+      "answer": "Internal stability (where signatories do not want to leave) and external stability (where non-signatories do not find it profitable to join).",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Job security",
+      "subtopic": "Contract stability",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Job security|Contract stability",
+      "target": "Subtopic:Social|Decent work and economic growth|Job security|Contract stability_qna_000",
+      "value": 1
+    }
+  ]
+}

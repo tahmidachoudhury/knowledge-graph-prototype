@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Renewable energy adoption",
+      "label": "Renewable energy adoption",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Renewable energy adoption_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much did the levelised costs of electricity from solar PV and onshore wind decrease between 2008 and 2018?",
+      "answer": "The levelised costs of electricity decreased by -81% for solar PV and -46% for onshore wind from 2008 to 2018.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Renewable energy adoption",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Renewable energy adoption",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Renewable energy adoption_qna_000",
+      "value": 1
+    }
+  ]
+}

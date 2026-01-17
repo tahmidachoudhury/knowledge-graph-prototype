@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts",
+      "label": "Water conservation efforts",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What two critical resources are mentioned as important for the survival of civilization?",
+      "answer": "Energy and water are mentioned as important resources for the survival of civilization.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "subtopic": "Water conservation efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why are water resources considered vital strategic assets?",
+      "answer": "Water resources are considered vital strategic assets because they are essential for human survival and significantly contribute to regional economic development and the protection of ecological environments.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "subtopic": "Water conservation efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main focus of the study discussed in the paragraph?",
+      "answer": "The main focus of the study is to analyze the factors influencing the synergistic development of water resources, economy-society, and ecological environment (WEE) through expert interviews and literature research, and to identify key factors affecting this development.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "subtopic": "Water conservation efforts",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts",
+      "target": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts",
+      "target": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts",
+      "target": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Water conservation efforts_qna_002",
+      "value": 1
+    }
+  ]
+}

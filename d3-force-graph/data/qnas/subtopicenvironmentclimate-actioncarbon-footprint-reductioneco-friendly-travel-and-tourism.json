@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism",
+      "label": "Eco-friendly travel and tourism",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the primary concern regarding the carbon emissions associated with tourism in Mexico?",
+      "answer": "The primary concern is the significant environmental cost due to the high dependence on air transport to access Mexico's main tourist destinations.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Eco-friendly travel and tourism",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What is the impact of receiving additional information on uncertainty levels regarding environmental impacts abroad being \"too high\"?",
+      "answer": "The impact of receiving additional information leads to a decrease in uncertainty levels, particularly by about 7% points.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Eco-friendly travel and tourism",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the dynamic impacts of economic growth, energy use, tourism, and agricultural productivity on carbon dioxide emissions in Egypt?",
+      "answer": "The dynamic impacts of economic growth, energy use, tourism, and agricultural productivity on carbon dioxide emissions in Egypt are studied to understand the relationship between these factors and environmental sustainability.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Eco-friendly travel and tourism",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Eco-friendly travel and tourism_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "label": "Changes in windstorm patterns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the impact of strong winds on the precipitation measurements in the Arctic?",
+      "answer": "Strong winds can lead to undercatch, resulting in an underestimation of actual precipitation amounts, which affects the accuracy of long-term measurements.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in windstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How did the storm Gudrun impact discussions within the forestry sector?",
+      "answer": "The extensive consequences of the storm attracted significant attention and catalyzed discussions on storm-related risks and mitigation strategies within the forestry sector.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in windstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What time frame experienced a retarding phase in heavy rainfall increases before the significant changes noted in the study?",
+      "answer": "The retarding phase occurred between 1960 and 1980.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in windstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What correction methods are mentioned for improving precipitation accuracy?",
+      "answer": "The correction methods include adjusting for wind-induced losses, wetting loss, and evaporation loss.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in windstorm patterns",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_003",
+      "value": 1
+    }
+  ]
+}

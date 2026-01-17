@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships",
+      "label": "Sustainable agriculture partnerships",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What does relational thinking in agricultural studies incorporate from feminist theory and posthuman studies?",
+      "answer": "Relational thinking in agricultural studies incorporates a theoretical and critical reflection on the sustainability crisis, introducing concepts such as more-than-human relations and ethics of care.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Sustainable agriculture partnerships",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What consequences does the recognition of interconnectedness have on understanding agricultural systems?",
+      "answer": "Recognizing interconnectedness allows for exploring a multiplicity of embodied, affective, and situated relations, leading to new ways of understanding and engaging with farming systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Sustainable agriculture partnerships",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How did the European Green Deal impact Greece as a Member State in terms of agricultural sustainability?",
+      "answer": "Greece, as a Member State of the European Union, participates in the European Green Deal, which aims to achieve climate neutrality by 2050. This includes implementing sustainable growth strategies in all economic sectors, with a focus on the \"Farm to Fork\" strategy for a transition to a clean circular economy.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Sustainable agriculture partnerships",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Sustainable agriculture partnerships_qna_002",
+      "value": 1
+    }
+  ]
+}

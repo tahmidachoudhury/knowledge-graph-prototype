@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Woodland regeneration projects",
+      "label": "Woodland regeneration projects",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Woodland regeneration projects_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of flora are dominant in the Save Valley Conservancy?",
+      "answer": "The dominant woodland type is Colophospermum mopane, along with other woodlands like Combretum apiculatum and Diospyros quiloensis.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Woodland regeneration projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Woodland regeneration projects_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How did the resettled residents affect the perimeter fence of Save Valley Conservancy?",
+      "answer": "The dominant woodland type is Colophospermum mopane, alongside other prominent woodlands like Combretum apiculatum, Diospyros quiloensis, Kirkia acuminata, Acacia tortilis, Acacia erubescens, and Acacia nigrescens.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Woodland regeneration projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Woodland regeneration projects",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Woodland regeneration projects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Woodland regeneration projects",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Woodland regeneration projects_qna_001",
+      "value": 1
+    }
+  ]
+}

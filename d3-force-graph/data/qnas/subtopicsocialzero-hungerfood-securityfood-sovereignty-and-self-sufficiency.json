@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency",
+      "label": "Food sovereignty and self-sufficiency",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the significance of cocoa farming in Ekiti State?",
+      "answer": "Cocoa farming is important for livelihoods and local land management, lending it strong social and cultural significance in Ekiti State.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Food sovereignty and self-sufficiency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What role do women play in the Pacific food systems, particularly in the Solomon Islands?",
+      "answer": "Women are key actors in the Pacific food systems as sellers, growers, fishers, gleaners, and are primarily responsible for household subsistence.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Food sovereignty and self-sufficiency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the main factors contributing to food system change in the Pacific Islands since decolonization?",
+      "answer": "The main factors include integration into global food supply chains, trade liberalization, and a shift from locally-grown and harvested food to greater consumption of imported foods of lower nutritional quality.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Food sovereignty and self-sufficiency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency_qna_003",
+      "group": "QnA",
+      "label": "Food Systems",
+      "question": "How has the trend of increasing reliance on imported foods affected food sovereignty in Pacific Island countries?",
+      "answer": "The increasing reliance on imported foods has decreased food sovereignty in Pacific Island countries, as they become more vulnerable to external economic shocks and shift away from locally grown and harvested foods.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Food sovereignty and self-sufficiency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency",
+      "target": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency",
+      "target": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency",
+      "target": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency",
+      "target": "Subtopic:Social|Zero hunger|Food security|Food sovereignty and self-sufficiency_qna_003",
+      "value": 1
+    }
+  ]
+}

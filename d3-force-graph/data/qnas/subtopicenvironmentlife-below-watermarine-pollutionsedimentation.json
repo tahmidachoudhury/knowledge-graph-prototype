@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation",
+      "label": "Sedimentation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What happens to particles with lower density than seawater in marine environments?",
+      "answer": "These particles tend to float on the water before eventually settling on the seabed or accumulating in sediments in mangrove ecosystems.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Sedimentation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How does the concentration of MPs in mangrove sediment compare to that in marine sediment?",
+      "answer": "Mangrove sediment has a significantly higher concentration of MPs, with 264 items/kg compared to 0.11 items/kg in marine sediments.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Sedimentation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What environmental variables were collected at the study sites starting in 2017?",
+      "answer": "Environmental data including depth, temperature, and sedimentation rate were collected at the study sites.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Sedimentation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_002",
+      "value": 1
+    }
+  ]
+}

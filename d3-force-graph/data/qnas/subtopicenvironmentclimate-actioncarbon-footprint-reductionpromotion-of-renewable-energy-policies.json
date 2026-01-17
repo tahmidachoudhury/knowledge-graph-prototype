@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies",
+      "label": "Promotion of renewable energy policies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does the study suggest EAT aligns with environmental goals?",
+      "answer": "The study suggests that EAT supports the adoption of renewable energy strategies, which align with broader environmental goals such as reducing CO2 emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Promotion of renewable energy policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of greenhouse gas emissions is attributed to energy use?",
+      "answer": "Energy use accounts for 60% of greenhouse gas emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Promotion of renewable energy policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What increase in natural resource use is estimated by 2060 if no interventions are made?",
+      "answer": "It is estimated that the trend of natural resource use could increase by 60% by 2060 without targeted interventions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Promotion of renewable energy policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does energy consumption impact a country's response to climate change?",
+      "answer": "Higher energy consumption in a country makes it challenging for strategies and policies to bring about rapid positive changes. Energy consumption directly influences the efficacy of climate change response efforts within a nation.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Promotion of renewable energy policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What did Han et al. contribute to the understanding of trade's influence on energy consumption?",
+      "answer": "Han et al. demonstrated that trade strongly promotes non-renewable energy consumption while only slightly enhancing renewable energy usage.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Promotion of renewable energy policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Promotion of renewable energy policies_qna_004",
+      "value": 1
+    }
+  ]
+}

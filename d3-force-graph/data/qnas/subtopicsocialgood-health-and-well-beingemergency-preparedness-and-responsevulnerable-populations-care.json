@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Vulnerable populations care",
+      "label": "Vulnerable populations care",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Vulnerable populations care_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the significance of the investigation's findings regarding vulnerable households during crises?",
+      "answer": "The findings highlight the need for policy intervention to ensure that vulnerable households are not disproportionately affected during crises such as a pandemic.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Vulnerable populations care",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Vulnerable populations care",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Vulnerable populations care_qna_000",
+      "value": 1
+    }
+  ]
+}

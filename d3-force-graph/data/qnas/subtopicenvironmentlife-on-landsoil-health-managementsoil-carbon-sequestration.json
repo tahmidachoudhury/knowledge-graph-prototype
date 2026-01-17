@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration",
+      "label": "Soil carbon sequestration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can biochar application impact carbon sequestration and climate change?",
+      "answer": "Biochar application to soil can provide long-term carbon sequestration, reduce yearly greenhouse emissions, and ultimately mitigate climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil carbon sequestration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does soil carbon sequestration in agroforestry systems contribute to climate change mitigation?",
+      "answer": "Soil carbon sequestration in agroforestry systems helps in reducing the amount of carbon dioxide in the atmosphere, thus mitigating climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil carbon sequestration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much carbon did the P. nigra SOGF store in standing volume?",
+      "answer": "The P. nigra SOGF stored 69.9 tons of carbon per hectare in standing volume.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil carbon sequestration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil carbon sequestration_qna_002",
+      "value": 1
+    }
+  ]
+}

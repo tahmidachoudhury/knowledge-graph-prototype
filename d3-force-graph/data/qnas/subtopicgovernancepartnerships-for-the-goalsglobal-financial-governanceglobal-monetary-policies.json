@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies",
+      "label": "Global monetary policies",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance"
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the significance of the assessments approved during IPBES-11?",
+      "answer": "Both assessments stress urgency and are policy-ready for governments to implement globally.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "subtopic": "Global monetary policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What challenge does IPBES face despite receiving pledges from member states?",
+      "answer": "The overall budgetary situation of IPBES remains constrained with little room for growth.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "subtopic": "Global monetary policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What does the IMF suggest emerging markets and developing economies should prioritize concerning AI?",
+      "answer": "The IMF suggests that emerging markets and developing economies should prioritize developing digital infrastructure and digital skills to participate effectively in AI development.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "subtopic": "Global monetary policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the International Monetary Fund (IMF) say about the energy demands of AI development?",
+      "answer": "The IMF states that the computational power required to sustain AI development is rapidly growing and could consume as much energy as entire countries in the near future, raising concerns about smaller countries' ability to participate in AI development.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "subtopic": "Global monetary policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_004",
+      "group": "QnA",
+      "label": "Methodology",
+      "question": "What method is used to extract factors from the macroeconomic variables in the study?",
+      "answer": "The study uses 2SKF, an unsupervised factor extraction procedure, to extract factors from a large set of Spanish macroeconomic variables.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "subtopic": "Global monetary policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_005",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which factor extraction procedure is highlighted in the paper?",
+      "answer": "The paper highlights the use of 2SKF, an unsupervised factor extraction procedure that combines information from various macroeconomic variables.",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global financial governance",
+      "subtopic": "Global monetary policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global financial governance|Global monetary policies_qna_005",
+      "value": 1
+    }
+  ]
+}

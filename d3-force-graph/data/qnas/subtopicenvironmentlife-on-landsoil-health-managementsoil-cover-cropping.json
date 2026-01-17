@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil cover cropping",
+      "label": "Soil cover cropping",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil cover cropping_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are cover crops grown for?",
+      "answer": "Cover crops are grown to reduce leaching of nutrients and soil erosion when there is no main crop in the field.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil cover cropping",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil cover cropping",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil cover cropping_qna_000",
+      "value": 1
+    }
+  ]
+}

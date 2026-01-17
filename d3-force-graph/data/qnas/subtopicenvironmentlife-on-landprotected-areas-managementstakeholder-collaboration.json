@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration",
+      "label": "Stakeholder collaboration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What factors facilitate collaboration on REDD + implementation in Ghana?",
+      "answer": "Collaboration is facilitated when stakeholders feel uncertain about future forest resource availability and recognize their interdependence in addressing related issues.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Stakeholder collaboration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do Ghana's dynamic context conditions influence collaborative governance for REDD+ implementation?",
+      "answer": "Ghana's dynamic context facilitates collaboration when stakeholders feel uncertain about future forest resources and recognize their interdependence. However, challenges like governance complexities and marginalization of local interests can limit the effectiveness of these collaborative efforts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Stakeholder collaboration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the dynamic context in Ghana facilitate collaboration for REDD+ implementation?",
+      "answer": "Collaboration is facilitated when stakeholders experience uncertainty about forest resource availability and recognize their interdependence in addressing these issues. Additionally, strong political will and strategic opportunities also play a crucial role.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Stakeholder collaboration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "How did stakeholders in Rural Policy Making show their willingness to participate according to a Qualitative Content Analysis?",
+      "answer": "A Qualitative Content Analysis on interdisciplinarity in Rural Policy Planning and stakeholderÃƒÂ¢??s participation in Rural Policy Making exhibited that stakeholders showed willingness to participate, recognizing the need for their involvement in the transition process.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Stakeholder collaboration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Stakeholder collaboration_qna_003",
+      "value": 1
+    }
+  ]
+}

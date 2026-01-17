@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Remote learning|Interactive learning",
+      "label": "Interactive learning",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Remote learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Remote learning|Interactive learning_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of cognitive shifts in instrumental learning?",
+      "answer": "Cognitive shifts in instrumental learning are significant as they support transformation and enhance effectiveness in working and being in various environments.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Remote learning",
+      "subtopic": "Interactive learning",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Remote learning|Interactive learning",
+      "target": "Subtopic:Social|Quality education|Remote learning|Interactive learning_qna_000",
+      "value": 1
+    }
+  ]
+}

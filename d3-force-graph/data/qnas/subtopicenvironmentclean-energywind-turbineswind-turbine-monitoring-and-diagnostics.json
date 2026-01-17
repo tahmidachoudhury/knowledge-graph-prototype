@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine monitoring and diagnostics",
+      "label": "Wind turbine monitoring and diagnostics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine monitoring and diagnostics_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods have numerous researchers used to assess thermal fatigue and temperature fluctuations in T-sections?",
+      "answer": "Researchers have utilized the Power Spectral Density to quantify amplitude and Root Mean Square to quantify frequency of the fluctuations.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine monitoring and diagnostics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine monitoring and diagnostics",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine monitoring and diagnostics_qna_000",
+      "value": 1
+    }
+  ]
+}

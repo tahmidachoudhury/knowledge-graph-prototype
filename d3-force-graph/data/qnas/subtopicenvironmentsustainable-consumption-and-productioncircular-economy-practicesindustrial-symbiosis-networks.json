@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks",
+      "label": "Industrial symbiosis networks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the advantages of using network theory compared to ABM and SD methods?",
+      "answer": "Network theory accounts for both the macrostructure and microdynamic changes of system components, and it requires lower computational costs, making it suitable for complex systems with many components.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "subtopic": "Industrial symbiosis networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the two ways in which the metabolic characteristics of the network can be represented?",
+      "answer": "The metabolic characteristics can be represented from the outside of the node, considering it as a functional whole, and from within the node, detailing the specific relations among individual organisms.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "subtopic": "Industrial symbiosis networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the two contrasting directions of causality that imply the definition of the identity of the metabolic network?",
+      "answer": "The two contrasting directions of causality are downward causation (what is expected from the functional nodes by the whole) and upward causation (what can be done and is done given the set of structural elements of the nodes).",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "subtopic": "Industrial symbiosis networks",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Sanitation facilities in healthcare settings",
+      "label": "Sanitation facilities in healthcare settings",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Sanitation facilities in healthcare settings_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is a sterile medical device?",
+      "answer": "A sterile medical device is completely free of viable microorganisms, including bacterial spores.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Sanitation facilities in healthcare settings",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Sanitation facilities in healthcare settings",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Sanitation facilities in healthcare settings_qna_000",
+      "value": 1
+    }
+  ]
+}

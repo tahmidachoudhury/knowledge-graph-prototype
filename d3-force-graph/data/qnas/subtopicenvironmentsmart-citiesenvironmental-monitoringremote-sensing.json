@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing",
+      "label": "Remote sensing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technologies are highlighted in the study for understanding urban dynamics?",
+      "answer": "The study highlights the integration of machine learning, remote sensing, and biophysical data for understanding urban dynamics.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Remote sensing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is a key limitation of the methods used in the studies mentioned in the paragraph?",
+      "answer": "The methods have limited spatial accuracy and public accessibility due to the use of commercial satellite imagery.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Remote sensing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What specific application of remote sensing has been noted in the document?",
+      "answer": "Remote sensing has been widely applied to identify urban built-up spaces (UBS) and urban green spaces (UGS) and monitor chlorophyll-a (Chl-a).",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Remote sensing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_002",
+      "value": 1
+    }
+  ]
+}

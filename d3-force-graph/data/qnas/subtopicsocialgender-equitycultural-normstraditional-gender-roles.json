@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles",
+      "label": "Traditional gender roles",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What trend is observed regarding women's roles in agriculture in developing countries?",
+      "answer": "The trend observed is the feminization of agriculture, where women are engaging more in agricultural labor and becoming farm managers due to reasons like male labor outmigration to urban areas.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Traditional gender roles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do the reproductive behaviors of male and female toads differ according to the predictions made in the study?",
+      "answer": "Males are predicted to have longer forelimbs due to their role in amplexus, while females are expected to be larger in body size due to their investment in eggs.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Traditional gender roles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How has colonialism influenced gender roles in food work in the Pacific Islands?",
+      "answer": "Colonialism has shifted power towards men by recruiting them into the cash economy through plantation agriculture, while simultaneously devaluing women's traditional sources of power and their contributions to indigenous food livelihoods.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Traditional gender roles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Traditional gender roles_qna_002",
+      "value": 1
+    }
+  ]
+}

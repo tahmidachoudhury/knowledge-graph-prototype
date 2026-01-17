@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Sustainable fertilizer production",
+      "label": "Sustainable fertilizer production",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Sustainable fertilizer production_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was provided to the plants to ensure consistent fertilization?",
+      "answer": "The plants were provided with a common nitrogenous fertilizer, NH4NO3.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Sustainable fertilizer production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Sustainable fertilizer production_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What were the annual rates for the chemical fertilizers used in the study?",
+      "answer": "The annual rates for the chemical fertilizers were 225 kg N ha⁻¹ for urea, 75 kg P2O5 ha⁻¹ for diammonium phosphate, and 75 kg K2O ha⁻¹ for potassium sulfate.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Sustainable fertilizer production",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Sustainable fertilizer production",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Sustainable fertilizer production_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Sustainable fertilizer production",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Sustainable fertilizer production_qna_001",
+      "value": 1
+    }
+  ]
+}

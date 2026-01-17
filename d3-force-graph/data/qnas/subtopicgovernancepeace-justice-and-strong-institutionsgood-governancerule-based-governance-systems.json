@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems",
+      "label": "Rule-based governance systems",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of rules influence interactions between actors?",
+      "answer": "Interactions between actors are influenced by formal rules (such as laws, property rights, and policies) and informal rules (such as customs and norms).",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "subtopic": "Rule-based governance systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is an institutional perspective important in the context described?",
+      "answer": "An institutional perspective is important because it highlights the rules that influence how actors behave and the conditions under which they make their choices.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "subtopic": "Rule-based governance systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is it important to go beyond rules on paper or institutional design in governance?",
+      "answer": "It is important to address governance elements in action and interactions of actors rather than just relying on formal rules and structures.",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Good governance",
+      "subtopic": "Rule-based governance systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Good governance|Rule-based governance systems_qna_002",
+      "value": 1
+    }
+  ]
+}

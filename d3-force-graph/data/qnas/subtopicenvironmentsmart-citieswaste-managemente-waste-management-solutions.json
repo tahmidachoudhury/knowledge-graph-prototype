@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|E-waste management solutions",
+      "label": "E-waste management solutions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|E-waste management solutions_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are some proposed solutions to mitigate the environmental burden of EHDs?",
+      "answer": "Proposed solutions include eco-design strategies, replacing single-use with reusable EHDs, circular economy strategies, and proper treatment and disposal.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "subtopic": "E-waste management solutions",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Waste management|E-waste management solutions",
+      "target": "Subtopic:Environment|Smart cities|Waste management|E-waste management solutions_qna_000",
+      "value": 1
+    }
+  ]
+}

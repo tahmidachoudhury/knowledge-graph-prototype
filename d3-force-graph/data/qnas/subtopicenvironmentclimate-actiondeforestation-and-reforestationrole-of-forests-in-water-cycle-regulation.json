@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of forests in water cycle regulation",
+      "label": "Role of forests in water cycle regulation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of forests in water cycle regulation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What role do bryophytes play in ecosystem functions?",
+      "answer": "Bryophytes contribute to ecosystem functions such as water regulation, microclimate maintenance, and nutrient cycling.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Role of forests in water cycle regulation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of forests in water cycle regulation",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Role of forests in water cycle regulation_qna_000",
+      "value": 1
+    }
+  ]
+}

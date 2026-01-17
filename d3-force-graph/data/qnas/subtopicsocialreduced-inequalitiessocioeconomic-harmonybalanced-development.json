@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development",
+      "label": "Balanced development",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the main components involved in the synergistic development analyzed in the study?",
+      "answer": "The main components involved are water resources, economic society, and the ecological environment.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Balanced development",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the main driver of asymmetry relationships in sustainable product development (SPD) according to the text?",
+      "answer": "The main driver of uniform asymmetry relationships in SPD was economic sustainability orientation, with less focus on social and environmental sustainability by both parties.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Balanced development",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did participants in co-existing asymmetry relationships differ from those in uniform asymmetry relationships in terms of sustainability goals?",
+      "answer": "Participants in co-existing asymmetry relationships focused equally on economic, social, and environmental sustainability in SPD by developing mutual sustainability goals, contrasting with the less emphasis on social and environmental sustainability in uniform asymmetry relationships.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Balanced development",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_002",
+      "value": 1
+    }
+  ]
+}

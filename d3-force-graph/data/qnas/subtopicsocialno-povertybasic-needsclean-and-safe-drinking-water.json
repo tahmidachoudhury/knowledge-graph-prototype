@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Clean and safe drinking water",
+      "label": "Clean and safe drinking water",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Basic needs|Clean and safe drinking water_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Why is access to clean and reliable water sources particularly concerning in Nigeria's rural regions?",
+      "answer": "Access to clean and reliable water sources is a major concern in rural regions of Nigeria because it is crucial for food production and the well-being of the population as the demand for water increases.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Basic needs",
+      "subtopic": "Clean and safe drinking water",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Basic needs|Clean and safe drinking water",
+      "target": "Subtopic:Social|No poverty|Basic needs|Clean and safe drinking water_qna_000",
+      "value": 1
+    }
+  ]
+}

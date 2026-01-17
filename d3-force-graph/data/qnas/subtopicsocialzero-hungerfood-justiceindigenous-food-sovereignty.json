@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Indigenous food sovereignty",
+      "label": "Indigenous food sovereignty",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food justice|Indigenous food sovereignty_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How has the integration into global food supply chains affected food sovereignty in Pacific Island countries?",
+      "answer": "Integration into global food supply chains has led to increased vulnerability to external economic shocks and decreased food sovereignty in Pacific Island countries.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food justice",
+      "subtopic": "Indigenous food sovereignty",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food justice|Indigenous food sovereignty",
+      "target": "Subtopic:Social|Zero hunger|Food justice|Indigenous food sovereignty_qna_000",
+      "value": 1
+    }
+  ]
+}

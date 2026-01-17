@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming",
+      "label": "Climate-adaptive farming",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What do researchers advocate for to adapt to climate change and enhance cropping system resilience?",
+      "answer": "Researchers advocate for crop diversification to adapt to climate change and enhance cropping system resilience to biotic and abiotic stresses.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-adaptive farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the potential of traditional agriculture in adapting and mitigating the effects of climate change, according to Alter and Nicholls?",
+      "answer": "Alter and Nicholls suggest that traditional agriculture has the potential to adapt and mitigate the effects of climate change due to its resilience and diversity in crop varieties, as well as its ability to maintain soil health and biodiversity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-adaptive farming",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming_qna_001",
+      "value": 1
+    }
+  ]
+}

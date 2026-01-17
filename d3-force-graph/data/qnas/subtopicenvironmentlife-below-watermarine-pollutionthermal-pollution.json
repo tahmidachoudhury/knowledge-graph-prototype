@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution",
+      "label": "Thermal pollution",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the consequences of temperature fluctuations observed near mixing tees?",
+      "answer": "Temperature fluctuations near mixing tees can result in high-cycle thermal fatigue, potentially causing damage to T-sections and pipelines, which has led to leakage and incidents in power plants.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Thermal pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are engineers and researchers concerned with the mixing behaviors and temperature fluctuations in T-sections?",
+      "answer": "They are concerned because these fluctuations can cause thermal fatigue and damage.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Thermal pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does an increase in temperature influence water temperature and species distribution?",
+      "answer": "An increase in temperature leads to changes in water temperature, which, in turn, affects the distribution of species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Thermal pollution",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_002",
+      "value": 1
+    }
+  ]
+}

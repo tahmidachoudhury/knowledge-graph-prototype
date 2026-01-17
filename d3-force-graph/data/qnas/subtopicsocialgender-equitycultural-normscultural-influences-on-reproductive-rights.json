@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights",
+      "label": "Cultural influences on reproductive rights",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the four main politically relevant worldviews identified by Cultural Theory?",
+      "answer": "The four main politically relevant worldviews identified by Cultural Theory are egalitarianism, individualism, hierarchy, and fatalism.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Cultural influences on reproductive rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What belief did people in late Middle Ages Denmark hold about pregnant women and bees?",
+      "answer": "It was believed that a woman could not get pregnant if she ate bees.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Cultural influences on reproductive rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Cultural influences on reproductive rights_qna_001",
+      "value": 1
+    }
+  ]
+}

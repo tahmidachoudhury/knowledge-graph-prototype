@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Energy-efficient machinery",
+      "label": "Energy-efficient machinery",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Energy-efficient machinery_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the most basic efficiency measure mentioned in the paragraph regarding tractor operation?",
+      "answer": "The most basic efficiency measure is to avoid overloading the engine by using a gear that is too high for the task.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "subtopic": "Energy-efficient machinery",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Energy-efficient machinery",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Energy-efficient machinery_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Urban mining for resource recovery",
+      "label": "Urban mining for resource recovery",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Urban mining for resource recovery_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Which industry produces more waste per unit product and byproduct than the oil refining, bulk, and fine chemical industries?",
+      "answer": "The pharmaceutical industry produces more waste per unit product and byproduct than the oil refining, bulk, and fine chemical industries.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Urban mining for resource recovery",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Urban mining for resource recovery_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are the benefits of using widely available and cheap raw materials in microbial fermentation?",
+      "answer": "The use of widely available and cheap raw materials ensures consistent quality and yield, making the process scalable and controllable.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Urban mining for resource recovery",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Urban mining for resource recovery",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Urban mining for resource recovery_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Urban mining for resource recovery",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Urban mining for resource recovery_qna_001",
+      "value": 1
+    }
+  ]
+}

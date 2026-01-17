@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth",
+      "label": "Economic growth",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the relationship between economic growth and environmental quality found in the study?",
+      "answer": "Economic growth improves environmental quality, according to the findings of the study.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Economic growth",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How has the environmental goods sector performed compared to the overall economy in the European Union from 2000 to 2020?",
+      "answer": "The environmental goods sector in the European Union has grown at an average annual growth rate of 3.4%, while the GDP grew by only 1.0% on average per year during that period.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Economic growth",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the traditional measure of economic growth often used by countries?",
+      "answer": "The traditional measure of economic growth used by countries is gross domestic product (GDP).",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Economic growth",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "According to the literature review, what are some negative effects of economic growth?",
+      "answer": "Negative effects of economic growth include increased carbon emissions, global warming, and other forms of pollution.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Economic growth",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How is economic activity represented in the studies referenced by Bennedsen et al. (2021)?",
+      "answer": "Economic activity is represented by common factors extracted from a large set of annual macroeconomic US variables.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Economic growth",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Economic growth_qna_004",
+      "value": 1
+    }
+  ]
+}

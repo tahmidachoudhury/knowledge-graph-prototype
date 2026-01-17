@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Remote diagnostics",
+      "label": "Remote diagnostics",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Remote diagnostics_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Besides traditional digital X-ray radiography and tomography, what additional functionalities does the micro-X-ray computed tomography instrument have?",
+      "answer": "The instrument can visualize in situ tensile and compression testing and perform diffraction contrast tomography.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Remote diagnostics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Remote diagnostics",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Remote diagnostics_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Climate-proof infrastructure design",
+      "label": "Climate-proof infrastructure design",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Climate-proof infrastructure design_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the study contribute to structural and construction engineering?",
+      "answer": "It provides insights that can inform the design of more resilient concrete structures in cold regions and the development of maintenance strategies for concrete components.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Climate-proof infrastructure design",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Climate-proof infrastructure design",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Climate-proof infrastructure design_qna_000",
+      "value": 1
+    }
+  ]
+}

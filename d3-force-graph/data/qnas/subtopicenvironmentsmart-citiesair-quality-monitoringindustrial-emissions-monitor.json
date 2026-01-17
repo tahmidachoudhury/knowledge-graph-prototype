@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor",
+      "label": "Industrial emissions monitor",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of emissions were monitored during the study?",
+      "answer": "N2O emissions were monitored during the study.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Industrial emissions monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How often are emissions to air inventory conducted in textile factories?",
+      "answer": "Emission inventory to air is typically done yearly in textile factories.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Industrial emissions monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to analyze the composition of aerosol particles in the study?",
+      "answer": "A single-particle mass spectrometer was employed to analyze the aerosol composition, detecting individual particles and providing chemical profiles at the single-particle level.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Industrial emissions monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do wet scrubbers impact the composition of particle emissions at different engine loads?",
+      "answer": "At low engine loads (20 kW), there are minimal changes in particle composition after scrubbing, while at high engine loads (60 kW), the scrubber reduces soot and PAH signatures by about fourfold.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Industrial emissions monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of particles does the single-particle mass spectrometer primarily analyze, and why is this important?",
+      "answer": "The single-particle mass spectrometer analyzes particles larger than approximately 100 nm, which constitute the majority of the lung-deposited mass and have the potential for long-range transport, making their chemical composition critical for understanding environmental and health effects.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Industrial emissions monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Industrial emissions monitor_qna_004",
+      "value": 1
+    }
+  ]
+}

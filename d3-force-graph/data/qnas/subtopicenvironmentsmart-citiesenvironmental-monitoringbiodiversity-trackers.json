@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers",
+      "label": "Biodiversity trackers",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What might businesses look for in a biodiversity indicator?",
+      "answer": "Businesses might look for an easy-to-track, target-oriented indicator.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Biodiversity trackers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What categories do scientists use to classify bird populations in urban settings?",
+      "answer": "Scientists classify bird populations in urban settings into categories based on their population dynamics: dwellers, utilizers, and avoiders.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Biodiversity trackers",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers_qna_001",
+      "value": 1
+    }
+  ]
+}

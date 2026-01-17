@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Ecosystem preservation strategies",
+      "label": "Ecosystem preservation strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Ecosystem preservation strategies_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are some of the key principles that the CALM framework emphasizes for managing landscapes?",
+      "answer": "The CALM framework emphasizes three key principles: 1) AVOID and SECURE priority areas to maintain biodiversity and ecosystem services, 2) MITIGATE and MANAGE induced and cumulative effects across the landscape, and 3) RESTORE degraded ecosystems while AVOIDING and MINIMIZING future impacts.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Ecosystem preservation strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Ecosystem preservation strategies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What strategies are suggested for conserving terrestrial biodiversity, carbon, and water according to the studies referenced?",
+      "answer": "The studies suggest implementing integrated approaches for conserving areas of global importance which include strategies that consider biodiversity, carbon storage, and water conservation simultaneously.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Ecosystem preservation strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Ecosystem preservation strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Ecosystem preservation strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Ecosystem preservation strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Ecosystem preservation strategies_qna_001",
+      "value": 1
+    }
+  ]
+}

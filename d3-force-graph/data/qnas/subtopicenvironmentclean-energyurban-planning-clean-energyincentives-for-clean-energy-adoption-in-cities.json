@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities",
+      "label": "Incentives for clean energy adoption in cities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why might cities prefer to use incentives instead of rules for climate action?",
+      "answer": "Incentives help guide behavior without overtly controlling it, which can be beneficial when cities lack power over certain emissions sources.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Incentives for clean energy adoption in cities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is a significant factor that affects the effectiveness of incentive programs for high emitters in cities?",
+      "answer": "High emitters must weigh whether an incentive program can adequately cover their costs to reduce emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Incentives for clean energy adoption in cities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is deemed preferable in scenarios of negative policy cost regarding rebates?",
+      "answer": "A negative flat-rate charge (i.e., a lump-sum rebate) is preferable to a negative consumption surcharge in the majority of circumstances.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Incentives for clean energy adoption in cities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Incentives for clean energy adoption in cities_qna_002",
+      "value": 1
+    }
+  ]
+}

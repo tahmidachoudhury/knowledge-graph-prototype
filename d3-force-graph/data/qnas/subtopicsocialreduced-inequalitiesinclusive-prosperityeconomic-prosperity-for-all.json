@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Economic prosperity for all",
+      "label": "Economic prosperity for all",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Economic prosperity for all_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What were the third and fourth most important priorities mentioned in the paragraph?",
+      "answer": "The third and fourth most important priorities were economic prosperity and economic growth, respectively.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "subtopic": "Economic prosperity for all",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Economic prosperity for all_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What was the main objective of the study discussed in the paragraph?",
+      "answer": "The main objective of the study was to assess the relative importance of the key principles of a wellbeing economy to the Australian general public and to investigate the preferences across different demographic subgroups.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "subtopic": "Economic prosperity for all",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Economic prosperity for all",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Economic prosperity for all_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Economic prosperity for all",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Economic prosperity for all_qna_001",
+      "value": 1
+    }
+  ]
+}

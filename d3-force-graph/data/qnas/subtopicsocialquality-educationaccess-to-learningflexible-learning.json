@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Flexible learning",
+      "label": "Flexible learning",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Flexible learning_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What kind of framework is used to analyze the learning facilitated by the approach?",
+      "answer": "A modified analytical framework based on domains of learning is used to analyze how the approach facilitated learning and reflexivity.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "subtopic": "Flexible learning",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Flexible learning_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do post-defined categories enhance flexibility compared to traditional supervised learning?",
+      "answer": "Post-defined categories offer greater flexibility because they allow for the definition of categories after training, whereas traditional supervised learning restricts models to predefined labels.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "subtopic": "Flexible learning",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Access to learning|Flexible learning",
+      "target": "Subtopic:Social|Quality education|Access to learning|Flexible learning_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Access to learning|Flexible learning",
+      "target": "Subtopic:Social|Quality education|Access to learning|Flexible learning_qna_001",
+      "value": 1
+    }
+  ]
+}

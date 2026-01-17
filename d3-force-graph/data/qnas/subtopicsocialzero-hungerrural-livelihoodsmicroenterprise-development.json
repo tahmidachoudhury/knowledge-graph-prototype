@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Microenterprise development",
+      "label": "Microenterprise development",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Microenterprise development_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How does the methodology break down the macro-simulation results?",
+      "answer": "The macro-simulation results are broken down at the household level by rural or urban areas and regions in a microsimulation module.",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Microenterprise development",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Microenterprise development",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Microenterprise development_qna_000",
+      "value": 1
+    }
+  ]
+}

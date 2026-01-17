@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Female executive representation",
+      "label": "Female executive representation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Female executive representation_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which corporations had the most board seat positions among the executive members of the multi-stakeholder institutions?",
+      "answer": "The corporations with the most board seat positions were Unilever (20), Nestlé (17), PepsiCo Inc (14), and The Coca-Cola Company (13).",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "subtopic": "Female executive representation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Female leadership roles|Female executive representation",
+      "target": "Subtopic:Social|Gender equity|Female leadership roles|Female executive representation_qna_000",
+      "value": 1
+    }
+  ]
+}

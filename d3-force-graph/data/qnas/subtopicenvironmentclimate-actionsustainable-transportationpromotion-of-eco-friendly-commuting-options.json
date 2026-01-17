@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Promotion of eco-friendly commuting options",
+      "label": "Promotion of eco-friendly commuting options",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Promotion of eco-friendly commuting options_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are some popular campaigns in Sweden to promote sustainable transportation?",
+      "answer": "Popular campaigns in Sweden to promote sustainable transportation include \"Drive Clean\" for battery electric vehicles.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Promotion of eco-friendly commuting options",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Promotion of eco-friendly commuting options",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Promotion of eco-friendly commuting options_qna_000",
+      "value": 1
+    }
+  ]
+}

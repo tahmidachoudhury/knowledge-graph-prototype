@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge",
+      "label": "Indigenous knowledge",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are some keywords associated with the indigenous knowledge systems mentioned in the passage?",
+      "answer": "Keywords include Climate change, Indigenous knowledge systems and practices (IKSP), Local and indigenous knowledge systems (LINKS), Local ecological knowledge (LEK), and Indigenous ecological knowledge (IEK).",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Indigenous knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How is Indigenous knowledge related to the concepts discussed in the paragraph?",
+      "answer": "Indigenous knowledge and philosophies support thriving Indigenous relations, which align with the idea of Earth-based kinships that decenter the human experience.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Indigenous knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the emphasis of Indigenous knowledges mentioned in the paragraph?",
+      "answer": "The emphasis is on Anishinaabe knowledges as it relates to our place.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Indigenous knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What does local and indigenous knowledge refer to?",
+      "answer": "It refers to the understandings, skills, and philosophies developed by societies with long histories of interaction with their natural surroundings, often pertaining to ecological knowledge, management practices, and customary institutions.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Curriculum diversity",
+      "subtopic": "Indigenous knowledge",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge",
+      "target": "Subtopic:Social|Quality education|Curriculum diversity|Indigenous knowledge_qna_003",
+      "value": 1
+    }
+  ]
+}

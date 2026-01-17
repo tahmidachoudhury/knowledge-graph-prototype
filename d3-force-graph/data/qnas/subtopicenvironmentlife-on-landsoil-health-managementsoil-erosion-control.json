@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control",
+      "label": "Soil erosion control",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the ICONA model contribute to erosion management?",
+      "answer": "The ICONA model contributes to erosion management by helping to identify erosion-prone areas and predicting their environmental impacts, thus aiding in optimal management decisions to mitigate erosion-related damage.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil erosion control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the ICONA model compare to more complex models?",
+      "answer": "Unlike more complex models, ICONA provides acceptable accuracy with fewer indices, making it a suitable choice for soil erosion risk assessment.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil erosion control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is one application of the information obtained from the ICONA model?",
+      "answer": "The information obtained from the ICONA model can be used as a basis for the development of early warning systems (EWS) for soil erosion.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil erosion control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What potential outcome does the research aim to achieve regarding soil erosion?",
+      "answer": "The research aims to lay the groundwork for crafting sustainable policies to mitigate soil erosion.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil erosion control",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil erosion control_qna_003",
+      "value": 1
+    }
+  ]
+}

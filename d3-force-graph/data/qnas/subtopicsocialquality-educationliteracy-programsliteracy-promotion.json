@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Literacy programs|Literacy promotion",
+      "label": "Literacy promotion",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Literacy programs"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Literacy programs|Literacy promotion_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What do the authors encourage readers to reflect on?",
+      "answer": "The authors encourage readers to reflect on their own positionality and the relationships within their home communities.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Literacy programs",
+      "subtopic": "Literacy promotion",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Literacy programs|Literacy promotion",
+      "target": "Subtopic:Social|Quality education|Literacy programs|Literacy promotion_qna_000",
+      "value": 1
+    }
+  ]
+}

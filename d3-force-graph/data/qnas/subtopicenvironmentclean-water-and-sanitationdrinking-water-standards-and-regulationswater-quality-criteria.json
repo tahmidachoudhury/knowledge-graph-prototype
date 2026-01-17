@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "label": "Water quality criteria",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What criteria should be considered when selecting algal species for phycoremediation studies?",
+      "answer": "The selected algal species should have reasonable tolerance limits, biodegradation potential, and fewer bioaccumulation properties.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Water quality criteria",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some of the parameters that should be measured in future studies according to the paragraph?",
+      "answer": "Coliforms, algae, pH, nutrients, and chemical compounds should be measured in future studies.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Water quality criteria",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main purpose of using the MMI according to the paragraph?",
+      "answer": "The main purpose of using the MMI is for the ecological status calculation under the Water Framework Directive (WFD) by reflecting the ecological health of river systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Water quality criteria",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the mathematical model used to compute the weights of criteria in the BWM?",
+      "answer": "The mathematical model 1 is used to compute the weights of criteria in the BWM. It involves minimizing the absolute difference between the preference of B over other criteria and the preference of other criteria over the worst criterion, subject to certain constraints.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Water quality criteria",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What nine factors were considered criteria for the Multi-Criteria Analysis (MCA) in this study?",
+      "answer": "The nine factors used as criteria for the MCA were population density, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, land cover types, proximity to water bodies, nitrogen dioxide concentrations, slope, and elevation.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Water quality criteria",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_004",
+      "value": 1
+    }
+  ]
+}

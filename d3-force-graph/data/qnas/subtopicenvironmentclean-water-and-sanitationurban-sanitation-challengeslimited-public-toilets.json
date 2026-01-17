@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets",
+      "label": "Limited public toilets",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the number of public toilets per 10,000 people in China by the end of 2021?",
+      "answer": "There are only 3.29 public toilets per 10,000 people in China by the end of 2021.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Limited public toilets",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the sample design limitation mentioned in the paragraph?",
+      "answer": "The sample design was limited by the irregular shape of the urban continuum of Xalapa, affecting the number of available subgroups for analysis.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Limited public toilets",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the role of independent public toilets in modern cities?",
+      "answer": "Independent public toilets serve as critical infrastructure for daily life and tourism, especially in densely populated areas lacking municipal pipeline connections.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Limited public toilets",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_002",
+      "value": 1
+    }
+  ]
+}

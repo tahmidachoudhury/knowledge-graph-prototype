@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Nutrient cycling techniques",
+      "label": "Nutrient cycling techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Nutrient cycling techniques_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors influence the amount of Corg transferred into the soil?",
+      "answer": "The amount of Corg transferred into the soil depends on plant species, age, and development.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Nutrient cycling techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Nutrient cycling techniques",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Nutrient cycling techniques_qna_000",
+      "value": 1
+    }
+  ]
+}

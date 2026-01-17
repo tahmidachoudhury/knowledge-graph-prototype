@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques",
+      "label": "Remote surgery techniques",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How have advances in electronic surgical devices impacted surgical procedures in healthcare?",
+      "answer": "Advances in electronic surgical devices have favored the use of less invasive procedures, leading to shorter hospital stays for patients.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote surgery techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How many studies were categorized as electronic surgical devices (EHDs used to conduct surgical procedures)?",
+      "answer": "There were 13 studies categorized as electronic surgical devices (EHDs used to conduct surgical procedures).",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote surgery techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques_qna_001",
+      "value": 1
+    }
+  ]
+}

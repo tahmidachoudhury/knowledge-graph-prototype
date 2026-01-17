@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Wealth redistribution|Redistribution policies",
+      "label": "Redistribution policies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Wealth redistribution"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Wealth redistribution|Redistribution policies_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is identified as the welfare-maximizing approach when policy costs are negative?",
+      "answer": "A flat-rate levy is identified as welfare-maximizing under all conditions when policy costs are negative.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Wealth redistribution",
+      "subtopic": "Redistribution policies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Wealth redistribution|Redistribution policies",
+      "target": "Subtopic:Social|Reduced inequalities|Wealth redistribution|Redistribution policies_qna_000",
+      "value": 1
+    }
+  ]
+}

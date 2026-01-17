@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring",
+      "label": "Vehicle emission monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How do these emission standards impact vehicle manufacturers in the EU?",
+      "answer": "Vehicle manufacturers must ensure that the new passenger cars and light commercial vehicles they produce meet the specified CO2 emission targets to comply with the regulations in the EU.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Vehicle emission monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much do diagnostic services account for healthcare emissions in a specific region in Australia?",
+      "answer": "Diagnostic services account for approximately 9% of healthcare emissions in that region.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Vehicle emission monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do exhaust emissions from natural gas vehicles compare to those from conventional fuel-powered vehicles?",
+      "answer": "Exhaust emissions of particulate matter, CO, and NOTare lower for natural gas vehicles than those powered by conventional fuels.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Vehicle emission monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the load condition of the engine affect the composition of the emissions according to the study?",
+      "answer": "At a 20 kW load, there are stronger contributions of organic carbon and PAHs, while at a 60 kW load, soot signatures are more prominent due to more complete combustion.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Vehicle emission monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did the presence of PAH signatures change between the 20 kW and 60 kW engine loads?",
+      "answer": "At the 20 kW load, the mass spectra showed stronger contributions of organic carbon and PAHs, while at the 60 kW load, soot signatures were more prominent due to more complete combustion.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Vehicle emission monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the primary composition change in particle emissions observed after using a wet scrubber at high engine loads?",
+      "answer": "At high engine loads, the wet scrubber reduced soot and PAH signatures by about fourfold, showing significant changes in particle composition.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Vehicle emission monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the performance of scrubbers vary with engine load according to the single-particle analysis?",
+      "answer": "At low engine loads, there are no significant changes in particle composition, while at high engine loads, there is a notable reduction in soot and PAH levels, indicating that scrubber performance is influenced by engine load conditions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Vehicle emission monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Vehicle emission monitoring_qna_006",
+      "value": 1
+    }
+  ]
+}

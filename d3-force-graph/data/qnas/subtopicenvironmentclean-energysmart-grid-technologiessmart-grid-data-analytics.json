@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics",
+      "label": "Smart grid data analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What data set is used to analyze ECA transactions in the energy sector?",
+      "answer": "A panel dataset of ECA transactions in the energy sector is used for the analysis.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies",
+      "subtopic": "Smart grid data analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does bibliometric analysis utilize artificial intelligence in this study?",
+      "answer": "Bibliometric analysis uses artificial intelligence-powered databases for big data search and employs machine learning techniques for data extraction and analysis.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies",
+      "subtopic": "Smart grid data analytics",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics",
+      "target": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics",
+      "target": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics_qna_001",
+      "value": 1
+    }
+  ]
+}

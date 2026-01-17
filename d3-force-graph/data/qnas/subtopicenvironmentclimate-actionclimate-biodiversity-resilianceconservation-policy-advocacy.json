@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy",
+      "label": "Conservation policy advocacy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What role does ecosystem services (ES) knowledge play in policy-making?",
+      "answer": "ES knowledge can be used to create actionable policies that enhance human well-being, biodiversity, and nature conservation.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Conservation policy advocacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What trend is observed regarding public investment in sectors responsible for biodiversity loss?",
+      "answer": "Public investment in the sectors responsible for biodiversity loss is currently growing.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Conservation policy advocacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What are some measures that governments and organizations can take to achieve a nature-positive world?",
+      "answer": "Governments and organizations can protect 30% of the world's land, freshwater, and oceans, adopt rights-based and community-led approaches, and commit resources for conservation and sustainable use of biodiversity.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate biodiversity resiliance",
+      "subtopic": "Conservation policy advocacy",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy",
+      "target": "Subtopic:Environment|Climate action|Climate biodiversity resiliance|Conservation policy advocacy_qna_002",
+      "value": 1
+    }
+  ]
+}

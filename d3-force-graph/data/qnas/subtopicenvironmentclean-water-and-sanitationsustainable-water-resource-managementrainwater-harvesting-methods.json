@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods",
+      "label": "Rainwater harvesting methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can automation of rainwater collection in buildings optimize wastewater management?",
+      "answer": "Automation of rainwater collection in buildings can optimize wastewater management by efficiently harvesting and utilizing rainwater, reducing the reliance on traditional water sources.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Rainwater harvesting methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods_qna_001",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "How can gardens contribute to water availability for birds?",
+      "answer": "Gardens can provide essential water sources for birds through features like birdbaths, particularly in areas facing significant drying from climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Rainwater harvesting methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods_qna_001",
+      "value": 1
+    }
+  ]
+}

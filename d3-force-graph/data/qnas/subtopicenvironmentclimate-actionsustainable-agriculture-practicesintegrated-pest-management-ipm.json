@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)",
+      "label": "Integrated pest management (ipm)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How has the global application of glyphosate been quantified since its introduction?",
+      "answer": "An estimated 8.6 billion kg of glyphosate has been applied globally since 1974.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Integrated pest management (ipm)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What significant recognition did IPBES receive in 2024?",
+      "answer": "IPBES was a joint winner of the Blue Planet Prize.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Integrated pest management (ipm)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the unintended consequences of the recommended combined mitigation strategy?",
+      "answer": "The unintended consequences include increased food imports and vulnerability.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Integrated pest management (ipm)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Integrated pest management (ipm)_qna_002",
+      "value": 1
+    }
+  ]
+}

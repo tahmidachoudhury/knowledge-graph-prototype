@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement",
+      "label": "Soil structure improvement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is particulated organic matter (POM) distributed within the soil matrix?",
+      "answer": "POM can be thoroughly mixed into the wet soil matrix or mainly located in air-filled macropores, depending on soil structure formation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil structure improvement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do roots play in the distribution of POM in the soil?",
+      "answer": "Roots grow into larger pores or produce their own biopores, resulting in POM fragments typically being located near air-filled macropores.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil structure improvement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is the distribution of air-filled pore space in soil determined?",
+      "answer": "The distribution patterns of air-filled pores and organic residues are determined by soil structure, influenced by biotic processes, abiotic processes, or technical processes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil structure improvement",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_002",
+      "value": 1
+    }
+  ]
+}

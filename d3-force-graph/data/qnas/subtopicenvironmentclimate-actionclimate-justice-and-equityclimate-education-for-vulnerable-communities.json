@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Climate education for vulnerable communities",
+      "label": "Climate education for vulnerable communities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Climate education for vulnerable communities_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the research project described in the paragraph?",
+      "answer": "The main focus of the research project is to develop an enhanced understanding of how different groups in Canadian society speak about and process the emotions associated with climate change and ecological loss, particularly in the Boreal and Atlantic ecoregions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Climate education for vulnerable communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Climate education for vulnerable communities",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Climate education for vulnerable communities_qna_000",
+      "value": 1
+    }
+  ]
+}

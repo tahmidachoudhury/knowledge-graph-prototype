@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses",
+      "label": "Energy-efficient greenhouses",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the objective of the postemergence experiment conducted under greenhouse conditions?",
+      "answer": "The objective was to study the herbicidal effect of CEO on four-week-old A. thaliana.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Energy-efficient greenhouses",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What conditions were maintained in the greenhouse during the postemergence experiment?",
+      "answer": "The greenhouse maintained a temperature of 20 ± 3 °C and relative humidity of 60 ± 3%.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Energy-efficient greenhouses",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How do silk farms typically control temperature and humidity for optimal silkworm growth, and what are the energy implications of this process?",
+      "answer": "Silk farms typically control temperature and humidity using energy-intensive methods such as hot air or steam. This process consumes a lot of energy, which can be obtained from burning mulberry wood or from the electric grid.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Energy-efficient greenhouses",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_002",
+      "value": 1
+    }
+  ]
+}

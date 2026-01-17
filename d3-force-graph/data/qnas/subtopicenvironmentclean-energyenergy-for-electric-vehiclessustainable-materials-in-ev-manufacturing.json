@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing",
+      "label": "Sustainable materials in ev manufacturing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What materials are used for the cathode lining in the electrolysis cell?",
+      "answer": "The cathode lining materials consist of graphite or Si3N4 bonded SiC blocks, along with graphitized or semi-graphitized carbon cathode blocks.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "subtopic": "Sustainable materials in ev manufacturing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the disadvantages of using carbon paper and stainless steel as anode materials?",
+      "answer": "Carbon paper is brittle, and stainless steel and carbon cloth are expensive.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "subtopic": "Sustainable materials in ev manufacturing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What challenges are associated with incorporating highly conductive fillers into TFP of polymers?",
+      "answer": "The challenges include increased energy dissipation and reduced exothermic energy availability due to higher filler content, which compromises the resin volume necessary for successful polymerization.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "subtopic": "Sustainable materials in ev manufacturing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much silicon can be added to electrical steels to enhance their magnetic properties?",
+      "answer": "Up to 6.5 weight percent (wt pct) of silicon can be added to electrical steels to enhance their magnetic properties.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "subtopic": "Sustainable materials in ev manufacturing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing",
+      "target": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing",
+      "target": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing",
+      "target": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing",
+      "target": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Sustainable materials in ev manufacturing_qna_003",
+      "value": 1
+    }
+  ]
+}

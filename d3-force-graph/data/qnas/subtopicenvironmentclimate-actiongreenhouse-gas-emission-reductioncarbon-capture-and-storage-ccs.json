@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Carbon capture and storage (ccs)",
+      "label": "Carbon capture and storage (ccs)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Carbon capture and storage (ccs)_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some examples of novel energy technologies mentioned in the paragraph?",
+      "answer": "Examples of novel energy technologies include deep geothermal energy and carbon capture and storage (CCS).",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "subtopic": "Carbon capture and storage (ccs)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Carbon capture and storage (ccs)_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factor is crucial in determining the amount of CO2 released into the atmosphere by industries?",
+      "answer": "The nature of energy consumed by industries in a country determines the amount of CO2 released into the atmosphere.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "subtopic": "Carbon capture and storage (ccs)",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Carbon capture and storage (ccs)",
+      "target": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Carbon capture and storage (ccs)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Carbon capture and storage (ccs)",
+      "target": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Carbon capture and storage (ccs)_qna_001",
+      "value": 1
+    }
+  ]
+}

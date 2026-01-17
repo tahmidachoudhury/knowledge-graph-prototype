@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal power plant efficiency",
+      "label": "Geothermal power plant efficiency",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal power plant efficiency_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What experimental study was conducted regarding thermal mixing quality?",
+      "answer": "An experimental study was conducted to investigate the impact of the flow rate ratio between branch and main pipe inlets on thermal mixing quality, observing that a ratio exceeding 0.16 yields satisfactory mixing.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "subtopic": "Geothermal power plant efficiency",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal power plant efficiency",
+      "target": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal power plant efficiency_qna_000",
+      "value": 1
+    }
+  ]
+}

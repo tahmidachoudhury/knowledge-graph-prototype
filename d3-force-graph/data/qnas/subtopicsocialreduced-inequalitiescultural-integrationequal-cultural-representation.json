@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Cultural integration|Equal cultural representation",
+      "label": "Equal cultural representation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Cultural integration"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Cultural integration|Equal cultural representation_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is it important to understand political institutions and actions in a cultural context?",
+      "answer": "It is important because political activities are directed by interpretations and preferences rather than just bare facts and interests.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Cultural integration",
+      "subtopic": "Equal cultural representation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Cultural integration|Equal cultural representation",
+      "target": "Subtopic:Social|Reduced inequalities|Cultural integration|Equal cultural representation_qna_000",
+      "value": 1
+    }
+  ]
+}

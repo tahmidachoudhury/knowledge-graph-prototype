@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records",
+      "label": "Digital health records",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are electronic healthcare devices (EHDs) considered as compared to conventional healthcare equipment?",
+      "answer": "EHDs are considered alternative solutions to conventional healthcare equipment, offering reliable diagnostics, self-monitoring capabilities, improved patient comfort, and less invasive procedures.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health records",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How is an electronic healthcare device (EHD) defined in the context of the paragraph?",
+      "answer": "An electronic healthcare device (EHD) is defined as a device that provides clinical provision of direct patient care.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health records",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records_qna_001",
+      "value": 1
+    }
+  ]
+}

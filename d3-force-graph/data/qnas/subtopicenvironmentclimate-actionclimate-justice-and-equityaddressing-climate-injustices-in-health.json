@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Addressing climate injustices in health",
+      "label": "Addressing climate injustices in health",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Addressing climate injustices in health_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What simultaneous challenges must be considered in efforts to improve healthcare delivery and address climate issues?",
+      "answer": "Global health disparities, resource allocation, and access to care must be considered in efforts to improve healthcare delivery and address climate issues.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Addressing climate injustices in health",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate justice and equity|Addressing climate injustices in health_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the relationship between climate change and access to care in radiology?",
+      "answer": "Climate change exacerbates regional and global disparities in access to care in radiology, highlighting the need for action to address these inequalities.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate justice and equity",
+      "subtopic": "Addressing climate injustices in health",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Addressing climate injustices in health",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Addressing climate injustices in health_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate justice and equity|Addressing climate injustices in health",
+      "target": "Subtopic:Environment|Climate action|Climate justice and equity|Addressing climate injustices in health_qna_001",
+      "value": 1
+    }
+  ]
+}

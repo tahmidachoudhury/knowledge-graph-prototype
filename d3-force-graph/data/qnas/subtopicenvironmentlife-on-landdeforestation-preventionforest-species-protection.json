@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection",
+      "label": "Forest species protection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What conservation strategies should forest managers implement to protect I. griffithii?",
+      "answer": "Forest managers should prioritize habitat restoration, assisted migration, and ex situ conservation strategies.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest species protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are forest-dependent species highly vulnerable to forest loss?",
+      "answer": "Forest-dependent species are highly vulnerable to forest loss due to their reliance on specific forest habitats, which are being threatened by activities such as logging, agriculture, trapping, and hunting, as well as climate change and land-use changes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest species protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection_qna_002",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "Why are retained clumps in Tasmanian forests considered inadequate for swift parrots?",
+      "answer": "Retained clumps are inadequate for swift parrots because they are small, have a high rate of tree collapse post-harvest, and have a low probability of containing suitable nesting cavities for swift parrots.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest species protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is necessary for the conservation of the swift parrot according to the paragraph?",
+      "answer": "Protecting extant forest in its breeding range from deforestation and degradation is necessary for the conservation of the swift parrot.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest species protection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest species protection_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices",
+      "label": "Crop rotation practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some ecological benefits provided by legumes when included in rotations?",
+      "answer": "Some ecological benefits include improved nitrogen use efficiency, nitrogen credit from biological fixation, increased water conservation, reduced N2O emissions, improved soil health, and enhanced biodiversity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Crop rotation practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What economic benefits can be derived from incorporating pulse crops into wheat-based rotations in the Canadian prairies?",
+      "answer": "Incorporating pulse crops into wheat-based rotations in the semi-arid Canadian prairies led to economic benefits for producers.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Crop rotation practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Name two practices involved in sustainable agriculture that contribute to soil health and biodiversity.",
+      "answer": "Crop rotation and agroforestry are two practices involved in sustainable agriculture that contribute to soil health and enhance biodiversity.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Crop rotation practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Crop rotation practices_qna_002",
+      "value": 1
+    }
+  ]
+}

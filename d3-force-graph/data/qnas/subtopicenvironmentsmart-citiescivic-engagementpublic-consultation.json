@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation",
+      "label": "Public consultation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the levels of participation in the co-production process as distinguished in the paragraph?",
+      "answer": "The levels of participation range from limited consultation in developing background knowledge to proposing actual solutions and taking responsibility for implementing them.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Public consultation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How could multilevel cooperation be best initiated for larger urban development projects according to the recommendations?",
+      "answer": "The recommendations suggest that local governments are in the best position to engage in multilevel cooperation when initiating larger urban development projects.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Public consultation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation_qna_001",
+      "value": 1
+    }
+  ]
+}

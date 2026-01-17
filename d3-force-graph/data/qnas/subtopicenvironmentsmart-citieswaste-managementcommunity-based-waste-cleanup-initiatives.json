@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Community-based waste cleanup initiatives",
+      "label": "Community-based waste cleanup initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Community-based waste cleanup initiatives_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What specific aim does the study mentioned in the paragraph have concerning waste management in Botswana?",
+      "answer": "The study aims to explore the role of local knowledge as a solution for enhancing waste management in Borakalalo ward in Molepolole, Botswana.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "subtopic": "Community-based waste cleanup initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Waste management|Community-based waste cleanup initiatives",
+      "target": "Subtopic:Environment|Smart cities|Waste management|Community-based waste cleanup initiatives_qna_000",
+      "value": 1
+    }
+  ]
+}

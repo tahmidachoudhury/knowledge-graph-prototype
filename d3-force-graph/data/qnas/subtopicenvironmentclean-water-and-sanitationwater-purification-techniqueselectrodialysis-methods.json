@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods",
+      "label": "Electrodialysis methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which impurities are found in the electrolyte of the SPL according to the paragraph?",
+      "answer": "The electrolyte impurities mainly contain fluorides: Na3AIF6, NaF, CaF2, and Al2O3.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Electrodialysis methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What components are included in the electrolysis cells during the production process?",
+      "answer": "The electrolysis cells are filled with a portion of aluminum metal and a cryolite-based electrolyte.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Electrodialysis methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the typical operating temperature range for the electrolysis cells in aluminum production?",
+      "answer": "The typical operating temperature range for the electrolysis cells is 940°C to 960°C.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Electrodialysis methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What significant discovery did Potter make in 1911 related to electricity production?",
+      "answer": "Potter discovered that adding a platinum electrode to a liquid suspension of yeast and Escherichia coli allowed the bacteria to produce electricity.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Electrodialysis methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Electrodialysis methods_qna_003",
+      "value": 1
+    }
+  ]
+}

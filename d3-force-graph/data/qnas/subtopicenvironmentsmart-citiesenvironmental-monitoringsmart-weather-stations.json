@@ -1,0 +1,147 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "label": "Smart weather stations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of gauges do the locations use to record data, and what issue do they face?",
+      "answer": "The locations use precipitation gauges to record their data, and they face issues with biases, particularly undercatch due to strong winds.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What aspect of the rain gauge stations' history was known that aided in the study?",
+      "answer": "The full history of instrument types was known, which helped estimate likely changes in measurement errors for both networks.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the meteorological stations mentioned in the paragraph used for?",
+      "answer": "The meteorological stations mentioned are used to collect daily precipitation data for modeling and analyzing precipitation extremes in Svalbard.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary purpose of weather surveillance radars?",
+      "answer": "The primary purpose is to quantify meteorological phenomena such as precipitation and monitor storm systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the purpose of OPERA in relation to weather radar data?",
+      "answer": "OPERA facilitates the exchange of weather radar information among national meteorological services in Europe.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did the changes in registration type of rain gauges improve the consistency between the networks?",
+      "answer": "Accounting for changes in registration types of rain gauges increased the consistency between the GSA and HYD networks, indicating improved reliability in the data.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_006",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many rain gauge stations were used in the analysis of heavy rainfall observations?",
+      "answer": "A total of 883 rain gauge stations were used in the analysis.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_006",
+      "value": 1
+    }
+  ]
+}

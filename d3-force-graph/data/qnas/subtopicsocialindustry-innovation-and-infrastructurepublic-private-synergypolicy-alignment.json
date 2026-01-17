@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment",
+      "label": "Policy alignment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the analysis track research alignment with policy objectives?",
+      "answer": "The analysis traces the heterogeneity in past research and tracks whether currently funded projects are aligned with policy objectives.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Policy alignment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the lack of coordination among actors during policy implementation lead to?",
+      "answer": "The lack of coordination among actors leads to inconsistencies in the priorities of different actors regarding integration in governance systems.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Policy alignment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What distinction do most studies make regarding the focus of policy integration?",
+      "answer": "Most studies focus on the system level interacting effects of policy integration rather than the operational level.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Policy alignment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How has the Federal Government of Australia aligned its policy direction concerning the wellbeing economy?",
+      "answer": "The Federal Government of Australia has moved its policy direction to align with wellbeing economy principles through the announcement of a wellbeing budget.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Policy alignment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can visual mapping of policies across the life cycle help in understanding the interconnections between policies according to CE strategies and product life cycle stages?",
+      "answer": "Visual mapping can aid in understanding the interconnections between policies by revealing points of harmony or contention across the life cycle, thus assisting in strategic decision-making and policy alignment.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Policy alignment",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Policy alignment_qna_004",
+      "value": 1
+    }
+  ]
+}

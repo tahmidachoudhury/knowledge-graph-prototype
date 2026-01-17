@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Citizen feedback",
+      "label": "Citizen feedback",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Citizen feedback_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How were the principles presented to the survey respondents?",
+      "answer": "The principles were presented to the survey respondents as a series of digitally presented cards, with the order randomized between respondents to minimize ordering effects.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Citizen feedback",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Citizen feedback",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Citizen feedback_qna_000",
+      "value": 1
+    }
+  ]
+}

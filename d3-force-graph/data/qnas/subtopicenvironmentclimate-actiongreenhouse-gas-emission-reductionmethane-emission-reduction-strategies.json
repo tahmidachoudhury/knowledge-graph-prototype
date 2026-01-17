@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies",
+      "label": "Methane emission reduction strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to measure N2O and N2 emissions?",
+      "answer": "The improved 15N gas flux method with helium oxygen flushing (80:20) was used to measure N2O and N2 emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "subtopic": "Methane emission reduction strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which method is applicable for quantifying N2 emissions on a field scale?",
+      "answer": "The only method applicable on the field scale for quantifying N2 emissions is the 15N gas flux method (15NGF).",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "subtopic": "Methane emission reduction strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the recent improvement made to the 15N gas flux method?",
+      "answer": "The recent improvement is the development of the 15NGF + method, which combines the 15N gas flux method with the HeO2 atmosphere method.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "subtopic": "Methane emission reduction strategies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies",
+      "target": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies",
+      "target": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies",
+      "target": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Methane emission reduction strategies_qna_002",
+      "value": 1
+    }
+  ]
+}

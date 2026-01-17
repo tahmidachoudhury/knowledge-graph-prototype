@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration",
+      "label": "Ecological restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What do the results highlight about the factors influencing ecological processes of recovery and degradation?",
+      "answer": "The results highlight the interplay of abiotic and biotic factors in driving ecological processes of recovery and degradation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Ecological restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is it essential to understand the interaction between biotic and abiotic factors for restoration efforts?",
+      "answer": "Understanding the interaction between biotic and abiotic factors is essential for enhancing the effectiveness of restoration efforts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Ecological restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "label": "Advanced materials for energy storage",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What aspect of MFCs technology is emphasized for improving their performance?",
+      "answer": "The review emphasizes the crucial role of anode materials and their nanoscale modifications in improving MFC performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advanced materials for energy storage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the anode material impact the power output of MFCs?",
+      "answer": "The anode material usually restricts the power output of MFCs by making it easier for exoelectrogens to connect.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advanced materials for energy storage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do nanoscale materials play in the EET process?",
+      "answer": "Nanoscale materials enhance the EET process from microorganisms to the anode surface by providing an optimal nanostructure characterized by a large concentration of micropores.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advanced materials for energy storage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does INL encompass in terms of nuclear materials research and development?",
+      "answer": "INL encompasses the full research and development cycle for nuclear materials, including the conceptualization and modeling of new fuel systems, fabrication of novel fuels, fuel irradiation, and examination of irradiated samples to determine performance in extreme reactor environments.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advanced materials for energy storage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What techniques were used to evaluate the electrochemical properties of the synthesized material?",
+      "answer": "The electrochemical properties were evaluated through CV, GCD, and EIS measurements.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advanced materials for energy storage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What materials have been identified as promising thermoelectric materials in terms of ZT?",
+      "answer": "Promising thermoelectric materials identified include skutterudites, clathrates, complex alloys, Heusler alloys, metal chalcogenides, and oxides, all with ZT greater than 1.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advanced materials for energy storage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some promising thermoelectric materials mentioned in the paragraph?",
+      "answer": "Promising thermoelectric materials mentioned include Al-Fe-Si, Fe-V-Al, and Cu-S.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advanced materials for energy storage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_007",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What analysis method was used to investigate the structural changes of sintered samples?",
+      "answer": "X-ray diffraction (XRD) analysis was used to investigate the structural changes of the sintered samples.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advanced materials for energy storage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_008",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the primary objective of the research study discussed in the paragraph?",
+      "answer": "The primary objective is to obtain new experimental data on melting equilibria and solid-state transformations at typical silicon contents of electrical steel and to reassess the thermodynamic system over the entire alloy range.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Advanced materials for energy storage",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Advanced materials for energy storage_qna_008",
+      "value": 1
+    }
+  ]
+}

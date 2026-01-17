@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "label": "Aqi visualization",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the size of the circles in the TSS plume representation indicate?",
+      "answer": "The size of each circle indicates the area of the TSS plume.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Aqi visualization",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What information is conveyed by the color of the circles in the TSS plume representation?",
+      "answer": "The color of the circle reflects the mean TSS in the plume area.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Aqi visualization",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the Concept mapping method contribute to understanding stakeholders' perspectives?",
+      "answer": "The Concept mapping method creates a visual representation of insights and perspectives from each group, providing a clearer understanding of the stakeholders' viewpoints.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Aqi visualization",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Who proposed the iconic graph used to illustrate these concepts?",
+      "answer": "The iconic graph used to illustrate these concepts was proposed by Odum in 1983.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Aqi visualization",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_003",
+      "value": 1
+    }
+  ]
+}

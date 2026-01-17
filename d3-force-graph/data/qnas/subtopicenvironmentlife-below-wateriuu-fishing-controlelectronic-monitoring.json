@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Electronic monitoring",
+      "label": "Electronic monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Electronic monitoring_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What equipment was used to control and record the tank temperature during the experiments?",
+      "answer": "Apex aquarium controllers were used to control the temperature, and Hobo Pendant loggers were used to record the temperature every 15 minutes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Electronic monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Electronic monitoring",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Electronic monitoring_qna_000",
+      "value": 1
+    }
+  ]
+}

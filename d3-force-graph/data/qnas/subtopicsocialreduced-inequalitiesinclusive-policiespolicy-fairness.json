@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy fairness",
+      "label": "Policy fairness",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy fairness_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What is emphasized as crucial in the design of policies for achieving climate neutrality in passenger transport?",
+      "answer": "The design of policies for achieving climate neutrality in passenger transport is emphasized to be crucially balanced and fair to ensure social equality. This principle of equality is essential in implementing intensive interventions that may impact citizens' freedoms.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "subtopic": "Policy fairness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy fairness_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What were ranked as the most important priorities for Australians according to the survey?",
+      "answer": "Dignity and fairness were ranked as the most important priorities.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive policies",
+      "subtopic": "Policy fairness",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy fairness",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy fairness_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy fairness",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive policies|Policy fairness_qna_001",
+      "value": 1
+    }
+  ]
+}

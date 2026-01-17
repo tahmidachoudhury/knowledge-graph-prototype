@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems",
+      "label": "Green roof systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of heat loss reduction did Rahim Zahedi et al. achieve using green roof technology in winter and summer?",
+      "answer": "They achieved a heat loss reduction of 54.95% in winter and 76.11% in summer using green roof technology.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Green roof systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the performance comparison between intensive and extensive green roofs based on literature?",
+      "answer": "Intensive green roofs perform better than extensive green roofs in thermal insulation, stormwater management, and the provision of recreation.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Green roof systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the green surface area parameter represent in the context of the plant's leaves?",
+      "answer": "The green surface area parameter represents the total area of the green parts of the leaves, specifically the actively photosynthetic tissue.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Green roof systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_002",
+      "value": 1
+    }
+  ]
+}

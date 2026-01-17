@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs",
+      "label": "Captive breeding programs",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the total number of offspring reared in the experiment?",
+      "answer": "A total of 579 offspring were reared in the experiment.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Captive breeding programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the hypothesis addressed in the model test approach regarding juvenile COTS?",
+      "answer": "The hypothesis is that a suite of combined morphological traits might be useful to determine the age of COTS juveniles.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Captive breeding programs",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs_qna_001",
+      "value": 1
+    }
+  ]
+}

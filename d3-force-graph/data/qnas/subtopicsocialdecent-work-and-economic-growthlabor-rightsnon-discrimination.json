@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Labor rights|Non-discrimination",
+      "label": "Non-discrimination",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Labor rights"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Labor rights|Non-discrimination_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What did the clear Code of Conduct aim to achieve for NCA5 participants?",
+      "answer": "The clear Code of Conduct aimed to foster a safe, inclusive, and respectful working environment for all assessment participants.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Labor rights",
+      "subtopic": "Non-discrimination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Labor rights|Non-discrimination",
+      "target": "Subtopic:Social|Decent work and economic growth|Labor rights|Non-discrimination_qna_000",
+      "value": 1
+    }
+  ]
+}

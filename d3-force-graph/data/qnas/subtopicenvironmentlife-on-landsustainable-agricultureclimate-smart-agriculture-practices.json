@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Climate-smart agriculture practices",
+      "label": "Climate-smart agriculture practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Climate-smart agriculture practices_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do frontline actors aim to combat climate shocks according to the insights provided in the paragraph?",
+      "answer": "Frontline actors prepare for climate shocks with the aim of maintaining food production, which indirectly supports food security.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Climate-smart agriculture practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Climate-smart agriculture practices_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the focus of the Climate Smart Agriculture Alliance (CSAA) in Zambia?",
+      "answer": "The CSAA focuses on planting indigenous crop species within water catchment zones to protect water resources for future use.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Climate-smart agriculture practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Climate-smart agriculture practices",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Climate-smart agriculture practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Climate-smart agriculture practices",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Climate-smart agriculture practices_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management",
+      "label": "Ecosystem-based management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the study discussed in the abstract?",
+      "answer": "The study focuses on integrating ecological and economic tools to support ecosystem-based fisheries practices within a value chain framework in the Mediterranean Sea.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Ecosystem-based management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What elements should be linked in the ecosystem-based fisheries analysis?",
+      "answer": "Catches should be linked with ecosystem traits including biodiversity, ecological interactions, energy flows, environmental factors, and human impacts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Ecosystem-based management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the two perspectives mentioned in the paragraph that provide interesting results in fisheries analysis?",
+      "answer": "The ecosystem-based fisheries analysis and the seafood value chain analysis.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Ecosystem-based management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the focus of the case study developed in the paper?",
+      "answer": "The case study focuses on an integrated food web and value chain model of an area in the Northwestern Mediterranean Sea.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Ecosystem-based management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Ecosystem-based management_qna_003",
+      "value": 1
+    }
+  ]
+}

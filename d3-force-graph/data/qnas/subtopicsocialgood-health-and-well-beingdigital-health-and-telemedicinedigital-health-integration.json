@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "label": "Digital health integration",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What novel method does the paper propose for model merging?",
+      "answer": "The paper proposes a cost-free layer-wise model merging method that integrates existing pretrained models without the need for additional training costs.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed model merging technique improve performance without incurring additional costs?",
+      "answer": "The proposed layer-wise model merging technique integrates weights derived from different models, leveraging multiple parameter sets to create a unified model that retains beneficial adaptations while requiring only a single model inference, thus avoiding additional training and computation costs.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main focus of the proposed layer-wise merging method in UDA?",
+      "answer": "The proposed layer-wise merging method focuses on combining the strengths of different models by separately merging earlier layers that extract features and later layers that are specific to classification tasks, aiming to improve performance and performance consistency across various tasks.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main focus of the proposed layer-wise model merging method in the context of UDA?",
+      "answer": "The proposed layer-wise model merging method focuses on cost-free integration of different pretrained models by merging the initial layers to unify feature extraction while maintaining the distinctiveness of the task-specific final layers, aimed at improving performance in unsupervised domain adaptation tasks.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_004",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the benefits of the novel model merging method introduced in the research?",
+      "answer": "The method allows for cost-free merging of pretrained models, enabling the combination of models designed for different tasks without incurring additional training costs, and facilitating effective integration of knowledge from different datasets and tasks.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health integration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_004",
+      "value": 1
+    }
+  ]
+}

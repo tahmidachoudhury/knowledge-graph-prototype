@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects",
+      "label": "Afforestation and reforestation projects",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Which natural strategy for controlling CO2 concentration is mentioned in the paragraph?",
+      "answer": "Afforestation is mentioned as a natural strategy for controlling CO2 concentration by utilizing natural enzymes in the photosynthesis process.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Afforestation and reforestation projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the potential advantage of using microalgae for CO2 sequestration compared to traditional afforestation?",
+      "answer": "Microalgae can capture CO2 10 to 50 times more efficiently than terrestrial plants, thus reducing the extensive land use required for traditional afforestation practices.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Afforestation and reforestation projects",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects_qna_001",
+      "value": 1
+    }
+  ]
+}

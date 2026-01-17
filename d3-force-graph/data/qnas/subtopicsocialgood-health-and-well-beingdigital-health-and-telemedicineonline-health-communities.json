@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Online health communities",
+      "label": "Online health communities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Online health communities_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What platform was used to create the online survey for HIA research?",
+      "answer": "The Qualtrics platform was used to develop the short anonymous self-administered online survey.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Online health communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Online health communities_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Where can supplementary information related to the study be found?",
+      "answer": "Supplementary information can be found online at the provided DOI link: https://doi.org/10.1007/s10980-25-2065-5.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Online health communities",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Online health communities",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Online health communities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Online health communities",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Online health communities_qna_001",
+      "value": 1
+    }
+  ]
+}

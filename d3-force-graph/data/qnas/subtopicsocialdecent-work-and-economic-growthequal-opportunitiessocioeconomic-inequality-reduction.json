@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Equal opportunities|Socioeconomic inequality reduction",
+      "label": "Socioeconomic inequality reduction",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Equal opportunities"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Equal opportunities|Socioeconomic inequality reduction_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is the issue of socioeconomic disparities important in the context of sustainability policies?",
+      "answer": "Socioeconomic disparities complicate efforts to implement uniform sustainability policies as different groups prioritize their immediate economic needs over environmental concerns.",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Equal opportunities",
+      "subtopic": "Socioeconomic inequality reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Equal opportunities|Socioeconomic inequality reduction",
+      "target": "Subtopic:Social|Decent work and economic growth|Equal opportunities|Socioeconomic inequality reduction_qna_000",
+      "value": 1
+    }
+  ]
+}

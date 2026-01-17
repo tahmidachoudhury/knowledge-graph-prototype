@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation",
+      "label": "Influence on ocean circulation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of total precipitation over Arctic land areas is constituted by oceanic precipitation?",
+      "answer": "Oceanic precipitation constitutes about 60% of total precipitation over Arctic land areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Influence on ocean circulation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main focus of the research mentioned in the paragraph?",
+      "answer": "The main focus is on the impact of precipitation by changing atmospheric circulation and its influence on sea ice reduction in the Arctic, particularly regarding extreme weather events and the hydrological cycle.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Influence on ocean circulation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How might a shift in precipitation patterns in the Arctic impact the environment?",
+      "answer": "It can affect Arctic hydrology by melting glaciers and ice caps, which influences ocean circulation and weather patterns, contributing to sea level rise.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Influence on ocean circulation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_002",
+      "value": 1
+    }
+  ]
+}

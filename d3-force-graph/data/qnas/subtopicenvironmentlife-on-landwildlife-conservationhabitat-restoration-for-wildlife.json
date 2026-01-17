@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Habitat restoration for wildlife",
+      "label": "Habitat restoration for wildlife",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Habitat restoration for wildlife_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What should be done to support the habitat needs of breeding lapwings according to the study?",
+      "answer": "Restored wetlands must be well managed, and attention should be given to intrafield heterogeneity, potentially by increasing bare ground patches.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Habitat restoration for wildlife",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Habitat restoration for wildlife",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Habitat restoration for wildlife_qna_000",
+      "value": 1
+    }
+  ]
+}

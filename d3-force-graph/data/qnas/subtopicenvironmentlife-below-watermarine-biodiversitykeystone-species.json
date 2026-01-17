@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species",
+      "label": "Keystone species",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are some notable herbivores found in the local fauna mentioned in the paragraph?",
+      "answer": "Notable herbivores include the African buffalo, waterbuck, plains zebra, blue wildebeest, eland, and impala.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Keystone species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which indicator species was found to be the most critical for M. aculeata populations?",
+      "answer": "Aconitum heterophyllum was found to be the most critical indicator species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Keystone species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are small felids important for in ecosystems?",
+      "answer": "Small felids play crucial ecological roles in the trophic structure of ecosystems and can act as apex predators when larger carnivores are removed.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Keystone species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What selective pressures impact the fitness of organisms according to the paragraph?",
+      "answer": "Interactions with prey, predators, and conspecifics impose selective pressures on phenotypes, impacting the fitness of organisms.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Keystone species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How was competition defined in this study?",
+      "answer": "Competition was defined as the proportion of trait overlap between species, indicating similar habitat and food preferences.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Keystone species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Keystone species_qna_004",
+      "value": 1
+    }
+  ]
+}

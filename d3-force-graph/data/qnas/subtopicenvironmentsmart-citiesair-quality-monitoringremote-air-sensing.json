@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Remote air sensing",
+      "label": "Remote air sensing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Remote air sensing_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the resolution of the pixels used in the study?",
+      "answer": "The resolution of the pixels used in the study was 2.5-arc-minute, approximately 5 km.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Remote air sensing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Remote air sensing_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What spatial resolution is recommended for data on pollutant concentrations and population distribution?",
+      "answer": "A spatial resolution of 1 km x 1 km or finer is recommended for appropriate estimates.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Remote air sensing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Remote air sensing",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Remote air sensing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Remote air sensing",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Remote air sensing_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Solar photovoltaic technologies",
+      "label": "Solar photovoltaic technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Solar photovoltaic technologies_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of dyes are commonly used in dye-sensitive solar cells?",
+      "answer": "Dyes used in dye-sensitive solar cells are typically categorized into two types: metal-based and metal-free dyes.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Solar photovoltaic technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Solar photovoltaic technologies",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Solar photovoltaic technologies_qna_000",
+      "value": 1
+    }
+  ]
+}

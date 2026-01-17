@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration",
+      "label": "Riverine habitat restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the main focus of the study conducted by Munyai and colleagues?",
+      "answer": "The study focused on assessing the macroinvertebrate community structure in relation to water and sediment chemistry in a subtropical African river system.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Riverine habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What habitats were sampled along the transect?",
+      "answer": "The habitats sampled included pools, bedrock, littoral/riparian vegetation/macrophytes, stones in current, stones out of current, rapids/riffles, gravel, sand, and mud.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Riverine habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What challenge is highlighted regarding hydromorphological restoration despite advances in wastewater treatment?",
+      "answer": "The challenge is that hydromorphological restoration often falls short of achieving ecological recovery despite substantial advances in water quality.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Riverine habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of empirical studies support the shifts from abiotic to biotic controls in community structure?",
+      "answer": "Empirical studies examining the influence of abiotic and biotic factors on stream macroinvertebrate communities and the role of connectivity and seasonality in stream restoration support these shifts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Riverine habitat restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Riverine habitat restoration_qna_003",
+      "value": 1
+    }
+  ]
+}

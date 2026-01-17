@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Biological treatment processes",
+      "label": "Biological treatment processes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Biological treatment processes_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are some examples of biologic methods used for wastewater treatment?",
+      "answer": "Some examples of biologic methods used for wastewater treatment are activated sludge, membrane bioreactors, and sequential batch reactors.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Biological treatment processes",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Biological treatment processes",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Biological treatment processes_qna_000",
+      "value": 1
+    }
+  ]
+}

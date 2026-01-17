@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials",
+      "label": "Advancements in solar panel materials",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What component serves as the working electrode in a dye-sensitive solar cell?",
+      "answer": "A thin layer of nanocrystalline TiO2 serves as the working electrode in a dye-sensitive solar cell.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Advancements in solar panel materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role does the N3 dye play in DSSCs?",
+      "answer": "The N3 dye, a ruthenium complex, is a popular adsorption sensitizer on nanocrystalline TiO2 surfaces that collects and transports photoelectrons, contributing to high photovoltaic performance.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Advancements in solar panel materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is the mesoporous structure of nanocrystalline TiO2 anodes important in DSSCs?",
+      "answer": "The mesoporous structure of the nanocrystalline TiO2 anode is important because it promotes dye diffusion and adsorption, facilitates incident light flow and brightness, and enhances the efficiency of electron transmission.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Advancements in solar panel materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technique has been proven to increase the visible light capture capabilities of DSSCs?",
+      "answer": "Co-sensitization with additional dyes for panchromatic engineering is the proven technique.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Advancements in solar panel materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the effects of heptyl and ethyl carbazole when added to the bridged system in relation to the bandgap and electro-chemical features?",
+      "answer": "The addition of heptyl and ethyl carbazole minimizes the bandgap and boosts the electro-chemical, optical, and photovoltaic features.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Advancements in solar panel materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What spectroscopic technique was employed to analyze the components and functional groups of the materials?",
+      "answer": "Fourier Transform Infrared Spectroscopy (FTIR) was used to analyze the components and functional groups of the materials.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Advancements in solar panel materials",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Advancements in solar panel materials_qna_005",
+      "value": 1
+    }
+  ]
+}

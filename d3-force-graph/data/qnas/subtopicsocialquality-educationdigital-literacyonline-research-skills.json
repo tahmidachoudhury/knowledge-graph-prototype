@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Online research skills",
+      "label": "Online research skills",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Online research skills_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What steps were involved in the literature search strategy described in the methodology?",
+      "answer": "The steps included identifying databases and search terms, screening articles, categorizing selected articles, and synthesizing and analyzing the articles.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy",
+      "subtopic": "Online research skills",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Online research skills_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many studies were identified from the three search engines?",
+      "answer": "A total of 2696 studies were identified from the three search engines.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy",
+      "subtopic": "Online research skills",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Online research skills_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Where can the supplementary material for the study be found?",
+      "answer": "The supplementary material is available online at https://doi.org/10.1007/s10530-25-3536-1.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy",
+      "subtopic": "Online research skills",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Online research skills_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Did the research include specific date limits for the literature search?",
+      "answer": "No, the literature search was conducted with no date limits.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy",
+      "subtopic": "Online research skills",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Digital literacy|Online research skills",
+      "target": "Subtopic:Social|Quality education|Digital literacy|Online research skills_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Digital literacy|Online research skills",
+      "target": "Subtopic:Social|Quality education|Digital literacy|Online research skills_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Digital literacy|Online research skills",
+      "target": "Subtopic:Social|Quality education|Digital literacy|Online research skills_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Digital literacy|Online research skills",
+      "target": "Subtopic:Social|Quality education|Digital literacy|Online research skills_qna_003",
+      "value": 1
+    }
+  ]
+}

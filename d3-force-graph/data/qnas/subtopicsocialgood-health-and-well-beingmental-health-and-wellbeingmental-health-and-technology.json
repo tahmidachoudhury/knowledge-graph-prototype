@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Mental health and technology",
+      "label": "Mental health and technology",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Mental health and technology_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the three primary barriers in household demand-side management (DSM) programs identified by the authors?",
+      "answer": "The three primary barriers identified are: 1) the perceived tension between DSM technology as a masculine domain and the home as a feminine domain; 2) the challenges low-income households face in accessing the necessary technology; and 3) the insufficient consideration of disparities in opportunities for youth and the elderly to participate in DSM programs.",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Mental health and wellbeing",
+      "subtopic": "Mental health and technology",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Mental health and technology",
+      "target": "Subtopic:Social|Good health and well-being|Mental health and wellbeing|Mental health and technology_qna_000",
+      "value": 1
+    }
+  ]
+}

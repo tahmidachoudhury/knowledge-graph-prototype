@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods",
+      "label": "Companion planting methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Did earlier studies investigate the effects of host-plant nitrogen fertilization across altitudes?",
+      "answer": "No, earlier studies have not investigated the effects of host-plant nitrogen fertilization across altitudes.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Companion planting methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the two levels of nitrogen fertilization used in the host plant treatments?",
+      "answer": "The two levels of nitrogen fertilization were low and high levels of nitrogen, with the high level mimicking those typically used in modern agriculture.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Companion planting methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many host plants were grown per treatment in the experiment?",
+      "answer": "A total of 200 host plants were grown per treatment.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Companion planting methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Companion planting methods_qna_002",
+      "value": 1
+    }
+  ]
+}

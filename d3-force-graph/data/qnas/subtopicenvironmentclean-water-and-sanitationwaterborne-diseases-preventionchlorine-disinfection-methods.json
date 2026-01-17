@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods",
+      "label": "Chlorine disinfection methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What method is proposed for treating first cut SPL?",
+      "answer": "The proposed method involves a high temperature and low-pressure treatment for the removal of fluoride-rich electrolyte remains from the first cut SPL.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Chlorine disinfection methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the options mentioned for reducing microbial load?",
+      "answer": "The options mentioned for reducing microbial load are disinfection and sterilization.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Chlorine disinfection methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods are preferred for disinfection, and why?",
+      "answer": "Physical methods are preferred for disinfection because they are safer, more reliable, and environmentally and toxicologically safer than chemical methods.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Chlorine disinfection methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some chemical and chemical-free methods used by silk farms to protect silkworms from disease, and what are the potential environmental consequences of using certain chemicals?",
+      "answer": "Silk farms may use disinfectants such as lime, formaldehyde, or chlorine, which can have environmental impacts. Alternatively, chemical-free options like hot-air sterilization, steaming, and sun drying are available. The use of metallic salts for weighted silk can lead to toxic wastewater generation and intoxication of the silk fibre.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Chlorine disinfection methods",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Chlorine disinfection methods_qna_003",
+      "value": 1
+    }
+  ]
+}

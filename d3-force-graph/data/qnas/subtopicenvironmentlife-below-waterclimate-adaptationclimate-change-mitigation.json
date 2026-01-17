@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation",
+      "label": "Climate change mitigation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How are climate change pressures impacting governance levels in terms of policy alignment?",
+      "answer": "Climate change pressures are raising CO2 reduction to the highest priority level, alongside 'congestion reduction', at all levels of governance, leading to better alignment of policy aims across different governance levels.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate change mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How does adaptation differ from mitigation when addressing pollution damage?",
+      "answer": "Adaptation measures are aimed at reducing the adverse effects of accumulated pollution, while mitigation focuses on curtailing pollution emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate change mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the distinction between mitigation and adaptation in the context of climate agreements according to the cited literature?",
+      "answer": "Mitigation is considered a public good, while adaptation is viewed as a private good affecting only the host country's welfare, although some studies suggest it may have public good characteristics as well.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate change mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the focus of the Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change?",
+      "answer": "The focus of the Contribution of Working Group III is on the mitigation of climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate change mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_004",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are some fundamental factors contributing to the generation of greenhouse gases?",
+      "answer": "The identification of fundamental factors contributing to the generation of greenhouse gases is essential for addressing climate change (Rain, 2023f).",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate change mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main inducing factor of climate change mentioned in the paragraph?",
+      "answer": "The main inducing factor of climate change mentioned is carbon emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate change mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate change mitigation_qna_005",
+      "value": 1
+    }
+  ]
+}

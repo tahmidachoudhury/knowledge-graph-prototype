@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Socioeconomic benefits of reforestation",
+      "label": "Socioeconomic benefits of reforestation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Socioeconomic benefits of reforestation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What do European forests exhibit in terms of settings?",
+      "answer": "European forests exhibit diverse biophysical and socioeconomic settings.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Socioeconomic benefits of reforestation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Socioeconomic benefits of reforestation",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Socioeconomic benefits of reforestation_qna_000",
+      "value": 1
+    }
+  ]
+}

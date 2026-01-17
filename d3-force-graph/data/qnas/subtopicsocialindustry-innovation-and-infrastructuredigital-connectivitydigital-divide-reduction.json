@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Digital divide reduction",
+      "label": "Digital divide reduction",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Digital divide reduction_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is considered the best alternative to reduce non-productive human activities domestically?",
+      "answer": "Information and communication technology (ICT) is considered the best alternative to reduce non-productive human activities domestically.",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Digital divide reduction",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Digital divide reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Digital divide reduction_qna_000",
+      "value": 1
+    }
+  ]
+}

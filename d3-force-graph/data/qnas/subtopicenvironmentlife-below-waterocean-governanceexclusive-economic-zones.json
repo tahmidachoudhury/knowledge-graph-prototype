@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones",
+      "label": "Exclusive economic zones",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What autonomous region of Portugal comprises Madeira and Porto Santo?",
+      "answer": "The Madeira Archipelago is the autonomous region that comprises Madeira and Porto Santo.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "Exclusive economic zones",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the focus of the paper related to fish stocks?",
+      "answer": "The paper focuses on transboundary fish stocks that distribute across two or more exclusive economic zones (EEZs) due to adult movement or larval dispersal.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "Exclusive economic zones",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In which provinces of China have the ETS pilots been launched since 2013?",
+      "answer": "The ETS pilots have been launched in Shenzhen, Shanghai, Beijing, Guangdong, Tianjin, Hubei, Chongqing, and Fujian provinces.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "Exclusive economic zones",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|Exclusive economic zones_qna_002",
+      "value": 1
+    }
+  ]
+}

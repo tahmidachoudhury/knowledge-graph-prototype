@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification monitoring techniques",
+      "label": "Ocean acidification monitoring techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification monitoring techniques_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods were used to analyze the sediment samples after processing?",
+      "answer": "The sediment samples were analyzed for pH, resistivity, various metals, and sediment organic carbon using an inductively coupled plasma atomic emission spectroscopy (ICPMS) instrument.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Ocean acidification monitoring techniques",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification monitoring techniques",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification monitoring techniques_qna_000",
+      "value": 1
+    }
+  ]
+}

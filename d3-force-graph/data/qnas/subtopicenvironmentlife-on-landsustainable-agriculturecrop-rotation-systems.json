@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems",
+      "label": "Crop rotation systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What were the two crop rotation systems used in the modeling?",
+      "answer": "The two crop rotation systems used in the modeling were 500 hectares each, with one included in the LCA, dedicated to the cultivation of spring barley with under-sown cover crops (rotation 1).",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Crop rotation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of cropping systems were evaluated in the study?",
+      "answer": "The evaluated cropping systems included a low-diversified rotation of lentil-wheat-lentil-wheat, a moderately diversified rotation of pea-wheat-lentil-wheat, a highly diversified rotation of pea-mustard-lentil-wheat, and a wheat monocrop control.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Crop rotation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How long did the crop rotation study last, and when was it conducted?",
+      "answer": "The crop rotation study lasted 8 years and was conducted from 2010 to 2017.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Crop rotation systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Crop rotation systems_qna_002",
+      "value": 1
+    }
+  ]
+}

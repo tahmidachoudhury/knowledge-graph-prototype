@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration",
+      "label": "Soil microbial community restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the primary purpose of the study described in the abstract?",
+      "answer": "The primary purpose was to investigate how different organic and inorganic fertilization regimes affect the temporal stability of microbial communities in the rhizosphere of sorghum at various growth stages.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Soil microbial community restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What findings were reported regarding the stability of microbial communities in organic manure treatments?",
+      "answer": "The findings indicated that microbial co-occurrence networks in organic manure treatments were more robust, suggesting greater stability of microbial community temporal variation in organically fertilized soils.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Soil microbial community restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is understanding microbial community stability important?",
+      "answer": "Understanding microbial community stability is important because it contributes to the prediction of shifts in ecosystem functions in response to climate change and agricultural management practices.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Soil microbial community restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What concept describes a microbial community's higher ability to resist and recover from disturbances?",
+      "answer": "The concept that describes this ability is known as microbiome stability.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Soil microbial community restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What ecological processes do soil bacteria contribute to that are critical for life on Earth?",
+      "answer": "Nitrogen and carbon cycling.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Soil microbial community restoration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Soil microbial community restoration_qna_004",
+      "value": 1
+    }
+  ]
+}

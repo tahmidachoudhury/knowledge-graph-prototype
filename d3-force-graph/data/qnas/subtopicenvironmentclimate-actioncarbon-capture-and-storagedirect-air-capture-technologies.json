@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies",
+      "label": "Direct air capture technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do the advanced energy-saving technologies discussed in the paragraph contribute to climate change?",
+      "answer": "They significantly reduce energy consumption and carbon emissions, thereby mitigating the impact of climate change.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Direct air capture technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the 13C isotopic composition of fossil fuels compared to historical background atmospheric CO2?",
+      "answer": "The 13C isotopic composition of fossil fuels is about 27, which is much lower than the historical background atmospheric CO2 average of approximately 6.5.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Direct air capture technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does amine-based absorption compare to other CO2 capture methods?",
+      "answer": "It demonstrates a high CO2 capture rate and efficiency compared to alternative methods such as adsorption, membrane, and cryogenic processes.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Direct air capture technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies_qna_003",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What are the key concepts and advanced structures involved in artificial leaf technology for light-driven CO2 reduction?",
+      "answer": "Artificial leaf technology for light-driven CO2 reduction involves basic concepts, advanced structures, and selective solar-to-chemical products. It aims to mimic natural photosynthesis and convert sunlight into chemical energy, like fuels or other value-added products.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Direct air capture technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "According to the findings, which has a larger explanatory power for CO2 emissions: selected economic variables or common economic factors using the 2SKF procedure?",
+      "answer": "The explanatory power of selected economic variables is larger than that of common economic factors when extracted using the 2SKF procedure.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Direct air capture technologies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Direct air capture technologies_qna_004",
+      "value": 1
+    }
+  ]
+}

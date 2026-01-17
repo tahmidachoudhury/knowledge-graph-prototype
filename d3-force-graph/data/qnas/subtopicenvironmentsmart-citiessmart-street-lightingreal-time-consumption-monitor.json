@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor",
+      "label": "Real-time consumption monitor",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What future mechanism does the research propose to monitor the effectiveness of energy optimization measures?",
+      "answer": "The research proposes establishing a long-term monitoring mechanism to continuously track residential buildings after adopting optimization measures to evaluate their actual effect.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Real-time consumption monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can the long-term effectiveness of optimization measures for residential buildings be evaluated?",
+      "answer": "A long-term monitoring mechanism can be established to continuously track residential buildings after the adoption of optimization measures to evaluate their actual effects.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Real-time consumption monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How did the Scarcity Malaga project in Spain reduce electricity consumption?",
+      "answer": "The Scarcity Malaga project in Spain reduced electricity consumption by 25% through efficiency improvements and the integration of demand monitoring and management systems.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Real-time consumption monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What indicators are used in the LED Analysis to prioritize inventory?",
+      "answer": "The LED Analysis uses consumption value as the basis for a production schedule and also considers inventory movement and sales as performance indicators to prioritize inventory effectively.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Real-time consumption monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "According to the paragraph, what do smart energy apps provide to users?",
+      "answer": "They offer context-specific feedback that allows users to track and reflect on their consumption patterns.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Real-time consumption monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_005",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What type of mechanism is proposed for future monitoring of residential buildings after optimization measures are adopted?",
+      "answer": "A long-term monitoring mechanism is proposed to continuously track residential buildings to evaluate the actual effect of optimization measures.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Real-time consumption monitor",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Real-time consumption monitor_qna_005",
+      "value": 1
+    }
+  ]
+}

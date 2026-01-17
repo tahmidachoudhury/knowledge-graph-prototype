@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Membrane filtration",
+      "label": "Membrane filtration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Membrane filtration_qna_000",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How does the performance of fouled NF membranes impact the treatment of textile dyeing wastewater?",
+      "answer": "Fouling of NF membranes can decrease water flux and increase energy consumption, impacting the overall efficiency of textile dyeing wastewater treatment.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Membrane filtration",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Membrane filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Membrane filtration_qna_000",
+      "value": 1
+    }
+  ]
+}

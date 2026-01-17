@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact",
+      "label": "Wind turbine noise and environmental impact",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How do noisy miners affect other bird species in urban settings?",
+      "answer": "Noisy miners have a negative influence on the presence of many other less aggressive species, potentially acting as a barrier to urban adaptors.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine noise and environmental impact",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some negative environmental challenges associated with wool fibre farming?",
+      "answer": "Some negative environmental challenges associated with wool fibre farming include careless shearing practices that can cause injury and pain to sheep, the use of chemical pesticides and insecticides, and the contamination of land and water from the discharge of these chemicals during wool processing.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine noise and environmental impact",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact_qna_002",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What is the impact of urban exploiters on urban adaptors in the context of bird populations?",
+      "answer": "Urban exploiters, like noisy miners, can negatively influence the presence of more vulnerable urban adaptors, potentially leading to declines in exerting pressure on the adaptability and survival of these species in urban environments.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine noise and environmental impact",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact_qna_003",
+      "group": "QnA",
+      "label": "Conservation",
+      "question": "How have urban exploiters and adaptors, such as noisy miners and fairywrens, been characterized differently in various Australian regions?",
+      "answer": "Noisy miners are described as urban exploiters in Queensland and the Australian Capital Territory, while in Melbourne they are characterized as urban adaptors; this variability highlights how urban conditions affect different bird species differently.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine noise and environmental impact",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine noise and environmental impact_qna_003",
+      "value": 1
+    }
+  ]
+}

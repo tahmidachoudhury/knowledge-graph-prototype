@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights",
+      "label": "Indigenous water rights",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How long have Indigenous Peoples in Australia cared for and managed surface and groundwater?",
+      "answer": "Indigenous Peoples in Australia have cared for and managed surface and groundwater for many thousands of generations, stretching back more than 65,000 years.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Indigenous water rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How long have Indigenous Peoples in Australia been managing surface and groundwater?",
+      "answer": "Indigenous Peoples in Australia have managed surface and groundwater for many thousands of generations, stretching back more than 65,000 years.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Indigenous water rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What are some key challenges facing the incorporation of Indigenous research methodologies into water planning in Australia?",
+      "answer": "The key challenges include government inaction, a limited number of Indigenous water practitioners, and the dominance of non-Indigenous researchers in the sector.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Indigenous water rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What are some challenges faced by Indigenous methodologies in water research in Australia?",
+      "answer": "The challenges include limited government action, a shortage of Indigenous water practitioners, and dominance of non-Indigenous researchers in the sector, which restricts the incorporation of Indigenous knowledge into water planning.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Indigenous water rights",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Indigenous water rights_qna_003",
+      "value": 1
+    }
+  ]
+}

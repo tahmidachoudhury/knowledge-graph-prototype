@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Government incentives for electric vehicles",
+      "label": "Government incentives for electric vehicles",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Government incentives for electric vehicles_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How were traditional fossil-fuel vehicles taxed differently after 2010 in the Netherlands?",
+      "answer": "After 2,010 a 'fee bate' system was implemented where low-emission vehicles received a tax discount or exemption, while high-emission vehicles were taxed extra based on their CO2 emissions.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "subtopic": "Government incentives for electric vehicles",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Government incentives for electric vehicles",
+      "target": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Government incentives for electric vehicles_qna_000",
+      "value": 1
+    }
+  ]
+}

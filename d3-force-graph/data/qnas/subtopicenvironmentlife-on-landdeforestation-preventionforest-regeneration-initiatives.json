@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest regeneration initiatives",
+      "label": "Forest regeneration initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest regeneration initiatives_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the focus of the Assisted Natural Forest Regeneration project in Zambia?",
+      "answer": "The project focuses on managing the natural regeneration of deforested areas by training local farmers in fire management and continuous monitoring to protect these areas.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest regeneration initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest regeneration initiatives_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main focus of the assisted natural forest regeneration project in Zambia?",
+      "answer": "The project aims to manage the natural regeneration of deforested areas by training local farmers in fire management and continuous monitoring to protect these areas, allowing for natural regrowth.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest regeneration initiatives",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest regeneration initiatives",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest regeneration initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest regeneration initiatives",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest regeneration initiatives_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Carbon-neutral construction practices",
+      "label": "Carbon-neutral construction practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Carbon-neutral construction practices_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What measures promote the adoption of low-carbon solutions in the industry according to the paragraph?",
+      "answer": "Demand-side measures such as sustainable construction practices, recycling, and green procurement policies promote industry-wide adoption of low-carbon solutions.",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Carbon-neutral construction practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Carbon-neutral construction practices",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Carbon-neutral construction practices_qna_000",
+      "value": 1
+    }
+  ]
+}

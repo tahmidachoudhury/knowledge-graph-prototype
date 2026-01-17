@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Community water management|Water user associations",
+      "label": "Water user associations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Community water management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Community water management|Water user associations_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the purpose of the associations formed for apitherapy in Western Europe?",
+      "answer": "The associations primarily share apitherapy knowledge among physicians, beekeepers, and the general public.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Community water management",
+      "subtopic": "Water user associations",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Community water management|Water user associations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Community water management|Water user associations_qna_000",
+      "value": 1
+    }
+  ]
+}

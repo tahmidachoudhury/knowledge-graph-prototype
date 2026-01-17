@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coastal habitat creation",
+      "label": "Coastal habitat creation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Coastal habitat creation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of habitat does Gongolaria barbata help create?",
+      "answer": "Gongolaria barbata shapes the substrate by creating a 3-D habitat that hosts an important associated faunal and algal community.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Coastal habitat creation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Coastal habitat creation",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Coastal habitat creation_qna_000",
+      "value": 1
+    }
+  ]
+}

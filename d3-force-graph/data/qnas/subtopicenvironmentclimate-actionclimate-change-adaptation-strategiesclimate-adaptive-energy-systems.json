@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems",
+      "label": "Climate-adaptive energy systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What might be revealed through the critical sustainability science approach regarding sustainability transitions and transformations?",
+      "answer": "It can reveal structural processes that can advance or impede sustainability transitions and transformations.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Climate-adaptive energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the term \"sustainability transitions\" refer to in contemporary sustainability science?",
+      "answer": "\"Sustainability transitions\" refers to the transformations that are essential for moving towards sustainable practices and addresses the critical analysis of prevailing social orders and assumptions.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Climate-adaptive energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems_qna_002",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How can alternative futures be used as a design method for sustainability transitions, as suggested by Angelou, Chaudhary, and Sheldrick?",
+      "answer": "Angelou, Chaudhary, and Sheldrick propose using alternative futures as a design method for sustainability transitions, enabling designers to explore and envision diverse scenarios and solutions to address present and future sustainability challenges.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Climate-adaptive energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the key difference in renewable penetration between the power sector and the heating sector in Scenario 3?",
+      "answer": "In Scenario 3, renewable penetration is higher in the power sector but limited in the heating sector, indicating the need for progress in energy transition for heating.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Climate-adaptive energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems_qna_004",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is Norway considered an optimal environment for this inquiry into smart energy technologies?",
+      "answer": "Norway's position as a global leader in deploying smart energy technologies, along with its unique socio-technical context, makes it an optimal environment for this inquiry.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate change adaptation strategies",
+      "subtopic": "Climate-adaptive energy systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems",
+      "target": "Subtopic:Environment|Climate action|Climate change adaptation strategies|Climate-adaptive energy systems_qna_004",
+      "value": 1
+    }
+  ]
+}

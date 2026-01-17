@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Government subsidies",
+      "label": "Government subsidies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Government subsidies_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is there a scarcity of comprehensive global overviews of subsidies according to the paragraph?",
+      "answer": "There is a scarcity of comprehensive global overviews of subsidies because most organizations concentrate on specific sectors or operate within a limited regional scope.",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "subtopic": "Government subsidies",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Finance accessibility|Government subsidies",
+      "target": "Subtopic:Social|No poverty|Finance accessibility|Government subsidies_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural bias in education",
+      "label": "Cultural bias in education",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural bias in education_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are cultural biases according to the paragraph?",
+      "answer": "Cultural biases are shared fundamental values and beliefs about human and physical nature related to social relations, including values like equality, freedom, order, and good/bad luck.",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Cultural bias in education",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Cultural bias in education",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Cultural bias in education_qna_000",
+      "value": 1
+    }
+  ]
+}

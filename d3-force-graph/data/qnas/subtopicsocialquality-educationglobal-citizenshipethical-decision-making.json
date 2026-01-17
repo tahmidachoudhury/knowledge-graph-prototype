@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making",
+      "label": "Ethical decision-making",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Who granted ethical approval for the study?",
+      "answer": "Ethical approval was granted by the Social Sciences Ethics Committee of Wageningen University.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Ethical decision-making",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do ethical beliefs influence people's actions in relevant ethical situations?",
+      "answer": "Ethical beliefs can influence individuals' actions and judgment in ethical situations. They are relevant in understanding individual ethical consumption and environmental ethics, as they can impact decision-making and behaviour in such contexts.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Ethical decision-making",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some criticisms of decision structure nudges in digital environments?",
+      "answer": "Decision structure nudges in digital environments have been criticized for their short-term and contextual effects and for the ethical implications of potentially limiting an individual's choice radius.",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Ethical decision-making",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_002",
+      "value": 1
+    }
+  ]
+}

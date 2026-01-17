@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Seafood processing",
+      "label": "Seafood processing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Seafood processing_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can presenting cell-based meat and seafood as unprocessed and whole help change consumer perceptions?",
+      "answer": "By presenting CBM/S as steaks or fish fillets, negative perceptions around over-processing can be reduced, potentially improving acceptance.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Seafood processing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Seafood processing_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which stages are analyzed in the value chain of seafood?",
+      "answer": "The stages analyzed include catching, distribution, processing, and commercialization of seafood.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Seafood processing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Seafood processing_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the value chain module describe in relation to seafood products?",
+      "answer": "The value chain module describes the flow of seafood products from fishers to consumers, including the associated revenues, costs, salaries, and employment for all stakeholders in the value chain.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Seafood processing",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Seafood processing",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Seafood processing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Seafood processing",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Seafood processing_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Seafood processing",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Seafood processing_qna_002",
+      "value": 1
+    }
+  ]
+}

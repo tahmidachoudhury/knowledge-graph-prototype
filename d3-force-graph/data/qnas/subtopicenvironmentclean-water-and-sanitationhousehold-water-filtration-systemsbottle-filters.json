@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Household water filtration systems|Bottle filters",
+      "label": "Bottle filters",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Household water filtration systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Household water filtration systems|Bottle filters_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of drinks were included in the UPF categories?",
+      "answer": "The types of drinks included in the UPF categories are Carbonated soft drinks, Functional Bottled Water, Flavoured Bottled Water, Juice drinks, Nectars, Ready to drink Coffee, Ready to drink Tea, Asian speciality drinks, Sports drinks, Energy drinks, and Flavoured Powder Drinks.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Household water filtration systems",
+      "subtopic": "Bottle filters",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Household water filtration systems|Bottle filters",
+      "target": "Subtopic:Environment|Clean water and sanitation|Household water filtration systems|Bottle filters_qna_000",
+      "value": 1
+    }
+  ]
+}

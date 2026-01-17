@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic inclusivity",
+      "label": "Economic inclusivity",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic inclusivity_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What perspective do orthodox economists generally take towards alternative currencies?",
+      "answer": "Orthodox economists typically view alternative currencies as neutral from both economic and social perspectives, focusing on a functional and technical approach without considering political aspects.",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Economic inclusivity",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic inclusivity",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Economic inclusivity_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Carbon sequestration planting",
+      "label": "Carbon sequestration planting",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Carbon sequestration planting_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors are expected to affect live carbon storage per unit leaf area according to the text?",
+      "answer": "Live carbon storage per unit leaf area is expected to be affected by species composition, tree age, site type, and stand-growth dynamics.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Carbon sequestration planting",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Carbon sequestration planting",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Carbon sequestration planting_qna_000",
+      "value": 1
+    }
+  ]
+}

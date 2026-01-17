@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures",
+      "label": "Road ecology measures",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main consequence of urban expansion on kangaroos mentioned in the paragraph?",
+      "answer": "The main consequence is increased human-kangaroo conflict, particularly vehicle-kangaroo interactions, which contribute to mortality in these landscapes.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Road ecology measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does proximity to roads affect limb length in amphibians based on the findings from the study?",
+      "answer": "Proximity to roads exerts selection pressure resulting in shorter hind limbs in Lissotriton helveticus individuals observed near dense road networks, possibly due to the counter-selection of more mobile individuals with longer limbs.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Road ecology measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How are the Galapagos Yellow Warbler populations affected by human activity?",
+      "answer": "The Galapagos Yellow Warbler is one of the most impacted species by roadkill.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Road ecology measures",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_002",
+      "value": 1
+    }
+  ]
+}

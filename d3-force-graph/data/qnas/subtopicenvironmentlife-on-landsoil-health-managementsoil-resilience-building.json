@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building",
+      "label": "Soil resilience building",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What aspect of soil bacteria does the article emphasize in terms of ecosystem functionality?",
+      "answer": "The article emphasizes the vital role of soil bacteria in ecosystem resilience and resistance.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil resilience building",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the purpose of the findings from this research regarding soil health?",
+      "answer": "The findings offer a robust framework for soil protection policies and restoration strategies to enhance sustainability and ecosystem resilience.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil resilience building",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building_qna_001",
+      "value": 1
+    }
+  ]
+}

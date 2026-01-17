@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Industrial energy management",
+      "label": "Industrial energy management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Industrial energy management_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which explanatory variable was highlighted in the SADFM model as significant for the explanatory power?",
+      "answer": "Industrial Production (IP) was highlighted as a significant explanatory variable in the SADFM model.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Industrial energy management",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Industrial energy management",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Industrial energy management_qna_000",
+      "value": 1
+    }
+  ]
+}

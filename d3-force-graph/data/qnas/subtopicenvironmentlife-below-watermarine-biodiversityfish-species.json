@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species",
+      "label": "Fish species",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is freshwater biota in Southeast Asia receiving less attention and investment?",
+      "answer": "It receives less attention and investment compared to terrestrial, marine, or temperate counterparts.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fish species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What region is highlighted as having critical socioeconomic and cultural roles for freshwater environments?",
+      "answer": "Southeast Asia (SEA).",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fish species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of data was used to assess the fundamental niche of D. rotundus?",
+      "answer": "The assessment of D. rotundus's fundamental niche used only abiotic climate data as background environmental variables.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fish species",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_002",
+      "value": 1
+    }
+  ]
+}

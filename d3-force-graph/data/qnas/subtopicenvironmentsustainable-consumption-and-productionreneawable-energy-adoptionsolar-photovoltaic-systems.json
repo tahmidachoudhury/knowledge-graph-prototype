@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems",
+      "label": "Solar photovoltaic systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is solar power considered a promising source of clean energy?",
+      "answer": "Solar power is considered promising because it does not release harmful byproducts into the atmosphere and has an abundant and environmentally friendly supply.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Solar photovoltaic systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How have photovoltaic panels been shown to impact electricity needs according to the studies mentioned?",
+      "answer": "Photovoltaic panels can significantly meet electricity needs.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Solar photovoltaic systems",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems_qna_001",
+      "value": 1
+    }
+  ]
+}

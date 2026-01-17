@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Altered ocean currents",
+      "label": "Altered ocean currents",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Altered ocean currents_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What has limited research on the physical mechanisms behind MHWs in estuaries?",
+      "answer": "Research has been limited due to the lack of continuous, long-term in-situ data to explore these physical mechanisms.",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Altered ocean currents",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Altered ocean currents",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Altered ocean currents_qna_000",
+      "value": 1
+    }
+  ]
+}

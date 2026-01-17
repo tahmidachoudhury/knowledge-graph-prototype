@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring",
+      "label": "Environmental health monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What criteria were used to exclude studies during the full article screening?",
+      "answer": "Studies were excluded if they did not report original research, did not use quantitative environmental assessment methodologies, or if the healthcare devices covered were not electronic.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Environmental health monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the significance of the planetary health framework in relation to radiology?",
+      "answer": "The planetary health framework emphasizes that the health of humans and all living species is interconnected with the environment, demonstrating the need for sustainable radiological practices for overall health.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Environmental health monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was a significant finding regarding the existing indicators and their application?",
+      "answer": "A general application linking ecosystem health and human health risks has not been established despite the development of several indicators.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Environmental health monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of indicators are mentioned in the paragraph?",
+      "answer": "The indicators mentioned are cross-sectoral indicators commonly reported on by different government departments such as health, treasury, education, labour, and environment.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Environmental health monitoring",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Environmental health monitoring_qna_003",
+      "value": 1
+    }
+  ]
+}

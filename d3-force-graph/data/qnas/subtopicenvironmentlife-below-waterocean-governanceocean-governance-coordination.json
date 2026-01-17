@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance coordination",
+      "label": "Ocean governance coordination",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance coordination_qna_000",
+      "group": "QnA",
+      "label": "Governance and participation",
+      "question": "How do the various governance concepts relate to each other despite their differences?",
+      "answer": "Despite differences in detail, there remains a strong affinity between the concepts as they share a common fundamental idea regarding governance as a matter of development and coordination among different participants.",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean governance",
+      "subtopic": "Ocean governance coordination",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance coordination",
+      "target": "Subtopic:Environment|Life below water|Ocean governance|Ocean governance coordination_qna_000",
+      "value": 1
+    }
+  ]
+}

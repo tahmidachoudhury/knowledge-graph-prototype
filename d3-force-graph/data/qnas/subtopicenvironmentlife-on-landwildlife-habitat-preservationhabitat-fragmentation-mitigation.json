@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation",
+      "label": "Habitat fragmentation mitigation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are large-bodied terrestrial mammals particularly vulnerable to negative genetic outcomes?",
+      "answer": "They are particularly reliant on remnant green spaces due to their extensive home ranges, making them more susceptible to the effects of habitat fragmentation.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat fragmentation mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does anthropogenic change affect natural habitats?",
+      "answer": "Anthropogenic changes transform natural habitats into modified environments and intensify land use, leading to habitat fragmentation and deforestation, which results in biodiversity loss.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat fragmentation mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the relationship between habitat loss or fragmentation and urban birds?",
+      "answer": "Habitat loss or fragmentation effects on urban birds are associated with the type of peri-urban matrix, where woodland cover helps sustain different forest species.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat fragmentation mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What human activities contribute to habitat fragmentation in marine ecosystems?",
+      "answer": "Human activities and environmental disturbances drive habitat fragmentation by dividing ecosystems into smaller, isolated patches.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat fragmentation mitigation",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat fragmentation mitigation_qna_003",
+      "value": 1
+    }
+  ]
+}

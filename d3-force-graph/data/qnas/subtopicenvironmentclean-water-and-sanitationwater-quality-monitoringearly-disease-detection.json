@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Early disease detection",
+      "label": "Early disease detection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Early disease detection_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is the juvenile stage of COTS considered a \"black box\" in understanding outbreaks?",
+      "answer": "The early herbivorous juvenile stage of COTS is not well understood compared to the larval and adult stages, which are currently the focus of explanatory paradigms regarding outbreaks.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Early disease detection",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Early disease detection",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Early disease detection_qna_000",
+      "value": 1
+    }
+  ]
+}

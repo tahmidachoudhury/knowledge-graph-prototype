@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Composting and organic matter addition",
+      "label": "Composting and organic matter addition",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Composting and organic matter addition_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the nutrient sources mentioned for organic farming?",
+      "answer": "Nutrient sources in organic farming include agricultural waste, animal manure produced on the farm, and biological nitrogen fixation.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Composting and organic matter addition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Composting and organic matter addition_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "When were the applications of manure and straw performed?",
+      "answer": "The applications of manure and straw were performed following the crop harvest in the Autumn.",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable agricultural practices",
+      "subtopic": "Composting and organic matter addition",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Composting and organic matter addition",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Composting and organic matter addition_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Composting and organic matter addition",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable agricultural practices|Composting and organic matter addition_qna_001",
+      "value": 1
+    }
+  ]
+}

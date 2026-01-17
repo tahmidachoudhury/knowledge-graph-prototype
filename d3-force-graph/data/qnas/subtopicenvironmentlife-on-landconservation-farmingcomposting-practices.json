@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Composting practices",
+      "label": "Composting practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Composting practices_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was compared to the mono-digestion of cattle manure in the study?",
+      "answer": "The study compared mono-digestion of cattle manure to a baseline scenario of soil incorporation of residues.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Composting practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Composting practices_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did organic manure treatments compare to chemical fertilizer treatments in terms of microbial community diversity across growth stages?",
+      "answer": "Organic manure treatments resulted in less pronounced variation in microbial community diversity and structure across growth stages compared to the control and chemical fertilizer treatments.",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Composting practices",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Composting practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Composting practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Composting practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Composting practices_qna_001",
+      "value": 1
+    }
+  ]
+}

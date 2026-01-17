@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas",
+      "label": "Renewable energy for remote and vulnerable areas",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why are renewable energy technologies particularly beneficial for African countries?",
+      "answer": "They provide environmentally friendly solutions for electricity generation and address issues like limited energy access in remote areas, poverty, and climate change susceptibility.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Renewable energy for remote and vulnerable areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is a key challenge related to energy supply in the region discussed in the paragraph?",
+      "answer": "Weak energy infrastructure makes it difficult to provide centralized energy supply technology, leading to scarce conventional energy supply in towns and villages.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Renewable energy for remote and vulnerable areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What challenges does the Sichuan Plateau face regarding energy?",
+      "answer": "The Sichuan Plateau faces challenges such as a lack of conventional energy supply, weak energy infrastructure, and insufficient utilization of renewable energy.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Renewable energy for remote and vulnerable areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What opportunities exist for Somalia to improve its energy stability?",
+      "answer": "By diversifying its energy mix and utilizing its vast untapped renewable energy potential, including wind, solar, and hydroelectric resources, Somalia can leapfrog carbon-intensive development paths and reduce energy import costs.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Renewable energy for remote and vulnerable areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenges does the Sichuan Plateau face regarding energy supply and infrastructure?",
+      "answer": "The Sichuan Plateau faces challenges such as a lack of conventional energy supply, weak energy infrastructure, and insufficient utilization of renewable energy.",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Renewable energy for remote and vulnerable areas",
+      "difficulty": "intermediate",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Renewable energy for remote and vulnerable areas_qna_004",
+      "value": 1
+    }
+  ]
+}
