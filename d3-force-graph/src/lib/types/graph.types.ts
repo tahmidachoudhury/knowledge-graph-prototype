@@ -100,6 +100,6 @@ export interface QnasIndex {
  */
 export interface SubtopicQnaData {
   centerNode: { id: string; name: string };
-  qnaNodes: QnaNode[];
+  nodes: QnaNode[];
   links?: Array<{ source: string; target: string }>; // optional
 }

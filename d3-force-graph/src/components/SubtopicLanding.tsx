@@ -114,8 +114,6 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .append("circle")
       .attr("r", 20)
       .attr("fill", "#4FD1C5")
-      .attr("stroke", "#2C7A7B")
-      .attr("stroke-width", 2);
 
     // Optional: difficulty indicator
     qnaNodes
@@ -124,7 +122,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .attr("dy", 5)
       .attr("font-size", 12)
       .attr("fill", "white")
-      .text((d) => d.metadata.difficulty?.[0].toUpperCase() || "?");
+    // .text((d) => d.metadata.difficulty?.[0].toUpperCase() || "?");
 
     // Center subtopic node
     const centerNode = g
@@ -136,8 +134,6 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .append("circle")
       .attr("r", 60)
       .attr("fill", "#2C7A7B")
-      .attr("stroke", "#1A4D4D")
-      .attr("stroke-width", 3);
 
     centerNode
       .append("text")
@@ -169,6 +165,8 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       });
 
     svg.call(zoom as any);
+
+
 
     // Announce to screen readers
     const announcement = `Loaded ${data.qnaNodes.length} questions for ${data.centerNode.name}`;

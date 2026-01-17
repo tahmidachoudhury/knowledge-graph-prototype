@@ -24,12 +24,12 @@ export async function fetchQnasIndex(signal?: AbortSignal): Promise<QnasIndex> {
  * - supports { qnas: [...] } or { qnaNodes: [...] } or [...]
  */
 function extractQnas(payload: unknown): QnaNode[] {
-  if (Array.isArray(payload)) return payload as QnaNode[];
+  // if (Array.isArray(payload)) return payload as QnaNode[];
   if (payload && typeof payload === "object") {
     const obj = payload as any;
-    if (Array.isArray(obj.qnas)) return obj.qnas as QnaNode[];
-    if (Array.isArray(obj.qnaNodes)) return obj.qnaNodes as QnaNode[];
-    if (Array.isArray(obj.items)) return obj.items as QnaNode[];
+    // if (Array.isArray(obj.qnas)) return obj.qnas as QnaNode[];
+    if (Array.isArray(obj.nodes)) return obj.nodes as QnaNode[];
+    // if (Array.isArray(obj.items)) return obj.items as QnaNode[];
   }
   return [];
 }
@@ -49,7 +49,9 @@ export async function fetchSubtopicQnas(
   if (!res.ok) throw new Error(`Failed to load QnA file (${res.status})`);
 
   const payload = await res.json();
+  console.log(payload)
   const qnaNodes = extractQnas(payload);
+
 
   return {
     centerNode: { id: entry.id, name: entry.label },
