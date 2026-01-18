@@ -9,7 +9,7 @@ import {
   useParams,
 } from "react-router-dom";
 
-import  MainGraph from "./components/MainGraph";
+import MainGraph from "./components/MainGraph";
 import { SubtopicLanding } from "./components/SubtopicLanding";
 import { QnaDetailPanel } from "./components/QnaDetailPanel";
 
@@ -39,13 +39,13 @@ function SubtopicRoute() {
   if (!decodedId) return null;
 
   return (
-    <div className="h-screen w-screen">
-      <button
+    <div style={{ width: "100vw", height: "100vh", position: "relative", overflow: "hidden", }}>
+      {/* <button
         onClick={() => navigate("/")}
         className="fixed left-4 top-4 z-50 rounded bg-white px-4 py-2 text-sm font-semibold shadow"
       >
         ← Back
-      </button>
+      </button> */}
 
       <SubtopicLanding
         subtopicId={decodedId}
@@ -62,7 +62,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        
+
         <Route path="/" element={<MainRoute />} />
         <Route path="/subtopic/:subtopicId" element={<SubtopicRoute />} />
       </Routes>

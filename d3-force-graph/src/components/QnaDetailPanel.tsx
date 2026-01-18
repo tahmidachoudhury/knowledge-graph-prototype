@@ -56,12 +56,6 @@ export function QnaDetailPanel({ qna, onClose }: Props) {
         </div>
 
         <div className="mt-4 space-y-3 text-sm text-gray-800">
-          {qna.metadata?.difficulty && (
-            <div>
-              <span className="font-medium">Difficulty:</span>{" "}
-              <span>{qna.metadata.difficulty}</span>
-            </div>
-          )}
 
           {qna.answer ? (
             <div>

@@ -72,10 +72,6 @@ export interface QnaNode {
   id: string;
   question: string;
   answer?: string;
-  metadata: {
-    difficulty?: string; // e.g. "easy" | "medium" | "hard"
-    [key: string]: unknown;
-  };
   [key: string]: unknown;
 }
 

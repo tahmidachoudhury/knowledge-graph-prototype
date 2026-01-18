@@ -72,7 +72,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
 
     // Radial force simulation
     const simulation = d3
-      .forceSimulation(data.qnaNodes as any)
+      .forceSimulation(data.nodes as any)
       .force("radial", d3.forceRadial(300, centerX, centerY).strength(0.8))
       .force("collide", d3.forceCollide(30))
       .force("charge", d3.forceManyBody().strength(-50))
@@ -90,9 +90,9 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .attr("opacity", 0.3);
 
     // QnA nodes
-    const qnaNodes = g
+    const nodes = g
       .selectAll(".qna-node")
-      .data(data.qnaNodes)
+      .data(data.nodes)
       .join("g")
       .attr("class", "qna-node")
       .style("cursor", "pointer")
@@ -110,13 +110,13 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         }
       });
 
-    qnaNodes
+    nodes
       .append("circle")
       .attr("r", 20)
       .attr("fill", "#4FD1C5")
 
     // Optional: difficulty indicator
-    qnaNodes
+    nodes
       .append("text")
       .attr("text-anchor", "middle")
       .attr("dy", 5)
@@ -147,7 +147,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
 
     // Simulation tick
     simulation.on("tick", () => {
-      qnaNodes.attr("transform", (d: any) => `translate(${d.x}, ${d.y})`);
+      nodes.attr("transform", (d: any) => `translate(${d.x}, ${d.y})`);
 
       links
         .attr("x1", (d: any) => d.source.x)
@@ -169,7 +169,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
 
 
     // Announce to screen readers
-    const announcement = `Loaded ${data.qnaNodes.length} questions for ${data.centerNode.name}`;
+    const announcement = `Loaded ${data.nodes.length} questions for ${data.centerNode.name}`;
     const liveRegion = document.createElement("div");
     liveRegion.setAttribute("role", "status");
     liveRegion.setAttribute("aria-live", "polite");
@@ -211,8 +211,14 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         ref={svgRef}
         aria-label={`Questions about ${data?.centerNode.name}`}
         role="img"
+        style={{
+          width: "100vw",
+          height: "100vh",
+          overflow: "hidden",
+          position: "relative",
+        }}
       />
-      <div className="sr-only" role="status" aria-live="polite">
+      <div style={{ position: "fixed", bottom: 10, }} className="sr-only" role="status" aria-live="polite">
         Graph ready for interaction. Use Tab to navigate questions, Enter to
         select.
       </div>

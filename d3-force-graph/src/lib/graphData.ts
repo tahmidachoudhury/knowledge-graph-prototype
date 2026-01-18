@@ -23,16 +23,16 @@ export async function fetchQnasIndex(signal?: AbortSignal): Promise<QnasIndex> {
  * This loader tries to be robust:
  * - supports { qnas: [...] } or { qnaNodes: [...] } or [...]
  */
-function extractQnas(payload: unknown): QnaNode[] {
-  // if (Array.isArray(payload)) return payload as QnaNode[];
-  if (payload && typeof payload === "object") {
-    const obj = payload as any;
-    // if (Array.isArray(obj.qnas)) return obj.qnas as QnaNode[];
-    if (Array.isArray(obj.nodes)) return obj.nodes as QnaNode[];
-    // if (Array.isArray(obj.items)) return obj.items as QnaNode[];
-  }
-  return [];
-}
+// function extractQnas(payload: unknown): QnaNode[] {
+//   // if (Array.isArray(payload)) return payload as QnaNode[];
+//   if (payload && typeof payload === "object") {
+//     const obj = payload as any;
+//     // if (Array.isArray(obj.qnas)) return obj.qnas as QnaNode[];
+//     if (Array.isArray(obj.nodes)) return obj.nodes as QnaNode[];
+//     // if (Array.isArray(obj.items)) return obj.items as QnaNode[];
+//   }
+//   return [];
+// }
 
 export async function fetchSubtopicQnas(
   subtopicId: string,
@@ -45,17 +45,17 @@ export async function fetchSubtopicQnas(
     throw new Error(`Subtopic not found in QnA index: ${subtopicId}`);
   }
 
-  const res = await fetch(`/qnas/${entry.file}`, { signal });
+  const res = await fetch(`/qnas/${entry.file}`);
+  console.log(entry.file)
   if (!res.ok) throw new Error(`Failed to load QnA file (${res.status})`);
 
   const payload = await res.json();
-  console.log(payload)
-  const qnaNodes = extractQnas(payload);
+  // console.log(payload.nodes)
 
 
   return {
     centerNode: { id: entry.id, name: entry.label },
-    qnaNodes,
+    nodes: (payload?.nodes as any) ?? undefined,
     // if your per-subtopic file includes links, you can pass them through:
     links: (payload?.links as any) ?? undefined,
   };
