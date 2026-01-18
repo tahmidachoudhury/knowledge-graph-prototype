@@ -3,12 +3,11 @@
 import fs from "fs";
 import path from "path";
 import type {
-  RawQnaEntry,
   SubtopicNode,
   QnaNode,
   GraphLink,
   SubtopicQnaGraphData,
-} from "../src/types/graph.types";
+} from "../src/lib/types/graph.types";
 
 // ============================================================================
 // Configuration
@@ -46,7 +45,7 @@ function slugify(text: string): string {
 interface GroupedQnas {
   [subtopicId: string]: {
     subtopicNode: SubtopicNode;
-    qnas: RawQnaEntry[];
+    qnas: any[];
   };
 }
 
@@ -54,7 +53,7 @@ async function generateSubtopicQnaFiles(): Promise<void> {
   console.log("📊 Starting subtopic QnA generation...\n");
 
   // Read raw QnA data
-  const rawData: RawQnaEntry[] = JSON.parse(
+  const rawData: any[] = JSON.parse(
     fs.readFileSync(RAW_DATA_PATH, "utf-8")
   );
   console.log(`✓ Loaded ${rawData.length} QnA entries`);
@@ -141,6 +140,8 @@ async function generateSubtopicQnaFiles(): Promise<void> {
 
     grouped[subtopicId].qnas.push(entry);
   }
+  // To check the original payload from ./data/qna_enriched.json
+  // console.log(grouped["Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies"].qnas);
 
   const subtopicCount = Object.keys(grouped).length;
   console.log(`✓ Grouped into ${subtopicCount} subtopics\n`);
@@ -161,16 +162,15 @@ async function generateSubtopicQnaFiles(): Promise<void> {
       return {
         id: qnaId,
         group: "QnA",
-        label: qna.Question
-          ? qna.Question.slice(0, 50) + (qna.Question.length > 50 ? "..." : "")
-          : "no questions",
-        question: qna.Question,
-        answer: qna.Answer,
+        label: qna.Label || "",
+        question: qna.question,
+        answer: qna.answer,
         macroArea: group.subtopicNode.macroArea,
-        macrotopic: group.subtopicNode.macrotopic,
-        topic: group.subtopicNode.topic,
-        subtopic: group.subtopicNode.label,
-        difficulty: normalizeDifficulty(qna.Difficulty),
+        articlesourceurl: qna.articlesourceurl || "",
+        paragraph: qna.paragraph || "",
+        macrotopic: qna.Macrotopic,
+        topic: qna.Topic,
+        subtopic: qna.Subtopic,
         tags: qna.Tags || [],
         viewCount: qna.ViewCount || 0,
       };
@@ -204,9 +204,9 @@ async function generateSubtopicQnaFiles(): Promise<void> {
     );
 
     totalFilesGenerated++;
-    console.log(
-      `  ✓ ${filename} (${qnaNodes.length} QnAs, ${links.length} links)`
-    );
+    // console.log(
+    //   `  ✓ ${filename} (${qnaNodes.length} QnAs, ${links.length} links)`
+    // );
   }
 
   // Generate index file for reference
@@ -238,21 +238,6 @@ async function generateSubtopicQnaFiles(): Promise<void> {
 
   // Print statistics
   printStatistics(grouped);
-}
-
-// ============================================================================
-// Helper: Normalize Difficulty
-// ============================================================================
-
-function normalizeDifficulty(
-  difficulty: string | undefined
-): "beginner" | "intermediate" | "advanced" {
-  if (!difficulty) return "intermediate";
-
-  const lower = difficulty.toLowerCase();
-  if (lower.includes("beginner") || lower.includes("easy")) return "beginner";
-  if (lower.includes("advanced") || lower.includes("hard")) return "advanced";
-  return "intermediate";
 }
 
 // ============================================================================
