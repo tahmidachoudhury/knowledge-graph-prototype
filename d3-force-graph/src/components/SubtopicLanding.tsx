@@ -162,20 +162,9 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .attr("fill", "#2C7A7B")
 
 
-    // center node text
-    centerNode
-      .append("text")
-      .attr("text-anchor", "middle")
-      .attr("dy", 5)
-      .attr("fill", "white")
-      .attr("font-size", 14)
-      .attr("font-weight", "bold")
-      .text(data.centerNode.name)
-      .call(wrap, 100); // Text wrapping helper
-
     addWrappedLabelWithBackground(centerNode as any, {
       label: data.centerNode.name,
-      maxWidth: 100, // hard-coded, like your old wrap(text, 100)
+      maxWidth: 100, // hard-coded
       bgColor: "rgba(255, 255, 255, 0.85)",
       textColor: "#0f172a",
     });
@@ -253,7 +242,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         Graph ready for interaction. Use Tab to navigate questions, Enter to
         select.
       </div>
-      <ShowLinksToggle
+      {/* <ShowLinksToggle
         theme={theme}
         showLinks={showLinks}
         onToggle={() => setShowLinks(v => !v)}
@@ -263,7 +252,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
           right: "180px",
           zIndex: 1000,
         }}
-      />
+      /> */}
       <ThemeToggle
         theme={theme}
         onToggle={toggleTheme}
@@ -286,9 +275,22 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
 
       <button
         onClick={() => navigate("/")}
-        className="fixed left-4 top-4 z-50 rounded bg-black px-4 py-2 text-sm font-semibold shadow text-white"
+        style={{
+          position: "absolute",
+          top: "20px",
+          left: "20px",
+          zIndex: 1000,
+          padding: "10px 20px",
+          fontSize: "16px",
+          backgroundColor: theme === "light" ? "#fff" : "#1a1a1a",
+          color: theme === "light" ? "#333" : "#fff",
+          border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
+          borderRadius: "5px",
+          cursor: "pointer",
+          boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
+        }}
       >
-        ← Back
+        ← Back to Main Graph
       </button>
     </>
   );

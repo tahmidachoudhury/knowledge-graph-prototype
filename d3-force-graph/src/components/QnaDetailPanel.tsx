@@ -27,7 +27,14 @@ export function QnaDetailPanel({ qna, onClose }: Props) {
     window.addEventListener("keydown", onKeyDown);
     setTimeout(() => closeBtnRef.current?.focus(), 0);
 
-    return () => window.removeEventListener("keydown", onKeyDown);
+    // Optional: lock scroll behind modal
+    const prevOverflow = document.body.style.overflow;
+    document.body.style.overflow = "hidden";
+
+    return () => {
+      window.removeEventListener("keydown", onKeyDown);
+      document.body.style.overflow = prevOverflow;
+    };
   }, [qna, onClose]);
 
   if (!qna) return null;
@@ -41,8 +48,11 @@ export function QnaDetailPanel({ qna, onClose }: Props) {
       style={{
         position: "fixed",
         inset: 0,
-        zIndex: 50,
+        zIndex: 9999,
         display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        padding: "24px",
       }}
     >
       {/* Backdrop */}
@@ -50,125 +60,228 @@ export function QnaDetailPanel({ qna, onClose }: Props) {
         style={{
           position: "absolute",
           inset: 0,
-          backgroundColor: "rgba(0,0,0,0.4)",
+          backgroundColor: "rgba(0,0,0,0.55)",
+          backdropFilter: "blur(4px)",
+          WebkitBackdropFilter: "blur(4px)",
         }}
       />
 
-      {/* Panel */}
+      {/* Modal card */}
       <div
         onClick={(e) => e.stopPropagation()}
         style={{
           position: "relative",
-          marginLeft: "auto",
-          height: "100%",
-          width: "100%",
-          maxWidth: "640px",
+          width: "min(720px, 100%)",
+          maxHeight: "min(80vh, 720px)",
+          overflow: "hidden",
+          borderRadius: "16px",
           backgroundColor: "#ffffff",
-          padding: "20px",
-          boxShadow: "0 10px 25px rgba(0,0,0,0.15)",
-          overflowY: "auto",
+          boxShadow: "0 20px 60px rgba(0,0,0,0.35)",
+          border: "1px solid rgba(0,0,0,0.08)",
         }}
       >
         {/* Header */}
         <div
           style={{
+            padding: "18px 20px",
+            borderBottom: "1px solid rgba(0,0,0,0.08)",
             display: "flex",
             alignItems: "flex-start",
             justifyContent: "space-between",
             gap: "16px",
           }}
         >
-          <h2
-            style={{
-              fontSize: "18px",
-              fontWeight: 600,
-              lineHeight: 1.3,
-              margin: 0,
-            }}
-          >
-            {qna.question}
-          </h2>
+          <div style={{ minWidth: 0 }}>
+            <div
+              style={{
+                fontSize: "12px",
+                fontWeight: 600,
+                letterSpacing: "0.08em",
+                textTransform: "uppercase",
+                color: "#6b7280",
+                marginBottom: "6px",
+              }}
+            >
+              QnA
+            </div>
+
+            <h2
+              style={{
+                margin: 0,
+                fontSize: "18px",
+                fontWeight: 700,
+                lineHeight: 1.35,
+                color: "#111827",
+                wordBreak: "break-word",
+              }}
+            >
+              {qna.question}
+            </h2>
+          </div>
 
           <button
             ref={closeBtnRef}
             onClick={onClose}
             aria-label="Close question details"
             style={{
-              border: "none",
-              background: "transparent",
-              padding: "4px 10px",
-              fontSize: "14px",
-              fontWeight: 500,
-              borderRadius: "6px",
+              border: "1px solid rgba(0,0,0,0.12)",
+              backgroundColor: "rgba(0,0,0,0.03)",
+              width: "36px",
+              height: "36px",
+              borderRadius: "10px",
               cursor: "pointer",
-              color: "black"
+              display: "inline-flex",
+              alignItems: "center",
+              justifyContent: "center",
+              fontSize: "16px",
+              fontWeight: 700,
+              color: "#111827",
+              flex: "0 0 auto",
             }}
-            onMouseOver={(e) =>
-              (e.currentTarget.style.backgroundColor = "rgba(0,0,0,0.05)")
-            }
-            onMouseOut={(e) =>
-              (e.currentTarget.style.backgroundColor = "transparent")
-            }
+            onMouseEnter={(e) => {
+              e.currentTarget.style.backgroundColor = "rgba(0,0,0,0.06)";
+            }}
+            onMouseLeave={(e) => {
+              e.currentTarget.style.backgroundColor = "rgba(0,0,0,0.03)";
+            }}
           >
             ✕
           </button>
         </div>
 
-        {/* Content */}
+        {/* Body */}
         <div
           style={{
-            marginTop: "16px",
-            display: "flex",
-            flexDirection: "column",
-            gap: "12px",
-            fontSize: "14px",
+            padding: "18px 20px",
+            overflowY: "auto",
+            maxHeight: "calc(min(80vh, 720px) - 70px)",
             color: "#1f2937",
+            fontSize: "14px",
+            lineHeight: 1.6,
           }}
         >
-          {qna.paragraph && (
-            <p
-              style={{
-                margin: 0,
-                whiteSpace: "pre-wrap",
-                color: "#374151",
-              }}
-            >
-              {qna.paragraph}
-            </p>
+          {qna.paragraph && qna.paragraph.trim() !== "" && (
+            <div style={{ marginBottom: "14px" }}>
+              <div
+                style={{
+                  fontSize: "12px",
+                  fontWeight: 700,
+                  color: "#374151",
+                  marginBottom: "6px",
+                }}
+              >
+                Paragraph
+              </div>
+              <div
+                style={{
+                  backgroundColor: "#f9fafb",
+                  border: "1px solid rgba(0,0,0,0.06)",
+                  borderRadius: "12px",
+                  padding: "12px",
+                  whiteSpace: "pre-wrap",
+                }}
+              >
+                {qna.paragraph}
+              </div>
+            </div>
           )}
 
           {qna.answer ? (
-            <div>
+            <div style={{ marginBottom: "14px" }}>
               <div
                 style={{
-                  fontWeight: 500,
-                  marginBottom: "4px",
+                  fontSize: "12px",
+                  fontWeight: 700,
+                  color: "#374151",
+                  marginBottom: "6px",
                 }}
               >
                 Answer
               </div>
-              <div style={{ whiteSpace: "pre-wrap" }}>{qna.answer}</div>
+              <div
+                style={{
+                  backgroundColor: "#ffffff",
+                  border: "1px solid rgba(0,0,0,0.10)",
+                  borderRadius: "12px",
+                  padding: "12px",
+                  whiteSpace: "pre-wrap",
+                }}
+              >
+                {qna.answer}
+              </div>
             </div>
           ) : (
             <div style={{ color: "#6b7280" }}>No answer available.</div>
           )}
 
-          {qna.articlesourceurl && (
-            <a
-              href={qna.articlesourceurl}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{
-                marginTop: "8px",
-                fontSize: "13px",
-                color: "#2563eb",
-                textDecoration: "underline",
-                wordBreak: "break-all",
-              }}
-            >
-              View source article
-            </a>
+          {qna.articlesourceurl && qna.articlesourceurl.trim() !== "" && (
+            <div style={{ marginTop: "10px" }}>
+              <a
+                href={qna.articlesourceurl}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  display: "inline-flex",
+                  alignItems: "center",
+                  gap: "8px",
+                  fontSize: "13px",
+                  fontWeight: 600,
+                  color: "#2563eb",
+                  textDecoration: "none",
+                  padding: "10px 12px",
+                  borderRadius: "12px",
+                  border: "1px solid rgba(37, 99, 235, 0.25)",
+                  backgroundColor: "rgba(37, 99, 235, 0.06)",
+                  wordBreak: "break-all",
+                }}
+                onMouseEnter={(e) => {
+                  e.currentTarget.style.backgroundColor =
+                    "rgba(37, 99, 235, 0.10)";
+                }}
+                onMouseLeave={(e) => {
+                  e.currentTarget.style.backgroundColor =
+                    "rgba(37, 99, 235, 0.06)";
+                }}
+              >
+                🔗 View source article
+              </a>
+            </div>
           )}
+        </div>
+
+        {/* Footer */}
+        <div
+          style={{
+            padding: "14px 20px",
+            borderTop: "1px solid rgba(0,0,0,0.08)",
+            display: "flex",
+            justifyContent: "flex-end",
+            gap: "10px",
+            backgroundColor: "#ffffff",
+          }}
+        >
+          <button
+            type="button"
+            onClick={onClose}
+            style={{
+              padding: "10px 14px",
+              borderRadius: "12px",
+              border: "1px solid rgba(0,0,0,0.12)",
+              backgroundColor: "#111827",
+              color: "#ffffff",
+              fontSize: "14px",
+              fontWeight: 700,
+              cursor: "pointer",
+            }}
+            onMouseEnter={(e) => {
+              e.currentTarget.style.opacity = "0.92";
+            }}
+            onMouseLeave={(e) => {
+              e.currentTarget.style.opacity = "1";
+            }}
+          >
+            Close
+          </button>
         </div>
       </div>
     </div>

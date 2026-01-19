@@ -47,7 +47,7 @@ export function addWrappedLabelWithBackground<
     const lines: string[] = [];
     let currentLine: string[] = [];
 
-    const charWidth = 7; // your rough estimate
+    const charWidth = 7; // rough estimate just for wrapping
 
     words.forEach((word) => {
         const testLine = currentLine.length
@@ -89,20 +89,35 @@ export function addWrappedLabelWithBackground<
             .text(line);
     });
 
-    // Measure text and draw background
-    const bbox = (textElement.node() as SVGTextElement).getBBox();
-
-    labelGroup
+    // Create rect first (will size it after layout)
+    const rect = labelGroup
         .insert("rect", "text")
-        .attr("x", bbox.x - paddingX)
-        .attr("y", bbox.y - paddingY)
-        .attr("width", bbox.width + paddingX * 2)
-        .attr("height", bbox.height + paddingY * 2)
         .attr("rx", 6)
         .attr("ry", 6)
         .attr("fill", bgColor)
         .attr("stroke", strokeColor)
         .attr("stroke-width", strokeWidth);
+
+    const updateRectFromBBox = () => {
+        const node = textElement.node() as SVGTextElement | null;
+        if (!node) return;
+
+        const bbox = node.getBBox();
+
+        rect
+            .attr("x", bbox.x - paddingX)
+            .attr("y", bbox.y - paddingY)
+            .attr("width", bbox.width + paddingX * 2)
+            .attr("height", bbox.height + paddingY * 2);
+    };
+
+    // Defer measurement to let browser lay out tspans/fonts
+    if (typeof window !== "undefined" && "requestAnimationFrame" in window) {
+        requestAnimationFrame(updateRectFromBBox);
+    } else {
+        // Fallback (SSR / non-window envs)
+        updateRectFromBBox();
+    }
 
     return labelGroup;
 }
