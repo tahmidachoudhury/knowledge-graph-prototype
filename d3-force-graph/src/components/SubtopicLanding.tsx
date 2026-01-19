@@ -5,6 +5,9 @@ import * as d3 from "d3";
 import { fetchSubtopicQnas } from "../lib/graphData";
 import type { SubtopicQnaData, QnaNode } from "../lib/types/graph.types";
 import { useNavigate } from "react-router-dom"
+import { useTheme } from "@/lib/ThemeContext";
+import { ThemeToggle } from "./ThemeToggle";
+import { ShowLinksToggle } from "./ShowLinksToggle";
 
 interface Props {
   subtopicId: string;
@@ -17,6 +20,9 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
   const [data, setData] = useState<SubtopicQnaData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [showLinks, setShowLinks] = useState(true);
+  const { theme, toggleTheme } = useTheme();
+
 
   useEffect(() => {
     const abortController = new AbortController();
@@ -88,6 +94,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .join("line")
       .attr("class", "link")
       .attr("stroke", "#CBD5E0")
+      .attr("stroke-opacity", showLinks ? 0.6 : 0)
       .attr("stroke-width", 1)
       .attr("opacity", 0.3);
 
@@ -137,6 +144,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .attr("r", 60)
       .attr("fill", "#2C7A7B")
 
+    // center node text
     centerNode
       .append("text")
       .attr("text-anchor", "middle")
@@ -185,6 +193,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
     };
   }, [data, onQnaClick]);
 
+  //! all the tailwind css needs to GO!!!!
   if (loading) {
     return (
       <div className="flex items-center justify-center h-full">
@@ -213,26 +222,26 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         ref={svgRef}
         aria-label={`Questions about ${data?.centerNode.name}`}
         role="img"
-        style={{
-          width: "100vw",
-          height: "100vh",
-          overflow: "hidden",
-          position: "relative",
-        }}
+        className="w-screen h-screen overflow-hidden relative"
       />
-      <div style={{ position: "fixed", bottom: 10, }} className="sr-only" role="status" aria-live="polite">
+      <div className="sr-only" role="status" aria-live="polite">
         Graph ready for interaction. Use Tab to navigate questions, Enter to
         select.
       </div>
+      <ShowLinksToggle
+        showLinks={showLinks}
+        onToggle={() => setShowLinks(v => !v)}
+        className="absolute top-5 right-48 z-[1000]"
+      />
+      <ThemeToggle
+        theme={theme}
+        onToggle={toggleTheme}
+        className="absolute top-5 right-5 z-[1000]"
+      />
 
       <button
         onClick={() => navigate("/")}
-        // className="fixed left-4 top-4 z-50 rounded bg-black px-4 py-2 text-sm font-semibold shadow"
-        style={{
-          position: "fixed",
-          left: 4,
-          top: 4,
-        }}
+        className="fixed left-4 top-4 z-50 rounded bg-black px-4 py-2 text-sm font-semibold shadow text-white"
       >
         ← Back
       </button>

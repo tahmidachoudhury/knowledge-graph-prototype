@@ -12,6 +12,8 @@ import pentagonPath from "@/lib/d3js/pentagon";
 import { useTheme } from "@/lib/ThemeContext";
 
 import type { GraphNode, GraphLink, D3Node } from "../lib/types/graph.types";
+import { ShowLinksToggle } from "./ShowLinksToggle";
+import { ThemeToggle } from "./ThemeToggle";
 
 type MainData = { nodes: GraphNode[]; links: GraphLink[] };
 
@@ -384,46 +386,16 @@ export default function MainGraph({ onSubtopicClick }: Props) {
           ← Back to Macro Area Overview
         </button>
       )}
-      <button
-        onClick={() => setShowLinks(!showLinks)}
-        style={{
-          position: "absolute",
-          top: "20px",
-          right: "180px",
-          zIndex: 1000,
-          padding: "10px 20px",
-          fontSize: "16px",
-          fontWeight: "bold",
-          backgroundColor: theme === "light" ? "#fff" : "#1a1a1a",
-          color: theme === "light" ? "#333" : "#fff",
-          border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
-          borderRadius: "5px",
-          cursor: "pointer",
-          boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
-        }}
-      >
-        {showLinks ? "🔗 Hide Links" : "🔗 Show Links"}
-      </button>
-      <button
-        onClick={toggleTheme}
-        style={{
-          position: "absolute",
-          top: "20px",
-          right: "20px",
-          zIndex: 1000,
-          padding: "10px 20px",
-          fontSize: "16px",
-          fontWeight: "bold",
-          backgroundColor: theme === "light" ? "#fff" : "#1a1a1a",
-          color: theme === "light" ? "#333" : "#fff",
-          border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
-          borderRadius: "5px",
-          cursor: "pointer",
-          boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
-        }}
-      >
-        {theme === "light" ? "🌙 Dark" : "☀️ Light"}
-      </button>
+      <ShowLinksToggle
+        showLinks={showLinks}
+        onToggle={() => setShowLinks(v => !v)}
+        className="absolute top-5 right-48 z-[1000]"
+      />
+      <ThemeToggle
+        theme={theme}
+        onToggle={toggleTheme}
+        className="absolute top-5 right-5 z-[1000]"
+      />
       {selectedMacroArea && (
         <div
           className={theme === "light" ? "theme-light" : "theme-dark"}
