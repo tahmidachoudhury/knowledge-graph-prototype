@@ -14,6 +14,8 @@ import { useTheme } from "@/lib/ThemeContext";
 import type { GraphNode, GraphLink, D3Node } from "../lib/types/graph.types";
 import { ShowLinksToggle } from "./ShowLinksToggle";
 import { ThemeToggle } from "./ThemeToggle";
+import { HoverTooltip } from "./HoverTooltip";
+import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
 
 type MainData = { nodes: GraphNode[]; links: GraphLink[] };
 
@@ -204,6 +206,16 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         const color = getNodeColor(d as any);
         const radius = getNodeRadius(d);
 
+        // if (d.group === "MacroArea") {
+        //   const label = d.label || d.id || ""
+        //   const maxWidth = radius
+        //   addWrappedLabelWithBackground(nodeElement, {
+        //     label,
+        //     maxWidth,
+        //     // you can tweak per-node-type if needed:
+        //     bgColor: "rgba(255, 255, 255, 0.85)",
+        //     textColor: "#0f172a",
+        //   });
         if (d.group === "Macrotopic") {
           const cardSize = 120;
           const cornerRadius = 8;
@@ -224,45 +236,12 @@ export default function MainGraph({ onSubtopicClick }: Props) {
             .attr("stroke", color);
 
           const label = d.label || d.id || "";
-          const words = label.split(/\s+/);
-          const textElement = nodeElement
-            .append("text")
-            .attr("text-anchor", "middle")
-            .attr("dominant-baseline", "middle")
-            .attr("fill", "white")
-            .attr("font-size", "13px")
-            .attr("font-weight", "500")
-            .attr("font-family", "sans-serif")
-            .attr("pointer-events", "none")
-            .attr("x", 0)
-            .attr("y", 0);
-
-          const lines: string[] = [];
-          let currentLine: string[] = [];
-
-          words.forEach((word) => {
-            const testLine = currentLine.length
-              ? currentLine.join(" ") + " " + word
-              : word;
-            const estimatedWidth = testLine.length * 7;
-            if (estimatedWidth > maxWidth && currentLine.length) {
-              lines.push(currentLine.join(" "));
-              currentLine = [word];
-            } else {
-              currentLine.push(word);
-            }
-          });
-
-          if (currentLine.length) lines.push(currentLine.join(" "));
-
-          const lineHeight = 16;
-          const startY = (-(lines.length - 1) * lineHeight) / 2;
-          lines.forEach((line, i) => {
-            textElement
-              .append("tspan")
-              .attr("x", 0)
-              .attr("y", startY + i * lineHeight)
-              .text(line);
+          addWrappedLabelWithBackground(nodeElement, {
+            label,
+            maxWidth,
+            // you can tweak per-node-type if needed:
+            bgColor: "rgba(255, 255, 255, 0.85)",
+            textColor: "#0f172a",
           });
         } else if (d.group === "Topic") {
           nodeElement
@@ -430,27 +409,11 @@ export default function MainGraph({ onSubtopicClick }: Props) {
       )}
 
       {hoveredNode && (
-        <div
-          className={
-            theme === "light"
-              ? "theme-light theme-hover"
-              : "theme-dark theme-hover"
-          }
-          style={{
-            position: "absolute",
-            left: `${mousePosition.x + 10}px`,
-            top: `${mousePosition.y + 10}px`,
-            zIndex: 1000,
-            padding: "10px 20px",
-            fontSize: "16px",
-            border: "2px solid",
-            borderRadius: "5px",
-            boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
-            pointerEvents: "none",
-          }}
-        >
-          {hoveredNode}
-        </div>
+        <HoverTooltip
+          text={hoveredNode}
+          position={hoveredNode ? mousePosition : null}
+          theme={theme}
+        />
       )}
 
       <div

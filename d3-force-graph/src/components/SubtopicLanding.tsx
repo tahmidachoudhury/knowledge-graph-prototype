@@ -8,6 +8,8 @@ import { useNavigate } from "react-router-dom"
 import { useTheme } from "@/lib/ThemeContext";
 import { ThemeToggle } from "./ThemeToggle";
 import { ShowLinksToggle } from "./ShowLinksToggle";
+import { HoverTooltip } from "./HoverTooltip";
+import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
 
 interface Props {
   subtopicId: string;
@@ -22,6 +24,8 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
   const [error, setError] = useState<string | null>(null);
   const [showLinks, setShowLinks] = useState(true);
   const { theme, toggleTheme } = useTheme();
+  const [hoveredNode, setHoveredNode] = useState<string | null>(null);
+  const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
 
   useEffect(() => {
@@ -108,16 +112,28 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .on("click", (event, d) => {
         event.stopPropagation();
         onQnaClick(d);
+        setHoveredNode(null)
       })
       .attr("role", "button")
       .attr("tabindex", 0)
       .attr("aria-label", (d) => d.question)
+      .on("mouseover", (event: any, d: any) => {
+        setMousePosition({
+          x: event.clientX,
+          y: event.clientY
+        });
+        setHoveredNode(d.question);
+      })
+      .on("mouseout", () => setHoveredNode(null))
       .on("keydown", (event, d) => {
         if (event.key === "Enter" || event.key === " ") {
           event.preventDefault();
           onQnaClick(d);
+          setHoveredNode(null)
         }
       });
+
+
 
     nodes
       .append("circle")
@@ -137,12 +153,14 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
     const centerNode = g
       .append("g")
       .attr("class", "center-node")
-      .attr("transform", `translate(${centerX}, ${centerY})`);
+      .attr("transform", `translate(${centerX}, ${centerY})`)
+
 
     centerNode
       .append("circle")
       .attr("r", 60)
       .attr("fill", "#2C7A7B")
+
 
     // center node text
     centerNode
@@ -154,6 +172,13 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .attr("font-weight", "bold")
       .text(data.centerNode.name)
       .call(wrap, 100); // Text wrapping helper
+
+    addWrappedLabelWithBackground(centerNode as any, {
+      label: data.centerNode.name,
+      maxWidth: 100, // hard-coded, like your old wrap(text, 100)
+      bgColor: "rgba(255, 255, 255, 0.85)",
+      textColor: "#0f172a",
+    });
 
     // Simulation tick
     simulation.on("tick", () => {
@@ -249,6 +274,14 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
           zIndex: 1000,
         }}
       />
+
+      {hoveredNode && (
+        <HoverTooltip
+          text={hoveredNode}
+          position={hoveredNode ? mousePosition : null}
+          theme={theme}
+        />
+      )}
 
 
       <button
