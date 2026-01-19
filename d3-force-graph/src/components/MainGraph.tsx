@@ -206,17 +206,18 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         const color = getNodeColor(d as any);
         const radius = getNodeRadius(d);
 
-        // if (d.group === "MacroArea") {
-        //   const label = d.label || d.id || ""
-        //   const maxWidth = radius
-        //   addWrappedLabelWithBackground(nodeElement, {
-        //     label,
-        //     maxWidth,
-        //     // you can tweak per-node-type if needed:
-        //     bgColor: "rgba(255, 255, 255, 0.85)",
-        //     textColor: "#0f172a",
-        //   });
-        if (d.group === "Macrotopic") {
+        if (d.group === "MacroArea") {
+          const label = d.label || d.id || ""
+          const maxWidth = radius
+          nodeElement.append("circle").attr("fill", color).attr("r", radius);
+          addWrappedLabelWithBackground(nodeElement, {
+            label,
+            maxWidth,
+            // you can tweak per-node-type if needed:
+            bgColor: "rgba(255, 255, 255, 0.85)",
+            textColor: "#0f172a",
+          })
+        } else if (d.group === "Macrotopic") {
           const cardSize = 120;
           const cornerRadius = 8;
           const padding = 10;

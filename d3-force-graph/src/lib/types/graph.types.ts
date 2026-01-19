@@ -97,7 +97,7 @@ export interface QnasIndex {
  * What SubtopicLanding expects
  */
 export interface SubtopicQnaData {
-  centerNode: { id: string; name: string };
+  centerNode: { id: string; label: string, macroArea?: string, macrotopic?: string, group: string };
   nodes: QnaNode[];
   links?: Array<{ source: string; target: string }>; // optional
 }

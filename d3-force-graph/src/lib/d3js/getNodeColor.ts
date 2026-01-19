@@ -12,6 +12,7 @@ export default function getNodeColor(node: Node) {
   const group = node.group;
   const label = node.label;
 
+
   // Handle MacroArea nodes - they don't have a macrotopic
   if (group === "MacroArea") {
     // Return specific colors for each ESG macroarea
@@ -22,6 +23,8 @@ export default function getNodeColor(node: Node) {
     };
     return macroAreaColors[label] || "#cccccc";
   }
+
+
 
   if (!macroArea) {
     return "#999999";
@@ -48,6 +51,10 @@ export default function getNodeColor(node: Node) {
 
   if (!macrotopicKey) {
     return "#999999";
+  }
+
+  if (group == "QnA") {
+    return macroAreaPalette[macrotopicKey]?.["Subtopic"]
   }
 
   // Now the palette keys match the group values: "Macrotopic", "Topic", "Subtopic"

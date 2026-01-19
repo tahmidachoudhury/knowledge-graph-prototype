@@ -18,21 +18,6 @@ export async function fetchQnasIndex(signal?: AbortSignal): Promise<QnasIndex> {
   return (await res.json()) as QnasIndex;
 }
 
-/**
- * You can shape the per-subtopic JSON however you like.
- * This loader tries to be robust:
- * - supports { qnas: [...] } or { qnaNodes: [...] } or [...]
- */
-// function extractQnas(payload: unknown): QnaNode[] {
-//   // if (Array.isArray(payload)) return payload as QnaNode[];
-//   if (payload && typeof payload === "object") {
-//     const obj = payload as any;
-//     // if (Array.isArray(obj.qnas)) return obj.qnas as QnaNode[];
-//     if (Array.isArray(obj.nodes)) return obj.nodes as QnaNode[];
-//     // if (Array.isArray(obj.items)) return obj.items as QnaNode[];
-//   }
-//   return [];
-// }
 
 export async function fetchSubtopicQnas(
   subtopicId: string,
@@ -41,6 +26,7 @@ export async function fetchSubtopicQnas(
   const index = await fetchQnasIndex(signal);
 
   const entry = index.subtopics.find((s) => s.id === subtopicId);
+  console.log(entry)
   if (!entry) {
     throw new Error(`Subtopic not found in QnA index: ${subtopicId}`);
   }
@@ -57,7 +43,7 @@ export async function fetchSubtopicQnas(
 
 
   return {
-    centerNode: { id: entry.id, name: entry.label },
+    centerNode: { id: entry.id, label: entry.label, group: "Subtopic", macroArea: entry.macroArea, macrotopic: entry.macrotopic },
     nodes: (qnaNodes) ?? undefined,
     // if your per-subtopic file includes links, you can pass them through:
     links: (payload?.links as any) ?? undefined,

@@ -10,6 +10,7 @@ import { ThemeToggle } from "./ThemeToggle";
 import { ShowLinksToggle } from "./ShowLinksToggle";
 import { HoverTooltip } from "./HoverTooltip";
 import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
+import getNodeColor from "@/lib/d3js/getNodeColor";
 
 interface Props {
   subtopicId: string;
@@ -104,7 +105,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
 
     // QnA nodes
     const nodes = g
-      .selectAll(".qna-node")
+      .selectAll<SVGGElement, any>(".qna-node")
       .data(data.nodes)
       .join("g")
       .attr("class", "qna-node")
@@ -112,7 +113,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .on("click", (event, d) => {
         event.stopPropagation();
         onQnaClick(d);
-        setHoveredNode(null)
+        setHoveredNode(null);
       })
       .attr("role", "button")
       .attr("tabindex", 0)
@@ -120,7 +121,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .on("mouseover", (event: any, d: any) => {
         setMousePosition({
           x: event.clientX,
-          y: event.clientY
+          y: event.clientY,
         });
         setHoveredNode(d.question);
       })
@@ -129,25 +130,9 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         if (event.key === "Enter" || event.key === " ") {
           event.preventDefault();
           onQnaClick(d);
-          setHoveredNode(null)
+          setHoveredNode(null);
         }
       });
-
-
-
-    nodes
-      .append("circle")
-      .attr("r", 20)
-      .attr("fill", "#4FD1C5")
-
-    // Optional: difficulty indicator
-    nodes
-      .append("text")
-      .attr("text-anchor", "middle")
-      .attr("dy", 5)
-      .attr("font-size", 12)
-      .attr("fill", "white")
-    // .text((d) => d.metadata.difficulty?.[0].toUpperCase() || "?");
 
     // Center subtopic node
     const centerNode = g
@@ -156,14 +141,28 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .attr("transform", `translate(${centerX}, ${centerY})`)
 
 
+    const centerColor = getNodeColor(data.centerNode as any);
+
     centerNode
       .append("circle")
       .attr("r", 60)
-      .attr("fill", "#2C7A7B")
+      .attr("fill", centerColor);
 
+    nodes.each(function (d: any) {
+      const node = d3.select(this);
+
+      // decide radius/type if you ever mix Subtopic + QnA here
+      const radius = d.group === "Subtopic" ? 60 : 20
+      const color = getNodeColor(d);
+
+      node
+        .append("circle")
+        .attr("r", radius)
+        .attr("fill", color);
+    });
 
     addWrappedLabelWithBackground(centerNode as any, {
-      label: data.centerNode.name,
+      label: data.centerNode.label,
       maxWidth: 100, // hard-coded
       bgColor: "rgba(255, 255, 255, 0.85)",
       textColor: "#0f172a",
@@ -193,7 +192,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
 
 
     // Announce to screen readers
-    const announcement = `Loaded ${data.nodes.length} questions for ${data.centerNode.name}`;
+    const announcement = `Loaded ${data.nodes.length} questions for ${data.centerNode.label}`;
     const liveRegion = document.createElement("div");
     liveRegion.setAttribute("role", "status");
     liveRegion.setAttribute("aria-live", "polite");
@@ -234,7 +233,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
     <>
       <svg
         ref={svgRef}
-        aria-label={`Questions about ${data?.centerNode.name}`}
+        aria-label={`Questions about ${data?.centerNode.label}`}
         role="img"
         className="w-screen h-screen overflow-hidden relative"
       />
