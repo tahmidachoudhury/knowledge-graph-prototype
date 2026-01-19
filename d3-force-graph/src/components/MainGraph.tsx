@@ -387,15 +387,27 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         </button>
       )}
       <ShowLinksToggle
+        theme={theme}
         showLinks={showLinks}
         onToggle={() => setShowLinks(v => !v)}
-        className="absolute top-5 right-48 z-[1000]"
+        style={{
+          position: "absolute",
+          top: "20px",
+          right: "180px",
+          zIndex: 1000,
+        }}
       />
       <ThemeToggle
         theme={theme}
         onToggle={toggleTheme}
-        className="absolute top-5 right-5 z-[1000]"
+        style={{
+          position: "absolute",
+          top: "20px",
+          right: "20px",
+          zIndex: 1000,
+        }}
       />
+
       {selectedMacroArea && (
         <div
           className={theme === "light" ? "theme-light" : "theme-dark"}

@@ -229,15 +229,27 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         select.
       </div>
       <ShowLinksToggle
+        theme={theme}
         showLinks={showLinks}
         onToggle={() => setShowLinks(v => !v)}
-        className="absolute top-5 right-48 z-[1000]"
+        style={{
+          position: "absolute",
+          top: "20px",
+          right: "180px",
+          zIndex: 1000,
+        }}
       />
       <ThemeToggle
         theme={theme}
         onToggle={toggleTheme}
-        className="absolute top-5 right-5 z-[1000]"
+        style={{
+          position: "absolute",
+          top: "20px",
+          right: "20px",
+          zIndex: 1000,
+        }}
       />
+
 
       <button
         onClick={() => navigate("/")}

@@ -1,5 +1,7 @@
 // src/lib/graphTypes.ts
 
+export type ThemeValue = "light" | "dark" | string;
+
 export type NodeGroup =
   | "MacroArea"
   | "Macrotopic"

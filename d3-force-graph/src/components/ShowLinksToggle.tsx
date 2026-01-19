@@ -1,32 +1,64 @@
+import { ThemeValue } from "@/lib/types/graph.types";
 import * as React from "react";
 
 interface ShowLinksToggleProps {
+    theme: ThemeValue;
     showLinks: boolean;
     onToggle: () => void;
-    className?: string;
+    style?: React.CSSProperties; // positioning (absolute, top, right) passed in
+
 }
 
+
+const lightStyles: React.CSSProperties = {
+    backgroundColor: "#ffffff",
+    color: "#1f2937",
+    borderColor: "#1f2937",
+};
+
+const darkStyles: React.CSSProperties = {
+    backgroundColor: "#1a1a1a",
+    color: "#f9fafb",
+    borderColor: "#f9fafb",
+};
+
 export function ShowLinksToggle({
+    theme,
     showLinks,
     onToggle,
-    className,
+    style,
 }: ShowLinksToggleProps) {
+
+    const isLight = theme === "light";
+
+
     return (
         <button
             type="button"
             onClick={onToggle}
-            className={`
-        ${className ?? ""}
-        inline-flex items-center justify-center
-        rounded-md border
-        px-4 py-2
-        text-sm md:text-base font-semibold
-        shadow-sm
-        transition
-        bg-white text-slate-800 border-slate-800
-        dark:bg-slate-900 dark:text-slate-50 dark:border-slate-50
-        hover:bg-slate-50 dark:hover:bg-slate-800
-      `}
+            style={{
+                display: "inline-flex",
+                alignItems: "center",
+                justifyContent: "center",
+
+                padding: "8px 16px",
+                fontSize: "16px",
+                fontWeight: 600,
+
+                ...(isLight ? lightStyles : darkStyles),
+
+                boxShadow: "0 1px 3px rgba(0,0,0,0.15)",
+                cursor: "pointer",
+                transition: "background-color 0.15s ease",
+
+                ...style, // allow caller to control position/z-index
+            }}
+            onMouseEnter={(e) => {
+                e.currentTarget.style.backgroundColor = "#f9fafb";
+            }}
+            onMouseLeave={(e) => {
+                e.currentTarget.style.backgroundColor = "#ffffff";
+            }}
         >
             {showLinks ? "🔗 Hide Links" : "🔗 Show Links"}
         </button>
