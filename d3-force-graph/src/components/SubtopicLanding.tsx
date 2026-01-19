@@ -4,6 +4,7 @@ import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 import { fetchSubtopicQnas } from "../lib/graphData";
 import type { SubtopicQnaData, QnaNode } from "../lib/types/graph.types";
+import { useNavigate } from "react-router-dom"
 
 interface Props {
   subtopicId: string;
@@ -11,6 +12,7 @@ interface Props {
 }
 
 export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
+  const navigate = useNavigate();
   const svgRef = useRef<SVGSVGElement>(null);
   const [data, setData] = useState<SubtopicQnaData | null>(null);
   const [loading, setLoading] = useState(true);
@@ -222,6 +224,18 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         Graph ready for interaction. Use Tab to navigate questions, Enter to
         select.
       </div>
+
+      <button
+        onClick={() => navigate("/")}
+        // className="fixed left-4 top-4 z-50 rounded bg-black px-4 py-2 text-sm font-semibold shadow"
+        style={{
+          position: "fixed",
+          left: 4,
+          top: 4,
+        }}
+      >
+        ← Back
+      </button>
     </>
   );
 }

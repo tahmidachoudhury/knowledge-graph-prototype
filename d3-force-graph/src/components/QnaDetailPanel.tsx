@@ -1,7 +1,13 @@
 // src/components/QnaDetailPanel.tsx
 
 import { useEffect, useRef } from "react";
-import type { QnaNode } from "../lib/types/graph.types";
+
+interface QnaNode {
+  question: string;
+  paragraph?: string;
+  answer?: string;
+  articlesourceurl?: string;
+}
 
 interface Props {
   qna: QnaNode | null;
@@ -19,7 +25,6 @@ export function QnaDetailPanel({ qna, onClose }: Props) {
     };
 
     window.addEventListener("keydown", onKeyDown);
-    // focus close button when opened
     setTimeout(() => closeBtnRef.current?.focus(), 0);
 
     return () => window.removeEventListener("keydown", onKeyDown);
@@ -32,42 +37,138 @@ export function QnaDetailPanel({ qna, onClose }: Props) {
       role="dialog"
       aria-modal="true"
       aria-label="Question details"
-      className="fixed inset-0 z-50 flex"
       onClick={onClose}
+      style={{
+        position: "fixed",
+        inset: 0,
+        zIndex: 50,
+        display: "flex",
+      }}
     >
-      {/* backdrop */}
-      <div className="absolute inset-0 bg-black/40" />
-
-      {/* panel */}
+      {/* Backdrop */}
       <div
-        className="relative ml-auto h-full w-full max-w-xl bg-white p-5 shadow-xl"
+        style={{
+          position: "absolute",
+          inset: 0,
+          backgroundColor: "rgba(0,0,0,0.4)",
+        }}
+      />
+
+      {/* Panel */}
+      <div
         onClick={(e) => e.stopPropagation()}
+        style={{
+          position: "relative",
+          marginLeft: "auto",
+          height: "100%",
+          width: "100%",
+          maxWidth: "640px",
+          backgroundColor: "#ffffff",
+          padding: "20px",
+          boxShadow: "0 10px 25px rgba(0,0,0,0.15)",
+          overflowY: "auto",
+        }}
       >
-        <div className="flex items-start justify-between gap-4">
-          <h2 className="text-lg font-semibold leading-snug">{qna.question}</h2>
+        {/* Header */}
+        <div
+          style={{
+            display: "flex",
+            alignItems: "flex-start",
+            justifyContent: "space-between",
+            gap: "16px",
+          }}
+        >
+          <h2
+            style={{
+              fontSize: "18px",
+              fontWeight: 600,
+              lineHeight: 1.3,
+              margin: 0,
+            }}
+          >
+            {qna.question}
+          </h2>
+
           <button
             ref={closeBtnRef}
             onClick={onClose}
-            className="rounded px-3 py-1 text-sm font-medium hover:bg-black/5"
             aria-label="Close question details"
+            style={{
+              border: "none",
+              background: "transparent",
+              padding: "4px 10px",
+              fontSize: "14px",
+              fontWeight: 500,
+              borderRadius: "6px",
+              cursor: "pointer",
+              color: "black"
+            }}
+            onMouseOver={(e) =>
+              (e.currentTarget.style.backgroundColor = "rgba(0,0,0,0.05)")
+            }
+            onMouseOut={(e) =>
+              (e.currentTarget.style.backgroundColor = "transparent")
+            }
           >
             ✕
           </button>
         </div>
 
-        <div className="mt-4 space-y-3 text-sm text-gray-800">
+        {/* Content */}
+        <div
+          style={{
+            marginTop: "16px",
+            display: "flex",
+            flexDirection: "column",
+            gap: "12px",
+            fontSize: "14px",
+            color: "#1f2937",
+          }}
+        >
+          {qna.paragraph && (
+            <p
+              style={{
+                margin: 0,
+                whiteSpace: "pre-wrap",
+                color: "#374151",
+              }}
+            >
+              {qna.paragraph}
+            </p>
+          )}
 
           {qna.answer ? (
             <div>
-              <div className="font-medium mb-1">Answer</div>
-              <div className="whitespace-pre-wrap">{qna.answer}</div>
+              <div
+                style={{
+                  fontWeight: 500,
+                  marginBottom: "4px",
+                }}
+              >
+                Answer
+              </div>
+              <div style={{ whiteSpace: "pre-wrap" }}>{qna.answer}</div>
             </div>
           ) : (
-            <div className="text-gray-500">No answer available.</div>
+            <div style={{ color: "#6b7280" }}>No answer available.</div>
           )}
 
-          {/* dump extra metadata if you want */}
-          {/* <pre className="text-xs bg-gray-50 p-3 rounded">{JSON.stringify(qna, null, 2)}</pre> */}
+          {qna.articlesourceurl && (
+            <a
+              href={qna.articlesourceurl}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                marginTop: "8px",
+                fontSize: "13px",
+                color: "#2563eb",
+                textDecoration: "underline",
+                wordBreak: "break-all",
+              }}
+            >
+              View source article
+            </a>
+          )}
         </div>
       </div>
     </div>

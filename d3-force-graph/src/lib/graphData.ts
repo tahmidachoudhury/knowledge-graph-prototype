@@ -50,12 +50,15 @@ export async function fetchSubtopicQnas(
   if (!res.ok) throw new Error(`Failed to load QnA file (${res.status})`);
 
   const payload = await res.json();
-  // console.log(payload.nodes)
+  console.log(payload.nodes)
+  const qnaNodes = payload.nodes.filter(
+    (node: any) => node.group === "QnA"
+  );
 
 
   return {
     centerNode: { id: entry.id, name: entry.label },
-    nodes: (payload?.nodes as any) ?? undefined,
+    nodes: (qnaNodes) ?? undefined,
     // if your per-subtopic file includes links, you can pass them through:
     links: (payload?.links as any) ?? undefined,
   };

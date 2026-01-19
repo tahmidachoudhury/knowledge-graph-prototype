@@ -40,12 +40,6 @@ function SubtopicRoute() {
 
   return (
     <div style={{ width: "100vw", height: "100vh", position: "relative", overflow: "hidden", }}>
-      {/* <button
-        onClick={() => navigate("/")}
-        className="fixed left-4 top-4 z-50 rounded bg-white px-4 py-2 text-sm font-semibold shadow"
-      >
-        ← Back
-      </button> */}
 
       <SubtopicLanding
         subtopicId={decodedId}
