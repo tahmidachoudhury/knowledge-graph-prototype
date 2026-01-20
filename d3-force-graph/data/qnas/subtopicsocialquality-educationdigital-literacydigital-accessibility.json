@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Digital accessibility",
+      "label": "Digital accessibility",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Digital accessibility_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can digital accessibility be enhanced to minimize quality trade-offs while maintaining SDG 4.3.2.9.4?",
+      "answer": "To enhance digital accessibility while minimizing quality trade-offs for SDG 4.3.2.9.4, organizations can focus on improving user interfaces, providing alternative formats for content, and ensuring compatibility with assistive technologies.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy",
+      "subtopic": "Digital accessibility",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Digital literacy|Digital accessibility_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How can digital accessibility be enhanced to minimize quality trade-offs in relation to SDG 4.3.2.9.4?",
+      "answer": "Digital accessibility can be improved by ensuring that websites and applications are designed with features that cater to individuals with disabilities, ensuring that everyone can access and benefit from digital resources.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Quality education",
+      "topic": "Digital literacy",
+      "subtopic": "Digital accessibility",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Digital literacy|Digital accessibility",
+      "target": "Subtopic:Social|Quality education|Digital literacy|Digital accessibility_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Digital literacy|Digital accessibility",
+      "target": "Subtopic:Social|Quality education|Digital literacy|Digital accessibility_qna_001",
+      "value": 1
+    }
+  ]
+}

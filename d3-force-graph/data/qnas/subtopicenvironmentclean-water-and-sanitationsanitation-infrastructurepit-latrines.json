@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines",
+      "label": "Pit latrines",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of pots were used to keep female subjects in the experiment?",
+      "answer": "Females were kept in translucent plastic pots (1 L).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Therefore, females were kept individually in translucent plastic pots (1 L) covered with gauze. They were provided sucrose solution and fresh flowers for adult feeding, and leaves of Rumex acetosa as oviposition substrate. Deposited eggs were collected daily and transferred, separated by female, to small glass vials kept in one climate cabinet at 22 C (70% humidity, L19:D5 throughout) until hatching (Panasonic MIR-554). Hatchlings were fed on field-collected R. acetosa leaves under the same conditions for 4 days, after which they were allocated to treatments. Experimental design On day 5 after hatching, larvae were individually transferred to transparent plastic boxes (250 ml) lined with moist tissue and containing a fresh cutting of R. acetosa. Larvae were randomly allocated to one out of four treatments, using a split-brood design. We employed a full-factorial design with two rearing temperatures and two host plant treatments. Rearing temperatures had a mean of 19.2 C (light phase 20 C, dark phase 16 C; L19:D5 photoperiod) or 25.2 C (light phase 26 C, dark phase 22 C), and we used one climate cabinet per temperature (Panasonic MIR-554).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Pit latrines",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were fecal pellets collected from small mammals in the field according to the methodology?",
+      "answer": "Fecal pellets were collected using baited tubes made from plastic pipes, designed to allow small mammals to enter, feed, and defecate inside them.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We describe the methodological approach (field, wet-lab and computer-lab) for large-scale species assessment based on fecal pellets (DNA source) and COI barcodes (molecular markers) and briefly discuss the list of species identified. The largely unrestricted legal framework and the large spatial coverage enabled by incorporating vol- unteers are key characteristics of our approach. This defines the potential for large scale biomonitoring of small mam- mals in an era of dramatic biodiversity loss. Method Fieldwork Baited tubes were used to collect fecal pellets from terres- trial small mammals in the field. These tubes were origi- nally described to detect Neomys fodiens in Great Britain (Churchfield et al. 2000). To make the tubes, plastic pipes 40 mm in diameter were cut into to 150 to 200 mm long pieces. One end was closed with a sock, metal net or other mesh fabric held in place by a strong rubber band. The size of the tube limited fecal collection to animals below a weight of circa 100 g. The tubes were baited with dried mealworms and brought out in the field. Small mammals feed and def- ecate frequently due to their high metabolism, and thus, we expect that some individuals will defecate while inside the tube, and the feces can be collected later.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Pit latrines",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Pit latrines_qna_001",
+      "value": 1
+    }
+  ]
+}

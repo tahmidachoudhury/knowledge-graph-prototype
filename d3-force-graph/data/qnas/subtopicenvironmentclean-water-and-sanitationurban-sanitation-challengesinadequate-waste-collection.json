@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Inadequate waste collection",
+      "label": "Inadequate waste collection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Inadequate waste collection_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How were the waste management systems in developing countries summarized by Teshome (2021)?",
+      "answer": "Teshome (2021) summarized the waste management systems in developing countries as irregular, inadequate, and inefficient.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Addressing sustainable solid waste management (SWM) can help meet several United Nations Sustainable Development Goals (SDG), such as, creating sustainable cities and inclusive communities (SDG11)1 and ensuring sustainable consumption and production patterns (SDG 12).2 Recent studies indicate that the waste sectors in develop- ing countries remain heavily focused on waste collection and removal rather than a holistic waste management approach (Nguyen et al. 2023, p. 1; Wilson 2007, p. 202). Teshome (2021, p. 18) summarized the waste management systems in developing countries as exhibiting 3ls irregular, inad- equate, and inefficient. If sustainable waste management is not prioritized, the balance between nature and society threaten to collapse due to toxins from waste pollution, loss of biodiversity and adverse impacts of climate change. Con- sequently, the drive to achieve SDG 11 and SDG 12 would not be met. Hence the need to find sustainable waste man - agement practices is critical in many developing nations like Botswana. To explore this issue, we use social ecology theory as the overarching theory to explain the relationship between nature and society.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Inadequate waste collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Inadequate waste collection_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What was the average Concern score for Waste Warriors, and how did it compare to Waste Moderate and Waste Laggards?",
+      "answer": "Waste Warriors had an average Concern score of 4.85, which was higher than Waste Moderate (4.67) and Waste Laggards (3.83).",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S235255092200344X",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Inadequate waste collection",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Inadequate waste collection",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Inadequate waste collection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Inadequate waste collection",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Inadequate waste collection_qna_001",
+      "value": 1
+    }
+  ]
+}

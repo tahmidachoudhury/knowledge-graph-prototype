@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|International cooperation",
+      "label": "International cooperation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|International cooperation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the total number of member states in IPBES after the recent additions?",
+      "answer": "The total number of member states in IPBES is 147.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " More than 800 participants from more than 120 member states were registered, with some attending through online teleconferencing. Executive Secretary Anne Larigauderie announced her impending retirement subsequently recognised in the final session with well-deserved thanks for her efforts in steering IPBES during its growth phase. She also announced four more member states have joined IPBES; viz. Kazakhstan, Lesotho, Seychelles, and Somalia, bringing the total to 147 member states, or 75% of the nations of the world. Activities of IPBES reported by the Executive Secretary underline the continuous high level of knowledge generation and management, as well as in capacity building, other knowledge systems, policy support, and more. The breadth of these activities was recog - nized in 2024 through IPBES being a joint winner of the Blue Planet Prize, awarded to individuals or organizations that have made significant contribution to improving the global environment. The prize had an award of U$ 500.0, an amount being incorporated into the IPBES budget. Despite that boost, and significant pledges by some member states, the overall budgetary situation of IPBES remains constrained, with little room for growth.",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "International cooperation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|International cooperation_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the outcome of non-cooperation in the model discussed?",
+      "answer": "Non-cooperation leads to both patches overexploiting the transboundary fish stock, which compromises conservation efforts and reduces fishery profits.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Lastly, we discuss the practical application of BMRA using real-world transboundary stocks with different life history strategies. Overall, our results suggest that transboundary stocks with high adult movement are most conducive to BMRA accept- ance and that the gains from the cooperative outcome can be reproduced under certain spatial connectivity conditions. Methods Model We build a simple two-patch model, where patches A and B represent two neighboring countries sharing a transbound - ary stock that could potentially form a BMRA. Naturally, the patches could be states, TURFs, or other jurisdictions, but it is helpful to think of them as countries with EEZs because they have defined sovereignty over extraction in their waters. Under non-cooperation, both patches fish in a non-cooperative manner, giving rise to an equilibrium where the transboundary fish stock is overexploited. This compro- mises both conservation and fishery profits. Instead, under BMRA, Patch B is paid to abstain from fishing, while Patch A continues to fish. Patch A has two things to gain from such an agreement: First, they enjoy spillover from the newly cre- ated reserve in Patch B.",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "International cooperation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|International cooperation",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|International cooperation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|International cooperation",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|International cooperation_qna_001",
+      "value": 1
+    }
+  ]
+}

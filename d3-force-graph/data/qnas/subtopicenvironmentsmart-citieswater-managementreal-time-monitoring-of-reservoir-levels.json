@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Real-time monitoring of reservoir levels",
+      "label": "Real-time monitoring of reservoir levels",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Real-time monitoring of reservoir levels_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are some potential benefits of real-time monitoring of water and wastewater resources in cities?",
+      "answer": "Real-time monitoring can lead to efficient management of water distribution and wastewater systems and enhance accessibility to safe drinking water in water-stressed areas.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Real-time monitoring of reservoir levels",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Real-time monitoring of reservoir levels_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the water level in Kakhovka Reservoir before the explosion?",
+      "answer": "The water level in Kakhovka Reservoir was around 17.5 m above sea level before the explosion.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The water level in Kakhovka Reservoir was around 17.5 m above sea level before explosion, and around 90% of the reservoir was drained after dam breach. The loss of 1Earth and Planetary Observation Sciences (EPOS), Biological and Environmental Sciences, Faculty of Natural Sciences, University of Stirling, Sti rling, UK. 2Department of Meteorology and Climatology, Odesa I.I.Mechnikov National University, Odesa, Jkraine.3Department of Oceanography and Marine Nature Management, Odesa I.I.Mechnikov National University, Odesa, Ukraine.4Department of Military Training, Odesa I.I.Mechnikov National University, Odesa, Ukraine. 5Department of Land Hydrology, Odesa I.I.Mechnikov National University, Odesa, Ukraine.6National Institute of Marine Geology and Geo-ecology (GeoEcoMar), Bucharest, Romania.7Institute of Oceanology, Bulgarian Academy of Sciences (IO-BAS), Varna, Bulgaria. e-mail: dalin.jiang@stir.ac.uk Communications Earth & Environment plume from the Kakhovka Dam breach and its impacts on the aquatic environ-ment in the north-western Black Sea (NWBS). Circles represent the locations of the TSS plume centre after the dam breach, between 9 June and 2 July 2023. The size ofeach circle indicates the area of the TSS plume, while the colour of the circle re ects the mean TSS in the plume area.",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Real-time monitoring of reservoir levels",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Real-time monitoring of reservoir levels",
+      "target": "Subtopic:Environment|Smart cities|Water management|Real-time monitoring of reservoir levels_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Real-time monitoring of reservoir levels",
+      "target": "Subtopic:Environment|Smart cities|Water management|Real-time monitoring of reservoir levels_qna_001",
+      "value": 1
+    }
+  ]
+}

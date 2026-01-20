@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Smart grids and clean energy",
+      "label": "Smart grids and clean energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Smart grids and clean energy_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What impact did smart grids have on Carbon Emissions and Energy Efficiency Gains between Year 1 and Year 5?",
+      "answer": "The reduction in Carbon Emissions from 500,000 to 350,000 metric tons reflected smart grid effectiveness in optimizing energy distribution, reducing waste, and minimizing environmental harm. Additionally, Energy Efficiency Gains increased from 6,000 kWh per capita to 7,500 kWh per capita, showing smart grids' positive impact on enhancing energy efficiency and reducing energy consumption.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Smart grids and clean energy",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Smart grids and clean energy",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Smart grids and clean energy_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "label": "Noise pollution",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What challenge is posed when working with large ecoacoustic datasets concerning non-focal sounds?",
+      "answer": "The challenge is that while it is possible to manually process small datasets to filter out non-focal sounds, this is not practical for large ecoacoustic datasets, which are often used to monitor biodiversity over larger scales.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The ration - ale behind this approach is that more biodiverse areas will have more complex and heterogeneous acoustic environments. Hence, by quantifying acoustic heterogeneity, we can make inferences about the biodiversity in an area of interest 12. Over sixty such indices are currently available11, with several shown to correlate with species diversity10 and diversity of biological sounds11. However, recent research has highlighted that the indices per - formance is, in many cases, inconsistent13,14 and varies considerably across regions14,1 depending on the specific characteristics of the soundscapes in those areas6, 16. For instance, it was shown that several of the indices tend to be less accurate in more biodiverse regions14 e.g., tropical environments, likely due to the higher number of species. Also, other studies have shown that non-focal sounds, such as those produced by human activities or non-biological processes (e.g., wind and rain), considerably affect the indices performance 16,17. When working with small ecoacoustic datasets, it S possible to manually process the data and remove or filter non-focal acous - tic signals. However, this is not practical when dealing with large ecoacoustic datasets, which is often the case when monitoring biodiversity over large spatial and temporal scales.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What recent technological development is being explored for ecoacoustic datasets?",
+      "answer": "Automated algorithms for preprocessing audio files and cleaning up ecoacoustic datasets are being explored.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Recently, automated algorithms have been proposed for preprocessing audio files and cleaning up ecoacoustic datasets, such as datasets affected by rain 18. However, this is still a field under development requiring more robust and comprehensive solutions. The above challenges compromise the effectiveness of passive acoustic monitoring methods, underscoring the need for further development to support wider adoption and use by conservationists and other stakeholders. Accelerating such development could be facilitated by the availability of suitable datasets from biodiverse areas. In this article, we present a large ecoacoustic dataset (1.58 TB) collected at sixty-one sites on the island of Cyprus (Fig. 1), part of the Mediterranean Basin biodiversity hotspot 19. The dataset, collected between March and May 2023, comprises 313,197 audio files, corresponding to over 5,200 recordings. It can be used for a range of appli - cations, such as (a) developing or improving species recognition algorithms, (b) further testing and refining acoustic indices, and (c) developing new tools for removing signals produced by non-biological processes or by non-focal species. Additionally, as indicated by its inclusion in the Worldwide Soundscape project (https://ecosound-web.de/ecosound_web/collection/index/106).",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What time frame was the ecoacoustic dataset collected in Cyprus?",
+      "answer": "The dataset was collected between March and May 2023.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Recently, automated algorithms have been proposed for preprocessing audio files and cleaning up ecoacoustic datasets, such as datasets affected by rain 18. However, this is still a field under development requiring more robust and comprehensive solutions. The above challenges compromise the effectiveness of passive acoustic monitoring methods, underscoring the need for further development to support wider adoption and use by conservationists and other stakeholders. Accelerating such development could be facilitated by the availability of suitable datasets from biodiverse areas. In this article, we present a large ecoacoustic dataset (1.58 TB) collected at sixty-one sites on the island of Cyprus (Fig. 1), part of the Mediterranean Basin biodiversity hotspot 19. The dataset, collected between March and May 2023, comprises 313,197 audio files, corresponding to over 5,200 recordings. It can be used for a range of appli - cations, such as (a) developing or improving species recognition algorithms, (b) further testing and refining acoustic indices, and (c) developing new tools for removing signals produced by non-biological processes or by non-focal species. Additionally, as indicated by its inclusion in the Worldwide Soundscape project (https://ecosound-web.de/ecosound_web/collection/index/106).",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the downsides of manual annotation in bioacoustics?",
+      "answer": "Manual annotation in bioacoustics is resource-intensive, requiring significant human labor, financial resources, and considerable domain expertise.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Multi-modal Language models in bioacoustics with zero-shot transfer: a case study Zhongqi Miao1 , Benjamin Elizalde2, Soham Deshmukh2, Justin Kitzes3, Huaming Wang2, Rahul Dodhia1 & Juan Lavista Ferres1 Automatically detecting sound events with Artificial Intelligence (AI) has become increas- ingly popular in the field of bioacoustics, ecoacoustics, and soundscape ecology , particularly for wildlife monitoring and conservation. Conventional methods predominantly employ supervised learning techniques that depend on substantial amounts of manually annotated bioacoustic data. However, manual annotation in bioacoustics is tremendously resource- intensive in terms of both human labor and financial resources, and it requires considerable domain expertise. Moreover , the supervised learning framework limits the application scope to predefined categories within a closed setting. The recent advent of Multi-Modal Language Models has markedly enhanced the versatility and possibilities within the realm of AI appli- cations, as this technique addresses many of the challenges that inhibit the deployment of AI in real-world applications. In this paper, we explore the potential of Multi- Modal Language Models in the context of bioacoustics through a case study . We aim to showcase the potential and limitations of Multi-Modal Language Models in bioacoustic applications.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main challenge of using supervised learning for bioacoustic data?",
+      "answer": "The main challenge of using supervised learning for bioacoustic data is the requirement of a large amount of manually annotated and time-stamped data for each sound of interest to train predictive models.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In bioacoustics, common approaches 1AI for Good Lab, 1 Microsoft Way, Microsoft, Redmond, WA 98052, USA. 2Microsoft, 1 Microsoft Way, Redmond, WA 98052, USA. 3Department of Biological Science, University of Pittsburgh, 4200 Fifth Ave, Pittsburgh, PA 15260, USA. email: zhongqimiao@microsoft.com OPEN Scientific Reports www.nature.com/scientificreports for sound event detection and categorical classification often rely on computer vision and deep learning methods like Convolutional Neural Networks (CNNs)25,26or Vision Transformers (ViTs)27,28within supervised learning frameworks. However, supervised learning depends on a large amount of manually annotated and time-stamped data for every sound of interest. This is necessary to train models capable of producing reliable predictions23,24,29 31. Assembling sufficient manually annotated audio data presents challenges mainly due to: (1) the ambiguity in defining the precise beginning and end of bioacoustic events, (2) the need for specialized domain expertise in bioacoustics for accurate annotations, and (3) the typically extended duration of bioacoustic recordings. Consequently, citizen scientists and crowdsourcing labeling services like Amazon Mechanical Turk have been less involved in the annotation of bioacoustic recordings than in labeling datasets from imagery sources, such as those collected by camera traps and satellites11,32 36.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is it difficult to assemble manually annotated audio data in bioacoustics?",
+      "answer": "Assembling manually annotated audio data in bioacoustics is difficult due to ambiguity in defining the precise start and end of bioacoustic events, the need for specialized domain expertise for accurate annotations, and the typically long duration of bioacoustic recordings.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In bioacoustics, common approaches 1AI for Good Lab, 1 Microsoft Way, Microsoft, Redmond, WA 98052, USA. 2Microsoft, 1 Microsoft Way, Redmond, WA 98052, USA. 3Department of Biological Science, University of Pittsburgh, 4200 Fifth Ave, Pittsburgh, PA 15260, USA. email: zhongqimiao@microsoft.com OPEN Scientific Reports www.nature.com/scientificreports for sound event detection and categorical classification often rely on computer vision and deep learning methods like Convolutional Neural Networks (CNNs)25,26or Vision Transformers (ViTs)27,28within supervised learning frameworks. However, supervised learning depends on a large amount of manually annotated and time-stamped data for every sound of interest. This is necessary to train models capable of producing reliable predictions23,24,29 31. Assembling sufficient manually annotated audio data presents challenges mainly due to: (1) the ambiguity in defining the precise beginning and end of bioacoustic events, (2) the need for specialized domain expertise in bioacoustics for accurate annotations, and (3) the typically extended duration of bioacoustic recordings. Consequently, citizen scientists and crowdsourcing labeling services like Amazon Mechanical Turk have been less involved in the annotation of bioacoustic recordings than in labeling datasets from imagery sources, such as those collected by camera traps and satellites11,32 36.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Noise pollution",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Noise pollution_qna_005",
+      "value": 1
+    }
+  ]
+}

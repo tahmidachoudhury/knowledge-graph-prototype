@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Predictive traffic modeling",
+      "label": "Predictive traffic modeling",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Predictive traffic modeling_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of modeling is considered appropriate for predictive simulations according to the paragraph?",
+      "answer": "Three-dimensional modeling is considered appropriate for predictive simulations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In contrast, the two-dimensional simulations consistently overestimated both parameters. Li et al. [22] noted in their studies that two-dimensional simulations fail to satisfactorily reproduce the results of three-dimensional simulations. They emphasized that two-dimensional simulations are suitable only for quali- tative assessments, whereas three-dimensional modeling is appropriate for predictive simulations. This study focuses on the numerical investigation of a stationary fluidized bed reactor with a simplified design, specifically tailored Biomass Conversion and Biorefinery for decentralized woody biomass combustion. Shi et al. [23] conducted numerical simulations of a fluidized bed filled with Geldart group B particles using the commercial CFD software FLUENT 16.2. They compared two-dimen- sional and three-dimensional simulation results, employ - ing a gas solid phase Eulerian-Eulerian based model. The studies demonstrate that the solid velocities predicted by the 2D model are higher than those obtained from the 3D model. The reduced solid velocity in three-dimensional models is explained by additional frictional losses due to the increased contact area between the fluid and the walls and the larger contact area between the fluid and the walls. The comparison between 2 and 3D modeling in the context of combustion within fluidized beds has been a subject of significant interest in recent research.",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Predictive traffic modeling",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Predictive traffic modeling_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the proposed framework determine the best-performing prediction model?",
+      "answer": "The framework does not assume any model will perform better in advance; it tries all algorithms that have historically performed well in previous experiments.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We select four generally best-performing learning models and two common deep learning models, Recurrent Neural Network (RNN) and Long short-term memory (LSTM). We then ensemble the results for each sub-factor using the bestperforming prediction model to obtain the nal prediction values for the carbon prices. Theadvantages of this type of framework are that we do not assume in advance that any learningmodel will perform better in terms of prediction, but instead try all algorithms which haveperformed historically well in previous experiments. This openness allows our results to bebetter adapted to the characteristics of the data distribution of the carbon price series. Suchdata-driven algorithms are more appropriate and applicable to a wider variety of scenarios. The nal prediction results are equivalent to incorporating the optimal prediction valuesof each decomposition sequence, and therefore clearly outperform the prediction resultsof one single algorithm. Moreover, the framework in this paper is easily interpretable andextendable, allowing for the inclusion of more feature variables, to further improve theprediction ef ciency of the algorithm. Our study is closely related to the literature that applies the structure of rst decomposing the raw carbon price series and then inputting the results into machine learning models, forinstance Li et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Predictive traffic modeling",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Predictive traffic modeling",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Predictive traffic modeling_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Predictive traffic modeling",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Predictive traffic modeling_qna_001",
+      "value": 1
+    }
+  ]
+}

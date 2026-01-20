@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine gearboxes",
+      "label": "Wind turbine gearboxes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine gearboxes_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the two main types of silicon steels, and how do they differ?",
+      "answer": "The two main types are non-oriented (NGO) and grain-oriented (GO) silicon steels. NGO steels have isotropic magnetic properties suitable for generator cores and electric motors, while GO steels are engineered for preferred magnetic orientation, excelling in high-efficiency transformers and motors.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " [69 76] A comprehensive and widely accepted phase diagram of the Fe-side ( XSi 0.50) was experimentally estab- lished by Schu rmann and Hensgen[77]using TA, DTA and equilibration technique. The bcc_A2/fcc_A1 solu-tions form a closed single-fcc_A1 region, generally known as c-loop . [78]Phase equilibria in this region were investigated by TA,[60,79]XRD[80]and characteri- zation techniques based on magnetic properties ofbcc_A2/fcc_A1. [81 83]The temperatures of bcc_A2/Table I. Summary of Stable Phases in the Binary Fe-Si System Phase Pearson Symbol Space Group Strukturbericht Prototype Model Denoted in text Liquid MQMaLiquid c-Fe cF4F m 3m A1 Cu CEFbfcc_A1 (a,d)-Fe cl2l m 3m A2 W CEF bcc_A2 a -FeSi cP2P m 3m B2 CsCl CEF bcc_B2 a -Fe 3Si cF16 Fm 3m DO 3 BiF 3 cbcc_D0 3 Fe2Si hP6 P63 =mmc Co 1.75Le CEF Fe 2Si Fe5Si3 hP16 P63 =mcm D88 Mn 5Si3 STCOdFe5Si3 FeSi cP8 P213 B20 FeSi CEF FeSi a-FeSi 2 tP3P 4 =mmm FeSi 2_I STCO a-FeSi 2 b-FeSi 2 oC48 Cmca FeSi 2_h CEF b-FeSi 2 Si(dia.)",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine gearboxes",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine gearboxes",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine gearboxes_qna_000",
+      "value": 1
+    }
+  ]
+}

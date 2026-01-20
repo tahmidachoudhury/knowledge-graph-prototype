@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices",
+      "label": "Harvesting practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does dualization affect fish footprint according to the demographic dynamics of consumption patterns?",
+      "answer": "Dualization declines fish footprint by 0.01% according to the assessment of consumption patterns.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0025326X23008032",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Harvesting practices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which two types of fishing vessels are primarily responsible for the high exploitation rates of commercial species?",
+      "answer": "Bottom trawlers and purse seiners are primarily responsible for the high exploitation rates of commercial species.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2007; Giannoulaki et al. 2013a; Colloca et al. 2015; Paradinas et al. 2022). The area has 14 fishing harbours, and five main commercial fishing fleets (in 2021 there were 191 bottom trawlers, 45 purse seiners, 228 small-scale vessels, and 6 bottom and 9 surface longliners, respectively) that fished 14.242 tonnes in 2021. The intense fishing activity results in high exploitation rates for most of the commercial species, mainly targeted by bottom trawlers and purse seiners (Merino et al. 2019). Fishing mostly takes places on a daily basis and the catch is commercialized in the national fresh fish markets, where we will focus the value chain analysis. Modelling approach We used the Ecopath with Ecosim (EwE) modelling approach, version 6.6.7. (Christensen et al. 2008 ), which includes the Ecopath mass-balance ecosystem model cou- pled to a value chain module (Christensen et al. 2011). The study area has been previously modelled with EwE exten - sively, and the modelling work presented here took advan- tage of these past efforts (Coll et al.",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Harvesting practices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of fishing vessels provided data for the Ecopath model in the study?",
+      "answer": "The model included data from trawlers, purse seiners, surface longliners, bottom longliners, and small-scale vessels.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2006, 2013b, 2021) updating the ecosystem model and coupling a value chain. The Ecopath model is based on the work originally pro- posed by Polovina (1984) and employs two master equa- tions that describe the consumption and production of each functional group included in the model (functional groups, or FG, can be specific species, groups, of similar species or developmental stages of a species) and works on the princi- ple of mass balance for each group (Christensen and Walters 2004). A complete description of the equations can be found in the supplementary material (Supplementary material 1.1. Ecopath main equations). The ecological model of the Ebro Delta area consisted of 55 functional groups (FG) (Supplementary material Table S1), some as multispecies and some formed by a single species (Coll et al. 2006, 2013b, 2021; Lloret-Lloret Sustainability Science 2023). The information on how the model was built as well as data sources are presented in the Supplementary material Sect. 1.2 and Tables S1 and S2 The model included data from trawlers, purse seiners, sur - face longliners, bottom longliners, and small-scale vessels, following the official Spanish fishing fleet segmentation.",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Harvesting practices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Harvesting practices_qna_002",
+      "value": 1
+    }
+  ]
+}

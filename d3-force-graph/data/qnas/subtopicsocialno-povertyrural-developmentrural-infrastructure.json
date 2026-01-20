@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural infrastructure",
+      "label": "Rural infrastructure",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural infrastructure_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What critical conditions were identified in Greek rural areas for adopting Sets according to Qualitative Thematic Analysis?",
+      "answer": "Qualitative Thematic Analysis revealed the critical conditions facing Greek rural areas in terms of adopting Sets, such as social, economic, and environmental factors.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Rural infrastructure",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural infrastructure_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the two essential components that support societal advancement mentioned in the paragraph?",
+      "answer": "The two essential components mentioned are energy and water.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " MFCs provide a long-term solution to energy and environmental issues by addressing both wastewater treatment and energy production. Keywords Water scarcity Energy crisis Microbial fuel cells Anode modifications Wastewater treatment Energy production Abbreviations AC: Alternating current AI2O3: Aluminum (III) oxide BEC: Bioelectrochemical cell BESs: Bioelectrochemical systems CNTs: Carbon nanotubes CNFs: Carbon nanofibers CV: Cyclic voltammetry COD: Chemical oxygen demand CE%: Coulombic efficiency CNs: Carbon nanospheres DET: Direct electron transfer DNA: Deoxyribonucleic acid DC: Direct current EAB: Electrochemically active bacteria EABF: Electroactive biofilm EAMs: Electroactive microorganisms EET: Extracellular electron transfer EESs: Enzymatic electrochemical systems * Bahaa A. Hemdan bahaa_nrc@yahoo.com 1 Water Pollution Research Department, Environment and Climate Change Research Institute, National Research Centre, 33 El-Bohouth St., Dokki 12622, Giza, Egypt 2 Pre-Treatment and Finishing of Cellulosic Fabric Department, Textile Research and Technology Institute, National Research Centre, 33 EL -Bohouth St., Dokki 12622, Giza, Egypt 3 Department of Environmental Engineering, College of Ocean Science and Engineering, Korea Maritime and Ocean University, 727 Taejong-Ro, Yeongdo-Gu, Busan 49112, Republic of Korea 4 Botany and Microbiology Department, Faculty of Science, Helwan University, Cairo, Egypt 5 Physics Department, Faculty of Science, Helwan University, Helwan, Cairo, Egypt 344 Bioprocess and Biosystems Engineering (2025) 48:343 366 EIS: Electrochemical impedance spectroscopy EPS: Extracellular polymeric substances eDNA: Extracellular DNA Fe3O4: Iron (II, III) oxide Gr: Graphene HGT: Horizontal gene transfer IET: Indirect electron transfer LED: Light emitting diode MECs: Microbial electrolysis cells MESs: Microbial electrosynthesis systems MDCs: Microbial desalination cells MSCs Microbial solar cells MFCs: Microbial fuel cells MESs: Microbial electrochemical systems MWCNT: Multi walled carbon nanotube MnO2: Manganese oxide NASA: National aeronautics and space administration NA: Not available ORR: Oxygen reduction reaction OMVs: Outer membrane vesicles PMFCs: Plant microbial fuel cells Pt: Platinum PPy: Poly-pyrrole PEDOT: Poly (3, 4-ethylene-dioxythiophene) PANI: Poly-aniline PEM: Proton exchange membrane Pmax: Performance max QS: Quorum sensing rGO: reduced graphene oxide SM-CNTs: Surface-modified TiO2: Titanium oxide TEA: Terminal electron acceptor UV: Ultraviolet WE: Working electron WTP: Water treatment plant Introduction Two essential components that support comfort and soci- etal advancement are energy and water [1 ].",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Rural infrastructure",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Rural infrastructure",
+      "target": "Subtopic:Social|No poverty|Rural development|Rural infrastructure_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Rural infrastructure",
+      "target": "Subtopic:Social|No poverty|Rural development|Rural infrastructure_qna_001",
+      "value": 1
+    }
+  ]
+}

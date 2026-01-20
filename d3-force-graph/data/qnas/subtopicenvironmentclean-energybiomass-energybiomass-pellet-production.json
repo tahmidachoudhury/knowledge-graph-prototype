@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "label": "Biomass pellet production",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What advanced modeling techniques were used in Miao Yang et al.'s study on biomass particles in a CFB furnace?",
+      "answer": "Miao Yang et al. used the Eulerian Lagrangian framework and the multi-phase particle-in-cell (MP-PIC) collision model.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A recent study by Miao Yang et al. studied a three-dimen - sional CFD model to delve into the hydrodynamic and com- bustion characteristics of biomass particles in an industrial- scale circulating fluidized bed (CFB) furnace. This study leverages advanced modeling techniques like the Eule- rian Lagrangian framework and the multi-phase particle- in-cell (MP-PIC) collision model to simulate the complex interactions within the furnace, providing insights into the optimization of combustion processes and emissions reduc- tion [16]. Tsekos et al. explored the gasification process as an alternative to direct combustion. This study introduced a novel approach to woody biomass gasification within a bub- bling fluidized bed, highlighting the potential for improved efficiency and reduced environmental impact. The research underscored the versatility of fluidized bed technology in accommodating various biomass conversion processes, from combustion to gasification, thereby broadening the scope of renewable energy applications [17]. These studies col- lectively emphasize the critical role of advanced modeling and simulation techniques in enhancing our understanding of fluidized bed reactors for woody biomass combustion and gasification. By providing detailed insights into the com - plex physical and chemical processes occurring within these reactors, researchers and engineers can optimize design and operational parameters, leading to more efficient and sus- tainable energy production from woody biomass.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What modeling approaches did Abdelmotalib et al. use to investigate flow dynamics and thermal properties of bed materials?",
+      "answer": "They employed an Eulerian-Eulerian model integrated with the Kinetic Theory of Granular Flow (KTGF).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abdelmotalib et al. [28] employed an Eule- rian-Eulerian model integrated with the Kinetic Theory of Granular Flow (KTGF) to investigate the flow dynamics and thermal properties of bed materials. The purpose of employ - ing the Kinetic Theory of Granular Flow (KTGF) is to model the solid stresses that originate from particle collisions and subscale particle motions [30]. Yang et al. [31] worked on a hybrid model that combines the Eulerian-Eulerian approach with the discrete phase model. In this model, the evolution of the bubble size distribution is captured by the discrete phase model, and the bubble size information is utilized to calculate local momentum interactions within the Eulerian- Eulerian model. The Eulerian-Eulerian approach employs a continuum methodology to efficiently simulate fluidization dynamics, offering faster numerical solutions. Nonetheless, this model incorporates a higher number of empirical coef- ficients, largely due to assumptions related to the drag model and the Kinetic Theory of Granular Flow (KTGF) [32]. This study also analyzed thermal temperature differences in two-dimensional and three-dimensional simulations of the combustion modeling of woody biomass.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to consolidate the milled powders into pellets?",
+      "answer": "The milled powders were consolidated into pellets using spark plasma sintering (SPS).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The milled powders were consolidated into disc-shaped pellets 20 mm in diameter and 12 mm thick, using spark plasma sintering (SPS; HP D 10-SD, FCT Systeme GmbH). The SPS cycle was performed in vacuum for 30 min at a heating rate of 100 C/min25 and a cooling rate of 50 C/min. Uniaxial pressure was increased linearly up to 48 MPa, maintained during the isothermal stage, and quickly released down to contact force during cooling. The consolidation temperatures were 700 C, 800 C, 900 C, 1000 C, and 1100 C, respectively. One sample was prepared for each consolidation temperature. In addition, Fe11Ti3AI6 samples were prepared to facilitate direct comparison with Fe10Cr1Ti3Al6. Although the properties of Fe11Ti3AI6 are available in the literature, 20 the samples were prepared using a different method. In order to ensure meaningful compari- son, both Fe10Cr1Ti3Al6 and Fe11Ti3AI6 were synthesized using the same procedures and conditions. The structure of the sintered samples was analyzed using x-ray diffraction (XRD; Siemens D5000 diffractometer), and the data were processed using X Pert HighScore Plus software.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the dimensions of the disc-shaped pellets produced?",
+      "answer": "The disc-shaped pellets were 20 mm in diameter and 12 mm thick.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The milled powders were consolidated into disc-shaped pellets 20 mm in diameter and 12 mm thick, using spark plasma sintering (SPS; HP D 10-SD, FCT Systeme GmbH). The SPS cycle was performed in vacuum for 30 min at a heating rate of 100 C/min25 and a cooling rate of 50 C/min. Uniaxial pressure was increased linearly up to 48 MPa, maintained during the isothermal stage, and quickly released down to contact force during cooling. The consolidation temperatures were 700 C, 800 C, 900 C, 1000 C, and 1100 C, respectively. One sample was prepared for each consolidation temperature. In addition, Fe11Ti3AI6 samples were prepared to facilitate direct comparison with Fe10Cr1Ti3Al6. Although the properties of Fe11Ti3AI6 are available in the literature, 20 the samples were prepared using a different method. In order to ensure meaningful compari- son, both Fe10Cr1Ti3Al6 and Fe11Ti3AI6 were synthesized using the same procedures and conditions. The structure of the sintered samples was analyzed using x-ray diffraction (XRD; Siemens D5000 diffractometer), and the data were processed using X Pert HighScore Plus software.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the density of sintered pellets measured in the study?",
+      "answer": "The density of sintered pellets was measured using the Archimedes method.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The density ( SPS) of sintered pellets was meas- ured using the Archimedes method. The chemical composi - tion was determined using scanning electron microscopy/ energy-dispersive x-ray spectroscopy (SEM/EDX; Quanta FEG 650). The room-temperature Seebeck coefficient was measured using a hot probe, and the room-temperature electrical resistivity was measured using a multifunctional probe measurement system.26 For high-temperature meas- urements, four samples were prepared using the same pro- cedures as described above, with the consolidation tem- perature at 1000 C. Two of the samples were cut into bars (3 mm 3 mm 10 mm) for the Seebeck and electrical resis- tivity measurements, and the other two (10 mm in diameter and 3 mm thick) were used for thermal conductivity meas- urements. The Seebeck coefficient and electrical resistivity were measured in a helium atmosphere using the ULVAC ZEM-3 system over a temperature range of 51 780 C. The thermal conductivity (k) was determined by laser flash meas- urement (NETZSCH LFA 457 MicroFlash, Germany). Results and Discussion Crystallization and Phase Transformation To monitor the formation of alloy after ball milling, XRD analysis was used to examine the phase transformation.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What temperatures were used for calcining the Dicranopteris pedata powder?",
+      "answer": "The Dicranopteris pedata powder was calcined at 400 °C, 600 °C, and 800 °C.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The Dicranopteris pedata powder was then dried for 3 h at 65 C. Secondly, appropriate amounts of powder of Dicranopteris pedata were calcined in a tube furnace at 400 C, 600 C, and 800 C separately under a nitrogen atmosphere for 3 h, the heating rate being 5 C min 1. Thirdly and finally, the REEs/C was cooled to room temperature and stored in a zip-lock bag in a dryer. The REEs/C samples derived from Dicranopteris pedata clipping waste at 400 C, 600 C, and 800 C were named., respectively, REEs/C-4, REEs/C-6, and REEs/C-8. Characterization experiments A Thermogravimetric Analyzer (TGA, Q500, TA, USA) measured the mass variation of REEs/C prepared by Dicranopteris pedata clipping at a heating rate of 5 C min 1 to a final temperature of 1000 C. The functional groups present in Dicranopteris pedata REEs/C with 3 calcination temperatures were monitored by Fourier Infrared Spectrometer (FTIR, NICOLET IS10, Thermo Fisher Scientific, USA) in the wavelength range of 4000 400 cm 1. Crystal structure discrepancies in Dicranopteris pedata REEs/C with different preparation temperatures were determined using X-ray Powder Diffractometer (XRD, D8 ADV ANCE, Bruker, Germany) at 2 of 5 75 and increment of 0.2 S 1.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass pellet production",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass pellet production_qna_005",
+      "value": 1
+    }
+  ]
+}

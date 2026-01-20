@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies",
+      "label": "Species conservation policies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What commitment has the Australian Government made regarding the swift parrot?",
+      "answer": "The Australian Government committed to averting the extinction of swift parrots.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " By 2015, estimates of a severe population decline33 resulted in uplisting the swift parrot to Critically Endangered 34. A key management recommendation to avert extinction was the management and protection of known swift parrot habitat at the landscape scale with the goal of achieving a sustained population increase over 10 years. Nevertheless, the swift parrot population has continued to decline25, with fewer than 500 individuals remaining35. Recently, the Australian Government committed to averting extinction of swift parrots36,37, which calls into question whether forest policies currently in place across Tasmania support or exacerbate the swift parrot S negative population trajectory38. Moreover, Australia has signed global commitments to halt forest degradation and deforestation by 2030 (i.e. the Glasgow Leaders Declaration on Forests and Land Use) 39. To date, no quantitative range-wide assessment of habitat loss has been undertaken for the swift parrot, although it has been a listed action in recovery plans for more than a decade40,41. Quantifying forest degradation and stand-disturbance (e.g. partial canopy loss, height reduction, thinning) in landscapes that remain forested (by regenerating woody growth) presents challenges.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species conservation policies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "Are there any restrictions on reproducing the WWF publications for commercial purposes?",
+      "answer": "Yes, reproduction of the publication for resale or other commercial purposes is prohibited without prior written permission from WWF.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " <doi.org/10.1101/2020.08.04.236489> 180 Chan, K.M., Boyd, D.R., Gould, R.K., Jetzkowitz, J., Liu, J., Muraca, B., Naidoo, R., Olmsted, P., Satterfield, T., Selomane, O. & Singh, G.G., 2020. Levers and leverage points for pathways to sustainability. People and Nature, 2(3), 693-717. 181 Abson D.J., Fischer J., Leventon J., Newig J., Schomerus T., Vilsmaier U., Von Wehrden H., Abernethy P., Ives C.D., Jager N.W., Lang D.J. (2017) Leverage points WWF Offices WWF Associates for sustainability transformation. Ambio, 46(1), 30-39. 182 He, F., Bremerich, V., Zarfl, C., Geldmann, J., Langhans, S. D., David, J. N. W., Armenia Madagascar Fundación Vida Silvestre (Argentina) Darwall, W., Tockner, K., & Jähnig, S. C. (2018). Freshwater megafauna diversity: Australia Malaysia Pasaules Dabas Fonds (Latvia) Patterns, status and threats. Diversity and Distributions, 24(10), 1395-1404.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species conservation policies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species conservation policies_qna_001",
+      "value": 1
+    }
+  ]
+}

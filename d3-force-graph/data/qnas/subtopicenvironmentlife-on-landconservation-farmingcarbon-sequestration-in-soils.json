@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils",
+      "label": "Carbon sequestration in soils",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of soil was discovered in the Amazon basin and what are its characteristics?",
+      "answer": "The soil discovered in the Amazon basin is a specific type of fertile, very dark, carbon-rich soil that contains greater nutrient content and organic carbon content than surrounding soils.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This specific type of fertile, very dark, carbon-rich soil, discovered in the Amazon basin, was found to contain greater nutrient content and greater organic carbon content than surrounding soils (Glaser et al., 2001). Biochar as a soil amendment produces many known benefits including improving carbon content and nutrient levels (Glaser et al., 2001), increasing the cation exchange capacity of soils (Glaser et al., 2001), increasing the water-holding capacity of soil (Gaskin et al., 2007; Herath et al., 2013), increasing pH levels in acidic soil (Novak et al., 2009a, 2009b), as well as reducing and immobilizing toxic metals such as arsenic, cadmium and zinc (Park et al., 2011). Biochar application to soil can also provide long-term carbon sequestration, reduce yearly greenhouse emissions and ultimately mitigate climate change (Woolf et al., 2010). Far more research has focused on evaluating the benefits of sewage sludge biochar on soil fertility and crop yield (Gwenzi et al., 2016; Hossain et al., 2015; Khan et al., 2013; Liu et al., 2014a; Sousa & Figueiredo, 2016; Tian et al., 2019; Waqas et al., 2015; You et al., 2019; Zhang et al., 2016), compared to faecal sludge biochar (Bai et al., 2018; Woldetsadik et al., 2018).",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Carbon sequestration in soils",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In which publication and year can the research on N2 emissions be found?",
+      "answer": "The research on N2 emissions can be found in \"Biology and Fertility of Soils\" published in 2025.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2023). Quantifying N2 losses is crucial to understand denitri- fication dynamics, N use efficiency of crops, and to develop strategies to mitigate denitrification and N2O fluxes (Scheer et al. 2020). Direct quantification of N2 emissions is quite challeng- ing, particularly due to its high atmospheric background concentrations of 78.1%. The only method that is applica- ble on the field scale is the 15N gas flux method (15NGF, * Pauline Sophie Rummel pauline.rummel@bio.au.dk 1 Department of Crop Science, Plant Nutrition and Crop Physiology, Georg-August-Universit t G ttingen, G ttingen, Germany 2 Federal Research Institute for Rural Areas, Forestry and Fisheries, Th nen Institute of Climate-Smart Agriculture, Brunswick, Germany 3 Department of Crop Science, Soil Physics, Georg-August-Universit t G ttingen, G ttingen, Germany 4 Wageningen Environmental Research, Wageningen University & Research, Wageningen, The Netherlands 5 Department of Geosciences and Natural Resource Management, Geography, University of Copenhagen, Copenhagen, Denmark 490 Biology and Fertility of Soils (2025) 61:489 505 a list of abbreviations can be found in the Supplementary Material).",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Carbon sequestration in soils",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Carbon sequestration in soils_qna_001",
+      "value": 1
+    }
+  ]
+}

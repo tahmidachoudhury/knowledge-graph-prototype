@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions",
+      "label": "Acidification in polar regions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does nitrogen influence bryophytes according to the paragraph?",
+      "answer": "Nitrogen could indirectly affect bryophytes by reducing vascular plant richness and shifting community composition towards fast growth.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In addition to changes in vascular plant biomass, nitrogen could indirectly affect bryophytes by reducing vascular plant richness and shifting community composition towards fast growth. Observational studies have shown that bryophyte richness correlates positively with vascular plant richness 28, however, it is not clear whether vascular plant richness affects bryophyte cover and richness, or whether the two simply respond to a shared driver. Vascular plant richness could increase bryophyte abundance and richness by increasing the heterogeneity of resources, e.g. by providing a mosaic of different light levels or a larger range of soil pH, as has been found for temperate forests and vascular plants in the understory 29. In addition to potential positive effects, a high vascular plant richness could also decrease bryophyte cover and richness by leading to increased vascular plant biomass and cover 30. However, vascular plant richness could also increase bryophyte abundance and richness by increasing the heterogeneity of resources, e.g. by providing a mosaic of different light levels or a larger range of soil pH, as has been found for temperate forests and vascular plants in the understory 29.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification in polar regions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the shift in vascular plant species affect bryophytes according to the hypotheses?",
+      "answer": "A shift to fast-growing vascular plant species with high specific leaf area (SLA) is expected to reduce bryophyte species richness and cover due to lower structural heterogeneity and alterations in water and nutrient availability.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Our hypotheses were: H1: Disturbance by weeding increases bryophyte cover and richness by producing bare ground for bryophyte colonization and increased light levels 47. H2: Nitrogen fertilization directly reduces bryophyte cover and richness via toxicity 23,31,48. H3: Nitrogen fertilization and fungicide application increase shading from vascular plants and decrease open space which in turn indirectly decreases bryophyte cover and richness 19,49. H4: Loss of vascular plant richness and shift to fast-growing species (high SLA) will reduce bryophyte species richness and cover due to lower structural heterogeneity 29 and changes in water and nutrient availability 30 respectively. Legacy effects of initial species richness and functional composition could persist for many years. Methods Study site We conducted our study in the PaNDiv experiment, a large grassland field experiment in the Swiss lowlands (M nchenbuchsee, canton of Bern, 47 3 N, 7 46 E, 564 m a.s.l. 36). The annual mean temperature is 9.3 C with Scientific Reports a mean precipitation of 1022 mm (Federal Office of Meteorology and Climatology MeteoSwiss). Twenty different vascular plant species common to this grassland were sown at the beginning of the experiment in autumn 2015 (Table S1; nomenclature following Juillerat et al.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification in polar regions",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification in polar regions_qna_001",
+      "value": 1
+    }
+  ]
+}

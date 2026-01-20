@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship",
+      "label": "Biodiversity stewardship",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What has primarily driven the steep decline in biodiversity according to the paragraph?",
+      "answer": "Natural habitat loss or deterioration due to land use change, with agriculture as the most prominent driver.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Transformation of the Earth S systems by humans has caused biodi- versity to steeply decline in recent history, primarily driven by natural habitat loss or deterioration due to land use (LU) change, with agri- culture as its most prominent driver1. In order to develop evidence- based actions for achieving the targets of the United Nations Kumming-Montreal Global Biodiversity Framework, we need robusttools for assessing LU change impacts on biodiversity that providedecision-support for accountability and effective conservationmeasures. Biodiversity indicators are tools to monitor ecosystems current conditions, in order to guide gover nance for safeguarding biological diversity from the local (e.g., on-the-ground implementation in con-servation actions) to the national (e.g., national biodiversity strategiesand action plans) or global scales (e.g., the Convention on BiologicalDiversity (CBD)). They can be used to assess historical contributions to biodiversity decline, its current status, and future trends under agri- cultural land transformation 2,3. The sustainability of a production sys- tem can be evaluated according to its interactions with biodiversity, toestimate how much native biodiversity has been, or will be, lost or alternatively can be conserved or restored depending on manage- ment strategies.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Biodiversity stewardship",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the title of the report produced by the WWF UK related to biodiversity and due diligence?",
+      "answer": "The title of the report is \"Designing Due Diligence.\"",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 017-0273-9 Environmental Research Letters, 17(4), 045004. doi.org/10.1088/1748-9326/ 139 Soergel, B., Kriegler, E., Bodirsky, B. L., Bauer, N., Leimbach, M. & Popp, A. (2021). ac5766 Combining ambitious climate policies with efforts to eradicate poverty. Nature 127 Springmann, M., Clark, M., Mason-D'Croz, D., Wiebe, K., Bodirsky, B. L., Communications, 12(1), 2342. doi.org/10.1038/s41467-021-22315-9 Lassaletta, L., de Vries, W., Vermeulen, S. J., Herrero, M., Carlson, K. M., Jonell, 140 Pereira, L. M., Davies, K. K., Belder, E., Ferrier, S., Karlsson-Vinkhuyzen, S., M., Troell, M., DeClerck, F., Gordon, L. J., Zurayk, R., Scarborough, P., Rayner, Kim, H., Kuiper, J. J., Okayasu, S., Palomo, M. G., Pereira, H. M., Peterson, G., M., Loken, B., Fanzo, J., Godfray, H. C. J., Tilman, D., Rockström, J.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Biodiversity stewardship",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Biodiversity stewardship_qna_001",
+      "value": 1
+    }
+  ]
+}

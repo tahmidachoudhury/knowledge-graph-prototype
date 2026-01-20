@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks",
+      "label": "Impact on pteropods and mollusks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What spectrometer was used to analyze differences in surface elemental composition and speciation of Dicranopteris pedata REEs/C?",
+      "answer": "Differences in surface elemental composition and speciation were analyzed using a Multifunctional imaging electron spectrometer (XPS, Thermo ESCALAB 250XI, Thermo Fisher Scientific, USA).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The specific surface areas of Dicranopteris pedata REEs/C with different preparation temperatures were obtained from Brunauer-Emmett-Teller (BET, BELSORP-mini II, Japan), based on N2 adsorption and desorption curves. The morphological and elemental compositions of Dicranopteris pedata REEs/C with different preparation temperatures were detected by Ultrahigh resolution cold field emission scanning electron microscope (SEM, Regulus 8100, Hitachi, JPN). It was combined with EDS (JEM-2100, Lorentz) using an acceleration voltage of 5.2 kV . Differences on the surface elemental composition and speciation of Dicranopteris pedata REEs/C with different preparation temperatures were analysed by Multifunctional imaging electron spectrometer (XPS, Thermo ESCALAB 250XI, Thermo Fisher Scientific, USA). Here the test parameters were ALK (hv = 1486.6 eV), 150 W 500 m, and the calibration point of the binding energy of the instrument was C1s = 284.8 eV . The electrical charge characteristics of REEs/C with different preparation temperatures were measured using a Zeta point position analyser in different pH (NANO ZS, Malvern Panalytical, UK). Removal experiment To evaluate the removal capacity of various REEs/C, we designed an experiment for removing Pb(II) utilising three tested REEs/Cs.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Impact on pteropods and mollusks",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the two categories of macroinvertebrates mentioned in the paragraph?",
+      "answer": "The two categories are pollution sensitive taxa (e.g., Leptophlebiidae, Siphlonuridae, Arctopsychidae, and Perlidae) and pollution tolerant taxa (e.g., Chironomidae, Lymnaeidae, Planorbidae, and Glossiphoniidae).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Macroinvertebrate monitoring can help determine population dynamics and river changes, revealing information about the ecosystem S general health and functioning and thereby aiding in enabling focused biodiversity conservation efforts and assessing environmental change16,17. Macroinvertebrates can be considered as (i) pollution sensitive (e.g., Leptophlebiidae, Siphlonuridae, Arctopsychidae and Perlidae) that need good water quality to survive, and may require clear or non turbid waters and/or high dissolved oxygen levels18, and (ii) pollution tolerant taxa (e.g., Chironomidae, Lymnaeidae, Planorbidae and Glossiphoniidae) which can survive in poor water quality, with unique adaptations that allows them to survive in turbid and nutrient enriched waters containing low dissolved oxygen 19,20. Therefore, any changes in water quality plays have a significant role in structuring macroinvertebrate communities in aquatic ecosystems. Understanding the relationship between macroinvertebrates and environmental variables can provide insights into the complex interactions within the river systems21,22. Environmental variables such as water temperature, metals and nutrient concentrations can directly influence the distribution and abundance of macroinvertebrates23. For example, increased nutrient loads, metals and other toxic substances can negatively affect macroinvertebrate abundances and diversities, leading to shifts in community composition24.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Impact on pteropods and mollusks",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Impact on pteropods and mollusks_qna_001",
+      "value": 1
+    }
+  ]
+}

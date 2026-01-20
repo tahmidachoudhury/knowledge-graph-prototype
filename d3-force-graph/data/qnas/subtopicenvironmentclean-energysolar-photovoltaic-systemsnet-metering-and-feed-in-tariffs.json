@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Net metering and feed-in tariffs",
+      "label": "Net metering and feed-in tariffs",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Net metering and feed-in tariffs_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the two methods of recovering energy subsidies discussed in the paper?",
+      "answer": "The two methods discussed are a flat-rate household charge and a surcharge on the price per unit of electricity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Energy subsidies, such as renewable energy price supports or energy ef ciency subsidies,are commonly recovered via surcharges on energy consumption; either a at-rate householdcharge or a surcharge on the price per unit of electricity. This paper compares the equity andef ciency effects of commonly-employed methods by calibrating a social welfare functionaccording to societal preferences for inequality sourced from the empirical literature. Whencomparing a at-rate household charge with a surcharge on the price per unit, we nd that anelectricity price surcharge is welfare maximising in the majority of considered circumstances.It is less regressive, despite the obvious price distortion. We quantify the welfare loss of thisprice distortion for a 2015/16 Irish case study. Switching from a at-rate household chargeto a price surcharge reduces consumer surplus by an additional 0.7% to 3%, depending onthe price elasticity of demand. There is a strong distributional effect. Under likely rates ofprice elasticity, switching from a at-rate household charge to a price surcharge results inan annual average welfare gain of e8.31 for households in the rst (lowest) quintile of the income distribution, whilst households in the fth (highest) quintile incur a loss of e11.83.",
+      "macrotopic": "Clean energy",
+      "topic": "Solar photovoltaic systems",
+      "subtopic": "Net metering and feed-in tariffs",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Net metering and feed-in tariffs",
+      "target": "Subtopic:Environment|Clean energy|Solar photovoltaic systems|Net metering and feed-in tariffs_qna_000",
+      "value": 1
+    }
+  ]
+}

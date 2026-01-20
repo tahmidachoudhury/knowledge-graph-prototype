@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable urban planning",
+      "label": "Sustainable urban planning",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable urban planning_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the purpose of the consolidated framework mentioned in the paragraph?",
+      "answer": "The purpose of the consolidated framework is to assess and integrate multiple environmental pressures, serving as a vital tool for urban strategic planning, and to promote sustainable urban development amidst the climate crisis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This consolidated framework for assessing and integrating multiple environmental pressures is a vital tool for urban strategic planning. It addresses the complex interplay of urban factors, offering a proactive, transparent, and cost-effective approach to mitigate environmental pressures and promote sustainable urban development amidst the ongoing climate crisis. The methodology's replicability under - scores its potential for broad application, contributing to the global effort in achieving urban sustainability and resilience. Keywords Air quality Urban heat Green space Adaptation Mitigation Urban resilience Introduction Urban sprawl, along with the accompanied implications (e.g., pollution, urban heat stress, biodiversity loss), is one of the biggest challenges that modern societies are confronted with (Humbal et al. 2023). Today, the degree of urbanization globally is close to 57%, while among continents Europe has the third highest level of urbanization with three quarters of the population residing in urban areas ( Urbanization by continent 2022, n.d., Stanners and Bourdeau 1995), also indicating the degree of environmental vulnerability that cit- ies are exposed to. Local authorities, in collaboration with national, regional or even global networks and initiatives,1 Responsible Editor: Katerina Pantavou.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Sustainable urban planning",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable urban planning",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable urban planning_qna_000",
+      "value": 1
+    }
+  ]
+}

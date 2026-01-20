@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Subglacial lake exploration",
+      "label": "Subglacial lake exploration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Subglacial lake exploration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What effect does full submersion of specimens during freeze-thaw cycles have compared to just having water on top?",
+      "answer": "Full submersion induces more internal cracks than solely having water on top during freeze-thaw cycles.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Full submersion of specimens during FTCs induced more internal cracks than solely water on top. These findings on the interactions between pre-damage, water boundary conditions, and inter - nal frost damage offer insight into the causes of frost damage, vital for the design and assessment of con- crete structures in frost-prone environments. Fur - thermore, the results of these dual-scale tests can be used as a test case for the development of upscaling numerical models describing heat transfer and frost degradation in concrete. Keywords Internal frost damage Concrete Pre- damage Water boundary condition Freeze-thaw cycle 1 Introduction Recent climate change has increased the frequency of Freeze-Thaw Cycles (FTCs) in cold regions, esca- lating the risk for existing concrete structures [1, 2]. One of the major types of damage caused by FTCs L.-Z. Chang (*) K. Lundgren Department of Architecture and Civil Engineering, Chalmers University of Technology, 41258 Gothenburg, Sweden e-mail: langzi.chang@chalmers.se K. Frid Department of Materials Science and Applied Mathematics, Malm University, 21119 Malm , Sweden R. Kruse R. J nicke Institute of Applied Mechanics, Technische Universit t Braunschweig, 38106 Braunschweig, Germany Materials and Structures (2025) 58:74 74 Vol: (1234567890) in concrete is internal frost damage [3].",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Subglacial lake exploration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Subglacial lake exploration",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Subglacial lake exploration_qna_000",
+      "value": 1
+    }
+  ]
+}

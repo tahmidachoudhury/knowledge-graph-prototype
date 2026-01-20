@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies",
+      "label": "Corporate carbon reduction strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does R&D investment in CO2 emission reduction impact a company's performance according to Lee et al.?",
+      "answer": "Lee et al. claimed that R&D investment in the area of CO2 emission reduction has a positive impact on a company??s performance.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2211467X24000282",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Corporate carbon reduction strategies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How do fluctuating carbon prices affect a company's operational strategy?",
+      "answer": "Fluctuating carbon prices affect a company's operational strategy by increasing running costs and creating uncertainty in production activities due to extreme volatility.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fluctuating carbon prices may affect the running costs of a company and therefore its operational strategy, since extreme volatility in carbon pricescan be risky and create uncertainty in production activities. Hence, effective carbon priceforecasting will not only help manage the market risk but also contribute to broader politicalobjectives to tackle climate change. The currently extensive carbon forecasting methods can be groups to three streams: tradi- tional econometric models , such as GARCH (Liu & Huang, 2021 ), ARMA/ARMIA (Conejo et al., 2005 ; Sun & Zhang, 2018 ; Zhou et al., 2006 ),machine learning models such as neu- ral networks (Chiu et al., 2020 ; Mayer et al., 2015 ;Y ue ta I . , 2014 ; Zhu et al., 2017 ), and ensemble models (Lu et al., 2020 ; Safari & Davallou, 2018 ; Zhu et al., 2018b ). Overall, the integrated model, with its two-stage framework of decomposition-prediction, has come todominate the eld of carbon price forecasting. Given that carbon prices are non-linear andnon-stationary, taken alongside the over tting and local optimization problems of machinelearning, many studies apply a combination of econometric models to predict the linear partof the decomposition, and machine learning models to predict the non-linear part (Zhang &Wu, 2022 ; Zhang et al., 2018 ;Z h u&W e i, 2013 ; Zhu et al., 2018a ,2018b ).",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Corporate carbon reduction strategies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Corporate carbon reduction strategies_qna_001",
+      "value": 1
+    }
+  ]
+}

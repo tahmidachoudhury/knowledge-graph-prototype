@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture",
+      "label": "Regulatory frameworks for carbon capture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What should you do if the material is not included under the Creative Commons licence and your intended use is not covered by statutory regulation or exceeds the permitted use?",
+      "answer": "You will need to obtain permission directly from the copyright holder.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " If material is not included in the article S Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/ licenses/by/4.0/ This article is simultaneously published in the Canadian Association of Radiologists Journal (https://doi.org/10.1177/8465371241321390 ), European Radiology (https://doi.org/10.1007/s00330-25-11413-1 ),Journal of Medical Imaging and Radiation Oncology (https://doi.org/10.1111/1754-9485.13842 ), Journal of the American College of Radiology (https://doi.org/10.1016/j.jacr.2025. 2.009 ),Korean Journal of Radiology (https://doi.org/10.3348/kjr.2025.125 ) and Radiology (https://doi.org/10.1148/radiol.250325 ). The articles are identical except for minor stylistic and spelling differences in keeping with eachjournal S style. Either DOI can be used when citing this article. *Correspondence: Andrea G. Rockall a.rockall@imperial.ac.ukFull list of author information is available at the end of the article1234567890():,;1234567890():,; 1234567890():, 1234567890():, By fostering a culture of global cooperation and rapid shar ing of solutions amongst the broader imaging community, we can transform radiological practice to mitigate its envir onmental impact, adapt and develop resilience to current and future climate and environmental threats, a nd simultaneously improve access to care.",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Regulatory frameworks for carbon capture",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Who provided guidance to the NCA5 authors on DEAI efforts?",
+      "answer": "The USGCRP provided guidance to the NCA5 authors on defining and enabling DEAI efforts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Systemic barriers can be especially high along gender lines and for authors who are Black, Indigenous, or persons of color (Campbell et al. 2013 ; Nielsen et al. 2017 ; Gay- Antaki and Liverman 2018 ). In light of these critiques and building on past NCA efforts, the NCA5 process was designed to be transparent and inclusive. The NCA5 leadership team emphasized DEAI in its work, with the goals of: (1) diverse and inclusive participation in the assessment development process; (2) integration of equity and environmental justice in NCA5 content; and (3) accessible and inclusive engagement, outreach, and communication. NCA5 also benefited from strong leadership and guidance on defining and enabling DEAI efforts. For example, USGCRP provided authors with a clear Code of Conduct, which aimed to foster a safe, inclusive, and respectful working environment for all assessment participants. Still, NCA5 authors noted the need for a consistent definition of DEAI for the entire assessment effort, especially since some authors came from professional backgrounds or scientific disciplines where engagements with aspects of DEAI are less common.",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Regulatory frameworks for carbon capture",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of checks were performed to validate the results of the study?",
+      "answer": "The study performed robustness checks to validate the results through the new D2C algorithm.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract The aim of this study is to explore the nexus among CO 2emissions, energy use, and GDP in Russia using annual data ranging from 1970 to 2017. We rst conduct time-seriesanalyses (stationarity, structural breaks, and cointegration tests). Then, we present a newD2C algorithm, and we run a Machine Learning experiment. Comparing the results of thetwo approaches, we conclude that economic growth causes energy use and CO 2emissions. However, the critical analysis underlines how the variance decomposition justi es the quali-tative approach of using economic growth to immediately implement expenses for the use ofalternative energies able to reduce polluting emissions. Finally, robustness checks to validatethe results through a new D2C algorithm are performed. In essence, we demonstrate theexistence of causal links in sub-permanent states among these variables. Keywords CO 2emissions Energy use Economic growth Machine learning D2C algorithm Time-series Russia JEL Classi cation B22 C32 N55 Q43 1 Introduction Economic growth affects the way a country uses energy and in return is likely to increase the rate of carbon dioxide (CO 2) emissions in the atmosphere. It comes as a result of development and increases in industries, which consume more and more energy (Malik & Lan, 2016 ).",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Regulatory frameworks for carbon capture",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Regulatory frameworks for carbon capture_qna_002",
+      "value": 1
+    }
+  ]
+}

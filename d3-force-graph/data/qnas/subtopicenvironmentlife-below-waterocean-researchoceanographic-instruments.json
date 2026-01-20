@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanographic instruments",
+      "label": "Oceanographic instruments",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanographic instruments_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What instruments are included in the IMCL for analyzing samples?",
+      "answer": "Instruments in IMCL include atom probe tomography, electron probe micro-analyzer, X-ray diffractometer, FIB SEM, TEM, XCT, nanointegrator, and various thermal properties instruments.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Irradiated samples are transferred into the facility in highlyshielded containers and unloaded from the contain- ers in the shielded sample preparation area remo- tely using manipulators. Samples can be remotelysectioned, polished, prepared, and mounted to min- imize radiation dose to personnel. If needed, sam- ples can undergo decontamination efforts in aradiological glovebox before being transferred to the laboratory. Instruments in IMCL consist of atom probe tomography, electron probe micro-analyzer, an X-ray diffractometer, FIB SEM, TEM, XCT, a nanoin- denter, and a suite of thermal properties instru- mentation (laser ash analyzer, simultaneousthermal analysis- mass spectrometry, thermal con- ductivity microscope, ash differential scanning calorimeter, and a physical property measurementsystem). Some of these instruments have a sample analysis station where instruments are coupled to a glovebox through a loading port. These gloveboxeshave shielded steel walls to minimize contamination and provide additional shielding of highly radioac- tive materials that are loaded into the instruments. X-ray Microscope A ZEISS Xradia 520 Versa X-ray Microscope (XRM) was installed in IMCL in 2019 to enable XCT examination of radioactive fuels and materials.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Oceanographic instruments",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Oceanographic instruments",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Oceanographic instruments_qna_000",
+      "value": 1
+    }
+  ]
+}

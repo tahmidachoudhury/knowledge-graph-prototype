@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership",
+      "label": "Women in environmental leadership",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What gender difference was observed in environmental preferences in the study?",
+      "answer": "Women displayed stronger pro-environmental preferences than men.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract This study explores the influence of socioeconomic factors specifically income, educa- tion, and employment status on environmental protection preferences across 62 devel- oped and developing nations. Using a comprehensive dataset of over 78,0 respondents (World values survey Wave 7), we examine how variations in socioeconomic status shape environmental perceptions and pro-environmental behaviors. The results reveal that educa- tion is a consistently strong predictor of pro-environmental attitudes. At the same time, income shows a more complex relationship, with higher-income individuals in wealthier countries less likely to prioritize environmental protection. Contrary to previous research, urbanization is associated with slightly weaker environmental preferences, suggesting that economic pressures in urban areas may override sustainability concerns. Gender dif- ferences also emerged, with women displaying stronger pro-environmental preferences than men. These findings offer important theoretical contributions, challenging traditional assumptions about the Environmental Kuznets Curve and the role of urbanization in envi- ronmental awareness. The study also provides practical implications for policymakers, emphasizing the need for targeted environmental education and region-specific sustainabil- ity strategies. Keywords Socioeconomic status Environmental protection Environmental awareness Sustainability 1 Introduction Achieving sustainable development necessitates a holistic approach that harmonizes eco- nomic growth with environmental protection (United Nations, 2016).",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "subtopic": "Women in environmental leadership",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the focus of Washington and Women's (2016) work \"A Future beyond Growth\"?",
+      "answer": "In their work \"A Future beyond Growth,\" Washington and Women (2016) explore alternative pathways beyond traditional economic growth models, emphasizing sustainable development and environmental stewardship.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0959652623008363",
+      "paragraph": "",
+      "macrotopic": "Gender equity",
+      "topic": "Female leadership roles",
+      "subtopic": "Women in environmental leadership",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership",
+      "target": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership",
+      "target": "Subtopic:Social|Gender equity|Female leadership roles|Women in environmental leadership_qna_001",
+      "value": 1
+    }
+  ]
+}

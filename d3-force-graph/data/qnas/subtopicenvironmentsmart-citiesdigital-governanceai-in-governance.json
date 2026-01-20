@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "label": "Ai in governance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the notable gap identified in the existing policies and frameworks?",
+      "answer": "There is a lack of empirical research that integrates AI, curriculum, and sustainability in schools.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In response to these challenges, frameworks like the European Commission S Digi- tal Competitiveness Framework (2022) and the UNESCO AI Competencies framework (2024) promote a holistic approach to enhancing inclusive and ethical AI integration in education. These frameworks emphasise [1] teachers performance, [2] pedagogical strategies, and [3] learners digital competencies. They call for AI to be leveraged for learning equity, assessment fairness, cognitive engagement, digital resource governance, and ethical teaching models. They also stress the importance of ethical AI literacy for both teachers and students (UNESCO, 2024a, 2024b; European Commission, 2023). However, despite these foundational policies and frameworks, there is still a nota- ble lack of empirical research that integrates Al, curriculum, and sustainability in schools. To address this gap, this study explores Al-supported transversal skills using open schooling including Al activities for Sustainable Development Goals (SDGs). One particularly underexplored area is understanding students views about their learning experiences to develop refined human judgment when using, recreating, and interpreting Al-generated content, with an emphasis on critical thinking and problem-solving (Langhans et al., 2020; Schiff, 2021).",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "subtopic": "Ai in governance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How can government interventions help in overcoming the challenges associated with smart cities?",
+      "answer": "Government interventions and multiscale governance mechanisms are essential to ensure balanced growth and avoid disproportionate impacts on societal groups.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "subtopic": "Ai in governance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is emphasized as necessary for the sustainable development of AI in relation to emerging and developing economies?",
+      "answer": "There is an urgent need for collaborative governance that establishes binding international standards to develop digital infrastructure and skills in emerging markets, enabling participation in AI development while protecting climate goals.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Di erent Al systems vary in their levels of autonomy and adaptiveness after deployment . 123456789(). V ,-vol 123 Eur. Phys. J. Spec. Top. need for governance and regulation, followed by an in-depth analysis of AI S dangers, particularly in job markets and economic inequality. We then explore AI S impact on healthcare, addressing both its bene its and ethical risks, before discussing the cognitive costs of Al, including dependency and skill erosion. Finally, we conclude by emphasizing the role of the academic community in shaping AI S future. 2 Collateral damage and e ective governance Nowhere is the balance between technological progress and unintended harm more evident than in the widespread use of automobiles. While cars have revolutionized transportation and global connectivity, they also come with signi cant risks more than a million people lose their lives in tra C accidents each year [ 14]. However, this risk is not uniform across di erent regions of the world. As seen in Eur. Phys. J. Spec. Top. 3 AI S dual impact There is no doubt that Al o ers signi cant bene its.",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "subtopic": "Ai in governance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the article suggest smaller countries might struggle with AI development?",
+      "answer": "Smaller countries may struggle with AI development due to a lack of infrastructure capable of meeting the high energy demands required for AI, raising concerns about equitable participation in AI advancements.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " AI S immense power and water demands are already proving to be a challenge, even for advanced economies [ 35,36]. According to studies from the International Monetary Fund (IMF), the computational power required to sustain AI development is growing rapidly, with the potential to consume as much energy as entire countries in the near future [ 37]. This raises critical questions about whether smaller countries, lacking the necessary infrastructure to support such large power demands, will ever be able to participate in AI development at that scale [ 38]. The real concern is whether AI will become a powerful tool controlled by a small number of countries, much like nuclear weapons or rocket technology [ 39]. The IMF S conclusion is clear: Emerging market and developing economies should prioritize developing digital infrastructure and digital skills [ 37]. To prevent technological competition from leading to unnecessary environmental sacri ces, there is an urgent need for collaborative governance that establishes binding international standards. Cooperation between govern-ments and technology companies can enable the sustainable development of Al, ensuring that climate goals are protected without suppressing innovation [ 40].",
+      "macrotopic": "Smart cities",
+      "topic": "Digital governance",
+      "subtopic": "Ai in governance",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "target": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "target": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "target": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance",
+      "target": "Subtopic:Environment|Smart cities|Digital governance|Ai in governance_qna_003",
+      "value": 1
+    }
+  ]
+}

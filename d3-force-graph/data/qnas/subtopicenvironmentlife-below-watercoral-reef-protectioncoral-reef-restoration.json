@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral reef restoration",
+      "label": "Coral reef restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral reef restoration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How long were corals allowed to recover after sampling before further procedures?",
+      "answer": "The corals were allowed to recover for at least four days prior to any repetitive sampling.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fragments were photographed for tissue surface area measurements (ImageJ) alongside a ruler to standardize photo size, and their photochemical health was measured using the IPAM. Small tissue biopsies comprised of two, approximately 7 mm in length and 3 mm in width, samples were taken from each core using a sterile razor blade and were preserved in 500 L of 1% SDS (w/v) in DNA Buffer (0.4 M NaCI and 0.5 M EDTA in MilliQ water; Baker 2016; Cunning and Baker 2013) for DNA extraction and quantitative PCR (qPCR) analysis of their Symbiodiniaceae communities. Corals were then returned to their original tanks and allowed to recover for at least four days prior to any repetitive sampling. Each fragment was subjected to one daytime incubation period and one nighttime incubation period through the course of this study. After each incubation, the resultant seawater sample from each chamber was decanted in stages into 50-mL falcon tubes. The first aliquot was centrifuged for 10 min at 2200 g. Once complete, the supernatant was carefully pipetted off, and then an additional 50 mL of the sample was added to the tube, vortexed, and spun for an additional 10 min at 2200 g. This process was repeated until the entire 150 mL sample had been centrifuged.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Coral reef restoration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Coral reef restoration",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Coral reef restoration_qna_000",
+      "value": 1
+    }
+  ]
+}

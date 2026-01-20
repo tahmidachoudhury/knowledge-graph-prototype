@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "label": "Soil fertility enhancement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the application of livestock manure impact soil nutrient availability?",
+      "answer": "The application of livestock manure can increase the amount of nitrogen and phosphorous available in the soil locally, although the nutrients supplied may vary by context.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0022316622131378",
+      "paragraph": "",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Soil fertility enhancement",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does manure impact the availability of trace elements and micronutrients in the soil?",
+      "answer": "Manure impacts the presence and availability of trace elements and micronutrients like zinc, copper, and manganese in the soil.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0022316622131378",
+      "paragraph": "",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Soil fertility enhancement",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the advantage of combined organic-chemical fertilization compared to exclusive fertilization types?",
+      "answer": "Combined organic-chemical fertilization contributes to higher stability in soil and root microbial networks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021a, b; Lopes and Schachtman 2023). However, the temporal variation patterns of soil microbiomes under differ - ent fertilization treatments in a long-term remain unknown. Chemical and organic fertilization is a widely-used man- agement practice to promote crop yield. Previous studies have well documented that long-term chemical or organic fertiliza- tion alters bacterial and fungal communities in soil and plant compartments (Sun et al. 2021; Ma et al. 2022). Organic fer - tilization improves soil microbial abundances and enhances the functional diversity of microorganisms (Jannoura et al. 2014; Orr et al. 2012). Compared to exclusive chemical or organic fertilization, combined organic-chemical fertiliza- tion contributes to higher stability in soil and root microbial networks (Yang et al. 2023). A global-scale meta-analysis of temporal dynamics of microbial biomass concluded that oli-gotrophic environments exhibit higher variations in microbial biomass over time (Wardle 1998). The variation of rhizos- phere microbial community structure showed a decreasing trend with increasing nitrogen fertilization levels across plant growth stages (Chen et al. 2019). These findings suggest that fertilizer treatments affect microbial temporal variation and nutrient-rich soil might promote a higher microbial temporal stability.",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Soil fertility enhancement",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do gamma rays play in crop plant growth according to the paragraph?",
+      "answer": "Gamma rays act as essential physical activators for crop plant growth, yield attributes, and yields without the use of external fertilizers.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In addition, gamma rays are essential physical activators for crop plant growth, yield attributes, and yields without using external fertilizers. The use of low doses of gamma irradiation in combination with drought stress displays better performance than that of the non-irradiated plants under the same condition [14]. A cytogenetic analysis is important in assessing genetic impact of the chemical and physical mutagens [15]. These changes provide the basis for introducing genetic variability in many plant traits [16]. The most common influence of -irradiation is disturbing mitotic activity inducing chromosomal aberration, and affecting yield. The most common chromosomal changes recorded in response to -irradiation is the production of mitotic chromosomal aberrations; stickiness, lagging chromo - somes and bridges at anaphase and telophase [17]. How - ever, the only recoverable chromosomal rearrangements are those that can replicate DNA molecules and hence can be stably passed on to the next generation [18]. Sodium dodecyl sulfate polyacrylamide gel electropho - resis (SDS-PAGE) of storage seed protein was used to differentiate between cultivars of Zea mays and to iden - tify inbred lines [19].",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Soil fertility enhancement",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Soil fertility enhancement_qna_003",
+      "value": 1
+    }
+  ]
+}

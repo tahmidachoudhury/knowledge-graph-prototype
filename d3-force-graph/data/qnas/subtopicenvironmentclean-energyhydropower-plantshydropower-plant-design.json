@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "label": "Hydropower plant design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How might the approach flow angle differ from standard design assumptions for a spillway?",
+      "answer": "The approach flow angle might differ from standard design assumptions due to irregularities in the riverbed or limitations on the footprint of the spillway structure.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The measured flow cross sections indicate a stable flow field leading away from the inlet, stagnation zones and recirculation zones leading up to the spillway, with minor variations occurring for increasing inlet flow rates. Keywords Ogee spillway, Discharge coefficient, Spillway capacity, Acoustic Doppler velocimetry, Oblique approach flow The spillway is an essential component of the dam infrastructure, aptly described by Khatsuria1 as the safety valve of the dam-reservoir system. Shifts in weather patterns induced by climate change brings a risk of increasing the frequency and intensity of heavy precipitation events, and hence increasing discharge in most parts of Norway and Sweden2,3. In both of these countries, the majority of large dams currently in operation were constructed in the period between 1950 and 19804,5. These aging structures were designed for criteria that were valid at the time of their construction and it is therefore important to understand the effects of increased flow and the impact of adverse conditions. In the standard design situation, flow is assumed to be uniform and perpendicular to the spillway crest. In reality, approach flow angle might differ from the design conditions, due to irregularities in the riverbed or limitations on the footprint of the structure.",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does CFD contribute to the design process mentioned in the paragraph?",
+      "answer": "CFD allows for testing solutions before a physical model is built for validation, which can increase discharge capacity in spillway designs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Although cases with more complex geometries are less abundant, nevertheless there are 1Norwegian University of Science and Technology, NTNU, Trondheim, Norway. 2Lule University of Technology, Lule , Sweden. 3Vattenfall Research & Development AB, Ivkarleby, Sweden. 4Swedish University of Agricultural Sciences, Ume , Sweden. 5Gunnar I. J. Hellstr m, Leif Lia, Anders G. Andersson, Patrik Andreasson and Elena Pummer contributed equally to this work. email: inils.solheim.smith@ntnu.no OPEN Scientific Reports www.nature.com/scientificreports documented cases of small scale models featuring spillways placed beside other inlets, such as turbine inlets14, or other spillways15. Recently published work on an arced labyrinth weir16 presented hydraulic modelling coupled with CFD simulations, where the experimental results deviated from theory. This deviation was assumed to be due to the geometry leading up to the weir obstructing the flow. Older work of similar character shows how CFD can be an important tool in designing ways to increase discharge capacity, as it allows solutions to be tested before a physical model is built for validation17. Larger experiments to investigate the interference of multiple separate spillways show that a reduction in spillway capacity occurs when two spillway gates are opened at the same time for the same reservoir, with a key factor being shorter distance between spillways reduced total flow18.",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the limitations imposed on the design of hydraulic structures in Norwegian and Swedish hydropower systems?",
+      "answer": "The limitations are imposed by the topography and bathymetry of the natural rivers where these structures are constructed.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For hydraulic structures constructed in natural rivers, common in Norwegian and Swedish hydropower systems, the topography and bathymetry may impose limitations on this design. dams in Sweden, Norway, and the Akosombo dam in Ghana. In these examples, spillways are positioned either perpendicular or at an oblique angle to the main flow leading toward the turbine intakes. main flow direction leading toward the intakes as a blue arrow, while the spillway direction is shown as a red arrow. Existing literature reveals a noticeable knowledge gap in reporting flow distribution across spillways and the effects of adverse conditions on spillway capacity. One aim of this study is to enhance understanding of how poor flow distribution across a spillway impacts its performance and to identify contributing factors to this loss. This paper presents experiments on an ogee-shaped spillway with three outlets, building on the work of Hedberg et al.23 on a similar channel. The novelty of this study lies in exacerbating the adverse conditions by modifying the channel geometry and pier design, resulting in a greater degree of oblique approach and less approach flow toward the spillway.",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the flow leading up to the spillway differ in previous studies compared to the authors' investigation?",
+      "answer": "Previous studies may have investigated the total rating curve or discharge capacity, but the authors focus on the lateral component in the flow leading up to the spillway.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Previous studies may have investigated the total rating curve or discharge capacity of a spillway with multiple outlets, however the authors present here a unique model which is able to measure the discharge distribution between the various outlets while in normal operation. Some of the previously mentioned cases have a large lateral component in the flow leading up to the spillway. Such lateral approach flow and the general flow conditions are also relevant to studies on contractions and side weirs, akin to the work conducted by Hager 19. However, the latter focuses on side weirs that do not handle the full discharge. Multiple studies have investigated the discharge capacity of side weirs in various conditions, ranging from prismatic channels and varied weir heights, to converging channels and oblique weirs19 21. In terms of contractions in high-velocity flow, further work by Hager22 explores the impact of contractions at various angles but does not account for the acceleration of flow that occurs over the spillway. Where avoidable, spillways are typically not constructed near turbine inlets due to potential interference. Something which can be mitigated when inlet structures are constructed in purpose-built channels.",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodology was used to assess and quantify the effects on spillway performance?",
+      "answer": "A spillway model with multiple parallel outlets was modified and tested under a range of variable parameters to assess and quantify the effects.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This study evaluates the challenge of angled approach flow, combined with higher discharge magnitudes and greater approach velocities, as a significant contributor to adverse conditions affecting hydraulic structures and spillway performance. To assess and quantify these effects, a spillway model with multiple parallel outlets was modified and tested under a range of variable parameters, inspired by design variations observed in existing structures. Additionally, the study investigates the influence of pier and abutment design to better understand their combined effects with oblique approach flow. Physical modelling has been the standard method for studies of spillway capacity, since their reliability is considered to be better than mathematical predictions, especially in complex flow conditions6,7 For the case of a single ogee spillway, a multitude of experimental work has been conducted, such as high head spillway experiments with PTV8, theoretical work on modelling spillway crests9, and experimental work on sharp and angled corners of a spillway10. Additionally, earlier work on the subject includes measurements of pressure distribution along a single ogee spillway11 and the capacity of accurate simulations12. Other recent work couples experiments to CFD investigations using various turbulence models, but does so for a straight channel with a downstream obstacle13.",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant design",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant design_qna_004",
+      "value": 1
+    }
+  ]
+}

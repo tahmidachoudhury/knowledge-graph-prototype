@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics",
+      "label": "Advanced building analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What were the performance outcomes when merging models from distinct datasets and architectures in the experiments conducted?",
+      "answer": "The experiments demonstrated performance improvements of up to 6.8% in mIoU for merging different-architecture models with a shared backbone and increased speed by 3.25 times when incorporating high-performing models into faster ones.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Since UDA research often explores a variety of adaptation strategies on a common base architecture, it nat-urally produces multiple sets of learned parameters. Model merging can then use these diverse parameter sets to create a uni ed model that retains the bene cial adaptations of eachapproach. To evaluate our proposal for semantic and panoptic segmentation, we set an extensive baseline by experiment- ing with various model merging methods based on the sameor different datasets and architectures. Our experiments also address two challenges. The rst one aims to incorporate high-performing yet computationally expensive models into faster but less accurate ones. Our proposal increases speedby 3.25 times with performance increases up to 6.8% in mloU. The second challenge is for combining models from easier tasks into harder tasks. Our proposal presents perfor-mance gains of 3.4% in mloU and 7% in mPQ compared to previous state-of-the-art UDA methods for, respectively, semantic and panoptic segmentation (see Fig. 1). Our results are validated across various UDA synthetic-to-real setupsfor multiple strategies (including adversarial, self-training and entropy minimization), architectures (convolutional and transformer based) and datasets (Cityscapes and Mapillary).",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Advanced building analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What performance improvements were observed in UDA when merging models from different datasets and architectures?",
+      "answer": "Substantial UDA improvements included a 2.6% mean IoU (mIoU) increase for same-architecture models from distinct datasets and a 6.8% increase for different-architecture models with a shared backbone.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 5provides insights from the experiments and suggests future directions for research in model merging. 123 Layer-wise model merging for UDA 2 Related work 2.1 Architectures for segmentation tasks Segmentation architectures have transitioned from convolution-based designs to transformer-based frameworks[38]. Along this evolution, researchers have developed uni- versal segmentation methods capable of addressing multi- ple segmentation tasks [ 39], open-vocabulary approaches for segmenting arbitrary categories [ 40] and label-ef cient strategies aimed at reducing annotation demands [ 41]. How- ever, despite these advancements, universal models stilldepend on labeled data from each target task [ 38,39], and open-vocabulary and label-ef cient approaches often underperform compared to specialized task-speci C modelsderived from UDA [ 40,42,43]. Notably, across all archi- tectures, model parameters are learned in a smooth and continuous manner through gradient descent [ 17,37,41]. This continuity allows for parameter merging or stabiliz-ing the learning through techniques like exponential moving average of the weights without disrupting the learned repre- sentations. In the context of UDA, where alignment lossesmay sometimes con ict, parameter merging emerges as a promising strategy. The merging of model weights derived from different UDA methods could leverage their individ-ual strengths to enhance overall segmentation performance, therefore offering a uni ed approach to reconcile variations across methods, tasks and domains.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Advanced building analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the model merging method improve performance in UDA according to the research findings?",
+      "answer": "The model merging method demonstrates improvements in UDA performance with increases of 2.6% mIoU for same-architecture models from distinct datasets, and up to 6.8% mIoU for different-architecture models with a shared backbone, as well as a 7% increase in mPQ for merging semantic and panoptic segmentation models.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Experimental results demonstrate substantial UDA improvements without additional costs for merging same-architecture models from distinct datasets ( 2.6% mloU) and different-architecture models with a shared backbone ( 6.8% mloU). Furthermore, merging semantic and panoptic segmen-t tation models increases mPQ by 7%. These ndings are validated across a wide variety of UDA strategies, architectures and datasets. The code will be publicly available upon acceptance in the LWMM repository: http://www-vpu.eps.uam.es/LWMM/ . Keywords Model merging Unsupervised domain adaptation Semantic segmentation Panoptic segmentation Synthetic data 1 Introduction Unsupervised domain adaptation (UDA) aims to train models from a source labeled domain that can generalize to an unla- beled target domain, key for tasks with limited annotated data due to the capture dif culty or the high annotation costs (e.g.,semantic or panoptic segmentation [ 1]). Thus, automatically annotated synthetic datasets emerge as attractive alternative for the source domain for segmentation tasks [ 2 6]. While Roberto Alcover-Couso work done prior to joining Amazon. B Roberto Alcover-Couso Proberto.alcover@estudiante.uam.es Juan C. SanMiguel juancarlos.sanmiguel@uam.es Marcos Escudero-Vi olo marcos.escudero@uam.es Jos M. Mart nez josem.martinez@uam.es 1Video Processing and Understanding Lab, UniversidadAut noma de Madrid (UAM), 28049 Madrid, SpainUDA has demonstrated remarkable success in various com- puter vision tasks, its application to segmentation tasks often faces challenges such as unstable training dynamics [ 7 11] and underperformance compared to supervised models [ 12 15].",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Advanced building analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the reported performance improvements when merging same-architecture and different-architecture models, according to the experimental results?",
+      "answer": "The report states a 2.6% mean Intersection over Union (mIoU) improvement when merging same-architecture models from distinct datasets, and a 6.8% mIoU improvement when merging different-architecture models with a shared backbone.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Since UDA research often explores a variety of adaptation strategies on a common base architecture, it nat-urally produces multiple sets of learned parameters. Model merging can then use these diverse parameter sets to create a uni ed model that retains the bene cial adaptations of eachapproach. To evaluate our proposal for semantic and panoptic segmentation, we set an extensive baseline by experiment- ing with various model merging methods based on the sameor different datasets and architectures. Our experiments also address two challenges. The rst one aims to incorporate high-performing yet computationally expensive models into faster but less accurate ones. Our proposal increases speedby 3.25 times with performance increases up to 6.8% in mloU. The second challenge is for combining models from easier tasks into harder tasks. Our proposal presents perfor-mance gains of 3.4% in mloU and 7% in mPQ compared to previous state-of-the-art UDA methods for, respectively, semantic and panoptic segmentation (see Fig. 1). Our results are validated across various UDA synthetic-to-real setupsfor multiple strategies (including adversarial, self-training and entropy minimization), architectures (convolutional and transformer based) and datasets (Cityscapes and Mapillary).",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Advanced building analytics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Advanced building analytics_qna_003",
+      "value": 1
+    }
+  ]
+}

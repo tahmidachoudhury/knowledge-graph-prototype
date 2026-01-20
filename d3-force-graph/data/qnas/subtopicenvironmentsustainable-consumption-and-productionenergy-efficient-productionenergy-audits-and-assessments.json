@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments",
+      "label": "Energy audits and assessments",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What research methods are used to analyze energy consumption in residential buildings on the Sichuan Plateau?",
+      "answer": "The research methods used are field measurements, questionnaire surveys, and energy simulations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As a unique geographical unit in China, the Sichuan Plateau can exchange and share its research and practical experience in energy efficiency improvement with similar regions in the world. Methodology and material As shown in Fig. 1, the research method mainly uses field measurements, questionnaire surveys, and energy simulations to conduct an in-depth analysis of the factors affecting the energy consumption of residential buildings in Sichuan Plateau, and to measure and quantitatively analyse the indoor thermal environment of local traditional residential buildings. The key factors of high energy consumption are identified, and some energy- saving improvement and optimization measures and economic suitability analysis are proposed. Research object The Sichuan Plateau region is composed of three prefectures: Garze Prefecture, Aba Prefecture, and Liangshan Prefecture, as shown in Fig. 2, Aba is located in the Sichuan Plateau region, about 104.27 least longitude, 30.35 latitude, the highest altitude in the territory is about 6250 m, and the average altitude is 3500 4000 m. According to the Code for Thermal Design of Civil Buildings, there are five climatic zones in China, namely severe cold areas, cold regions, hot summer and cold winter regions, mild regions, and hot summer and warm winter regions30.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Energy audits and assessments",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How is the average energy installed capacity increase for each energy resource determined?",
+      "answer": "The average energy installed capacity increase for each energy resource is determined by processing the data resulting from the fraction calculation through an equation to assess the increase in installed capacity for each year.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Energy audits and assessments",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy audits and assessments_qna_001",
+      "value": 1
+    }
+  ]
+}

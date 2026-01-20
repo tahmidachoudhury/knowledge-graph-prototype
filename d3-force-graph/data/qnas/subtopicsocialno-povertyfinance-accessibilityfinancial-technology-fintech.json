@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Financial technology (fintech)",
+      "label": "Financial technology (fintech)",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Financial technology (fintech)_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How do blockchain-based platforms in Africa provide opportunities for small businesses and entrepreneurs in terms of financial services?",
+      "answer": "Blockchain-based platforms in Africa offer small businesses and entrepreneurs the chance to accept payment by cryptocurrencies and access microcredits, expanding their financial service options beyond traditional banking.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "subtopic": "Financial technology (fintech)",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Finance accessibility|Financial technology (fintech)",
+      "target": "Subtopic:Social|No poverty|Finance accessibility|Financial technology (fintech)_qna_000",
+      "value": 1
+    }
+  ]
+}

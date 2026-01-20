@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable transportation",
+      "label": "Sustainable transportation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable transportation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can innovative transportation technologies such as electric and autonomous vehicles contribute to sustainability?",
+      "answer": "Innovative transportation technologies such as electric and autonomous vehicles can contribute to sustainability by reducing emissions, improving fuel efficiency, promoting shared mobility services, and facilitating the integration of renewable energy sources into transportation systems.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Sustainable transportation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable transportation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What do the correlation coefficients close to 1 indicate in the context of ranking consistency for Germany in sustainable transport?",
+      "answer": "High correlation coefficients close to 1 indicate strongly consistent rankings for Germany in sustainable transport.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.researchgate.net/publication/370705198_Temporal_PROMETHEE_II_-_New_multi-criteria_approach_to_sustainable_management_of_alternative_fuels_consumption",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Sustainable transportation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable transportation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable transportation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable transportation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable transportation_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Smart grid implementation",
+      "label": "Smart grid implementation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Smart grid implementation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What does the increase in Energy Efficiency Gains from 6,000 kWh per capita to 7,500 kWh per capita suggest about smart grid technologies?",
+      "answer": "The increase in Energy Efficiency Gains highlights the positive impact of smart grids on enhancing energy efficiency, ultimately leading to reduced energy consumption and promoting sustainability in the energy sector.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Smart grid implementation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Smart grid implementation_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How did Farber et al. (2018) demonstrate the adaptation of distribution organizations to a smart grid in a low-carbon economy?",
+      "answer": "Farber et al.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Smart grid implementation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Smart grid implementation",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Smart grid implementation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Smart grid implementation",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Smart grid implementation_qna_001",
+      "value": 1
+    }
+  ]
+}

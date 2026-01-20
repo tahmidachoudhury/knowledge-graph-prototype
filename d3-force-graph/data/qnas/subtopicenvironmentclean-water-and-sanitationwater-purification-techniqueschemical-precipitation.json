@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation",
+      "label": "Chemical precipitation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What method is used to correct precipitation data in the context described?",
+      "answer": "The corrected precipitation is given by the formula (Pg + p)k.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The wetting loss ( pw) and evaporation loss ( pe) is calculated as 0.15 mm for rain and 0.1 mm for snow42 and the corrected precipitation is given by (Pg+ p)k. Even though this method is designed for automatic gauges, the same method can be applied to the Norwegian gauges established in the above-mentioned three stations, since the ratio of precipitation data from Norwegian gauges and automatic gauges is close to one40. In earlier studies, EVT35 38,43 45 was usually applied to study precipitation. It allows characterization and modeling of extreme events through the use of extreme value distributions, which represent a limiting behavior of minimum or maximum data values33,34. We employ the peaks over threshold (POT) approach on datasets of the corrected precipitation (described above). In the POT method, any events that exceed a specified threshold are only considered as extreme events and included in the dataset; it assumes a generalized Pareto distribution (GPD) of excesses of events over the prescribed threshold. We define the threshold as 99-th percentile of the data, as a standard approach in this field46 (described in Sect.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Chemical precipitation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What process was used to precipitate the samples?",
+      "answer": "The samples were precipitated via the chloroform-methanol method.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The homogenate was centrifuged for 5 min at 9000 rpm at 4 C, and the supernatant was then centrifuged again at 54,0 rpm (TLAA55, Optima-Beckman, Indianapolis, USA) for 30 min at 4 C. To separate the soluble and Scientific Reports membrane fractions. Each sample after ultracentrifugation therefore gives two fractions, a supernatant called soluble fraction and a pellet called membrane fraction. The protein concentration was determined according to the Bradford method (1976) using a Bio-Rad protein assay kit with bovine gamma globulin as a standard. For each sample, 20 g was transferred to 0.5 mL polypropylene Protein LoBind Eppendorf tubes and precipitated via the chloroform-methanol method (Wessel and Flugge 1984). To solubilize the proteins, 20 L of 100 mM TEAB, pH 8.5 (triethylammonium bicarbonate) containing 0.5% RapiGest surfactant (Waters, Milford, USA), was added. In-solution trypsin digestion The proteins were then reduced with 5 mM DTT (dithiothreitol) and alkylated with 15 mM iodoacetamide. The samples were diluted five times with 20 L of 100 mM TEAB, pH 8.5. Proteolysis was performed with 1 g of Sequencing Grade trypsin (Promega, Madison, USA) and was continued overnight at 37 C. Each sample was dried under vacuum with an RVC 2 25 Martin Christ Concentrator (Martin Christ Instrument Inc., Osterode, Germany) and stored at -80 C. 2.5 Peptide separation using nanoUPLC.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Chemical precipitation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does the wet scrubber affect the chemical composition of particles that pass through it?",
+      "answer": "The scrubber has little effect on reducing the health and environmental impacts of remaining particles, as changes in particle composition are minimal, primarily involving sulfate uptake, diffusion-driven uptake of ultrafine particles, and wet deposition of coarse particles.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For comparison, the results for marine gas oil are presented in Supplementary Material (Fig. S1). Size distributions are shown in Fig. S2. At a 20 kW load, the mass spectra before (Fig. 1(a), up) and after (Fig. 1(a), down) the scrubber are highly compa- rable. Since the same number of particles is analyzed before and after the scrubber, the mass spectra reveal changes in aerosol composition but not the reduction in particle number concentrations (25% at 20 kW and 38% at 60 kW load; for details, see [11]). Therefore, a slight signal reduction across the entire spectrum after the scrubber may be attributed to instrument performance. The HSO4 peak shows a small increase, but due to saturation effects in this mass channel, the SO3 signal serves as a more reliable indicator of sulfate content, and it is also reduced. The spectra show no sig- nals of water-soluble organic acids, which can be detected in negative mode with single-particle mass spectrometers Fig.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Chemical precipitation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Chemical precipitation_qna_002",
+      "value": 1
+    }
+  ]
+}

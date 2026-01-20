@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics",
+      "label": "Smart grid data analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What data set is used to analyze ECA transactions in the energy sector?",
+      "answer": "A panel dataset of ECA transactions in the energy sector is used for the analysis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Achieving a clean energy transition requires global financial flows to be redirected away from fossil fuels and into renewable energy. While capital market actors and multilateral financial institutions have been the subject of significant scholarly attention, public bilat - eral financial institutions, especially Export Credit Agencies (ECAs), have been largely overlooked. This is an important oversight given ECAs are the source of billions of dollars of public finance for fossil fuels, which has helped to lock-in recipient countries to fossil fuel energy systems. Using a panel dataset of ECA transactions in the energy sector, we show that despite some improvements in financial flows after the Paris Agreement in 2015, fossil fuel investments remain pervasive and growth in clean energy investments is mini - mal. To better understand changes in ECA portfolios, we examine the cases of the Export- Import Bank of the United States (Exlm) and UK Export Finance (UKEF). Drawing on elite interviews, we identify three factors that are shaping Exlm S and UKEF S capacity to promote renewable energy exports: the extent of political control over the bureaucracy, the size and composition of green industrial bases, and the policy tools available to both ECAs to support the renewables sector.",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies",
+      "subtopic": "Smart grid data analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does bibliometric analysis utilize artificial intelligence in this study?",
+      "answer": "Bibliometric analysis uses artificial intelligence-powered databases for big data search and employs machine learning techniques for data extraction and analysis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Moreover, this study uses an objective and a powerful review method, namely bibliometric analysis, which is highly suitable for reviewing elds with a large corpus of articles using quantitative techniques (Donthu et al., 2021a ; Pattnaik et al., 2020 ;P a u le ta I . , 2021 ). Speci cally, bibliometric analysis exempli es the use of big data analytics through machine learning of scholarly research in two major ways, namely (1) the search for big data (bibliometrics) is carried out on an arti cial intelligence-powered scienti C database (Scopus), wherein the scienti C database uses speci ed keywords forsupervised machine learning , as a subset of arti cial intelligence, to extract large amounts of bibliometric data relating to articles relevant to sustainable nance, and (2) the analysis of big data (bibliometrics), which is multi-faceted (e.g., journal, author, institution, country, keywords), multi-formatted (e.g., numbers, words), and large-scaled (e.g., thousands of data points across the multiple facets of 936 articles), is powered by unsupervised machine learning , as another subset of arti cial intelligence, to discover latent relationships (e.g., interrelated keywords) and the equivalent clusters of latent relationships (e.g., major themes).",
+      "macrotopic": "Clean energy",
+      "topic": "Smart grid technologies",
+      "subtopic": "Smart grid data analytics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics",
+      "target": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics",
+      "target": "Subtopic:Environment|Clean energy|Smart grid technologies|Smart grid data analytics_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)",
+      "label": "Battery energy storage systems (bess)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of bioelectrochemical systems (BESs) in energy generation?",
+      "answer": "BESs are versatile technologies for energy generation, with electrochemically active bacteria (EAB) playing a crucial role.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Decorat- ing with nanoscale materials successfully enables the EET process from microorganisms to the anode surface [ 25]. A large concentration of micropores characterizes the optimal nanostructure material. This material S nanoporous structure can enhance the electronic medium S direct electrochem- istry, resulting in more effective electrocatalysis and bio- catalysis. Furthermore, this material S microporous nature promotes the development of biofilm [26]. In addition, the types of nanomaterials may affect the electrode S homogene- ity, surface hydrophobicity, and surface charge, all of which may influence the interaction between the anode and bacte- ria and ultimately the MFC's capacity to produce electric- ity[27]. The present review offers a thorough understanding of the applications of nanotechnology and how improving the anode modification of MFCs can improve their perfor - mance and efficiency in the production of electricity and the treatment of wastewater. Bioelectrochemical systems (BESs) as green technology Electrochemically active bacteria (EAB) play a crucial role in BESs, which are versatile technologies for energy generation [28]. In BESs, the anodic and cathodic com- partments are separated by a proton exchange membrane (PEM).",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Battery energy storage systems (bess)",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the capacity retention percentage of the energy storage device over 1000 cycles?",
+      "answer": "The capacity retention is up to 89.72% over 1000 cycles.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " It also exhibited a capacity retention of up to 89.72% over 1000 cycles. Keywords Microalgae Pyrolysis lodine and sulphur doping Hydrothermal heating Supercapacitor 1 Introduction Energy, which is vital for world life, seriously affects the economies and the environment of countries around the world due to the current dependence on non-renewable fos- sil fuels [1]. Interest in renewable, environmentally friendly, high-performance energy storage devices such as batteries, supercapacitors and fuel cells for electrochemical energy, which is an important part of clean energy, tends to increase [2, 3]. Among these, supercapacitors, in particular, have gar - nered significant interest from researchers [4 6]. The excellent microstructure and reasonable pore size dis- tribution of biomass-derived carbon materials enable their use in various applications. In particular, the outstanding charge storage/release capacity and high cycling stability of carbon-based supercapacitors promote their applications in energy storage and conversion [7 ]. The development of low- cost and renewable biomass-based carbon materials for use in energy storage devices is an important issue. As typical electrode material for supercapacitors, biomass-based car - bon precursors are attracting intense interest as a reliable and readily available source [8 12].",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Battery energy storage systems (bess)",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Battery energy storage systems (bess)_qna_001",
+      "value": 1
+    }
+  ]
+}

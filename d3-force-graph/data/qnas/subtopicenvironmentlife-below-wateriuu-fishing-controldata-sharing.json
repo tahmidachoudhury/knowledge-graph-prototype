@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Data sharing",
+      "label": "Data sharing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Data sharing_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What dataset was utilized in the study to enhance transferability of the results?",
+      "answer": "A Germany-wide benthic invertebrate dataset of 1599 sites, sampled between two and 13 times from 2004 to 2022.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To enhance transferability of the results from the previ - ous small-scale studies and gain a better understanding of the drivers in recovering versus degrading rivers, we utilized a Germany-wide benthic invertebrate dataset of 1599 sites, each sampled between two and 13 times between the years 2004 and 2022. Our study focusses Sch rings et al. Ecological Processes (2025) 14:30 on the relevance of competition, abiotic stress (related to species tolerances) and all other potentially relevant variables available in our dataset for changes in benthic invertebrate ecological status (Haase et al. 2004). Spe - cifically, our research aimed to address the following questions: 1. Which variables are most important for the recovery and degradation potential of rivers? 2. What are the individual relationships between the important variables and the ecological status? 3. How do the relations between these variables and the ecological status differ between recovery and degra - dation conditions? These research questions guide our investigation of the drivers influencing the ecological status, with a particu - lar focus on the roles of competition and abiotic stress in ecological recovery and degradation conditions.",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Data sharing",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Data sharing",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Data sharing_qna_000",
+      "value": 1
+    }
+  ]
+}

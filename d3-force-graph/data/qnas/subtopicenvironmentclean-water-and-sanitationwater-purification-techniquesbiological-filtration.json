@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration",
+      "label": "Biological filtration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What organism was studied for its potential to remove DEET from wastewater?",
+      "answer": "Chlorella vulgaris was studied for its potential to remove DEET from wastewater.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract JN,N-Diethyl-m-toluamide (DEET) is one of the significant chemical formulations used extensively in personal care products as a preventive measure against mosquito-borne diseases. It has been detected in the aquatic matrix at various concentrations from ng/L to mg/L. Chlorella vulgaris is one of the potential algal species for the treat - ment of wastewater containing personal care products, and this study investigates the acute toxicity and removal potential of Chlorella vulgaris in the removal of DEET with its effects on pigments and biochemical composition. The 96-h EC50 was calculated to be 17.4 mg/L, and the biochemical composition assessment revealed that lipid concentrations in Chlorella vulgaris increased until the tolerance limit. This investigation revealed that when DEET concentration crossed the tolerance limit (17.4 mg/L) in the medium, the pigments and biochemical concentrations reduced drastically, indicating Chlorella vulgaris inhibitory response beyond the tolerance limit, causing irreversible damage to the algal cells. Furthermore, Chlorella vulgaris removal potential at three different test runs, T1 (5 mg/L), T2 (10 mg/L), and T3 (25 mg/L) were studied. The most remarkable elimination in T1 test runs was 72% due to biodegra- dation, followed by T2 (35%) and T3 (15%).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Biological filtration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What were the removal percentages of DEET by Chlorella vulgaris at different tested concentrations?",
+      "answer": "Chlorella vulgaris achieved a 72% removal at 5 mg/L (T1), 35% at 10 mg/L (T2), and 15% at 25 mg/L (T3) of DEET.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract JN,N-Diethyl-m-toluamide (DEET) is one of the significant chemical formulations used extensively in personal care products as a preventive measure against mosquito-borne diseases. It has been detected in the aquatic matrix at various concentrations from ng/L to mg/L. Chlorella vulgaris is one of the potential algal species for the treat - ment of wastewater containing personal care products, and this study investigates the acute toxicity and removal potential of Chlorella vulgaris in the removal of DEET with its effects on pigments and biochemical composition. The 96-h EC50 was calculated to be 17.4 mg/L, and the biochemical composition assessment revealed that lipid concentrations in Chlorella vulgaris increased until the tolerance limit. This investigation revealed that when DEET concentration crossed the tolerance limit (17.4 mg/L) in the medium, the pigments and biochemical concentrations reduced drastically, indicating Chlorella vulgaris inhibitory response beyond the tolerance limit, causing irreversible damage to the algal cells. Furthermore, Chlorella vulgaris removal potential at three different test runs, T1 (5 mg/L), T2 (10 mg/L), and T3 (25 mg/L) were studied. The most remarkable elimination in T1 test runs was 72% due to biodegra- dation, followed by T2 (35%) and T3 (15%).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Biological filtration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the main objectives of the study discussed in the paragraph?",
+      "answer": "The main objectives are to investigate the effects of DEET on the metabolic composition and pigment levels of Chlorella vulgaris and to assess its removal capacity at varying DEET concentrations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Concentrations over 2 mg/L require testing due to the persistent and stable nature of DEET. Chlorella vulgaris, upon stress, is known to exhibit growth-stimulating effects, which increase biochemi - cal composition accumulation that produces biomass to produce bioproducts [23]. The acute toxicity assessment has revealed that when the concentration of the DEET increases, the algal growth rate reduces to half at 96-h EC50 [24]. However, the effects of DEET on the biochemi - cal composition (proteins, lipids, and carbohydrates) and pigments (chlorophyll-A, chlorophyll-B, and carotenoids) in the acute toxicity study have not yet been investi - gated. This investigation will help us grasp the possibil - ity of assessing Chlorella vulgaris potential in treating the DEET-polluted wastewater and biochemical composition of harvested biomass for the manufacture of bioproducts from algal biomass. The primary objective of this study is to investigate the effects of DEET on the metabolic composition and pig - ment levels of Chlorella vulgaris, specifically in relation to its 96-h EC50. Additionally, the study aims to assess the influence of DEET on the removal capacity of Chlo - rella vulgaris at varying concentrations, both prior to and following the tolerance limit, as well as the associated changes in the mechanisms employed to alleviate stress in relation to this tolerance limit.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Biological filtration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Biological filtration_qna_002",
+      "value": 1
+    }
+  ]
+}

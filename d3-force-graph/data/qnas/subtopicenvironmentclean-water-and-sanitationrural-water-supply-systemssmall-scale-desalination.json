@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Rural water supply systems|Small-scale desalination",
+      "label": "Small-scale desalination",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Rural water supply systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Rural water supply systems|Small-scale desalination_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "At what flow rate was desalted under isocratic conditions?",
+      "answer": "The desalted process was carried out at a flow rate of 15 L/min.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Before peptide separation, the samples were dissolved in 20 L of 0.1% (v/v) formic acid and 2% (v/v) acetonitrile (ACN). The peptide mixture was separated by reversed-phase chromatography on a NanoACQUITY UPLC MClass system (Waters) with MassLynx V4.1 (Waters) software. For the digestion of proteins, 200 ng was injected into an ACQUITY UPLC M-Class C18 column (5 m, 180 m 20 mm, 100 A) and desalted under isocratic conditions at a flow rate of 15 L/min in 99% formic acid and 1% (v/v) ACN buffer for 3 min. The peptide mixture was subjected to reversed-phase chromatography on a C18 column (100 , 1.8 mm, 75 m 150 mm) PepMap column (Waters) for 130 min at 35 C at a flow rate of 300 nL/min using a two-part linear gradient from 1% (v/v) ACN, 0.1% formic acid to 35% (v/v) ACN, 0.1% formic acid and from 35% (v/v) ACN, 0.1% formic acid to 85% (v/v) ACN, 0.1% formic acid.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Rural water supply systems",
+      "subtopic": "Small-scale desalination",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Rural water supply systems|Small-scale desalination",
+      "target": "Subtopic:Environment|Clean water and sanitation|Rural water supply systems|Small-scale desalination_qna_000",
+      "value": 1
+    }
+  ]
+}

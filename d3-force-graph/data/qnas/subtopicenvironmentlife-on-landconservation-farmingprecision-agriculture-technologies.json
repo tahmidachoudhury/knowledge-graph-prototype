@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Precision agriculture technologies",
+      "label": "Precision agriculture technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Precision agriculture technologies_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are some opportunities provided by food nanotechnology for sustainable food production?",
+      "answer": "Food nanotechnology offers opportunities to enhance sustainable food production through the development of nano-enabled sensors, improving pesticide and fertilizer performance, and remediating contaminated soils.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666154324000255",
+      "paragraph": "",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Precision agriculture technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Precision agriculture technologies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What major technological components are embedded in Sets according to the text?",
+      "answer": "Sets incorporate Precision Agriculture??s equipment, automations, robotics, Farm Management Information Systems, the Internet of Things (IoT), Big Data, artificial intelligence, etc., which are combined with technical optimization of value chains and food systems to reduce environmental impacts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Precision agriculture technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Precision agriculture technologies",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Precision agriculture technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Precision agriculture technologies",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Precision agriculture technologies_qna_001",
+      "value": 1
+    }
+  ]
+}

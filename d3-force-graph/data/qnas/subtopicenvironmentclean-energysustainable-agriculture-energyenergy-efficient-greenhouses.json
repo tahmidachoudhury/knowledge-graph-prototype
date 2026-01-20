@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses",
+      "label": "Energy-efficient greenhouses",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the objective of the postemergence experiment conducted under greenhouse conditions?",
+      "answer": "The objective was to study the herbicidal effect of CEO on four-week-old A. thaliana.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Van Volxem 264/C1, 1190 Bruxelles, Belgium). The technical data sheet obtained through GC MS analysis revealed that the major compound was trans-cinnamaldehyde. The essential oil was formulated in water as an oil-in-water emulsion with 1% Tween 20 from Sigma Aldrich, which was used as a surfactant. Moreover, the concentrations of the EO were selected based on preliminary tests and literature references1 Postemergence test under greenhouse conditions A postemergence experiment was conducted to study the herbicidal effect of CEO on four-week-old A. thaliana under controlled conditions. The greenhouse was maintained at a natural photoperiod supplemented with artificial light if needed, with temperatures set at 20 3 C according to the sunlight. The relative humidity was maintained at 60 3%. Seeds of A. thaliana were sown in 10 10 cm pots (one plant per pot). The plants were watered daily to maintain adequate soil moisture and promote uniform germination and growth. Once the weeds reached the 2 3 leaf stage (after 4 weeks), two solutions were sprayed (4 mL) on leaves using small Trigger Sprayer (100 ml): (1) a negative control containing 1% Tween 20 and (2) a formulated CEO.",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Energy-efficient greenhouses",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What conditions were maintained in the greenhouse during the postemergence experiment?",
+      "answer": "The greenhouse maintained a temperature of 20 ± 3 °C and relative humidity of 60 ± 3%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Van Volxem 264/C1, 1190 Bruxelles, Belgium). The technical data sheet obtained through GC MS analysis revealed that the major compound was trans-cinnamaldehyde. The essential oil was formulated in water as an oil-in-water emulsion with 1% Tween 20 from Sigma Aldrich, which was used as a surfactant. Moreover, the concentrations of the EO were selected based on preliminary tests and literature references1 Postemergence test under greenhouse conditions A postemergence experiment was conducted to study the herbicidal effect of CEO on four-week-old A. thaliana under controlled conditions. The greenhouse was maintained at a natural photoperiod supplemented with artificial light if needed, with temperatures set at 20 3 C according to the sunlight. The relative humidity was maintained at 60 3%. Seeds of A. thaliana were sown in 10 10 cm pots (one plant per pot). The plants were watered daily to maintain adequate soil moisture and promote uniform germination and growth. Once the weeds reached the 2 3 leaf stage (after 4 weeks), two solutions were sprayed (4 mL) on leaves using small Trigger Sprayer (100 ml): (1) a negative control containing 1% Tween 20 and (2) a formulated CEO.",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Energy-efficient greenhouses",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How do silk farms typically control temperature and humidity for optimal silkworm growth, and what are the energy implications of this process?",
+      "answer": "Silk farms typically control temperature and humidity using energy-intensive methods such as hot air or steam. This process consumes a lot of energy, which can be obtained from burning mulberry wood or from the electric grid.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/B9780128240526000135",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Energy-efficient greenhouses",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Energy-efficient greenhouses_qna_002",
+      "value": 1
+    }
+  ]
+}

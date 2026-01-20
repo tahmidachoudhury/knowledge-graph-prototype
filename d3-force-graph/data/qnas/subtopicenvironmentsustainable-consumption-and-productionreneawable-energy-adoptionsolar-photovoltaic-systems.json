@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems",
+      "label": "Solar photovoltaic systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Why is solar power considered a promising source of clean energy?",
+      "answer": "Solar power is considered promising because it does not release harmful byproducts into the atmosphere and has an abundant and environmentally friendly supply.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " RESEARCHJournal of Fluorescence https://doi.org/10.1007/s10895-25-4194-1 gaining popularity due to their cost-effectiveness and ease of fabrication compared to silicon-based photovoltaic mod - ules, which, despite their widespread application, remain expensive [ 1, 2]. One of the main ideas behind dye-sensitive solar cells is to begin with a thin layer of nanocrystalline TiO2. Following this, a photosensitizer, also known as a dye, should have an extremely high molar extinction coefficient to carry out chemical attachment to the surface. This served as the working electrode of the solar cell. A liquid electro - lyte containing iodide and triiodide separates the working electrode from the platinum counter electrode [ 3]. Recent practical and theoretical investigations have focused on the advancement of dyes, which helps boost the effectiveness of (DSSCs) [ 4]. Dyes are often categorized into two types: metal-based and metal-free. Metal-based dyes, including ruthenium-based-dyes Ru (II), such as N3 and N-719 , play Introduction Solar power, which does not release harmful byproducts into the atmosphere, is one of the most promising sources of clean energy because its supply is both abundant and envi - ronmentally friendly.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Solar photovoltaic systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How have photovoltaic panels been shown to impact electricity needs according to the studies mentioned?",
+      "answer": "Photovoltaic panels can significantly meet electricity needs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Studies have evaluated the impact of Building Energy Management Systems (BEMS), Phase Change Materials (PCM), Solar PV , and Ground Heat Pumps (GHP) on energy consumption, demonstrating that photovoltaic panels can significantly meet electricity needs25,26. For instance, Noorollahi et al.27 used solar collectors and thermal storage with particle swarm optimization for optimal energy self-sustainability. Advances in autonomous technology have spurred interest in zero-energy, sustainable, and green buildings, leading to new design concepts and assessment systems28 30. Energy Internet of Things technology has been used in autonomous buildings to collect energy consumption data for analysis and reduction of building energy consumption30,31. Rahim Zahedi et al. used green roof technology to effectively reduce heat loss from roofs and walls, saving 54.95% in winter and 76.11% in summer32. The use of energy-autonomous technology (EAT) in independent public toilets means that they rely as little as possible on external power or heat supply and that they reasonably select appropriate renewable energy sources to replace external energy supply based on their energy demand, resulting in a balance between energy supply and demand33,34.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Solar photovoltaic systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Solar photovoltaic systems_qna_001",
+      "value": 1
+    }
+  ]
+}

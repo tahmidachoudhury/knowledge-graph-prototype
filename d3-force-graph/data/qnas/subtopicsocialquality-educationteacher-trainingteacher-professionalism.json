@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism",
+      "label": "Teacher professionalism",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What do the findings suggest about professional engagement in communities for teachers?",
+      "answer": "The findings suggest that practical engagement in professional communities may effectively foster teachers' SSI teaching skills, which can inform the design of professional development programs in SSI education.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " These findings suggest that practi- cal engagement in professional communities may effectively foster teachers SSI teaching skills, offering insights for crafting professional development programs in SSI education. Keywords Professional development SSI SSI teaching ENA * Ying-Shao Hsu yshsu@ntnu.edu.tw Wen-Xin Zhang haha1788@gmail.com 1 Graduate Institute of Science Education, National Taiwan Normal University, Taipei, Taiwan Research in Science Education Introduction Recently, the concept of the Anthropocene has been gaining more attention due to the increasing problems or challenges that are significantly influenced by human activities. This concept stresses the enormous impact of human actions on the Earth S systems, prompting a need for global awareness of and collective responsibility for ecological crises (Heikkurinen et al., 2021). To address the Anthropocene challenges, the new PISA 2025 science framework emphasizes the importance of students awareness and concern regarding the interac- tions between science, technology, society, and the environment (OECD, 2023). Con- sidering the inseparability of nature, culture, and politics to which the Anthropocene points, M nster et al. (2023) highlighted the irreversible ecological damage caused by human activities, and proposed that these complex global challenges lack simple solu- tions, requiring interdisciplinary approaches and new ways of thinking.",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Teacher professionalism",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism_qna_001",
+      "group": "QnA",
+      "label": "Education",
+      "question": "What aspect of teachers is focused on in the studies mentioned regarding PD programs?",
+      "answer": "The studies focus on teachers' beliefs, pedagogical content knowledge, attributes, or epistemic frames related to effective SSI teaching or qualitative lesson planning.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " These PD programs can help teachers incorporate SSIs into their curricula by promoting collaborative design and reflective practices (Authors, 2022a; Friedrichsen et al., 2020; Kinskey & Zeidler, 2024; Leung, 2022). These studies highlighted the role of interac- tion and reflection in PD programs and focused on teachers beliefs, pedagogical content knowledge, attributes, or epistemic frames related to effective SSI teaching or qualitative lesson planning. The use of written surveys and semi-structured interviews in these studies ignored the progression of teachers epistemic frames during the PD program. Therefore, we examined changes in discourse and interaction in a PD program to elucidate teachers development for SSI teaching. Literature Review SSI Teaching and PD in Education Given the strong focus on cultivating student competence, SSI teaching and learning have received increasing attention in both classrooms and academia. For example, in Taiwan the Curriculum Guidelines of 12-year Basic Education merit attention to cultivating stu- dents core competencies and encouraging them to become life-long learners who can solve common daily problems as well as future challenges (Ministry of Education, 2021). Considering SSI as one of the daily and future challenges that students must overcome, the curriculum guidelines for natural science further emphasize infusing SSI into the curricu- lum through multiple methods such as inquiry-based learning and project-based learning (Ministry of Education, 2018).",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Teacher professionalism",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism",
+      "target": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism",
+      "target": "Subtopic:Social|Quality education|Teacher training|Teacher professionalism_qna_001",
+      "value": 1
+    }
+  ]
+}

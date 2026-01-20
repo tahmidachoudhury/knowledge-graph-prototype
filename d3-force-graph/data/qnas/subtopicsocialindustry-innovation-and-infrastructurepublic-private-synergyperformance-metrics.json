@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "label": "Performance metrics",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What model evaluation metrics were used to confirm the reliability of the models?",
+      "answer": "The model evaluation metrics used include overall accuracy, kappa, F1 score, and area under the curve.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Urban areas are experiencing rapid trans- formations, driven by population growth, economic development, and policy changes. Understanding and monitoring these dynamic changes is crucial for sus- tainable urban planning and management. This study leverages machine learning and Google Earth Engine to investigate urban dynamics and its interactions with biophysical conditions in the Kaduna River Basin (KRB), Nigeria. This study utilized a dataset of 192 points, initially extracted from Google Earth Engine, to analyze urban transitions between 1987 and 2020, incorporating biophysical and environmental vari- ables such as population density, precipitation, and surface temperature. The dataset was processed in R using the CARET package, with missing data imputed via K-nearest neighbors (KNN), categorical variables transformed using One-Hot Encoding, and numerical variables rescaled for consistency. A tenfold cross- validation approach was used to train and validate machine learning models, including random forest, support vector machine, KNN, and multivariate adap- tive regression splines, ensuring optimal model per - formance. Model evaluation metrics such as overall accuracy, kappa, F1 score, and area under the curve confirmed the reliability of the models in identifying the biophysical factors influencing urban changes.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Performance metrics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Which organization is responsible for reporting the 50 indicators of progress in Australia?",
+      "answer": "The Australian Bureau of Statistics is responsible for reporting the 50 indicators of progress.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Additionally, there are three cross-cutting dimensions ( inclusion , equity and fairness ) which are proposed to be relevant to and underpin the other five themes. In the framework, these cross-cutting dimensions are presented as demonstrating the need to ensure that the fruits of a suc - cessful society and economy be shared fairly throughout the population. If not, social cohesion diminishes and ulti- mately may impact of economic growth. Therefore, when measuring indicators of societal and economic progress, we should not rely upon aggregate indictors but rather evaluate experiences for different subgroups and consider fairness and equity in the impact of economic and societal shocks and government policy. In 2023, the Australian Government commenced reporting upon 50 indicators of progress on this framework through the Australian Bureau of Statistics [11]. Other countries (such as New Zealand) have made steps towards measuring progress in these domains to complement existing monitoring of economic markers [12]. Additionally from a policy perspective, the United Nations reports on the Human Development Index, which details a country S New Horizons? Preferences for a Wellbeing Economyprogress in three basic markers of development, including life expectancy at birth, mean and expected years of school- ing and knowledge, and Gross National Income per capita, for decades [13].",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Performance metrics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do sustainability key performance indicators (KPIs) contribute to implementing sustainable strategies?",
+      "answer": "Sustainability KPIs help measure and track the environmental, social, and economic impacts of business practices, guiding companies in making informed decisions towards sustainability goals.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Performance metrics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main performance indicator used in FSN analysis?",
+      "answer": "Inventory movement is the primary performance indicator used in FSN analysis to calculate the turnover ratio.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Performance metrics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Performance metrics_qna_003",
+      "value": 1
+    }
+  ]
+}

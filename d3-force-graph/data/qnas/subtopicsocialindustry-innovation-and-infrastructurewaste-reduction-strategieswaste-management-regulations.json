@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste management regulations",
+      "label": "Waste management regulations",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste management regulations_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How are environmental permitting and emissions activities regulated in the UK?",
+      "answer": "In the UK, environmental permitting is regulated by Regulations 2016 SI 2016/11542 (EPR), applicable to England and Wales, which regulates emission activities, installations, and mobile plants, as well as waste operations and materials facilities.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " To the best of our knowledge, agent-based models including GHG emissions trading systems, have mainly explored the effects of ETS on energy markets (see e.g., Richstein et al. 2014 ; Chappin and Dijkema 2009 ; Weidlich et al. 2008 , and there view in Castro et al. 2020 ). Effects on macroeconomic indicators have seldom been assessed through agent-based models. The few instances that we have found makeassumptions at odds with the complexity of climate economy interactions, such as general equilibrium (e.g., Tang et al. 2015 ) or exogenous aggregate demand (e.g., Fang and Ma 2020 ). This is a surprising gap in the literature, in light of the considerable interest in the effects of emissions permit systems on output and employment, as shown by the evidence in Arlinghaus ( 2015 ). These considerations open a broad scope for agent-based modelling and assessment of the effects of permits on GHG emissions 1 In the UK, environmental permitting is regulated by Regulations 2016 SI 2016/11542 (EPR) and applies to England and Wales. It is meant to regulate Emission activities, installations and mobile plants, as well as waste operations and materials facilities (limiting on asbestos, titanium dioxide, and petrol vapour recovery).",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Waste management regulations",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste management regulations",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste management regulations_qna_000",
+      "value": 1
+    }
+  ]
+}

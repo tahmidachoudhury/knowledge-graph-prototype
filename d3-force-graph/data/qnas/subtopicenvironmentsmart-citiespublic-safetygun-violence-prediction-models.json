@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gun violence prediction models",
+      "label": "Gun violence prediction models",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Gun violence prediction models_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What have individual prediction models of econometrics or AI shown according to the paragraph?",
+      "answer": "Individual prediction models of econometrics or AI have shown a lack of prediction robustness due to inherent shortcomings.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, individual prediction models of econometrics or Al have shown lack of prediction robustness due to inherent shortcomings (Zhu & Wei, 2013 ; Zhu et al., 2015 ). To overcome the disadvantages above, decomposition and ensemble hybrid models have been introduced in carbon price forecasting. These models 123Annals of Operations Research (2025) 345:809 830 810 have grasped various characteristics and in uencing factors of carbon price in a comprehen- sive manner and, therefore, been able to generate more accuracy in prediction outcomes (Li et al., 2021 ; Niu et al., 2019 ; Sun et al., 2021 ; Zhu et al., 2021 ). The core idea of hybrid models is to integrate the abilities of each algorithm, diversify the risk of single methods, and explore the complex internal information from various angles. Considering the high non-stationarity and nonlinearity features of carbon prices, decompo- sition by empirical mode decomposition (EMD) has been widely employed for maximising forecasting precisions (Zhu et al., 2018 ). As the optimization of EMD, variational mode decomposition (VMD) shows strong noise robustness and signals decomposition capabili- ties.",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Gun violence prediction models",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Gun violence prediction models",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Gun violence prediction models_qna_000",
+      "value": 1
+    }
+  ]
+}

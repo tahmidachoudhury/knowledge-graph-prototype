@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Smart street lighting for safety",
+      "label": "Smart street lighting for safety",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Smart street lighting for safety_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How do sensor-enabled lighting technologies in smart cities impact health and well-being?",
+      "answer": "Sensor-enabled lighting technologies in smart cities are argued to enhance good health and well-being, especially concerning psychological effects associated with visual and non-visual perception. This includes benefits related to safety and reduced road injuries. However, what negative impact on animals' lives do Both and Caldwell warn about in relation to artificial lighting?",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Smart street lighting for safety",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Smart street lighting for safety",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Smart street lighting for safety_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Social protection|Social security systems",
+      "label": "Social security systems",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Social protection"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Social protection|Social security systems_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the advantages of SSA over EMD mentioned in the paragraph?",
+      "answer": "SSA can be applied to a wider range of data generating processes, does not require primary functions to be pre-set, and extracts main factors in a more effective and intuitive way.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Zhu ( 2012 ) claims that the widely used EMD methods are inherently weak at distinguishing noise terms. In addition, these decomposition methods severely restrict datadistribution. The SSA approach gives the best performance in denoising, with the help ofits distribution features for subsequences (Hassani, 2007 ; Zhang et al., 2019 ). Compared to EMD, SSA can be applied to a wider range of data generating processes, regardless ofwhether they are linear or nonlinear, stable or unstable, and it also does not require primaryfunctions to be pre-set. More importantly, the SSA applies singular values as a criterion, andits ability to extract the main factors in a given sequence is more effective and intuitive thanthe alternatives (V autard et al., 1992 ). The second contribution of our paper is that we explore carbon pricing from two different carbon trading markets, namely the European ETS and ve main carbon trading pilots inChina, including the key markets of Beijing, Shanghai, Guangdong, Shenzhen and Hubei. The EU Emissions Trading System (EU ETS), which was established as early as 2005, istoday the largest carbon emissions trading market in the world (Aspinall et al., 2021 ; Dutta, 2018 ; V eith et al., 2009 ).",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Social protection",
+      "subtopic": "Social security systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Social protection|Social security systems",
+      "target": "Subtopic:Social|Decent work and economic growth|Social protection|Social security systems_qna_000",
+      "value": 1
+    }
+  ]
+}

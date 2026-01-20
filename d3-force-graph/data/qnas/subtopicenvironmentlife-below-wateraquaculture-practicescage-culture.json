@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Cage culture",
+      "label": "Cage culture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Cage culture_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to establish larval cultures in the study?",
+      "answer": "The eggs of two females and two males were combined using routine methods to establish larval cultures.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In two separate fertilisations, the eggs of two females and two males were combined to establish larval cultures using routine methods (see Clements et al. 2022). Larvae were reared in aerated 1L beakers of UV sterilised 1 m FSW at 25 26 C in a constant tempera- ture (CT) room and fed Proteomonas sulcata (20,0 cells mL 1) every two days. When they reached the competent brachiolaria stage (16 days post-fertilisation), settlement was induced using coralline algae, Amphiroa sp. The juveniles were then reared in the CT room (25 26 C) in UV sterilised 1 m FSW and fed small pieces of Amphiroa sp. Juvenile COTS grow well on this alga (Deaker et al. 2020b ) and were fed ad libitum. They were initially placed in individual wells (5 mL) in 12-well culture dishes where they were reared up to ~ 3 mm diameter and then moved to wells (10 mL) in 6-well dishes. As the juveniles grew, they were moved into small plastic Petri dishes (10 20 mL) and then large glass (150 250 mL) dishes.",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Cage culture",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Cage culture_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What temperature were the aquaria maintained at for the juvenile COTS?",
+      "answer": "The aquaria were maintained at a temperature of 26 to 27 degrees Celsius.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " An ability to age juvenile COTS using morphological traits would greatly enhance our understanding of their biol- ogy and post-settlement processes, as well as the potential of cohorts of juveniles to generate outbreaks. In a model test approach, we addressed the hypothesis that a suite of com- bined traits might be useful to determine the age of COTS juveniles. Using our size-at-age data, we also investigated 703 Coral Reefs (2025) 44:701 719 the fit of growth models to describe age-size relationships of the juveniles. Methods Juvenile rearing As the taxonomy of the Pacific species of Acanthaster is uncertain (Haszprunar et al. 2017 ), we use Acanthaster sp. or COTS to refer to the species investigated here. Adults were collected near Cairns (northern Great Barrier Reef GBR) and shipped to the Sydney Institute of Marine Science where they were maintained in flow-through aquaria supplied with filtered sea water (FSW 5.0 m) at 26 27 C, the sea sur - face temperature of the Northern GBR (AIMS 2023). Small pieces of ovary and testis were dissected from the animals. The ovaries were placed in 10 5 M 1-methyl adenine in FSW to obtain fertile eggs.",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Cage culture",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Cage culture",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Cage culture_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Cage culture",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Cage culture_qna_001",
+      "value": 1
+    }
+  ]
+}

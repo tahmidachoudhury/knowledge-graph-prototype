@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy",
+      "label": "Blockchain applications in distributed energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are some examples of blockchain-based tokens that can be traded as cryptocurrencies by local energy producers?",
+      "answer": "Some examples of blockchain-based tokens that can be traded as cryptocurrencies by local energy producers include Solaris and NRG coin.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Blockchain applications in distributed energy",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does Blockchain technology contribute to Sustainable Development Goal 12?",
+      "answer": "Blockchain technology contributes to SDG 12 by enabling new methods for green energy production, monitoring activities responsible for pollution, real-time collection and analysis of green data for decision-making, overseeing urban groundwater, monitoring EV charging systems, informing consumers about less-efficient appliances, and monitoring sustainability standards compliance.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Blockchain applications in distributed energy",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How do blockchain-based tokens like Solaris and NRG coin contribute to diversifying energy supply?",
+      "answer": "Blockchain-based tokens like Solaris and NRG coin enable local energy producers to trade renewable energy as cryptocurrencies, thereby diversifying the energy supply.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Blockchain applications in distributed energy",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Blockchain applications in distributed energy_qna_002",
+      "value": 1
+    }
+  ]
+}

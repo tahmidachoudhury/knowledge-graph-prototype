@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Innovation clusters",
+      "label": "Innovation clusters",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Innovation clusters_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did the initial clustering using the VOSviewer algorithm reveal?",
+      "answer": "The initial clustering identified 16 distinct clusters, characterized by significant variation in citation patterns among them.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The term Erwin was included as a searchterm because this name was used to refer to the storm in some other European countries (e.g. Germany). Subse- quently, using the Web of Science tool citation analysis ,we identi ed additional articles citing the primary set of documents. The results were re ned to include only Articles and Review Articles , resulting in 973 docu-ments (54% with an open-access designation). Moreover, given our speci C interest in the storm S impact on forest- related sciences, the articles that resulted from the primarygeneral query were manually Itered to include only arti- cles that focused on scienti C elds that work with forests. This re nement narrowed the dataset to 18 primary articles related to forests (44% with an open-access designation), which served as the basis for another round of citationanalysis. Following a similar re nement process to exclude self-citations and focused on Articles and Review Articles , the nal dataset comprised 647 citing articles(60% with an open-access designation). The results from each single search were exported with their full records and cited RESULTS AND DISCUSSION Science across elds and countries The initial clustering performed using the VOSviewer algorithm identi ed 16 distinct clusters, characterised by signi cant variation in citation patterns among them(Fig.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "subtopic": "Innovation clusters",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Innovation clusters",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Innovation clusters_qna_000",
+      "value": 1
+    }
+  ]
+}

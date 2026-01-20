@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use",
+      "label": "Health technology use",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Universal health coverage"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How has the technological revolution affected the healthcare sector specifically?",
+      "answer": "It has led to significant improvements in service delivery and quality of care, contributing to higher productivity, better customer experience, cost reduction, and increased efficiency.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " These inconsisten- cies between studies make it hard to understand the environmental sustainability of EHDs. Moreover, the impacts of these devices are mostly considered at the product level and overlook potential indirect impacts associated with the healthcare value delivered by the EHDs (e.g. fewer hospital bed days). Conclusions It is important to consider a wider boundary of healthcare pathway rather than the narrow boundary of the device. This will involve considering both the direct life cycle impacts of the device (e.g. impacts related to production or end-of-life) and the positive and negative effects of using the EHDs at the healthcare pathway level. This would result in comprehensive environmental sustainability assessments of EHDs from a healthcare perspective. Keywords LCA Environmental sustainability Electronic healthcare devices Electronic surgical devices Electronic non-surgical devices Healthcare pathway 1 Introduction Technological revolution has played a crucial role in dif- ferent industries such as manufacturing, financial services, retail, and healthcare sector (Lee et al. 2018). It has led to higher productivity, better customer experience, cost reduc- tion, increased efficiency, and easier communication. In the healthcare sector, technological revolution has had a pro- found impact on service delivery and quality of care.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Universal health coverage",
+      "subtopic": "Health technology use",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some benefits of electronic healthcare devices mentioned in the paragraph?",
+      "answer": "Benefits of electronic healthcare devices include reliable diagnostics, self-monitoring capabilities, improved patient comfort, and less invasive procedures.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The proliferation of healthcare technologies has been driven by global concerns about an aging population, epidemics, pan- demics, health inequalities, and escalating healthcare costs (Abernethy et al. 2022). Rapid technological advances in healthcare electronics have occurred not only in diagnostics Communicated by Matthias Finkbeiner. * Naomi Muindi naomindunge.muindi@ugent.be 1 Research Group Sustainable Systems Engineering (STEN), Department of Green Chemistry and Technology, Faculty of Bioscience Engineering, Ghent University, Coupure Links 653, 9000 Ghent, Belgium 2 Janssen Pharmaceutica NV, Turnhoutseweg 30, 2340 Beerse, Belgium 3 DePuy International Ltd, St. Anthony S Road, Leeds LS11 8DT, England 639 The International Journal of Life Cycle Assessment (2025) 30:638 653 but also in healthcare delivery, administration, and man- agement (lyanna et al. 2022). These electronic healthcare devices (EHDs) are alternative solutions to conventional healthcare equipment, offering reliable diagnostics, self- monitoring capabilities, improved patient comfort, and less invasive procedures (Tian et al. 2019). An EHD is defined as a device that provides clinical (provision of direct patient care, i.e.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Universal health coverage",
+      "subtopic": "Health technology use",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use",
+      "target": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use",
+      "target": "Subtopic:Social|Good health and well-being|Universal health coverage|Health technology use_qna_001",
+      "value": 1
+    }
+  ]
+}

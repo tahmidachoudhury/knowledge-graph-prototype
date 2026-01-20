@@ -1,0 +1,194 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "label": "Renewable energy forecasting",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What methodology did Qamruzzaman and Jianguo use in their study regarding renewable energy and trade openness?",
+      "answer": "They used a panel nonlinear ARDL model covering the years from 1990 to 2017.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Notably, existing empirical studies covering factors influencing environmental quality have concluded various outcomes, which can be attributed to divergence in the methodologies, variables adopted, and development levels of the respective nations. Drawing on various academic sources, this review explores the complex effects of trade openness, renewable energy consumption, economic growth, and globalisation on the carbon emissions landscape. Trade openness and carbon emissions Trade openness can facilitate the diffusion of cutting-edge cleaner technologies and best practices, resulting in improved environmental performance39. Using a panel nonlinear ARDL from 1990 to 2017, Qamruzzaman and Jianguo27 reveal that adopting renewable energy would result from economies openness to trade. Similarly, expanding the import of renewable energy equipment may accelerate the deployment of renewable energy sources in South Asian economies35. Recent studies by Adebayo et al.10 and Shahbaz et al.40 discovered that trade openness reduces environmental degradation in the U.S. and Sweden. However, Han et al.14 demonstrated that trade strongly promotes non-renewable energy consumption while only slightly strengthening renewable energy usage. Regarding multilateral trade agreements, Dou et al.41 assessed the effects of imports and exports on environmental quality separately.",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Renewable energy forecasting",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of global electricity production is projected for renewable energy by mid-century?",
+      "answer": "Renewable energy is expected to account for 50% of global electricity production by mid-century.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The escalation of global warming owing to fossil fuel use has heightened the global focus on sustainable development, stressing the necessity of adopting cleaner energy sources25. According to the International Energy Agency (IEA, 2020), there has been an increase in energy-related CO2 emissions in developing countries compared with industrialised economies. Numerous studies have emphasised the critical need for developing countries to transition from their existing energy infrastructure to renewable energy to address climate change, enhance energy security, and foster economic growth10,20,26,27. Using alternative energy sources may help reduce CO2 emissions, which comprise more than 60% of total GHG emissions10. Recent projections indicate that by 2025, renewable energy will surpass coal in power generation and is expected to account for 50% of global electricity production by mid-century3 25. Moreover, renewable energy sources play a significant role in attaining energy security by reducing nations reliance on imported fossil fuels28. However, the inadequate energy infrastructures of developing nations have been unable to grow, which has slowed down the shift of these nations energy usage from non-renewable to renewable sources2. Dauda et al.",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Renewable energy forecasting",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How is the average renewable penetration increase calculated over a 10-year period?",
+      "answer": "The average renewable penetration increase is determined by evaluating the difference in renewable energy penetration over two consecutive years for 10 years from 2009 to 2,018 as per EQ. (2), and then averaging these values.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Renewable energy forecasting",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What method does the proposed forecasting model utilize for the analysis of carbon prices?",
+      "answer": "The proposed forecasting model utilizes a hybrid feature-driven framework that includes decomposition, reconstruction, prediction, and ensemble.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract With the national goal of carbon peak by 2030 and carbon neutral by 2060 in China , studies on carbon prices of China S Emissions Trading System (ETS) pilots have shown growing interest in the related elds. Carbon price uctuations re ect the scarcity of car- bon resources, and accurate prediction can improve carbon asset management capabilities. Therefore, in order to clarify the dynamics of carbon markets and assign carbon emissions allocation rationally, we propose a hybrid feature-driven forecasting model with the frame- work of decomposition-reconstruction-prediction-ensemble In this paper, the non-stationary, nonlinear and chaotic characteristics of carbon prices in China S ETS pilots have been veri- ed, and then the prediction model is built based on the tested features. Firstly, the original carbon price series are decomposed by Variational Mode Decomposition (VMD), and then reconstructed by Sample Entropy (SE). Next, Extreme Learning Machine (ELM) optimized by Particle Swarm Optimization (PSO) is conducted to predict the subsequences. Lastly, the forecasting series of every subseries are summed to obtain the nal results. The empirical results based on carbon prices of China S ETS pilots proved that the proposed model performs more ef ciently than the current benchmark models.",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Renewable energy forecasting",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which techniques are used in the forecasting model to predict carbon price series?",
+      "answer": "The forecasting model uses Variational Mode Decomposition (VMD) for decomposition, Sample Entropy (SE) for reconstruction, and Extreme Learning Machine (ELM) optimized by Particle Swarm Optimization (PSO) for prediction.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract With the national goal of carbon peak by 2030 and carbon neutral by 2060 in China , studies on carbon prices of China S Emissions Trading System (ETS) pilots have shown growing interest in the related elds. Carbon price uctuations re ect the scarcity of car- bon resources, and accurate prediction can improve carbon asset management capabilities. Therefore, in order to clarify the dynamics of carbon markets and assign carbon emissions allocation rationally, we propose a hybrid feature-driven forecasting model with the frame- work of decomposition-reconstruction-prediction-ensemble In this paper, the non-stationary, nonlinear and chaotic characteristics of carbon prices in China S ETS pilots have been veri- ed, and then the prediction model is built based on the tested features. Firstly, the original carbon price series are decomposed by Variational Mode Decomposition (VMD), and then reconstructed by Sample Entropy (SE). Next, Extreme Learning Machine (ELM) optimized by Particle Swarm Optimization (PSO) is conducted to predict the subsequences. Lastly, the forecasting series of every subseries are summed to obtain the nal results. The empirical results based on carbon prices of China S ETS pilots proved that the proposed model performs more ef ciently than the current benchmark models.",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Renewable energy forecasting",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_005",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the performance of the proposed forecasting model compare to existing benchmark models?",
+      "answer": "The empirical results show that the proposed model performs more efficiently than the current benchmark models.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract With the national goal of carbon peak by 2030 and carbon neutral by 2060 in China , studies on carbon prices of China S Emissions Trading System (ETS) pilots have shown growing interest in the related elds. Carbon price uctuations re ect the scarcity of car- bon resources, and accurate prediction can improve carbon asset management capabilities. Therefore, in order to clarify the dynamics of carbon markets and assign carbon emissions allocation rationally, we propose a hybrid feature-driven forecasting model with the frame- work of decomposition-reconstruction-prediction-ensemble In this paper, the non-stationary, nonlinear and chaotic characteristics of carbon prices in China S ETS pilots have been veri- ed, and then the prediction model is built based on the tested features. Firstly, the original carbon price series are decomposed by Variational Mode Decomposition (VMD), and then reconstructed by Sample Entropy (SE). Next, Extreme Learning Machine (ELM) optimized by Particle Swarm Optimization (PSO) is conducted to predict the subsequences. Lastly, the forecasting series of every subseries are summed to obtain the nal results. The empirical results based on carbon prices of China S ETS pilots proved that the proposed model performs more ef ciently than the current benchmark models.",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Renewable energy forecasting",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_006",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is there an interest in modelling and forecasting GHG emissions?",
+      "answer": "The interest in modelling and forecasting GHG emissions arises from the need to ensure that energy policies are as effective as possible and to understand the main dynamics and drivers of emissions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Also, the NECP envisages the need for higher taxes on heavily polluting activities. The Technical Building Code laysdown new building regulations, to ensure that domestic energy consumption is low. A fundamental driving force behind many of these initiatives will be the Recovery, Transformation and Resilience Plan (RTRP), presented by the Spanish Government inOctober 2020, which proposes assigning 39% of the funds that Spain receives under the Next Generation EU (NGEU) programme to the green transition; see Cansino et al. (2016) for a description of the policy measures to control carbon emissions in Spain. Ensuring that energy policies are as effective as possible requires an understanding of the main dynamics and drivers of emissions. Within this context, the interest in modelling and forecasting GHG emissions is without doubt. Carbon dioxide (CO 2) emissions, largely by-products of energy consumption, account for the largest share of GHG and, consequently, the analysis of GHG emissions has usually focused on CO 2 emissions; see, for instance, Friedlingstein et al. ( 2022 ), who describes the Global Carbon Project that produces world-wide projections of CO 2emissions in preparing the annual Global Carbon Budget, which is considered in the Intergovernmental Panel on Climate Change (IPPC) reports.",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Renewable energy forecasting",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_007",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is a combination of econometric and machine learning models often used in carbon price forecasting?",
+      "answer": "A combination of econometric and machine learning models is used because carbon prices are non-linear and non-stationary, allowing econometric models to predict the linear part and machine learning models to predict the non-linear part effectively.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fluctuating carbon prices may affect the running costs of a company and therefore its operational strategy, since extreme volatility in carbon pricescan be risky and create uncertainty in production activities. Hence, effective carbon priceforecasting will not only help manage the market risk but also contribute to broader politicalobjectives to tackle climate change. The currently extensive carbon forecasting methods can be groups to three streams: tradi- tional econometric models , such as GARCH (Liu & Huang, 2021 ), ARMA/ARMIA (Conejo et al., 2005 ; Sun & Zhang, 2018 ; Zhou et al., 2006 ),machine learning models such as neu- ral networks (Chiu et al., 2020 ; Mayer et al., 2015 ;Y ue ta I . , 2014 ; Zhu et al., 2017 ), and ensemble models (Lu et al., 2020 ; Safari & Davallou, 2018 ; Zhu et al., 2018b ). Overall, the integrated model, with its two-stage framework of decomposition-prediction, has come todominate the eld of carbon price forecasting. Given that carbon prices are non-linear andnon-stationary, taken alongside the over tting and local optimization problems of machinelearning, many studies apply a combination of econometric models to predict the linear partof the decomposition, and machine learning models to predict the non-linear part (Zhang &Wu, 2022 ; Zhang et al., 2018 ;Z h u&W e i, 2013 ; Zhu et al., 2018a ,2018b ).",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Renewable energy forecasting",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_008",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What hybrid forecasting method did Zhang and Wu (2022) propose for carbon price prediction in the EU ETS?",
+      "answer": "Zhang and Wu (2022) proposed a hybrid forecasting method that incorporates empirical mode decomposition (EMD) and the integration of ARMAs and LSSVMs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " ( 2021 ), Chai et al. ( 2021 ), Hao et al. ( 2020 ) and Lu et al. ( 2020 ). Chai et al. ( 2021 ) explore China S carbon price prediction using V ariational Mode Decomposition (VMD) and others, and found it to be limited by boundary effects and sudden signals (Li et al.,2021 ;W a n ge ta I , 2017 ). Zhang and Wu ( 2022 ) propose a hybrid forecasting method for car- bon price in the EU ETS, which incorporates the empirical mode decomposition (EMD) andthe integration of ARMAs and LSSVMs. Their work shows that this kind of model integra-tion does improve the prediction ef ciency of algorithms. Regarding the decomposition step,the popular methods include Empirical Mode Decomposition (EMD) or VMD (Huang, et al., 1998 ; Zhang et al., 2018 ; Zhu et al, 2018a ), as well as their extensions, such as Multivariate Empirical Mode Decomposition (MEMD) (He et al., 2017 ), Ensemble EMD (EEMD) (Wu et al., 2019 ), and Complementary Ensemble Empirical Mode Decomposition (CEEMD) (Li et al., 2021 ).",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Renewable energy forecasting",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Renewable energy forecasting_qna_008",
+      "value": 1
+    }
+  ]
+}

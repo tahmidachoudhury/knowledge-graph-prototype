@@ -1,0 +1,234 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "label": "Biodiversity data collection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What method was used to reduce model overfitting in the occurrence data collection?",
+      "answer": "The spThin package in R 4.3.1 was utilized to remove duplicate data within a 1 km² grid.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, fluctuations in altitude influence the soil S organic matter content, thereby regulating factors such as soil moisture, soil erosion, vegetation, and biomass production within the area36. Occurrence data The occurrence points of I. griffithii in Arunachal Pradesh were collected from several sources: iNaturalist (https://www.inaturalist.org ), India Biodiversity Portal (IBP , https://indiabiodiversity.org ), field surveys, and published literature. We initially recorded 42 location points. But, to reduce model overfitting, we utilized the spThin package37 in R 4.3.138 to remove the duplicate data within 1 1 km2 grid. Finally, a total of 31 verified location points of I. griffithii were kept for final analysis to generate the potential distribution in the study area using an ensemble algorithm. Environmental variables To examine the impacts of climate change on the distribution of Illicium griffithii , an ensemble species distribution model was developed using key environmental variables. This analysis incorporated 19 bioclimatic variables sourced from WorldClim (Version 2.0) with a resolution of ~ 1 km2 (30 arc seconds) ( www.worldclim. org)39. Additionally, topographic variables, including slope and aspect were derived from a digital elevation Fig.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What role can urban gardeners play in the context of biodiversity in Australia?",
+      "answer": "Urban gardeners can play a significant role in the fight for Australia's biodiversity by contributing to the habitat needs of local birds and wildlife.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2019). Habitat continues to be removed despite the death by a thousand cuts effect this is having on Australia S birds and biodiversity more broadly. This underlines the role the urban gardener can play in the fight for Australia S biodiversity. Australian birds can be abundant, diverse, and generally active in the urban environ- ment. Many species also exhibit plumage or behaviours that are attractive or endearing to people, making them an ideal flagship for the message of giving nature a home in our gar - dens. However, their diversity and concomitant ecological requirements dictates that some species are more likely to be adapted to the urban life than others. As such, we acknowl- edge that the bulk of the birds that are discussed this paper would be most accurately described as urban exploiters and adaptors (Tryjanowski et al. 2020). Whether a species is deemed as an urban exploiter or adaptor, may vary by location (Campbell et al. 2022). For example, research in Queensland and the Australian Capital Territory describe noisy miners (Manorina melanocephala) as urban exploiters (Sewell and Catterall 1998; Catterall 2004; Fountain and MacDonald 2022).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which bird species is specifically mentioned as an example of an urban exploiter in Queensland and the Australian Capital Territory?",
+      "answer": "The noisy miner (Manorina melanocephala) is mentioned as an example of an urban exploiter in Queensland and the Australian Capital Territory.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2019). Habitat continues to be removed despite the death by a thousand cuts effect this is having on Australia S birds and biodiversity more broadly. This underlines the role the urban gardener can play in the fight for Australia S biodiversity. Australian birds can be abundant, diverse, and generally active in the urban environ- ment. Many species also exhibit plumage or behaviours that are attractive or endearing to people, making them an ideal flagship for the message of giving nature a home in our gar - dens. However, their diversity and concomitant ecological requirements dictates that some species are more likely to be adapted to the urban life than others. As such, we acknowl- edge that the bulk of the birds that are discussed this paper would be most accurately described as urban exploiters and adaptors (Tryjanowski et al. 2020). Whether a species is deemed as an urban exploiter or adaptor, may vary by location (Campbell et al. 2022). For example, research in Queensland and the Australian Capital Territory describe noisy miners (Manorina melanocephala) as urban exploiters (Sewell and Catterall 1998; Catterall 2004; Fountain and MacDonald 2022).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the trend concerning amphibian species diversity in relation to urbanisation as noted by Mazgajska and Mazgajski (2020)?",
+      "answer": "The diversity of amphibian species decreases as the degree of urbanisation increases.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For example, a recent study showed negative effects of urbanisation on species occupancy and diversity in warmer cities with less green space (Haight et al. 2023 ). Moreover, these authors showed that mostly large bodied species were impacted. Similarly, in birds more urbanised environments led to a reduction in species richness. How - ever, in contrast to what has been observed for mammals in birds omnivorous large-bodied species thrived better (Pena et al. 2023 ). Amphibians are under-represented in research into habitat degradation and species declines (Tan et al. 2023 ). Yet, they are particularly threatened by global warming, habitat fragmentation and the spread of infectious diseases: 41% of amphibian species are threatened with extinction according to the IUCN Red List of Threatened Species (IUCN 2023 ). Moreover, the diversity of amphib - ian species decreases as the degree of urbanisation increases (Mazgajska and Mazgajski 2020 ). Amphibians are particu - larly vulnerable to changes in the landscape because they depend on connectivity between terrestrial and aquatic habi - tats due to the biphasic life cycle present in most species, resulting in the need to use water bodies for breeding and terrestrial habitats for the rest of their life cycle (Homola et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What projects were involved in the creation of these datasets?",
+      "answer": "The datasets were created through the COST action ENRAM and the BiodivERsA projects GloBAM and HiRAD.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Here we present two public datasets of animal movement data derived from European weather radars. They are the result of long-term interdisciplinary collaborations through the COST action ENRAM (European Network for the Radar surveillance of Animal Movement) 23 and BiodivERsA projects GloBAM and HiRAD . The datasets were created by processing radar data with dedicated and validated methods for detecting birds and especially bird migration, resulting in summaries of movement characteristics (e.g. density, direction and speed) at regular altitude intervals across the lower atmosphere. Despite heterogeneity in coverage and data quality, they provide the largest and most complete datasets of their kind in Europe. By creating, standardizing and publicly archiving these data, we reduce computing and access difficulties to facilitate aeroecology research and applications. The datasets are deposited on Zenodo and can also be explored in the Aloft data portal (see Aloft data portal). Methods The data were created by processing polar volume data (PVOL) to vertical profiles of biological targets (VP). These are then combined into vertical profile time series (VPTS). PVOL data access.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the study conducted in Xalapa, Mexico?",
+      "answer": "The study focuses on comparing the species composition of urban bird communities in Xalapa with those of two reference sites adjacent to the urban area.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2000 ; Eldgredge and Horenstein 2014 ). The ongoing process of urban expansion lan MacGregor-Fors ian.macgregor@helsinki.fi 1 Instituto de Biotecnolog a y Ecolog a Aplicada, Universidad Veracruzana, Xalapa, Veracruz 91090, Mexico 2 Faculty of Biological and Environmental Sciences, Ecosystems and Environment Research Programme, University of Helsinki, Niemenkatu 73, Lahti 15140, Finland 3 Facultad de Biolog a, Universidad Veracruzana, Xalapa, Veracruz 91000, MexicoAbstract Urbanization is considered one of the most critical processes related to biodiversity loss worldwide. Birds are one of the most commonly studied groups in urban ecosystems due to their quick response to environmental changes. Despite the current knowledge related to urban bird communities, information associated with the specific factors shaping avian com - munities in cities is still scarce, especially in the Neotropics. In this study, we performed a citywide survey for birds in the city of Xalapa (Mexico), to compare the species composition of urban communities with those of two reference sites adjacent to the urban area. We hypothesized that the compositional similarity would either be defined by their spatial proximity to their respective reference site or that it would be shaped by resources intrinsic to the city.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What gap in knowledge does the study aim to address?",
+      "answer": "The study aims to address the scarcity of information regarding the specific factors that shape avian communities in urban environments, particularly in the Neotropics.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2000 ; Eldgredge and Horenstein 2014 ). The ongoing process of urban expansion lan MacGregor-Fors ian.macgregor@helsinki.fi 1 Instituto de Biotecnolog a y Ecolog a Aplicada, Universidad Veracruzana, Xalapa, Veracruz 91090, Mexico 2 Faculty of Biological and Environmental Sciences, Ecosystems and Environment Research Programme, University of Helsinki, Niemenkatu 73, Lahti 15140, Finland 3 Facultad de Biolog a, Universidad Veracruzana, Xalapa, Veracruz 91000, MexicoAbstract Urbanization is considered one of the most critical processes related to biodiversity loss worldwide. Birds are one of the most commonly studied groups in urban ecosystems due to their quick response to environmental changes. Despite the current knowledge related to urban bird communities, information associated with the specific factors shaping avian com - munities in cities is still scarce, especially in the Neotropics. In this study, we performed a citywide survey for birds in the city of Xalapa (Mexico), to compare the species composition of urban communities with those of two reference sites adjacent to the urban area. We hypothesized that the compositional similarity would either be defined by their spatial proximity to their respective reference site or that it would be shaped by resources intrinsic to the city.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_007",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of cluster analyses were performed to study the urban bird community composition?",
+      "answer": "S rensen (incidence-based) and Bray-Curtis (abundance-based) cluster analyses were performed.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Considering the nature of our data, we performed a subgroup analysis using randomly selected groups for the urban and reference sites to compare similar samples. We used S rensen (incidence-based) and Bray-Curtis (abundance-based) cluster analyses and found that the urban bird community composition is better explained by the vegetation cover than by the proximity to the reference sites. We confirmed this association with the results of the GLM, showing a statistically significant association with the vegetation cover. Our results are relevant in terms of urban design, considering that promoting the improvement of vegetation in cities could potentially help avian communities in these changing environments. Keywords Urban biodiversity Avian ecology Vegetation cover Biological filter Community ecology Ornithology Urban ecologyAccepted: 19 February 2025 The Author(s) 2025A tale of two worlds: spatial arrangement of avian communities in a Neotropical city Miguel A. G mez-Mart nez1 Michelle Garc a-Arroyo2 Ernesto Ruelas Inzunza1 Angelina Ruiz-S inchez3 lan MacGregor-Fors2 13 Urban Ecosystems (2025) 28:88 In the case of avian communities, some studies have found different patterns, such as an increase in synanthropic species, a reduction in native species richness, and an increase in species composition similarity in highly urban - ized areas (Shochat 2004 ; Lepczyk et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_008",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What variables were compared to assess bird community similarity?",
+      "answer": "The study compared the compositional similarity of bird communities at both urban sites in relation to their proximity to natural conservation areas and the vegetation cover.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2005 ; Berlanga et al. 2010 ; Ruelas Inzunza and Aguilar Rodr guez 2010 ; Gonz lez-Garc a et al. 2014 ). To assess this, we compared the compositional similarity of bird communities at both sites. While it is well known that bird species composition changes with urbanization, the role of contrasting surrounding matrices is often overlooked in the tropics. Thus, the main research questions were: (1) is there an association between the bird compositional simi - larity of urban sites and their proximity to natural conserva - tion areas outside the city (pine-oak forests to the North and cloud forests to the South? and (2) compositional similarity is better explained by the vegetation cover than the differ - ence in distance (measured in decimal degrees) from each urban survey site to the reference sites? We formulated two contrasting hypotheses: (1) if there is an association between the bird compositional similarity of Xalapa and their prox - limity to non-urban areas adjacent to the city, the Northern 3 88 Urban Ecosystems (2025) 28:88 reference sites (pine-oak forests) and the Northern city-wide scheme urban points would be clustered, while another clus - ter would be comprised by the South reference (cloud for - est) and the Southern city-wide scheme urban points and (2) if vegetation relates more strongly with avian composition (instead of proximity to reference sites), a spatially-explicit pattern would be revealed where the highest avian composi - tion values coincide with the most densely vegetated areas in the city.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_009",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many survey points were included in the urban area for the bird community study?",
+      "answer": "A total of 114 survey points were included in the urban area.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2019 ). Then we placed a 750 750 m grid and in the center of each cell, we placed a survey point. Originally comprised of 106 survey points, we also included some strategically established points in some of the most important green areas of the city (i.e., some of the largest ones and keeping a high proportion of original vegetation) to also have a representation of the bird com - munities that dwell there, for a total of 114 survey points for the entire urban area (Fig. 1). To compare the bird communities in the contrast con - servation areas (referred to as reference sites hereafter), we established 20 survey points (10 points each) in the two most important accessible remnant vegetation areas adja - cent to the city of Xalapa: the protected natural areas of La Martinica in the North as a sample of the original temperate pine-oak forest environment (hereafter North reference site) and Santuario Bosque de Niebla in the Southwest region as a sample of the original cloud forest environment (here - after South reference site).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_010",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many sites were included in the final dataset and what was the sampling period?",
+      "answer": "The final dataset included 1599 sites sampled between two and 12 times from 2004 to 2022.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Methods Biological data Data basis We used a Germany-wide dataset of monitoring sites (Sch rings et al. 2024b, c), along with sequential data for two intensively sampled watersheds, the Boye and Kinzig catchments (Gillmann et al. 2024a ; Nguyen et al. 2024), selecting only those sites with at least two sam - pling events and available abiotic data for the same year. This yielded a dataset of 1599 sites, sampled between two and 12 times from 2004 to 2022, spanning the fed - eral states of North Rhine-Westphalia, Lower Saxony, Rhineland-Palatinate, Hesse, Thuringia, Saxony-Anhalt, Mecklenburg-Western Pomerania, and Saxony (Figure S1). Benthic invertebrate samples were collected at each site using standardized multi-habitat sampling methods, following the EU Water Framework Directive (WFD) for ecological status assessment (Haase et al. 2004) and were accompanied by information on river types, river sys - items, and river category (whether the river is classified as natural or heavily modified according to the WFD approach). Ecological status As a proxy for community composition and ecosystem health, the river type-specific Multimetric Index (MMI), was calculated with the online tool PERLODES (https:// www.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Biodiversity data collection",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_009",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Biodiversity data collection_qna_010",
+      "value": 1
+    }
+  ]
+}

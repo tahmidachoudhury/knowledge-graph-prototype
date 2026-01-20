@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation",
+      "label": "Use of sustainable materials in transportation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the purpose of the project mentioned in the paragraph?",
+      "answer": "The purpose of the project was to provide the environmental impact of bio-based materials based on a comprehensive and generalized dataset rather than a specific product or single point result.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Follow - ing EN 15804 (2012) + A2(2019), modules A and C were considered. Module D was excluded as information and data on burdens and benefits of bio-based materials are not well defined. The materials were compared using a common thermal transmittance as the functional unit. Scenarios that combine variations in material properties, transportation and end-of-life phases were developed, providing a range of data for each environmental impact and each material. Ranges were used to rank and investigate the environmental impacts. Results were also used as an input for dynamic LCIA to investigate the influence of biogenic carbon and the poten- tial benefits of temporary carbon storage. The project aims to provide environmental impact of bio-based materials not based on a specific product, and a single point result, but on a comprehensive and more generalised dataset. By providing a range of data through scenarios and dynamic LCIA, pro- fessional would be able to make informed design decision. 2 Materials and methods Eleven new, commercially available bio-based materials (mycelium, flax, sheep wool, cellulose, wood fibre, cork, hemp lime, hemp fibre, polylactic acid (PLA), recycled cot- ton and recycled wood board) were selected and compared to two common insulation materials (PUR.",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Use of sustainable materials in transportation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does information and communication technology (ICT) contribute to environmental protection as mentioned in the text?",
+      "answer": "ICT diminishes asymmetric information regarding market situations, which reduces traveling, transaction, and time costs, ultimately leading to a significant decrease in energy-intensive activities that protect environmental quality.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Scientific Reports Fourthly, renewable energy consumption (RE) has become a leading phenomenon in combating emissions, and most economies immeasurably have investments in it but have not yet reached their threshold levels. The environment-development model with renewable energy could bring a sound message to policy analysts. It is a common view that green energy secures environmental sustainability and reduces some energy burden to improve the balance of payment. Fifthly , asymmetric information regarding the market situation is diminished due to information & communication technology (ICT), which results in the ultimate reduction in travelling, transaction, and time costs. As a result, it has reduced a significant share of energy-intensive activities that protect environmental quality. This study also expects that the inclusion of ICT in human & economic activities would significantly decline emissions and become a green environmental measure in specified regions. Sixthly , the introduction of a circular economy at the domestic level may utilize the garbage efficiently to produce the energy for daily use and reduce environmental stress. Therefore, the specified economies have focused on circular economy and become a leading example for the globe to follow such a pattern to become clean & green shortly.",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Use of sustainable materials in transportation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Use of sustainable materials in transportation_qna_001",
+      "value": 1
+    }
+  ]
+}

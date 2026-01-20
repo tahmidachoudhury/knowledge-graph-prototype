@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies",
+      "label": "Bioenergy conversion technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies_qna_000",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How does microwave irradiation serve as an alternative to conventional heating methods in biomass conversion processes?",
+      "answer": "Microwave irradiation penetrates the sample and disintegrates the polymeric structure of the matrix by directly interacting with the applied electromagnetic field, making it a valuable alternative to conventional heating methods like mechanical treatment.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Bioenergy conversion technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the advantages and disadvantages of using liquid hot water as a pretreatment method for biomass conversion?",
+      "answer": "Liquid hot water has a low environmental impact but has low ability to increase enzymatic yield and high thermal energy costs associated with its use.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Bioenergy conversion technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies_qna_002",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What are the challenges associated with biomass conversion inhibitors in the context of biofuels production?",
+      "answer": "Biomass conversion inhibitors pose a significant challenge in biofuels production by hindering the efficient conversion of biomass feedstock into biofuels, requiring strategies for in situ detoxification to enhance the overall process efficiency.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Bioenergy conversion technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies_qna_003",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What technologies are commonly used to convert forest biomass to bioenergy according to Rain's review?",
+      "answer": "According to Rain's review, technologies such as biomass gasification, pyrolysis, and anaerobic digestion are commonly used to convert forest biomass to bioenergy.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/374202310_The_influence_of_meat_consumption_on_greenhouse_gas_emissions_in_Argentina",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Bioenergy conversion technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Bioenergy conversion technologies_qna_003",
+      "value": 1
+    }
+  ]
+}

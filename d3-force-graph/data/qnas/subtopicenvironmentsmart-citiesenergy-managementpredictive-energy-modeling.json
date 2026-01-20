@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "label": "Predictive energy modeling",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is projected to happen to future energy demands by the year 2050?",
+      "answer": "Future energy demands are projected to increase by approximately 30% by the year 2050.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This work describes the X- ray computed tomography post-irradiation examination capabilities at INL, aswell as detailing a variety of applications this instrument has examined. INTRODUCTION As international industrialization and worldwide population growth continue to occur, future energydemands are projected to increase by approximately 30% by the year 2050. 1According to the Interna- tional Energy Agency S World Energy Outlook2023,2the development and implementation of affordable, clean energy options is imperative to reaching the 1.5 /C176C limit on global warming by 2050 as established by the Paris Agreement.3Fortu- nately, nuclear energy is an attractive sector of the world S future energy portfolio as it is a power-dense energy source capable of producing energy at largescale while being carbon-free and virtually emis- sion-free.4Nuclear energy S ability to provide a consistent, continuous baseload energy with sched-uled downtime occurring only every /C2418 24 months (or longer, depending on reactor type) for refueling makes it a more competitive optionthan some other green energy sources. Before new nuclear reactor concepts can be commercially implemented in the United States, they must be approved for licensing by the U.S. Nuclear Regulatory Commission. 5The approval process requires a plethora of data, including datacollected on reactor materials and parts both pre-and post-irradiation and under a variety of extreme environments to ensure safe operations.",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Predictive energy modeling",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do MAR and CARS models contribute to forecasting natural gas consumption for residential users?",
+      "answer": "MARS and CARS models contribute to forecasting natural gas consumption for residential users by providing advanced analytical tools for predicting future trends and consumption patterns in the residential sector.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0952197624002720",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Predictive energy modeling",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What hybrid model did Sun et al. (2016) propose for carbon price predictions?",
+      "answer": "Sun et al. (2016) proposed a hybrid model based on Variational Mode Decomposition (VMD) and spiking neural networks (SNN).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Sun et al. ( 2016 ) proposed a hybrid model based on VMD and spiking neural networks (SNN) for ensuring precisions in the carbon price predictions. In an empirical study, Tian and Hao ( 2020 ) processed the original carbon price series into subsequences by VMD and illustrated an improved prediction performance of VMD. It is now widely used in the carbon price prediction models, implying its signi cant in uence in carbon price decomposition (Sun & Huang, 2020 ;W a n ge ta I . , 2019 ; Zhu et al., 2019 ). However, various subgroups produced by over-decomposition are observed to cause prob- lems of poor economic implications and dif cult calculations. Reconstruction method has therefore been introduced into carbon prices forecasting eld and to avoid errors of subjective selection, sample entropy (SE) has been used to reconstitute subgroups into new components. This algorithm is applied to the reconstruction process of carbon price series after decompo- sition and it has produced more satisfactory prediction results in the comparative experiments (Hao et al., 2020 ; Sun & Duan, 2019 ).",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Predictive energy modeling",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to Zhang and Wu (2022), what does their model integration improve?",
+      "answer": "Their model integration improves the prediction efficiency of algorithms.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " ( 2021 ), Chai et al. ( 2021 ), Hao et al. ( 2020 ) and Lu et al. ( 2020 ). Chai et al. ( 2021 ) explore China S carbon price prediction using V ariational Mode Decomposition (VMD) and others, and found it to be limited by boundary effects and sudden signals (Li et al.,2021 ;W a n ge ta I , 2017 ). Zhang and Wu ( 2022 ) propose a hybrid forecasting method for car- bon price in the EU ETS, which incorporates the empirical mode decomposition (EMD) andthe integration of ARMAs and LSSVMs. Their work shows that this kind of model integra-tion does improve the prediction ef ciency of algorithms. Regarding the decomposition step,the popular methods include Empirical Mode Decomposition (EMD) or VMD (Huang, et al., 1998 ; Zhang et al., 2018 ; Zhu et al, 2018a ), as well as their extensions, such as Multivariate Empirical Mode Decomposition (MEMD) (He et al., 2017 ), Ensemble EMD (EEMD) (Wu et al., 2019 ), and Complementary Ensemble Empirical Mode Decomposition (CEEMD) (Li et al., 2021 ).",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Predictive energy modeling",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Predictive energy modeling_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement",
+      "label": "Fishery improvement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What was the primary goal of the study mentioned in the paragraph?",
+      "answer": "The primary goal was to contextualize how the TEK of local fishers can strengthen freshwater fisheries management and riverine biodiversity conservation efforts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As CC magnifies the mag- nitude and inherent socio-ecological complexity of environmental problems, TEK of local and IPs broadens the knowledge base for more holistic decision-making (see Wheeler & Root-Bernstein, 2020). In the Philippines, TEK contributes to the sustainability and pro- ductivity of many systems, including forest management (Landicho et al., 2021), farming practices (Zapico et al., 2019), land management (Geronimo et al., 2016), biodiversity con-servation (Salvana & Arnibal 2020), fisheries monitoring (Maliao, 2019; Lavides et al., 2010), and climatic adaptations (Nelson et al., 2019). The overlying goal of this study was contextualizing how TEK of local fishers can strengthen freshwater fisheries management and riverine biodiversity conservation efforts. We used a case study approach in a riverine fishing community along the Nabaoy River in Aklan province, Central Philippines. The fishing community is not categorically a mem- ber of any Indigenous Cultural Communities (ICCs)/IPs group in the country; hence, they can be considered as local people under the TEK holder typology.",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishery improvement",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the three key insights that the case study may provide for decision-makers?",
+      "answer": "The case study may provide insights on (1) relevant indicators for fisheries management, (2) priority fisheries species and their characteristics, and (3) key actors in the fisheries value chain for integrated decision-making.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In various parts of the world, the fisheries sector is undergoing a rapid transition due to a combination of ecological and economic stressors. In this context, there is increasing interest in using integrated ecological economic tools to support ecosystem-based fisheries practices within a value chain framework, aiming to reduce ecological impacts while ensuring socioeconomic benefits. Our study integrates a food web model with a value chain model for an area of the Mediterranean Sea. This case study may provide valuable insights for decision-makers: (1) it allows the calculation of indicators that go beyond the evaluation of species and fisheries incomes, which are relevant for assessing fisheries management; (2) it offers a more comprehensive perspective on what should be considered priority fisheries species and their key characteristics; and (3) it supports the identification of key actors of the fisheries value chain and generates pertinent information to use in vertically integrated decision-making initiatives. Keywords Mediterranean Sea Ecopath with Ecosim Value chain Ecological modelling Fisheries Food web model Introduction The statement of FAO S 2022 landmark publication for the world fish and aquaculture is clear: Strategies to deliver healthy, sustainable and equitable food systems do not ade- quately include the critical long-term impacts of overfish- ing, habitat degradation and unequal access to resources and markets, so a Blue Transformation is needed.",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishery improvement",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery improvement_qna_001",
+      "value": 1
+    }
+  ]
+}

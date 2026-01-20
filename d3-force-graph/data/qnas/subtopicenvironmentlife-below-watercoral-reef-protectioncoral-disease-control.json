@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control",
+      "label": "Coral disease control",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the main phenomenon caused by population outbreaks of COTS?",
+      "answer": "Population outbreaks of COTS cause major coral loss in Indo-Pacific reefs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract The crown-of-thorns sea star (COTS, Acan- thaster sp.) is a coral predator that, in population outbreaks, causes major coral loss in Indo-Pacific reefs. Current para- digms explaining the cause of outbreaks focus on the larval and adult stages, while the early herbivorous juvenile stage remains a black box in our understanding of COTS. We fol- lowed growth in a large laboratory population of juveniles from settlement to 300 days. Ontogenetic changes in eight traits over time were quantified, including those typically used to track growth in sea stars (total diameter, arm num- ber) and traits not previously quantified (e.g. spine number/ type). Combinations of traits were modelled against age to explore their potential as indicators of age. Total diameter exhibited a strong association with age, as did covarying traits: central disk diameter, mouth diameter and arm length. The number of pointed spines was also strongly associated with age, greater in association than arm number. Our results indicate that use of a combination of morphological traits has potential as an indicator of juvenile age.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Coral disease control",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the potential role of cohorts of juveniles in the reef infrastructure?",
+      "answer": "Cohorts of juveniles can accumulate as a hidden army in the reef infrastructure, potentially serving as a proximate source of outbreaks during suitable conditions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Over multiple recruitment events, cohorts of juveniles have the potential to accumulate as a hidden army in the reef infrastructure until suitable condi- tions manifest, serving as a proximate source of outbreaks. In situations of low coral prey such as after bleaching events or COTS outbreaks, these cryptic juveniles may persist for some time (Byrne et al. 2023; Wolfe and Byrne 2024). A delayed switch to the adult diet and habitat occurs in other predatory sea stars, potentially influenced by density depend- ent feedback (Byrne et al. 2021; Nauen 1978). For juvenile COTS, the switch to corallivory may be influenced by inter - ference competition/semiochemicals from conspecific adults (Webb et al. 2024). The inability to target COTS across its benthic phases in mitigation/control programs emphasises the need for increased knowledge of the juvenile stage. The timing and size at which the diet shift to corallivory occurs varies among juveniles and depends on availability of preferred coral prey, as well as the risk of sublethal pre- dation/damage from coral tentacles (Deaker et al. 2021a ; Johansson et al.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Coral disease control",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Coral disease control_qna_001",
+      "value": 1
+    }
+  ]
+}

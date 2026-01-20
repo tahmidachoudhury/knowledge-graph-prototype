@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability",
+      "label": "Industrial sustainability",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What has been a major consequence of the Industrial Revolution as indicated in the paragraph?",
+      "answer": "A major consequence of the Industrial Revolution has been the severe impact on sustainability due to an emphasis on economic growth at any cost.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 3College of Economics and Management, Northwest Agricultural and Forestry University, Yangling, People S Republic of China. 4Department of Management, College of Business Administration, King Saud University, P O. Box 71115, 11587 Riyadh, Saudi Arabia. email: syedaaleraza56@gmail.com OPEN Scientific Reports www.nature.com/scientificreports remains intact 3,4. It is indispensable to commence the chief roots of such environmental strains across the globe. Since the Industrial Revolution, most nations have tried to boost their development level at any cost. Beyond the economic growth and its severe consequences for sustainability, an exclusive debate concerning social factors cannot be ignored from this race 5. For instance, urbanization has remained a leading phenomenon in eye contact with most nations because it is considered a symbol of modernization in the progress of societies or nations 6. Most people migrate from rural to urban areas due to better facilities. Its ratio has increased worldwide in the last decade from 37 to 54% 7. An abrupt rise in urbanization may bring ED. As per the UN report, there are six hundred top cities across the globe that consist of 20% of the global population, 60% of GDP growth, and 70% of carbon pollution.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Industrial sustainability",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the general attitude towards sustainability in the third cluster of companies?",
+      "answer": "The third cluster shows no inclination towards sustainability, indicating that the topic is passively perceived without any active efforts to implement green practices or monitor resource usage and emissions.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Industrial sustainability",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What finding do the authors report regarding the explanatory power of the factors once Industrial Production (IP) is included in the SADFM?",
+      "answer": "The explanatory power of the factors becomes negligible when Industrial Production (IP) is included in the model.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, using the nonlinear factor-augmentedregression proposed by Bai and Ng ( 2008 ), he concludes that the polynomial terms of the factors are not signi cant and, therefore, the EKC is not found in the short run. More recently, Bennedsen et al. ( 2021 ) propose a structural augmented dynamic factor model (SADFM) for annual CO 2emissions in the US. As in Fosten ( 2019 ), the economic activity is represented by common factors, which are extracted from a large set of annual macroeconomic US variables using the two-step Kalman Iter (2SKF) procedure of Doz et al. ( 2011 ) instead of PC. The SADFM also includes additional explanatory variables selected from the same set of economic variables byusing procedures based on Least Absolute Shrinkage and Selection Operator (LASSO) of Tibshirani ( 1996 ), Elastic Nets (EN) of Zou and Hastie ( 2005 ) and Autometrics of Doornik ( 2009 ) and Doornik and Hendry ( 2009 ). They conclude that, once the selected explanatory variables, in particular, Industrial Production (IP), are included in the model, the explanatory power of the factors is negligible.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Industrial sustainability",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Industrial sustainability_qna_002",
+      "value": 1
+    }
+  ]
+}

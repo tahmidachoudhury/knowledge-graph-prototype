@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "label": "Enviro data analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How were missing data handled in the dataset used for the study?",
+      "answer": "Missing data was imputed using K-nearest neighbors (KNN).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Urban areas are experiencing rapid trans- formations, driven by population growth, economic development, and policy changes. Understanding and monitoring these dynamic changes is crucial for sus- tainable urban planning and management. This study leverages machine learning and Google Earth Engine to investigate urban dynamics and its interactions with biophysical conditions in the Kaduna River Basin (KRB), Nigeria. This study utilized a dataset of 192 points, initially extracted from Google Earth Engine, to analyze urban transitions between 1987 and 2020, incorporating biophysical and environmental vari- ables such as population density, precipitation, and surface temperature. The dataset was processed in R using the CARET package, with missing data imputed via K-nearest neighbors (KNN), categorical variables transformed using One-Hot Encoding, and numerical variables rescaled for consistency. A tenfold cross- validation approach was used to train and validate machine learning models, including random forest, support vector machine, KNN, and multivariate adap- tive regression splines, ensuring optimal model per - formance. Model evaluation metrics such as overall accuracy, kappa, F1 score, and area under the curve confirmed the reliability of the models in identifying the biophysical factors influencing urban changes.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Enviro data analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the dataset relate to other variables of interest?",
+      "answer": "The dataset can be analyzed to answer ecological questions by relating acoustic patterns over time and space to widely available variables such as land cover data.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " the dataset can be used to answer fundamental ecolog - ical questions20, e.g., by analyzing the acoustic patterns over time and space and relating them to other variables of interest widely available, such as land cover data21. The dataset was collected as part of the BIOMON project funded by the European Commission (https://cordis.europa.eu/project/id/101090273), aiming at exploring the effectiveness of acoustic indices in monitoring bird communities in biodiverse sites 6,22.Fig. 1 Map of Cyprus indicating the locations of the sixty-one study sites at which the acoustic data were collected between March and May 2023. The inset map illustrates in green colour the Mediterranean Basin biodiversity hotspot. 3 Scientific Data www.nature.com/scientificdata www.nature.com/scientificdata/Methods Cyprus is the third-largest island in the Mediterranean Sea known for its rich biodiversity, including avian diversity23. More than 400 bird species have been recorded on the island thus far, with about two-thirds of them being migratory species. Several bird monitoring programs are in place on the island (https://birdlifecyprus.org/monitoring-birds/), with experienced volunteer bird surveyors conducting ground surveys at regular intervals. One of these programs is the Common Birds Monitoring Scheme (CBMS), coordinated by BirdLife Cyprus, contributing to a larger pan-European scheme (https://pecbms.info/).",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Enviro data analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to analyze the background environmental variables at occurrence locations?",
+      "answer": "A principal component analysis (PCA) was used to analyze the background environmental variables at each occurrence location.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " WorldClim provides 19 different global metrics of climate, both for current climates and for a variety of different future periods and emissions scenarios62. Current climate data from WorldClim are averaged from the years 1970-200062, which were used as the closest approximation of the available historical occurrence location data. We used the raster package63 in R to extract the value of each WorldClim variable for current climates at the location of each occurrence location. We used these values to create a cloud of data points representing the species historic distribution in environmental space (E-space)64 We then developed a principal component analysis of the background environmental variables (i.e., current climate) extracted at each occurrence location to obtain principal component axes summarizing variance of the climatic data at location of known occurrence. Principal components one, two, and three (summarizing 80.4% of the background environmental variable data variance) were then used as axes to plot the occurrence locations in environmental space. We then calculated Scientific Reports the Mahalanobis distances between each occurrence location in E-space. These distances were used to fit a minimum-volume ellipsoids to all occurrence locations in E-space with permutations taking one point out in each iteration.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Enviro data analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the study mentioned in the paragraph?",
+      "answer": "The study focuses on using a Machine Learning approach to analyze the Russian case in relation to economic growth and its impacts, particularly on environmental factors.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, as a robustness check, we compare previous ndings with resultsfrom a Machine Learning experiment. To the best of our knowledge, this is the rst studythat adopts an ML approach to analyze the Russian case. In addition, we wrote a new CausalDirection from Dependency (D2C) algorithm. The remainder of the study proceeds as follows: Sect. 2provides a survey of the relevant literature; Sect. 3contains the results of time-series analyses; Sect. 4presents our new ML algorithm along with its ndings. Finally, Sect. 5concludes. 2 Literature review Economic growth entails industrialization and increases in other economic activities. Accord- ing to Panayotou ( 2016 ), several factors such as consumption of natural resources and environmental degradation can explain how, although economic growth has a variety ofpositive impacts in the society, it can result in a number of negative effects, such as increasedcarbon emission, global warming and other forms of pollution. Soytas and Sari ( 2009 ) indi- cate that carbon emissions increase with an acceleration of economic activities. As longas there is an increase in manufacturing and production, there is always a direct relation-ship with the emission in the air.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Enviro data analytics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Enviro data analytics_qna_003",
+      "value": 1
+    }
+  ]
+}

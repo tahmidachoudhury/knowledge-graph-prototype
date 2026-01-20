@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories",
+      "label": "Wildlife habitat inventories",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of habitats were expected to be included in foraging individuals' habitat selection?",
+      "answer": "Foraging individuals were expected to select a mixture of habitats, including summer crops, pasturelands, and wetlands.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2004 ; Smith 2006 ; Eggers et al. 2011 ; Schmidt et al. 2017 ), we expected that nest site and foraging habitat selec - tion are correlated with specific land cover features (e.g., low plant height, sparse vegetation, and proximity to wet - lands). Additionally, we expected that foraging individuals select a mixture of habitats, including summer crops, pas - turelands, and wetlands (Cramp and Simmons 1993 ; Wilson et al. 2004 Kubelka et al. 2012 ). Materials and methods Study area Our study was conducted in the central-eastern Po Plain in Italy, at the crossroads of the Alps, the Northern Apen - nines, and the Adriatic Sea. The landscape of the area is characterized by pervasive human disturbance, mainly in the form of intensive agriculture. Agricultural expansion and intensification have played key roles in determining dramatic landscape changes over the past several centuries, particularly the consistent expansion and intensification of maize cultivation for silage production (Bava et al. 2014 ; Tabacco et al. 2018 ). However, beginning at the end of the 1990s, the application of EU agri-environmental measures aimed at creating and managing environments for wild fauna and flora on set-aside arable land brought numerous farms to restore thousands of hectares of wetlands, grass - lands, shrubs, and hedgerows (Regione Emilia-Romagna 2019 ).",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat inventories",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What significant morphological differences were found in common toads based on habitat type?",
+      "answer": "The study found that common toads exhibit habitat-specific morphologies, with the greatest differences observed between natural and urban habitats.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To test whether human-induced habitat modifications impact the morphology of ani - mals with low dispersal ability we measure 15 morphological traits on 137 common toads ( Bufo bufo ) across four habitat types represented by two or three independent sites across the lle de France region. The results shown morphological differences among habitat types and sexes. Animals show habitat specific morphologies that may allow them to survive in human-modified habitats. Moreover, females have larger heads possibly to avoid trophic resource competition with males. Males, on the other hand show longer limbs possibly related to their greater movements when finding females during the reproductive season. Overall, our results that animals living in different habitat types are morphologically different with differences between natural and urban habitat being the greatest. Whether these differences are due to local adaptation or plastic responses remains to be investigated. Keywords Land use Urbanisation Agriculture Morphology Toad Sexual dimorphismAccepted: 23 January 2025 The Author(s) 2025Do human-induced habitat changes impact the morphology of a common amphibian, Bufo bufo? Soline Bettencourt-Amarante1 Rapha lle Abensur1 Robin Furet1 Clara Ragon1 Anthony Herrel1 ,2,3,4 1 3 Urban Ecosystems (2025) 28:87 (Trochet et al.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat inventories",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat inventories_qna_001",
+      "value": 1
+    }
+  ]
+}

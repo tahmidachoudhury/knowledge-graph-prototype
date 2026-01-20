@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design",
+      "label": "Sustainable landscaping design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Is the phenomenon of engagement in sustainable development limited to landscape governance according to the text?",
+      "answer": "No, the engagement in sustainable development is not limited to landscape governance.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2018 ; Levin et al. 2012 ; Rittel and Webber 1973 ). Accordingly, solving wicked problems represents a dif cult undertaking. Grimm ( 2019 : 9) dis- cusses the activities of globally operating companies that (co-)create such problems. Their involvement in solving them is subject to the problem that a corporate commitmentto sustainable development is associated with economic disadvantages compared to non-committed competitors. The same is true at the intergovernmental level. Nationalgovernments are apparently unwilling or unable to exercise a regulatory function (Mena and Palazzo 2012 ), which is why corresponding negative socioeconomic and environ-mental circumstances arise as a result of the underregulation of global economic interrelationships. As a consequence, examples from the elds of landscape governance like biodiversity loss, climate change, food insecurity, and poverty at the landscape show that partner- ships between governments, businesses and civil societyorganizations are gaining importance and in uence (Abar- Z a and GI ckler 2023 ; Ak and Boiral 2023 ; B ckstrand 2006 ; Dentoni and Peterson 2011 ; Nadvi 2008 ; Ros-Tonen et al. 2018 ). However, the phenomenon of governments, businesses and civil society organizations engaging in sus- tainable development is not limited to landscape govern-ance.",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Sustainable landscaping design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design_qna_001",
+      "group": "QnA",
+      "label": "Conservation",
+      "question": "How do gardens contribute to the conservation of birds according to the paper?",
+      "answer": "Gardens provide reliable food resources, water sources, and important stepping stones that facilitate movement between larger patches of intact habitat for birds.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Firstly, gardens are often landscaped and well irrigated, offering reliable food resources for some birds. In Australia, this is especially true for nectar-feeding birds (Davis et al. 2015), with gardeners actively encouraged by the horticultural industry to plant honeyeater attracting plants. Secondly, many gardens can provide an important source of water (via birdbaths or other water fea- tures) (Cleary et al. 2016; Gibbons et al. 2023), which will be critical in many areas pre- dicted to experience significant drying as a result of anthropogenic climate change (Grose 1141 Biodiversity and Conservation (2025) 34:1139 1154 et al. 2020). Thirdly, gardens can serve as important stepping stones for many birds that move through the landscape between larger patches of intact habitat (Goddard et al. 2017). This final point may be important in the context of areas where local and state government agencies routinely burn these urban-adjacent patches of habitat; the impacts of which are poorly documented for birds (but see Bradshaw et al. 2018). In these scenarios, resident birds may seek out urban and peri-urban gardens in search of refuge during periods of prescribed burning.",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Sustainable landscaping design",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Sustainable landscaping design_qna_001",
+      "value": 1
+    }
+  ]
+}

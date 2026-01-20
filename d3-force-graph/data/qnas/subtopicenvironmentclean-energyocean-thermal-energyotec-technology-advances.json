@@ -1,0 +1,214 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "label": "Otec technology advances",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does increasing the velocity at the vertical inlet affect thermal mixing?",
+      "answer": "Increasing the velocity at the vertical inlet improves thermal mixing.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The thermal mixing was found better when the velocity at the vertical inlet ( y-axis) becomes greater and the average temperature is lower. Also, the increase in the pipe S length causes the average temperature to drop since the uid mixes better the farther along it travels, while also slightlyincreasing the velocity. Keywords Computational uid dynamics Turbomachinery system SDG clean energy Pipeline circuits Turbulent ow Mixing tee Thermal tee 1 Introduction Mixing tees are used in turbomachinery applications wher- ever the blending of two and more streams of uid is required for improving the ef ciency of the application [ 1]. A mix- ing tee is a pipe connection apparatus that merges two pipe streams which have different volumetric ow rates and or temperature or chemical composition and re activation ofthe streams in to one pipe stream. This kind of geometry ismeant to help in the mixing process and guarantee that uid B Rajwinder Singh rjsaulukh@gmail.com; rajwinder.singh.750@student.uu.se Jashanpreet Singh jashanpreet.e17331@cumail.in; ijashanpreet@gmail.com 1Department of Materials Science and Engineering, UppsalaUniversity, 75310 Uppsala, Sweden 2University Center for Research and Development, Chandigarh University, Mohali, Punjab 140413, India 3Department of Mechanical Engineering, Panjab University, Chandigarh 160014, Indiaproperties satisfy the demands of equipment that is down- stream or subtlety in the shape of turbomachinery [ 1].",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec technology advances",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did Kimura et al. study in their experimental research?",
+      "answer": "Kimura et al. studied the velocity and temperature variations inside tee-sections in mixing vessels, utilizing flow visualization to explain the dynamics of the merging region where two OWS interact.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Several researchers have tried to solve the thermal mixing and ow phenomena that occur in the mixing vessel. Kimuraet al. [ 4] performed an experimental study on the velocity and temperature variations inside the tee-sections. They utilized ow visualization to explain the complex dynamics of themerging region where two OWS interact. A T-junction ow mixture behaviour effect as a function of increasing in ow temperature was experimentally studied by Selvam et al. [ 7] in light of nuclear power plant (NPP) engineering practice.In the twenty- rst century, the CFD has gained a signi cant boost in solving complex ow problems numerically. Numer-ous researchers have shown that the Large-Eddy simulation, a turbulent model included in computational uid dynamics (CFD) software, is a highly effective method for preciselyexamining temperature variations linked to turbulent mix-ing ow with high Reynolds numbers (Re) at a tee junction [8 11]. Comparing various turbulent models (LES, DES, and RANS) across CFD, Gauder et al. [ 12] have contributed to the understanding of the CFD problem sources and established guidelines for the future application of numerical models.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec technology advances",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did Selvam et al. contribute to the study of thermal mixing in their research?",
+      "answer": "Selvam et al. experimentally studied the effect of increasing flow temperature on T-junction flow mixture behavior, in the context of nuclear power plant engineering.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Several researchers have tried to solve the thermal mixing and ow phenomena that occur in the mixing vessel. Kimuraet al. [ 4] performed an experimental study on the velocity and temperature variations inside the tee-sections. They utilized ow visualization to explain the complex dynamics of themerging region where two OWS interact. A T-junction ow mixture behaviour effect as a function of increasing in ow temperature was experimentally studied by Selvam et al. [ 7] in light of nuclear power plant (NPP) engineering practice.In the twenty- rst century, the CFD has gained a signi cant boost in solving complex ow problems numerically. Numer-ous researchers have shown that the Large-Eddy simulation, a turbulent model included in computational uid dynamics (CFD) software, is a highly effective method for preciselyexamining temperature variations linked to turbulent mix-ing ow with high Reynolds numbers (Re) at a tee junction [8 11]. Comparing various turbulent models (LES, DES, and RANS) across CFD, Gauder et al. [ 12] have contributed to the understanding of the CFD problem sources and established guidelines for the future application of numerical models.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec technology advances",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the focus of Pujowidodo et al.'s recent study?",
+      "answer": "Pujowidodo et al.'s recent study focused on predicting the flow of compressible fluids in a converging diverging supersonic nozzle using a novel modified k-turbulence model.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2 Area-weighted average of temperature at different locations of a,bshort, and c,dlong mixing tees at different momentum ratios Fig. 3 Standard deviation of temperature at different locations of a,bshort, and c,dlong mixing tees at different momentum ratios conducted an experimental study on the impact of the ow rate ratio between the branch and main pipe inlets on thermal mixing quality. They observed that if the ow rate ratioexceeds 0.16, the thermal mixing quality would be satisfac- tory. Kok et al. [ 26] determined that the selected time-step size may have a substantial impact on the degree of mixing.Additionally, they credit their outcome to the selected mesh resolution. Pujowidodor et al. [ 27] conducted a recent studyon a novel modi ed k- turbulence model. Their research focused on predicting the ow of compressible uids in a converging diverging supersonic nozzle. They discoveredthat the turbulence behaviour and uid characteristics were in uenced by the increased cross-sectional area. Lin et al. [28] conducted a numerical study to analyse the heat transfer performance under constant one-directional and oscillatory ow conditions, both with and without vortex generator.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec technology advances",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did Lin et al. aim to analyze heat transfer performance?",
+      "answer": "Lin et al. conducted a numerical study to analyze heat transfer performance under constant one-directional and oscillatory flow conditions, examining both scenarios with and without vortex generators.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2 Area-weighted average of temperature at different locations of a,bshort, and c,dlong mixing tees at different momentum ratios Fig. 3 Standard deviation of temperature at different locations of a,bshort, and c,dlong mixing tees at different momentum ratios conducted an experimental study on the impact of the ow rate ratio between the branch and main pipe inlets on thermal mixing quality. They observed that if the ow rate ratioexceeds 0.16, the thermal mixing quality would be satisfac- tory. Kok et al. [ 26] determined that the selected time-step size may have a substantial impact on the degree of mixing.Additionally, they credit their outcome to the selected mesh resolution. Pujowidodor et al. [ 27] conducted a recent studyon a novel modi ed k- turbulence model. Their research focused on predicting the ow of compressible uids in a converging diverging supersonic nozzle. They discoveredthat the turbulence behaviour and uid characteristics were in uenced by the increased cross-sectional area. Lin et al. [28] conducted a numerical study to analyse the heat transfer performance under constant one-directional and oscillatory ow conditions, both with and without vortex generator.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec technology advances",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What impact did the increased cross-sectional area have according to Pujowidodo et al.?",
+      "answer": "According to Pujowidodo et al., the increased cross-sectional area influenced the turbulence behavior and fluid characteristics.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2 Area-weighted average of temperature at different locations of a,bshort, and c,dlong mixing tees at different momentum ratios Fig. 3 Standard deviation of temperature at different locations of a,bshort, and c,dlong mixing tees at different momentum ratios conducted an experimental study on the impact of the ow rate ratio between the branch and main pipe inlets on thermal mixing quality. They observed that if the ow rate ratioexceeds 0.16, the thermal mixing quality would be satisfac- tory. Kok et al. [ 26] determined that the selected time-step size may have a substantial impact on the degree of mixing.Additionally, they credit their outcome to the selected mesh resolution. Pujowidodor et al. [ 27] conducted a recent studyon a novel modi ed k- turbulence model. Their research focused on predicting the ow of compressible uids in a converging diverging supersonic nozzle. They discoveredthat the turbulence behaviour and uid characteristics were in uenced by the increased cross-sectional area. Lin et al. [28] conducted a numerical study to analyse the heat transfer performance under constant one-directional and oscillatory ow conditions, both with and without vortex generator.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec technology advances",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did Cloete et al. demonstrate about the effectiveness of 2D methodology?",
+      "answer": "Cloete et al. demonstrated that the 2D methodology is particularly effective for predicting trends in new designs through extensive 2D and 3D CFD Eulerian multiphase simulations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A notable study by Jo o Cardoso et al. delves into this comparison specifically for biomass gasification processes. The research highlights the distinct differences in hydrodynamic behavior captured by 2D and 3D models, underscoring the importance of selecting the appropriate modeling dimensionality based on the specific requirements of the study. The 3D mod- els provide a more comprehensive understanding of the complex flow patterns and interactions within the fluid- ized bed, which are crucial for optimizing gasification effi- ciency and reactor design [ 24]. F. Popescu et al. introduce a novel approach in their work. They propose a generalized 3D biomass decomposition model that can be integrated with existing CFD technology. This model aims to provide a comprehensive understanding of the chemical and physi- cal processes involved in biomass combustion, offering a versatile tool for researchers and engineers. The model S ability to adapt to different biomass compositions and its integration with the CFD software represents a significant advancement in the modeling of biomass combustion sys - tems [25]. Cloete et al. illustrated through extensive 2D and 3D CFD Eulerian multiphase simulations that the 2D methodology is particularly effective for predicting trends in new designs.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec technology advances",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_007",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did the Seebeck coefficient change from Fe11Ti3AI6 to Fe10Cr1Ti3Al6?",
+      "answer": "The Seebeck coefficient increased from +27 V/K in Fe11Ti3AI6 to +39 V/K in Fe10Cr1Ti3Al6 after doping.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In general, any attempt to increase the Seebeck coefficient is usually accompanied by a decrease in the electrical conductiv - ity or vice versa due to the interplay between these two parameters. This work demonstrates that a simultaneous increase in both the Seebeck coefficient and electrical conductivity can be obtained by doping in intermetallic alloys. A new alloy composition, Fe10Cr1Ti3AI6, was synthesized by substituting Fe with Cr in Fe11Ti3AI6 using mechanical alloying and spark plasma sintering (SPS). The thermoelectric measurements revealed that the Cr substitution led to an increase in the Seebeck coefficient from +27 V/K in Fe11Ti3AI6 to +39 V/K in Fe10Cr1Ti3Al6, with a corresponding increase in the electrical conductivity from 2.5 105 S/m to 4.7 105 S/m, resulting in a significant increase in the power factor. The temperature dependence of the thermoelectric properties of this new alloy was also investigated over a temperature range of 50 727 C. The result showed that a maximum power factor of 6.0 10 4 W/m K2 was obtained at 53 C. Keywords Intermetallic powder metallurgy thermoelectric ball milling spark plasma sintering Introduction A continuous increase in the global energy demand has been seen over the past few decades.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec technology advances",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_008",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What improvement in the ZT value was reported by Fukuta et al. for the Fe-V-Al alloy through a grain refinement approach?",
+      "answer": "Fukuta et al. reported a high ZT value of 0.37 for the Fe-V-Al alloy using a grain refinement approach.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fukuta et al.22 reported an improvement in the ZT of the Fe-V-AI alloy using a grain refinement approach, achieving a high ZT value of 0.37. On the other hand, by implementing microstructure engineer - ing, Srinithi et al.23 reported an improvement in the power factor of Fe-Al-Si from 2.5 10 4 W/m K2 to 8.8 10 4 W/m K2. Recently, Reumann et al.24 investigated the effect of Cr substitution on the Fe site of Fe2VAI and obtained a higher Seebeck coefficient of ~ ~70 V/K in Fe1.975Cr0.025VAI compared to ~40 V/K in Fe2VAI. Considering the advantage of the low-cost and nontoxic nature of the Fe11Ti3AI6 alloy, this work was carried out to explore the possibility of further improving its thermoelec- tric performance. Although Fe11Ti3AI6 exhibits a respectable power factor of 7.0 10 4 W/m K2, its Seebeck coefficient is still too low. Clearly, a strategy for further development of this alloy is to increase its Seebeck coefficient, which may be achieved by adding an additional transition element into the alloy. After initial exploration, we found that the Seebeck coefficient of Fe11Ti3AI6 alloy could be increased by replac- ing Fe with Cr.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec technology advances",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_009",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What strategy is proposed to increase the Seebeck coefficient of the Fe11Ti3AI6 alloy?",
+      "answer": "The strategy proposed is to increase the Seebeck coefficient by adding an additional transition element into the alloy, specifically by replacing Fe with Cr.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fukuta et al.22 reported an improvement in the ZT of the Fe-V-AI alloy using a grain refinement approach, achieving a high ZT value of 0.37. On the other hand, by implementing microstructure engineer - ing, Srinithi et al.23 reported an improvement in the power factor of Fe-Al-Si from 2.5 10 4 W/m K2 to 8.8 10 4 W/m K2. Recently, Reumann et al.24 investigated the effect of Cr substitution on the Fe site of Fe2VAI and obtained a higher Seebeck coefficient of ~ ~70 V/K in Fe1.975Cr0.025VAI compared to ~40 V/K in Fe2VAI. Considering the advantage of the low-cost and nontoxic nature of the Fe11Ti3AI6 alloy, this work was carried out to explore the possibility of further improving its thermoelec- tric performance. Although Fe11Ti3AI6 exhibits a respectable power factor of 7.0 10 4 W/m K2, its Seebeck coefficient is still too low. Clearly, a strategy for further development of this alloy is to increase its Seebeck coefficient, which may be achieved by adding an additional transition element into the alloy. After initial exploration, we found that the Seebeck coefficient of Fe11Ti3AI6 alloy could be increased by replac- ing Fe with Cr.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec technology advances",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec technology advances_qna_009",
+      "value": 1
+    }
+  ]
+}

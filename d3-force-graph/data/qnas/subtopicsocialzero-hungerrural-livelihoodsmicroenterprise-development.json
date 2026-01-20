@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Microenterprise development",
+      "label": "Microenterprise development",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Microenterprise development_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How does the methodology break down the macro-simulation results?",
+      "answer": "The macro-simulation results are broken down at the household level by rural or urban areas and regions in a microsimulation module.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " This approach provides a robust analytical tool for designing more effective public policies that strengthen resilience and mitigate the effects of climate disasters on food security. 1 3 Economic and Food Security Impacts of Climate Disasters and Mitigation The remainder of the paper is organized as follows: Sect. 2 describes the data and the methodological framework. Section 3 discusses the simulations and results. Section 4 out- lines the policy implications of the findings and Sect. 5 concludes the paper. 2 Data and Methodological Framework The methodological framework uses a top-down macro-micro modeling approach to deter - mine the changes in the economy and food security due to climate disasters in Nigeria. We use a dynamic general equilibrium model (CGE) in the macroeconomic component. Then, the macro-simulation results are broken down at the household level by rural or urban areas and regions in a microsimulation module. The micro model is used to assess the impact of climate shocks on consumption, food security, and food poverty. 2.1 Data Sources The data for the CGE model is the 2019 Social Accounting Matrix (SAM) constructed by Mitik et al.",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Microenterprise development",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Microenterprise development",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Microenterprise development_qna_000",
+      "value": 1
+    }
+  ]
+}

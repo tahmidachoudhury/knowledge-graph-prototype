@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Global disease outbreaks",
+      "label": "Global disease outbreaks",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Global disease outbreaks_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What broader impact did the COVID-19 pandemic have beyond health concerns according to the provided information?",
+      "answer": "Beyond health concerns, the COVID-19 pandemic had negative effects on socio-economic developments, leading to a global crisis marked by economic decline and increased poverty and hunger.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Addressing these challenges while promoting sustainable development (Manioudis & Meramveliota- kis, 2022) has become even more critical in the face of the ongoing global crisis. The COVID-19 pandemic was an international health emergency, which caused widespread infections and deaths. It also had negative effects on socio- economic developments, leading to a crisis around the world. Subsequently to the COVID-19 occurrence, the Nigerian government declared a 3-week national lockdown to avert the increase of the virus spread on 30 March 2020. The Journal of the Knowledge Economy lockdown was extended further until 2 June 2020 (covering a period of 3 months). Some actions were instigated by the federal and state authorities: travel restric- tions, which caused disruptions such as limited movement of goods and services. Travel restrictions by closing transport systems severely disrupted resource sup- ply chains including water, energy and food supplies. In addition, limiting mass crowding had significantly impacted on the resource accessibility due to local market closures preventing the trade of food and energy locally. Thus, the pan- demic caused economic decline and pushed many households into poverty, caus- ing an increase in hunger among the population (WHO, 2022).",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "subtopic": "Global disease outbreaks",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health security|Global disease outbreaks",
+      "target": "Subtopic:Social|Good health and well-being|Global health security|Global disease outbreaks_qna_000",
+      "value": 1
+    }
+  ]
+}

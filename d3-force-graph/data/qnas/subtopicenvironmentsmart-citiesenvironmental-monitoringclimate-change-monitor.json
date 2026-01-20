@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "label": "Climate change monitor",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the time period covered by the rainfall observations analyzed?",
+      "answer": "The observations covered the period from 1900 to 2023.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Heavy rainfall observations We based our analysis on rainfall observations from 883 rain gauge stations (779 stations with daily resolution, 163 with hourly resolution) (Extended Data Fig. 1a) from two completely independent measure - ment networks over the period 1900 to 2023. One network is operated by GeoSphere Austria (GSA, the National Meteorological Service of Austria) and the other by the Hydrographic Service of Austria (HYD). Comparison of the two datasets offered a unique opportunity to objectively assess the role of measurement uncertainty vis- -vis real changes. The full history of instrument types is known, which allowed us to estimate likely changes in the measurement errors for both networks (Tables 1 and 2 ). Heavy rainfall was evaluated on https://doi.org/10.1038/s41586-25-8647-2 Received: 4 June 2024 Accepted: 10 January 2025 Published online: 12 March 2025 Open access Check for updates Department for Climate Impact Research, GeoSphere Austria Federal Agency for Geology, Geophysics, Climatology and Meteorology, Vienna, Austria. 2Directorate for Water Balance, Federal Ministry Republic of Austria for Agriculture, Forestry, Regions and Water Management, Vienna, Austria.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many monitoring stations are included in the dataset of the study?",
+      "answer": "The dataset includes high-frequency temperature measurements from 54 monitoring stations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " There is a critical and urgent need to evaluate how MHWs in other estuarine systems respond to climate change and variability, with important implications for ecosystem resilience amid a warming planet. Here, we take advantage of a unique system of long-term monitoring platforms across the United States as part of the National Estuarine Research Reserve System (NERRS) and provide the most extensive assessment of MHWs in estuaries and the impact of climate change and variability on these extreme temperature events. This novel dataset includes high-frequency in-situ near surface temperature measurements spanning more than two decades from 54 stations across 20 estuaries (Fig. 1), covering a vast spatial domain with a wide range of geographic features and climates. This study focuses on characterizing MHWs; investigating their trends, spatial co-occurrence, and the relative contribution of long-term temperature increases versus temperature variance driving MHW trends; and assessing the influence of large-scale climate modes on MHW occurrences. We find that East Coast estuaries are highly vulnerable to climate change, while West Coast estuaries may serve as future thermal refugia for MHWs. Additionally, a strong link between large-scale climate modes and MHW occurrences, especially on the West Coast, highlights the potential for long-term MHW forecasting, offering critical insights for future climate adaptation and enhancing estuarine resilience.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How much variance do the first three principal components summarize in the climatic data?",
+      "answer": "The first three principal components summarize 80.4% of the variance of the background environmental variable data.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " WorldClim provides 19 different global metrics of climate, both for current climates and for a variety of different future periods and emissions scenarios62. Current climate data from WorldClim are averaged from the years 1970-200062, which were used as the closest approximation of the available historical occurrence location data. We used the raster package63 in R to extract the value of each WorldClim variable for current climates at the location of each occurrence location. We used these values to create a cloud of data points representing the species historic distribution in environmental space (E-space)64 We then developed a principal component analysis of the background environmental variables (i.e., current climate) extracted at each occurrence location to obtain principal component axes summarizing variance of the climatic data at location of known occurrence. Principal components one, two, and three (summarizing 80.4% of the background environmental variable data variance) were then used as axes to plot the occurrence locations in environmental space. We then calculated Scientific Reports the Mahalanobis distances between each occurrence location in E-space. These distances were used to fit a minimum-volume ellipsoids to all occurrence locations in E-space with permutations taking one point out in each iteration.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the average annual temperature trend found for urban center stations in the Mediterranean region from 1981 to 2020?",
+      "answer": "The mean annual ambient temperature trend for urban center stations was 0.43 °C per decade.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2024), indicated an increasing trend of nighttime UHI intensity, predomi- nantly during summer and autumn over coastal areas such as the Athens Metropolitan Area. The effect of urbaniza- tion on seasonal observed air temperature trends, for the period 1981 2020, was identified and quantified based on an extensive urban station network in the wider Mediter - ranean region (Hadjinicolaou et al. 2023 ). The aforemen- tioned study, showed that urban center stations exhibit a mean annual ambient temperature trend of 0.43 C/decade and a seasonal mean trend of 0.54 C/decade for summer, revealing an increasing warming signal for urban agglom- erations. Using a multi-scale numerical modeling approach, Giannaros et al. (2023) investigated the urban climate and thermal bioclimate in the Athens metropolitan area during the 2021 HW and found that geographical features, atmos- pheric circulations, and synoptic forcing had a significant influence on the local climate zone's responsiveness to heat stress. Additionally, based on the meteorological records of the National Observatory of Athens (Founda and Katavoutas 2023), the heatwave of 2023 was ranked first in terms of per - sistence (with a total duration of 15 days), cumulative heat and highest number of hours under strong and very strong heat stress conditions.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the purpose of the pilot study mentioned in the paragraph?",
+      "answer": "The purpose of the pilot study was to test the performance of the new monitoring strategy under large-scale conditions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In this way, small mammals can also be detected (Harper et al. 2019; Leempoel et al. 2020a, b). This latter method can be applied on a larger scale but again is limited by the inability to know the exact site of occur - rence of a detected species. The above review reflects the methodological and legal challenges that are associated with small mammal monitoring at small and large spatial and temporal scales. These challenges motivated us to develop a new monitoring strategy that combines non-invasive field sampling using baited tubes to collect fecal pellets and molecular species determination using the mitochondrial COI gene as a barcod- ing marker. Here we document the results of this pilot study to test the performance of our new monitoring strategy under large-scale conditions. The survey was performed under the supervision of scientific staff with expertise in mammalogy and molecular biology (study design and lab work). How - ever, the large spatial coverage and the high number of sam- ples is basically achieved by incorporating volunteers for fieldwork, e.g., rangers of national parks, citizen scientist or scientific staff without an explicit expertise in the field of DNA-barcoding.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main aim of the investigation mentioned in the paragraph?",
+      "answer": "The main aim is to investigate concurrent changes in extreme precipitation patterns under the Arctic warming scenario using the Peak Over Threshold (POT) method.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " II of Supplementary information). We model the excess part of precipitation extremes from the threshold with GPD and estimate the return level of precipitation extremes. Our aim is to investigate concurrent changes in extreme precipitation patterns under the Arctic warming scenario using the POT method. By analyzing the trend of Arctic temperature, we are able to identify the transitions that may represent regime changes, e.g., from low precipitating to extreme precipitating periods. In our analysis, the year 1994 appears to be a year of transition. Based on this information, we split the whole time period into two periods, (a) before 1994 and (b) from 1994 to 2023. We also analyze and plot return levels to estimate the amount of precipitation extremes during specified return periods. These return levels describe the amount of precipitation that is expected to be equaled or exceeded once in a certain time period (e.g., 10 years, 50 years, or 100 years). A visualization of these return levels provides a probabilistic framework for understanding and measuring the intensity of rare precipitation occurrences, and thereby assisting the assessment of extreme event risks.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Climate change monitor",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Climate change monitor_qna_005",
+      "value": 1
+    }
+  ]
+}

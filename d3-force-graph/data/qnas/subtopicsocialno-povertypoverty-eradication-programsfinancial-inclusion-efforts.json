@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts",
+      "label": "Financial inclusion efforts",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the significance of financial inclusion as noted in the research?",
+      "answer": "Financial inclusion fosters economic growth but also contributes to environmental degradation, highlighting the need for regulatory measures.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract This study investigates the interplay between income from natural resources, education, access to financial services, and technological advancements in achieving Sustainable Development Goals (SDGs) 7 and 13 in eight resource-rich coun- tries. Motivated by the global urgency for sustainable practices, this research employs a robust analytical framework to explore short- and long-term interactions among these variables, including panel data analysis, cointegration tests, and asymmetry coefficient estimation. Key findings reveal that income from natural resources is directly linked to increased CO2 emissions, emphasizing the environmental costs of resource exploitation. Conversely, higher education levels are associated with reduced CO2 emissions and ecological footprints, highlighting education S vital role in environmental sustainability. At the same time, financial inclusion fosters economic growth and contributes to environmental degrada- tion, necessitating regulatory measures. Technological innovation, particularly green technology, is crucial for mitigating environmental impacts. This study uniquely combines these factors to provide empirical evidence of their collective influence on sustainability, filling a gap in existing research. The results suggest that effective governance, environmental education, alignment of financial practices with sustainability goals, and support for green innovation are essential for harmonizing economic development with environmental conservation.",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs",
+      "subtopic": "Financial inclusion efforts",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the unintended consequences of financial inclusion discussed in the paragraph?",
+      "answer": "The unintended environmental consequences of financial inclusion are critically analyzed in the context of driving economic growth.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Although celebrated for driving economic growth, financial inclusion is critically analyzed here for its unintended environmental consequences. Similarly, the study provides robust empirical evidence on how green innovations can offset the ecological costs of resource rents. Third, it underscores the transformative potential of education in reshaping societal attitudes toward environmental conservation, emphasizing the need for sustained investment in educational programs aligned with sustainability goals. By integrating these diverse elements, the research advances theoretical frameworks and offers actionable insights for achieving a sustainable future in resource-rich contexts. The rationale for this analysis stems from the urgent global need to address climate change and promote sustainable development. By investigating the combined effects of these variables, we aim to provide a more comprehensive understanding of the drivers and barriers to achieving SDGs 7 and 13. This multifaceted approach allows us to uncover potential synergies and trade-offs between economic development and environmental conservation. Our findings can inform policymak - ers in resource-rich nations on effectively leveraging their natural resources, education systems, financial sectors, and technological capabilities to promote sustainable practices while maintaining economic growth. This research fills a gap in the existing literature by offering empirical evidence on the collective influence of these factors on sustainability outcomes, contributing to the development of more holistic and effective strategies for achieving the SDGs.",
+      "macrotopic": "No poverty",
+      "topic": "Poverty eradication programs",
+      "subtopic": "Financial inclusion efforts",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts",
+      "target": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts",
+      "target": "Subtopic:Social|No poverty|Poverty eradication programs|Financial inclusion efforts_qna_001",
+      "value": 1
+    }
+  ]
+}

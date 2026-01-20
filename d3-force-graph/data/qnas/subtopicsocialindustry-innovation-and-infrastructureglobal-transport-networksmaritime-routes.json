@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Maritime routes",
+      "label": "Maritime routes",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Maritime routes_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the model determine the risk of NIS spreading in Madeira S MPAs?",
+      "answer": "The model integrates maritime traffic intensity and proximity to known NIS hotspots such as ports and marinas.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Non-indigenous Species (NIS) pose significant threats to marine biodiversity globally, especially in ecologically sensitive habitats such as Marine Protected Areas (MPAs). This study uses data collected in the Autonomous Region of Madeira (North Atlantic), Portugal, to create a spatial model aiming to (1) develop a spatially explicit index of NIS dispersal from known hotspots such as ports, har - bours, marinas, and anchoring areas; (2) assess the relative vulnerability of Madeira S MPAs to local NIS dispersion and establishment; and (3) provide insights for a scalable NIS monitoring framework and evaluat- ing invasion risks. The spatial model integrates mari- time traffic intensity and proximity to NIS hotspots, using a straightforward approach that can be applied in data-limited contexts. While designed to address Madeira S regional challenges, the model is adaptable to other biogeographic contexts and can incorporate additional complexity, such as species-specific traits or ecological layers, to suit different settings. Our findings underscore the role of maritime infrastruc- ture and vessel traffic in NIS spread, revealing the vulnerability of Madeira S MPAs due to insufficient ecological monitoring and the absence of NIS moni- toring and early detection programs.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Maritime routes",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Maritime routes",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Maritime routes_qna_000",
+      "value": 1
+    }
+  ]
+}

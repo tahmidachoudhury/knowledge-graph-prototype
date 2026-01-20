@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "label": "Noise trackers",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the tracks subsampled for the study?",
+      "answer": "The tracks were subsampled by keeping one fix every six hours with a 15-minute time tolerance using the R package amt.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To make the number of fixes comparable between individuals and years and reduce spatial autocorrelation, we subsampled our tracks, keeping one fix every six hours with a 15-minute time tolerance with the R package amt (Signer et al. 2019 ). In 2022, data related to the breeding period were obtained based on the average length of the lapwing breeding season in Italy (i.e., 25 days of incubation followed by 35 40 days to raise the young; Brichetti and Fracasso 2018 2022 ). If the hatching date was known, we considered the period from hatching to the fol - lowing 30 days; if not, we used the day after deployment plus 30 days. By doing so, we could be sure that our data would fall within the fledging date. Since we had evidence that camera traps were a source of stress for the birds, in 2023 we refrained from using them. Therefore, we assessed each breeding phase through direct field observations and kept only the locations falling between the day after deploy - ment and the fledging date (37 days on average, deemed comparable to the data from 2022).",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Noise trackers",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the height at which the acoustic recorders were installed at each site?",
+      "answer": "The acoustic recorders were installed at a height of approximately 1.5 meters.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For the purposes of the CBMS monitoring program, bird surveys are conducted annually between March and June at ~100 study sites. We collected acoustic data at sixty-one of those sites (Fig. 1) in low-intensity agricultural areas and forest and seminatural areas (Fig. 2) between March 1 st and May 26th, 2023. To identify the land cover at each site, we used ArcGIS Pro (version 2.9) to overlay the GPS locations of each site with the most recent Corine Land Cover map (2018) available at https://land.copernicus.eu/en/products/corine-land-cover . We then used fifteen Song Meter Mini acoustic recorders (Wildlife Acoustics) purchased for the purposes of BIOMON to record audio files at the sixty-one sites. The fifteen recorders were deployed sequentially across the sites. At each site, a recorder was installed on a tree at a height of ~1.5 meters for approximately one week (mean = 7.2 days, min = 7 days, max = 9 days). The device was programmed using the Song Meter mobile app to record 30 audio files per hour, each one minute long 24, for 24 hours per day, resulting in an average of 5,134 audio files per site (min = 4,344 files, max = 6,684 files, standard deviation = 399 files).",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Noise trackers",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are acoustic indices used for in the context of ecoacoustic datasets?",
+      "answer": "Acoustic indices are mathematical formulae that summarize the acoustic environment of an area of interest for analyzing ecoacoustic datasets.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This approach is gaining popularity as algorithms become more accurate. Nowadays, off-the-shelf species identification algo - rithms are available7,8, reducing implementation barriers by requiring fewer programming skills. Furthermore, specialized platforms such as ARBIMON (https://arbimon.org/) allow users to train species identification algo - rithms through user-friendly interfaces needing no programming skills. However, species identification tech - niques have been shown to perform sub-optimally on certain occasions9, e.g., when monitoring entire animal communities with multiple overlapping vocalizing species or communities with numerous background noises, making focal signal detection difficult. 1 Nature Conservation Unit, Frederick University, Nicosia, 1036, Cyprus. 2Southeast Asia Biodiversity Research institute, chinese Academy of Sciences & center for integrative conservation, Xishuangbanna tropical Botanical Garden, Chinese Academy of Sciences, Mengla, Yunnan, 666303, China. 3BirdLife Cyprus, Nicosia, 2340, Cyprus. 4Department of Electrical Engineering, Computer, Engineering and Informatics, Frederick University, Nicosia, 1036, cyprus. e-mail: cmammides@outlook.comData De SCr IPtoroPeN 2 Scientific Data www.nature.com/scientificdata www.nature.com/scientificdata/An alternative approach for analyzing ecoacoustic datasets has been using acoustic indices10, which are essentially mathematical formulae that summarize the acoustic environment of an area of interest11.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Noise trackers",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is there a need for further development in the field of passive acoustic monitoring?",
+      "answer": "Current challenges compromise the effectiveness of passive acoustic monitoring methods, highlighting the need for more robust and comprehensive solutions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Recently, automated algorithms have been proposed for preprocessing audio files and cleaning up ecoacoustic datasets, such as datasets affected by rain 18. However, this is still a field under development requiring more robust and comprehensive solutions. The above challenges compromise the effectiveness of passive acoustic monitoring methods, underscoring the need for further development to support wider adoption and use by conservationists and other stakeholders. Accelerating such development could be facilitated by the availability of suitable datasets from biodiverse areas. In this article, we present a large ecoacoustic dataset (1.58 TB) collected at sixty-one sites on the island of Cyprus (Fig. 1), part of the Mediterranean Basin biodiversity hotspot 19. The dataset, collected between March and May 2023, comprises 313,197 audio files, corresponding to over 5,200 recordings. It can be used for a range of appli - cations, such as (a) developing or improving species recognition algorithms, (b) further testing and refining acoustic indices, and (c) developing new tools for removing signals produced by non-biological processes or by non-focal species. Additionally, as indicated by its inclusion in the Worldwide Soundscape project (https://ecosound-web.de/ecosound_web/collection/index/106).",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Noise trackers",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Noise trackers_qna_003",
+      "value": 1
+    }
+  ]
+}

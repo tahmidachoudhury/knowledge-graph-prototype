@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques",
+      "label": "Aeration techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors influence the diffusion distances of dissolved oxygen in soil?",
+      "answer": "The diffusion distances of dissolved oxygen are influenced by soil management practices.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As a consequence, the diffusion distances of dissolved oxy - gen through the wet soil matrix can be very different depend- ing on the soil management (see the case study on plowed cropland soil and no-till grassland soil below) (Lucas et al. 2023a ; Schl ter et al. 2020 ). X-ray microtomography has been used repeatedly as a means of determining the volume fraction and distribution of air-filled pores to help predicting N2O emissions (Lucas et al. 2023a; Porre et al. 2016; Rabot et al. 2015; Rohe et al. 2021). Particulate organic matter (POM) is also not randomly distributed within the soil matrix, but can be thoroughly mixed into the wet soil matrix or mainly located in air-filled macropores, depending on soil structure formation. A large fraction of POM originates from roots and, since roots grow into larger pores or produce their own biopores (Lucas et al. 2019, 2023b), such POM fragments are typically located in close proximity to air-filled macropores (Kravchenko et al. 2018b; Schl ter et al.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Aeration techniques",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is air continuity important for soil aeration?",
+      "answer": "Air continuity is important for soil aeration because oxygen diffusion in water is much slower than in the air, specifically about 10,000 times slower.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Air continuity is important for soil aeration as oxygen diffusion in water is about 10,0 times slower than in the air (Currie 1961). Relative gas diffusivity, defined as the ratio between gas diffusivity in soil and air, may therefore be a better, less site-dependent predictor of denitrification than water content (Andersen and Petersen 2009; Balaine et al. 2013; Mutegi et al. 2010; Petersen et al. 2008 ). The optimal soil moisture for microbial activity with unrestricted water and oxygen supply is soil-dependent with a rather broad plateau around 50 60% water-filled pore space (WFPS), or a matric potential range around field capacity, i.e. around pF 2 (Ghezzehei et al. 2019; Moyano et al. 2013), or a relative gas diffusivity greater than 0.15 0.2 (Li et al. 2021; Stepniewski 1980). The moisture level at which inten- sive denitrification sets in ranges broadly around 70% WFPS and varies among soils (Bateman and Baggs 2005; Cardenas et al. 2017; Castellano et al. 2010; Gillam et al.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Aeration techniques",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Aeration techniques_qna_001",
+      "value": 1
+    }
+  ]
+}

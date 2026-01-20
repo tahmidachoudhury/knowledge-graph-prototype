@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine chemistry",
+      "label": "Marine chemistry",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine chemistry_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role does stable isotope analysis play in the study of water quality?",
+      "answer": "Stable isotope analysis reveals marine and freshwater interactions, which influence the water's chemical composition.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The Water Quality Index (WQI) classification shows a wide range from \"excellent\" to \"unsuitable for drinking,\" indicating significant spatial variability. Health Risk Assessments (HRA) identify B, Br, F, and NO3 as the primary contaminants of concern, espe- cially in areas impacted by seawater intrusion, agricul- tural activities and natural geothermal fluids mixing. The use of stable isotope analysis reveals marine and freshwater interactions, which influence the water S chemical composition. This study underscores the importance of sustainable management practices to mit- igate contamination risks, safeguard public health, and preserve the multifunctional role of urban wetlands in enhancing urban resilience and climate adaptation. Highlights Introduces \"EcoHaven Oasis\" as a novel frame- work for understanding urban wetlands. Analyzes hydrogeochemical properties and iso- topic signatures to trace water quality processes. Identifies arsenic, boron, bromide, and nitrate as critical contaminants using WQI and HRA. Reveals spatial variability in water quality driven by urbanization and natural dynamics. Proposes sustainable management strategies to mitigate contamination in urban wetlands. Keywords Urban Wetland Hydrogeochemistry Water Quality Index (WQI) Health Risk Assessment (HRA) TurkiyeM.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine chemistry",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine chemistry",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine chemistry_qna_000",
+      "value": 1
+    }
+  ]
+}

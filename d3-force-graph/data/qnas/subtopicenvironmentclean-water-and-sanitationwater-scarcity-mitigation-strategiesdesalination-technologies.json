@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Desalination technologies",
+      "label": "Desalination technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Desalination technologies_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the COPRAS method based on interval-valued hesitant Formation fuzzy sets contribute to the selection of desalination technology?",
+      "answer": "The COPRAS method based on Formation fuzzy sets allows for a comprehensive evaluation of desalination technology options, leading to more informed decisions that prioritize sustainability aspects such as energy efficiency and environmental impact.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0952197624002720",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "subtopic": "Desalination technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Desalination technologies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Desalination technologies_qna_000",
+      "value": 1
+    }
+  ]
+}

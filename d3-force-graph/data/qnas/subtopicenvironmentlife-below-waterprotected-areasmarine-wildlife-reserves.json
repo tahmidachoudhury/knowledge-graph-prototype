@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves",
+      "label": "Marine wildlife reserves",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How have fully protected marine reserves been shown to benefit local communities?",
+      "answer": "Fully protected marine reserves have been shown to improve fish abundances, increase food security, and boost fisher incomes for nearby communities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We discuss the implementation challenges using four real-world transboundary stocks and highlight global issues that bilateral marine reserve agreements can help solve. Keywords Marine reserve Bilateral marine reserve agreements Cooperative fishing International agreements Transboundary resources Spatial management Fisheries Introduction Biodiversity loss has accelerated over the past half cen - tury as the human population has doubled, putting pres- sure on the global community to set ambitious goals in order to bend the curve of biodiversity loss (D az et al. 2019, 2020). One tool that can help minimize extinction risk, reverse population declines, and bolster biodiversity is the expansion of terrestrial and marine protected areas (Lester et al. 2009; Mace et al. 2018). A key action target, known as 30 30, has called for marine protected areas to increase from 7.7 to 30% by 2030 under the Convention on Biological Diversity S Post-2020 Global Biodiversity Frame- work (CBD 2022). While marine protected areas vary in their level of protection and stage of establishment (Grorud- Colvert et al. 2021), actively managed fully protected marine reserves (hereafter reserves ) have been shown to success- fully improve and support high fish abundances, as well as increase food security and fisher incomes for nearby com- munities (Nowakowski et al.",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Marine wildlife reserves",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What challenge does incomplete ownership of a resource pose for marine reserves?",
+      "answer": "Incomplete ownership can reduce the effectiveness of marine reserves, particularly for transboundary stocks where adults move or larvae disperse over large distances.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We dis- cuss the challenges of the practical application of BMRA using four real-world transboundary stocks. We find that high adult movement predicts a high-value BMRA, in par - ticular when adult movement to the fishing patch outweighs adult movement to the reserve patch by 10 30%. Further - more, we find that BMRA is most likely to be agreed for transboundary stocks with high adult movement, although larval dispersal can bolster agreement acceptance and increase the agreement negotiation space if adult movement is low. Lastly, we compare the gains under BMRA to the gains under a fully cooperative fishing agreement where both countries continue to harvest. We find that BMRA can repro- duce these fully cooperative gains if adult movement from the fishing patch to the reserve patch is low ( 40%), and adult movement from the reserve patch to the fishing patch is high ( 60%), regardless of larval movement. In some cases, the BMRA conservation gains exceeded the fully coopera- tive outcome under certain spatial connectivity conditions; however, economic gains were always equal or lower. Incomplete ownership of a resource can reduce the effec- tiveness of marine reserves, and this poses a particular chal- lenge for transboundary stocks where adults move or larvae disperse over large distances (White and Costello 2011).",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Marine wildlife reserves",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Marine wildlife reserves_qna_001",
+      "value": 1
+    }
+  ]
+}

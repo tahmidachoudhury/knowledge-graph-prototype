@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics",
+      "label": "Ai-assisted diagnostics",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What limitation does the supervised learning framework impose on AI applications in bioacoustics?",
+      "answer": "The supervised learning framework limits the application scope to predefined categories within a closed setting.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Multi-modal Language models in bioacoustics with zero-shot transfer: a case study Zhongqi Miao1 , Benjamin Elizalde2, Soham Deshmukh2, Justin Kitzes3, Huaming Wang2, Rahul Dodhia1 & Juan Lavista Ferres1 Automatically detecting sound events with Artificial Intelligence (AI) has become increas- ingly popular in the field of bioacoustics, ecoacoustics, and soundscape ecology , particularly for wildlife monitoring and conservation. Conventional methods predominantly employ supervised learning techniques that depend on substantial amounts of manually annotated bioacoustic data. However, manual annotation in bioacoustics is tremendously resource- intensive in terms of both human labor and financial resources, and it requires considerable domain expertise. Moreover , the supervised learning framework limits the application scope to predefined categories within a closed setting. The recent advent of Multi-Modal Language Models has markedly enhanced the versatility and possibilities within the realm of AI appli- cations, as this technique addresses many of the challenges that inhibit the deployment of AI in real-world applications. In this paper, we explore the potential of Multi- Modal Language Models in the context of bioacoustics through a case study . We aim to showcase the potential and limitations of Multi-Modal Language Models in bioacoustic applications.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Ai-assisted diagnostics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is automated analysis important in the context of ARUs?",
+      "answer": "Automated analysis is essential because the manual review of the vast amount of audio data collected by ARUs is impractical.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " To effectively study and monitor the intricate patterns, underlying drivers, and extensive consequences of these changes, ecologists are increasingly resorting to automated data collection and monitoring methods. By utilizing sensors such as cameras and acoustic recorders, they can now monitor species of interest across spatial and temporal scales previously unattainable5 11. Among these methods, automated sound recorders (ASRs) or autonomous recording units (ARUs) are being increasingly utilized for surveys of sound-producing animals not easily monitored through image-based devices. This includes animals like birds, frogs, bats, insects, and marine mammals12 14. The applications of ARUs are expanding in scope, with some projects now amassing and analyzing hundreds of thousands of audio/ sound recordings15,16. Given that manual review of such a vast collection of audio data (i.e., sound recording data) is impractical, automated analysis techniques are essential for extracting valuable ecological information. Modern artificial intelligence (AI) techniques are increasingly applied to automated detection and localization of bioacoustic events. These techniques involve identifying sound events of interest within audio recordings and providing timestamps for the start and end times of these events17 24.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Ai-assisted diagnostics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Ai-assisted diagnostics_qna_001",
+      "value": 1
+    }
+  ]
+}

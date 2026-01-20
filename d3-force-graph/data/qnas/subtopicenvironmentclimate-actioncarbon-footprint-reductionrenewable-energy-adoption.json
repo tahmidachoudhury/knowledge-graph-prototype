@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Renewable energy adoption",
+      "label": "Renewable energy adoption",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Renewable energy adoption_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much did the levelised costs of electricity from solar PV and onshore wind decrease between 2008 and 2018?",
+      "answer": "The levelised costs of electricity decreased by -81% for solar PV and -46% for onshore wind from 2008 to 2018.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, mainstream economic theory has argued that environmental costs can be internalised by means of an appropriate allocation of property rights, paving the way to the set up of environmental markets centred ontradable emission allowances. Carbon emissions trading is nowadays among the most discussed pillars of climate policy (Tvinnereim and Mehling 2018 ; Green 2021 ; Stoll and Mehling 2021 ; Hong et al. 2022 ). In the European Union, the emissions trading system (EU-ETS) includes around 10,0 installations in the power sector and man- ufacturing industry, covering about 40% of the total GHG emissions from the 27 EU countries. Yet, the evidence suggests that despite the EU-ETS in place, investments in renewable energy sources (RES) have not accelerated. Considering pre-pandemic years, 2017 and 2018 witnessed a drop in new investments up to -14% (FS-UNEP 2019 ; IEA 2019 ), despite the falling levelised costs of electricity from RES (in 2008 2018, -81% for solar PV , -46% for onshore wind according to FS-UNEP ( 2019 ). Against these data, EU-ETS and, more generally, carbon emissions trading have raised criticisms.",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Renewable energy adoption",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Renewable energy adoption",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Renewable energy adoption_qna_000",
+      "value": 1
+    }
+  ]
+}

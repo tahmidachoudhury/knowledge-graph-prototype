@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects",
+      "label": "Ocean acidification effects",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the environmental impacts of increasing greenhouse gases mentioned in the introduction?",
+      "answer": "The impacts include disturbances to the earth's radiative balance, increases in surface temperature, climate change, sea level rise, ocean acidification, and effects on world agriculture.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In this paper, we analyse the relationship between the rate of growth of CO 2emissions and economic activity in Spain from 1964 to 2020. We explain CO 2emissions by tting a structural regression model with selected indicators of economic activity augmentedwith dynamic common factors extracted from a large macroeconomic database, as explanatory variables. The variables to include in the regression are selected using Machine Learning procedures while we use alternative supervised and non-supervisedprocedures to extract the factors. We nd that, regardless of the procedure used for variable selection, private consumption and maritime transportation have the highest explanatory power for the rate of growth of emissions. We also show that the waythe common factors are extracted is crucial to exploit their information content. The common factors extracted by partial least squares add valuable information on top of that of the selected individual indicators, while they are not signi cant when extractedby two-step-Kalman Iter (2SKF). Keywords Dynamic factor models LASSO Partial least squares V ariable selection 1 Introduction The addition of greenhouse gases (GHG) to the atmosphere disturbs the earth S radia- tive balance, leading to an increase in the earth S surface temperature and to related effects on climate, sea level rise, ocean acidi cation and world agriculture, amongother effects.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Ocean acidification effects",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some of the effects of greenhouse gases on the planet mentioned in the introduction?",
+      "answer": "The effects of greenhouse gases on the planet include disturbances in the earth's radiative balance, increased surface temperature, climate change, sea level rise, ocean acidification, and impacts on world agriculture.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In this paper, we analyse the relationship between the rate of growth of CO 2emissions and economic activity in Spain from 1964 to 2020. We explain CO 2emissions by tting a structural regression model with selected indicators of economic activity augmentedwith dynamic common factors extracted from a large macroeconomic database, as explanatory variables. The variables to include in the regression are selected using Machine Learning procedures while we use alternative supervised and non-supervisedprocedures to extract the factors. We nd that, regardless of the procedure used for variable selection, private consumption and maritime transportation have the highest explanatory power for the rate of growth of emissions. We also show that the waythe common factors are extracted is crucial to exploit their information content. The common factors extracted by partial least squares add valuable information on top of that of the selected individual indicators, while they are not signi cant when extractedby two-step-Kalman Iter (2SKF). Keywords Dynamic factor models LASSO Partial least squares V ariable selection 1 Introduction The addition of greenhouse gases (GHG) to the atmosphere disturbs the earth S radia- tive balance, leading to an increase in the earth S surface temperature and to related effects on climate, sea level rise, ocean acidi cation and world agriculture, amongother effects.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Ocean acidification effects",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Ocean acidification effects_qna_001",
+      "value": 1
+    }
+  ]
+}

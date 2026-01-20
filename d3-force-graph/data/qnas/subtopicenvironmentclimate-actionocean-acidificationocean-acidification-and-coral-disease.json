@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease",
+      "label": "Ocean acidification and coral disease",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the consequences of the deterioration of this symbiosis during marine heatwaves?",
+      "answer": "The deterioration often results in corals rapidly expelling their symbionts, which can induce mortality unless the symbiosis is restored.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract The mutualistic relationship between scleractin- ian corals and dinoflagellate algae (Family Symbiodiniaceae) is critical to the success of corals on tropical reefs yet under - pins their vulnerability to climate change. This symbiosis often deteriorates during marine heatwaves as corals rapidly expel their symbionts, inducing mortality unless symbiosis is restored. While symbiont loss during coral bleaching is well-documented, little is known about symbiont turnover and expulsion under non-bleaching environmental condi- tions. To better understand rates and patterns of symbiont turnover under ambient (non-stressful) conditions, we used a novel methodology to capture and quantify expelled sym- bionts of six Caribbean reef-building coral species. Rep- licate 5-cm2 fragments of Acropora cervicornis, Diploria labyrinthiformis, Montastraea cavernosa, Orbicella faveo- lata, Pseudodiploria clivosa and Siderastrea siderea were incubated in 150 mL of 0.2 m filtered seawater and main- tained at 28 C for 7 h during either day (6:0 h 13:0 h) (110 mol quanta m 2 S 1) or night (18:0 h 1:0 h) con- ditions. Seawater from the incubation chambers was then concentrated and symbionts counted using a hemocytometer.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Ocean acidification and coral disease",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What can cause dysbiosis in the coral symbiotic system?",
+      "answer": "The accumulation of temperature and irradiance stress can lead to symbionts overproducing harmful photosynthetic by-products, driving the system toward dysbiosis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021; Hughes et al. 2017; Kawamura et al. 2021) which are becoming increasingly frequent and severe (Hughes et al. 2017). The symbiotic relationship between corals and dinoflagellates is vital to the success of tropical reef-building corals in the Caribbean (Hoegh-Guldberg and Smith 1989; Hughes et al. 2017; Kawamura et al. 2021). Most Caribbean corals species acquire symbiotic algae during early life from the sediment and water column (Roth 2014). Once acquired, symbionts contribute photosynthetic products to coral cells and can serve as a heterotrophic food source in nutrient-limited conditions (Nitschke et al. 2016; Roth 2014; Wiedenmann et al. 2023). The accumulation of temperature and irradiance stress can result in symbionts overproducing harmful photosynthetic by-products, driving the system toward dysbiosis. (McGinty et al. 2012; Nielsen et al. 2018; Radecker et al. 2021; Szabo et al. 2020). During times of reef-wide bleaching and mortality, it is common to observe certain corals appearing pigmented or healthy while others bleach or partially bleach (Chen et al.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Ocean acidification and coral disease",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the corals prepared before being placed in the incubation chambers?",
+      "answer": "The corals were gently rinsed with 0.2 m FSW to remove any potential symbionts adhered to the tissue surface.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These chambers were then partially submerged in a 28 C seawater jacket under 110 mol quanta m 2 S 1 on a 12 h:12 h light dark cycle (Al Hydra 52s, Aqua Illumination, C2 Development Inc.) with daytime expulsion measured under lights and nighttime expulsion measured in darkness. On each day of observation, a randomized subset of experimental fragments were selected from adjacent 659 Coral Reefs (2025) 44:657 667 tanks with identical temperature and light conditions as the incubation water jacket. These fragments were gently rinsed with 0.2 m FSW to remove any potential symbionts adhered to the tissue surface. Once rinsed, corals were placed in each incubation chamber, with between eight and twelve chambers run in parallel. Throughout the incubation period, the chambers were agitated periodically to promote water movement. After 7 h spent in the chambers, corals were removed and carefully rinsed with 0.2 m FSW again, this time to dislodge any symbionts adhering to the coral surface into the chamber water. Pre-experiment testing using Imaging Pulse Amplitude Modulated Fluorometry (IPAM, Walz, Effeltrich, Germany) indicated that coral health (measured as Fv/Fm) was not affected by the incubation chambers indicating chamber-induced stress is negligible in expulsion.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Ocean acidification and coral disease",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Ocean acidification and coral disease_qna_002",
+      "value": 1
+    }
+  ]
+}

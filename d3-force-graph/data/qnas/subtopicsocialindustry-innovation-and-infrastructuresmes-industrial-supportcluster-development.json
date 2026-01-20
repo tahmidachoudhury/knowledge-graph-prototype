@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Cluster development",
+      "label": "Cluster development",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Cluster development_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main difference between clusters 1 and 2 in terms of ecosystem care and performance scores?",
+      "answer": "The main difference between clusters 1 and 2 is that in cluster 2, there is a correlation between green practices implementation and higher scores in performances, indicating a well-established \"sustainability thinking\" in those companies.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "subtopic": "Cluster development",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Cluster development",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Cluster development_qna_000",
+      "value": 1
+    }
+  ]
+}

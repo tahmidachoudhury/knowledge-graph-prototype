@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Behavioral intervention programs",
+      "label": "Behavioral intervention programs",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Behavioral intervention programs_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "For how long was the intervention conducted?",
+      "answer": "The intervention was conducted over a period of 12 weeks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Background Communicating (dynamic) social norms is considered a promising tool to stimulate healthy and sus- tainable food choices. The aim of the present study was to evaluate to what extent a (dynamic) social norm inter - vention in real-world supermarkets could increase sales (grams per week) of meat alternatives (i.e. meat substitutes and legumes). Methods A quasi-experimental study, including three intervention and three control supermarkets, was con- ducted during a 12-week period. The intervention supermarkets communicated dynamic norms textually on stick - ers and banners at different in-store locations (e.g. at the entrance, meat aisles). Moreover, the prominence of meat substitutes was (optically) increased and legumes were conveniently placed near the meat and meat substitutes section. Weekly sales data over a period of 75 weeks were obtained, 62 pre-intervention and 13 during interven- tion. Comparative interrupted time series analyses were conducted to analyse changes in meat alternative sales (in grams) during the intervention period in the intervention supermarkets compared to pre-intervention sales trends and to control supermarkets. Secondary outcomes included meat sales in grams per week and the ratio of protein content of meat alternatives to protein content of meat sales.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Behavioral intervention programs",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Behavioral intervention programs_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "When did the intervention implementation begin and end?",
+      "answer": "The intervention implementation began in week 36 of 2022 and ran through week 48 of 2022.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The intervention was devel - oped and proposed by the authors and finalised in col - laboration with the supermarket chain and the private organisation involved in the project. Supermarket selection The supermarkets where the intervention was imple - mented were located in the east-part of the Netherlands. The control supermarkets were matched by the retailer, based on three characteristics: compatible meat sales trends, compatible meat substitute sales trends, distance to nearest competitor in the area. The control supermar - kets were located in the west-part of the country. Ran - domisation was not feasible as the retailer was in charge of the supermarket selection, including which locations were allowed to be intervention locations. Intervention implementation and elements The intervention was implemented in the three interven - tion supermarkets in week 36 of 2022 and ran through week 48 of 2022. The fidelity of the intervention was monitored through weekly to bi-weekly contact with the supermarket managers of the intervention super - markets (i.e. images shared through text messages, con - tact by phone, and email). Additionally, members of the research team and employees from the private organisa - tion involved visited all three intervention supermarkets four times in total.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Behavioral intervention programs",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Behavioral intervention programs",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Behavioral intervention programs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Behavioral intervention programs",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Behavioral intervention programs_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment",
+      "label": "Nutrient level assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What nutrient elements were specifically analyzed in the water samples?",
+      "answer": "The nutrients analyzed were ammonium (NH4+) and phosphates (PO4).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, two integrated water samples ( n = 5 replicates per sample) were randomly taken from each site using a bucket before being placed into a labelled bottle and stored on ice awaiting further analysing for nutrients (i.e., ammonium (NH4+), phosphates (PO )) in the laboratory. The water samples were analysed within 8 h of collection using a HANNA HI83300 multiparameter photometer (HANNA Instruments Inc., Rhode Island). A HANNA freshwater ammonia high range test kit (HI3824) with a range of 0 100 mg L 1 and a resolution of 0.1 mg L 1 was used based on the Nessler method from the American Society for Testing and Materials (ASTM) Manual of Water and Environmental Technology D1426. Phosphate concentration was measured using the HANNA phosphate high range (HI717) test kit, with a range of 0 30 mg L 1 and resolution of 0.1 mg L 1 based on the adaptation of the ammonia acid method for the Standards Methods for the Examination of Water and Wastewater, 18th edition. Sediment variables Integrated sediment samples ( n = 2 per each site, with a sample consisting of 5 replicates) were collected using a small plastic shovel, and each sample was placed in new polyethylene Ziplock bag to avoid cross contamination.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Nutrient level assessment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methods were used to analyze the sediment metal, nutrient concentrations, and water environmental variables?",
+      "answer": "The methods included log transformation to test for homogeneity of variances and normality.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The following habitats were sampled along a 100 m transect for each sample: pools, bedrock, littoral/riparian vegetation/macrophytes, stones in current, stones out of current and rapids/riffles, gravel, sand and mud for a total time of 8 min. The net was fully immersed in the aquatic environment, and the collection of macroinvertebrates was conducted by systematically sweeping a designated area. The methodology encompassed the act of traversing the water while utilising a sampling net, and employing forceful movements to displace aquatic macrophytes, sand, and boulders. This action was undertaken with the purpose of dislodging macroinvertebrates that might be attached to the mentioned substrates. To avoid the potential escape of active macroinvertebrates, the net was expeditiously retrieved from the water column. The macroinvertebrates were afterwards transferred into a 500 mL plastic container and preserved in 70% ethanol solution. Macroinvertebrates were then taken to the laboratory for identification up to genus and/or species level in most instances following Fry27 identification guides. Data analysis Sediment metal, nutrient concentrations and water environmental variables (with the exception of pH) were log transformed to test for homogeneity of variances and normality.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Nutrient level assessment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "From what source is Chl-a derived, and what ecological aspect does it indicate?",
+      "answer": "Chl-a is derived primarily from phytoplankton and is widely used to infer the ecological state of lakes and the clarity of water bodies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021; Zarco- Tejada et al. 2019). In UBS, the Chl-a concentration acts as a reliable proxy for assessing the health and quality of water bodies, serving as a robust indicator of their trophic status (Buma and Lee 2020 ). Chl-a, derived primarily from phyto- plankton, is widely used to infer the ecological state of lakes and the clarity of water bodies (Ayeni and Adesalu 2018 ; Barraza-Moraga et al. 2022; S ria-Perpiny et al. 2019). Phytoplankton, as a primary component of Chl-a, plays a key role in determining the trophic state of aquatic systems (Barraza-Moraga et al. 2022). Chlorophyll concentration is typically measured using various laboratory and field meth- ods, including spectrophotometry, fluorometry, and high- performance liquid chromatography (HPLC) (Ayeni and Adesalu 2018; Barraza-Moraga et al. 2022; S ria-Perpiny et al. 2019). While these methods provide accurate quantifi- cation by extracting chlorophyll from samples, they are often limited in their ability to assess large areas comprehensively (Ouma et al. 2020; Sent et al.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Nutrient level assessment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Nutrient level assessment_qna_002",
+      "value": 1
+    }
+  ]
+}

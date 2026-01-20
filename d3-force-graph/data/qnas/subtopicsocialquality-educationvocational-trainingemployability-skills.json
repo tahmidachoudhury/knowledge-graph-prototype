@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Vocational training|Employability skills",
+      "label": "Employability skills",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Vocational training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Vocational training|Employability skills_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What dimensions of AI-supported competency were revealed by the study?",
+      "answer": "The study revealed seven dimensions of AI-supported competency linked to transversal skills development across three interrelated domains.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract This study breaks new ground in educational theory by empirically validating how artificial intelligence (AI) competencies emerge through social learning ecosystems in underserved communities. Through an innovative cross-national mixed-methods design, we examined 330 secondary school students across the UK, Greece, and Bra- zil who developed AI competencies while addressing Sustainable Development Goals (SDGs) through open schooling initiatives. Our theoretical innovation synthesises UNESCO S AI Competencies Framework with the CARE-KNOW-DO pedagogi- cal model, generating transformative insights into AI literacy. We conceptualise Al literacy as a dynamic interplay of understanding, applying, and creating AI through social practice, where learners develop ethical awareness (CARE), epistemic-technical competence (KNOW), and responsible agency (DO) within authentic learning ecosys- items. Employing a concurrent triangulation methodology of teaching and learning, we collected comprehensive longitudinal data through teacher ethnographic accounts, student self-assessments, STEM researchers observations and granular analysis of Al-enabled project work over a year. This robust methodological approach revealed seven dimensions of Al-supported competency linked to transversal skills develop- ment across three distinct but interrelated domains. CARE (Understanding Al) high- lights how proactive exploration and affective engagement emerge socially.",
+      "macrotopic": "Quality education",
+      "topic": "Vocational training",
+      "subtopic": "Employability skills",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Vocational training|Employability skills",
+      "target": "Subtopic:Social|Quality education|Vocational training|Employability skills_qna_000",
+      "value": 1
+    }
+  ]
+}

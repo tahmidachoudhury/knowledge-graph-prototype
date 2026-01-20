@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Female political representation|Women in parliament",
+      "label": "Women in parliament",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Female political representation"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female political representation|Women in parliament_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the participation of women in parliament impact GHG emissions and climate policy?",
+      "answer": "The participation of women in parliament is crucial for reducing greenhouse gas emissions and implementing effective climate policy. Women tend to make more environmentally friendly decisions, which can lead to policies that prioritize sustainability and reduce the negative impacts of climate change.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2211467X24000282",
+      "paragraph": "",
+      "macrotopic": "Gender equity",
+      "topic": "Female political representation",
+      "subtopic": "Women in parliament",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Female political representation|Women in parliament_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is the participation of women in parliament important for GHG emissions and climate policy implementation?",
+      "answer": "The participation of women in parliament is crucial for reducing greenhouse gas emissions and implementing effective climate policies due to their sensitivity to climate change and tendency to make environmentally friendly decisions.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2211467X24000403",
+      "paragraph": "",
+      "macrotopic": "Gender equity",
+      "topic": "Female political representation",
+      "subtopic": "Women in parliament",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Female political representation|Women in parliament",
+      "target": "Subtopic:Social|Gender equity|Female political representation|Women in parliament_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Female political representation|Women in parliament",
+      "target": "Subtopic:Social|Gender equity|Female political representation|Women in parliament_qna_001",
+      "value": 1
+    }
+  ]
+}

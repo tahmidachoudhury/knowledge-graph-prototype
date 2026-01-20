@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest restoration",
+      "label": "Forest restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest restoration_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What was the purpose of the Forestry (Rebuilding the Forest Industry) Act 2014?",
+      "answer": "The purpose of the Forestry (Rebuilding the Forest Industry) Act 2014 was to invigorate the forest industry and related purposes, repealing previous legislation that protected forests of high conservation value.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Data on forest quality are not captured by satellite imagery of tree cover extent, but these data can be aggregated with thematic maps for further inference. The swift parrot S breeding range exemplifies this challenge, as Tasmania has 72 76% vegetation cover42, but only a third of Tasmanian forests remaining are intact43 or of high integrity13,25. Within swift parrot important breeding areas (SPIBAs), forests with high integrity are even scarcer (4.2% VS. 29.4% statewide)25. Forest accounting (i.e. systematic measurement and tracking of forest condition and changes over time) in swift parrot habitat is complicated by shifts in land-use classification in forested areas following a policy change enacted a decade ago through the Forestry (Rebuilding the Forest Industry) Act 201444. This policy S purpose was to provide for the invigoration of the forest industry and for related purposes , thereby repealing prior legislation that sought to protect forests of high conservation value (i.e. the Tasmanian Forests Agreement Act 2013 ). Subsequently, high conservation value reserves were reclassified as production forestry land and previously used forestry land was converted into reserves21.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Forest restoration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Forest restoration",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Forest restoration_qna_000",
+      "value": 1
+    }
+  ]
+}

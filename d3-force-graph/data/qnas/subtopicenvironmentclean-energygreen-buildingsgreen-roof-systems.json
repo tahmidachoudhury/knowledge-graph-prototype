@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems",
+      "label": "Green roof systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of heat loss reduction did Rahim Zahedi et al. achieve using green roof technology in winter and summer?",
+      "answer": "They achieved a heat loss reduction of 54.95% in winter and 76.11% in summer using green roof technology.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Studies have evaluated the impact of Building Energy Management Systems (BEMS), Phase Change Materials (PCM), Solar PV , and Ground Heat Pumps (GHP) on energy consumption, demonstrating that photovoltaic panels can significantly meet electricity needs25,26. For instance, Noorollahi et al.27 used solar collectors and thermal storage with particle swarm optimization for optimal energy self-sustainability. Advances in autonomous technology have spurred interest in zero-energy, sustainable, and green buildings, leading to new design concepts and assessment systems28 30. Energy Internet of Things technology has been used in autonomous buildings to collect energy consumption data for analysis and reduction of building energy consumption30,31. Rahim Zahedi et al. used green roof technology to effectively reduce heat loss from roofs and walls, saving 54.95% in winter and 76.11% in summer32. The use of energy-autonomous technology (EAT) in independent public toilets means that they rely as little as possible on external power or heat supply and that they reasonably select appropriate renewable energy sources to replace external energy supply based on their energy demand, resulting in a balance between energy supply and demand33,34.",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Green roof systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the performance comparison between intensive and extensive green roofs based on literature?",
+      "answer": "Intensive green roofs perform better than extensive green roofs in thermal insulation, stormwater management, and the provision of recreation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This means that GI must be specifically designed and tailored while considering specific local condi- tions and needs (Mantilla et al., 2023). As a result, the same GI (e.g., green roofs, green walls) implemented in different locations within a geographical catchment may have a broad range of differing performance and cost-effective features (Webber & Kuller, 2021). Literature also show that intensive green roofs perform better than extensive green roofs in thermal insulation, stormwater management and the provision of recrea- tion (Aleksejeva et al., 2024). The current study by Cook et al. (2024) sheds light on the multifunctionality concept in GI projects, clearly depicting that GI design requires intentional considerations, thereby refuting the passive design notion. From the forgo- ing, it is clear that knowledge of the multifunctionality concept is crucial to ensure that GI achieve the intended objectives and functionality. Given that built environment pro- fessionals provide technical knowledge and expertise towards the execution of GI pro- jects, it is expedient to investigate the knowledge levels of GI from the perspective of these technical experts to provide relevant knowledge toward effective communication, design, implementation and monitoring.",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Green roof systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the green surface area parameter represent in the context of the plant's leaves?",
+      "answer": "The green surface area parameter represents the total area of the green parts of the leaves, specifically the actively photosynthetic tissue.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For the green surface area of the plant, this parameter represents the total area of the green parts of the leaves. In the ImageJ analysis, it was calculated using a fixed saturation range of 50 to 110, which specifically isolates the actively photosynthetic tissue. This range ensures that only the green, functional leaf areas are included in the measurement. A reduction in green surface area is an indicator of the CEO effect on the plant S ability to photosynthesize, reflecting damage to the chlorophyll-containing tissues. Protein extraction A. thaliana was chosen as a model plant because the full genome information was already available. For each sample, fresh matter from A. thaliana leaves was homogenized in a Potter homogenizer (Wheaton, IL, United States) in 800 mL of homogenization buffer (8 M urea, 100 mM TEAB (triethylammonium bicarbonate), pH 8.5 (HCI), 2 mM EDTA, 10 mM dithiothreitol (DTT), protease inhibitor mix composed of 1 mM phenylmethylsulfonyl fluoride (PMSF, Merck-Sigma-Aldrich, Darmstadt, Germany), 2 g/mL each of leupeptin (Carl Roth, Karlsruhe, Germany), aprotinin (Carl Roth, Karlsruhe, Germany), antipain (Carl Roth, Karlsruhe, Germany), pepstatin (Carl Roth, Karlsruhe, Germany), and chymostatin (Merck-Sigma-Aldrich, Darmstadt, Germany), and 0.6% w/v polyvinylpolypyrrolidone (Polyclar AT, SERV A Electrophoresis GmbH, Heidelberg, Germany).",
+      "macrotopic": "Clean energy",
+      "topic": "Green buildings",
+      "subtopic": "Green roof systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems",
+      "target": "Subtopic:Environment|Clean energy|Green buildings|Green roof systems_qna_002",
+      "value": 1
+    }
+  ]
+}

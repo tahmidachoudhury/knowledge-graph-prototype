@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access",
+      "label": "Market access",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the trend in fish export in developed countries from 1990 to 2021 according to SDG 17.4?",
+      "answer": "The trend in fish export in developed countries from 1990 to 2021 shows an increase in the export of tonnes, as per SDG 17.4 on debt sustainability financing.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0025326X23008032",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Market access",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the significant positive lag-dependent variable (fish footprintt-1) indicate in the empirical model?",
+      "answer": "The significant positive lag-dependent variable suggests the persistent effects of fish footprint driven by historical consumption patterns, showing that fish footprint historically increases by at least 0.35% across economies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0025326X23008032",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Market access",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What ecological and economic challenges is the fisheries sector currently facing according to the paragraph?",
+      "answer": "The fisheries sector is facing ecological challenges, such as overfishing and habitat degradation, and economic challenges, including unequal access to resources and markets.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In various parts of the world, the fisheries sector is undergoing a rapid transition due to a combination of ecological and economic stressors. In this context, there is increasing interest in using integrated ecological economic tools to support ecosystem-based fisheries practices within a value chain framework, aiming to reduce ecological impacts while ensuring socioeconomic benefits. Our study integrates a food web model with a value chain model for an area of the Mediterranean Sea. This case study may provide valuable insights for decision-makers: (1) it allows the calculation of indicators that go beyond the evaluation of species and fisheries incomes, which are relevant for assessing fisheries management; (2) it offers a more comprehensive perspective on what should be considered priority fisheries species and their key characteristics; and (3) it supports the identification of key actors of the fisheries value chain and generates pertinent information to use in vertically integrated decision-making initiatives. Keywords Mediterranean Sea Ecopath with Ecosim Value chain Ecological modelling Fisheries Food web model Introduction The statement of FAO S 2022 landmark publication for the world fish and aquaculture is clear: Strategies to deliver healthy, sustainable and equitable food systems do not ade- quately include the critical long-term impacts of overfish- ing, habitat degradation and unequal access to resources and markets, so a Blue Transformation is needed.",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Market access",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Market access_qna_002",
+      "value": 1
+    }
+  ]
+}

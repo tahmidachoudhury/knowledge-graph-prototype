@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems",
+      "label": "Energy-efficient heating and cooling systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What specific aspects were analyzed in the energy simulation results?",
+      "answer": "The performance of the technology in terms of heating, emission reduction, and climate adaptation was analyzed in the energy simulation results.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Section Results is to analyze the results of the energy simulation, and the performance of the technology in terms of heating, emission reduction, and climate adaptation. Section Conclusion concludes the significance of the work in this paper. Methodology This study aims to explore the feasibility and effectiveness of applying energy-autonomous technology (EAT) in independent public toilets, with a particular focus on their energy efficiency and climatic adaptability under different climatic conditions. To this end, we used a park scenario as the context of use and constructed a model of an independent public toilet that includes PV/T technology for energy supply and aerobic bio-composting for on-site excreta treatment. To evaluate the performance of EAT, we conducted building energy consumption simulations using DesignBuilder software, which works alongside the EnergyPlus calculation engine to dynamically simulate building energy consumption. The specific steps included: selecting the building type and template, setting building elements (such as walls, windows, doors, etc. ), and adding parameters for materials, equipment, and personnel activities within the rooms. By simulating the energy consumption of independent public toilet models in five different climatic zones, we assessed the self-sufficiency of the model S energy supply and its performance under various climatic conditions.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Energy-efficient heating and cooling systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method is used to simulate the indoor thermal environment and energy consumption of residential buildings?",
+      "answer": "Energy consumption simulation software is used to accurately simulate the indoor thermal environment and energy consumption by considering factors like building, environment, and energy.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These data provide a solid basis for subsequent simulation analysis. Through the energy consumption simulation software, the indoor thermal environment and energy consumption of residential buildings are accurately simulated by comprehensively considering the factors of building, environment, energy, and other factors, and the impact of different optimization and renovation measures on the indoor thermal environment and energy consumption is analysed, and the economic cost and feasibility analysis are carried out, so as to select the optimal solution. This will not only help improve the living comfort and energy efficiency of residential buildings but also effectively reduce the energy consumption costs of residential buildings and promote the sustainable development of the Sichuan Plateau. The Chinese government has been committed to promoting the development of ethnic minority areas, including reform and innovation in the energy sector. Research on improving energy efficiency in the Sichuan Plateau can be strongly supported by policies and regulations. The problems in energy use in the Sichuan Plateau region are universal, such as weak energy infrastructure and low energy efficiency. Therefore, the technical achievements and solutions obtained in the research carried out in this area can also have certain applicability in other similar areas.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Energy-efficient heating and cooling systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Energy-efficient heating and cooling systems_qna_001",
+      "value": 1
+    }
+  ]
+}

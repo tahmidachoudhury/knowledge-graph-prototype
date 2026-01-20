@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal reservoir engineering",
+      "label": "Geothermal reservoir engineering",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal reservoir engineering_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do numerical simulation methodologies play in analyzing fluid flow and thermal transfer processes?",
+      "answer": "Numerical simulation methodologies help analyze and optimize the dynamics of fluid flow and thermal transfer processes and have evolved significantly to resolve theoretical issues.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The enhanced mixing and uniform temperature distribution within the bed also ensure com- plete combustion, improving the overall efficiency of the process [11, 12]. Numerical simulation methodologies have become increasingly prevalent for analyzing and optimizing the dynamics of fluid flow and thermal transfer processes. These methods have evolved significantly over recent years, effec- tively resolving numerous essential theoretical issues [13, 14]. High-temperature processes such as gasification, waste treatment, and CO2 utilization often use fluidized bed tech- nology. One of the biggest challenges engineers face is improving the efficiency of fluidized beds, and this can be solved by CFD modeling. CFD enables the analysis of fluid- ized bed dynamics without the need for expensive pilot-scale experiments, greatly reducing development and optimization costs [15]. However, since significant physical and chemical interactions are involved in simulating multiphase flows in fluidized beds, complex mathematical models are required in the CFD software. These models need to be verified and validated to ensure their accuracy and reliability. When experimental studies are too costly or impractical, they can be used to measure process efficiency after validation.",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "subtopic": "Geothermal reservoir engineering",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal reservoir engineering_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Who conducted the research mentioned in the paragraph?",
+      "answer": "The research is conducted by Somay-Altas and E. Sanli from the Geological Engineering Department and the Graduate School of Natural and Applied Sciences at Dokuz Eylul University.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Somay -Altas (*) Geological Engineering Department, Dokuz Eylul University, Buca-Izmir, T rkiye e-mail: melis.somay@deu.edu.tr E. Sanli The Graduate School of Natural and Applied Sciences, Dokuz Eylul University, Buca-Izmir, T rkiye Water Air Soil Pollut (2025) 236:208 208 Vol:. (1234567890) 1 Introduction Urbanization, a defining feature of the twenty-first century, has led to most of the global population residing in urban areas. By 2050, the urban popula- tion is projected to reach 6.7 billion (United Nations, 2018), intensifying pressure on natural ecosystems and posing critical challenges to environmental sus- tainability. This phenomenon disrupts hydrogeo- chemical cycles, affects water quality, and accelerates climate change through habitat destruction, pollution, and greenhouse gas emissions (Liliwirianis et al., 2023; Luo et al., 2023; Tan et al., 2021; Xu et al., 2006; Zhang et al., 2019). Rational water resource management and sustainability measures are essential to mitigate these impacts (ENRR, 2023). Urban wetlands, often referred to as \"green sponges,\" are pivotal components of sustainable urban infrastructure (Somay-Altas, 2022).",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "subtopic": "Geothermal reservoir engineering",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal reservoir engineering",
+      "target": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal reservoir engineering_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal reservoir engineering",
+      "target": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal reservoir engineering_qna_001",
+      "value": 1
+    }
+  ]
+}

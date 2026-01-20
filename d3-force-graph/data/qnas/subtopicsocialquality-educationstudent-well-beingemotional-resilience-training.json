@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training",
+      "label": "Emotional resilience training",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Student well-being"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific objectives does the research aim to achieve?",
+      "answer": "The research aims to examine how observers learn about the changing environment, explore the emotional reactions from such learning, understand the impact of emotional learning on actions, and gain insight into how emotion-triggered actions might transform those emotions.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " This research is part of a broader research project that aims to develop an enhanced understanding of how different groups in Canadian society speak about and process the emotions associated with climate change and other forms of ecological loss. The project focuses on the Boreal and Atlantic ecoregions, two ecozones experiencing considerable impacts from climate change (e.g., increased wildfire numbers and severity and increased storm severity). The authors/research team includes diverse positionalities and roles in research (i.e., senior researchers and graduate students) representing environmental studies, biology, history/Indigenous studies, fine arts, and nursing. This subset of the more extensive study used a phenomenological approach to understand how observers experiences and learning adjacent to ecological loss impacted their emotions, decisions, and actions relative to their roles connecting to the environment. Specifically, our objectives were to: 1) Examine how environmental observers learn about the changing environment (i.e., through communications and (or) direct observation); 2) Explore how such learning impacts the emotional reactions of environmental observers; 3) Develop a deeper understanding of how emotional aspects of learning might be changing the actions (e.g., decision-making and (or) direct forms of action) of environmental observers; and, 4) Gain insight into how actions triggered by emotions might have the potential to transform those emotions.",
+      "macrotopic": "Quality education",
+      "topic": "Student well-being",
+      "subtopic": "Emotional resilience training",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How have contemporary scholars expanded the study of transformative learning theory?",
+      "answer": "Contemporary scholars have expanded the study of transformative learning theory to include cultural, tacit, and emotional aspects of learning.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Mezirow categorizes learning into communicative and instrumental domains (Mezirow, 1991 , 2003 ). Communicative learning focuses on interpersonal interactions and involves comprehending the meaning behind someone S communication. The components of comprehension and interpretation include values, intentions, emotions, moral choices, and normative ideas (Mezirow, 1991 , 2003 ). Communicative learning enables people to navigate and interpret their meanings, intentions, and values rather than passively adopting those of others. Instrumental learning involves learning by doing (Mezirow, 1991 , 2003 ). It is a type of learning directed at a particular outcome and can help people become more effective at being and working in their environments (Zurba et al., 2021 ). Instrumental learning is especially relevant to the work of observers and can involve significant cognitive shifts that support transformation (Zurba et al., 2021 ). Contemporary scholars working with transformative learning theory have expanded their study to cultural, tacit, and emotional aspects of learning (Gozawa, 2009 ; Tisdell & Thompson, 2007 ; Cranton, 2006 ). For example, Cranton (2006 , p. 37) delineates transformative learning within the epistemic (knowledge-centered), sociolinguistic (society, norm, and culture-oriented), psychological (self-concept-focused), philosophical (worldview-centered), and aesthetic (broadly value-judgment oriented) ways of thinking (i.e., habits of mid), which are linked to content, process, and reflection.",
+      "macrotopic": "Quality education",
+      "topic": "Student well-being",
+      "subtopic": "Emotional resilience training",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training",
+      "target": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training",
+      "target": "Subtopic:Social|Quality education|Student well-being|Emotional resilience training_qna_001",
+      "value": 1
+    }
+  ]
+}

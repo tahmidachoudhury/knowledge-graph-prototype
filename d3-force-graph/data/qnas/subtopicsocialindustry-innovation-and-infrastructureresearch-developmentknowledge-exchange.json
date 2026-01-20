@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange",
+      "label": "Knowledge exchange",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the expected contributions of new ways of producing knowledge?",
+      "answer": "New ways of producing knowledge are expected to contribute to transformative societal change.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Transdisciplinary research 1 aims to address such societal challenges by using partici- patory approaches to create solution-oriented, sociallyrobust and transferable knowledge for both scienti C and societal practice (Pohl and Hirsch Hadorn 2007 ; Lang et al. 2012 ). New ways of producing knowledge are expected to contribute to transformative societal change. Changes in the production of knowledge and solutions to societal problems affect science-policy interfaces (SPIs) and thedivision of responsibilities (Maas et al. 2022 ) as well as the dynamics of such key components as trust and values (Hurlbert and Gupta 2015 ; Jagannathan et al. 2023 ). The co-production of knowledge, in which researchers collaborate with stakeholders to generate new knowledge, is assumed to enhance the societal impact of research. Scholars have argued that sustainability challenges can best be addressed through an iterative process directed at soci-etal change that integrates different ways of knowing and acting (Wyborn et al. 2019 ). High-quality knowledge co- Supplementary Information The online version contains supplementary material available at https://doi.org/10.1007/s13280- 25-2161-5 . 1A distinction has been made between transdisciplinarity that tends to search for a unity of knowledge ( Mode 1 ) and more practical transdisciplinarity aiming for participatory problem-solving approaches that are applied to tangible real-world problems ( Mode2 ) (Rigolot 2020 ).",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "subtopic": "Knowledge exchange",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do large language models (LLMs) impact knowledge creation, according to the research presented?",
+      "answer": "LLMs can promote knowledge creation if used well, but they also pose risks by producing texts that users may not perceive as sources of knowledge, which could lead individuals to retreat into ignorance.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " And then there are many others who simply skim the surface of issues, reading partial information and not bothering to verify its veracity before spreading it among friends, acquaintances, or contacts on the Internet. Added to this are computational processes with opaque workings where some information reaches certain groups of people but not others algo - rithms which means that misinformation often reaches the very targets most vulnerable to it. At the same time, artificial intelligence creates content that is indistinguishable from human-generated content and can be easily manipulated. How can and how should people navigate this infosphere? How can they acquire a solid body of knowledge that helps them make both personally and socially relevant decisions, such as casting a political vote, getting vaccinated against certain diseases, or taking action against the climate crisis? What are the epistemic norms that ordinary citizens should adhere to when it comes to information? And what kind of moral culpability is possible for those who do not conform to such norms, who float on the surface of the sea of infor - mation, and become, more or less unwittingly, instruments of disinformation, generating social risks?This thematic collection of Topoi is devoted to a reflection on the current crisis of knowledge its causes and its nor - mative consequences.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "subtopic": "Knowledge exchange",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Knowledge exchange_qna_001",
+      "value": 1
+    }
+  ]
+}

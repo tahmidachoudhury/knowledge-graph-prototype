@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Geospatial information systems (gis) for government planning",
+      "label": "Geospatial information systems (gis) for government planning",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Geospatial information systems (gis) for government planning_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does this study's methodological approach differ from earlier studies?",
+      "answer": "This study's methodological approach differs from earlier studies by leveraging cloud computing and geospatial data, providing greater accuracy and speed in identifying and predicting urban changes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As urbanization accelerates, the vulnerability of urban and peri-urban populations to climate change intensifies, making it crucial to identify emerging urban spaces and develop effective policy responses that address both environmental and socio-economic challenges. This study aims to investigate urban change dynamics in the Kaduna River Basin, Nigeria, focus- ing on how urban transformations influence critical biophysical variables such as water availability, land cover, and ecosystem services. A key contribution of this work is its use of advanced spatial techniques, including machine learning algorithms (MLAs) and Google Earth Engine (GEE), to analyze urban tran- sitions between 1987 and 2020. Unlike earlier stud- ies, which often relied on traditional spatial analysis, this research leverages the power of cloud computing and geospatial data to identify and predict changes with greater accuracy and speed. This study employs a novel methodological approach that integrates expert knowledge with spatial analysis and machine learning algorithms to refine data selection, enhance model interpretation, and improve classification accu- racy. By leveraging domain expertise, this approach ensures a deeper understanding of urbanization S impact on biophysical conditions, leading to more informed and contextually relevant insights for sus- tainable urban planning strategies.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Geospatial information systems (gis) for government planning",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Geospatial information systems (gis) for government planning_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which methods were used in the study to analyze the gaps in GI adoption and implementation?",
+      "answer": "The study used stationary attribute analysis and fuzzy evaluations, specifically adopting a fuzzy synthetic evaluation method.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In this study, we argue that GI adoption and implementation success hinge on effectively conveying the multifunctional prospects and a keen consideration of client objectives. These gaps were examined in the con- text of a developing nation through a combination of stationary attribute analysis and fuzzy evaluations. Researchers have adopted fuzzy synthetic evaluation method to draw inference in subjective constructs (Zafar et al., 2022). Further, FSE method was also adopted in the built environment to examine the drivers of circular economy in modular integrated construction (Wuni et al., 2022). However, FSE applications in GI knowledge assessment have not been explored, particularly in the developing nation context. To ensure a holistic conveyance of GI benefits and attributes, the Gini mean analysis was adopted as a complementary analysis to FSE to peruse the pivots among built environ- ment professionals in GI projects. Gini index as a stationary measure of dispersion, pro- vides an arbitrary factor that is central to pioneering a concept (GI). A combination of geometric mean analysis, Gini coefficient, principal factor analy - sis and fuzzy synthetic evaluations was adopted in this study to provide an in-depth understanding of the multifunctional drivers of GI among built environment profession- als in developing regions.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Geospatial information systems (gis) for government planning",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Geospatial information systems (gis) for government planning",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Geospatial information systems (gis) for government planning_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Geospatial information systems (gis) for government planning",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Geospatial information systems (gis) for government planning_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Disaster preparedness for energy facilities",
+      "label": "Disaster preparedness for energy facilities",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Disaster preparedness for energy facilities_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some factors contributing to the severity of the energy crisis mentioned in the paragraph?",
+      "answer": "Factors include expensive maintenance of energy generation, lack of clean energy sources, accidents, natural catastrophes, wars, and inadequate energy storage.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Moreover, our need for a consistent power source heightens as civilization advances. The use of energy accounts for 60% of greenhouse gas emissions [9]. Energy is commonly considered a non-destructible system, but it is possible to transfer energy from one type of energy to another and between systems [10]. Expensive cost of maintaining energy generation, the lack of clean energy sources, accidents and natural catastrophes (which are increasing in frequency as a result of climate change), wars, and inadequate energy storage are additional fac- tors leading to the severity of the crisis [11]. MFCs can be applied to treat wastewater in a more affordable and ecologi- cally friendly manner to overcome this inefficiency [12]. In 1911, British botanist Potter [13] came up with a suggestion of employing bacteria that oxidize organic compounds to generate electricity. Since then, MFCs have gotten a great attention from researchers as a potentially viable energy gen- eration solution. By consumption of organic contaminants found in wastewater, MFCs not only produce energy but also treat water [14].",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Disaster preparedness for energy facilities",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Disaster preparedness for energy facilities",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Disaster preparedness for energy facilities_qna_000",
+      "value": 1
+    }
+  ]
+}

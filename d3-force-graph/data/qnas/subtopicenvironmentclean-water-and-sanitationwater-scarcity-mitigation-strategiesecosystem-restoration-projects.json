@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects",
+      "label": "Ecosystem restoration projects",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What global initiative did the United Nations declare regarding ecosystem restoration?",
+      "answer": "The United Nations declared the United Nations Decade of Ecosystem Restoration from 2021 to 2030.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These habitats, which are recognised for their high ecological value, are classified as large shallow inlets and bays, code 1160 within the Natura 2000 framework and protected under the European Union (EU) Habitats Directive, but not protected in France; in some instances, the degradation is so severe that natural recovery is nearly impossible in the short (years) or medium term (decades), even when the causes of their collapse have been removed. The natural recovery of Cystoseira sensu lato forests is frequently unachievable, even in instances where isolated natural recolonisation has been documented45,53,57. Restoration initiatives are frequently employed as a means of reinstating past ecosystem functions58. The practice of ecological restoration has emerged as a critical measure for the management of heavily degraded ecosystems59,60 The Convention on Biological Diversity has set restoration targets61, and, in 2020, the United Nations declared the United Nation Decade of ecosystem restoration 2021 2030 62. This was followed by the proposed EU Nature Restoration Law63. There are few globally successful examples of active restoration that are focused on the recovery of canopy-forming species and success always occurred on a very small areas of few dozen of m (e.g64 68).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "subtopic": "Ecosystem restoration projects",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What kind of projects aim to restore physical habitat conditions mentioned in the paragraph?",
+      "answer": "Hydromorphological restoration projects aim to restore physical habitat conditions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Ecological Processes (2025) 14:30 It is widely believed that the recovery of benthic inver - tebrate assemblages in Europe has primarily resulted from improvements in water quality (Haase et al. 2023; Sinclair et al. 2024). While water quality enhancements have undoubtedly played a crucial role, the relationship between these improvements and broader ecological out - comes is more complex than it might appear, especially at larger scales. This complexity raises critical questions about additional factors that influence ecological recov - ery. For instance, hydromorphological restoration pro - jects, which aim to restore physical habitat conditions, have shown varying degrees of success (Kail et al. 2015; Lu et al. 2019). While some studies report positive out - comes (e.g., Feld et al. 2018; Li et al. 2018), others find minimal or no improvements beyond the local habitat scale (e.g., Verdonschot et al. 2016; White et al. 2017). This inconsistency highlights a significant challenge: despite substantial advances in wastewater treatment and water quality, hydromorphological restoration often falls short of achieving ecological recovery.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "subtopic": "Ecosystem restoration projects",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Ecosystem restoration projects_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Human waste recycling",
+      "label": "Human waste recycling",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Human waste recycling_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What components can be found in human waste?",
+      "answer": "Human waste is a complex heterogeneous mixture that can contain microorganisms, water, oils, nutrients, inorganic material, and is often rich in organic matter.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The biochar end product would also reduce fertilizer need, improve soil health and crop yield in areas far more at risk from climate change-induced droughts. The composition of biochar is largely dependent on two conditions; the feedstock and the temperature at which the feedstock is pyrolyzed (Downie et al., 2009). Sew - age sludge and faecal sludge have different physico-chemical characteristics due to the different transport conditions, treatment processes and holding times. The characteris- tics of each type of waste can vary significantly, depending on several factors outlined below. In general, human waste is a complex heterogeneous mixture which can con- tain microorganisms, water, oils, nutrients, inorganic material and can be rich in organic matter. Faecal sludge quantities and characteristics can vary greatly depending on several fac- tors including location, climate, age of the sludge, type of sludge collection and the types of onsite sanitation facilities (Strande et al., 2014). These onsite sanitation tech- nologies include septic tanks, aqua privies, pit latrines (including Ventilated Improved Pit Latrines VIPs), public ablution blocks and dry toilets.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "subtopic": "Human waste recycling",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Human waste recycling",
+      "target": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Human waste recycling_qna_000",
+      "value": 1
+    }
+  ]
+}

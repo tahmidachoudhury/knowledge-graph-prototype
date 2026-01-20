@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine microbiology",
+      "label": "Marine microbiology",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine microbiology_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What organisms were the focus of the literature review in the study?",
+      "answer": "The study focused on halophilic purple phototrophic bacteria (PPB).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Through a compre- hensive literature review, we compiled a list of halo- philic PPB and mined their genomes for genes linked to CO /CO utilization as carbon sources. Further genomic search revealed genes encoding enzymes for ectoine/hydroxyectoine, proline, ubiquinone, and carotenoids (lycopene, -carotene, spirilloxanthin, and spheroidene). We identified 276 genomes of PPB with the genomic potential to valorise CO /CO into health-promoting ingredients, highlighting 22 spe- cies capable of producing three or more chemicals simultaneously. These findings highlight the untapped potential of halophilic PPB as bio-platforms for sus- tainable pharmaceutical production.Supplementary Information The online version contains supplementary material available at https:// doi. org/ 10. 1007/ s11157- 25- 9722-w . S. Stegman (*) Australian Centre for Water and Environmental Biotechnology, The University of Queensland, Brisbane, QLD 4072, Australia e-mail: samuel.stegman@uva.es S. Stegman E. Huang-Lin R. Lebrero S. Cantera (*) Institute of Sustainable Processes, University of Valladolid, Dr. Mergelina S/N., 47011 Valladolid, Spain e-mail: sara.cantera@uva.es S. Stegman E. Huang-Lin R. Lebrero S. Cantera Department of Chemical Engineering and Environmental Technology, University of Valladolid, Dr. Mergelina S/N., 47011 Valladolid, Spain C. Melkonian D. Tamarit Theoretical Biology and Bioinformatics, Utrecht University, 3584CH Utrecht, The Netherlands C. Melkonian Bioinformatics Group, Wageningen University, Droevendaalsesteeg 1, 6708 PB Wageningen, The Netherlands Rev Environ Sci Biotechnol Vol:.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine microbiology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine microbiology_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodology was used to capture and quantify expelled symbionts?",
+      "answer": "The researchers incubated fragments of coral in filtered seawater and then counted the symbionts using a hemocytometer after concentrating the seawater.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract The mutualistic relationship between scleractin- ian corals and dinoflagellate algae (Family Symbiodiniaceae) is critical to the success of corals on tropical reefs yet under - pins their vulnerability to climate change. This symbiosis often deteriorates during marine heatwaves as corals rapidly expel their symbionts, inducing mortality unless symbiosis is restored. While symbiont loss during coral bleaching is well-documented, little is known about symbiont turnover and expulsion under non-bleaching environmental condi- tions. To better understand rates and patterns of symbiont turnover under ambient (non-stressful) conditions, we used a novel methodology to capture and quantify expelled sym- bionts of six Caribbean reef-building coral species. Rep- licate 5-cm2 fragments of Acropora cervicornis, Diploria labyrinthiformis, Montastraea cavernosa, Orbicella faveo- lata, Pseudodiploria clivosa and Siderastrea siderea were incubated in 150 mL of 0.2 m filtered seawater and main- tained at 28 C for 7 h during either day (6:0 h 13:0 h) (110 mol quanta m 2 S 1) or night (18:0 h 1:0 h) con- ditions. Seawater from the incubation chambers was then concentrated and symbionts counted using a hemocytometer.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine microbiology",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine microbiology",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine microbiology_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine microbiology",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine microbiology_qna_001",
+      "value": 1
+    }
+  ]
+}

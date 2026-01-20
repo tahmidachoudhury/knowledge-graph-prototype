@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Community water management|Water resource mapping",
+      "label": "Water resource mapping",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Community water management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Community water management|Water resource mapping_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of displaying two quality indicators of groundwater in a single integrated map?",
+      "answer": "Displaying two quality indicators in a single map is important for sustainable groundwater abstraction as it helps in reducing and guiding the management of freshwater resources effectively.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723018297",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Community water management",
+      "subtopic": "Water resource mapping",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Community water management|Water resource mapping",
+      "target": "Subtopic:Environment|Clean water and sanitation|Community water management|Water resource mapping_qna_000",
+      "value": 1
+    }
+  ]
+}

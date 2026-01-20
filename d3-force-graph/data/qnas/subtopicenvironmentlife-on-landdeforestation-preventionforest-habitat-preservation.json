@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation",
+      "label": "Forest habitat preservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary characteristic of the forest habitat (MH2) surveyed?",
+      "answer": "The forest habitat (MH2) is characterized by mature humid tropical forest with relatively low canopy.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1). The Tropical Moist Forest (Holdridge 1967) of EBG consists of several habitat types including both primary and secondary forest, saw- grass swamp and thorn scrub. It is bordered to the east by concessional agricultural lands that belong to the nearby Q eqchi Maya community of Paso Caballos. The work extends on Griffin (2022 unpublished thesis) and Griffin et al. (2023). Field methods Sampling was conducted in one disturbed edge habitat (named disturbed habitat and assigned the code MH1), two primary forest habitats (named forest habitat with the code MH2), and one secondary habitat with natural edge (named edge habitat with the code MH3) (Fig. 2). Surveys in dis- turbed habitat (MH1) were conducted at the eastern border Oecologia (2025) 207:52 52 with the concessional agricultural lands of the Paso Caballos approximately 2 km east of EBG. This area has been subject to relatively high levels of disturbance from the clearing activities related to the concessions and is considered sec - ondary forest. Forest habitat (MH2) surveys were conducted in two undisturbed forest locations and consisted of mature humid tropical forest that is characterized by relatively low canopy (ca.",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest habitat preservation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation_qna_001",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What are variable retention silvicultural practices and what purpose do they serve?",
+      "answer": "Variable retention silvicultural practices involve retaining mature habitat clumps in harvested areas to provide resources for some forest species, such as brushtail possums.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Variable retention silvicultural practices, such as the retention of mature habitat clumps, are practiced in some harvested areas and may provide resources for some forest species (e.g. brushtail possums Trichosurus vulpeculai ). However, this measure is likely to be insufficient to meet the needs of the swift parrot, as retained clumps in Tasmanian forests are small (mean 0.1ha, < 0.21 ha), have elevated rates of tree collapse post-harvest (11.7%/10 years)29,30, and have a small probability of containing a cavity suitable for swift parrots24,31. Eucalyptus plantations are also unlikely to provide food for swift parrots as plantations are harvested on even shorter rotations (30 years)28. Based on current practices, cleared and regenerating forests, (i.e., degraded and disturbed forests) represent a detrimental, long-term loss of habitat for the swift parrot population. To guide swift parrot habitat retention, a report in 2010 identified 12 Swift Parrot Important Breeding Areas (hereafter SPIBAs)32. SPIBAs were selected as priority management areas based on known use and suitable habitat, and a further three have been added since.",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest habitat preservation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest habitat preservation_qna_001",
+      "value": 1
+    }
+  ]
+}

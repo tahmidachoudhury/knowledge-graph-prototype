@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Scientific research",
+      "label": "Scientific research",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Scientific research_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to extract and purify DNA from coral tissue biopsies and water samples?",
+      "answer": "DNA was extracted and purified from SDS archives using established protocols described in Baker and Cunning (2016).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Calculating expulsion rates For each cell pellet resuspended and preserved in Lugols, four rounds of hemocytometer counts were conducted using an inverted microscope. Symbiodiniaceae expulsion rates were calculated by averaging the counts and using the following formula: A loss factor was incorporated into calculations to account for potential cell loss during the centrifugation process. An aliquot of axenic cultured symbionts was counted using the hemocytometer at culture density, diluted to 150 mL, then run through the centrifugation process and counted again. About 33% of cells were calculated as lost in the supernatant across replicates. Expulsion was calculated in terms of cells expelled per hour and standardized to coral tissue surface area (cm2) as determined from the photographs (ImageJ). The overall expulsion rate per cm2 of tissue per hour was then calculated using the following equation: DNA extraction and qPCR DNA from coral tissue biopsies and water samples were extracted and purified from SDS archives using established protocols described in Baker and Cunning (2016). After the DNA was extracted, samples were processed using quantitative PCR (qPCR) (QuantStudio 3, Applied Biosystems, USA) to identify to the generic level which Symbiodiniaceae were present.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Scientific research",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Scientific research",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Scientific research_qna_000",
+      "value": 1
+    }
+  ]
+}

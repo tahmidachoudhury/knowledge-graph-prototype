@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring",
+      "label": "Remote sensing for deforestation monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In what year were significant breakpoints in NDSI and NDVI identified?",
+      "answer": "Significant breakpoints in NDSI and NDVI were identified in 2013.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Early warning signals were analyzed through three statistical indices autocorrelation coefficient, skewness, and standard deviation using Kendall S tau. Results revealed that 39.7% of the area falls under low erosion risk, 58.4% under medium risk, and 1.9% under severe risk. Significant breakpoints in NDSI and NDVI were identified in 2013, while TGSI showed no detectable change. Major shifts occurred near the Alagol, Almagol, and Ajigol wetlands and northern drylands. This study underscores the importance of integrating satellite data with field validation to improve soil management, protect biodiversity , and guide sustainable erosion mitigation strategies. Keywords Soil Erosion, Landsat satellite images, Warning, Indicators, ICONA model Soil erosion is a serious environmental challenge worldwide1. As soil erosion is a complex and multifactorial problem, it is necessary to perform detailed analyses and use data collected from field and laboratory experiments to predict and control this problem2. Various factors, such as scattered vegetation, loose surface soil, drought, and climate change, can increase the risk of soil erosion3. In recent years, water erosion assessment has emerged as one of the significant challenges in natural resource management and ecosystem sustainability.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Remote sensing for deforestation monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How were the remote sensing indices assessed in relation to the study area?",
+      "answer": "The remote sensing indices were assessed at 100 points, equally divided between eroded and non-eroded regions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Evaluation of early warning signals for soil erosion using remote sensing indices in northeastern Iran Abdolhossein Boali1, Mohsen Hosseinalizadeh1 , Narges Kariminejad2, Hamid Reza Asgari1, Ali Mohamadian Behbahani1, Babak Naimi3, Vahid Shafaie4 & Majid Movahedi Rad4 Soil erosion represents a major challenge to natural resource conservation, causing land degradation, biodiversity loss, and diminished soil quality. This study explored the use of satellite imagery to evaluate the spatiotemporal risk of soil erosion in northeastern Iran. The ICONA model was applied to identify areas at severe erosion risk, while remote sensing indices (NDVI, NDSI, and TGSI) were employed to analyze erosion trends. NDVI is used to monitor vegetation health, NDSI detects soil salinity levels, and TGSI assesses topsoil grain size distribution, collectively providing critical insights into soil erosion risk in the study area. These indices, derived from the Google Earth Engine with a 30-meter spatial resolution and monthly temporal intervals (2003 2022), were assessed at 100 points, equally divided between eroded and non-eroded regions. Field data, including vegetation plots and soil profiles, were used to validate the remote sensing outputs.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Remote sensing for deforestation monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What years did the study's remote sensing data cover?",
+      "answer": "The remote sensing data covered the years from 2003 to 2022.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Evaluation of early warning signals for soil erosion using remote sensing indices in northeastern Iran Abdolhossein Boali1, Mohsen Hosseinalizadeh1 , Narges Kariminejad2, Hamid Reza Asgari1, Ali Mohamadian Behbahani1, Babak Naimi3, Vahid Shafaie4 & Majid Movahedi Rad4 Soil erosion represents a major challenge to natural resource conservation, causing land degradation, biodiversity loss, and diminished soil quality. This study explored the use of satellite imagery to evaluate the spatiotemporal risk of soil erosion in northeastern Iran. The ICONA model was applied to identify areas at severe erosion risk, while remote sensing indices (NDVI, NDSI, and TGSI) were employed to analyze erosion trends. NDVI is used to monitor vegetation health, NDSI detects soil salinity levels, and TGSI assesses topsoil grain size distribution, collectively providing critical insights into soil erosion risk in the study area. These indices, derived from the Google Earth Engine with a 30-meter spatial resolution and monthly temporal intervals (2003 2022), were assessed at 100 points, equally divided between eroded and non-eroded regions. Field data, including vegetation plots and soil profiles, were used to validate the remote sensing outputs.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Remote sensing for deforestation monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can remote sensing indicators contribute to understanding soil erosion risks?",
+      "answer": "Remote sensing indicators based on time-series datasets can help better understand areas at risk of soil erosion by examining temporal changes in vegetation and identifying patterns.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Recent advances in artificial intelligence and machine learning have enhanced the accuracy of soil erosion prediction models, allowing more precise EWS13. Using remote sensing indicators based on time-series datasets can help better understand areas at risk of soil erosion. For example, by examining temporal changes in vegetation, patterns can be identified and considered as the EWS of soil erosion. Increasing soil salinity and extreme changes in the soil grain distribution can also indicate soil erosioni By identifying EWS, it is possible to be aware of the changes in indicators affecting soil erosion and take preventive measures to control and manage it. These measures include the cultivation of cover crops, water management, and development of bioengineering and conservation agriculture. This study explores the efficacy of Landsat satellite imagery in assessing the spatiotemporal risks associated with soil erosion, focusing on the timing and localization of EWS that indicate reduced resilience and heightened erosion risks. The hypothesis posits that a time-series analysis of remote sensing data from various locations can enhance EWS in arid and semi-arid ecosystems. Gonbad Kavous County in northeastern Iran, which has experienced groundwater depletion and land-use changes over recent decades, is particularly vulnerable to land degradation and soil erosion, potentially leading to severe environmental impacts.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Remote sensing for deforestation monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methodologies have been used in existing studies to evaluate resource carrying capacity?",
+      "answer": "The existing studies have mainly used geo-detectors, regression analyses, or improved PSR models to evaluate resource carrying capacity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Coupled system as a physical concept refers to the phenomenon where two or more systems influence each other through multiple forms of interaction. Based on this idea, numerous studies on coupled systems have been performed, including the coupling between urbanization and ecological environment quality11, land resources coupling12 Agroecological coupling13, and the coupling between resource capacity and environmental carrying capacity14.With the increase of urban population and the acceleration of the process of economic development, how to harmonize the interrelationships among resources, economy, society, ecology and environment represent a critical challenge for sustainable development in contemporary times. 15. There has been an increase in the number of existing studies on coupled water resources, economic and social, and ecological systems. The studies that have been conducted have mainly quantitatively evaluated the resource carrying capacity of the coupled system by geo-detectors, regression analyses, or improved PSR models, and summarized the most significant influencing factors16 18. However, it fails in depth the relationship between the factors in the indicator system and to distinguish the importance of the influencing factors. Second, an analysis of socio-economic factors affecting the development of priority areas for ecosystem services found that high urbanization in the middle and lower reaches of the Xiangjiang River Basin has resulted in a high proportion of impervious areas, and that aquifers have been damaged by over-exploitation in the economic development19.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Remote sensing for deforestation monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do recent advancements in remote sensing and analytical techniques contribute to forest change analyses?",
+      "answer": "These advancements allow for more nuanced spatial analyses that can distinguish between anthropogenic and fire-driven forest loss, and identify degraded and disturbed forests.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Quantifying degradation has been more challenging to quantify than deforestation as canopy cover may be partially impacted or regenerate over time2,4. Forest change analyses often rely on satellite imagery data of forest loss , which encompasses both temporary and permanent stand-removing disturbances5. Recent advancements in remote sensing data and analytical techniques have facilitated more nuanced spatial analyses capable of distinguishing between anthropogenic and fire-driven forest loss, while also identifying degraded and disturbed forests1,6. This differentiation is vital for informing effective conservation and land use policy, as forest loss from increasingly altered natural processes, such as wildfire6, and anthropogenic drivers, including forestry, agricultural expansion and urbanization7,8 can compromise forest quality via fragmentation9, changes in structure10, altered species composition11, edge pressures and heightened susceptibility to subsequent disturbances12, 13. Forest degradation and deforestation pose a key threat for biodiversity via the removal and diminishment of mature habitat14. A comprehensive study of extinction risk for 19,432 vertebrates worldwide revealed that forest loss elevates the risk of a species being listed as threatened on the IUCN Red List, of being upgraded to higher threat categories and experiencing population decline15.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Remote sensing for deforestation monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technological advancements have been beneficial for analyzing forest changes since 2000?",
+      "answer": "Advances in satellite imagery processing have enabled transparent analysis of multi-decadal forest loss and changes since 2000.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Current zonal maps used to guide and report on forest management, such as reserve area and timber production zone land45, therefore do not account for legacy effects of forest degradation and deforestation. Subsequently, the true extent of habitat loss that has occurred within the swift parrot breeding range is likely to be underestimated. Fortunately, advances in satellite imagery processing in the last decade5 have enabled transparent analysis of multi-decadal forest loss and change since the year 2000 (noting that by this time, extensive unquantified deforestation and forest degradation had already occurred in Tasmania)20. More recently, technological advances have enabled the disaggregation of fire-driven loss from other drivers of forest loss6, as well as the detection of tree height changes, forest clearing and other forms of forest disturbance1. Conservation of the swift parrot will require protecting extant forest in its breeding range from deforestation and degradation. To achieve this, it is necessary to evaluate if current land management trends and policy are supporting this objective. We aim to provide the first quantitative analysis of deforestation, degradation and forest loss (i.e.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Remote sensing for deforestation monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Remote sensing for deforestation monitoring_qna_006",
+      "value": 1
+    }
+  ]
+}

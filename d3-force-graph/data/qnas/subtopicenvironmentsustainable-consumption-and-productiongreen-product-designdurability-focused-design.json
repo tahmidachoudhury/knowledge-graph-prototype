@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Durability-focused design",
+      "label": "Durability-focused design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Durability-focused design_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does MaÃƒÂ®tre-Ekern (2016) propose to increase product durability and separability in Europe?",
+      "answer": "MaÃƒÂ®tre-Ekern reviews legal approaches to regulating planned obsolescence in Europe as a way to increase product durability and separability, aiming to promote more sustainable consumption practices.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723006941",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Durability-focused design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Durability-focused design_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do legal approaches aim to increase product durability and separability in Europe, according to Maâ€",
+      "answer": "Maâ€",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0959652623008363",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Durability-focused design",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Durability-focused design",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Durability-focused design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Durability-focused design",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Durability-focused design_qna_001",
+      "value": 1
+    }
+  ]
+}

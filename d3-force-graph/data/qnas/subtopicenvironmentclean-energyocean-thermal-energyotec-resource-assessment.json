@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment",
+      "label": "Otec resource assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the figure of merit (ZT) used for in thermoelectric materials?",
+      "answer": "The figure of merit (ZT) is used to evaluate the efficiency of a thermoelectric material, based on its Seebeck coefficient, electrical resistivity, total thermal conductivity, and absolute temperature.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Currently, this demand is largely met by higher consumption of fossil fuels,2 leading to increased carbon dioxide emission and global warming.3 Reducing fossil fuel consumption is crucial to mitigating global warming. Thermoelectric (TE) devices can generate electricity directly from waste heat.5 They have the potential to make a significant contribution to efficient use of thermal energy and reduction in fossil fuel usage. A key challenge in this field is the development of high-performance ther - moelectric materials.6 The efficiency of a thermoelectric material can be evaluated based on the dimensionless figure of merit (ZT), which is defined as where is the Seebeck coefficient, is the electrical resis- tivity, k is the total thermal conductivity, which consists of the electronic (kel) and lattice (kL) contribution, and T is the absolute temperature. The term /u1D6FC2 /u1D70C is usually referred to as the power factor (PF). Over the past three decades, thermoelectric materials such as skutterudites,7 clathrates,8 complex alloys,9 Heusler alloys, 10 metal chalcogenides, 11 and oxides12 have been iden- tified as promising materials, with ZT > 1.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec resource assessment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How is the annual installed capacity of various energy resources calculated?",
+      "answer": "The annual installed capacity of various energy resources is calculated by obtaining the fraction of installed capacity data of a particular energy resource to the total installed capacity for the same year under consideration.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec resource assessment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec resource assessment_qna_001",
+      "value": 1
+    }
+  ]
+}

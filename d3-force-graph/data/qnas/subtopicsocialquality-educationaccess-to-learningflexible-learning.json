@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Flexible learning",
+      "label": "Flexible learning",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Flexible learning_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What kind of framework is used to analyze the learning facilitated by the approach?",
+      "answer": "A modified analytical framework based on domains of learning is used to analyze how the approach facilitated learning and reflexivity.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " At a practical level, the approach can be used to self-assess and catalyse readiness for engagement within these teams. We examine if the approach has the accessibility, practical utility, and theoretical depth to enable re exivity and learning to prepare teams for co-production praxis. We applied and tested the approach with interdisciplinary project teams to develop an early iteration of their engagement plans within their projects. Capability developed prior to engagement is anticipated to manifest initially as opportunities for different forms of learning. We use a modi ed analytical framework based on domains of learning (after Brymer et al. 2018 , Baird et al. 2014 ) to analyse how the approach facilitated learning and re exivity. These teams were drawn from within CSIRO S Valuing Sustainability Future Science Platform, an investment to build capacity to address sustainability challenges using transdisciplinary research. Insights from this analysis are discussed, including how the approach facilitates re exivity via multiple learning domains and rapidly via diagnostic questions that go to the heart of rich threads of learning across project contexts and teams. ORIGINAL PAPER HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS From a theoretical context to a diagnostic framework for co-production In this section we draw on literature reviewed from collaboration and co-production literature in sustainability, science and tech-nology studies, environmental management, learning and trans- disciplinary sciences and expert core team perspectives to formulate a methodologically robust but intuitively accessible framework for diagnosing co-production (examined empirically in section 3).",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "subtopic": "Flexible learning",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Access to learning|Flexible learning_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do post-defined categories enhance flexibility compared to traditional supervised learning?",
+      "answer": "Post-defined categories offer greater flexibility because they allow for the definition of categories after training, whereas traditional supervised learning restricts models to predefined labels.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Since the model does not have a specified bird category during training, and this post-defined category can be applied to any unseen datasets with bird calls, this process is known as Zero- Shot Transfer39 (Fig. 1(c)). The ability to define categories post-training offers substantially greater flexibility compared to traditional supervised learning approaches, which restrict models to predefined labels45, and unsupervised or self-supervised learning, where models are unable to generate feature spaces linked to semantic or text categories46,47. Moreover, post-defined categories (or text prompts, to be more specific39) are not limited to single categorical definitions. Text prompts can be any combinations of phrases or existing semantics in the LLMs. For instance, they might include This is the sound of an animal mumbling or This is the sound of a bird singing in the Fig. 1 . (a) In conventional supervised learning, input samples are typically mapped to digital labels, often discrete in nature for categorical classification. Each label represents a single category, and there are no inherent semantic relationships encoded within this labeling system.",
+      "macrotopic": "Quality education",
+      "topic": "Access to learning",
+      "subtopic": "Flexible learning",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Access to learning|Flexible learning",
+      "target": "Subtopic:Social|Quality education|Access to learning|Flexible learning_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Access to learning|Flexible learning",
+      "target": "Subtopic:Social|Quality education|Access to learning|Flexible learning_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "label": "Ml air quality recognition",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What have advanced mathematical models and machine learning algorithms improved within GIS platforms?",
+      "answer": "They have significantly enhanced the accuracy of detecting and monitoring environmental phenomena.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2023; Wu et al. 2019)) have demonstrated the cooling effects of UGS and UBS but have not integrated Chl-a as a metric for their ecological health. The integration of advanced mathematical models and machine learning algorithms within GIS platforms has significantly enhanced the accuracy of detecting and moni- toring this kind of environmental phenomena (Sharma et al. 2024; Wiatkowska et al. 2021). Measuring chlorophyll-a in urban areas, particularly within UGS and UBS, is essential for developing effec- tive climate mitigation strategies (Wu et al. 2019). This measurement provides insights into the health and efficiency of these spaces in performing crucial ecological functions, such as carbon sequestration, air purification, and tempera- ture regulation. However, the relationship between UGS, UBS, and Chl-a is not yet well established. Research on the impact of UGS and UBS on Chl-a remains scarce, under - scoring the need for comprehensive studies to understand and mitigate urban growth impacts on these critical ecologi- cal parameters. This research gap is particularly evident in tropical regions like Sri Lanka, especially in the Colombo Metropolitan Area (CMA), the most urbanized region and the only metropolitan area in the country (Khaniya et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do Multi-Modal Language Models differ from traditional machine learning models?",
+      "answer": "Multi-Modal Language Models focus on aligning language concepts with other data modalities, such as images and audio, whereas traditional machine learning models emphasize sample-to-label mapping (supervised learning) or lack direct connection to language semantics (unsupervised learning).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Moreover, unlike tasks like human speech recognition, field recordings can encompass a broad array of sounds from diverse animals such as birds, frogs, whales, insects, and bats, each requiring specifically annotated datasets for training37,38. These constraints not only limit the applicability of supervised models in bioacoustics but also hamper their ability to recognize classes absent from the training set, known as open set or novel species recognition. The recent emergence of Multi-Modal Language Models39 44has spurred a transformative paradigm shift within the realm of AI applications, offering unparalleled model flexibility and potential. These Multi- Modal Language Models primarily focus on aligning language concepts with other forms of data modalities, especially perceptual ones such as images and audio. This alignment marks a stark difference from traditional machine learning models that rely on supervised learning, which emphasizes sample-to-label mapping45, or unsupervised learning, which lacks a direct connection to language semantics46,47. This paradigm shift opens up new possibilities for innovative solutions to overcome the challenges posed by current supervised-learning techniques in bioacoustics sound event detection: the dependency on extensive manually annotated data and the limitation to a predefined label space in a restricted setting.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What problem does the oversimplification in traditional models create in a continuous feature space?",
+      "answer": "It leads to artificial decision boundaries, complicates the learning of semantic relationships, and confines models to predefined label spaces.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " (a)). Ultimately, this oversimplification leads to artificial decision boundaries within a continuous feature space, complicates the learning of semantic relationships, and often confines the models to predefined label spaces45. In contrast, Multi-Modal Language Models circumvent these limitations by directly aligning features of data modalities with language concepts through maximizing the feature similarities of different data modalities39. This results in a continuous feature space that inherently encodes semantic relationships, thanks to the natural semantic continuity facilitated by the learning process in LLMs. For instance, in Vision-Language Models (a type of Multi-Modal Language Model that aligns vision and language features), the visual features of both the Golden Retriever and Border Collie breeds are compelled to exhibit closer proximity in the feature space, even before the models generalize from visual similarities, due to the presence of language features. This process enables the model to group data from both categories as subspecies of dogs , highlighting their semantic difference from categories like cars. Additionally, the continuous semantic feature space facilitates nuanced recognition and data generation tasks41,42. For example, it becomes feasible to identify unique amalgamated concepts, such as dog- like cars , without requiring dedicated training data, as long as the concepts of dogs and cars are sufficiently represented and appropriately aligned with the language features in the multi-modal feature space.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What significant difference does the model highlight between categories like dogs and cars?",
+      "answer": "It groups data from the categories of dogs and cars as semantically distinct, emphasizing their differences due to the alignment of features in the continuous feature space.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " (a)). Ultimately, this oversimplification leads to artificial decision boundaries within a continuous feature space, complicates the learning of semantic relationships, and often confines the models to predefined label spaces45. In contrast, Multi-Modal Language Models circumvent these limitations by directly aligning features of data modalities with language concepts through maximizing the feature similarities of different data modalities39. This results in a continuous feature space that inherently encodes semantic relationships, thanks to the natural semantic continuity facilitated by the learning process in LLMs. For instance, in Vision-Language Models (a type of Multi-Modal Language Model that aligns vision and language features), the visual features of both the Golden Retriever and Border Collie breeds are compelled to exhibit closer proximity in the feature space, even before the models generalize from visual similarities, due to the presence of language features. This process enables the model to group data from both categories as subspecies of dogs , highlighting their semantic difference from categories like cars. Additionally, the continuous semantic feature space facilitates nuanced recognition and data generation tasks41,42. For example, it becomes feasible to identify unique amalgamated concepts, such as dog- like cars , without requiring dedicated training data, as long as the concepts of dogs and cars are sufficiently represented and appropriately aligned with the language features in the multi-modal feature space.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_004",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the primary focus of the proposed layer-wise model merging technique in the context of UDA?",
+      "answer": "The proposed layer-wise model merging technique focuses on merging the initial layers for feature extraction while maintaining the distinctiveness of the task-specific final layers, which enhances model performance and allows for effective merging of models from different datasets and tasks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Experimental results demonstrate substantial UDA improvements without additional costs for merging same-architecture models from distinct datasets ( 2.6% mloU) and different-architecture models with a shared backbone ( 6.8% mloU). Furthermore, merging semantic and panoptic segmen-t tation models increases mPQ by 7%. These ndings are validated across a wide variety of UDA strategies, architectures and datasets. The code will be publicly available upon acceptance in the LWMM repository: http://www-vpu.eps.uam.es/LWMM/ . Keywords Model merging Unsupervised domain adaptation Semantic segmentation Panoptic segmentation Synthetic data 1 Introduction Unsupervised domain adaptation (UDA) aims to train models from a source labeled domain that can generalize to an unla- beled target domain, key for tasks with limited annotated data due to the capture dif culty or the high annotation costs (e.g.,semantic or panoptic segmentation [ 1]). Thus, automatically annotated synthetic datasets emerge as attractive alternative for the source domain for segmentation tasks [ 2 6]. While Roberto Alcover-Couso work done prior to joining Amazon. B Roberto Alcover-Couso Proberto.alcover@estudiante.uam.es Juan C. SanMiguel juancarlos.sanmiguel@uam.es Marcos Escudero-Vi olo marcos.escudero@uam.es Jos M. Mart nez josem.martinez@uam.es 1Video Processing and Understanding Lab, UniversidadAut noma de Madrid (UAM), 28049 Madrid, SpainUDA has demonstrated remarkable success in various com- puter vision tasks, its application to segmentation tasks often faces challenges such as unstable training dynamics [ 7 11] and underperformance compared to supervised models [ 12 15].",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_005",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed layer-wise model merging technique differ in its treatment of different layers?",
+      "answer": "The layer-wise model merging technique emphasizes merging initial layers, which are associated with feature extraction, in a unified manner while maintaining the distinctiveness of task-specific final layers to boost performance and parameter consistency.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In response, teacher student distillation has emerged as a standard technique for improving UDA training stability[2,3,16,17]. Although the teacher student framework has proven effective across various UDA setups and alignment losses, the underlying alignment techniques themselves may not share this level of success. Joint application of differ-ent alignment losses has been shown to be challenging and sometimes counterproductive [ 18 20], leading to existing approaches favor model ensembling for leveraging multi-ple alignment strategies, despite its increased computational costs from requiring inference across multiple models [ 16, 21,22]. Model merging presents a promising alternative for over- coming the unstable training dynamics of UDA. By com- bining weights derived from different models and setups, this technique effectively integrates the strengths of variousalignment strategies without incurring additional computa- 123 R. Alcover-Couso et al. Fig. 1 Performance comparison for the UDA Synthia-to-Cityscapes setup. Most state-of-the-art UDA methods build up from DAFormer[3] by adding computationally expensive blocks. In contrast, we lever-age the obtained checkpoints during training to improve performance without incurring any associated training or inference overhead tional overhead. Since parameter merging only requires a single model inference, it offers a computationally ef cient solution [ 23 26].",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_006",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main focus of the proposed layer-wise model merging method in the context of unsupervised domain adaptation (UDA)?",
+      "answer": "The proposed layer-wise model merging method focuses on merging existing available pretrained models without requiring additional training costs, ensuring that initial layers are merged differently from final layers to effectively combine models from different datasets and tasks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL: https://doi.org/10.1007/s00371-025-03843-7 The Visual Computer https://doi.org/10.1007/s00371-25-3843-7 RESEARCH Layer-wise model merging for unsupervised domain adaptation in segmentation tasks Roberto Alcover-Couso1 Juan C. SanMiguel1 Marcos Escudero-Vi olo1 Jos M. Mart nez1 Accepted: 7 February 2025 The Author(s) 2025 Abstract Merging parameters of multiple models has resurfaced as an effective strategy to enhance task performance and robustness, but prior work is limited by the high costs of ensemble creation and inference. In this paper, we leverage the abundance of freely accessible trained models to introduce a cost-free approach to model merging. It focuses on a layer-wise integration ofmerged models, aiming to maintain the distinctiveness of the task-speci C nal layers while unifying the initial layers, which are primarily associated with feature extraction. This approach ensures parameter consistency across all layers, essential for boosting performance. Moreover, it facilitates seamless integration of knowledge, enabling effective merging of modelsfrom different datasets and tasks. Speci cally, we investigate its applicability in unsupervised domain adaptation (UDA), an unexplored area for model merging, for semantic and panoptic segmentation.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_007",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed method ensure efficient computation while merging models for UDA?",
+      "answer": "The proposed method ensures efficient computation by only requiring a single model inference and eliminates additional computational costs associated with ensemble training and inference.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL: https://doi.org/10.1007/s00371-025-03843-7 The Visual Computer https://doi.org/10.1007/s00371-25-3843-7 RESEARCH Layer-wise model merging for unsupervised domain adaptation in segmentation tasks Roberto Alcover-Couso1 Juan C. SanMiguel1 Marcos Escudero-Vi olo1 Jos M. Mart nez1 Accepted: 7 February 2025 The Author(s) 2025 Abstract Merging parameters of multiple models has resurfaced as an effective strategy to enhance task performance and robustness, but prior work is limited by the high costs of ensemble creation and inference. In this paper, we leverage the abundance of freely accessible trained models to introduce a cost-free approach to model merging. It focuses on a layer-wise integration ofmerged models, aiming to maintain the distinctiveness of the task-speci C nal layers while unifying the initial layers, which are primarily associated with feature extraction. This approach ensures parameter consistency across all layers, essential for boosting performance. Moreover, it facilitates seamless integration of knowledge, enabling effective merging of modelsfrom different datasets and tasks. Speci cally, we investigate its applicability in unsupervised domain adaptation (UDA), an unexplored area for model merging, for semantic and panoptic segmentation.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_008",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the primary focus of the proposed layer-wise model merging technique in the context of UDA?",
+      "answer": "The proposed layer-wise model merging technique focuses on maintaining the distinctiveness of task-specific layers while unifying the initial layers associated with feature extraction to enhance performance and facilitate integration of knowledge across different datasets and tasks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Experimental results demonstrate substantial UDA improvements without additional costs for merging same-architecture models from distinct datasets ( 2.6% mloU) and different-architecture models with a shared backbone ( 6.8% mloU). Furthermore, merging semantic and panoptic segmen-t tation models increases mPQ by 7%. These ndings are validated across a wide variety of UDA strategies, architectures and datasets. The code will be publicly available upon acceptance in the LWMM repository: http://www-vpu.eps.uam.es/LWMM/ . Keywords Model merging Unsupervised domain adaptation Semantic segmentation Panoptic segmentation Synthetic data 1 Introduction Unsupervised domain adaptation (UDA) aims to train models from a source labeled domain that can generalize to an unla- beled target domain, key for tasks with limited annotated data due to the capture dif culty or the high annotation costs (e.g.,semantic or panoptic segmentation [ 1]). Thus, automatically annotated synthetic datasets emerge as attractive alternative for the source domain for segmentation tasks [ 2 6]. While Roberto Alcover-Couso work done prior to joining Amazon. B Roberto Alcover-Couso Proberto.alcover@estudiante.uam.es Juan C. SanMiguel juancarlos.sanmiguel@uam.es Marcos Escudero-Vi olo marcos.escudero@uam.es Jos M. Mart nez josem.martinez@uam.es 1Video Processing and Understanding Lab, UniversidadAut noma de Madrid (UAM), 28049 Madrid, SpainUDA has demonstrated remarkable success in various com- puter vision tasks, its application to segmentation tasks often faces challenges such as unstable training dynamics [ 7 11] and underperformance compared to supervised models [ 12 15].",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_009",
+      "group": "QnA",
+      "label": "",
+      "question": "How does model merging provide computational benefits in UDA compared to traditional ensemble methods?",
+      "answer": "Model merging offers a computationally efficient solution because it requires only a single model inference, thus avoiding the additional training and inference costs associated with ensemble methods, which involve running multiple models simultaneously.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Early research on model merging focused on learning convergence[ 23,24], but declined over time with newer training and regularization methods. Later, the rise of large language models and self-supervised learning have reignited interest in model merging [ 27 29], as it provides a training-free mechanism to leverage knowledge from differ- ent sources. Recent methods apply model merging mostly to different checkpoints obtained during the same training pro-cess, eliminating additional computation costs for ensembletraining and inference [ 27,30 32]. However, these meth- ods use models close in the parameter space, such as ones obtained from different seeds [ 26,29] or different ne-tuning versions [ 28,33 35], as merging models with misaligned layers typically leads to a notable performance decline [ 32, 34 36]. Therefore, current methods disregard to explore the possible bene its of combining the plethora of existing mod- els trained using different methods and tasks. Additionally, to the best of our knowledge, model merging methods havenot been explored and benchmarked for UDA [ 2 5,37]. To overcome the above-mentioned de ciencies, we pro- pose a novel training-free layer-wise merging method that exploits the speci C strengths of deeper layers closer to theclassi cation output and the broader generalization capabil- ities of shallower layers, making it capable of effectively merging models derived from different datasets and tasks.We argue that the combination of model weights in the con- text of UDA has far more applications than the limited scope in which it is currently being employed (i.e., teacher studentframework), such as combining models from different tasks.Moreover, we nd that UDA is an ideal testbed for model merging.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_010",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main focus of the proposed layer-wise model merging technique?",
+      "answer": "The proposed layer-wise model merging technique focuses on integrating the distinct functionalities of deeper layers that are closer to the classification output with the generalization capabilities of shallower layers, which allows for effective merging of models derived from different datasets and tasks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Our main contributions can be summarized as follows: (1) Cost-free model merging by introducing a novel method to merge existing available pretrained models with-out requiring additional training costs. (2) Cross-task model merging by applying model merging to combine models designed for different tasks with sharedparameters. (3) Extensive benchmarking of model merging for unsu- pervised domain adaptation, focusing on multiple models, strategies and datasets. The remainder of the paper is organized as follows: Sect. 2 reviews related work on semantic segmentation, unsuper- vised domain adaptation and model merging. In Sect. 3, details the core hypothesis of this work: initial layers should be merged differently from nal layers. It also introduces the proposed layer-wise model merging technique to addressthese discrepancies; Sect. 4 presents our experimental results, focusing on the following scenarios: (1) merging model weights derived at different epochs of training, (2) merging model weights derived from different training frameworksbut with a common architecture, (3) merging model weights derived from different architectures for the same task and (4) merging model weights derived from different tasks; Finally, Sect.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_011",
+      "group": "QnA",
+      "label": "",
+      "question": "How does model merging benefit unsupervised domain adaptation according to the research findings?",
+      "answer": "Model merging enhances unsupervised domain adaptation by improving performance metrics such as mloU by up to 6.8% and mPQ by 7%, while also allowing the integration of high-performing yet computationally expensive models with faster, less accurate ones.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 5provides insights from the experiments and suggests future directions for research in model merging. 123 Layer-wise model merging for UDA 2 Related work 2.1 Architectures for segmentation tasks Segmentation architectures have transitioned from convolution-based designs to transformer-based frameworks[38]. Along this evolution, researchers have developed uni- versal segmentation methods capable of addressing multi- ple segmentation tasks [ 39], open-vocabulary approaches for segmenting arbitrary categories [ 40] and label-ef cient strategies aimed at reducing annotation demands [ 41]. How- ever, despite these advancements, universal models stilldepend on labeled data from each target task [ 38,39], and open-vocabulary and label-ef cient approaches often underperform compared to specialized task-speci C modelsderived from UDA [ 40,42,43]. Notably, across all archi- tectures, model parameters are learned in a smooth and continuous manner through gradient descent [ 17,37,41]. This continuity allows for parameter merging or stabiliz-ing the learning through techniques like exponential moving average of the weights without disrupting the learned repre- sentations. In the context of UDA, where alignment lossesmay sometimes con ict, parameter merging emerges as a promising strategy. The merging of model weights derived from different UDA methods could leverage their individ-ual strengths to enhance overall segmentation performance, therefore offering a uni ed approach to reconcile variations across methods, tasks and domains.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_012",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main objective of the proposed layer-wise model merging method in the context of unsupervised domain adaptation (UDA)?",
+      "answer": "The main objective of the proposed layer-wise model merging method is to combine the distinct strengths of different models trained on various datasets and tasks while maintaining parameter consistency across layers to enhance performance without incurring additional training costs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL: https://doi.org/10.1007/s00371-025-03843-7 The Visual Computer https://doi.org/10.1007/s00371-25-3843-7 RESEARCH Layer-wise model merging for unsupervised domain adaptation in segmentation tasks Roberto Alcover-Couso1 Juan C. SanMiguel1 Marcos Escudero-Vi olo1 Jos M. Mart nez1 Accepted: 7 February 2025 The Author(s) 2025 Abstract Merging parameters of multiple models has resurfaced as an effective strategy to enhance task performance and robustness, but prior work is limited by the high costs of ensemble creation and inference. In this paper, we leverage the abundance of freely accessible trained models to introduce a cost-free approach to model merging. It focuses on a layer-wise integration ofmerged models, aiming to maintain the distinctiveness of the task-speci C nal layers while unifying the initial layers, which are primarily associated with feature extraction. This approach ensures parameter consistency across all layers, essential for boosting performance. Moreover, it facilitates seamless integration of knowledge, enabling effective merging of modelsfrom different datasets and tasks. Speci cally, we investigate its applicability in unsupervised domain adaptation (UDA), an unexplored area for model merging, for semantic and panoptic segmentation.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_013",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the proposed layer-wise model merging approach differ from previous methods of model merging?",
+      "answer": "The proposed approach uniquely merges initial layers that focus on feature extraction while maintaining the distinctiveness of task-specific final layers, allowing effective integration of models from various datasets and tasks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In response, teacher student distillation has emerged as a standard technique for improving UDA training stability[2,3,16,17]. Although the teacher student framework has proven effective across various UDA setups and alignment losses, the underlying alignment techniques themselves may not share this level of success. Joint application of differ-ent alignment losses has been shown to be challenging and sometimes counterproductive [ 18 20], leading to existing approaches favor model ensembling for leveraging multi-ple alignment strategies, despite its increased computational costs from requiring inference across multiple models [ 16, 21,22]. Model merging presents a promising alternative for over- coming the unstable training dynamics of UDA. By com- bining weights derived from different models and setups, this technique effectively integrates the strengths of variousalignment strategies without incurring additional computa- 123 R. Alcover-Couso et al. Fig. 1 Performance comparison for the UDA Synthia-to-Cityscapes setup. Most state-of-the-art UDA methods build up from DAFormer[3] by adding computationally expensive blocks. In contrast, we lever-age the obtained checkpoints during training to improve performance without incurring any associated training or inference overhead tional overhead. Since parameter merging only requires a single model inference, it offers a computationally ef cient solution [ 23 26].",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_014",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What additional techniques are mentioned in relation to selecting explanatory variables for the SADFM?",
+      "answer": "The techniques include Least Absolute Shrinkage and Selection Operator (LASSO), Elastic Nets (EN), and Autometrics.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, using the nonlinear factor-augmentedregression proposed by Bai and Ng ( 2008 ), he concludes that the polynomial terms of the factors are not signi cant and, therefore, the EKC is not found in the short run. More recently, Bennedsen et al. ( 2021 ) propose a structural augmented dynamic factor model (SADFM) for annual CO 2emissions in the US. As in Fosten ( 2019 ), the economic activity is represented by common factors, which are extracted from a large set of annual macroeconomic US variables using the two-step Kalman Iter (2SKF) procedure of Doz et al. ( 2011 ) instead of PC. The SADFM also includes additional explanatory variables selected from the same set of economic variables byusing procedures based on Least Absolute Shrinkage and Selection Operator (LASSO) of Tibshirani ( 1996 ), Elastic Nets (EN) of Zou and Hastie ( 2005 ) and Autometrics of Doornik ( 2009 ) and Doornik and Hendry ( 2009 ). They conclude that, once the selected explanatory variables, in particular, Industrial Production (IP), are included in the model, the explanatory power of the factors is negligible.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_015",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What approach did Hao et al. (2020) take to enhance the performance of ELM?",
+      "answer": "They used improvements of ELM in the decomposition and ensemble model.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In the prediction process, extreme learning machine (ELM) with fewer training parame- ters has demonstrated an outstanding generalization ability and a faster execution speed in comparison to the arti cial neural network algorithms. Nonetheless, it has displayed some shortcomings in parameter settings (Ali, et al., 2021 ), resulting in numerous applications of ELM, combined with intelligent optimization algorithm in predicting carbon prices (Sun & Duan, 2019 ; Sun & Zhang, 2018 ; Zhang et al., 2019 ; Zhou et al, 2019 ). In addition, Hao et al. ( 2020 ) used the improvements of ELM in the decomposition and ensemble model. The ELM optimization models not only remedied the limitations of dealing with nonlinearity and chaos problems, but also performed robustly in the eld of related energy price forecasting tasks. In light of the above backdrop, this paper presents a neoteric forecasting model with the framework of decomposition-reconstruction-prediction-ensemble, based on the non- stationary, non-linear, multi-scale and chaotic features of carbon prices. The main innovations and contributions are as follows: (1) Carbon price data of eight pilots in China are taken as samples.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_016",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How are the variables for the regression model selected in the study?",
+      "answer": "The variables are selected using Machine Learning procedures.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In this paper, we analyse the relationship between the rate of growth of CO 2emissions and economic activity in Spain from 1964 to 2020. We explain CO 2emissions by tting a structural regression model with selected indicators of economic activity augmentedwith dynamic common factors extracted from a large macroeconomic database, as explanatory variables. The variables to include in the regression are selected using Machine Learning procedures while we use alternative supervised and non-supervisedprocedures to extract the factors. We nd that, regardless of the procedure used for variable selection, private consumption and maritime transportation have the highest explanatory power for the rate of growth of emissions. We also show that the waythe common factors are extracted is crucial to exploit their information content. The common factors extracted by partial least squares add valuable information on top of that of the selected individual indicators, while they are not signi cant when extractedby two-step-Kalman Iter (2SKF). Keywords Dynamic factor models LASSO Partial least squares V ariable selection 1 Introduction The addition of greenhouse gases (GHG) to the atmosphere disturbs the earth S radia- tive balance, leading to an increase in the earth S surface temperature and to related effects on climate, sea level rise, ocean acidi cation and world agriculture, amongother effects.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_017",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What statistical techniques are mentioned for selecting additional explanatory variables in the SADFM?",
+      "answer": "The techniques mentioned include Least Absolute Shrinkage and Selection Operator (LASSO), Elastic Nets (EN), and Autometrics.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, using the nonlinear factor-augmentedregression proposed by Bai and Ng ( 2008 ), he concludes that the polynomial terms of the factors are not signi cant and, therefore, the EKC is not found in the short run. More recently, Bennedsen et al. ( 2021 ) propose a structural augmented dynamic factor model (SADFM) for annual CO 2emissions in the US. As in Fosten ( 2019 ), the economic activity is represented by common factors, which are extracted from a large set of annual macroeconomic US variables using the two-step Kalman Iter (2SKF) procedure of Doz et al. ( 2011 ) instead of PC. The SADFM also includes additional explanatory variables selected from the same set of economic variables byusing procedures based on Least Absolute Shrinkage and Selection Operator (LASSO) of Tibshirani ( 1996 ), Elastic Nets (EN) of Zou and Hastie ( 2005 ) and Autometrics of Doornik ( 2009 ) and Doornik and Hendry ( 2009 ). They conclude that, once the selected explanatory variables, in particular, Industrial Production (IP), are included in the model, the explanatory power of the factors is negligible.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_018",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the key machine learning models identified as effective for predicting carbon prices?",
+      "answer": "The key machine learning models identified are Support Vector Regression (SSA-SVR) and Least Squares Support Vector Regression (SSA-LSSVR), which have shown strong performance in predicting carbon prices.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Accurate carbon price forecasting can better allocate carbon emissions and thus ensure abalance between economic development and potential climate impacts. In this paper, wepropose a new two-stage framework based on processes of decomposition and re-estimationto forecast prices across international carbon markets. We focus on the Emissions TradingSystem (ETS) in the EU, as well as the ve main pilot schemes in China, spanning the periodfrom May 2014 to January 2022. In this way, the raw carbon prices are rst separated intomultiple sub-factors and then reconstructed into factors of trend and period with the useof Singular Spectrum Analysis (SSA). Once the subsequences have been thus decomposed,w further apply six machine learning and deep learning methods, allowing the data to beassembled and thus facilitating the prediction of the nal carbon price values. We nd thatfrom amongst these machine learning models, the Support vector regression (SSA-SVR) andLeast squares support vector regression (SSA-LSSVR) stand out in terms of performance forthe prediction of carbon prices in both the European ETS and equivalent models in China. Another interesting nding to come out of our experiments is that the sophisticated algorithmsare far from being the best performing models in the prediction of carbon prices.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_019",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What types of learning models were selected for the framework in this study?",
+      "answer": "Four generally best-performing learning models and two common deep learning models, Recurrent Neural Network (RNN) and Long short-term memory (LSTM).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We select four generally best-performing learning models and two common deep learning models, Recurrent Neural Network (RNN) and Long short-term memory (LSTM). We then ensemble the results for each sub-factor using the bestperforming prediction model to obtain the nal prediction values for the carbon prices. Theadvantages of this type of framework are that we do not assume in advance that any learningmodel will perform better in terms of prediction, but instead try all algorithms which haveperformed historically well in previous experiments. This openness allows our results to bebetter adapted to the characteristics of the data distribution of the carbon price series. Suchdata-driven algorithms are more appropriate and applicable to a wider variety of scenarios. The nal prediction results are equivalent to incorporating the optimal prediction valuesof each decomposition sequence, and therefore clearly outperform the prediction resultsof one single algorithm. Moreover, the framework in this paper is easily interpretable andextendable, allowing for the inclusion of more feature variables, to further improve theprediction ef ciency of the algorithm. Our study is closely related to the literature that applies the structure of rst decomposing the raw carbon price series and then inputting the results into machine learning models, forinstance Li et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_020",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodology is used to select variables for the regression model in the study?",
+      "answer": "Machine Learning procedures are used for variable selection.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In this paper, we analyse the relationship between the rate of growth of CO 2emissions and economic activity in Spain from 1964 to 2020. We explain CO 2emissions by tting a structural regression model with selected indicators of economic activity augmentedwith dynamic common factors extracted from a large macroeconomic database, as explanatory variables. The variables to include in the regression are selected using Machine Learning procedures while we use alternative supervised and non-supervisedprocedures to extract the factors. We nd that, regardless of the procedure used for variable selection, private consumption and maritime transportation have the highest explanatory power for the rate of growth of emissions. We also show that the waythe common factors are extracted is crucial to exploit their information content. The common factors extracted by partial least squares add valuable information on top of that of the selected individual indicators, while they are not signi cant when extractedby two-step-Kalman Iter (2SKF). Keywords Dynamic factor models LASSO Partial least squares V ariable selection 1 Introduction The addition of greenhouse gases (GHG) to the atmosphere disturbs the earth S radia- tive balance, leading to an increase in the earth S surface temperature and to related effects on climate, sea level rise, ocean acidi cation and world agriculture, amongother effects.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_021",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methods are used for variable selection in the regression model?",
+      "answer": "Machine Learning procedures are used for variable selection in the regression model.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In this paper, we analyse the relationship between the rate of growth of CO 2emissions and economic activity in Spain from 1964 to 2020. We explain CO 2emissions by tting a structural regression model with selected indicators of economic activity augmentedwith dynamic common factors extracted from a large macroeconomic database, as explanatory variables. The variables to include in the regression are selected using Machine Learning procedures while we use alternative supervised and non-supervisedprocedures to extract the factors. We nd that, regardless of the procedure used for variable selection, private consumption and maritime transportation have the highest explanatory power for the rate of growth of emissions. We also show that the waythe common factors are extracted is crucial to exploit their information content. The common factors extracted by partial least squares add valuable information on top of that of the selected individual indicators, while they are not signi cant when extractedby two-step-Kalman Iter (2SKF). Keywords Dynamic factor models LASSO Partial least squares V ariable selection 1 Introduction The addition of greenhouse gases (GHG) to the atmosphere disturbs the earth S radia- tive balance, leading to an increase in the earth S surface temperature and to related effects on climate, sea level rise, ocean acidi cation and world agriculture, amongother effects.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_022",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What explanatory variables selection methods were used in the SADFM?",
+      "answer": "The SADFM used methods based on Least Absolute Shrinkage and Selection Operator (LASSO), Elastic Nets (EN), and Autometrics.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, using the nonlinear factor-augmentedregression proposed by Bai and Ng ( 2008 ), he concludes that the polynomial terms of the factors are not signi cant and, therefore, the EKC is not found in the short run. More recently, Bennedsen et al. ( 2021 ) propose a structural augmented dynamic factor model (SADFM) for annual CO 2emissions in the US. As in Fosten ( 2019 ), the economic activity is represented by common factors, which are extracted from a large set of annual macroeconomic US variables using the two-step Kalman Iter (2SKF) procedure of Doz et al. ( 2011 ) instead of PC. The SADFM also includes additional explanatory variables selected from the same set of economic variables byusing procedures based on Least Absolute Shrinkage and Selection Operator (LASSO) of Tibshirani ( 1996 ), Elastic Nets (EN) of Zou and Hastie ( 2005 ) and Autometrics of Doornik ( 2009 ) and Doornik and Hendry ( 2009 ). They conclude that, once the selected explanatory variables, in particular, Industrial Production (IP), are included in the model, the explanatory power of the factors is negligible.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_023",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodologies are used for variable selection in the regression model described in the paper?",
+      "answer": "Machine Learning procedures are used for variable selection in the regression model described in the paper.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In this paper, we analyse the relationship between the rate of growth of CO 2emissions and economic activity in Spain from 1964 to 2020. We explain CO 2emissions by tting a structural regression model with selected indicators of economic activity augmentedwith dynamic common factors extracted from a large macroeconomic database, as explanatory variables. The variables to include in the regression are selected using Machine Learning procedures while we use alternative supervised and non-supervisedprocedures to extract the factors. We nd that, regardless of the procedure used for variable selection, private consumption and maritime transportation have the highest explanatory power for the rate of growth of emissions. We also show that the waythe common factors are extracted is crucial to exploit their information content. The common factors extracted by partial least squares add valuable information on top of that of the selected individual indicators, while they are not signi cant when extractedby two-step-Kalman Iter (2SKF). Keywords Dynamic factor models LASSO Partial least squares V ariable selection 1 Introduction The addition of greenhouse gases (GHG) to the atmosphere disturbs the earth S radia- tive balance, leading to an increase in the earth S surface temperature and to related effects on climate, sea level rise, ocean acidi cation and world agriculture, amongother effects.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_024",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to select the variables included in the regression model?",
+      "answer": "Machine Learning procedures were used for variable selection.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In this paper, we analyse the relationship between the rate of growth of CO 2emissions and economic activity in Spain from 1964 to 2020. We explain CO 2emissions by tting a structural regression model with selected indicators of economic activity augmentedwith dynamic common factors extracted from a large macroeconomic database, as explanatory variables. The variables to include in the regression are selected using Machine Learning procedures while we use alternative supervised and non-supervisedprocedures to extract the factors. We nd that, regardless of the procedure used for variable selection, private consumption and maritime transportation have the highest explanatory power for the rate of growth of emissions. We also show that the waythe common factors are extracted is crucial to exploit their information content. The common factors extracted by partial least squares add valuable information on top of that of the selected individual indicators, while they are not signi cant when extractedby two-step-Kalman Iter (2SKF). Keywords Dynamic factor models LASSO Partial least squares V ariable selection 1 Introduction The addition of greenhouse gases (GHG) to the atmosphere disturbs the earth S radia- tive balance, leading to an increase in the earth S surface temperature and to related effects on climate, sea level rise, ocean acidi cation and world agriculture, amongother effects.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_025",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which machine learning techniques are mentioned as effective for classifying and predicting land use and land cover changes?",
+      "answer": "The machine learning techniques mentioned include random forest (RF), support vector machine (SVM), K-nearest neighbor (KNN), and multivariate adaptive regression splines (MARS).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The implications of this study extend far beyond the basin of interest. It highlights the broader rel- evance of integrating machine learning, remote sensing, and biophysical data to understand urban dynamics. Machine learning techniques such as ran- dom forest (RF), support vector machine (SVM), K-nearest neighbor (KNN), and multivariate adap- tive regression splines (MARS) have proven to be powerful tools for classifying and predicting land use and land cover (LULC) changes (Amani et al., 2020; Kang & Kanniah, 2022). Using computing platforms like Google Earth Engine allows for the rapid pro- cessing of extensive spatial datasets, making it possi- ble to detect and analyze urban changes even in data- scarce regions (Sun et al., 2021; Tankpa et al., 2020). This approach underscores the global potential of such methodologies to monitor urban transformations and their environmental impacts, enabling researchers Environ Monit Assess (2025) 197:441 441 Vol. : (123456789) and policymakers to address urban sustainability challenges effectively. The integration of biophysical variables into these analyses not only enhances our understanding of how urbanization alters ecosystems but also provides a pathway for data-driven decision- making in managing urban growth across diverse contexts, particularly in rapidly developing regions.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_026",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which machine learning model demonstrated the lowest kappa statistic in the study?",
+      "answer": "The K-nearest neighbors (KNN) model demonstrated the lowest kappa statistic at 0.45.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The findings revealed overall accuracy of 0.80, 0.73, 0.71, and 0.72 and kappa statistics of 0.60, 0.46, 0.42, and 0.45 for random forest (RF), multivariate adaptive regression splines, support vector machine, and KNN, respectively, with RF emerging as the most accurate model (80%) for predicting urban change patterns in KRB. Land cover changes reveal rapid urban expan- sion (154.81%), declining water bodies ( 95.79%), and vegetation growth (174%). Machine learning mod- els identify population density and water stress index as key urban change drivers, with climate factors like temperature and precipitation playing crucial roles. The results of this study offer valuable insights into the processes driving urban transformation and present a robust methodology for monitoring and predicting future urban development. This study aids in the crea- tion of strategies for sustainable urban growth and the mitigation of adverse environmental impacts.O. S. Durowoju (*) S. Adelabu Department of Geography, University of the Free State, Bloemfontein Campus, Bloemfontein, South Africa e-mail: olufemidurowoju@gmail.com S. Adelabu e-mail: AdelabuSA@ufs.ac.za O. S. Durowoju Department of Geography, Osun State University, Okuku Campus, Okuku, Nigeria R. O. Obateru Department of Geography, University of Ibadan, Ibadan, Oyo State, Nigeria e-mail: obaterurotimi@gmail.com A. Olusola Faculty of Environmental and Urban Change, York University, Toronto, ON, Canada e-mail: aolusola@yorku.ca Environ Monit Assess (2025) 197:441 441 Vol:.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Ml air quality recognition",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_009",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_010",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_011",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_012",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_013",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_014",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_015",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_016",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_017",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_018",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_019",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_020",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_021",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_022",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_023",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_024",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_025",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Ml air quality recognition_qna_026",
+      "value": 1
+    }
+  ]
+}

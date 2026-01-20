@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Corridor buffer zones",
+      "label": "Corridor buffer zones",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Corridor buffer zones_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Where is the disturbed edge habitat (MH1) located in relation to the concessional agricultural lands?",
+      "answer": "The disturbed edge habitat (MH1) is located approximately 2 km west of the concessional agricultural lands at the eastern border of the Paso Caballos community.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1). The Tropical Moist Forest (Holdridge 1967) of EBG consists of several habitat types including both primary and secondary forest, saw- grass swamp and thorn scrub. It is bordered to the east by concessional agricultural lands that belong to the nearby Q eqchi Maya community of Paso Caballos. The work extends on Griffin (2022 unpublished thesis) and Griffin et al. (2023). Field methods Sampling was conducted in one disturbed edge habitat (named disturbed habitat and assigned the code MH1), two primary forest habitats (named forest habitat with the code MH2), and one secondary habitat with natural edge (named edge habitat with the code MH3) (Fig. 2). Surveys in dis- turbed habitat (MH1) were conducted at the eastern border Oecologia (2025) 207:52 52 with the concessional agricultural lands of the Paso Caballos approximately 2 km east of EBG. This area has been subject to relatively high levels of disturbance from the clearing activities related to the concessions and is considered sec - ondary forest. Forest habitat (MH2) surveys were conducted in two undisturbed forest locations and consisted of mature humid tropical forest that is characterized by relatively low canopy (ca.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Corridor buffer zones",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Corridor buffer zones_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What importance do the reference points hold according to the paragraph?",
+      "answer": "The reference points are important as remnants of the original vegetation and allow for free transit of people, which is not possible in other similar areas that are private property or insecure.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In addition to the importance of the reference points as remnants of the original vegetation, those areas allow for the free transit of people, in contrast with some other similar areas in the surroundings of Xalapa that are private property or insecure places non-suitable for surveying. Unfortunately, urban and agricultural sprawl in the Southeast region of the study area makes it almost impossible to survey a similar sampling design for a tropical dry forest representation, restricting the analyses only to the other two types of vegetation in the region. To analyze comparable samples, we randomly selected subgroups for the urban and reference survey sites. Given the location of the reference sites, we drew line limits of 1 min (~ 11.1 km) above and below the location of each reference site. Within those bands, we selected subgroups of nine survey sites each from the available pool that var - ied in amount because of the irregular shape of the urban continuum of Xalapa. The final number of subgroups and zones analyzed is as follows: one North reference, one North urban, two center urban, one South reference, and two South urban subgroups (Fig.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Corridor buffer zones",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Corridor buffer zones",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Corridor buffer zones_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Corridor buffer zones",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Corridor buffer zones_qna_001",
+      "value": 1
+    }
+  ]
+}

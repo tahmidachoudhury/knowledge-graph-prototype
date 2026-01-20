@@ -1,0 +1,514 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "label": "Biochemical conversion of biomass",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which R package was used for converting data other than BALTRAD_VPTS?",
+      "answer": "The R package used for conversion was bioRad.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This format defines all measurements, facilitating standardized data exchange. While this process removes some meta - data, it does not reduce the amount of data records, nor does it statistically aggregate data. BALTRAD_VPTS data from 2018 to 2023 were converted using the Python package vptstools33 as part of an operational service. All other data were converted using the R package bioRad34,35 (see Fig. 1). We first created daily CSV files per radar (298 498 files) and then concatenated and gzipped these into monthly csv.gz files (10 991 files). The VPTS files are more storage efficient than the VP files, allowing faster downloads and analyses. For the same time period, daily files were on average 25% of the original VP file size, monthly files 6%. Long-term archiving. Finally, we performed a data format validation on all VPTS data using the Python library frictionless-py36 (see Technical Validation) and archived the monthly-packaged data on Zenodo, a free-to-use, general-purpose research repository. One deposit was created for each source (BALTRAD and UvA). Fig.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the choice of pre-treatment influence ethanol production from textile waste?",
+      "answer": "The investigated production processes for ethanol production from textile waste are significantly influenced by the pre-treatments undergone by the substrate. Processes without strong acid and base pre-treatments but utilizing organosol vents and hydrothermal processes tend to yield higher results.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_002",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What is the traditional production pathway of PLA?",
+      "answer": "The traditional production pathway involves treating corn seeds with enzymes to break down sugars, fermenting with bacteria to produce lactic acid, and then esterifying and polymerizing the lactic acid to form PLA.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the advantage of chemical pretreatment in the conversion process of textiles through enzymatic hydrolysis?",
+      "answer": "Chemical pretreatment allows for an increase in enzymatic hydrolysis yield and a reduction in the amount of enzyme required for hydrolysis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the drawback of chemical pretreatment in the conversion process of textiles through enzymatic hydrolysis?",
+      "answer": "A drawback of chemical pretreatment is the relatively modest yields, approximately around 60%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_005",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is alkaline pretreatment used in the process of fibre treatment?",
+      "answer": "Alkaline pretreatment is used to induce swelling of the biomass's porous structure, increase enzyme accessibility, enhance lignin solubility, reduce cellulose crystallinity, and make it more digestible.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_006",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What is steam explosion, and how does it affect cellulose in the pretreatment process?",
+      "answer": "Steam explosion is a thermos-Meccano-chemical process involving heating with steam at elevated temperatures and pressures. It induces the expansion of moisture through shear forces and the hydrolysis of glycosidic bonds within cellulose. While it minimizes material loss, it has a limited ability to increase enzymatic yield and incurs high costs for acid catalysts and thermal energy expenses.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_007",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What type of column was used to analyse glucose and ethanol during enzymatic hydrolysis and fermentation?",
+      "answer": "Glucose and ethanol were analysed using a hydrogen-base ion exchange column during enzymatic hydrolysis and fermentation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_008",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What common variables are found in various studies related to the processing steps of textile waste hydrolysis?",
+      "answer": "The common variables found in various studies include the type of substrate, type of pretreatment, and its operation conditions, as well as the type of hydrolysis and its operation conditions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_009",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What is biological pretreatment known for, and how does it compare to classical acid-base pretreatments?",
+      "answer": "Biological pretreatment is known for microbial degradation of feedstock, particularly lignocellulosic materials. Compared to classical acid-base pretreatments, it offers a more environmentally friendly and sustainable approach, reducing the need for harsh chemicals and minimizing energy consumption.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_010",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How are microorganisms with enzymes utilized in transforming agri-food waste?",
+      "answer": "Microorganisms with enzymes are utilized in transforming agri-food waste by breaking down complex organic matter into simpler compounds through enzymatic action, facilitating the conversion of waste into valuable products such as biofuels or fertilizers.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_011",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How is the hydrolysis yield equation structured according to Bonding et al., 2023?",
+      "answer": "The hydrolysis yield equation is structured as follows: Hydrolysis yield (%) = (Amount of glucose released / Amount of initial glucose in substrate) AWAY 1.111 * 100%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_012",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "Why is enzymatic hydrolysis considered the final degradation process in obtaining building blocks from textile fibres?",
+      "answer": "Enzymatic hydrolysis is considered the final degradation process because the enzymes used are highly selective and can degrade only one of the two fractions, making the separation of phases easier in different production steps.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_013",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How does an enzymatic complex induce a morphological change in textile fibres during the hydrolysis of the natural fibre component?",
+      "answer": "An enzymatic complex induces a morphological change in textile fibres during hydrolysis by addressing factors to increase the availability of cellulose chains for reaction with enzymes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_014",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What are the three different enzymes integrated in celluloses for the specific conversion of cellulose into glucose?",
+      "answer": "Celluloses integrate endoglucanases, exoglucanases, and beta-glucosides for the specific conversion of cellulose into glucose.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_015",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are the most commonly used commercial enzymes for biomass hydrolysis, and how are they utilized?",
+      "answer": "The most commonly used commercial enzymes for biomass hydrolysis are Cellular and Celtic CTec2 from Coenzymes. They are often combined with AKAÃ‚Â²-glucoside, which splits cello biose into two glucose units.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_016",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the advantages and disadvantages of enzymatic hydrolysis for biomass conversion?",
+      "answer": "One advantage of enzymatic hydrolysis is the mild conditions it requires, resulting in lower energy and plant costs. However, a disadvantage is the longer reaction time compared to hydrolysis with strong bases or acids.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_017",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What are the sources of enzymes used in fermentation?",
+      "answer": "Enzymes used in fermentation are derived from microorganisms such as bacteria, fungi, and yeasts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_018",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the advantages of simultaneous saccharification and fermentation in the context of textile waste?",
+      "answer": "Simultaneous saccharification and fermentation offer economic and environmental advantages, making it a preferred method for fermentation on textile waste.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_019",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How can enzymatic hydrolysis with reusable chemical pretreatment optimize textile waste blends of cotton and PET?",
+      "answer": "Enzymatic hydrolysis with reusable chemical pretreatment can optimize textile waste blends of cotton and PET by breaking down the polymers into simpler sugars that can be easily fermented into bioethanol, thus improving the overall efficiency of the process.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_020",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How does ionic liquid pretreatment enhance enzymatic saccharification in the production of bacterial cellulose from cotton-based waste textiles?",
+      "answer": "Hong et al. (2012) discuss how the pretreatment of waste cotton textiles with ionic liquid improves the efficiency of enzymatic saccharification, leading to enhanced production of bacterial cellulose.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_021",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What are some pretreatment processes for converting cotton waste biomass to ethanol?",
+      "answer": "Some pretreatment processes for converting cotton waste biomass to ethanol include mechanical, chemical, and biological methods.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_022",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What is the purpose of chemical pretreatment methods in improving saccharification of cotton stalks?",
+      "answer": "Chemical pretreatment methods aim to break down the lignocellulosic structure of cotton stalks, making it easier for enzymes to hydrolyse cellulose into sugars during saccharification.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_023",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How do Vera et al. propose to transform textile wastes into bio-based building blocks?",
+      "answer": "Vera et al. propose to transform textile wastes into bio-based building blocks through enzymatic hydrolysis, highlighting key challenges and opportunities in the process.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_024",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How can plant protein ingredients be generated apart from direct extraction from plants?",
+      "answer": "Plant protein ingredients can also be generated through microbial fermentation, which is considered as an innovative and emerging field in cellular agriculture.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666154324000255",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biochemical conversion of biomass",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_009",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_010",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_011",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_012",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_013",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_014",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_015",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_016",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_017",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_018",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_019",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_020",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_021",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_022",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_023",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biochemical conversion of biomass_qna_024",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts",
+      "label": "Forest restoration efforts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How successful have global efforts been in active restoration focused on canopy-forming species?",
+      "answer": "There are few globally successful examples, and success has typically occurred in very small areas of only a few dozen square meters.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These habitats, which are recognised for their high ecological value, are classified as large shallow inlets and bays, code 1160 within the Natura 2000 framework and protected under the European Union (EU) Habitats Directive, but not protected in France; in some instances, the degradation is so severe that natural recovery is nearly impossible in the short (years) or medium term (decades), even when the causes of their collapse have been removed. The natural recovery of Cystoseira sensu lato forests is frequently unachievable, even in instances where isolated natural recolonisation has been documented45,53,57. Restoration initiatives are frequently employed as a means of reinstating past ecosystem functions58. The practice of ecological restoration has emerged as a critical measure for the management of heavily degraded ecosystems59,60 The Convention on Biological Diversity has set restoration targets61, and, in 2020, the United Nations declared the United Nation Decade of ecosystem restoration 2021 2030 62. This was followed by the proposed EU Nature Restoration Law63. There are few globally successful examples of active restoration that are focused on the recovery of canopy-forming species and success always occurred on a very small areas of few dozen of m (e.g64 68).",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest restoration efforts",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What approach did Valente et al. (2021) utilize for identifying priority areas for forest restoration?",
+      "answer": "Valente et al. (2021) used a mixed method of participatory analysis and multi-criteria evaluation to identify priority areas for forest restoration coupled with water-related ecosystem services.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Maleki et al. (2018) [ 28] apply Multicriteria-Spatial Decision Support System (MSDSS) for prioritization of wetland restoration using different scenarios. MCA has also been used for area prioritization through ranking of criteria. Valente et al. (2021) [29] used a mixed method of participatory analysis and multi-criteria evaluation to identify priority areas for forest restoration coupled with water related ecosystem services. The typical structure of MCA includes the identification of the relevant criteria and alter - natives from the existing theory and practice, the assignment of numerical values to criteria to indicate their relative importance and to quantify the impacts of the alternatives on these criteria, and the use of a formal mathematical procedure for analyzing numerical values to determine the ranking (priorities) of the alternatives [ 30]. The objective of this study is to present the development of a participatory and replicable MCA methodology and its application at in-person or online workshops, through a tool for identifying and prioritizing NBS/BES that cover the WEFE nexus and have a considerable impact on socio-economic parameters [ 2, 4].",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest restoration efforts",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest restoration efforts_qna_001",
+      "value": 1
+    }
+  ]
+}

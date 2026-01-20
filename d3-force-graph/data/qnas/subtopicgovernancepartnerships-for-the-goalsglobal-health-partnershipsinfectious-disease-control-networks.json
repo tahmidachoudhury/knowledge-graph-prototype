@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global health partnerships|Infectious disease control networks",
+      "label": "Infectious disease control networks",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global health partnerships"
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global health partnerships|Infectious disease control networks_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "In what fields has network theory been widely applied?",
+      "answer": "Network theory has been applied to analyze interconnected systems in genetic regulation, transportation, and soil microbiology.",
+      "macroArea": "Governance",
+      "articlesourceurl": "",
+      "paragraph": " Compared to ABM and SD methods, network theory accounts for both the macrostructure of the system and the microdynamic changes of its components. Moreover, it requires lower computational costs, making it suitable for complex systems with a large number of components. Network theory has been widely applied to analyze interconnected systems in genetic regulation36, transportation37, and soil microbiology38. In this framework, a network comprises nodes that represent system elements with links that characterize their interactions. Network attributes (e.g., connectance and modularity) characterize the relative importance of various components within a system and the degree of their interconnections, providing comprehensive indicators to quantify the coupled relationships in SESs12,30. The Y angtze River Basin (YRB) serves as a vital ecological shield, energy hub, and agricultural heartland of China. However, with accelerating urbanization and an increase in extreme weather events, the human- environment relationship in the YRB is deteriorating, the ecosystem supply capacity is decreasing, and watershed ecological problems are prominent39. To address these challenges and achieve sustainable ecosystem development, it is crucial to understand how socio-ecological systems (SESs) in the YRB respond to shifting environmental conditions.",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global health partnerships",
+      "subtopic": "Infectious disease control networks",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global health partnerships|Infectious disease control networks",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global health partnerships|Infectious disease control networks_qna_000",
+      "value": 1
+    }
+  ]
+}

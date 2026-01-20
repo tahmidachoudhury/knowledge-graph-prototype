@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Process optimization techniques",
+      "label": "Process optimization techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Process optimization techniques_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the approach proposed by Khalilpourazari et al. contribute to optimizing production processes in the presence of imperfections and rework?",
+      "answer": "The approach provides a robust fuzzy approach that can help in optimizing production processes by considering imperfections and rework, leading to improved efficiency and cost-effectiveness.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0952197624002720",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Process optimization techniques",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Process optimization techniques",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Process optimization techniques_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience",
+      "label": "Agroforestry for climate resilience",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What do the interviews suggest about farmers' preferences for agroforestry versus full-sun methods?",
+      "answer": "The interviews suggest that 74% of respondents use agroforestry or mixed methods, indicating a preference despite government promotion of full-sun methods.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " (1234567890) local government areas were analyzed through the- matic analysis and descriptive statistics. Agroforestry constituted 18% of Ekiti land while full-sun cocoa covered 13%. Thus, 57% of cocoa cover in Ekiti State was agroforestry. The classification had overall spatial differentiation accuracy of 73.1% with a kappa statis- tic of 68% indicating substantial agreement strength between the classification and the collected validation data. Interviews were similarly aligned, with 74% of respondents using agroforestry or mixed methods. The continued use, despite government promotion of full-sun methods, suggests limited policy uptake and the enduring value of agroforestry for farmers. This research can contribute to improved monitoring of cocoa-driven tree loss and provide important context for policy and program design to enhance climate change adaptation in similar cocoa producing regions. Keywords Cocoa agroforestry Climate change Remote sensing Land classification Land management Policy Introduction Cocoa (Theobroma cacao L) is one of West Africa S largest agricultural commodities, supplying the world with popular products such as chocolate, cosmetics, and pharmaceuticals (Torres and van Seters 2016; Kim et al. 2011).",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Agroforestry for climate resilience",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main topic discussed in the review by D. Wang et al. on nanoscience and nanotechnology in food and agroforestry?",
+      "answer": "The main topic discussed in the review by D. Wang et al. is the application of nanoscience and nanotechnology in food and agroforestry.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666154324000255",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Agroforestry for climate resilience",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Agroforestry for climate resilience_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "label": "Wildlife habitat evaluation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which modeling techniques were used in the study to assess the habitat suitability of I. griffithii?",
+      "answer": "The study utilized an ensemble model incorporating GLM, MARS, MaxEnt, RF, and SVM.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This approach is particularly valuable for informing adaptive management strategies for endangered species such as Illicium griffithii . The objective of the present study was to identify potential distribution for I. griffithii in Arunachal Pradesh under different climate scenarios and to determine key environmental factors that affect these distributions. The study hypothesizes that there will be no significant effect of climate change on species distribution of I. griffithii . To figure out the habitat suitability and potential distribution of I. griffithii we utilized an ensemble model incorporating GLM, MARS, MaxEnt, RF, and SVM. Bioclimatic variables from the HadGEM3-GC31-LL and soil parameters were used as environmental predictors. And we specifically studied climate change scenarios under SSP245 and SSP585 for the periods 2041 2060 and 2061 2080. Materials and methods Study area Arunachal Pradesh, recognized globally as a biodiversity hotspot29, is located in northeastern India. The state lies between latitudes 26 30 N to 29 30 N and longitudes 91 30 E to 97 30 E, covering an area of 83,743 km (Fig. 1). Arunachal Pradesh shares borders with Bhutan to the west, China to the north and northeast, Myanmar to the east, and Assam to the south.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat evaluation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is one drawback of relying solely on one SDM to assess habitat suitability?",
+      "answer": "Relying on only one SDM can lead to substantial deviations in results by introducing biases and limiting the accuracy of predictions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " SDMs have a broad range of applications, addressing fields of ecology, geographical ecology, epidemiology, wildlife management, evolution and conservation studies11, 12. Kaky and Gilbert (2016)13 reported use of SDM with the MaxEnt algorithm to study the potential of Egypt S protected areas in conserving endemic medicinal plants. They developed individual SDMs for each species and combined them into a single species richness layer, which was then compared to the existing protected areas. Temperature emerged as the most influential predictor variable, significantly affecting species distribution13. Researchers have employed various SDMs to predict habitat suitability, invasive potential, and environmental drivers of species distributions, as well as medicinal compound accumulation under climate change 14 17. In recent years, SDM models have been adapted into joint, stacked and ensemble frameworks to address varied research objectives. Common SDM algorithms used include Generalized Linear Models (GLM), Maximum Entropy (MaxEnt), Random Forests (RF), Generalized Additive Models (GAM), and Multivariate Adaptive Regression Splines (MARS)18,19. Studies revealed that depending on only one SDM to assess the habitat suitability of a species can lead to substantial deviations in the results by introducing biases and limiting the accuracy of predictions20.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat evaluation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodologies were used to compare morphological traits among the birds in different study areas?",
+      "answer": "Morphological comparisons were made using ANOVA or the Kruskal-Wallis test.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This study aimed to explore the influence of anthropogenic land use on the morphology and corticosterone concentrations in two songbirds endemic to the Galapagos archipelago: the granivorous Small Ground Finch Geospiza fuliginosa and the insectivorous Galapagos Yellow Warbler Setophaga petechia aureola in San Cristobal Island. Birds were caught and measured between June and August 2018 and June and July 2019 across four areas with different human land uses: urban green areas in the coastal town of Puerto Baquerizo Moreno, natural deciduous forest in the lowlands, agricultural areas in the highlands, and seasonal evergreen forest in the highlands. Morphological comparisons among study areas were made using ANOVA or the Kurskall-Wallis test. Corticosterone levels obtained from tail feathers were measured with an ELISA test. Linear regression models were employed to explore the effects of the different human land uses on corticosterone concentrations. For G. fuliginosa , we found significant differences (p < 0.5) in weight, wing, and tarsus length between natural and disturbed habitats. The linear regression results showed higher corticosterone concentrations in urban G. fuliginosa than those in agricultural and natural habitats. Additionally, higher corticosterone concentrations were found in finches captured in 2018, a year with much higher precipitation than in 2019.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat evaluation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does MaxEnt do in the context of ecological niche modeling?",
+      "answer": "MaxEnt compares the environmental conditions of occurrence locations of a species with those of selected background locations to assess potential areas of occurrence based on environmental similarity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " (2016) documented an expansion of the geographic distribution of VB-RABV outbreaks in livestock in Peru, with a concurrent shift of D. rotundus populations into higher elevations. The expansion of D. rotundus and associated VB-RABV into southern portions of South America has also been linked to changes in the landscape and climate43,47. As such, there is sufficient evidence to suggest that future climate change may continue to shift the distribution of D. rotundus and potentially VB-RABV spillover. Ecological niche modeling can be used to assess the geographic distribution of a species fundamental or realized niche via computational assessment of species occurrence and environmental variables48 50. To assess the possible impacts of different climate change scenarios on the future distribution of D. rotundus , we evaluated multiple future climate change scenarios on the likely distribution of D. rotundus fundamental niche51. Methods We utilized ecological niche modeling-based methods to forecast the likely future distribution for D. rotundus across multiple future-climate scenarios in the Americas. We used MaxEnt52, which functions by comparing the environmental conditions of occurrence locations with those of selected background locations from the available environmental space where the species could potentially occur (i.e., environmental similarity between field observations and study area)52 54.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat evaluation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to calibrate and evaluate the ecological niche model?",
+      "answer": "The ecological niche model was calibrated and evaluated using R with the kuenm package.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A Chi-squared test was used to identify which occurrence locations fell outside of the ellipsoid. Occurrence locations significantly outside the bulk of ellipsoids ( in = 269 or 4.6% of the occurrence locations) were identified as environmental outliers (i.e., occurrence locations which do not represent the typical climate tolerances of D. rotundus) and were removed (following methods of Qiao et al. 2024). After filtering in geographic and environmental space, the remaining 5519 occurrence locations were randomly split into 50% training 50% testing subsets for model calibration and evaluation. Ecological niche modeling Ecological niche model calibration, evaluation, and projection was completed in R using the kuenm package65. While 19 different metrics of climate are available within the WorldClim database, some of these variables are correlated. To reduce background environmental variable redundancy, we used a Pearson Correlation coefficient analysis64 of all 19 variables to eliminate highly correlated variables (i.e., 0.5, n = 12). The remaining seven Fig. 1 . Occurrence Location Filtering. A Geographic Space: Filtering of Desmodus rotundus occurrence locations from 1900-202360 in geographic space.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Wildlife habitat evaluation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Wildlife habitat evaluation_qna_004",
+      "value": 1
+    }
+  ]
+}

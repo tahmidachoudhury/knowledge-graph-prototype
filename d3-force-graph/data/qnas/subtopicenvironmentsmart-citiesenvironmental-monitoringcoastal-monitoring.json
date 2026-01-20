@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Coastal monitoring",
+      "label": "Coastal monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Coastal monitoring_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are satellite data inadequate for studying nearshore and estuarine environments?",
+      "answer": "Satellite data often fail to accurately resolve nearshore and estuarine environments due to their complex shorelines and smaller spatial scales.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The lack of understanding of MHWs in estuarine systems can largely be attributed to the challenges in observing water temperature at a sufficient temporal resolution (at least daily) and maintaining the long-term records, on the order of decades, necessary to accurately characterize these events37,47,49. While satellite data are effective for broader oceanic and continental shelf studies, they often fail to accurately resolve nearshore and 1Virginia Institute of Marine Science, William & Mary, Gloucester Point, VA, USA. 2Physics Department, California Polytechnic State University, San Luis Obispo, CA, USA. email: rutzignardi@vims.edu OPEN Scientific Reports www.nature.com/scientificreports estuarine environments due to their complex shorelines and smaller spatial scales36,37,49. As a result, research using continuous, long-term in-situ data to explore the physical mechanisms behind MHWs in estuaries has been limited, despite the major ecosystem implications36,48,49. Recent research found that in Chesapeake Bay, the largest estuary in the United States, both climate change and variability played a key role in the dynamics of MHWs49. In addition to documenting increases in MHW frequency primarily driven by long-term warming resulting from anthropogenic climate change, similar to trends observed in the global ocean, they also found significant changes in the likelihood of MHW occurrence in response to different phases of climate modes of variability14,15,49.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Coastal monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Coastal monitoring",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Coastal monitoring_qna_000",
+      "value": 1
+    }
+  ]
+}

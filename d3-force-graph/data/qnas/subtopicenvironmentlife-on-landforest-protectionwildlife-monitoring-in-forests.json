@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "label": "Wildlife monitoring in forests",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of biological targets does the VP data estimate?",
+      "answer": "The VP data estimates density, speed, and direction of biological targets such as birds, bats, and insects.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " PVOL to VP data processing. We created VP data by processing PVOL data with the vol2bird algo- rithm30,31, using the default settings. A VP consists of estimated density, speed and direction of biological targets such as birds, bats and insects within a weather radar volume per altitude layer. The vol2bird algorithm uses a combination of local variation in radial velocity (VRADH) and reflectivity (DBZH) thresholds to extract animal (mainly bird) signals. Each PVOL file results in a corresponding VP file, a HDF5 file expressed in the ODIM bird profile format For BALTRAD_VPTS, data from 2012 to 2017 were obtained from the BALTRAD archive and processed to VP data once, while data from 2018 onward are created by an operational service at BALTRAD (see Fig. 1). For UVA_VPTS, data were processed once. All processing was done with vol2bird v0.3 or v0.5. The vol2bird version and used parameters are recorded in the VP metadata. 3 Scientific Data www.nature.com/scientificdata www.nature.com/scientificdata/VP to VP tS data processing. We then extracted the tabular data and relevant metadata from the VP files (55 772 262 files), combined these into time series and converted those to the VPTS CSV (v1.0) format32.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_001",
+      "group": "QnA",
+      "label": "Ecology and regulation",
+      "question": "What features of the swift parrot's foraging trees are important for its feeding habits?",
+      "answer": "The mean diameter-at-breast-height (DBH) of foraging trees is important; swift parrots typically forage on trees with a DBH of 84 cm, while younger trees with a mean DBH of 59 cm are not foraged.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Throughout the last two centuries, the nomadic swift parrot Lathamus discolor has faced significant habitat loss across its range in south-eastern Australia20. It breeds only in the island state of Tasmania, where it continues to be impacted by forestry21. The swift parrot requires extensive forested area as the distribution of food resources (i.e., flowering eucalypts) vary spatially each year across its breeding range22 and nearby nesting sites (i.e., specialized tree cavities in old trees) are scarce23,24. The loss of key habitat resources and intactness renders the parrot at elevated risk of concurrent threats (e.g. invasive species pressure, climate change), unabated population decline and extinction25,26. Forest degradation from human-uses is equivalent to habitat loss for the swift parrot. Regenerated trees from forestry practices are unlikely to attain an age or size that provide tree cavities suitable for nesting (120 220 years)19,24 or substantial food resources (i.e., the mean diameter-at-breast-height (DBH) of foraging trees is 84 cm, young trees with mean DBH 59 cm are not foraged)27, based on the comparatively short time span of silvicultural rotations in native forests (< 90 years)28.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods are ecologists using to study and monitor ecological changes?",
+      "answer": "Ecologists are increasingly using automated data collection and monitoring methods, including sensors such as cameras and acoustic recorders.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To effectively study and monitor the intricate patterns, underlying drivers, and extensive consequences of these changes, ecologists are increasingly resorting to automated data collection and monitoring methods. By utilizing sensors such as cameras and acoustic recorders, they can now monitor species of interest across spatial and temporal scales previously unattainable5 11. Among these methods, automated sound recorders (ASRs) or autonomous recording units (ARUs) are being increasingly utilized for surveys of sound-producing animals not easily monitored through image-based devices. This includes animals like birds, frogs, bats, insects, and marine mammals12 14. The applications of ARUs are expanding in scope, with some projects now amassing and analyzing hundreds of thousands of audio/ sound recordings15,16. Given that manual review of such a vast collection of audio data (i.e., sound recording data) is impractical, automated analysis techniques are essential for extracting valuable ecological information. Modern artificial intelligence (AI) techniques are increasingly applied to automated detection and localization of bioacoustic events. These techniques involve identifying sound events of interest within audio recordings and providing timestamps for the start and end times of these events17 24.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of sounds are included in field recordings mentioned in the paragraph?",
+      "answer": "Field recordings can include a broad array of sounds from diverse animals such as birds, frogs, whales, insects, and bats.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Moreover, unlike tasks like human speech recognition, field recordings can encompass a broad array of sounds from diverse animals such as birds, frogs, whales, insects, and bats, each requiring specifically annotated datasets for training37,38. These constraints not only limit the applicability of supervised models in bioacoustics but also hamper their ability to recognize classes absent from the training set, known as open set or novel species recognition. The recent emergence of Multi-Modal Language Models39 44has spurred a transformative paradigm shift within the realm of AI applications, offering unparalleled model flexibility and potential. These Multi- Modal Language Models primarily focus on aligning language concepts with other forms of data modalities, especially perceptual ones such as images and audio. This alignment marks a stark difference from traditional machine learning models that rely on supervised learning, which emphasizes sample-to-label mapping45, or unsupervised learning, which lacks a direct connection to language semantics46,47. This paradigm shift opens up new possibilities for innovative solutions to overcome the challenges posed by current supervised-learning techniques in bioacoustics sound event detection: the dependency on extensive manually annotated data and the limitation to a predefined label space in a restricted setting.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the primary development purpose of hair traps?",
+      "answer": "Hair traps were primarily developed for detecting arboreal species, specifically dormice, but can also be used for other species.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Avenant 2005; Heisler et al. 2016; Milana et al 2018; van Strien et al. 2015). Additionally, some species, e.g., Sorex araneus and S. coronatus , can be discriminated only by spe - cialists (Handwerk 1987) or with certainty using molecular methods. Other non-invasive-methods have also been developed. For example, hair traps were developed primarily for arbo- real species (dormice) but are also applicable to others (Chiron et al. 2018; Lindenmayer et al. 1999; Sanecki and Green 2005; Suckling 1978). Nest boxes are commonly used to detect the Hazel dormouse Muscardinus avellanarius (Ju kaitis 2005; Morris et al. 1990). The use of non-invasive baited tubes was invented in the UK to specifically detect the Eurasian water shrew Neomys fodiens (Churchfield et al. 2000). More recently, the application of camera traps was also refined to detect small mammals and also reptiles/ amphibians (De Bondi et al 2010; Glen et al 2013; Hobbs and Brehme 2017; Ortmann and Johnson 2021). Collection of hair samples is sometimes combined with camera traps, e.g.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is one non-invasive method used for monitoring small mammal distribution?",
+      "answer": "Owl pellet analysis is one non-invasive method used for obtaining small mammal remains.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " So, for every study with live trap- ping paperwork is required to obtain exceptions of the men- tioned laws for the specific study sites. Exceptions granted might call for frequent checking intervals for live traps in the field. Captured specimens need to be identified and released on site by small mammal experts. Thus, legal requirements, manpower and scientific training of field workers are impor - tant when considering large scale and long-term routine sur - veys using live-traps. Consequently, the use of non-invasive methods is becom- ing increasingly important for documenting small mammal distribution, and will be the main, if not the only, accepted method to do so in the near future. Some non-invasive meth- ods such as owl pellet analysis have already been in use for some time, while others have been developed specifi- cally for one or a few species. All have both advantages and limitations. Mammal Research Owl pellet analysis is a well-established method to obtain small mammal remains, but has limitations for large scale monitoring, as a) the application is limited to areas where relevant birds of prey co-occur (for small mammals mainly the barn owl Tyto alba and tawny owl Strix aluco); b) the prey preferences of the birds of prey present a bias; c) a limited range of preferred hunting grounds; and d) only the locality where the pellet is regurgitated is known, but not the locality and habitat where the prey was captured (e.g.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_006",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some limitations of owl pellet analysis for large scale monitoring?",
+      "answer": "Limitations include: a) applicability is limited to areas with relevant birds of prey, b) prey preferences of birds can introduce bias, c) limited hunting ground range, and d) known locality of pellet regurgitation but not the original habitat of the prey.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " So, for every study with live trap- ping paperwork is required to obtain exceptions of the men- tioned laws for the specific study sites. Exceptions granted might call for frequent checking intervals for live traps in the field. Captured specimens need to be identified and released on site by small mammal experts. Thus, legal requirements, manpower and scientific training of field workers are impor - tant when considering large scale and long-term routine sur - veys using live-traps. Consequently, the use of non-invasive methods is becom- ing increasingly important for documenting small mammal distribution, and will be the main, if not the only, accepted method to do so in the near future. Some non-invasive meth- ods such as owl pellet analysis have already been in use for some time, while others have been developed specifi- cally for one or a few species. All have both advantages and limitations. Mammal Research Owl pellet analysis is a well-established method to obtain small mammal remains, but has limitations for large scale monitoring, as a) the application is limited to areas where relevant birds of prey co-occur (for small mammals mainly the barn owl Tyto alba and tawny owl Strix aluco); b) the prey preferences of the birds of prey present a bias; c) a limited range of preferred hunting grounds; and d) only the locality where the pellet is regurgitated is known, but not the locality and habitat where the prey was captured (e.g.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_007",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods are mentioned for detecting small mammals and other species?",
+      "answer": "The methods mentioned include hair traps, nest boxes, non-invasive baited tubes, and camera traps.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Avenant 2005; Heisler et al. 2016; Milana et al 2018; van Strien et al. 2015). Additionally, some species, e.g., Sorex araneus and S. coronatus , can be discriminated only by spe - cialists (Handwerk 1987) or with certainty using molecular methods. Other non-invasive-methods have also been developed. For example, hair traps were developed primarily for arbo- real species (dormice) but are also applicable to others (Chiron et al. 2018; Lindenmayer et al. 1999; Sanecki and Green 2005; Suckling 1978). Nest boxes are commonly used to detect the Hazel dormouse Muscardinus avellanarius (Ju kaitis 2005; Morris et al. 1990). The use of non-invasive baited tubes was invented in the UK to specifically detect the Eurasian water shrew Neomys fodiens (Churchfield et al. 2000). More recently, the application of camera traps was also refined to detect small mammals and also reptiles/ amphibians (De Bondi et al 2010; Glen et al 2013; Hobbs and Brehme 2017; Ortmann and Johnson 2021). Collection of hair samples is sometimes combined with camera traps, e.g.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Wildlife monitoring in forests",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Wildlife monitoring in forests_qna_007",
+      "value": 1
+    }
+  ]
+}

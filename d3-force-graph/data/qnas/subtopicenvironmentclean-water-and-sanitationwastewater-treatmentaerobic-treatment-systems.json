@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Aerobic treatment systems",
+      "label": "Aerobic treatment systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Aerobic treatment systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is aeroecology?",
+      "answer": "Aeroecology is the study of life in the air.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The benefits of monitoring large parts of migration flyways and different habitats crucially relies on combin - ing data from a network of weather radars, ideally over long periods. This is comparatively straightforward in overall homogeneous radar networks and where data are managed by a single agency. In the US, for example, NOAA (National Oceanic and Atmospheric Administration) provides public access to archived Level Il data (radar sweeps for base and dual-polarization quantities) that can be used to derive meteorological and biological products 17. Open access to this archive has greatly facilitated the use of weather radar data in biology and led to the emergence of a vibrant field of aeroecology, the study of life in the air18,19. In contrast, the European network of weather radars is heterogeneous in hardware, data processing and data availability, with national meteoro - logical services operating with varying policy priorities and under very different conditions, which has long hampered the development of a joint dataset of biological weather radar data from across Europe 20. However, with careful consideration and quality control, pan-European comparisons can be made8,21,22.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Aerobic treatment systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Aerobic treatment systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Aerobic treatment systems_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations",
+      "label": "Renewable energy in farm operations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of agricultural production costs on-farm is related to energy use?",
+      "answer": "Approximately 15% of agricultural production costs on-farm are energy-related.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract The energy use and emissions from direct fossil fuel combustion on-farms to power farm machinery was criticallyreviewed. Approximately, 15% of agricultural production costs on-farm are energy-related. A potential solution to more sustainable energy use is a shift toward biofuels from renewable resources. The reduction of greenhouse gas emissions through the substitution of diesel oil with biodiesel depends on the feedstock, the inter-esteri cation process, the storageperiod, and ambient conditions. In modern tractors, increased fuel use ef ciency (or reduced fuel consumption) has been achieved by power/load matching and the use of variable transmission. Engine management systems that are capable of continuously communicating with the engine and transmission to make appropriate adjustments based on inputs receivedfrom the tractor allow for quick and precise responses to changing conditions. As a result, maximum ef ciency and productivity can be obtained from the tractor operating similarly to the traditional gear-up and throttle-back methods of a pro cient operator. The future for autonomous tractors is promising, though not new. Electric-powered tractors are near tocommercialization or are already commercially available. Hybrid electric driven tractors present some advantages in terms of increased energy use ef ciency and functionalities.",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Renewable energy in farm operations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of agricultural production costs on-farm are estimated to be energy-related?",
+      "answer": "Approximately 15% of agricultural production costs on-farm are estimated to be energy related.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Increased ef ciency can lead to a reduction in diesel fuel con- sumption and hence, a concurrent decrease in CO 2emission. Where the local electricity supply has a low-carbon emission factor, this can also result in signi cant emission reductions. Small light-weight robotic equipment can potentially perform functions currently undertaken by tractor-drawn and other heavy equipment with high-fuel consumption, provided eld operating capacity was not compromised. However, the size and weight limitations inherent in current harvesting andtransport technology mean that soil compaction will still be a problem with robotic units. The robotic operation of medium- scale equipment within a precision-controlled traf C farming environment should offer more feasible and energy-ef cient alternatives. Keywords Controlled traf C farming C1Embodied energy /C1Greenhouse gas emissions /C1No-tillage /C1Soil compaction /C1 Rolling resistance &Diogenes L. Antille Dio.Antille@csiro.au Troy A. Jensen Troy.Jensen@unisq.edu.au Jeff N. Tullberg jtullb@bigpond.net.au 1Centre for Agricultural Engineering, School of Agricultureand Environmental Science, University of SouthernQueensland, Toowoomba, QLD 4350, Australia 2Everglades Research and Education Center, University ofFlorida, Belle Glade, FL 33430, USA3CSIRO Agriculture and Food, Canberra,Australian Capital Territory, 2601, Australia 4School of Agriculture and Food Sciences, University ofQueensland, St. Lucia, QLD 4072, Australia 123Agricultural Research (March 2025) 14(1):15 33 https://doi.org/10.1007/s40003-24-824-5 Introduction It has been estimated that approximately 15% of agricul- tural production costs on-farm are energy related [ 81].",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Renewable energy in farm operations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary energy cost for mechanized farms?",
+      "answer": "The primary energy cost for mechanized farms is diesel fuel, which can represent up to 75% of the total energy spent on arable operations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Most mechanized farms depend on diesel fuel to run tractors, farm vehicles, harvesters, and other farm equipment. Fossilfuels are the main energy costs for arable farm operations representing up to 75% of the total energy spent on modern industrial-scale farms, depending on the cropping system[96]. Small-scale and subsistence farms in developing countries have traditionally relied on animal traction and human labor, including for transport of products to mar-kets, and hence have been less dependent on fossil fuel inputs. However, recent developments in mechanization for smallholder systems and mechanization adoption hasincreased the demand for fuel in those systems [ 10]. Cut- ting fuel costs can be relatively simple, starting with operating machinery in a smarter manner; for example, bycorrectly setting up and maintaining vehicles and equip- ment, and developing a fuel management plan. As an example, US research has shown that the basic practice ofmaintaining clean fuel and air Iters can save around 380 L (*100 US gallons) of diesel fuel annually. Buying more fuel-ef cient vehicles can also result in signi cant fuelsavings, which may be considered as part of the machinery replacement program [ 41].",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Renewable energy in farm operations",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Renewable energy in farm operations_qna_002",
+      "value": 1
+    }
+  ]
+}

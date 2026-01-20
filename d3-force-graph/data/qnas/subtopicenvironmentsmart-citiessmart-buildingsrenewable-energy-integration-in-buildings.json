@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings",
+      "label": "Renewable energy integration in buildings",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What potential solution is suggested for reducing total energy consumption in buildings on the Sichuan Plateau?",
+      "answer": "Fully utilizing renewable energy sources is suggested as a solution to reduce the total energy consumption of buildings.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " (2) Weak energy infrastructure. Due to the constraints of plateau topography and economic development level, it is difficult to apply centralized energy supply technology, power grid, gas, liquefied gas, and natural gas supply have not been able to spread to all towns and villages, and conventional energy supply is scarce, resulting in the energy problem in the region is still severe. (3) Architectural design lacks scientific and standardized, traditional residential energy consumption is high. Due to the limited economic conditions and unique climate and environment, most of the residential design and construction on the Sichuan Plateau are completed by local craftsmen and villagers relying on the experience left by their ancestors, traditional customs and culture, and personal intuition. Craftsmen are to a certain extent unable to take full advantage of new technologies, materials, and methods, limiting the comfort and energy-saving efficiency of their homes. (4) Insufficient utilization of renewable energy. There are significant differences in the use of energy between rural and urban dwellings, and renewable energy should be fully utilized to reduce the total energy consumption of buildings.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Renewable energy integration in buildings",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How has the incorporation of renewable energies in cities impacted the costs of electricity production?",
+      "answer": "The incorporation of renewable energies in cities has reduced the costs of electricity production due to the affordability of products like solar panels and batteries, which have become more cost-effective with the integration of smart technologies in cities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Renewable energy integration in buildings",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Renewable energy integration in buildings_qna_001",
+      "value": 1
+    }
+  ]
+}

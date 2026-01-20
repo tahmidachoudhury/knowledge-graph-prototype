@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest preservation",
+      "label": "Forest preservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest preservation_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why is distinguishing different types of forest loss important for conservation policies?",
+      "answer": "Distinguishing between types of forest loss is vital because it helps inform effective conservation and land use policy, considering the impact of altered processes and drivers on forest quality.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Quantifying degradation has been more challenging to quantify than deforestation as canopy cover may be partially impacted or regenerate over time2,4. Forest change analyses often rely on satellite imagery data of forest loss , which encompasses both temporary and permanent stand-removing disturbances5. Recent advancements in remote sensing data and analytical techniques have facilitated more nuanced spatial analyses capable of distinguishing between anthropogenic and fire-driven forest loss, while also identifying degraded and disturbed forests1,6. This differentiation is vital for informing effective conservation and land use policy, as forest loss from increasingly altered natural processes, such as wildfire6, and anthropogenic drivers, including forestry, agricultural expansion and urbanization7,8 can compromise forest quality via fragmentation9, changes in structure10, altered species composition11, edge pressures and heightened susceptibility to subsequent disturbances12, 13. Forest degradation and deforestation pose a key threat for biodiversity via the removal and diminishment of mature habitat14. A comprehensive study of extinction risk for 19,432 vertebrates worldwide revealed that forest loss elevates the risk of a species being listed as threatened on the IUCN Red List, of being upgraded to higher threat categories and experiencing population decline15.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Forest preservation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest preservation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Tasmanian forests are considered intact or of high integrity?",
+      "answer": "Only a third of Tasmanian forests remaining are intact or of high integrity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Data on forest quality are not captured by satellite imagery of tree cover extent, but these data can be aggregated with thematic maps for further inference. The swift parrot S breeding range exemplifies this challenge, as Tasmania has 72 76% vegetation cover42, but only a third of Tasmanian forests remaining are intact43 or of high integrity13,25. Within swift parrot important breeding areas (SPIBAs), forests with high integrity are even scarcer (4.2% VS. 29.4% statewide)25. Forest accounting (i.e. systematic measurement and tracking of forest condition and changes over time) in swift parrot habitat is complicated by shifts in land-use classification in forested areas following a policy change enacted a decade ago through the Forestry (Rebuilding the Forest Industry) Act 201444. This policy S purpose was to provide for the invigoration of the forest industry and for related purposes , thereby repealing prior legislation that sought to protect forests of high conservation value (i.e. the Tasmanian Forests Agreement Act 2013 ). Subsequently, high conservation value reserves were reclassified as production forestry land and previously used forestry land was converted into reserves21.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Forest preservation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Forest preservation",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Forest preservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Forest preservation",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Forest preservation_qna_001",
+      "value": 1
+    }
+  ]
+}

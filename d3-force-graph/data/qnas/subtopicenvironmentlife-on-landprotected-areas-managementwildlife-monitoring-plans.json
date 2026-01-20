@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "label": "Wildlife monitoring plans",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What were the goals regarding the assessment of small felids in Southeast Asia?",
+      "answer": "The goals included predicting geographic distribution, evaluating protected areas' effectiveness, highlighting unprotected suitable areas, and assessing habitat association with broader biodiversity richness.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021). However, small felids have crucial ecological roles in the trophic structure of ecosystems (Roemer et al. 2009), and some of them can also take on the role of apex predators through ecological release when larger carnivores are extirpated (de Oliveira et al. 2010). Additionally, small felids have been revealed to be important indicator and sentinel species (Chiaverini et al. 2022; Cruz et al. 2019), likely due to their relatively fast rates of population change and to their direct responses to both bottom-up and top-down ecological processes (Marneweck et al. 2022). In this paper we sought to develop the first regional assessment of habitat suitabil- ity and conservation status for Southeast Asia S small felids. By modelling habitat suit- ability individually for seven species of smaller felids (mainland Neofelis nebulosa and Sunda clouded leopards Neofelis diardi, Asiatic golden cat Catopuma temminckii, mar - bled cat Pardofelis marmorata, leopard cat Prionailurus bengalensis, Sunda leopard cat Prionailurus javanensis, and Borneo bay cat Catopuma badia, sampled in three regions (mainland, Borneo and Sumatra) we sought to: (1) predict the geographic distribution of smaller felids in Southeast Asia, (2) evaluate the effectiveness of the current systems of protected areas to preserve suitable habitats for smaller felids, (3) highlight the most suitable areas currently lacking protection and (4) assess whether small felids suitable habitat was highly associated with geographic distribution of broader biodiversity rich- ness in the region.",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How were active nests approached during the survey?",
+      "answer": "Active nests were quickly reached to cause the least possible disturbance to the breeding pair, using direct visual observations from a distance with the aid of telescopes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A longer survey was necessary in 2023 due to an extreme flooding event that occurred in May. Direct visual observations were made from a distance with the aid of telescopes in areas that had been previously identified based on the detection of vocal - izing pairs. Active nests were quickly reached (to cause the least possible disturbance to the breeding pair), and we recorded the number and incubation stage of the eggs (P S - sen et al. 1984 ) and the exact location of the nest (averaged GPS coordinates), with a precision of approximately 3 m. GPS tracking Lapwings were equipped with GPS devices at each of the seven study sites during the breeding seasons of 2022 and 2023. Once an easily accessible incubating northern lap - wing nest had been located, a spring trap was placed on the nest (Supplemental Material Fig. S2). After being flushed to place the trap, individuals rapidly returned to the nest (range: 19 min). Trapped individuals were ringed (with both metal and darvic rings), weighed, photographed to determine sex after release (Meissner et al.",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the importance of identifying animal behaviors according to the paragraph?",
+      "answer": "Identifying animal behaviors allows for further identification possibilities, which can aid in macro-ecological applications like monitoring species and reducing ecological threats.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 4finnish Meteorological institute (fMi), Helsinki, finland. 5Swiss Ornithological institute, Sempach, Switzerland. 6Swiss federal i institute for forest, Snow and Landscape Research WSL, Birmensdorf, Switzerland. 7Department environmental Systems Science, federal institute of technology (etH), Zurich, Switzerland. 8Swedish Meteorological and Hydrological institute (SMH i), norrk ping, Sweden. 9Royal n etherlands Meteorological institute (KnMi), De Bilt, the netherlands. 10The Binary Forest, Braine-l Alleud, Belgium. 11fluves, Ghent, Belgium. 12Department of Biology, Lund University, Lund, Sweden. e-mail: peter.desmet@inbo.beData D ESCRIP tOROPEN 2 Scientific Data www.nature.com/scientificdata www.nature.com/scientificdata/noteworthy examples where further identification is possible due to specific animal behaviors, such as emer - gence of Brazilian free-tailed bats (Tadarida brasiliensis ) at Bracken cave5, roosting swallows in the US11, and twilight flights of Common swifts (Apus apus )12. The overall low taxonomic resolution means that applications have been largely macro-ecological13 in nature, focused on aspects such as reducing threats along migratory flyways or monitoring changes to ensembles of species9, 15,16.",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method is proposed for monitoring vocalizing animals, such as birds?",
+      "answer": "Passive acoustic monitoring (PAM) methods are proposed for this purpose.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Background & Summary Human activities are accelerating biodiversity loss1. National and international efforts are being made to address this global challenge. In December 2022, countries worldwide committed to the ambitious targets of the Kunming-Montreal Global Biodiversity Framework (GBF), aiming at halting and reversing biodiversity loss by 2030 2. A crucial component of the framework is the proper monitoring of progress, including the monitoring of biodiversity patterns3. To achieve this, it is essential to develop effective monitoring technologies capable of assessing biodiversity across large spatial and temporal scales3. When considering vocalizing animals, such as birds, passive acoustic monitoring (PAM) methods have been proposed as a promising approach4. PAM methods involve collecting acoustic data using autonomous recording units, which can then be analyzed to extract ecologically meaningful information about the biodiversity in a spe - cific area of interest5. Multiple techniques for analyzing acoustic data exist, primarily distinguished by whether the analysis aims to identify the species present or summarize the area S acoustic environment (soundscape)6. Species identification techniques usually involve the supervised training of a machine learning algorithm to recognize the acoustic patterns of specific species using a set of annotated acoustic samples.",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do passive acoustic monitoring (PAM) methods collect data?",
+      "answer": "PAM methods collect acoustic data using autonomous recording units.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Background & Summary Human activities are accelerating biodiversity loss1. National and international efforts are being made to address this global challenge. In December 2022, countries worldwide committed to the ambitious targets of the Kunming-Montreal Global Biodiversity Framework (GBF), aiming at halting and reversing biodiversity loss by 2030 2. A crucial component of the framework is the proper monitoring of progress, including the monitoring of biodiversity patterns3. To achieve this, it is essential to develop effective monitoring technologies capable of assessing biodiversity across large spatial and temporal scales3. When considering vocalizing animals, such as birds, passive acoustic monitoring (PAM) methods have been proposed as a promising approach4. PAM methods involve collecting acoustic data using autonomous recording units, which can then be analyzed to extract ecologically meaningful information about the biodiversity in a spe - cific area of interest5. Multiple techniques for analyzing acoustic data exist, primarily distinguished by whether the analysis aims to identify the species present or summarize the area S acoustic environment (soundscape)6. Species identification techniques usually involve the supervised training of a machine learning algorithm to recognize the acoustic patterns of specific species using a set of annotated acoustic samples.",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the three advantages of the non-invasive monitoring strategy mentioned in the paragraph?",
+      "answer": "The three advantages are: 1) the welfare of the animals is not affected, eliminating the need for legal permits required for live-trapping; 2) field work can be conducted by volunteers; and 3) molecular species identification can be integrated into routine work in molecular laboratories.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Terrestrial small mammals are important elements of the food chain, and like other species affected by climate change. Knowledge about their current distribution is of interest to model future developments and monitoring biodiversity loss. However, their monitoring is challenging due to legal restrictions. Here we document a pilot study testing the performance of a non-invasive monitoring strategy for terrestrial small mammals. It uses baited tubes in the field to collect fecal pellets combined with molecular species identification using COI barcodes. Just over 1000 samples were collected mainly in 2021 in 2506 trap nights, nine areas and 36 specific sites across Germany in habitats located close to waterbodies. COI-PCR products were obtained from 93% of samples and 55% of samples could be assigned to a small mammal species based on high-quality Sanger-Sequences. We found 11 species of Eulipotyphla and Rodentia while local communities were dominated by Apodemus sp. and Clethrionomys glareolus. We showed that the described strategy enables large-scale biomonitoring of small terrestrial mammals as it combines three advantages: 1) welfare of the animals is not affected and therefore time- consuming paperwork to obtain legal permits like for live-trapping is not required, 2) field work can be done by volunteers and 3) molecular species identification can be implemented in the routine work of molecular laboratories.",
+      "macrotopic": "Life on land",
+      "topic": "Protected areas management",
+      "subtopic": "Wildlife monitoring plans",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans",
+      "target": "Subtopic:Environment|Life on land|Protected areas management|Wildlife monitoring plans_qna_005",
+      "value": 1
+    }
+  ]
+}

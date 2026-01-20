@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Medical device innovation",
+      "label": "Medical device innovation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Medical device innovation_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the two groups that the studies were categorized into?",
+      "answer": "The studies were categorized into electronic surgical devices (EHDs used to conduct surgical procedures) and electronic non-surgical devices (EHDs that offer clinical or non-clinical services that do not involve surgery).",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " First, the selected studies were initially categorised into two groups: (i) studies on electronic surgical devices (EHDs used to conduct surgical procedures) (n = 13) and (ii) studies on electronic non-surgical devices (EHDs that offer clinical or non-clinical services that do not involve surgery) (n = 4) (see Fig. 1). It is important to note that the selected studies cover both LCA studies and other quantitative environmental assessment studies. Second, the attributes and methodologi- cal choices of these articles in both categories were criti- cally analysed based on the four phases of the LCA: (i) goal and scope definition; (ii) life cycle inventory, (iii) life cycle impact assessment (LCIA), and (iv) interpretation of the impact assessment results (ISO 14040, 2006). For each LCA phase, methodological challenges were identified and recommendations for these challenges were formulated. In the goal and scope definition stage, studies Fig. 1 Methodology used to identify relevant studies. The number of studies identified in each step of screening is presented in the dia- gram.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Medical device innovation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Medical device innovation",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Medical device innovation_qna_000",
+      "value": 1
+    }
+  ]
+}

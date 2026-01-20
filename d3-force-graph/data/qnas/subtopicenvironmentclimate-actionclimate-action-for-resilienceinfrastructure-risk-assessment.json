@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment",
+      "label": "Infrastructure risk assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "According to the climate change vulnerability Index study, where are the top 10 countries most vulnerable to climate change located?",
+      "answer": "The top 10 countries most vulnerable to climate change are all from Sub-Saharan Africa (SSA).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2009). According to data from Parmesan et al. (2022), the agriculture sector contributes the third highest percentage of GHG emissions, accounting for approximately 22%, 11.9 4.4 GtCO2-eq year 1 on average over the period 2010 2019 (Fig. 1a). The data indicates that the contribu- tion of emissions from AFOLU to total emissions decreased by 5% over three decades (1990 2019), whereas emissions from all other sectors increased, except for emissions from buildings. According to Parmesan et al. (2022), regional trends in total GHG emissions show that the African continent is among the lowest emitters, with East Asia being the high- est emitter (Fig. 1b). The data also indicate that North America and Europe are among the top emitters of GHGs. Historically, Africa S contribution to global greenhouse gas emissions has been relatively small, estimated at approxi- mately 3 6% (Wang et al. 2024). However, according to the climate change vulnerability Index study by Sarkodie and Adams (2018), the top 10 countries most vulnerable to climate change are all from SSA.",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure risk assessment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can the robustness of multi-criteria decision analysis methods for the energy sector's sustainability assessment be tested?",
+      "answer": "The robustness of multi-criteria decision analysis methods can be tested through criteria weight change in the assessment.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/370705198_Temporal_PROMETHEE_II_-_New_multi-criteria_approach_to_sustainable_management_of_alternative_fuels_consumption",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Infrastructure risk assessment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Infrastructure risk assessment_qna_001",
+      "value": 1
+    }
+  ]
+}

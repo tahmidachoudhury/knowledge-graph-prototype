@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Social responsibility",
+      "label": "Social responsibility",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Social responsibility_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the primary focus of the paragraph regarding human responsibility?",
+      "answer": "The primary focus is on reaffirming our relations to Earth and recognizing our responsibility to practice relationships with responsibility, reciprocity, and respect towards all beings.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Beginning with the individual level, we encourage relearning what it means to be human, our place in the con- stellation of life, and the human responsibility to reaffirm our relations to Earth S Land. For the community, we recognize the vast collection of lived experiences, to rebuild our ability to think, listen, and be in kinship with the world as a relative. From the global scale, we focus on migration, particularly invasive species, to shift reigning perspectives on move- ment that elucidate the Earth as being alive and comprised of living beings. For each scale, we posit that by practicing relationships with responsibility, reciprocity, and respect toward all kin (relations based on interrelatedness of kinds) and kith (relations based on knowledge of place), humans may embody an ethic of sustainability that the Earth, and all Her inhabitants, require. Finally, we present a practical kinship circle framework for applying these concepts for broader educational applications in sustainability and envi- ronmental ethics. 1.2 Positionality As a kinship group, we use place-based knowledge and practices to understand how to build relationships with land, water, and other-than-humans.",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Social responsibility",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Social responsibility_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the Social Identity Theory (SIT) contribute to predicting responsible behaviour?",
+      "answer": "The SIT is highly regarded as the main motive for predicting responsible behaviour, as mentioned by Han et al. (2021). It has been used to predict various consumer behaviours, including Hijab fashion by Blandly and Salem (2022).",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2667378923000433",
+      "paragraph": "",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Social responsibility",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Social responsibility",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Social responsibility_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Social responsibility",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Social responsibility_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation",
+      "label": "Forest fragmentation mitigation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the consequences of continued forest fragmentation in the region?",
+      "answer": "Continued forest fragmentation will result in increased edge effects and a greater proportion of forest remaining in an early successional state, leading to a reduced and homogenized assemblage of amphibians and reptiles.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Continued forest fragmentation in the region will result in increased edge effects, and a greater proportion of forest remaining in an early successional state, leading to a highly reduced, homogenized, amphibian and reptile assemblage. Using such models for community assemblages of animals to reveal the identity of WLR patterns in forests with continued fragmentation is a useful tool to reveal which species are at risk of impact before habitats become degraded. Keywords Functional ecology Reptile Amphibian Change in land-use GLLVM Winner/loser replacements Introduction Habitat alteration is one of the most widespread causes of biodiversity loss, directly affecting the species occurring in the altered habitat, as well as indirectly affecting species in adjacent intact habitat (Laurance 2008). The loss of natural habitat resulting from a change in land use often creates unnatural forest edges. In tropical forests, the vegetation of so-called edge habitat is often kept in an early successional state, with a highly altered habitat structure and reduced diversity of species, trait diversity, and ecosystem functions (Taberelli and Lopes 2008; P tz et al. 2011). This reduction in diversity is often driven by increases of native general- ist species rather than by invasion of non-natives, through Winner-Loser Replacements, or WLRs, where so called los - ing species are replaced by winning species (Tabarelli et al.",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest fragmentation mitigation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods were used to determine fragmentation levels for the study?",
+      "answer": "Fragmentation levels were determined by comparing historical and contemporary aerial imagery, along with supplementary data.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We hypothesize that increased fragmentation amplifies edge effects, resulting in distinct shifts in community structure. Specifically, we expect highly fragmented meadows to exhibit lower species richness and altered dynamics, especially among epifaunal species, which may face increased predation pressure and environmental stress at habitat edges. Infaunal communities, particularly smaller and less mobile species, are anticipated to respond sensitively to changes in sediment composition and structure within fragmented meadows. By investigating these dynamics, we aim to deepen our understanding of fragmentation S ecological impacts and support more effective conservation strategies for seagrass ecosystems. Methods Study area and experimental design The distribution of Zostera marina (eelgrass) was assessed in three regions, G S (Gullmars fjord area), Askeron (Hake fjord area) and Tenesk r (Kosterhavet archipelago), selected based on the availability of historical data from the 1980s35 and representing high, medium and low fragmentation levels, respectively (Fig. 1). Fragmentation levels were initially determined by comparing historical and contemporary aerial imagery, supplemented by in Fig. 1 . Map of the sampling sites in the west coast of Sweden ( a).",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Forest fragmentation mitigation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Forest fragmentation mitigation_qna_001",
+      "value": 1
+    }
+  ]
+}

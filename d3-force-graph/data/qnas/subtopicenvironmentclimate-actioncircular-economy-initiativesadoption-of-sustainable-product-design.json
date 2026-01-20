@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Adoption of sustainable product design",
+      "label": "Adoption of sustainable product design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Adoption of sustainable product design_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some current trends in sustainable product design and development as discussed in Clark et al. (2009)?",
+      "answer": "Some current trends in sustainable product design and development include using eco-friendly materials, reducing waste in production processes, and incorporating renewable energy sources.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652618327872",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Adoption of sustainable product design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Adoption of sustainable product design_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Were virtues like simplicity in design and quality products initially associated with sustainability?",
+      "answer": "Virtues like simplicity in design and quality products were associated with brands, but not necessarily from a sustainability perspective.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://research.cbs.dk/en/publications/social-environmental-and-economic-value-in-sustainable-fashion-bu",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Adoption of sustainable product design",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Adoption of sustainable product design",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Adoption of sustainable product design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Adoption of sustainable product design",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Adoption of sustainable product design_qna_001",
+      "value": 1
+    }
+  ]
+}

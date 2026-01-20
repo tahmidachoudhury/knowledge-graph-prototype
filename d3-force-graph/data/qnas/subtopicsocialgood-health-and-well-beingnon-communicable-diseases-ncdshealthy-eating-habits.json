@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Healthy eating habits",
+      "label": "Healthy eating habits",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Healthy eating habits_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "According to D. Mozaffarian's review, what are the recommended dietary and policy priorities for addressing cardiovascular disease, diabetes, and obesity?",
+      "answer": "Answer: D. Mozaffarian's review recommends prioritizing healthy dietary patterns, such as the Mediterranean diet, and implementing policies to reduce the intake of processed foods, sugary beverages, and unhealthy fats to combat cardiovascular disease, diabetes, and obesity.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0022316622131378",
+      "paragraph": "",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "subtopic": "Healthy eating habits",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Healthy eating habits_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How do Pipkin et al. (2021) suggest reducing ultra-processed food consumption and promoting healthier eating?",
+      "answer": "Pipkin et al. (2021) suggest implementing unified and impactful policies to reduce ultra-processed food consumption and promote healthier eating habits.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.researchgate.net/publication/371102736_Ultra-processed_foods_consumption_as_a_promoting_factor_of_greenhouse_gas_emissions_water_energy_and_land_use_A_longitudinal_assessment",
+      "paragraph": "",
+      "macrotopic": "Good health and well-being",
+      "topic": "Non-communicable diseases (NCDs)",
+      "subtopic": "Healthy eating habits",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Healthy eating habits",
+      "target": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Healthy eating habits_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Healthy eating habits",
+      "target": "Subtopic:Social|Good health and well-being|Non-communicable diseases (NCDs)|Healthy eating habits_qna_001",
+      "value": 1
+    }
+  ]
+}

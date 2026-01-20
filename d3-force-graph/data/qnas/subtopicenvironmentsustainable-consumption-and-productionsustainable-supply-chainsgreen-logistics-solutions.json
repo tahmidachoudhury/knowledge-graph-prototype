@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions",
+      "label": "Green logistics solutions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is it convenient to outsource green logistics activities to Third Party Logistics (3PL)?",
+      "answer": "It is convenient to outsource green logistics activities to 3PL as they have achieved great maturity in sustainable practices (Evangelist et al., 2018).",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Green logistics solutions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "In what ways do suppliers' locations take precedence over environmental logistics considerations?",
+      "answer": "Suppliers prioritize cost and distribution time when it comes to their locations, as these factors have a more direct impact on their operational efficiency compared to environmental logistics, which may not be as immediate of a concern.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0148296322006348",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Green logistics solutions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can the findings of Brown and Guiffrida (2014) be applied in logistics?",
+      "answer": "The findings of Brown and Guiffrida (2014) can be applied in logistics to make more environmentally friendly transportation decisions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000360",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Green logistics solutions",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Green logistics solutions_qna_002",
+      "value": 1
+    }
+  ]
+}

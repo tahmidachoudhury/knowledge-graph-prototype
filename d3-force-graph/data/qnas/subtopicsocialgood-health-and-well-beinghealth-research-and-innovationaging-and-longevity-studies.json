@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "label": "Aging and longevity studies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the primary objective of the research on juvenile COTS?",
+      "answer": "The primary objective was to quantify ontogenetic changes in various traits of juvenile COTS and explore their potential as indicators of age.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract The crown-of-thorns sea star (COTS, Acan- thaster sp.) is a coral predator that, in population outbreaks, causes major coral loss in Indo-Pacific reefs. Current para- digms explaining the cause of outbreaks focus on the larval and adult stages, while the early herbivorous juvenile stage remains a black box in our understanding of COTS. We fol- lowed growth in a large laboratory population of juveniles from settlement to 300 days. Ontogenetic changes in eight traits over time were quantified, including those typically used to track growth in sea stars (total diameter, arm num- ber) and traits not previously quantified (e.g. spine number/ type). Combinations of traits were modelled against age to explore their potential as indicators of age. Total diameter exhibited a strong association with age, as did covarying traits: central disk diameter, mouth diameter and arm length. The number of pointed spines was also strongly associated with age, greater in association than arm number. Our results indicate that use of a combination of morphological traits has potential as an indicator of juvenile age.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Aging and longevity studies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What do the models mentioned in the paragraph allow regarding age-trait relationships?",
+      "answer": "The models do not constrain age-trait relationships to pre-specified parametric shapes, allowing the data to determine the shape of the response curve.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " These models do not constrain age-trait relation- ships to the shapes of pre-specified parametric classes (Yee and Mitchell 1991), allowing the data to determine the shape of the response curve. Where traits exhibited a linear rela- tionship with time (indicated by GAMM-estimated effective degrees of freedom ~ 1), linear mixed effect models (LMMs) were instead fit to the data with the morphological traits as the response variable. The global dataset contained some repeated measures. Thus, juvenile ID was modelled as a random effect in both the GAMMs and LMMs (random intercept), and parameter estimates were obtained using maximum likelihood (ML). Smoothing was conducted using the penalised thin plate spline method (Wood 2003), with the basis dimension value (k) set to the minimum necessary to encapsulate the neces- sary dimensions of the underlying curve (Wood 2003), with a maximum value of 4 to avoid overfitting. Initial data exploration revealed the number of arms exhibited under-dispersion. Thus, this trait was modelled using a quasi-Poisson error distribution with a log link func- tion.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Aging and longevity studies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which years are associated with the studies cited in the paragraph?",
+      "answer": "The studies are associated with the years 2020, 2021, and 2022.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " ( 2021 ), Chai et al. ( 2021 ), Hao et al. ( 2020 ) and Lu et al. ( 2020 ). Chai et al. ( 2021 ) explore China S carbon price prediction using V ariational Mode Decomposition (VMD) and others, and found it to be limited by boundary effects and sudden signals (Li et al.,2021 ;W a n ge ta I , 2017 ). Zhang and Wu ( 2022 ) propose a hybrid forecasting method for car- bon price in the EU ETS, which incorporates the empirical mode decomposition (EMD) andthe integration of ARMAs and LSSVMs. Their work shows that this kind of model integra-tion does improve the prediction ef ciency of algorithms. Regarding the decomposition step,the popular methods include Empirical Mode Decomposition (EMD) or VMD (Huang, et al., 1998 ; Zhang et al., 2018 ; Zhu et al, 2018a ), as well as their extensions, such as Multivariate Empirical Mode Decomposition (MEMD) (He et al., 2017 ), Ensemble EMD (EEMD) (Wu et al., 2019 ), and Complementary Ensemble Empirical Mode Decomposition (CEEMD) (Li et al., 2021 ).",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Aging and longevity studies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the \"Limitations and Further Research\" section of the study outline?",
+      "answer": "It outlines the study's limitations and proposes directions for future research.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " \"Discussions\" discusses the findings. Sect. \"Limitations and Further Research\" outlines the study S limitations and proposes direc- tions for future research. Finally, Sect. \"Conclusion\" summarizes the findings and broader implications for the field. Background App-based energy feedback and user engagement App-based energy feedback has emerged as a prom- ising digital solution to enhance user awareness and engagement with energy usage. A systematic review by Chatzigeorgiou and Andreou, (2021) examined feedback research for residential energy behaviours Energy Efficiency (2025) 18:25 25 Vol. : (123456789) through mobile and web interfaces, highlighting the need for more comprehensive studies on these solu- tions long-term impacts and scalability. Smart energy apps offer context-specific feed- back that allows users to track and reflect on their consumption patterns (Hermsen et al., 2016). This feedback can assist users in exploring manage- ment strategies, yet the extent to which these apps shape sustainable energy practices within house- holds remains under-researched and still limited to pilot-level projects (Attour et al., 2020; Geelen et al., 2019; Murugesan et al., 2015; Valor et al., 2019).",
+      "macrotopic": "Good health and well-being",
+      "topic": "Health research and innovation",
+      "subtopic": "Aging and longevity studies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies",
+      "target": "Subtopic:Social|Good health and well-being|Health research and innovation|Aging and longevity studies_qna_003",
+      "value": 1
+    }
+  ]
+}

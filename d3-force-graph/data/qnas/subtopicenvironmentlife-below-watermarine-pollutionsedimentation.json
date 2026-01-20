@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation",
+      "label": "Sedimentation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What happens to particles with lower density than seawater in marine environments?",
+      "answer": "These particles tend to float on the water before eventually settling on the seabed or accumulating in sediments in mangrove ecosystems.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Due to their lower density than seawater, these par - ticles tend to float on the water before eventually settling on the seabed or accumulating in sediments in mangrove eco- systems (Mehmood and Peng 2022, Mehmood et al. 2023). The majority of MPs tend to accumulate in surface sedi- ments, especially within the upper 5 cm, mostly due to alter - ations in density and/or biotransformation (Riaz et al. 2024, Vidayanti and Retnaningdyah 2024). Several factors, includ- ing (1) biological feeding, (2) agglomeration, (3) hydroe- lectric disturbance, and (4) adsorption of larger particles, directly influence the settling of MPs (Alomar et al. 2016; Bao et al. 2022 ). Previous studies have ascribed sediment as one of the key reservoirs for MP accumulation in the marine environment (Barrett et al. 2020; Lin et al. 2024). Barrett et al. (2020) reported massive MPs (14 million tons) in sea sediments worldwide. Various factors, including shipping, fishing, and aquaculture, directly release MPs into coastal areas.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Sedimentation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How does the concentration of MPs in mangrove sediment compare to that in marine sediment?",
+      "answer": "Mangrove sediment has a significantly higher concentration of MPs, with 264 items/kg compared to 0.11 items/kg in marine sediments.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Rivers, surface runoff, and sewage systems indirectly transport MPs, influencing mangrove ecosystems (Mehmood et al. 2023). Wind-driven deposition on beaches and proxim- ity to waste disposal sites also play a significant role in the deposition of MPs in coastal areas (Riaz et al. 2024). Mangrove ecosystems have been found to have substan- tially higher MP contamination as compared to other eco - systems (Liu et al. 2022). Plastic presence in mangrove eco- systems constitutes a significant portion of overall marine debris, as evidenced by recent studies (Browne et al. 2007; Li et al. 2021). Regardless, most studies focus on plastic waste (Browne et al. 2007), while studies on MPs in man- groves are still in their infancy. Previous research found that the mangrove sediment had a higher concentration of MPs compared to the marine sediment in the Beibu Gulf, China. That means the difference was substantially high: 264 2 items/kg in mangrove sediment compared to 0 11 1 items/ kg in marine sediments (Jiao et al. 2021).",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Sedimentation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What environmental variables were collected at the study sites starting in 2017?",
+      "answer": "Environmental data including depth, temperature, and sedimentation rate were collected at the study sites.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Predictive modeling of field bleaching outcomes from sym- biont community and environmental variables was improved by inclusion of experimental heat stress performance. These data suggest that resilient corals are best identified using multiple criteria to maintain greater diversity of heat toler - ance mechanisms. Methods Study sites and environmental data We established 30 long-term study sites in K ne ohe Bay, O ahu, Hawai i patch reef environments using a random stratified design across 5 blocks (Fig. 1A). Montipora capi- tata colonies were tagged and mapped at each site, and a range of environmental data including depth, temperature, and sedimentation rate was collected beginning in 2017; full details can be found in (Caruso and Rocha de Souza et al. 2022). In early 2018, in the absence of recent heat stress, a biopsy (~ 5 mm3) was collected from each tagged colony for symbiont community identification. Briefly, the ribosomal DNA ITS2 region was sequenced and data were submitted to SymPortal (Hume et al. 2019) to characterize ITS2 types present in each sample; full details can be found in (Rocha de Souza et al.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Sedimentation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Sedimentation_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "label": "Geospatial tools",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which technology and tools were employed in this study to investigate urban dynamics?",
+      "answer": "The study employed machine learning and Google Earth Engine to investigate urban dynamics.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Urban areas are experiencing rapid trans- formations, driven by population growth, economic development, and policy changes. Understanding and monitoring these dynamic changes is crucial for sus- tainable urban planning and management. This study leverages machine learning and Google Earth Engine to investigate urban dynamics and its interactions with biophysical conditions in the Kaduna River Basin (KRB), Nigeria. This study utilized a dataset of 192 points, initially extracted from Google Earth Engine, to analyze urban transitions between 1987 and 2020, incorporating biophysical and environmental vari- ables such as population density, precipitation, and surface temperature. The dataset was processed in R using the CARET package, with missing data imputed via K-nearest neighbors (KNN), categorical variables transformed using One-Hot Encoding, and numerical variables rescaled for consistency. A tenfold cross- validation approach was used to train and validate machine learning models, including random forest, support vector machine, KNN, and multivariate adap- tive regression splines, ensuring optimal model per - formance. Model evaluation metrics such as overall accuracy, kappa, F1 score, and area under the curve confirmed the reliability of the models in identifying the biophysical factors influencing urban changes.",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Geospatial tools",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does Google Earth Engine contribute to urban change analysis?",
+      "answer": "Google Earth Engine allows for the rapid processing of extensive spatial datasets, making it possible to detect and analyze urban changes even in data-scarce regions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The implications of this study extend far beyond the basin of interest. It highlights the broader rel- evance of integrating machine learning, remote sensing, and biophysical data to understand urban dynamics. Machine learning techniques such as ran- dom forest (RF), support vector machine (SVM), K-nearest neighbor (KNN), and multivariate adap- tive regression splines (MARS) have proven to be powerful tools for classifying and predicting land use and land cover (LULC) changes (Amani et al., 2020; Kang & Kanniah, 2022). Using computing platforms like Google Earth Engine allows for the rapid pro- cessing of extensive spatial datasets, making it possi- ble to detect and analyze urban changes even in data- scarce regions (Sun et al., 2021; Tankpa et al., 2020). This approach underscores the global potential of such methodologies to monitor urban transformations and their environmental impacts, enabling researchers Environ Monit Assess (2025) 197:441 441 Vol. : (123456789) and policymakers to address urban sustainability challenges effectively. The integration of biophysical variables into these analyses not only enhances our understanding of how urbanization alters ecosystems but also provides a pathway for data-driven decision- making in managing urban growth across diverse contexts, particularly in rapidly developing regions.",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Geospatial tools",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How is the concept of ES hotspots utilized in urban planning?",
+      "answer": "A real-world application illustrated at the city scale showed that a hotspot map summarizing the provision of seven ecosystem services was used to support the identification of key areas in the urban plan of Trento, Italy.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021 ). The de nition of ES hotspots in the literature varies, with some authors using the term to refer to areas characterized by high levels of supply of a certain ES (Bai et al. 2011 ; Cimon- Morin et al. 2013 ). However, the term hotspots may also refer to areas with high levels of multiple ES provision, while coldspots are areas with low levels (Garc a-Nietoet al. 2013 ; Geneletti et al. 2018 ). The latter are the de - nitions used in this study. Moreover, there exist various methods to identify ES hotspots, depending on the policyquestion to be addressed and the type of individual ES maps to be combined (Schr ter and Remme 2016 ). Methods range from the simple overlapping of individual hotspotsmaps (Garc a-Nieto et al. 2013 ; Pe a et al. 2018 ), to more complex measures of occurrence such as intensity and richness (Plieninger et al. 2013 ), to statistical analysis techniques such as the Getis-Ord Gi* statistic (Bagstad et al. 2016). Geneletti and Cortinovis ( 2021 ) illustrate a real- world application at the city scale where a hotspots mapsummarizing the provision of seven ES was used to support the identi cation of key areas in the urban plan of Trento, Italy.",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Geospatial tools",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which R package was used to filter the GPS data, and what aspects did it address?",
+      "answer": "The R package SDL filter was used to filter the GPS data, addressing spatial and temporal duplicates and unrealistic fixes based on speed.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2013 ; Blasco- Zumeta and Heinze 2018 ), and equipped with a GPS device using leg-loop teflon harnesses (Supplemental Material Fig. S3). We used Lotek PinPoint Cell Solar 2G GPS-GSM devices in 2022 and Interrex/Druid Mini solar-powered 2G GPS-GSM devices in 2023, weighing 6.3 0.4 g. Both units were the same with respect to their design and performance. We optimized the schedule to preserve the battery life by setting the interval at which the device recorded the loca - tions at once every 2 h. GPS deployment was performed only if the overall weight of the device and the teflon har - ness represented < 3.5% of the body mass. Handling and tagging lasted approximately 20 min. In 2022 only, a wild - life camera (set to take a picture every 2 h) was placed to aim at each nest to record the nest S fate and hatching date. GPS data were filtered with the R package SDL filter (Shimada et al. 2016 ) to remove spatial and temporal dupli - cates and unrealistic fixes based on speed, considering a conservative threshold of 60 km/h.",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Geospatial tools",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Geospatial tools_qna_003",
+      "value": 1
+    }
+  ]
+}

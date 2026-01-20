@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education",
+      "label": "Food waste reduction education",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main purpose of the study mentioned in the paragraph?",
+      "answer": "The main purpose of the study is to propose alternative approaches for achieving sustainable household solid waste management through the integration of local knowledge.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Local and indigenous knowledge refers to the understand- ings, skills and philosophies developed by societies with long histories of interaction with their natural surroundings (Intergovernmental Panel on Climate Change 2022, p. 817; Wheeler and Root Bernstein 2020, p. 1635); and often per - tains to ecological knowledge, management practices and customary institutions (Berkes 2012, p. 18). In line with the aim, the purpose of this study is to propose alternative approaches for achieving sustainable household solid waste management through integration of local knowledge. To achieve this purpose, the study raises the following research question: How can local knowledge contribute to sustainable household solid waste management in Borakalalo ward in Molepolole, Botswana? Guided by the research question, the objective of this study is to identify specific local practices used by households that promote a harmonious relation- ship between society and nature, contributing to sustainable waste management. Finding more sustainable waste management practices is crucial because current methods threaten key sectors such as tourism, occupy valuable land that could otherwise be used 1 Proper waste management contributes to SDG 11 sustainable cit- ies and communities, ensuring that cities are inclusive, safe, resilient and sustainable.",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Food waste reduction education",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why are only a few types of food waste considered unfit for human consumption, and what must be done with these types of waste?",
+      "answer": "Due to structural differences, only a few types of food waste are unfit for human consumption and must be reprocessed for value recovery to minimize waste and ensure resource efficiency.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Food waste reduction education",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Where can more information about eliminating food waste be found according to the Ellen MacArthur Foundation (2013)?",
+      "answer": "More information about eliminating food waste can be found on the Ellen MacArthur Foundation website.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Food waste reduction education",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Food waste reduction education_qna_002",
+      "value": 1
+    }
+  ]
+}

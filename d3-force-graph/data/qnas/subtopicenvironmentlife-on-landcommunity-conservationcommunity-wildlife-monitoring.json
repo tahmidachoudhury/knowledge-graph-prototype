@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "label": "Community wildlife monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the purpose of pooling data from two locations within the habitat?",
+      "answer": "To increase detection to permissible levels and capture a broad range of species without over-parameterizing the models.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 25 35 m), well-developed leaf litter with shallow soils, and sparse distribution of standing water bod- ies. In an attempt to increase detection to permissible levels in order to capture a broad range of species without causing over-parameterization of the models data were collected at two locations within this habitat and subsequently pooled. Surveys in edge habitat (MH3) were conducted in second- ary growth forest found between 50 and 100 m from top of a steep limestone cliff that rises from the northern banks of Fig. 1 Map of the Americas, showing the location of Parque Nacional Laguna del Tigre within Guatemala. Red box indicates area shown in Fig. 2. Due to the curvature of the map the scale shown is representative of the scale at the equator. Map adapted from D-Maps.com Fig. 2 Map of the south-east region of Parque Nacional Laguna del Tigre showing the location of transects indicated by coloured lines: Orange = Disturbed Habitat MH1; Yellow and Red = Forest Habitat MH2; Blue = Edge Habitat MH3. The two rivers are the San Pedro River flowing east to west, and the Sacluc River flowing south to north.",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What physiological marker is commonly used to study avian stress in relation to human impact?",
+      "answer": "Corticosterone is the physiological marker commonly used to study avian stress associated with human impact.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In addition to ecological impacts, land use changes may also act as stressors, leading to morphological and physiological consequences for animals [ 7 9]. Stress may lead to changes in the size and shape of individuals [10 12] while also modifying their levels of glucocorti - coids hormones that modulate animal response to new environmental demands [ 7]. While short-term glucocor - ticoid secretion can enhance fitness in critical situations [7], prolonged elevated levels may impair physiological homeostasis [ 7, 13, 14]. Birds are an effective animal model for hormonal studies because they have been extensively studied, and robust methodologies and extensive reference data are available [ 15, 16]. Most studies of avian stress in rela - tion to human impact use the hormone corticosterone as an indicator [ 15]. Corticosterone is a physiological marker released along with other glucocorticoids in the stress response mediated through the hypothalamic- pituitary-adrenal axis [ 14, 17]. Previous reports in birds have found contrasting results regarding changes in cor - ticosterone levels due to urbanisation [ 15, 18 22].",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenges do species identification techniques face?",
+      "answer": "Species identification techniques can perform sub-optimally when monitoring communities with multiple overlapping vocalizing species or in environments with numerous background noises.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This approach is gaining popularity as algorithms become more accurate. Nowadays, off-the-shelf species identification algo - rithms are available7,8, reducing implementation barriers by requiring fewer programming skills. Furthermore, specialized platforms such as ARBIMON (https://arbimon.org/) allow users to train species identification algo - rithms through user-friendly interfaces needing no programming skills. However, species identification tech - niques have been shown to perform sub-optimally on certain occasions9, e.g., when monitoring entire animal communities with multiple overlapping vocalizing species or communities with numerous background noises, making focal signal detection difficult. 1 Nature Conservation Unit, Frederick University, Nicosia, 1036, Cyprus. 2Southeast Asia Biodiversity Research institute, chinese Academy of Sciences & center for integrative conservation, Xishuangbanna tropical Botanical Garden, Chinese Academy of Sciences, Mengla, Yunnan, 666303, China. 3BirdLife Cyprus, Nicosia, 2340, Cyprus. 4Department of Electrical Engineering, Computer, Engineering and Informatics, Frederick University, Nicosia, 1036, cyprus. e-mail: cmammides@outlook.comData De SCr IPtoroPeN 2 Scientific Data www.nature.com/scientificdata www.nature.com/scientificdata/An alternative approach for analyzing ecoacoustic datasets has been using acoustic indices10, which are essentially mathematical formulae that summarize the acoustic environment of an area of interest11.",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the purpose of the BIOMON project?",
+      "answer": "The purpose of the BIOMON project was to explore the effectiveness of acoustic indices in monitoring bird communities in biodiverse sites.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " the dataset can be used to answer fundamental ecolog - ical questions20, e.g., by analyzing the acoustic patterns over time and space and relating them to other variables of interest widely available, such as land cover data21. The dataset was collected as part of the BIOMON project funded by the European Commission (https://cordis.europa.eu/project/id/101090273), aiming at exploring the effectiveness of acoustic indices in monitoring bird communities in biodiverse sites 6,22.Fig. 1 Map of Cyprus indicating the locations of the sixty-one study sites at which the acoustic data were collected between March and May 2023. The inset map illustrates in green colour the Mediterranean Basin biodiversity hotspot. 3 Scientific Data www.nature.com/scientificdata www.nature.com/scientificdata/Methods Cyprus is the third-largest island in the Mediterranean Sea known for its rich biodiversity, including avian diversity23. More than 400 bird species have been recorded on the island thus far, with about two-thirds of them being migratory species. Several bird monitoring programs are in place on the island (https://birdlifecyprus.org/monitoring-birds/), with experienced volunteer bird surveyors conducting ground surveys at regular intervals. One of these programs is the Common Birds Monitoring Scheme (CBMS), coordinated by BirdLife Cyprus, contributing to a larger pan-European scheme (https://pecbms.info/).",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Which program is coordinated by BirdLife Cyprus for monitoring birds?",
+      "answer": "The Common Birds Monitoring Scheme (CBMS) is coordinated by BirdLife Cyprus for monitoring birds.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " the dataset can be used to answer fundamental ecolog - ical questions20, e.g., by analyzing the acoustic patterns over time and space and relating them to other variables of interest widely available, such as land cover data21. The dataset was collected as part of the BIOMON project funded by the European Commission (https://cordis.europa.eu/project/id/101090273), aiming at exploring the effectiveness of acoustic indices in monitoring bird communities in biodiverse sites 6,22.Fig. 1 Map of Cyprus indicating the locations of the sixty-one study sites at which the acoustic data were collected between March and May 2023. The inset map illustrates in green colour the Mediterranean Basin biodiversity hotspot. 3 Scientific Data www.nature.com/scientificdata www.nature.com/scientificdata/Methods Cyprus is the third-largest island in the Mediterranean Sea known for its rich biodiversity, including avian diversity23. More than 400 bird species have been recorded on the island thus far, with about two-thirds of them being migratory species. Several bird monitoring programs are in place on the island (https://birdlifecyprus.org/monitoring-birds/), with experienced volunteer bird surveyors conducting ground surveys at regular intervals. One of these programs is the Common Birds Monitoring Scheme (CBMS), coordinated by BirdLife Cyprus, contributing to a larger pan-European scheme (https://pecbms.info/).",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main objective of the paper discussed in the paragraph?",
+      "answer": "The main objective of the paper is to introduce the Multi-Modal Language Model technique to the bioacoustics community and to examine its potential and limitations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We then propose potential future research directions to address these limitations. The objective of this paper is to introduce the Multi-Modal Language Model technique to the bioacoustics community and to examine its potential and limitations. Methods Multi-modal Language models Recent years have witnessed a surge of interest in the study of multi-modal models, primarily because of their unique ability to process and generate a range of data modalities simultaneously including vision, audio, and language39,50. Among the various combinations of multi modalities53 55, Multi-Modal Language Models39 43have become especially prominent. These models mainly focus on aligning language concepts with other data modalities (e.g., imagery and audio)39,50, an area of research invigorated by the successes of large language model (LLMs) development44. Traditional supervised learning protocols often struggle with mapping training data to language concepts or semantics39,41. For instance, categorical supervised learning labels data with discrete numerical labels, which often oversimplifies the complex language concepts they aim to represent. Take ImageNet56, one of the most widely applied datasets for image classification, as an example; even though there are 120 categories of dog breeds in the dataset, these categories are indistinguishable from categories such as cars or fish when encoded as discrete labels (Fig.",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_006",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What new monitoring strategy is being developed as described in the paragraph?",
+      "answer": "The new strategy combines non-invasive field sampling using baited tubes to collect fecal pellets and molecular species determination utilizing the mitochondrial COI gene as a barcoding marker.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In this way, small mammals can also be detected (Harper et al. 2019; Leempoel et al. 2020a, b). This latter method can be applied on a larger scale but again is limited by the inability to know the exact site of occur - rence of a detected species. The above review reflects the methodological and legal challenges that are associated with small mammal monitoring at small and large spatial and temporal scales. These challenges motivated us to develop a new monitoring strategy that combines non-invasive field sampling using baited tubes to collect fecal pellets and molecular species determination using the mitochondrial COI gene as a barcod- ing marker. Here we document the results of this pilot study to test the performance of our new monitoring strategy under large-scale conditions. The survey was performed under the supervision of scientific staff with expertise in mammalogy and molecular biology (study design and lab work). How - ever, the large spatial coverage and the high number of sam- ples is basically achieved by incorporating volunteers for fieldwork, e.g., rangers of national parks, citizen scientist or scientific staff without an explicit expertise in the field of DNA-barcoding.",
+      "macrotopic": "Life on land",
+      "topic": "Community conservation",
+      "subtopic": "Community wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Community conservation|Community wildlife monitoring_qna_006",
+      "value": 1
+    }
+  ]
+}

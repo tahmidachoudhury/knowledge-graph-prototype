@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement",
+      "label": "Soil water infiltration enhancement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did Basket and DeLonge compare infiltration rates in soils managed with conventional and alternative farming methods?",
+      "answer": "Basket and DeLonge conducted a meta-analysis to compare infiltration rates in soils managed with conventional and alternative farming methods.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0022316622131378",
+      "paragraph": "",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil water infiltration enhancement",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What directly impacts water flux regulation according to the paragraph?",
+      "answer": "Soil porosity, infiltration rates, and water-holding capacity directly impact water flux regulation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Similarly, soil porosity, in Itration rates, and water-holding capacity directly impact water ux regulation20,21 However, spatial assessment of SH fac es additional challenges due to the complex interactions between soil attributes and their spatial patterns22. Therefore, more comprehensive meth ods for broad spatial assessment of soil health (soil conditions) need to be developed. Even when soil datasets are available on a global scale23,24, they have gaps due to remote or inac- cessible regions, causing generalizations in the assessment of soil nuancesacross landscapes and climates worldwide 25 27. Georeferenced soil data scarcity and incomplete or uneven global distribution limit the SH assess-ment to traditional site-based methods, restricting them to a local orregional scale. Therefore, digital soi I mapping (DSM) enables the spatiali- zation of soil indicators and the SH, o ffering a solution by integrating varioussoildatasetstoge eratecontinuous sm a p sa SV a I u a b I ei in p u td a t af o r globally assessing SH. 1Department of Soil Science, Luiz de Queiroz College of Agriculture, University of S o Paulo, Piracicaba, S o Paulo, Brazil.2Center for Carbon Research in Tropical Agriculture (CCARBON) University of S o Paulo, Piracicaba, S o Paulo, Brazil.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil water infiltration enhancement",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil water infiltration enhancement_qna_001",
+      "value": 1
+    }
+  ]
+}

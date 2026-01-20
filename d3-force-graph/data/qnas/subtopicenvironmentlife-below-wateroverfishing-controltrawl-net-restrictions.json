@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "label": "Trawl net restrictions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the restrictions placed on the PVOL data?",
+      "answer": "The restrictions state that PVOL data cannot be distributed further and can only be used for extracting animal migration information for scientific research.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This server is maintained by the Swedish Meteorological and Hydrological Institute (SMHI) and further referred to as BALTRAD European PVOL data are generally not publicly available. Access is granted to members of the ENRAM consortium (including authors of this paper) by meteorological institutes of many OPERA member countries (i.e. the 18 countries covered by the data, as well as Austria and the United Kingdom) through a license agree - ment. It states that PVOL data cannot be distributed further and can only be used for the purpose of extracting animal migration information for scientific research These restrictions do not apply to derived VP/VPTS data. For the BALTRAD_VPTS 28 dataset, we obtained PVOL data from BALTRAD. For the UVA_VPTS29 dataset, the University of Amsterdam (UvA) obtained PVOL data as part of several research projects related to avia - tion safety and wind energy, from three national meteorological services: the Royal Meteorological Institute of Belgium (RMI), German Meteorological Service (DWD) and Royal Netherlands Meteorological Institute (KNMI). In contrast with (recent) data provided to BALTRAD, these data are unfiltered and often contain dual polarization quantities, which results in higher quality VP data (see Usage Notes).",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Trawl net restrictions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main limitation of supervised models in bioacoustics according to the paragraph?",
+      "answer": "The main limitation is their dependency on extensively manually annotated datasets and the inability to recognize classes that are absent from the training set, which is known as open set or novel species recognition.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Moreover, unlike tasks like human speech recognition, field recordings can encompass a broad array of sounds from diverse animals such as birds, frogs, whales, insects, and bats, each requiring specifically annotated datasets for training37,38. These constraints not only limit the applicability of supervised models in bioacoustics but also hamper their ability to recognize classes absent from the training set, known as open set or novel species recognition. The recent emergence of Multi-Modal Language Models39 44has spurred a transformative paradigm shift within the realm of AI applications, offering unparalleled model flexibility and potential. These Multi- Modal Language Models primarily focus on aligning language concepts with other forms of data modalities, especially perceptual ones such as images and audio. This alignment marks a stark difference from traditional machine learning models that rely on supervised learning, which emphasizes sample-to-label mapping45, or unsupervised learning, which lacks a direct connection to language semantics46,47. This paradigm shift opens up new possibilities for innovative solutions to overcome the challenges posed by current supervised-learning techniques in bioacoustics sound event detection: the dependency on extensive manually annotated data and the limitation to a predefined label space in a restricted setting.",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Trawl net restrictions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What equipment was used for the macroinvertebrate sampling?",
+      "answer": "A standardised handheld kick net with a frame size of 30 cm x 30 cm, mesh size of 500 m, and handle length of 1.5 m was used for macroinvertebrate sampling.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Samples were quickly placed in an ice filled cooler box and transported to the University of Mpumalanga laboratory for further processing. In the laboratory, the sediment samples were oven dried at 60 C for 72 h to a constant weight before being disaggregated in a porcelain mortar. The dried sediment samples were then homogenised using a riffle splitter, and thereafter, a sediment subsample of 0.5 kg was separated and sent to BEMLAB, Cape Town, for further analysis. The following elements were analysed on the sediment samples: Scientific Reports sediment pH (sedpH), resistivity (sedRes), stone, phosphorus (sedP), potassium (K), calcium (Ca), magnesium (Mg), sodium (Na), copper (Cu), zinc (Zn), manganese (Mn), boron (B), iron (Fe), sediment organic carbon (SOC), and sulphur (S) were quantified for each site and season using an inductively coupled plasma atomic emission spectroscopy (ICPMS) instrument (see Rice26 for detailed methodology). Macroinvertebrate sampling Macroinvertebrate samples ( n = 2 per site) were collected from the 16 river sites across the 2 seasons using a standardised handheld kick net (frame 30 cm 30 cm, mesh size 500 m, handle 1.5 m).",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Trawl net restrictions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_003",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How has the acceptance of live trapping evolved in recent years?",
+      "answer": "Although live trapping is comparatively less harmful than killing traps, it is becoming increasingly restricted in practice.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, commonly used monitoring strategies are increasingly restricted due to legal conflicts and meth- odological challenges. Traditionally, mammals were hunted or caught in dif- ferent types of traps that included killing traps for small mammals. This allowed species determination using outer appearance, fur colour, skull and skeletal morphology and internal anatomy, if necessary. Individuals could be meas- ured, described and voucher specimens could be deposited in public collections. However, the use of killing traps indis- criminately, or on a large scale is prohibited by the Berne Convention (adapted in the EU by Decision 82/72/EEC and subsequently in Germany by law since 2005). Thus, in recent decades the highest standards for monitoring quality were achieved using different kinds of commonly available live traps (Hoffmann et al. 2010 ; Torre et al. 2016 ). Although comparatively less harmful, live trapping is also becoming increasingly more restricted. In Germany, the federal law on nature protection ( 44 Abs. 1 Nr. 1) in general bans trapping (including live traps), if the potential for avoidable pains, suffering (including stress) or harm is associate with it ( 13 Protection of Animal Act).",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Trawl net restrictions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_004",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What size limitation is imposed on the small mammals that can be studied using the baited tubes?",
+      "answer": "The baited tubes limit fecal collection to animals below a weight of approximately 100 grams.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We describe the methodological approach (field, wet-lab and computer-lab) for large-scale species assessment based on fecal pellets (DNA source) and COI barcodes (molecular markers) and briefly discuss the list of species identified. The largely unrestricted legal framework and the large spatial coverage enabled by incorporating vol- unteers are key characteristics of our approach. This defines the potential for large scale biomonitoring of small mam- mals in an era of dramatic biodiversity loss. Method Fieldwork Baited tubes were used to collect fecal pellets from terres- trial small mammals in the field. These tubes were origi- nally described to detect Neomys fodiens in Great Britain (Churchfield et al. 2000). To make the tubes, plastic pipes 40 mm in diameter were cut into to 150 to 200 mm long pieces. One end was closed with a sock, metal net or other mesh fabric held in place by a strong rubber band. The size of the tube limited fecal collection to animals below a weight of circa 100 g. The tubes were baited with dried mealworms and brought out in the field. Small mammals feed and def- ecate frequently due to their high metabolism, and thus, we expect that some individuals will defecate while inside the tube, and the feces can be collected later.",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Trawl net restrictions",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Trawl net restrictions_qna_004",
+      "value": 1
+    }
+  ]
+}

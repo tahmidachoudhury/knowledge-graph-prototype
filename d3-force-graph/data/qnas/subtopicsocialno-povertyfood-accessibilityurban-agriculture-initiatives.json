@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives",
+      "label": "Urban agriculture initiatives",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What advantages does vertical farming offer in urban agriculture?",
+      "answer": "Biotechnological progress has evolved and contributed to the development of diverse crop varieties that thrive in specific conditions or urban settings.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666154324000255",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Urban agriculture initiatives",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are two major challenges faced in urban agriculture?",
+      "answer": "Limited space and high operational costs are two major challenges in urban agriculture.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666154324000255",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Urban agriculture initiatives",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can compact plant architecture and accelerated life cycle address challenges in urban agriculture?",
+      "answer": "Developing plants with compact architecture and accelerated life cycle can address challenges in urban agriculture by allowing for more efficient use of limited space and reducing the time needed for cultivation.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666154324000255",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Food accessibility",
+      "subtopic": "Urban agriculture initiatives",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives",
+      "target": "Subtopic:Social|No poverty|Food accessibility|Urban agriculture initiatives_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -4,7 +4,7 @@ import React, { useCallback, useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 
 import data from "../../data/main_graph.json"; // adjust path if needed
-import { ESG_MACROAREAS } from "@/lib/constants";
+import { ESG_MACROAREAS, ESGMacroArea } from "@/lib/constants";
 
 import getNodeColor from "@/lib/d3js/getNodeColor";
 import pentagonPath from "@/lib/d3js/pentagon";
@@ -43,13 +43,14 @@ export default function MainGraph({ onSubtopicClick }: Props) {
 
   const typed = data as unknown as MainData;
 
+
   const filterData = useCallback(
-    (macroArea: string | null) => {
+    (macroArea: ESGMacroArea | null) => {
       if (!macroArea) {
         const macroAreaNodes = typed.nodes.filter(
-          (n) => n.group === "MacroArea" && ESG_MACROAREAS.includes(n.label)
+          (n) => n.group === "MacroArea" && ESG_MACROAREAS.includes(n.label as ESGMacroArea)
         );
-        return { nodes: macroAreaNodes, links: [] as GraphLink[] };
+        return { nodes: macroAreaNodes, links: [] };
       }
 
       const nodeIds = new Set<string>();
@@ -93,7 +94,7 @@ export default function MainGraph({ onSubtopicClick }: Props) {
       simulationRef.current?.stop();
 
       const { nodes: filteredNodes, links: filteredLinks } =
-        filterData(macroArea);
+        filterData(macroArea as ESGMacroArea);
       if (filteredNodes.length === 0) return;
 
       const width = containerRef.current.clientWidth || window.innerWidth;
@@ -333,7 +334,9 @@ export default function MainGraph({ onSubtopicClick }: Props) {
   }, [showLinks]);
 
   useEffect(() => {
-    return () => simulationRef.current?.stop();
+    return () => {
+      simulationRef.current?.stop();
+    };
   }, []);
 
   return (

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing",
+      "label": "Regular water testing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How soon after collection were the water samples analyzed?",
+      "answer": "The water samples were analyzed within 8 hours of collection.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, two integrated water samples ( n = 5 replicates per sample) were randomly taken from each site using a bucket before being placed into a labelled bottle and stored on ice awaiting further analysing for nutrients (i.e., ammonium (NH4+), phosphates (PO )) in the laboratory. The water samples were analysed within 8 h of collection using a HANNA HI83300 multiparameter photometer (HANNA Instruments Inc., Rhode Island). A HANNA freshwater ammonia high range test kit (HI3824) with a range of 0 100 mg L 1 and a resolution of 0.1 mg L 1 was used based on the Nessler method from the American Society for Testing and Materials (ASTM) Manual of Water and Environmental Technology D1426. Phosphate concentration was measured using the HANNA phosphate high range (HI717) test kit, with a range of 0 30 mg L 1 and resolution of 0.1 mg L 1 based on the adaptation of the ammonia acid method for the Standards Methods for the Examination of Water and Wastewater, 18th edition. Sediment variables Integrated sediment samples ( n = 2 per each site, with a sample consisting of 5 replicates) were collected using a small plastic shovel, and each sample was placed in new polyethylene Ziplock bag to avoid cross contamination.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Regular water testing",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many integrated water samples were taken from each site for analysis?",
+      "answer": "Two integrated water samples were taken from each site.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, two integrated water samples ( n = 5 replicates per sample) were randomly taken from each site using a bucket before being placed into a labelled bottle and stored on ice awaiting further analysing for nutrients (i.e., ammonium (NH4+), phosphates (PO )) in the laboratory. The water samples were analysed within 8 h of collection using a HANNA HI83300 multiparameter photometer (HANNA Instruments Inc., Rhode Island). A HANNA freshwater ammonia high range test kit (HI3824) with a range of 0 100 mg L 1 and a resolution of 0.1 mg L 1 was used based on the Nessler method from the American Society for Testing and Materials (ASTM) Manual of Water and Environmental Technology D1426. Phosphate concentration was measured using the HANNA phosphate high range (HI717) test kit, with a range of 0 30 mg L 1 and resolution of 0.1 mg L 1 based on the adaptation of the ammonia acid method for the Standards Methods for the Examination of Water and Wastewater, 18th edition. Sediment variables Integrated sediment samples ( n = 2 per each site, with a sample consisting of 5 replicates) were collected using a small plastic shovel, and each sample was placed in new polyethylene Ziplock bag to avoid cross contamination.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Regular water testing",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Regular water testing_qna_001",
+      "value": 1
+    }
+  ]
+}

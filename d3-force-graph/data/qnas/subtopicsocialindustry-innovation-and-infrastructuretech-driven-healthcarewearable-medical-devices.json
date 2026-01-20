@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Wearable medical devices",
+      "label": "Wearable medical devices",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Wearable medical devices_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are EHDs and what are some examples of them?",
+      "answer": "EHDs, or electronic health devices, include items like glucose test strips, smart health patches, hearing aids, drug-releasing pumps, and electronic surgical tools.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " treatment) and non-clinical (provision of indi- rect patient care, i.e. hospital administration) services by employing semiconductive elements like transistors and integrated circuits to transform electrical energy into intel- ligent operations such as memory management, gesture control, and remote computing service. EHDs include but are not limited to glucose test strips, smart health patches, hearing aids, drug-releasing pumps, and electronic surgical tools (Shaw et al. 2016). While there are great opportunities created by the use of EHDs, these devices may also place a large burden on the environment. EHDs have both direct and indirect environ- mental impacts. Direct impacts are attributed to the life cycle stages of the device including raw material extraction, manu - facturing, distribution, use, and end-of-life (EOL). Currently, the healthcare sector mainly relies on a linear supply chain composed of single-use electronic devices (Benedettini 2022 ). This inherently unsustainable production and con - sumption model results in the depletion of natural resources, as well as excessive generation of e-waste (MacNeill et al. 2020).",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Wearable medical devices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Wearable medical devices_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What does the current healthcare sector rely on in terms of electronic devices?",
+      "answer": "The current healthcare sector mainly relies on a linear supply chain composed of single-use electronic devices.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " treatment) and non-clinical (provision of indi- rect patient care, i.e. hospital administration) services by employing semiconductive elements like transistors and integrated circuits to transform electrical energy into intel- ligent operations such as memory management, gesture control, and remote computing service. EHDs include but are not limited to glucose test strips, smart health patches, hearing aids, drug-releasing pumps, and electronic surgical tools (Shaw et al. 2016). While there are great opportunities created by the use of EHDs, these devices may also place a large burden on the environment. EHDs have both direct and indirect environ- mental impacts. Direct impacts are attributed to the life cycle stages of the device including raw material extraction, manu - facturing, distribution, use, and end-of-life (EOL). Currently, the healthcare sector mainly relies on a linear supply chain composed of single-use electronic devices (Benedettini 2022 ). This inherently unsustainable production and con - sumption model results in the depletion of natural resources, as well as excessive generation of e-waste (MacNeill et al. 2020).",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Wearable medical devices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Wearable medical devices",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Wearable medical devices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Wearable medical devices",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Wearable medical devices_qna_001",
+      "value": 1
+    }
+  ]
+}

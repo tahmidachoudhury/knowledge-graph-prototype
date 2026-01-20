@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Ultrafiltration membranes",
+      "label": "Ultrafiltration membranes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Ultrafiltration membranes_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the names of the two fractions obtained after ultracentrifugation?",
+      "answer": "The two fractions obtained were the soluble fraction (supernatant) and the membrane fraction (pellet).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The homogenate was centrifuged for 5 min at 9000 rpm at 4 C, and the supernatant was then centrifuged again at 54,0 rpm (TLAA55, Optima-Beckman, Indianapolis, USA) for 30 min at 4 C. To separate the soluble and Scientific Reports membrane fractions. Each sample after ultracentrifugation therefore gives two fractions, a supernatant called soluble fraction and a pellet called membrane fraction. The protein concentration was determined according to the Bradford method (1976) using a Bio-Rad protein assay kit with bovine gamma globulin as a standard. For each sample, 20 g was transferred to 0.5 mL polypropylene Protein LoBind Eppendorf tubes and precipitated via the chloroform-methanol method (Wessel and Flugge 1984). To solubilize the proteins, 20 L of 100 mM TEAB, pH 8.5 (triethylammonium bicarbonate) containing 0.5% RapiGest surfactant (Waters, Milford, USA), was added. In-solution trypsin digestion The proteins were then reduced with 5 mM DTT (dithiothreitol) and alkylated with 15 mM iodoacetamide. The samples were diluted five times with 20 L of 100 mM TEAB, pH 8.5. Proteolysis was performed with 1 g of Sequencing Grade trypsin (Promega, Madison, USA) and was continued overnight at 37 C. Each sample was dried under vacuum with an RVC 2 25 Martin Christ Concentrator (Martin Christ Instrument Inc., Osterode, Germany) and stored at -80 C. 2.5 Peptide separation using nanoUPLC.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Ultrafiltration membranes",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Ultrafiltration membranes",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Ultrafiltration membranes_qna_000",
+      "value": 1
+    }
+  ]
+}

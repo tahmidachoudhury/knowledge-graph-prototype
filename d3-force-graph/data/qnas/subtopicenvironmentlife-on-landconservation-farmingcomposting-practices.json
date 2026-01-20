@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Composting practices",
+      "label": "Composting practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Composting practices_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was compared to the mono-digestion of cattle manure in the study?",
+      "answer": "The study compared mono-digestion of cattle manure to a baseline scenario of soil incorporation of residues.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This was compared to the mono-digestion of cattle manure and a baseline sce- nario of soil incorporation of residues, using agricul- tural modelling and consequential LCA. We hypoth- esize that digesting cover crops and cattle manure would result in overall benefits for the environment, including ecosystems and resource availability due to displacement of natural gas. Methods Goal and scope Definition of the system An example-farm of 1,0 hectares and 560 dairy cat- tle was modelled, under Danish conditions. The num- ber of cattle was decided based on the amount of feed that could be produced at 1,0 hectares (detailed data included in the Supplementary information (SI)). The assessment was focused on the management of residues at the farm, including the cattle manure and the cover crop- and straw residues, applying conse- quential LCA methodology (Brand o et al. 2022). The farm area was divided into two crop rotation systems of 500 hectares each (rotation 1 and 2), of which one was included in the LCA (Fig. 1). These 500 hectares were used for cultivation of spring bar - ley, with under-sown cover crops (rotation 1).",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Composting practices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Composting practices_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did organic manure treatments compare to chemical fertilizer treatments in terms of microbial community diversity across growth stages?",
+      "answer": "Organic manure treatments resulted in less pronounced variation in microbial community diversity and structure across growth stages compared to the control and chemical fertilizer treatments.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Purpose Fertilization, a widely used agricultural management practice to maximum crop yields, significantly influences microbial community structure and diversity. Soil microbial communities are known to differ across plant growth stages, but how different organic and inorganic fertilization regimes shape microbial temporal variation remains unclear. Methods To investigate the temporal stability of microbial communities under organic and chemical fertilization, rhizosphere soil of sorghum was collected at four growth stages (jointing, heading, filling and maturity) in a long-term field experiment with multiple chemical and organic fertilization treatments. Results The results showed that, compared with the control and chemical fertilizer treatments, organic manure treatments resulted in less pronounced variation in microbial community diversity and structure across growth stages. Microbial COOC- currence networks in organic manure treatments were more robust compared to the control and chemical fertilizer treatments, indicating greater stability of microbial community temporal variation in organically fertilized soils. Across different growth stages, fungal communities in manure treatments showed no significant differences in diversity or community structure, and maintained low average variation degree, whereas bacterial communities were more variable. Conclusion These findings suggest that microbes in organically fertilized soils have more stable communities over time, with fungal communities being more stable than bacterial ones.",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Composting practices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Composting practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Composting practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Composting practices",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Composting practices_qna_001",
+      "value": 1
+    }
+  ]
+}

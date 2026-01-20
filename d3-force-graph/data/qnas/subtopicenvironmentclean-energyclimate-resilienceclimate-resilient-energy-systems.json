@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems",
+      "label": "Climate-resilient energy systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the principles and criteria outlined in the literature review by Sharif and Yamakawa (2016) for assessing urban energy resilience?",
+      "answer": "According to Sharif and Yamakawa (2016), the literature review identified principles and criteria for assessing urban energy resilience, including adaptability, diversity, redundancy, connectivity, efficiency, sufficiency, and transparency in urban energy systems to enhance resilience to various shocks and stresses.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Climate-resilient energy systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How are energy vulnerability and resilience defined in the article?",
+      "answer": "Energy vulnerability refers to the susceptibility of economies to energy shocks based on factors like industry dependence on energy, while energy resilience pertains to the resources and capabilities available to mitigate the socio-economic impacts of such shocks; they are intertwined but not overlapping concepts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL:https://doi.org/10.1007/s40812-025-00340-9 Journal of Industrial and Business Economics https://doi.org/10.1007/s40812-25-340-9 Abstract This paper analyses energy vulnerability and resilience in the EU. First, a compre - hensive review of the relevant literature is carried out, discussing key concepts and indicators used to assess countries relative positioning vis- -vis energy shocks. Second, we rely on a large set of indicators (i.e., share of energy intensive indus - tries, import dependency and market concentration, productive and technological capabilities in the renewables domain, policy efforts to increase energy resilience) to provide a thorough mapping of EU Member States positioning in terms of en - ergy vulnerability and resilience. Third, we assess industrial and energy policy ac - tions put in place at both the EU and the national level, highlighting relevant het - erogeneities and discussing whether policy efforts are consistent with the degree of vulnerability of Member States. Keywords Energy vulnerability Energy resilience Europe Industrial policy JEL classification C38 O13 Q43 Q48 1 Introduction Since the explosion of the war in Ukraine, accelerating the energy transition has become a top policy priority in Europe (Tagliapietra et al., 2023 ).",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Climate-resilient energy systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How are energy vulnerability and resilience characterized according to the paragraph?",
+      "answer": "Energy vulnerability and resilience are characterized as intertwined yet not overlapping concepts; both relate to the dependence on specific energy sources and supply security, with different levels of resources impacting the ability to mitigate socio-economic costs from energy shocks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2). Second, relying on a comprehensive set of empirical indica - tors, EU member states are mapped focusing on all the relevant dimensions that may affect their degree of vulnerability to adverse shocks, as well as the factors that may improve their resilience. The analysis is carried out over a rather long-time span, to highlight country-specific patterns as well as relevant discontinuities (Sect. 3). Third, an assessment of key EU policy actions aimed at reducing vulnerability and increas - ing energy resilience is provided, discussing whether there is consistency between size and characteristics of such policy efforts and the structural conditions of mem - ber states (Sect. 4). We conclude by discussing policy implications and avenues for future research. 2 Assessing economies positioning vis- -vis energy shocks: concepts and definitions As often happens, complex issues that become ubiquitous in the policy debate are exposed to the risk of inaccurate or partial representations. This is true also regarding economies ability to cope with energy shocks or, using the most common concepts found in the literature, their degree of energy vulnerability and resilience.",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Climate-resilient energy systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Climate-resilient energy systems_qna_002",
+      "value": 1
+    }
+  ]
+}

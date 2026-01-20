@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management",
+      "label": "Soil health monitoring and management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can total N2O or N2 production within the soil column be calculated?",
+      "answer": "By applying production-diffusion modelling to include subsoil fluxes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, measure- ment of 15N-labelled N2 and N2O surface gas fluxes excludes subsoil fluxes and pore space accumulation and thus under - estimates total denitrification rates (Sgouridis et al. 2016; Well et al. 2019b). To overcome this, production-diffusion modelling can be applied to calculate total N2O or N2 pro- duction within the soil column including subsoil fluxes (Well et al. 2019b). Growing plants exert great influence on denitrification by altering the availability of the main substrates (NO3 and Corg), as well as moisture and pH value of soils (von Rhein- baben and Trolldenier 1984; Malique et al. 2019; Rum- mel et al. 2021). Water uptake and transpiration by plants decrease soil moisture, thus decreasing the anaerobic soil volume and denitrification (Firestone and Davidson 1989; Buchen et al. 2016; Rummel et al. 2021). In contrast, root respiration and increased microbial activity caused by rhizodeposition can increase O2 consumption in the rhizo- sphere and therefore denitrification (Klemedtsson et al. 1987; Groffman et al. 1988; Hamonts et al.",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Soil health monitoring and management",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some of the benefits of healthy soils?",
+      "answer": "Healthy soils are associated with higher primary productivity, resilience to climate change, and play a pivotal role in food security and human health.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Traditional soil evaluation has greatly enhanced our understanding of soil properties, including pedology, pedom etrics, and related disciplines. How- ever, the exponential growth of soil health (SH) brings new perspectives thatemphasize a holistic assessment of phys ical, chemical, and biological indi- cators. Soil health is considered the frontier of soil science 1.T h i p r - hensive approach recognizes the intricate interplay of these factors, directlyin uencing the soil S functioning and the provision of critical ecosystem services. Therefore, SH can be de ned as the continued capacity of soil to function as a vital living ecosystem, sus taining plants, animals, and humans while connecting agricultural and soil science with policy, stakeholder needs, and sustainable supply chain management 2. This multidimensional concept integrates physical, chemical, and biological soil properties, re ecting its ability to support agricultural producti vity, regulate water and nutrient cycles, sequester carbon, resist erosion, and promote biodiversity. Healthy soils are associated with higher primary productivity3and resilience to climate change4. Thus, they play a pivotal role in reconciling food security, climate change mitigation and adaptation, and humanhealth 5.",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Soil health monitoring and management",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Soil health monitoring and management_qna_001",
+      "value": 1
+    }
+  ]
+}

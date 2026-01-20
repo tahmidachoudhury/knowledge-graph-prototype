@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "label": "Sampling frequency regulations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How often are scanning routines for PVOL data typically conducted?",
+      "answer": "Scanning routines for PVOL data are typically conducted every 5 to 15 minutes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " PVOL data result from the scanning routine of a radar (also known as volume coverage pattern or VCP). It consists of a number of scans (also called sweeps) collected at different elevation angles (angle between radar scan and horizon), with quantities observed by the radar such as reflectivity factor (DBZ) and radial velocity (VRAD) (see for example 24 for details). Scanning routines are typically conducted every 5 to 15 minutes and generally result in one PVOL file per routine. To exchange such data, national meteorological services in Europe collaborate in OPERA, the Operational Programme for the Exchange of Weather Radar Information25, under the umbrella of the European Meteorological Services Network, EIG EUMETNET. OPERA member countries submit PVOL data (or scans) to OPERA in real-time, using the ODIM HDF5 format26. Data are sometimes cleaned (i.e. filtered) for mete - orological purposes prior to distribution (see Usage Notes and20). These data are subsequently used in OPERA production centers to produce meteorological products. They are also forwarded to the OPERA development environment (ODE) server, where software called the BALTRAD Toolbox 27 does additional processing and archiving.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Sampling frequency regulations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What time intervals were used for sampling in the experiment?",
+      "answer": "The time intervals for sampling were 0.5, 1, 4, 8, 12, 24, 48, and 72 hours.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Finally, 1 mL was sampled at 0.5, 1, 4, 8, 12, 24, 48, and 72 h. The solution to be measured was obtained by filtration through a 0.22 m filter, and was used to detect the concentration of each heavy metal ion using ICP-MS. Three replicates were set up for all treatments. Adsorption model Pseudo-first-order, pseudo-second-order, Elovich and intraparticle diffusion models (Eqs. 14) were used to explore the kinetic parameters and adsorption mechanisms15. Qt=Qe(1 e K1t) (1) Qt=K2Q2 et 1+K2Qet (2) Qt=1 In(t+1)(3) Qt=Kintt1/2+C (4) where Qt (mg g 1) and Qe (mg g 1) are the adsorbed amounts of HMs at time t and at adsorption equilibrium, respectively; K1 (min 1), K2 (g (mg min) 1), and Kint (mg g 1 S 1) are pseudo-first-order and pseudo-second- order adsorption kinetic model and intraparticle diffusion model constants, respectively; (mg g 1 S 1) and (g mg 1) are the Elovich adsorption kinetic model rate constants for adsorption and desorption at time t, and C (mg g 1) is a constant.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Sampling frequency regulations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many occurrence locations remained after the filtering process?",
+      "answer": "After the filtering process, 5788 occurrence locations remained.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To address possible sample selection bias and spatial autocorrelation within the occurrence locations data, we filtered the D. rotundus occurrence locations to one per pixel (Fig. 1). Pixels were delineated based on the background environmental variables used for model calibration at 2.5-arc-minute (~ 5 km) resolution. To resample the occurrence locations to one per pixel, we created a blank raster mask of the same spatial scale and resolution as the background environmental variables for which each pixel was assigned a pixel index value for its corresponding location within the study area (i.e., Latin America). We then removed all but one occurrence location for each pixel index value within the study area ( n = 5788). As the current estimates of D. rotundus climatic suitability were to be calibrated using current climate estimates averaged across 30 years (1970 2000), occurrence locations that were redundant by location (i.e., duplicate coordinates) were not retained, even if they were collected in different years. This allowed us to mitigate any overrepresentation of certain oversampled climatic conditions. The remaining occurrence locations were then matched with the corresponding values of the background environmental variables (i.e., climate) from the WorldClim database62 at 2.5-arc-minute resolution 5 km).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Sampling frequency regulations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_003",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How were the occurrence locations divided after filtering?",
+      "answer": "The remaining occurrence locations were randomly split into 50% for training and 50% for testing subsets.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A Chi-squared test was used to identify which occurrence locations fell outside of the ellipsoid. Occurrence locations significantly outside the bulk of ellipsoids ( in = 269 or 4.6% of the occurrence locations) were identified as environmental outliers (i.e., occurrence locations which do not represent the typical climate tolerances of D. rotundus) and were removed (following methods of Qiao et al. 2024). After filtering in geographic and environmental space, the remaining 5519 occurrence locations were randomly split into 50% training 50% testing subsets for model calibration and evaluation. Ecological niche modeling Ecological niche model calibration, evaluation, and projection was completed in R using the kuenm package65. While 19 different metrics of climate are available within the WorldClim database, some of these variables are correlated. To reduce background environmental variable redundancy, we used a Pearson Correlation coefficient analysis64 of all 19 variables to eliminate highly correlated variables (i.e., 0.5, n = 12). The remaining seven Fig. 1 . Occurrence Location Filtering. A Geographic Space: Filtering of Desmodus rotundus occurrence locations from 1900-202360 in geographic space.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Sampling frequency regulations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How long was the sampling conducted for?",
+      "answer": "The sampling was conducted for a total time of 8 minutes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The following habitats were sampled along a 100 m transect for each sample: pools, bedrock, littoral/riparian vegetation/macrophytes, stones in current, stones out of current and rapids/riffles, gravel, sand and mud for a total time of 8 min. The net was fully immersed in the aquatic environment, and the collection of macroinvertebrates was conducted by systematically sweeping a designated area. The methodology encompassed the act of traversing the water while utilising a sampling net, and employing forceful movements to displace aquatic macrophytes, sand, and boulders. This action was undertaken with the purpose of dislodging macroinvertebrates that might be attached to the mentioned substrates. To avoid the potential escape of active macroinvertebrates, the net was expeditiously retrieved from the water column. The macroinvertebrates were afterwards transferred into a 500 mL plastic container and preserved in 70% ethanol solution. Macroinvertebrates were then taken to the laboratory for identification up to genus and/or species level in most instances following Fry27 identification guides. Data analysis Sediment metal, nutrient concentrations and water environmental variables (with the exception of pH) were log transformed to test for homogeneity of variances and normality.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Sampling frequency regulations",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Sampling frequency regulations_qna_004",
+      "value": 1
+    }
+  ]
+}

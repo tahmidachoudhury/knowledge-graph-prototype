@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural tourism",
+      "label": "Rural tourism",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can tourism development in Indonesia benefit from delivering tourism intelligence?",
+      "answer": "Tourism development in Indonesia can benefit from delivering tourism intelligence by gaining insights into consumer preferences, market trends, and industry innovations to enhance the overall tourism experience.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1029313224000010",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Rural tourism",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Mexico's GDP is accounted for by tourism?",
+      "answer": "Tourism accounts for approximately 8.8% of Mexico's GDP.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 2024). It is important to note that technological innovations pro- vide significant opportunities for reducing emissions, but the growth trajectory of the aviation sector suggests that in the absence of strong policy frameworks and lifestyle changes, achieving sustainability in air tourism is an unprecedented challenge (Pickard and Pasqualino 2022; Peeters and Papp 2024). The figures indicate that despite techno- logical advances, tourism emissions continue to increase, requiring urgent action, i.e. effective policies, implementing sustainable practices, industry engagement, behav - ioural changes among consumers to align with climate targets (Johnson 2020; Leal Filho et al. 2023; Peeters and Papp 2024; Radulovi , 2024). (3) Carbon policies and offsets. Effective policies and carbon offset strategies are required to mitigate these impacts (G ssling et al. 2007; Bows et al. 2009; G ssling 2010; Lom- bardi et al. 2011; B hm et al. 2012; Choi and Ritchie 2013; Cohen et al. 2014, 2016; Scott et al. 2016; Wang et al. 2017; Lee et al.",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Rural tourism",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Rural tourism",
+      "target": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Rural tourism",
+      "target": "Subtopic:Social|No poverty|Rural development|Rural tourism_qna_001",
+      "value": 1
+    }
+  ]
+}

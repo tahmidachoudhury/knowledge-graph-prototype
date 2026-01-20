@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Coastal litter",
+      "label": "Coastal litter",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Coastal litter_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do Bee harry et al. approach sustaining anti-littering behaviour within coastal and marine environments?",
+      "answer": "Bee harry et al. approach sustaining anti-littering behaviour within coastal and marine environments through the macro-micro level lenses, considering both broad and specific factors impacting littering behaviours.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S235255092200344X",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Coastal litter",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Coastal litter_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What was the main challenge of the JALISCO project in Europe, as discussed in Vega et al. (2016)?",
+      "answer": "The main challenge of the JALISCO project in Europe was enhancing public awareness and promoting co-responsibility for marine litter.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S235255092200344X",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Coastal litter",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Coastal litter",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Coastal litter_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Coastal litter",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Coastal litter_qna_001",
+      "value": 1
+    }
+  ]
+}

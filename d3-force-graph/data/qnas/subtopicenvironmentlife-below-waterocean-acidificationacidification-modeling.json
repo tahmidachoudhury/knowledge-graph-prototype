@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "label": "Acidification modeling",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are different modeling approaches important in ecological studies?",
+      "answer": "Different modeling approaches are important as they simulate a range of potential outcomes for target species, supporting decision-makers in minimizing biological consequences and preparing for possible environmental changes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 5Quantitative and Predictive Ecology Group, Department of Zoology, Gauhati University, Guwahati, Assam, 781014, India. email: kldpsarma306@gmail.com; ashalatadevi12@gmail.com OPEN Scientific Reports www.nature.com/scientificreports create an ideal condition for its growth5. The properties and distribution of I. griffithii are influenced by a range of environmental factors, including geographic location, climate, and soil conditions6,7. Climate change, along with habitat modification and degradation, significantly contributes to the rarity of specific species and the decline of biodiversity. Recent studies have extensively studied the impact of climate on distribution of plant species. Climate change can alter the species distribution which results in range shifts, habitat fragmentation and extinction of species. The studies carried out in species like Magnolia wufengensis8, Polygonum capitatum9, and Tecomella undulata10 indicate a drastic fluctuation in their suitable habitats due to temperature and precipitation changes. In this regard, different modeling approaches are beneficial for simulating a range of potential outcomes for target species, supporting decision-makers in minimizing biological consequences and preparing for possible changes. Species distribution models (SDMs) are most widely used to identify the environmental predictors that determine habitats suitability and to predict the impacts of climate change on various biota8.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification modeling",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does ensemble modeling address uncertainty in predictions?",
+      "answer": "Ensemble modeling addresses uncertainty by combining several species distribution models (SDMs) to create a consensus projection, which enhances prediction accuracy and reduces biases.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Wenger et al. (2013)21 described model uncertainty for ecosystem disturbing alien plant species using same environmental variables and species occurrence data. Adding parameters like vegetation type, edaphic factors, topography, species interactions and the geomorphology are strong predictors that can enhance accuracy for species distribution model22. From these drawbacks it is required for enhanced modeling techniques to understand the effects of climatic variables on distributions of species. Also, it is important to understand that while using single SDMs it is important to carefully select the model parameters and heed to other precautions to have a good prediction. As it will not lead to inaccurate results. Using ensemble modeling approach addresses the uncertainty with consensus projection. In ensemble modeling, each model carries both true signal and noise. The true signals capture the relationship between the predictor and response variables, while the noise is introduced by errors and uncertainties in the data and the framework of the model23. Ensemble models combined several SDMs to enhance prediction accuracy and reduces biases compared to individual models. Different studies have shown that ensemble models efficiently display habitat suitability and shifts under different climate change scenarios.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification modeling",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is a limitation of agent-based models (ABM) in simulating socio-ecological systems?",
+      "answer": "A limitation of ABM is that it typically relies on explicitly defined connection rules between components, and computational costs increase significantly as the number of components grows.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Similarly, studies on forest and grassland ecosystems have found that increased land-use intensity causes a shift from trade-offs to weak synergistic relationships among biodiversity, ecosystem functions, and services30. Identifying and clarifying the existence of the threshold is fundamental to developing adaptive ecological management and planning strategies31. Regrettably, current research has been sparse in uncovering the interconnected dynamics of SES elements with land-use and climate change, particularly the threshold effects of such responses. The various nonlinear dynamic modeling techniques have paved the way for conceptualizing and visualizing SES. Agent-based models (ABM) and system dynamics (SD) are two traditional approaches for modeling SES, widely applied in complex systems such as grazing systems32, coral reefs33, forest management34, and coastal fisheries35. ABM can simulate the behavior and interactions of individual components within a system. However, it typically relies on explicitly defined connection rules between components. Moreover, computational costs increase significantly as the number of components grows. While SD models the complex dynamic changes of SES by determining causal relationships between components, it tends to focus more on macro-level feedback loops, often overlooking the micro-level heterogeneity of agents, and is less effective in simulating the system S response to sudden disturbances.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification modeling",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What role does scenario-based modeling play according to the text?",
+      "answer": "Scenario-based modeling is mobilized at the science-policy interface to identify plausible futures and highlight the need to tackle drivers as a key element of transformative change to reverse biodiversity loss.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Costa Rica and France lead the High Ambition Coalition for Nature and People1 106 are key members of the Beyond Oil and Gas Alliance ¹07 and have been leading voices in the campaign for universal recognition of the right to a healthy environment. In recent months, the right to a healthy environment has been used by communities to block offshore oil and gas activities in Argentina and South Africa, because of the potential impacts on marine mammals. The right was used to compel governments in Indonesia and South Africa to take action to improve air quality and to stop an ill-advised coal-fired power project in Kenya. The right was used to protect forests from mining in Ecuador and to eliminate the use of a bee-killing pesticide in Costa Rica. Climate lawsuits drawing upon the right to a healthy environment are occurring all over the world, and research indicates they are more likely to be successful than not 108 Although not legally binding, the UN resolution is expected to accelerate action to address the global environmental crisis, just as UN resolutions on the right to water in 2010 turbocharged progress in delivering safe water to millions of people.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification modeling",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification modeling_qna_003",
+      "value": 1
+    }
+  ]
+}

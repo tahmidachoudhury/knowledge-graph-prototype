@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Safe drinking water access",
+      "label": "Safe drinking water access",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Safe drinking water access_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the change in access to safely managed water provisions before and after the lockdown?",
+      "answer": "Access to safely managed water provisions dropped from 30.0% to 24.6% due to the lockdown measures.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract The recent COVID-19 pandemic has considerably impacted negatively on many aspects of human life such as access to basic necessities including water, energy and food. This article aims to investigate the impact of the COVID-19 lockdown on the water, energy and food accessibility in Katsina state, Nigeria. The sur - vey involved the administration of a questionnaire to a total of 900 households out of which 66.7% representing 600 urban households and 33.3% are linked to 300 households of the rural sampled households. The null hypothesis (HO) was that there was no significant influence of the COVID-19 pandemic on the water, energy and food security concerning households. A paired t -test analysed the statistical mean of the water-energy-food accessibility under two scenarios (i.e. pre-COVID-19 and post-COVID-19 lockdown). The investigation found that the lockdown measures introduced to control the spread of COVID-19 had a signif- icant influence on the accessibility of water, energy and food. Results revealed that admission to safely managed water provisions dropped from 30.0 to 24.6% across the scenarios. The electricity index access has also reduced from 1.9 to 1.5.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Safe drinking water access",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Safe drinking water access",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Safe drinking water access_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Detection technologies",
+      "label": "Detection technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Detection technologies_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are some examples of nondestructive techniques used in PIE?",
+      "answer": "Examples of nondestructive techniques used in PIE include visual inspection, ultrasonic thickness testing, gamma emission scanning, and neutron radiography.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Idaho National Laboratory (INL), founded in 1949 as heNational Reactor Testing Station, has the mission of discovering, demonstrating, and securing innova- tive nuclear energy solutions, other clean energyoptions, and critical infrastructure. As part of this mission space, post-irradiation examination (PIE) is performed on nuclear fuels and materials to mea-sure their performance and understand the mate-rial behaviors in the extreme temperature and radiation environments of a nuclear reactor. Traditional PIE activities 6include nondestructive techniques such as visual inspection and pro lom- etry,7,8ultrasonic thickness testing,9 11gamma-(Received April 29, 2024; accepted October 18, 2024; published online December 18, 2024)JOM, Vol. 77, No. 3, 2025 https://doi.org/10.1007/s11837-24-6970-z/C2112024 Battelle Energy Alliance, under exclusive licence to The Minerals, Metals & Materials Society 1337 emission scanning, 12neutron radiography13, 14and tomography, 15, 16some semi-destructive examina- tions such as ssion-gas sampling, 17as well as destructive examinations involving techniques such as focused ion beam (FIB), scanning electron micro- scope (SEM), transmission electron microscope(TEM), 18 23and thermal property measure- ments,24 26among others.",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Detection technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Detection technologies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does PVOL data result from in radar technology?",
+      "answer": "PVOL data results from the scanning routine of a radar, which includes a number of scans collected at different elevation angles.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " PVOL data result from the scanning routine of a radar (also known as volume coverage pattern or VCP). It consists of a number of scans (also called sweeps) collected at different elevation angles (angle between radar scan and horizon), with quantities observed by the radar such as reflectivity factor (DBZ) and radial velocity (VRAD) (see for example 24 for details). Scanning routines are typically conducted every 5 to 15 minutes and generally result in one PVOL file per routine. To exchange such data, national meteorological services in Europe collaborate in OPERA, the Operational Programme for the Exchange of Weather Radar Information25, under the umbrella of the European Meteorological Services Network, EIG EUMETNET. OPERA member countries submit PVOL data (or scans) to OPERA in real-time, using the ODIM HDF5 format26. Data are sometimes cleaned (i.e. filtered) for mete - orological purposes prior to distribution (see Usage Notes and20). These data are subsequently used in OPERA production centers to produce meteorological products. They are also forwarded to the OPERA development environment (ODE) server, where software called the BALTRAD Toolbox 27 does additional processing and archiving.",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Detection technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Detection technologies",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Detection technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Detection technologies",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Detection technologies_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Smart grids for infrastructure",
+      "label": "Smart grids for infrastructure",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Smart grids for infrastructure_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can smart grids coupled with smart metering help in achieving Sustainable Development Goal 7?",
+      "answer": "Smart grids, when combined with smart metering, can assist in addressing SDG 7 by providing better awareness and control over energy consumption and appliance energy intensity. Prosumers can actively participate in generating, storing, and trading energy, contributing significantly towards sustainability within the energy sector and the achievement of SDGs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Smart grids for infrastructure",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Smart grids for infrastructure",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Smart grids for infrastructure_qna_000",
+      "value": 1
+    }
+  ]
+}

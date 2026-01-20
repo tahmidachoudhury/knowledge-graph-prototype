@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Clean production",
+      "label": "Clean production",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Clean production_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "On a scale of 1 to 5, how much do you agree that chemical pollutants are produced during the production of synthetic fibres like polyester?",
+      "answer": "Similarly, on a scale of 1 to 5, how much do you agree that chemical pollutants are produced during the production of natural fibres such as cotton?",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.researchgate.net/publication/356416401_The_circular_economy_and_bioeconomy_in_the_fashion_sector_Emergence_of_a_sustainability_bias",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Clean production",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Clean production",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Clean production_qna_000",
+      "value": 1
+    }
+  ]
+}

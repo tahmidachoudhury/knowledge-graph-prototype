@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Recyclable materials usage",
+      "label": "Recyclable materials usage",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Recyclable materials usage_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are two insights generated from this study regarding the use of REEs?",
+      "answer": "The study provides insights on using phytoextracted biomass containing REEs as valuable REEs/C materials and how to utilize technology to promote recycling of used materials to save the environment.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Chemisorption, such as ion exchange and chelation, plays a significant role in adsorption. During the carbonisation process of REEs/C, the REEs enriched in Dicranopteris pedata contributed to the formation of rare earth oxides and oxygen vacancies in the material, and these properties enhanced the Pb removal ability of REEs/C. Moreover, the REEs contained in the material did not cause a leaching phenomenon during Pb removal, which is a safe and environmentally friendly material. Finally, the REEs/C was applied to wastewater, and it was found that this material could effectively adsorb Pb from wastewater . Overall, this study generates a new insight into: firstly, how to use phytoextracted biomass containing REEs as valuable REEs/C materials; and secondly, how to save the environment by using technology that promotes recycling of used materials. Keywords Dicranopteris pedata , Rare earth elements/Carbonisation material, Pb(II), Chemisorption, Oxygen functional groups, Wastewater The mining and consumption of rare earth elements (REEs) in China is the largest in the world, and the ionic- adsorption-type Rare Earth Mine areas (IREMs) in southern China are rich in REEs, which are widely used in various fields.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Recyclable materials usage",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Recyclable materials usage_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What percentage of companies in the survey indicated they reuse or recycle materials with high frequency?",
+      "answer": "Approximately 61% of the companies who provided feedback and 52% of the total sample reported reusing and recycling materials with high frequency, despite not being fully convinced about the diffusion of this practice.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Recyclable materials usage",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Recyclable materials usage",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Recyclable materials usage_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Recyclable materials usage",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Recyclable materials usage_qna_001",
+      "value": 1
+    }
+  ]
+}

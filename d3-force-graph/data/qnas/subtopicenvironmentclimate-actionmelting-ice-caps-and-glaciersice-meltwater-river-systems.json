@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice meltwater river systems",
+      "label": "Ice meltwater river systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice meltwater river systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the primary external disturbances that threaten watershed sustainability in the Yangtze River basin?",
+      "answer": "The primary external disturbances are intensified land use and climate change.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Nonlinear responses of coupled socioecological systems to land use and climate changes in the Yangtze river basin Jianping Wu1, Wenjie Li2 , Hongbo Du2, Yu Wan2, Shengfa Yang2 & Yi Xiao2 The intensification of land use and climate change threatens watershed sustainability . These external disturbances drive complex interactions among components within watershed socio-ecological systems (SESs). Understanding how SESs respond to these changes is crucial for developing effective integrated watershed management strategies. Nevertheless, the nonlinear responses of these systems to such changes remain poorly understood. To fill this gap, this study proposes a network analysis method focusing on the Yangtze River Basin to construct an SES network comprising six dimensions, revealing the response of coupled relationships among network elements to climate and land-use change. The results showed that changes in land-use dynamics (LUD) and the standardized precipitation evapotranspiration index (SPEI) altered the link count and importance of network nodes, with notable shifts in vegetation and landscape nodes. Importantly , a strong nonlinear response of the LUD and SPEI to the coupled relationship between SES elements was observed, and critical thresholds were identified for all network attributes.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Ice meltwater river systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice meltwater river systems",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Ice meltwater river systems_qna_000",
+      "value": 1
+    }
+  ]
+}

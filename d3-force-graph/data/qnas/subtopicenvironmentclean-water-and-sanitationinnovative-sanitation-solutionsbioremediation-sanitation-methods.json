@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods",
+      "label": "Bioremediation sanitation methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the range of reported removal rates of DEET during wastewater treatment procedures?",
+      "answer": "The reported removal rates of DEET during wastewater treatment procedures range from 10 to 90%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Over 120 items have now been registered with the Environmental Protection Agency (EPA), including DEET as one of the ingredients, and these products are registered by around 30 distinct firms [5]. *Correspondence: S. Shanthakumar shanthakumar.s@vit.ac.in 1 Department of Environmental and Water Resources Engineering, School of Civil Engineering, Vellore Institute of Technology (VIT), Vellore 632014, India 2 Centre for Clean Environment, Vellore Institute of Technology (VIT), Vellore 632014, India Ricky et al. Environmental Sciences Europe (2025) 37:36 DEET reaches the aquatic matrix due to its increased domestic usage (showering, laundry, and by other means of disposal of personal care products in the drainage channel), resulting in the contamination of the sewage channel with DEET, subsequently leading to its pres - ence in the municipal wastewater treatment plants [6]. The degradation observed in wastewater treatment pro - cedures exhibits significant variability, with reported removal rates ranging from 10 to 90% [7]. Numerous investigations have elucidated the possible neurotoxic and cardiotoxic effects associated with DEET, which can manifest as severe bradycardia, coma, encephalopa - thy, convulsions, and hypotension [8].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "subtopic": "Bioremediation sanitation methods",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What experiment was designed to evaluate the removal capacity of various REEs/C?",
+      "answer": "An experiment was designed for removing Pb(II) utilizing three tested REEs/Cs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The specific surface areas of Dicranopteris pedata REEs/C with different preparation temperatures were obtained from Brunauer-Emmett-Teller (BET, BELSORP-mini II, Japan), based on N2 adsorption and desorption curves. The morphological and elemental compositions of Dicranopteris pedata REEs/C with different preparation temperatures were detected by Ultrahigh resolution cold field emission scanning electron microscope (SEM, Regulus 8100, Hitachi, JPN). It was combined with EDS (JEM-2100, Lorentz) using an acceleration voltage of 5.2 kV . Differences on the surface elemental composition and speciation of Dicranopteris pedata REEs/C with different preparation temperatures were analysed by Multifunctional imaging electron spectrometer (XPS, Thermo ESCALAB 250XI, Thermo Fisher Scientific, USA). Here the test parameters were ALK (hv = 1486.6 eV), 150 W 500 m, and the calibration point of the binding energy of the instrument was C1s = 284.8 eV . The electrical charge characteristics of REEs/C with different preparation temperatures were measured using a Zeta point position analyser in different pH (NANO ZS, Malvern Panalytical, UK). Removal experiment To evaluate the removal capacity of various REEs/C, we designed an experiment for removing Pb(II) utilising three tested REEs/Cs.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "subtopic": "Bioremediation sanitation methods",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Bioremediation sanitation methods_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity standards",
+      "label": "Connectivity standards",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity standards_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What defines what the rest of the network expects from a node?",
+      "answer": "The notional identity stored in the set of established relations (mutual information) in the network defines what the rest of the network expects from a node.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " This representation defines what the rest of the network expects from this node. This notional identity is stored in the set of established relations (mutual information) in the network. 2. From the inside of the node (right-hand graph), by looking at the metabolic characteristics of the various structural elements operating within the node (each element having its own structural identity). In this way, we observe the tangible aspects of the structural elements of the node (its lower-level parts), whose metabolic identity is determined by encoded information (genome) defining their material organization. For instance, in Fig. 1, this refers to the specific identity of the organisms belonging to the different species operating in the node herbivores, such as sheep, rabbits, and donkeys. These two different ways of representing functional nodes imply the simultaneous presence of two contrasting directions of causality in the definition of the identity of the metabolic network: a downward causation (what is expected from the functional nodes by the whole) and an upward causation (what can be done and is done given the set of structural elements of the nodes and their characteristics) (Campbell 1974 ).",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Connectivity standards",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity standards",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Connectivity standards_qna_000",
+      "value": 1
+    }
+  ]
+}

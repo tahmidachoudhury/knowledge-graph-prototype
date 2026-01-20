@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks",
+      "label": "Industrial symbiosis networks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the advantages of using network theory compared to ABM and SD methods?",
+      "answer": "Network theory accounts for both the macrostructure and microdynamic changes of system components, and it requires lower computational costs, making it suitable for complex systems with many components.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Compared to ABM and SD methods, network theory accounts for both the macrostructure of the system and the microdynamic changes of its components. Moreover, it requires lower computational costs, making it suitable for complex systems with a large number of components. Network theory has been widely applied to analyze interconnected systems in genetic regulation36, transportation37, and soil microbiology38. In this framework, a network comprises nodes that represent system elements with links that characterize their interactions. Network attributes (e.g., connectance and modularity) characterize the relative importance of various components within a system and the degree of their interconnections, providing comprehensive indicators to quantify the coupled relationships in SESs12,30. The Y angtze River Basin (YRB) serves as a vital ecological shield, energy hub, and agricultural heartland of China. However, with accelerating urbanization and an increase in extreme weather events, the human- environment relationship in the YRB is deteriorating, the ecosystem supply capacity is decreasing, and watershed ecological problems are prominent39. To address these challenges and achieve sustainable ecosystem development, it is crucial to understand how socio-ecological systems (SESs) in the YRB respond to shifting environmental conditions.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "subtopic": "Industrial symbiosis networks",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the two ways in which the metabolic characteristics of the network can be represented?",
+      "answer": "The metabolic characteristics can be represented from the outside of the node, considering it as a functional whole, and from within the node, detailing the specific relations among individual organisms.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In these narratives, living systems which are com- plex adaptive systems are described as metabolic sys- items operating over different hierarchical levels, in which structural elements (parts) generate a series of functional types (expressing part whole relations) that, in a syner - gic collaboration, reproduce the structural elements of the whole (e.g., Lomas and Giampietro 2017; Odum 1971a; Ulanowicz 1986). This postulate is illustrated for a basic ecosystem in Fig. 1, using the iconic graph proposed by Odum (1983). The left-hand graph of Fig. 1 shows the relations between the functional elements (the nodes) plants, herbivores, carnivores of an ecosystem (the whole). The right- hand graph of Fig. 1 details the specific relations among the structural elements (individual organisms) inside the functional node herbivores . The latter graph shows that the metabolic characteristics of the network can be represented in two non-equivalent ways: 1. From the outside of the node (left-hand graph), i.e., seen from the perspective of the rest of the network, considering the node herbivores as a functional whole.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "subtopic": "Industrial symbiosis networks",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the two contrasting directions of causality that imply the definition of the identity of the metabolic network?",
+      "answer": "The two contrasting directions of causality are downward causation (what is expected from the functional nodes by the whole) and upward causation (what can be done and is done given the set of structural elements of the nodes).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This representation defines what the rest of the network expects from this node. This notional identity is stored in the set of established relations (mutual information) in the network. 2. From the inside of the node (right-hand graph), by looking at the metabolic characteristics of the various structural elements operating within the node (each element having its own structural identity). In this way, we observe the tangible aspects of the structural elements of the node (its lower-level parts), whose metabolic identity is determined by encoded information (genome) defining their material organization. For instance, in Fig. 1, this refers to the specific identity of the organisms belonging to the different species operating in the node herbivores, such as sheep, rabbits, and donkeys. These two different ways of representing functional nodes imply the simultaneous presence of two contrasting directions of causality in the definition of the identity of the metabolic network: a downward causation (what is expected from the functional nodes by the whole) and an upward causation (what can be done and is done given the set of structural elements of the nodes and their characteristics) (Campbell 1974 ).",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "subtopic": "Industrial symbiosis networks",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Industrial symbiosis networks_qna_002",
+      "value": 1
+    }
+  ]
+}

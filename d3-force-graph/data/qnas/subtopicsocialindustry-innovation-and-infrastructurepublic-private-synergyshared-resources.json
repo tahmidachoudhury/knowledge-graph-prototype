@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources",
+      "label": "Shared resources",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Can you share adapted material derived from this article under the same license?",
+      "answer": "No, sharing adapted material derived from this article or parts of it is not permitted under this license.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " RESEARCH Open Access The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article S Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article S Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence,visithttp://creativecommons.org/licenses/by-nc - n d / 4 0 / Guo et al. BMC Genomics (2025) 26:186 . https://doi.org/10.1186/s12864-25-11382-7BMC Genomics *Correspondence: Guanpin Yang yguanpin@ouc.edu.cn 1College of Marine Life Sciences, Ocean University of China (OUC), Qingdao 266003, P .",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Shared resources",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How much performance improvement, measured in mIoU, is achieved by merging different-architecture models with a shared backbone?",
+      "answer": "Merging different-architecture models with a shared backbone achieves a performance improvement of 6.8% in mIoU.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Experimental results demonstrate substantial UDA improvements without additional costs for merging same-architecture models from distinct datasets ( 2.6% mloU) and different-architecture models with a shared backbone ( 6.8% mloU). Furthermore, merging semantic and panoptic segmen-t tation models increases mPQ by 7%. These ndings are validated across a wide variety of UDA strategies, architectures and datasets. The code will be publicly available upon acceptance in the LWMM repository: http://www-vpu.eps.uam.es/LWMM/ . Keywords Model merging Unsupervised domain adaptation Semantic segmentation Panoptic segmentation Synthetic data 1 Introduction Unsupervised domain adaptation (UDA) aims to train models from a source labeled domain that can generalize to an unla- beled target domain, key for tasks with limited annotated data due to the capture dif culty or the high annotation costs (e.g.,semantic or panoptic segmentation [ 1]). Thus, automatically annotated synthetic datasets emerge as attractive alternative for the source domain for segmentation tasks [ 2 6]. While Roberto Alcover-Couso work done prior to joining Amazon. B Roberto Alcover-Couso Proberto.alcover@estudiante.uam.es Juan C. SanMiguel juancarlos.sanmiguel@uam.es Marcos Escudero-Vi olo marcos.escudero@uam.es Jos M. Mart nez josem.martinez@uam.es 1Video Processing and Understanding Lab, UniversidadAut noma de Madrid (UAM), 28049 Madrid, SpainUDA has demonstrated remarkable success in various com- puter vision tasks, its application to segmentation tasks often faces challenges such as unstable training dynamics [ 7 11] and underperformance compared to supervised models [ 12 15].",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Shared resources",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What performance improvements were observed in the research when merging models from different architectures with shared parameters?",
+      "answer": "The research demonstrated a 6.8% increase in mean IoU (mIoU) when merging different-architecture models with a shared backbone.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Experimental results demonstrate substantial UDA improvements without additional costs for merging same-architecture models from distinct datasets ( 2.6% mloU) and different-architecture models with a shared backbone ( 6.8% mloU). Furthermore, merging semantic and panoptic segmen-t tation models increases mPQ by 7%. These ndings are validated across a wide variety of UDA strategies, architectures and datasets. The code will be publicly available upon acceptance in the LWMM repository: http://www-vpu.eps.uam.es/LWMM/ . Keywords Model merging Unsupervised domain adaptation Semantic segmentation Panoptic segmentation Synthetic data 1 Introduction Unsupervised domain adaptation (UDA) aims to train models from a source labeled domain that can generalize to an unla- beled target domain, key for tasks with limited annotated data due to the capture dif culty or the high annotation costs (e.g.,semantic or panoptic segmentation [ 1]). Thus, automatically annotated synthetic datasets emerge as attractive alternative for the source domain for segmentation tasks [ 2 6]. While Roberto Alcover-Couso work done prior to joining Amazon. B Roberto Alcover-Couso Proberto.alcover@estudiante.uam.es Juan C. SanMiguel juancarlos.sanmiguel@uam.es Marcos Escudero-Vi olo marcos.escudero@uam.es Jos M. Mart nez josem.martinez@uam.es 1Video Processing and Understanding Lab, UniversidadAut noma de Madrid (UAM), 28049 Madrid, SpainUDA has demonstrated remarkable success in various com- puter vision tasks, its application to segmentation tasks often faces challenges such as unstable training dynamics [ 7 11] and underperformance compared to supervised models [ 12 15].",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Public-private synergy",
+      "subtopic": "Shared resources",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Public-private synergy|Shared resources_qna_002",
+      "value": 1
+    }
+  ]
+}

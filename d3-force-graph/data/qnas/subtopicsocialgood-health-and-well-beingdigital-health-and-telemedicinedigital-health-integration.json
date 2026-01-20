@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "label": "Digital health integration",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What novel method does the paper propose for model merging?",
+      "answer": "The paper proposes a cost-free layer-wise model merging method that integrates existing pretrained models without the need for additional training costs.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL: https://doi.org/10.1007/s00371-025-03843-7 The Visual Computer https://doi.org/10.1007/s00371-25-3843-7 RESEARCH Layer-wise model merging for unsupervised domain adaptation in segmentation tasks Roberto Alcover-Couso1 Juan C. SanMiguel1 Marcos Escudero-Vi olo1 Jos M. Mart nez1 Accepted: 7 February 2025 The Author(s) 2025 Abstract Merging parameters of multiple models has resurfaced as an effective strategy to enhance task performance and robustness, but prior work is limited by the high costs of ensemble creation and inference. In this paper, we leverage the abundance of freely accessible trained models to introduce a cost-free approach to model merging. It focuses on a layer-wise integration ofmerged models, aiming to maintain the distinctiveness of the task-speci C nal layers while unifying the initial layers, which are primarily associated with feature extraction. This approach ensures parameter consistency across all layers, essential for boosting performance. Moreover, it facilitates seamless integration of knowledge, enabling effective merging of modelsfrom different datasets and tasks. Speci cally, we investigate its applicability in unsupervised domain adaptation (UDA), an unexplored area for model merging, for semantic and panoptic segmentation.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health integration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed model merging technique improve performance without incurring additional costs?",
+      "answer": "The proposed layer-wise model merging technique integrates weights derived from different models, leveraging multiple parameter sets to create a unified model that retains beneficial adaptations while requiring only a single model inference, thus avoiding additional training and computation costs.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Since UDA research often explores a variety of adaptation strategies on a common base architecture, it nat-urally produces multiple sets of learned parameters. Model merging can then use these diverse parameter sets to create a uni ed model that retains the bene cial adaptations of eachapproach. To evaluate our proposal for semantic and panoptic segmentation, we set an extensive baseline by experiment- ing with various model merging methods based on the sameor different datasets and architectures. Our experiments also address two challenges. The rst one aims to incorporate high-performing yet computationally expensive models into faster but less accurate ones. Our proposal increases speedby 3.25 times with performance increases up to 6.8% in mloU. The second challenge is for combining models from easier tasks into harder tasks. Our proposal presents perfor-mance gains of 3.4% in mloU and 7% in mPQ compared to previous state-of-the-art UDA methods for, respectively, semantic and panoptic segmentation (see Fig. 1). Our results are validated across various UDA synthetic-to-real setupsfor multiple strategies (including adversarial, self-training and entropy minimization), architectures (convolutional and transformer based) and datasets (Cityscapes and Mapillary).",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health integration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main focus of the proposed layer-wise merging method in UDA?",
+      "answer": "The proposed layer-wise merging method focuses on combining the strengths of different models by separately merging earlier layers that extract features and later layers that are specific to classification tasks, aiming to improve performance and performance consistency across various tasks.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Early research on model merging focused on learning convergence[ 23,24], but declined over time with newer training and regularization methods. Later, the rise of large language models and self-supervised learning have reignited interest in model merging [ 27 29], as it provides a training-free mechanism to leverage knowledge from differ- ent sources. Recent methods apply model merging mostly to different checkpoints obtained during the same training pro-cess, eliminating additional computation costs for ensembletraining and inference [ 27,30 32]. However, these meth- ods use models close in the parameter space, such as ones obtained from different seeds [ 26,29] or different ne-tuning versions [ 28,33 35], as merging models with misaligned layers typically leads to a notable performance decline [ 32, 34 36]. Therefore, current methods disregard to explore the possible bene its of combining the plethora of existing mod- els trained using different methods and tasks. Additionally, to the best of our knowledge, model merging methods havenot been explored and benchmarked for UDA [ 2 5,37]. To overcome the above-mentioned de ciencies, we pro- pose a novel training-free layer-wise merging method that exploits the speci C strengths of deeper layers closer to theclassi cation output and the broader generalization capabil- ities of shallower layers, making it capable of effectively merging models derived from different datasets and tasks.We argue that the combination of model weights in the con- text of UDA has far more applications than the limited scope in which it is currently being employed (i.e., teacher studentframework), such as combining models from different tasks.Moreover, we nd that UDA is an ideal testbed for model merging.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health integration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main focus of the proposed layer-wise model merging method in the context of UDA?",
+      "answer": "The proposed layer-wise model merging method focuses on cost-free integration of different pretrained models by merging the initial layers to unify feature extraction while maintaining the distinctiveness of the task-specific final layers, aimed at improving performance in unsupervised domain adaptation tasks.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Since UDA research often explores a variety of adaptation strategies on a common base architecture, it nat-urally produces multiple sets of learned parameters. Model merging can then use these diverse parameter sets to create a uni ed model that retains the bene cial adaptations of eachapproach. To evaluate our proposal for semantic and panoptic segmentation, we set an extensive baseline by experiment- ing with various model merging methods based on the sameor different datasets and architectures. Our experiments also address two challenges. The rst one aims to incorporate high-performing yet computationally expensive models into faster but less accurate ones. Our proposal increases speedby 3.25 times with performance increases up to 6.8% in mloU. The second challenge is for combining models from easier tasks into harder tasks. Our proposal presents perfor-mance gains of 3.4% in mloU and 7% in mPQ compared to previous state-of-the-art UDA methods for, respectively, semantic and panoptic segmentation (see Fig. 1). Our results are validated across various UDA synthetic-to-real setupsfor multiple strategies (including adversarial, self-training and entropy minimization), architectures (convolutional and transformer based) and datasets (Cityscapes and Mapillary).",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health integration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_004",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the benefits of the novel model merging method introduced in the research?",
+      "answer": "The method allows for cost-free merging of pretrained models, enabling the combination of models designed for different tasks without incurring additional training costs, and facilitating effective integration of knowledge from different datasets and tasks.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 2.2 Training strategies for unsupervised domain adaptation UDA has been widely explored for semantic [ 7,44 46], and panoptic segmentation [ 2,47,48]. Methods based on Deep Learning focus on minimizing source-target differences at feature level [ 44,45] using statistical metrics like maxi- mum mean discrepancy [ 49,50], correlation alignment [ 51, 52], or entropy minimization [ 8,10]. Others employ Adver- sarial training by learning a domain discriminator within a generative adversarial network (GAN) framework [ 53] to enforce domain-invariant inputs [ 54,55], features [ 46, 56 58] or outputs [ 8,9,11]. Lastly, self-training generates pseudo-labels [ 59] for the target domain based on predictions obtained using con dence thresholds [ 6,60,61] or pseudo- label prototypes [ 61,62]. More recent methods based on Transformers tackle noisy training and concept drifting [ 63, 64] by incorporating consistency regularization [ 65,66]t o ensure uniformity across diverse data augmentations [ 67,68], different crops [ 4,69], domain-mixup [ 4,21,70,71]o rc ur - riculum learning [ 7,72]. Currently, enhancing robustness is dominated by the teacher student framework [ 26], where the teacher model is updated via an exponential moving averageof the student weights [ 2 5].",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health integration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health integration_qna_004",
+      "value": 1
+    }
+  ]
+}

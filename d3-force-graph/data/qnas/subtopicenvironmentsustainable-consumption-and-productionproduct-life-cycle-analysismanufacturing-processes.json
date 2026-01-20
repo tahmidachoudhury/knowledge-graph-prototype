@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "label": "Manufacturing processes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors were found to affect the sustainability of the aluminum production process the most according to the LCA study?",
+      "answer": "The distance to the SPL treatment plant, the energy used during treatment, and the SPL pre-processing were found to affect sustainability the most.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The electrolyte condensate mainly consists of NaF og Na 3AIF 6. An LCA study on the process related to Norwegian aluminum smelters has been performed and the distance to the SPL treatment plant, the energy used during treatment and the SPL pre-processing, was found to a ect the sustainability of such an industrial process the most. https://doi.org/10.1007/s11663-25-3481-3/C211TheAuthor(s) 2025 I. INTRODUCTION ALUMINUM is produced using the Hall He roult process in an electrolysis cell consisting of a carbon anode and a graphitic cathode with a cryolitic-basedelectrolyte in-between. The cathode lining consists of a rectangular steel casing lined with sidewall lining mate- rials consisting of graphite or Si 3N4bonded SiC blocks,[1]and at the bottom; graphitized or semi-graphi- tized carbon cathode blocks with ramming paste in-be- tween, refractory and thermal insulation materialsconsisting mainly of SiO 2and Al 203, SiO 2and CaO, SiO 2and MgO-based ceramics[2]as the bottom lining materials. The cell cavity is ca. 0.4 0.5 m after all thelining materials and graphite cathode are installed. A cross-sectional sketch of an electrolysis cell is given in The Hall He roult process employs two di erent anode designs called the S derberg and prebaked anode designs.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "subtopic": "Manufacturing processes",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How are value chains related in the production of textile products?",
+      "answer": "In the production of textile products, since like products are made of several components, it entails a multitude of related value chains. These value chains encompass various stages such as spinning fibre into yarn, weaving, adding chemical finishings, assembling the final product with cutting and sewing components like fabric, buttons, and zippers.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652623016591",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "subtopic": "Manufacturing processes",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What is the output of the material production stage?",
+      "answer": "The output of the material production stage is 100 kg yarn, along with waste and emissions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652624007261",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "subtopic": "Manufacturing processes",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main objective of the study mentioned in the paragraph?",
+      "answer": "The main objective of the study is to obtain new experimental data on melting equilibria and solid-state transformations for typical silicon contents in electrical steel, and to reassess the thermodynamic system over the entire alloy range for better process modeling.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL: https://doi.org/10.1007/s11663-024-03419-1 ORIGINAL RESEARCH ARTICLE A Hybrid Update of the Fe-Si System by DSC, Thermodynamic Modeling and Statistical Learningfrom Ladle Re ning Data of Electrical Steels MICHAEL BERNHARD, DANIEL KAVIC, PETER PRESOLY, TAE-GYU WI, WON-BUM PARK, ROMAN RO SSLER, ALFRED JUNGREITHMEIER, SERGIU ILIE, CHRISTIAN BERNHARD, and YOUN-BAE KANG Electrical steels, also known as silicon steels, are essential materials in electrical applications due to their unique magnetic properties, which are enhanced by adding up to 3.5 wt pct Si. However, alloying with ferrosilicon FeSi75, a mixture of 25 wt pct Fe and 75 wt pct Si, during ladlere ning faces steelmakers with metallurgical challenges, primarily due to the strong exothermicreaction during its dissolution in liquid steel. Here, solution thermodynamics of the Fe-Si system o er insights into the heat evolution and, therefore, superheating control for continuous casting. This study experimentally reassesses the binary Fe-Si system using Di erential ScanningCalorimetry (DSC) and High-Temperature Laser Scanning Confocal Microscopy (HT-LSCM) to investigate phase equilibria between 0.50 and 12.50 wt pct Si and from 600 /C176C to 1550/C176C.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Product life-cycle analysis",
+      "subtopic": "Manufacturing processes",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Product life-cycle analysis|Manufacturing processes_qna_003",
+      "value": 1
+    }
+  ]
+}

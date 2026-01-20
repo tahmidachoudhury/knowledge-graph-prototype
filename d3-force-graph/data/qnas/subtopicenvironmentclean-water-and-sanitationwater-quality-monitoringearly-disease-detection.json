@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Early disease detection",
+      "label": "Early disease detection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Early disease detection_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is the juvenile stage of COTS considered a \"black box\" in understanding outbreaks?",
+      "answer": "The early herbivorous juvenile stage of COTS is not well understood compared to the larval and adult stages, which are currently the focus of explanatory paradigms regarding outbreaks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract The crown-of-thorns sea star (COTS, Acan- thaster sp.) is a coral predator that, in population outbreaks, causes major coral loss in Indo-Pacific reefs. Current para- digms explaining the cause of outbreaks focus on the larval and adult stages, while the early herbivorous juvenile stage remains a black box in our understanding of COTS. We fol- lowed growth in a large laboratory population of juveniles from settlement to 300 days. Ontogenetic changes in eight traits over time were quantified, including those typically used to track growth in sea stars (total diameter, arm num- ber) and traits not previously quantified (e.g. spine number/ type). Combinations of traits were modelled against age to explore their potential as indicators of age. Total diameter exhibited a strong association with age, as did covarying traits: central disk diameter, mouth diameter and arm length. The number of pointed spines was also strongly associated with age, greater in association than arm number. Our results indicate that use of a combination of morphological traits has potential as an indicator of juvenile age.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Early disease detection",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Early disease detection",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Early disease detection_qna_000",
+      "value": 1
+    }
+  ]
+}

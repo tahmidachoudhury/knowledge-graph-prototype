@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology",
+      "label": "Advances in biomass technology",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of advancements in 2D and 3D modeling techniques as discussed in the paragraph?",
+      "answer": "The advancements offer a deeper understanding of the complex interactions and behaviors within fluidized bed reactors.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " They identified two primary issues, one being the inadequate portrayal of the splash zone at the top of the fluidized bed, attributed to the limited depiction of bubble formation. Furthermore, they observed more pronounced recirculating flow patterns in the 2D mod- els due to varying mass transfer resistances, complicating the prediction of resultant residence times or the accurate gas solid contact necessary for simulating the fluidized bed height [26]. These studies collectively highlight the advancements in 2D and 3D modeling techniques for fluidized bed com- bustion systems, offering a deeper understanding of the complex interactions and behaviors within these reactors. The choice between 2 and 3D modeling depends on the specific objectives of the research, with 3D models pro- viding a more detailed and comprehensive representation of the physical phenomena at the cost of higher computa- tional resources. Despite the extensive research conducted on woody biomass combustion within fluidized bed systems, a direct comparative analysis between 2 and 3D modeling specifi- cally tailored to this context remains notably absent from the literature. This gap highlights the originality and potential contribution of studies that embark on this comparative jour - ney.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Advances in biomass technology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology_qna_001",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How has Thomas et al. contributed to the field of solid-state fermentation?",
+      "answer": "Thomas et al. have contributed to the field of solid-state fermentation by providing insights into current developments and advancements in the process.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Advances in biomass technology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the current status of bioethanol production from food waste according to Singh et al. (2022)?",
+      "answer": "According to Singh et al. (2022), the production of bioethanol from food waste is in progress, with advancements being made in this area.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Advances in biomass technology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the average installed capacity increase for bioenergy in Brazil from 2009 to 2018?",
+      "answer": "The average installed capacity increase for bioenergy in Brazil was 0.14%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Advances in biomass technology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What technological advancements have contributed to the production of sustainable fibres in the last two decades?",
+      "answer": "Technological advancements in polymer science have resulted in the production of fibres like soybean protein, bamboo, Lumpur, Sea Cell, and polylactic acid (PLA), which are prepared from renewable sources and biodegradable at the end of their life cycle.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/B9780128240526000135",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Advances in biomass technology",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Advances in biomass technology_qna_004",
+      "value": 1
+    }
+  ]
+}

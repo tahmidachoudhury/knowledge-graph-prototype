@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency",
+      "label": "Clean energy and energy efficiency",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why might energy efficiency policies be ineffective if implemented without measures to control rebound effects or coupled with renewable energy policies?",
+      "answer": "Energy efficiency policies can be ineffective if not accompanied by measures to control rebound effects or coupled with renewable energy policies because without these actions, the overall impact on reducing energy consumption and emissions could be limited.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Clean energy and energy efficiency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What steps can policymakers take to enhance renewable energy penetration in various sectors without negatively impacting economic growth?",
+      "answer": "Policymakers can initially focus on enhancing energy efficiency in existing production processes and operational activities, while also importing cleaner production technologies from other nations to achieve renewable energy goals without detrimentally affecting economic growth.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Clean energy and energy efficiency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What initiative is driving many of the energy policies mentioned in the paragraph?",
+      "answer": "The Recovery, Transformation and Resilience Plan (RTRP) presented by the Spanish Government in October 2020 is the driving force behind these initiatives.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Also, the NECP envisages the need for higher taxes on heavily polluting activities. The Technical Building Code laysdown new building regulations, to ensure that domestic energy consumption is low. A fundamental driving force behind many of these initiatives will be the Recovery, Transformation and Resilience Plan (RTRP), presented by the Spanish Government inOctober 2020, which proposes assigning 39% of the funds that Spain receives under the Next Generation EU (NGEU) programme to the green transition; see Cansino et al. (2016) for a description of the policy measures to control carbon emissions in Spain. Ensuring that energy policies are as effective as possible requires an understanding of the main dynamics and drivers of emissions. Within this context, the interest in modelling and forecasting GHG emissions is without doubt. Carbon dioxide (CO 2) emissions, largely by-products of energy consumption, account for the largest share of GHG and, consequently, the analysis of GHG emissions has usually focused on CO 2 emissions; see, for instance, Friedlingstein et al. ( 2022 ), who describes the Global Carbon Project that produces world-wide projections of CO 2emissions in preparing the annual Global Carbon Budget, which is considered in the Intergovernmental Panel on Climate Change (IPPC) reports.",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Clean energy and energy efficiency",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Clean energy and energy efficiency_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Secondary school enrollment",
+      "label": "Secondary school enrollment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Access to education"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Access to education|Secondary school enrollment_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many secondary school students were examined in this study, and from which countries?",
+      "answer": "The study examined 330 secondary school students from the UK, Greece, and Brazil.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract This study breaks new ground in educational theory by empirically validating how artificial intelligence (AI) competencies emerge through social learning ecosystems in underserved communities. Through an innovative cross-national mixed-methods design, we examined 330 secondary school students across the UK, Greece, and Bra- zil who developed AI competencies while addressing Sustainable Development Goals (SDGs) through open schooling initiatives. Our theoretical innovation synthesises UNESCO S AI Competencies Framework with the CARE-KNOW-DO pedagogi- cal model, generating transformative insights into AI literacy. We conceptualise Al literacy as a dynamic interplay of understanding, applying, and creating AI through social practice, where learners develop ethical awareness (CARE), epistemic-technical competence (KNOW), and responsible agency (DO) within authentic learning ecosys- items. Employing a concurrent triangulation methodology of teaching and learning, we collected comprehensive longitudinal data through teacher ethnographic accounts, student self-assessments, STEM researchers observations and granular analysis of Al-enabled project work over a year. This robust methodological approach revealed seven dimensions of Al-supported competency linked to transversal skills develop- ment across three distinct but interrelated domains. CARE (Understanding Al) high- lights how proactive exploration and affective engagement emerge socially.",
+      "macrotopic": "No poverty",
+      "topic": "Access to education",
+      "subtopic": "Secondary school enrollment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Access to education|Secondary school enrollment",
+      "target": "Subtopic:Social|No poverty|Access to education|Secondary school enrollment_qna_000",
+      "value": 1
+    }
+  ]
+}

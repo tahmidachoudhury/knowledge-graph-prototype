@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring",
+      "label": "Microclimate monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What bioclimatic variables were used as environmental predictors in the study?",
+      "answer": "Bioclimatic variables from the HadGEM3-GC31-LL and soil parameters were used as environmental predictors.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This approach is particularly valuable for informing adaptive management strategies for endangered species such as Illicium griffithii . The objective of the present study was to identify potential distribution for I. griffithii in Arunachal Pradesh under different climate scenarios and to determine key environmental factors that affect these distributions. The study hypothesizes that there will be no significant effect of climate change on species distribution of I. griffithii . To figure out the habitat suitability and potential distribution of I. griffithii we utilized an ensemble model incorporating GLM, MARS, MaxEnt, RF, and SVM. Bioclimatic variables from the HadGEM3-GC31-LL and soil parameters were used as environmental predictors. And we specifically studied climate change scenarios under SSP245 and SSP585 for the periods 2041 2060 and 2061 2080. Materials and methods Study area Arunachal Pradesh, recognized globally as a biodiversity hotspot29, is located in northeastern India. The state lies between latitudes 26 30 N to 29 30 N and longitudes 91 30 E to 97 30 E, covering an area of 83,743 km (Fig. 1). Arunachal Pradesh shares borders with Bhutan to the west, China to the north and northeast, Myanmar to the east, and Assam to the south.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Microclimate monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What were the outdoor temperature and relative humidity ranges during the summer test period?",
+      "answer": "The outdoor temperature range was 9.3 to 37.8 °C, and the relative humidity range was 53.5 to 67.4%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Study on indoor thermal environment and energy consumption of traditional dwellings of ethnic minorities in Sichuan plateau Yan Zhang1 & Biao Wang2,3 In this paper, field tests, questionnaire surveys, and DesignBuilder were used to analyse the indoor thermal environment and energy consumption of traditional houses in a traditional ethnic minority village of Western Sichuan Plateau of China, The results showed that during the summer test period, the outdoor temperature range was 9.37.8 C and the relative humidity range was 53.5 67.4%, while the indoor temperature range of the tested room was 13.3 2.3 C, and the relative humidity range was 69.1 83.0%. The humidity is high, and the thermal environment does not meet the requirement of local standard. Therefore, corresponding energy-saving optimization measures are proposed. In the winter heating building model data, compared with the heat load before optimization, the energy saving reaches about 56.5%. In addition, the carbon emissions and economic suitability of different heating methods were evaluated. Electric heating, coal-fired heating and biomass heating have payback periods of 11 years, 24 years and 6 years respectively.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Microclimate monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What temperatures characterize the local climate during the summer and winter months?",
+      "answer": "The summer months are characterized by high temperatures of around 40°C, while winter months have low temperatures of about 9°C.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " According to Munyai et al.25 most of rain (over 80%) is received between November and March. The mean annual precipitation varies between 610 mm and 800 mm. The local climate throughout the summer and winter months are characterised by high (i.e., 40 C) and low (i.e., 9 C) temperatures, respectively. The Luvuvhu River exhibits several hydrological features, including rapid flows, riffles, runs, and pools, particularly in its lowveld stretches making a good habitat for various macroinvertebrates within these biotopes. This study involved the collection of macroinvertebrates, water and sediment samples from 16 sites (in different river sections: Upstream , downstream and tributaries ) located along the Luvuvhu River system across two seasons (i.e., hot wet, cool dry) (Fig. 1). All 16 sites were selected based on associated land use activities ( mainstream sites : agriculture, water abstraction and solid waste disposal; tributaries : location relative to the wastewater sewage plant, sand mining and brick making) that could potentially negatively impact the river system. Water variables Conductivity ( S cm 1), salinity (ppt), pH, water temperature ( C), and total dissolved solids (TDS) (mg L 1) were measured in situ at 16 sampling sites ( n = 2 per site) along the Luvuvhu River and its tributaries across two seasons (i.e., cool dry, hot wet), using a portable handheld multiparameter Cyberscan Series portable meter (Eutech Instruments, Singapore).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Microclimate monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Microclimate monitoring_qna_002",
+      "value": 1
+    }
+  ]
+}

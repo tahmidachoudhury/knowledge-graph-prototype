@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation",
+      "label": "Efficient public transportation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How do shift strategies contribute to creating a more just mobility system?",
+      "answer": "Shift strategies lead to the creation of a more just mobility system by reducing capital expenses associated with private motorized transport, making public transport more accessible to socially disadvantaged groups.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Efficient public transportation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How is transit-oriented development (TOD) seen as a transformative approach to urban development in Jakarta?",
+      "answer": "TOD in Jakarta integrates residential, commercial, and recreational spaces with efficient public transportation systems, enhancing urban living.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2590051X23000710",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Efficient public transportation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the implementation strategy of transit-oriented development based on the bus rapid transit system in Indonesia contribute to sustainable urban planning?",
+      "answer": "This strategy aims to promote efficient public transportation systems, reduce reliance on private vehicles, and enhance urban connectivity, contributing to more sustainable and liable cities in Indonesia.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2590051X23000710",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Efficient public transportation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "According to Ricardian to et al. (2023), what is the implementation strategy for transit-oriented development based on the bus rapid transit system in Indonesia?",
+      "answer": "The implementation strategy involves integrating transit-oriented development principles with the bus rapid transit system to improve Urban Mobility Policy and reduce reliance on private vehicles.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2590051X23000710",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Efficient public transportation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Efficient public transportation_qna_003",
+      "value": 1
+    }
+  ]
+}

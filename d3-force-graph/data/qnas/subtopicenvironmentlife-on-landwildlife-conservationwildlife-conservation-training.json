@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training",
+      "label": "Wildlife conservation training",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are some issues faced by wildlife conservation personnel in Zimbabwe according to the paragraph?",
+      "answer": "They are often underequipped, receive poor salaries, are understaffed, and lack sufficient supervision.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2019 ). In most cases, they are underequipped, receive poor salaries, understaffed, and lack suf cient supervision. In Zimbabwe, illegal bushmeat hunting is proving to be a threat to wildlife populations in numerous protected areas, and especially in the Save Valley Conservancy (hereafterSVC). Previous studies in the SVC focused on the dynamics of illegal hunting (Lindsey et al. 2011 a), ecological, and economic impacts of illegal hunting in the conservancy(Lindsey, et al. 2011b ). To increase our understanding of illegal bushmeat hunting in SVC, we sought to address the following questions: (1) What are the demographic char-acteristics of illegal hunters, motivations of long-term ille- gal behavior, risks and costs faced by illegal hunters, methods used for illegal hunting, commonly targeted wildanimals, illegal hunting seasonality, and hunters and eld rangers perceptions on the effectiveness of law enforcement in SVC?, and (2) what are the respondents suggestions onways to reduce illegal bushmeat hunting in SVC?. Our study ndings are intended to aid wildlife conservation and provide conservationists with insights on illegal bushmeathunting in a protected area occurring in a sub-Saharan African savanna.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife conservation training",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What factors could increase the capture success of small mammals according to the paragraph?",
+      "answer": "Future tests with tube diameters, bait, timing of placement, and training for field workers could increase capture success.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Future tests with tube diameters, bait, timing of placement etc. could increase the capture success and demonstrate the applicability of the method to rare species. Also, some training for the involved field workers could be advantageous. Keywords Baited tubes Biodiversity Biomonitoring COI barcoding Wetlands and riparian woodlands Introduction Small mammals status Small mammals are here defined by having a body weight of up to 5 kg following Merritt ( 2010 ) and comprise mainly members of Eulipotyphla, Rodentia and Chiroptera. Some European small mammal species are elusive (e.g., Sicista), some mainly nocturnal (e.g., bats), some rare and of con- servation concern like the European hamster (e.g., Cricetus cricetus), some can be pests in agriculture (e.g., Microtus arvalis; Jacob et al. 2014; Hansson 1992) and some are known to host human pathogenic viruses (e.g., the rodents Clethrionomys glareolus and Apodemus agrarius but also shrews; Bown et al. 2011; Olsson et al. 2002; Ulrich et al. 2009; Vaheri et al. 2013; Weber de Melo et al.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife conservation training",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife conservation training_qna_001",
+      "value": 1
+    }
+  ]
+}

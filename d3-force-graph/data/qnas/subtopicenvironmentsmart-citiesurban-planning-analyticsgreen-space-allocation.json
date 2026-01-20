@@ -1,0 +1,554 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "label": "Green space allocation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_000",
+      "group": "QnA",
+      "label": "Methodology",
+      "question": "What data and method did the study use to identify urban green and blue spaces?",
+      "answer": "The study utilized Sentinel-2A data and support vector machine classification to identify urban green and blue spaces.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Urbanization is accelerating rapidly, highlighting the critical role of aligning with sustainable development goals, urban green and blue spaces (UGS and UBS). These spaces play a crucial role in enhancing the health and well-being of city residents in terms of ecology. Acknowledging the importance of urban ecology, this study utilizes Sentinel-2A data and support vector machine classification, aimed to identify UGS and UBS. To examine the connections between UGS and UBS, specific indices, spectral bands, and textures were calculated. Additionally, the concentration of chlorophyll, a vital indicator of ecological health, was assessed using three indices. Structural equation modeling was employed to elucidate the relationship between UGS and UBS and their impact on chlorophyll concentration for the years 2017 and 2023. In the 2017 model, UGS exhibited a positive path coefficient (0.25) with chlorophyll-a, indicating that an increase in UGS is associated with an increase in chlorophyll levels. Conversely, in 2023, the path coefficient turned negative ( 0.83), presenting a stark contrast to the 2017 model. This shift suggests potential environmental or urban development changes, such as alterations in the quality or type of urban green spaces, potentially including more non-native or ornamental plants that contribute less to overall chlorophyll levels.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the amount of green space per person in Izmir city as of 2019?",
+      "answer": "The amount of green space per person in Izmir city in 2019 is 8.6 m².",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In 2019, the amount of green space per person in Izmir city is 8.6 m2 (Ersoy-Tonyalo lu & Nurlu, 2023). The Cakalburnu Lagoon has experienced a 5.6% loss in Water Air Soil Pollut (2025) 236:208 208 Vol. : (123456789) land use area over a 22-year period between 1996 and 2018 (Kara, 2019). Cakalburnu Lagoon is the most important element of the wetland and hosts 121 bird species (Kaya, 2017). Lagoon systems, in addition to being natural bio- logical resources, serve as natural laboratories for scientific research and play a significant role in the preservation and sustainability of biodiversity in sensitive and fragile ecosystems (Yucel-Gier et al., 2018). The quantity and quality of water in a lagoon are influenced by factors such as evaporation within the lagoon, precipitation, groundwater inflow, sur - face runoff, and the exchange of seawater (Somay, 2016; Somay-Altas, 2021). The Cakalburnu Lagoon is an irreplaceable coastal urban wetland located to the south of Izmir Bay, encompasses an area of approximately 64 hectares and exhibits a shallow depth ranging from 0.5 to 1 m. A reforestation pro- ject in the northern part of the Cakalburnu Lagoon, situated within the study area, has led to the establish- ment of the Izmir-Inciralt Recreation Area cover - ing an area of 200 hectares (Somay-Altas, 2022).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What urban planning concept is highlighted in assessing the distribution of green urban areas (GUAs)?",
+      "answer": "The study highlights the 15-min city concept in assessing the accessibility and distribution of green urban areas (GUAs).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Urban sprawl poses significant challenges, including pollution, urban heat stress, and biodiversity loss, necessitating proactive solutions for climate adaptation and urban resilience. This study presents an integrated methodological approach to identify urban hotspots of combined environmental pressures in the Athens Metropolitan Area (AMA), a densely populated region experiencing heightened climate vulnerabilities. Utilizing satellite data, numerical models, and geospatial analysis, the study focuses on three main urban pressures: urban heat, air pollution, and lack of green urban areas (GUAs). The approach offers a comprehensive spatial and temporal assessment of Land Surface Temperature (LST) to identify urban heat islands (UHI). Concurrently, air quality data are analyzed to map pollution hotspots, considering the exacerbating effects of heatwaves. The accessibility and distribution of GUAs are evaluated through the 15-min city concept, highlighting areas deficient in green spaces. The combined data-driven hotspot mapping facilitates the identification of the most vulnerable urban sites, providing essential insights for policy and decision-makers. The proposed methodology's adaptability allows for its application across various research disciplines and spatial scales, enhancing urban resilience through targeted interventions, such as Nature-based Solutions (NbS).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of the municipality of Athens is covered by Green Urban Areas (GUAs) according to the Geotechnical Chamber of Greece?",
+      "answer": "Only 10% of the municipality of Athens is covered by GUAs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2023a). However, the accessibility of GUAs is equally important as their existence, to provide all their services. According to the Geotechnical Chamber of Greece (Kombotiati 2019), only 10% of the municipal- ity of Athens is covered by GUAs corresponding to 3.84 m2 of GUAs per resident, whereas the national relative legislation ( 285 /5.03.2004, https:// www. et. gr/ api/ Downl loadFe ksApi/? fek pdf= 20040 400285) indicates 8m2 per resident. The 15-min city concept, firstly introduced by Moreno (2016), prevails among sustainable urban planning strategies (Alvarez 2022) and can be defined as an urban set-up where locals are able to access all of their basic essentials at distances that would not take them more than 15 min by foot or by bicycle (El-Murr et al. 2021; Moreno et al. 2021). The ultimate goal is to build cities that are more inhabitable, equitable, sustainable, and resilient. The Euro- pean Commission, in an attempt to promote urban climate adaptation, encourages further research in the 15-min city concept (Alvarez 2022) with a special focus on the walk - ing distance to GUAs (Poleman 2016; Kabisch et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method did the study use to determine the suitability of green space interventions in Kigali City?",
+      "answer": "The study used a GIS-based Multi-Criteria Analysis (MCA) in conjunction with the Analytical Hierarchy Process (AHP) to determine the suitability of green space interventions in Kigali City.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL: https://doi.org/10.1007/s12518-025-00609-7 RESEARCHApplied Geomatics (2025) 17:163 175 https://doi.org/10.1007/s12518-25-609-7 have more variants depending on different contexts (Taylor and Hochuli 2017 ); however, this paper defines green space as the vegetated area being either in urban, peri-urban, or rural regions; a definition on which most researchers are amenable (Heckert 2013 ; Taylor and Hochuli 2017 ). Green spaces have transcended their traditional aesthetic functions, evolving into multifunctional systems that simultaneously address critical global challenges of biodiversity conserva - tion, climate change mitigation, and human well-being (Lee et al. 2015 ; Niemel et al. 2010 ; Wu et al. 2024 ). The roles of green spaces can be effectively visualised through alignment with the United Nations Sustainable Development Goals (SDGs) (Tate et al. 2024 ). Specifically, from SDG 11: Sustainable Cities, green spaces are pivotal in urban well-being (Klimczuk et al. 2024 ). They offer sports grounds and recreational facilities while serving as social gathering spaces that promote community inclusion and Introduction Green spaces are increasingly recognised as critical systems addressing complex environmental and societal challenges emerging from global modernisation (Addas 2023 ; Dennis et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the nine factors considered in the Multi-Criteria Analysis for assessing green space suitability?",
+      "answer": "The nine factors considered are population density, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, land cover types, proximity to water bodies, nitrogen dioxide concentrations, slope, and elevation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL: https://doi.org/10.1007/s12518-025-00609-7 RESEARCHApplied Geomatics (2025) 17:163 175 https://doi.org/10.1007/s12518-25-609-7 have more variants depending on different contexts (Taylor and Hochuli 2017 ); however, this paper defines green space as the vegetated area being either in urban, peri-urban, or rural regions; a definition on which most researchers are amenable (Heckert 2013 ; Taylor and Hochuli 2017 ). Green spaces have transcended their traditional aesthetic functions, evolving into multifunctional systems that simultaneously address critical global challenges of biodiversity conserva - tion, climate change mitigation, and human well-being (Lee et al. 2015 ; Niemel et al. 2010 ; Wu et al. 2024 ). The roles of green spaces can be effectively visualised through alignment with the United Nations Sustainable Development Goals (SDGs) (Tate et al. 2024 ). Specifically, from SDG 11: Sustainable Cities, green spaces are pivotal in urban well-being (Klimczuk et al. 2024 ). They offer sports grounds and recreational facilities while serving as social gathering spaces that promote community inclusion and Introduction Green spaces are increasingly recognised as critical systems addressing complex environmental and societal challenges emerging from global modernisation (Addas 2023 ; Dennis et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodology did the study utilize to determine the suitability of green space interventions in Kigali City?",
+      "answer": "The study employed a GIS-based Multi-Criteria Analysis (MCA) integrated with the Analytical Hierarchy Process (AHP) to assess the suitability for green space interventions in Kigali City.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2016 ). The definition of green space was deemed to Laban Kayitete kayitetelab7@gmail.com 1 Department of Geography, School of Environment, Education and Development, University of Manchester, Manchester, UK 2 International Institute Zittau, Technische Universit t Dresden, Zittau, Germany 3 Earth Observation Research Department, Julius- Maximilians-Universit t W rzburg, W rzburg, GermanyAbstract Green spaces improve societal well-being, foster connectivity to nature, and attenuate climate change. Despite Rwanda and other developing countries increasingly pursuing green economies, urban greening efforts still need multi-conceptual models that comprehensively address socio-economic and environmental requirements. This study employs a GIS-based Multi-Criteria Analysis (MCA) constructed on an Analytical Hierarchy Process (AHP) to predict green space intervention suitability across Kigali City, Rwanda. The study was based on nine factors namely: population density, slope, land cover types, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, proximity to water bodies, nitrogen dioxide concentrations, and elevation, to be used as criteria for the MCA. The findings indicate that 2.49% (1,816.19 ha) of Kigali City is highly suitable while 12% (8,744.68 ha) is unsuitable for green space inter - ventions.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_007",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What was the expected outcome of integrating GIS-based MCA with AHP for green space planning in Kigali City?",
+      "answer": "The expected outcome was to develop a nuanced, context-specific framework that provides actionable insights for strategic urban green space planning, guiding Kigali City's greening efforts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2016 ). The definition of green space was deemed to Laban Kayitete kayitetelab7@gmail.com 1 Department of Geography, School of Environment, Education and Development, University of Manchester, Manchester, UK 2 International Institute Zittau, Technische Universit t Dresden, Zittau, Germany 3 Earth Observation Research Department, Julius- Maximilians-Universit t W rzburg, W rzburg, GermanyAbstract Green spaces improve societal well-being, foster connectivity to nature, and attenuate climate change. Despite Rwanda and other developing countries increasingly pursuing green economies, urban greening efforts still need multi-conceptual models that comprehensively address socio-economic and environmental requirements. This study employs a GIS-based Multi-Criteria Analysis (MCA) constructed on an Analytical Hierarchy Process (AHP) to predict green space intervention suitability across Kigali City, Rwanda. The study was based on nine factors namely: population density, slope, land cover types, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, proximity to water bodies, nitrogen dioxide concentrations, and elevation, to be used as criteria for the MCA. The findings indicate that 2.49% (1,816.19 ha) of Kigali City is highly suitable while 12% (8,744.68 ha) is unsuitable for green space inter - ventions.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_008",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors were selected for the Multi-Criteria Analysis (MCA) to determine green space intervention suitability in Kigali City?",
+      "answer": "The nine factors selected for the MCA are population density, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, land cover types, proximity to water bodies, nitrogen dioxide concentrations, slope, and elevation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Population density emerged as the most influential factor, with the city S densely populated west-central areas exhibiting high suitability for green space initiatives. Strategically placing green spaces near population centres enhances their contribution to societal well-being, reduces transport costs, and encourages frequent use. By integrating GIS-based MCA with AHP, this study offers a robust framework for addressing green space accessibility challenges in Kigali, while simultaneously advancing climate-resilient urban development. We recommend planners prioritise Kigali City S west- central areas for green space interventions, researchers leverage the GIS-MCA-AHP methodology for climate-resilient urban studies, and practitioners replicate this framework to advance socio-economically inclusive greening strategies. Keywords Analytical Hierarchy Process Climate change GIS-based Multi-criteria Analysis Green spaces Vell- beingReceived 1 August 2024 / Accepted: 9 February 2025 / Published online: 8 March 2025 The Author(s) 2025Applying Multi-Criteria Analysis in GIS to predict suitability for recreational green space interventions in Kigali City, Rwanda Laban Kayitete1 Charles Bakolo1 James Tomlinson1 Jade Fawcett1 Marie Fidele Tuyisenge2 Jean de Dieu Tuyizere3 13 Applied Geomatics (2025) 17:163 175connectivity (De Haas et al. 2021 ). In line with SDG 13: Climate Action, green spaces are critical in climate change mitigation.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_009",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the Analytical Hierarchy Process (AHP) contribute to the study conducted in Kigali City?",
+      "answer": "The AHP is used to assign weights to the criteria selected for the Multi-Criteria Analysis (MCA), enabling a systematic evaluation of green space intervention suitability based on their social and ecological roles.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Population density emerged as the most influential factor, with the city S densely populated west-central areas exhibiting high suitability for green space initiatives. Strategically placing green spaces near population centres enhances their contribution to societal well-being, reduces transport costs, and encourages frequent use. By integrating GIS-based MCA with AHP, this study offers a robust framework for addressing green space accessibility challenges in Kigali, while simultaneously advancing climate-resilient urban development. We recommend planners prioritise Kigali City S west- central areas for green space interventions, researchers leverage the GIS-MCA-AHP methodology for climate-resilient urban studies, and practitioners replicate this framework to advance socio-economically inclusive greening strategies. Keywords Analytical Hierarchy Process Climate change GIS-based Multi-criteria Analysis Green spaces Vell- beingReceived 1 August 2024 / Accepted: 9 February 2025 / Published online: 8 March 2025 The Author(s) 2025Applying Multi-Criteria Analysis in GIS to predict suitability for recreational green space interventions in Kigali City, Rwanda Laban Kayitete1 Charles Bakolo1 James Tomlinson1 Jade Fawcett1 Marie Fidele Tuyisenge2 Jean de Dieu Tuyizere3 13 Applied Geomatics (2025) 17:163 175connectivity (De Haas et al. 2021 ). In line with SDG 13: Climate Action, green spaces are critical in climate change mitigation.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_010",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Kigali City is identified as highly suitable for green space interventions according to the study's findings?",
+      "answer": "The study identifies that 2.49% (1,816.19 ha) of Kigali City is highly suitable for green space interventions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Population density emerged as the most influential factor, with the city S densely populated west-central areas exhibiting high suitability for green space initiatives. Strategically placing green spaces near population centres enhances their contribution to societal well-being, reduces transport costs, and encourages frequent use. By integrating GIS-based MCA with AHP, this study offers a robust framework for addressing green space accessibility challenges in Kigali, while simultaneously advancing climate-resilient urban development. We recommend planners prioritise Kigali City S west- central areas for green space interventions, researchers leverage the GIS-MCA-AHP methodology for climate-resilient urban studies, and practitioners replicate this framework to advance socio-economically inclusive greening strategies. Keywords Analytical Hierarchy Process Climate change GIS-based Multi-criteria Analysis Green spaces Vell- beingReceived 1 August 2024 / Accepted: 9 February 2025 / Published online: 8 March 2025 The Author(s) 2025Applying Multi-Criteria Analysis in GIS to predict suitability for recreational green space interventions in Kigali City, Rwanda Laban Kayitete1 Charles Bakolo1 James Tomlinson1 Jade Fawcett1 Marie Fidele Tuyisenge2 Jean de Dieu Tuyizere3 13 Applied Geomatics (2025) 17:163 175connectivity (De Haas et al. 2021 ). In line with SDG 13: Climate Action, green spaces are critical in climate change mitigation.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_011",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodology does the study utilize to assess the suitability for green space interventions in Kigali City?",
+      "answer": "The study employs a GIS-based Multi-Criteria Analysis (MCA) combined with the Analytical Hierarchy Process (AHP) to determine the suitability of green space interventions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " They sequester carbon and enhance urban resil - ience by moderating temperatures and mitigating heat island effects (Bowler et al. 2010 ; Saaroni et al. 2018 ; Sarfo et al. 2023 ). Aligned with SDG 15: Life on Land, green spaces reduce erosion and flooding risks, preserve threatened floral and faunal diversity, facilitate habitat connectivity, and pro - vide opportunities for biodiversity observation and nature photography, thereby fostering urban residents ecological awareness and enriching conservation attitudes (Tate et al. 2024 ). Aligned with SDG 17: Partnerships, green spaces promote collaboration among diverse stakeholders, includ - ing local authorities, environmental organisations, academic institutions, and community groups. These partnerships enhance collective ecological stewardship and support sus - tainable urban development (Xiaohui et al. 2024 ). The pull-push theory posits that migration patterns are influenced by either the allure of attractive opportunities or the absence of essential life necessities (Peralta et al. 2024 ). Over recent decades, rapid urbanisation in developing countries, compounded by demographic dynamics and dis - parities in rural and urban job opportunities, has driven sig - nificant rural-to-urban migration (Selod and Shilpi 2021 ).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_012",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors were selected for the GIS-based Multi-Criteria Analysis (MCA) to assess green space suitability in Kigali City?",
+      "answer": "The nine factors selected for the MCA were population density, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, land cover types, proximity to water bodies, nitrogen dioxide concentrations, slope, and elevation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For instance, East Africa has experienced notable popula - tion growth, rural-urban migration, and urban expansion over the past six decades (Kitole et al. 2024 ). The rural- urban migration exacerbates challenges such as overcrowd - ing and expansion of built-up coverage leading to loss of vegetated areas, urban heat islands, shortages of publicly accessible recreational spaces, and heightened stress levels (Mthiyane et al. 2022 ; Sarfo et al. 2022 , 2023 , 2024 ; Tietjen et al. 2023) These issues, if left unaddressed, contribute to unsustainable and unsatisfactory urban living conditions (UN-Habitat 2020 ). Urban green spaces are widely recog - nised as critical for mitigating the adverse effects of urban - isation (De Haas et al. 2021 ). However, without adopting a multi-conceptual approach, efforts to enhance urban green - ing often fall short of achieving their intended outcomes (Pincetl and Newell 2017 ). The grand urban model provides a holistic approach to city development, integrating social well-being, transport systems, environmental conservation, and urban planning to create resilient, interconnected urban environments that balance human needs with ecological sustainability (Li et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_013",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the study utilize the Analytical Hierarchy Process (AHP) in the context of the green space assessment in Kigali?",
+      "answer": "The study assigns weights to the selected criteria based on the AHP, which are then used to compute spatial variation of suitability for new green spaces across Kigali City using the MCA.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For instance, East Africa has experienced notable popula - tion growth, rural-urban migration, and urban expansion over the past six decades (Kitole et al. 2024 ). The rural- urban migration exacerbates challenges such as overcrowd - ing and expansion of built-up coverage leading to loss of vegetated areas, urban heat islands, shortages of publicly accessible recreational spaces, and heightened stress levels (Mthiyane et al. 2022 ; Sarfo et al. 2022 , 2023 , 2024 ; Tietjen et al. 2023) These issues, if left unaddressed, contribute to unsustainable and unsatisfactory urban living conditions (UN-Habitat 2020 ). Urban green spaces are widely recog - nised as critical for mitigating the adverse effects of urban - isation (De Haas et al. 2021 ). However, without adopting a multi-conceptual approach, efforts to enhance urban green - ing often fall short of achieving their intended outcomes (Pincetl and Newell 2017 ). The grand urban model provides a holistic approach to city development, integrating social well-being, transport systems, environmental conservation, and urban planning to create resilient, interconnected urban environments that balance human needs with ecological sustainability (Li et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_014",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What nine factors were selected as criteria for the Multi-Criteria Analysis (MCA) in determining the suitability of green space interventions in Kigali City?",
+      "answer": "The nine factors selected for the MCA were population density, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, land cover types, proximity to water bodies, nitrogen dioxide concentrations, slope, and elevation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2024 ). However, the implementation of the grand urban model stiffly faces inequity between developed and devel - oping countries, especially in terms of green space planning (Sun et al. 2022 ). Urban green space planning in developed countries employs multi-dimensional models that inte - grate critical socio-economic and environmental consider - ations. For instance, the United Kingdom S Natural England developed the Standards for Accessible Natural Greens - pace (ANGSt), which guide green space establishment by emphasising their interconnectivity, proximity to human settlements and roads, and preservation of natural character - istics (Maksymiuk et al. 2019 ; Natural England 2010 ). Con - versely, green space development in developing countries often lacks a multi-dimensional model that balances both people S well-being and environmental conservation, with many approaches focusing solely on environmental and aes - thetic issues but overlooking the social benefits (Bakolo et al. 2024 ; Devisscher et al. 2019 ). Besides planning consider - ations, a significant research gap persists in modelling green space distribution across urban environments in the Global South, particularly in understanding their potential contri - butions to diverse life forms and strategic urban expansion, when compared to research outputs prevalent in the Global North (McPhearson et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_015",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the study utilize the Analytical Hierarchy Process (AHP) in its methodology?",
+      "answer": "The study employs the AHP to assign weights to the selected factors, which are then used to compute the spatial variation of suitability for new green spaces across Kigali City.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2024 ). However, the implementation of the grand urban model stiffly faces inequity between developed and devel - oping countries, especially in terms of green space planning (Sun et al. 2022 ). Urban green space planning in developed countries employs multi-dimensional models that inte - grate critical socio-economic and environmental consider - ations. For instance, the United Kingdom S Natural England developed the Standards for Accessible Natural Greens - pace (ANGSt), which guide green space establishment by emphasising their interconnectivity, proximity to human settlements and roads, and preservation of natural character - istics (Maksymiuk et al. 2019 ; Natural England 2010 ). Con - versely, green space development in developing countries often lacks a multi-dimensional model that balances both people S well-being and environmental conservation, with many approaches focusing solely on environmental and aes - thetic issues but overlooking the social benefits (Bakolo et al. 2024 ; Devisscher et al. 2019 ). Besides planning consider - ations, a significant research gap persists in modelling green space distribution across urban environments in the Global South, particularly in understanding their potential contri - butions to diverse life forms and strategic urban expansion, when compared to research outputs prevalent in the Global North (McPhearson et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_016",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What major outcome is expected from the integration of GIS-based MCA with AHP in this study?",
+      "answer": "The study aims to develop a nuanced, context-specific framework that provides actionable insights for strategic urban green space planning in Kigali City.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2024 ). However, the implementation of the grand urban model stiffly faces inequity between developed and devel - oping countries, especially in terms of green space planning (Sun et al. 2022 ). Urban green space planning in developed countries employs multi-dimensional models that inte - grate critical socio-economic and environmental consider - ations. For instance, the United Kingdom S Natural England developed the Standards for Accessible Natural Greens - pace (ANGSt), which guide green space establishment by emphasising their interconnectivity, proximity to human settlements and roads, and preservation of natural character - istics (Maksymiuk et al. 2019 ; Natural England 2010 ). Con - versely, green space development in developing countries often lacks a multi-dimensional model that balances both people S well-being and environmental conservation, with many approaches focusing solely on environmental and aes - thetic issues but overlooking the social benefits (Bakolo et al. 2024 ; Devisscher et al. 2019 ). Besides planning consider - ations, a significant research gap persists in modelling green space distribution across urban environments in the Global South, particularly in understanding their potential contri - butions to diverse life forms and strategic urban expansion, when compared to research outputs prevalent in the Global North (McPhearson et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_017",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodology was used to determine the suitability of green space interventions in Kigali City?",
+      "answer": "The research employed a GIS-based Multi-Criteria Analysis (MCA) combined with the Analytical Hierarchy Process (AHP) to systematically assess the suitability of green space interventions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2016 ). Consequently, empirical recommendations emphasise adopting a multi-conceptual model that integrates demographic, infrastructural, and environmental contexts, ensuring green spaces are acces - sible, socially inclusive, and responsive to environmental challenges (Gavrilidis et al. 2022 , 2024 ; Lee et al. 2015 ). The rapid development of Rwanda concomitates fast growths of population and urbanisation, where considerable portions of the urban forest and arable lands were turned into built-up areas due to settlement and infrastructural expansions (Nshimiyimana et al. 2023 ). Rwanda S urban areas doubled over the last two decades due to the govern - ment S initiative of fostering citification, initially projected to the rate of 35% by 2024, particularly in Kigali and six secondary cities that serve as the country S economic hubs (UN DESA 2019 ). The substantial urban development led to higher rates of rural-urban migration, which increased pop - ulation densities in the cities and associated human well- being and environmental challenges (Twahirwa et al. 2017 ). To meet the human-induced pressure on the environment, the Rwandan government has instilled a green economy in its development agenda, in line with the United Nation S Sustainable Development Goals, where various practitio - ners from governmental and non-governmental institutions established a collaborative commitment aiming at greening urban and peri-urban areas (Gubic and Baloi 2019 , 2020 ).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_018",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors were analyzed to determine the suitability for green space interventions in Kigali City?",
+      "answer": "The nine factors analyzed were population density, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, land cover types, proximity to water bodies, nitrogen dioxide concentrations, slope, and elevation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Urban greening initially focused on mobilising domestic, institutional, and public gardens, along with planting street trees, resulting in Kigali achieving 35% green coverage and being classified as a green city (Seburanga et al. 2014 ). Recently, Kigali City Authorities incorporated green spaces in the masterplan, and in joint efforts with Rwanda S Min - istry of Environment and partners, encouraged investors to finance creating green spaces for recreational purposes, in addition to existing initiatives of tree planting and city gar - dening (City of Kigali 2020 ; Gubic and Baloi 2020 ). There 1 3164 Applied Geomatics (2025) 17:163 175arose the restoration of a degraded wetland Nyandungu into an urban eco-tourism park, sheltering a broad range of wildlife, and game-changing the local perspectives towards green space enjoyment by setting a variety of recreational activities (Gubic and Baloi 2020 ). In that line, Meraneza Recreational Space on Mount Kigali and Kigali Cultural Village on Rebero Mountain, among others, have also been established in Kigali City (Bower et al. 2021 ). While recent studies highlight the potential of green spaces in Kigali City to enhance residents well-being (Draus et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_019",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodology was employed in the study to assess green space accessibility in Kigali City?",
+      "answer": "The study employed a GIS-based Multi-Criteria Analysis (MCA) combined with the Analytical Hierarchy Process (AHP) to assess and prioritize the factors influencing green space accessibility.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Urban greening initially focused on mobilising domestic, institutional, and public gardens, along with planting street trees, resulting in Kigali achieving 35% green coverage and being classified as a green city (Seburanga et al. 2014 ). Recently, Kigali City Authorities incorporated green spaces in the masterplan, and in joint efforts with Rwanda S Min - istry of Environment and partners, encouraged investors to finance creating green spaces for recreational purposes, in addition to existing initiatives of tree planting and city gar - dening (City of Kigali 2020 ; Gubic and Baloi 2020 ). There 1 3164 Applied Geomatics (2025) 17:163 175arose the restoration of a degraded wetland Nyandungu into an urban eco-tourism park, sheltering a broad range of wildlife, and game-changing the local perspectives towards green space enjoyment by setting a variety of recreational activities (Gubic and Baloi 2020 ). In that line, Meraneza Recreational Space on Mount Kigali and Kigali Cultural Village on Rebero Mountain, among others, have also been established in Kigali City (Bower et al. 2021 ). While recent studies highlight the potential of green spaces in Kigali City to enhance residents well-being (Draus et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_020",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the study contribute to urban planning in Kigali City?",
+      "answer": "The study provides a nuanced, context-specific framework for strategic urban green space planning by systematically evaluating factors affecting green space suitability, thereby guiding greening efforts and informing future relevant studies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Urban greening initially focused on mobilising domestic, institutional, and public gardens, along with planting street trees, resulting in Kigali achieving 35% green coverage and being classified as a green city (Seburanga et al. 2014 ). Recently, Kigali City Authorities incorporated green spaces in the masterplan, and in joint efforts with Rwanda S Min - istry of Environment and partners, encouraged investors to finance creating green spaces for recreational purposes, in addition to existing initiatives of tree planting and city gar - dening (City of Kigali 2020 ; Gubic and Baloi 2020 ). There 1 3164 Applied Geomatics (2025) 17:163 175arose the restoration of a degraded wetland Nyandungu into an urban eco-tourism park, sheltering a broad range of wildlife, and game-changing the local perspectives towards green space enjoyment by setting a variety of recreational activities (Gubic and Baloi 2020 ). In that line, Meraneza Recreational Space on Mount Kigali and Kigali Cultural Village on Rebero Mountain, among others, have also been established in Kigali City (Bower et al. 2021 ). While recent studies highlight the potential of green spaces in Kigali City to enhance residents well-being (Draus et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_021",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the nine factors used in the Multi-Criteria Analysis (MCA) to determine the suitability of green space interventions in Kigali City?",
+      "answer": "The nine factors are population density, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, land cover types, proximity to water bodies, nitrogen dioxide concentrations, slope, and elevation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2023 ; Gubic and Baloi 2020 ), current urban green space interventions remain suboptimal, with limited accessibility due to peripheral locations and challenging topographical constraints (Bower et al. 2021 ). Urban greening studies have employed diverse methodological approaches including statistical regression models (Kabisch et al. 2016 ), remote sensing techniques (Shahtahmassebi et al. 2021 ), and spatial accessibility mapping (Zhang et al. 2021 ) which typically provide insights through singular analytical perspectives. Statistical regression models, for instance, primarily explore correlational relationships between socio-environmental variables (Cohen and Cohen 1983 ; Gujarati and Porter 2009 ), while remote sensing techniques focus on quantita - tive vegetation and land cover analyses (van Oorschot et al. 2023 ). These methods, though valuable, are constrained by their inherent limitations of single-dimensional assessment and reduced capacity for comprehensive spatial decision- making. This study integrates a GIS-based Multi-Criteria Analysis (MCA) with the Analytical Hierarchy Process (AHP) to systematically address green space intervention challenges specific to Kigali City. By comprehensively evaluating and prioritising factors such as population den - sity, vegetation, and spatial accessibility, the research aims to develop a nuanced, context-specific framework that maximally provides actionable insights for strategic urban green space planning.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_022",
+      "group": "QnA",
+      "label": "Methods",
+      "question": "Why is the Analytical Hierarchy Process (AHP) employed in the study on green space interventions in Kigali City?",
+      "answer": "The AHP is used to assign weights to the criteria in order to accurately reflect the social and ecological role of green spaces and their accessibility in the MCA model.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2023 ; Gubic and Baloi 2020 ), current urban green space interventions remain suboptimal, with limited accessibility due to peripheral locations and challenging topographical constraints (Bower et al. 2021 ). Urban greening studies have employed diverse methodological approaches including statistical regression models (Kabisch et al. 2016 ), remote sensing techniques (Shahtahmassebi et al. 2021 ), and spatial accessibility mapping (Zhang et al. 2021 ) which typically provide insights through singular analytical perspectives. Statistical regression models, for instance, primarily explore correlational relationships between socio-environmental variables (Cohen and Cohen 1983 ; Gujarati and Porter 2009 ), while remote sensing techniques focus on quantita - tive vegetation and land cover analyses (van Oorschot et al. 2023 ). These methods, though valuable, are constrained by their inherent limitations of single-dimensional assessment and reduced capacity for comprehensive spatial decision- making. This study integrates a GIS-based Multi-Criteria Analysis (MCA) with the Analytical Hierarchy Process (AHP) to systematically address green space intervention challenges specific to Kigali City. By comprehensively evaluating and prioritising factors such as population den - sity, vegetation, and spatial accessibility, the research aims to develop a nuanced, context-specific framework that maximally provides actionable insights for strategic urban green space planning.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_023",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of green coverage does Kigali City currently have, and how does this categorize it among African cities?",
+      "answer": "Kigali City currently has over 35% green coverage, classifying it as one of the African green cities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2023 ; Gubic and Baloi 2020 ), current urban green space interventions remain suboptimal, with limited accessibility due to peripheral locations and challenging topographical constraints (Bower et al. 2021 ). Urban greening studies have employed diverse methodological approaches including statistical regression models (Kabisch et al. 2016 ), remote sensing techniques (Shahtahmassebi et al. 2021 ), and spatial accessibility mapping (Zhang et al. 2021 ) which typically provide insights through singular analytical perspectives. Statistical regression models, for instance, primarily explore correlational relationships between socio-environmental variables (Cohen and Cohen 1983 ; Gujarati and Porter 2009 ), while remote sensing techniques focus on quantita - tive vegetation and land cover analyses (van Oorschot et al. 2023 ). These methods, though valuable, are constrained by their inherent limitations of single-dimensional assessment and reduced capacity for comprehensive spatial decision- making. This study integrates a GIS-based Multi-Criteria Analysis (MCA) with the Analytical Hierarchy Process (AHP) to systematically address green space intervention challenges specific to Kigali City. By comprehensively evaluating and prioritising factors such as population den - sity, vegetation, and spatial accessibility, the research aims to develop a nuanced, context-specific framework that maximally provides actionable insights for strategic urban green space planning.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_024",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main objective of the study conducted in Kigali City regarding green spaces?",
+      "answer": "The main objective of the study is to use a GIS-based Multi-Criteria Analysis (MCA) with the Analytical Hierarchy Process (AHP) to assess and predict the suitability of green space intervention locations in Kigali City, ensuring accessibility and addressing social and ecological needs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We specifically weigh the key factors driving green space accessibility and ecological importance, using the AHP, and utilise the weights to compute the spatial variation of suitability to new green spaces across Kigali City. The outcome of this study will guide Kigali City S greening efforts and future relevant studies. Materials and methods Study area description The research is based in Kigali (1 56.649 S, 30 3.722 E, 1330 2075 m.a.sl), the capital city of Rwanda (Fig. 1). Kigali City encompasses three administrative districts namely Gasabo, Kicukiro, and Nyarugenge, covering a total of 72,874 hectares. It is currently inhabited by around 1.29 million people, and it is one of the east-African cities that have exhibited highest rates of population and urban growth in the last two decades (Seburanga et al. 2014 ; UN DESA 2019 ). With above 35% green coverage, Kigali is categorised as one of the African green cities (Seburanga et al. 2014 ). Methodology Experimental design This study used a GIS-based Multi-Criteria Analysis (MCA) to determine the suitability of green space interventions in Kigali City.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_025",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main methodology used in the study to determine the suitability of green space interventions in Kigali City?",
+      "answer": "The study employs a GIS-based Multi-Criteria Analysis (MCA) in conjunction with the Analytical Hierarchy Process (AHP) to assess the spatial suitability for green space interventions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The MCA serves as a powerful method of determining spatial suitability (Bakolo et al. 2024 ; Gelan 2021 ). We selected nine factors namely population density, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, land cover types, proximity to water bodies, nitrogen dioxide concen - trations, slope, and elevation, to be used as criteria for the MCA. These factors are considered key to building a model that optimally reflects the social and ecological role of green spaces and their accessibility (Bakolo et al. 2024 ; Gelan 2021 ; Natural England 2010 ). We then assigned weights to the criteria based on the Analytical Hierarchy Process (AHP), before computing suitability in ArcGIS Pro. The model depicting the performed GIS procedures is displayed (Fig. 2). Data acquisition and processing We accomplished all processes for obtaining NDVI, land cover, nitrogen dioxide, and elevation data in Google Earth Engine. We opted for data spanning from June to September 2023, ensuring cloud coverage of less than or equal to 5% and reducing the collected images to their respective means.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_026",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Kigali City is currently covered by green space, and how is the city categorized?",
+      "answer": "Kigali City has above 35% green coverage and is categorized as one of the African green cities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The MCA serves as a powerful method of determining spatial suitability (Bakolo et al. 2024 ; Gelan 2021 ). We selected nine factors namely population density, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, land cover types, proximity to water bodies, nitrogen dioxide concen - trations, slope, and elevation, to be used as criteria for the MCA. These factors are considered key to building a model that optimally reflects the social and ecological role of green spaces and their accessibility (Bakolo et al. 2024 ; Gelan 2021 ; Natural England 2010 ). We then assigned weights to the criteria based on the Analytical Hierarchy Process (AHP), before computing suitability in ArcGIS Pro. The model depicting the performed GIS procedures is displayed (Fig. 2). Data acquisition and processing We accomplished all processes for obtaining NDVI, land cover, nitrogen dioxide, and elevation data in Google Earth Engine. We opted for data spanning from June to September 2023, ensuring cloud coverage of less than or equal to 5% and reducing the collected images to their respective means.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Green space allocation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_009",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_010",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_011",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_012",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_013",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_014",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_015",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_016",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_017",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_018",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_019",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_020",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_021",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_022",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_023",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_024",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_025",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Green space allocation_qna_026",
+      "value": 1
+    }
+  ]
+}

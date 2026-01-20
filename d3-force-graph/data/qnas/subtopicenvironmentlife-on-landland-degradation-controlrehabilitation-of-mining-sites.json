@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites",
+      "label": "Rehabilitation of mining sites",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How much REEs/C was used in the experiment with the actual mine wastewater?",
+      "answer": "In the experiment with mine wastewater, 0.1 g of REEs/C was used.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Briefly, REEs/C (0.5 g) and 15 mg L 1 Pb(NO3)2 solution (50 ml) were put into a 150 ml transparent glass conical flask together. Then, it was shaken at 30 C and 250 rpm for 90 min to ensure sufficient reaction between REEs/Cs and lead nitrate solution. Ultimately, a pure Pb(NO3)2 solution was obtained by filtration through a 0.22 m filter for analysis using Atomic Absorption Spectrometer (AAS, V ARIAN AA240, USA). The concentration of REEs in solution was analysed by Inductively Coupled Plasma Mass Spectrometry (ICP-MS, X-Series 2, Thermo Scientific, Massachusetts, USA). Three replicates were set up for all treatments. The removal experiment of heavy metal in mine wastewater was designed to test the potential of REEs/C for practical applications. Briefly, REEs/C (0.1 g) was placed in a 150 ml clear glass conical flask along with actual wastewater (50 ml) from a mine in Fujian Province. Then, it was shaken at 30 C and 250 rpm to ensure sufficient reaction between REEs/Cs and lead nitrate solution.",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Rehabilitation of mining sites",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What ecological restoration technologies are mentioned for mine areas?",
+      "answer": "The ecological restoration technologies mentioned include physical, chemical, and biological treatment strategies, notably phytoremediation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, major mining techniques, whether pond leaching and heap leaching in the past or in situ leaching as currently utilised, all discard surface plants and topsoil in the mining area, triggering very serious environmental damage, such as desertification, soil erosion, biodiversity loss, heavy metals toxicity/ pollution, and groundwater pollution. In particular, heavy metal and groundwater pollution too often spread to adjacent farmlands and villages, putting human health at great risk1. Research has found that REEs - due to their toxic and carcinogenic characteristics - can accumulate in the liver and other reticular structures of the body, leading to hepatotoxic and neurotoxic outcomes and lung damage2. Thus, the environmental deterioration that is evident in IREM has become a key issue in the rare earth mining industry and garnered the attention of scientists in recent decades. At present, ecological restoration technologies in mine areas usually include physical, chemical, and biological treatment strategies. Phytoremediation, a type of bioremediation technology, is a rehabilitation method utilising plants to restore vegetation, reduce soil and water loss, remove hazardous pollutants in ore districts, 1School of Geographical Science, Fujian Normal University, Fuzhou 350117, Fujian Province, China.",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Rehabilitation of mining sites",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the purpose of the removal experiment involving REEs/C in mine wastewater?",
+      "answer": "The purpose was to test the potential of REEs/C for practical applications in removing heavy metals from mine wastewater.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Briefly, REEs/C (0.5 g) and 15 mg L 1 Pb(NO3)2 solution (50 ml) were put into a 150 ml transparent glass conical flask together. Then, it was shaken at 30 C and 250 rpm for 90 min to ensure sufficient reaction between REEs/Cs and lead nitrate solution. Ultimately, a pure Pb(NO3)2 solution was obtained by filtration through a 0.22 m filter for analysis using Atomic Absorption Spectrometer (AAS, V ARIAN AA240, USA). The concentration of REEs in solution was analysed by Inductively Coupled Plasma Mass Spectrometry (ICP-MS, X-Series 2, Thermo Scientific, Massachusetts, USA). Three replicates were set up for all treatments. The removal experiment of heavy metal in mine wastewater was designed to test the potential of REEs/C for practical applications. Briefly, REEs/C (0.1 g) was placed in a 150 ml clear glass conical flask along with actual wastewater (50 ml) from a mine in Fujian Province. Then, it was shaken at 30 C and 250 rpm to ensure sufficient reaction between REEs/Cs and lead nitrate solution.",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Rehabilitation of mining sites",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Rehabilitation of mining sites_qna_002",
+      "value": 1
+    }
+  ]
+}

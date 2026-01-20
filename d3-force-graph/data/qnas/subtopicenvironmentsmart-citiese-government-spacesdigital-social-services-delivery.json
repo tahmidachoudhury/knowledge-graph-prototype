@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Digital social services delivery",
+      "label": "Digital social services delivery",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Digital social services delivery_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the significance of the social license to automate concept in DSM?",
+      "answer": "The social license to automate concept highlights the legitimacy, credibility, and trust required for user acceptance of DSM programs, emphasizing that DSM is not just a personal choice but is influenced by broader social conditions and community stakeholder requirements.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Success- fully engaged as active participants in the grid, they can become a source of flexibility through close coordination of energy availability and consumption (Ballo, 2015). At the same time, so-called flexible energy consumption does interfere with the everyday life practices of consumers, posing a challenge to the availability of end-user flexibility as a resource (Silv - last et al., 2018; Skj Isvold et al., 2017) and grid com- panies may overestimate public acceptance to shift their energy demand (Winther & Sundet, 2023). Research in the field of promoting flexible energy consumption among households has primarily con- centrated on the provision of economic signals as incentives, often coupled with technological inter - ventions to facilitate the transmission of these sig- nals, with the objective of encouraging individual households to modify their energy consumption patterns. This approach is commonly known as demand-side response (DSR) or demand-side man- agement (DSM). DSM can be done in several ways: manually by using electricity when the price is low, manually by setting up the automation of appliances or by installing a Home Energy Manegment Sys- tem (HEMS) which allows a third party to manage use (Adams et al., 2021).",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Digital social services delivery",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Digital social services delivery",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Digital social services delivery_qna_000",
+      "value": 1
+    }
+  ]
+}

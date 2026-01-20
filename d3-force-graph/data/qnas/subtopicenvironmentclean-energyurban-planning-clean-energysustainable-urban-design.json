@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design",
+      "label": "Sustainable urban design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the implications of this research for urban development and environmental management?",
+      "answer": "The research offers valuable insights into sustainable urban development and environmental management in tropical urban settings.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021). With CMA facing significant climate vulnerabilities, particularly concerning environmental degradation and the urban heat island (UHI) effect, regulating these vulnerabili- ties is crucial. This study addresses this critical gap by focus- ing on the interrelationships between UGS, UBS, and Chl-a in the CMA using structural equation model (SEM). It is the first of its kind in Sri Lanka, marking a pivotal contribution to ecological research and urban planning disciplines. By exploring these unexplored dynamics, this research offers valuable insights into sustainable urban development and environmental management in tropical urban settings. Materials and methods Study area The Colombo Metropolitan Area is depicted in Fig. 1, cho- sen as the focal point for this study, as it stands out within the country as the only metropolitan and is also character - ized by its high level of urbanization. Therefore, the study area became a critical area for urban ecological research. In the context of urban ecology, Colombo presents a compel- ling case study due to the significant ecological transitions that accompany its urban development. By focusing on Colombo, the research aims to shed light on the interactions between urbanization and ecological fac- tors, offering insights that are vital for sustainable urban development and environmental stewardship within metro- politan settings.",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Sustainable urban design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design_qna_001",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How did Walton and Austin (2011) explore pro-environmental behaviour in an urban social structural context?",
+      "answer": "Walton and Austin (2011) explored pro-environmental behaviour in an urban social structural context by examining the influencing factors and dynamics within urban environments that shape individuals' environmental attitudes and behaviours.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1029313224000010",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Sustainable urban design",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Sustainable urban design_qna_001",
+      "value": 1
+    }
+  ]
+}

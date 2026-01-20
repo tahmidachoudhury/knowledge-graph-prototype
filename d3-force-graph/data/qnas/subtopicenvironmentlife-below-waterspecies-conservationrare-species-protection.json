@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Rare species protection",
+      "label": "Rare species protection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Rare species protection_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does co-occurrence network analysis suggest about rare taxa compared to abundant taxa?",
+      "answer": "Co-occurrence network analysis suggests that rare taxa have stronger ecological relevance to the community than abundant taxa.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Article https://doi.org/10.1038/s41467-25-57526-x Differential roles of deterministic and stochastic processes in structuring soilbacterial ecotypes across terrestrialecosystems Mia Riddley 1,7, Shannon Hepp1,7, FNU Hardeep2, Aruj Nayak2,M e i e iL i u3, Xin Xing3, Hailong Zhang4& Jingqiu Liao1,5,6 Soil bacteria are vital to ecosystem resilience and resistance, yet ecological attributes and the drivers governing their composition and distribution, especially for taxa varying in ecologi cal traits and inhabiting different eco- systems, are not fully understood. Here, we analyzed a large-scale bacterial community and environmental dataset of 622 soil samples systematically collected by us from six major terrestri al ecosystems across the United States. We show that soil bacterial diversity and composition signi cantly differ among ecotypes and ecosystems, par tially determined by a few universal abiotic factors (e.g., soil pH, calcium , and aluminum) and several ecotype- or ecosystem-speci C ecological drivers. Co-occu rrence network analysis sug- gests that rare taxa have stronger ecological relevance to the community thanabundant taxa. Ecological models reveal ed that deterministic processes shape assembly of abundant taxa and generalis its, while stochastic processes playedagreaterrolei nr a r et a X aa n ds pecial i sts.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Rare species protection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Rare species protection_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why are threats to small mammals often less recognized compared to large mammals?",
+      "answer": "Threats to small mammals are often less recognized because they are harder to observe or detect, and their natural history is relatively unknown.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2015). While the conservation threats faced by large mammals are known to most people, as these are known as flagship species and are the focus of conservation strategies and campaigns by major conservation and environmental organizations (e.g., giant panda, whales, wolf, wildcat, European otter), threats to small mammals are often less well known (exempting perhaps bats or dormice) and therefore often go unnoticed. In addition, most small mammals are harder to observe or even to detect and their natural history is relatively unknown. Nevertheless, they are an integral part of biodiversity and play a key role in ecosystems, as they are an important part in food chains. Small terrestrial mammals are a major food source for birds of prey (Korpim ki and Norrdahl 1989; Communicated by Joanna Stojak. Clara Stefen and Thalia Jentke shared first authorship. S nke Twietmeyer and Heiko Stuckas shared senior authorship. Extended author information available on the last page of the article Mammal Research Valkama et al. 2005), (small) carnivores (O Meara et al. 2014; Samelius et al.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Rare species protection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Rare species protection_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which small mammal species are mentioned as being rare or of conservation concern in the paragraph?",
+      "answer": "The European hamster (Cricetus cricetus) is mentioned as a rare species of conservation concern.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Future tests with tube diameters, bait, timing of placement etc. could increase the capture success and demonstrate the applicability of the method to rare species. Also, some training for the involved field workers could be advantageous. Keywords Baited tubes Biodiversity Biomonitoring COI barcoding Wetlands and riparian woodlands Introduction Small mammals status Small mammals are here defined by having a body weight of up to 5 kg following Merritt ( 2010 ) and comprise mainly members of Eulipotyphla, Rodentia and Chiroptera. Some European small mammal species are elusive (e.g., Sicista), some mainly nocturnal (e.g., bats), some rare and of con- servation concern like the European hamster (e.g., Cricetus cricetus), some can be pests in agriculture (e.g., Microtus arvalis; Jacob et al. 2014; Hansson 1992) and some are known to host human pathogenic viruses (e.g., the rodents Clethrionomys glareolus and Apodemus agrarius but also shrews; Bown et al. 2011; Olsson et al. 2002; Ulrich et al. 2009; Vaheri et al. 2013; Weber de Melo et al.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Rare species protection",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Rare species protection",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Rare species protection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Rare species protection",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Rare species protection_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Rare species protection",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Rare species protection_qna_002",
+      "value": 1
+    }
+  ]
+}

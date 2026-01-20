@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Wildlife protection",
+      "label": "Wildlife protection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Wildlife protection_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the impact of hunting on biodiversity?",
+      "answer": "Hunting has been identified as a major pressure on wild animals, contributing to unprecedented rates of biodiversity loss globally.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We synthesized 83 studies across West and Central Africa to identify the factors associated with variation in offtake. Our models suggest that offtake per hunter per day is greater for hunters who sell a greater proportion of their offtake; among non-hunter-gatherers; and in areas that have better forest condition, are closer to protected areas and are less accessible from towns. We present evidence that trade and gun hunting have increased since 1991 and that areas more accessible from towns and with worse forest condition may be depleted of larger-bodied wildlife. Given the complex factors associated with regional hunting patterns, context-specific hunting management is key to achieving a sustainable future. Biodiversity loss is occurring at an unprecedented rate globally1. Hunting has been identified as a major pressure on wild animals, and unsustainable hunting (overexploitation) can drive species towards extirpation or extinction2 5. The loss of species and populations (defau - nation6) can lead to seemingly empty habitats7 9 and cascading effects on ecosystem services and functions10. Hunting, consumption and trade of wild animals are pervasive throughout much of the world, particu- larly in tropical regions 11,12.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Wildlife protection",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Wildlife protection",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Wildlife protection_qna_000",
+      "value": 1
+    }
+  ]
+}

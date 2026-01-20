@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Intensification of hurricanes",
+      "label": "Intensification of hurricanes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Intensification of hurricanes_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did the MHW metrics differ between the East and West Coasts of the U.S.?",
+      "answer": "MHW metrics exhibited significant differences between the East and West Coasts, with the East Coast generally showing higher mean intensity, cumulative intensity, and yearly cumulative intensity at the 95% confidence level.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Results MHW events MHW metrics across all sites exhibited pronounced spatial variability (Fig. 2). Mean intensity, cumulative intensity, and yearly cumulative intensity were statistically significant different between the East and West Coasts of the U.S. at the 95% confidence level, with the East Coast generally showing higher values (Fig. 2c, e, f). Across all sites, the average annual frequency of MHW events (Fig. 2a) was 2.23 events per year. The highest average frequency was observed at Elkhorn Slough, CA, with 3.3 events per year, while the lowest frequency occurred at Kachemak Bay, AK, with 1.55 events per year. Despite having the lowest frequency of MHW events, Kachemak Bay, AK recorded the longest average duration, with events lasting 22.34 days Fig. ( 2b), notably exceeding all other sites. Across all estuaries, the average MHW duration was 8.3 days, with the shortest duration observed in Chesapeake Bay, MD, at 6.41 days. Across all sites, the annual average number of MHW days Fig. ( 2d) was 18.70 days per year.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Intensification of hurricanes",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Intensification of hurricanes",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Intensification of hurricanes_qna_000",
+      "value": 1
+    }
+  ]
+}

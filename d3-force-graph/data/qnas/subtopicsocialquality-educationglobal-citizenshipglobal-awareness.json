@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Global awareness",
+      "label": "Global awareness",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Global awareness_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What challenges are currently facing the prevalent worldview formed in the last century?",
+      "answer": "The prevalent worldview is presently being challenged by ecological crises across the globe.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Through violence and other forms of erasure, the latter rose as the prevalent worldview, installing the individualistic ethics of Western thinking and doing, focused on advancing agendas to colonize nature and mechanize ecosystems for human society. As a result, the last century has been termed the Anthropocene, the Era of Humanity , which is presently being challenged across the globe by ecological crises. * Valoree Gagnon vsgagnon@mtu.edu 1 College of Forest Resources and Environmental Science, Michigan Technological University, Room 168, U.J. Noblet Forestry Bldg, Houghton, MI 49931, USA 2 Department of Humanities, Michigan Technological University, Houghton, MI 49931, USA 3 Department of Social Sciences, Michigan Technological University, Houghton, MI 49931, USA 4 Natural Resources Department, Keweenaw Bay Indian Community, Baraga, MI 49908, USA 44 Socio-Ecological Practice Research (2025) 7:43 55 In response, many countries and organizations have devel- oped approaches and policies to alleviate human impacts on planet Earth. However, these efforts, rooted in human-cen- tered paradigms, have fallen short in addressing the longo- ing complex challenges we face.",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Global awareness",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Global awareness_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How does exposure to information on global environmental impacts of local consumption affect individuals' knowledge on the subject?",
+      "answer": "Exposure to information on global environmental impacts of local consumption substantively increases individualsÃ¢â‚¬â„¢ knowledge on this subject.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S146290112300120X?via%3Dihub",
+      "paragraph": "",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Global awareness",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Global awareness_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why may individuals not develop concern and update policy preferences on global environmental impacts of local consumption despite receiving more information?",
+      "answer": "Individuals may not develop concern and update policy preferences on this issue due to non-personal impact, leading to the motto Ã¢â‚¬Ëœout of sight, out of mindÃ¢â‚¬â„¢ effect according to economic models.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S146290112300120X?via%3Dihub",
+      "paragraph": "",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Global awareness",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Global awareness_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does income level influence individuals' knowledge and concern about global environmental impacts?",
+      "answer": "Higher income correlates with more issue knowledge and more concern about global environmental impacts.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S146290112300120X?via%3Dihub",
+      "paragraph": "",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Global awareness",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Global awareness",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Global awareness_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Global awareness",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Global awareness_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Global awareness",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Global awareness_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Global awareness",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Global awareness_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Vacuum sewer systems",
+      "label": "Vacuum sewer systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Vacuum sewer systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How long was the SPS cycle performed in vacuum?",
+      "answer": "The SPS cycle was performed in vacuum for 30 minutes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The milled powders were consolidated into disc-shaped pellets 20 mm in diameter and 12 mm thick, using spark plasma sintering (SPS; HP D 10-SD, FCT Systeme GmbH). The SPS cycle was performed in vacuum for 30 min at a heating rate of 100 C/min25 and a cooling rate of 50 C/min. Uniaxial pressure was increased linearly up to 48 MPa, maintained during the isothermal stage, and quickly released down to contact force during cooling. The consolidation temperatures were 700 C, 800 C, 900 C, 1000 C, and 1100 C, respectively. One sample was prepared for each consolidation temperature. In addition, Fe11Ti3AI6 samples were prepared to facilitate direct comparison with Fe10Cr1Ti3Al6. Although the properties of Fe11Ti3AI6 are available in the literature, 20 the samples were prepared using a different method. In order to ensure meaningful compari- son, both Fe10Cr1Ti3Al6 and Fe11Ti3AI6 were synthesized using the same procedures and conditions. The structure of the sintered samples was analyzed using x-ray diffraction (XRD; Siemens D5000 diffractometer), and the data were processed using X Pert HighScore Plus software.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Innovative sanitation solutions",
+      "subtopic": "Vacuum sewer systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Vacuum sewer systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Innovative sanitation solutions|Vacuum sewer systems_qna_000",
+      "value": 1
+    }
+  ]
+}

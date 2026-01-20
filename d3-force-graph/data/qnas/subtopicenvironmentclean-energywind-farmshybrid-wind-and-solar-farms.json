@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Hybrid wind and solar farms",
+      "label": "Hybrid wind and solar farms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Hybrid wind and solar farms_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What hybrid model did Yang et al. develop, and what does it combine?",
+      "answer": "Yang et al. worked on a hybrid model that combines the Eulerian-Eulerian approach with the discrete phase model.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abdelmotalib et al. [28] employed an Eule- rian-Eulerian model integrated with the Kinetic Theory of Granular Flow (KTGF) to investigate the flow dynamics and thermal properties of bed materials. The purpose of employ - ing the Kinetic Theory of Granular Flow (KTGF) is to model the solid stresses that originate from particle collisions and subscale particle motions [30]. Yang et al. [31] worked on a hybrid model that combines the Eulerian-Eulerian approach with the discrete phase model. In this model, the evolution of the bubble size distribution is captured by the discrete phase model, and the bubble size information is utilized to calculate local momentum interactions within the Eulerian- Eulerian model. The Eulerian-Eulerian approach employs a continuum methodology to efficiently simulate fluidization dynamics, offering faster numerical solutions. Nonetheless, this model incorporates a higher number of empirical coef- ficients, largely due to assumptions related to the drag model and the Kinetic Theory of Granular Flow (KTGF) [32]. This study also analyzed thermal temperature differences in two-dimensional and three-dimensional simulations of the combustion modeling of woody biomass.",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms",
+      "subtopic": "Hybrid wind and solar farms",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind farms|Hybrid wind and solar farms_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the benefits of using fuzzy logic modelling for site identification in renewable energy projects?",
+      "answer": "By utilizing fuzzy logic modelling, developers can make informed decisions, leading to increased energy efficiency, reduced costs, and minimized environmental impact in the selection of wind, solar, and hybrid wind-solar farming sites.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Wind farms",
+      "subtopic": "Hybrid wind and solar farms",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind farms|Hybrid wind and solar farms",
+      "target": "Subtopic:Environment|Clean energy|Wind farms|Hybrid wind and solar farms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind farms|Hybrid wind and solar farms",
+      "target": "Subtopic:Environment|Clean energy|Wind farms|Hybrid wind and solar farms_qna_001",
+      "value": 1
+    }
+  ]
+}

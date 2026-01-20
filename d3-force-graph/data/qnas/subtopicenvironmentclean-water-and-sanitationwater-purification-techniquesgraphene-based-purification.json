@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Graphene-based purification",
+      "label": "Graphene-based purification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Graphene-based purification_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What contaminants are present in the graphitized carbon structure of SPL?",
+      "answer": "The graphitized carbon structure of SPL is contaminated with cryolitic electrolyte remains, intercalated sodium metal, Na (C), and cyanides.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The worn-out cathode lining is termed as spent potlining (SPL). It is estimated that ca. 25 kg of SPL is generated for everymetric ton aluminum produced. [7]however, this number can vary between aluminum producing industrial sites depending on the lifetime of the cells, the design, the degree of cleaning before and sorting while deconstruct-ing a spent cell, and the degree of reuse of the steel casing. The estimated global yearly production of SPL was around 1.42 million metric tons in 2020 and theestimated forecast in 2050 is 1.85 million metric tons. [8] The carbon rich part of SPL is called rst cut , while the refractory and insulation materials are called sec-ond cut The graphitized carbon structure of SPL is contam- inated with cryolitic electrolyte remains, intercalatedsodium metal, Na (C), and cyanides. Sodium is formedas a parasitic reaction on the cathode. Electrolyte and metal penetration cause reactions occurring in the lining materials and Lossius and ye have summarized thereactions occurring within the rst cut SPL as given in Eqs. [ 2] through [ 14]: [9] 6NaF Al I Na3AIF 6l 3Na C 2/C1381=202g Cs CO g 3/C138 9=2CO g 3Na C 3=2Na 2CO 3 3C S 4/C138 3=2N2g 3Na C 3C S 3NaCN I 5/C138 3=4Na 3AIF 6l 3=2CO g 3Na C 3=4NaAIO 2s 9=2NaF I 3=2C S 6/C138 3=4N a 3AIF 6l 3=2Na 2CO 3I 1:5C S 3CO g 3=4NaAIO 2s 9=2NaF I 7/C138 Na3AIF 6l 1=2N2g 3Na C 3=2AIN S 9NaF I 3=2C S 8/C138 3=2Na 3AIF 6l 3=2NaCN I 3Na C 3=2AIN S 9NaF I 3=2C S 9/C138 3AI 203s 3=2NaCN I 3Na C 9=2NaAIO 2s 3=2AIN S 3=2C S 10/C138 Fig.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Graphene-based purification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Graphene-based purification_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method has Chen et al. proposed for the purification of SPL?",
+      "answer": "Chen et al. proposed the oxidation-expansion acid leaching (OEAL) method for the removal of impurities in graphitized carbon.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " According to International Aluminium [8]40 to 50 pct of the SPL is recycled/reused in other processes today, where rst cutis mainly used for energy purposes in the production of cement, steel and mineral wool. Second cut SPL is also used for cement production. In all cases the rst cut SPLhas replaced fossil coal or coke. For both cement and steel, the substitution has given an environmental bene t for both industries. Further, for steel making, a costbene t has also been seen. From the examples given byInternational Aluminium, both the aluminum industryand the end-users can bene t both environmentally and economically from developing cost-e ective alternatives to deposit in land Ils. Several methods for puri cation of SPL have been investigated in literature. Chen et al. [13] ]proposes a method named oxidation-expansion acid leaching (OEAL) which is a novel leaching process for removalof impurities inside graphitized carbon. They suggest that the OEAL manages to remove up to 99 pct of the electrolyte remains in the SPL, as compared to 89 pctwhen using conventional leaching. Rio Tinto has devel-oped a method called the low-caustic leaching and liming process (LCL&L), and this process is industrial- ized today.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Graphene-based purification",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Graphene-based purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Graphene-based purification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Graphene-based purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Graphene-based purification_qna_001",
+      "value": 1
+    }
+  ]
+}

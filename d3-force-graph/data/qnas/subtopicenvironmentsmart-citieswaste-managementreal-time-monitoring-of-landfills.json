@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Real-time monitoring of landfills",
+      "label": "Real-time monitoring of landfills",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Real-time monitoring of landfills_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do municipal landfills compare to chemical landfills in terms of POPs inventory?",
+      "answer": "Municipal landfills are joining chemical landfills as reservoirs of POPs and other PBTs, although they typically have a lower pollution inventory for individual sites.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Also, many high income countries have disposed POPs containing municipal waste largely in landfills until recently and some coun tries, such as Australia, New Zealand, and the US with limited waste destruction capacity, still dispose POPs containing waste to landfills [46, 167, 184, 189, 362]. Therefore, municipal landfills are joining chemical landfills as reservoirs of POPs and other PBTs albeit at a lower pollution inventory for individual sites, but they represent a large overall inventory considering the hundreds of thousands of landfills including those that predate modern environmental regulations, and which do not have lining and caping systems and waste is not isolated from the surrounding environment [29]. Whilst in the frame of the Stockholm Convention POPs inventories are developed, e.g., for polychlorin ated biphenyls (PCBs) in transformers and capaci tors or PBDEs in electronic waste, the POPs disposed to landfills or in contaminated sites are normally not quantified with some exemptions like large pesticide landfills [234, 294, 349, 351]. Inventories of uninten tionally produced POPs, such as PCDD/PCDF, are largely developed as release inventories for specific years [86, 354] and mostly do not consider the historic reservoirs and releases with a few exemptions [198, 289, 361], although the UNEP unintentional POP inventory toolkit contains a dedicated chapter on contaminated sites [311].",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "subtopic": "Real-time monitoring of landfills",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Real-time monitoring of landfills_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can real-time data monitoring help in adjusting strategies for sustainability goals efficiently?",
+      "answer": "Real-time data monitoring allows for the adjustment of strategies based on current performance, ensuring that sustainability goals are met efficiently.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652624007261",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "subtopic": "Real-time monitoring of landfills",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Waste management|Real-time monitoring of landfills",
+      "target": "Subtopic:Environment|Smart cities|Waste management|Real-time monitoring of landfills_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Waste management|Real-time monitoring of landfills",
+      "target": "Subtopic:Environment|Smart cities|Waste management|Real-time monitoring of landfills_qna_001",
+      "value": 1
+    }
+  ]
+}

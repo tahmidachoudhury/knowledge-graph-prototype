@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention",
+      "label": "Soil moisture retention",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How does biochar affect the water-holding capacity of soil?",
+      "answer": "Biochar increases the water-holding capacity of soil.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This specific type of fertile, very dark, carbon-rich soil, discovered in the Amazon basin, was found to contain greater nutrient content and greater organic carbon content than surrounding soils (Glaser et al., 2001). Biochar as a soil amendment produces many known benefits including improving carbon content and nutrient levels (Glaser et al., 2001), increasing the cation exchange capacity of soils (Glaser et al., 2001), increasing the water-holding capacity of soil (Gaskin et al., 2007; Herath et al., 2013), increasing pH levels in acidic soil (Novak et al., 2009a, 2009b), as well as reducing and immobilizing toxic metals such as arsenic, cadmium and zinc (Park et al., 2011). Biochar application to soil can also provide long-term carbon sequestration, reduce yearly greenhouse emissions and ultimately mitigate climate change (Woolf et al., 2010). Far more research has focused on evaluating the benefits of sewage sludge biochar on soil fertility and crop yield (Gwenzi et al., 2016; Hossain et al., 2015; Khan et al., 2013; Liu et al., 2014a; Sousa & Figueiredo, 2016; Tian et al., 2019; Waqas et al., 2015; You et al., 2019; Zhang et al., 2016), compared to faecal sludge biochar (Bai et al., 2018; Woldetsadik et al., 2018).",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil moisture retention",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does increasing water content affect oxygen availability in the soil?",
+      "answer": "As water content increases, the diffusive oxygen supply decreases and the anaerobic soil volume may spread into larger areas with lower oxygen consumption rates.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2008; Linn and Doran 1984; Rohe et al. 2021; Ruser et al. 2006; Weier et al. 1993 ; Werner et al. 2014 ). Alternatively, denitrification begins at a relative gas diffusivity of 0.5 0.1, a range that is nar - rower and less soil-dependent than the range of soil moisture (Balaine et al. 2013; Chamindu Deepagoda et al. 2019; Li et al. 2021 ; Owens et al. 2017 ; Rousset et al. 2020) though higher values have also been reported (Petersen et al. 2013). A reason for this broad moisture transition range rather than a sharp moisture threshold is that at low water saturation the anaerobic soil volume might emerge in a few anoxic microsites with high oxygen consumption in an otherwise well-aerated soil. As the water content increases, the diffusive oxygen sup- ply goes down and the anaerobic soil volume may gradually spread into larger areas with lower oxygen consumption rates. Impact of spatial heterogeneity Oxygen availability in soils results from a delicate balance between oxygen consumption and replenishment. This has been shown by numerous soil incubation studies under dif- ferent temperatures and water contents or external oxygen concentrations (Schaufler et al.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil moisture retention",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What happens to radon release after heavy rains?",
+      "answer": "After heavy rains, the soil can release radon more readily during periods of drying.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For example, in Arizona and Alabama, elevated indoor radon concentrations were reported during summer, partly because homes are tightly sealed and air-conditioned during summer and often ventilated during cool seasons (Xie et al., 2015). Changes in precipitation patterns due to climate change can significantly impact soil moisture lev - els, which in turn affect radon movement (Nunes et al., 2022). Increased rainfall can lead to higher soil moisture, creating a barrier that slows radon migration from the ground into the air (Victor et al., 2019). However, during periods of drying following heavy rains, the soil can release radon more readily (Friedmann, 2017; Mose et al., 2010). Conversely, prolonged drought conditions can dry out the soil, increasing its permeability and enabling radon to more easily migrate through the soil and into build- ings. Thus, fluctuating precipitation patterns contrib- ute to the dynamic nature of radon levels in residen- tial environments (Appleton, 2007). In response to climate change, there has been a push toward more energy-efficient buildings with better insulation and reduced air leakage (Brambilla et al., 2020).",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil moisture retention",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil moisture retention_qna_002",
+      "value": 1
+    }
+  ]
+}

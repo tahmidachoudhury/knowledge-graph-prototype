@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Labor rights|Child labor eradication",
+      "label": "Child labor eradication",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Labor rights"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Labor rights|Child labor eradication_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Which countries are the leading global producers of silk, and where has the use of child labour been reported?",
+      "answer": "The leading global producers of silk are China, India, Uzbekistan, Brazil, Iran, and Thailand. The use of child labour has been reported in countries such as India and Uzbekistan.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/B9780128240526000135",
+      "paragraph": "",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Labor rights",
+      "subtopic": "Child labor eradication",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Labor rights|Child labor eradication",
+      "target": "Subtopic:Social|Decent work and economic growth|Labor rights|Child labor eradication_qna_000",
+      "value": 1
+    }
+  ]
+}

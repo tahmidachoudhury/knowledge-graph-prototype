@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies",
+      "label": "Remote sensing and monitoring technologies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which remote sensing indices were used in the study to analyze erosion trends?",
+      "answer": "The remote sensing indices used were NDVI (Normalized Difference Vegetation Index), NDSI (Normalized Difference Soil Index), and TGSI ( Topsoil Grain Size Index).",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Evaluation of early warning signals for soil erosion using remote sensing indices in northeastern Iran Abdolhossein Boali1, Mohsen Hosseinalizadeh1 , Narges Kariminejad2, Hamid Reza Asgari1, Ali Mohamadian Behbahani1, Babak Naimi3, Vahid Shafaie4 & Majid Movahedi Rad4 Soil erosion represents a major challenge to natural resource conservation, causing land degradation, biodiversity loss, and diminished soil quality. This study explored the use of satellite imagery to evaluate the spatiotemporal risk of soil erosion in northeastern Iran. The ICONA model was applied to identify areas at severe erosion risk, while remote sensing indices (NDVI, NDSI, and TGSI) were employed to analyze erosion trends. NDVI is used to monitor vegetation health, NDSI detects soil salinity levels, and TGSI assesses topsoil grain size distribution, collectively providing critical insights into soil erosion risk in the study area. These indices, derived from the Google Earth Engine with a 30-meter spatial resolution and monthly temporal intervals (2003 2022), were assessed at 100 points, equally divided between eroded and non-eroded regions. Field data, including vegetation plots and soil profiles, were used to validate the remote sensing outputs.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Remote sensing and monitoring technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some commonly used empirical models for assessing water erosion?",
+      "answer": "The commonly used empirical models for assessing water erosion include VIKOR, SWAT, RUSLE, and MPSIAC4.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Among the commonly used empirical models for assessing water erosion are VIKOR, SW AT, RUSLE, and MPSIAC4. These models typically include coefficients and parameters that require extensive research or calibration based on local conditions5. Moreover, applying some of these models depends on access to baseline data and statistical information, which may not be readily available in many regions6. Therefore, remote sensing-based models have been proposed as a practical approach for assessing water erosion over large scales and across time. These models, particularly in areas with difficult access, allow us to quickly and cost-effectively gather the necessary spatial information7. Additionally, remote sensing models enable the analysis of spatial and temporal changes in water erosion, contributing to a better understanding of the patterns and factors influencing this phenomenon8. In this context, various models have been developed for monitoring and assessing this issue, with one of the most effective being the ICONA model9. This model uses remote sensing data and spatial analyses to accurately and regionally evaluate water erosion7. Due to its ability to integrate spatial and satellite data, ICONA helps identify erosion- prone areas and predict their environmental impacts, thus aiding in optimal management decisions to mitigate erosion-related damage5.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Remote sensing and monitoring technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What advantages do remote sensing-based models offer for assessing water erosion?",
+      "answer": "Remote sensing-based models offer the advantage of quickly and cost-effectively gathering the necessary spatial information over large scales and across time, especially in areas with difficult access.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Among the commonly used empirical models for assessing water erosion are VIKOR, SW AT, RUSLE, and MPSIAC4. These models typically include coefficients and parameters that require extensive research or calibration based on local conditions5. Moreover, applying some of these models depends on access to baseline data and statistical information, which may not be readily available in many regions6. Therefore, remote sensing-based models have been proposed as a practical approach for assessing water erosion over large scales and across time. These models, particularly in areas with difficult access, allow us to quickly and cost-effectively gather the necessary spatial information7. Additionally, remote sensing models enable the analysis of spatial and temporal changes in water erosion, contributing to a better understanding of the patterns and factors influencing this phenomenon8. In this context, various models have been developed for monitoring and assessing this issue, with one of the most effective being the ICONA model9. This model uses remote sensing data and spatial analyses to accurately and regionally evaluate water erosion7. Due to its ability to integrate spatial and satellite data, ICONA helps identify erosion- prone areas and predict their environmental impacts, thus aiding in optimal management decisions to mitigate erosion-related damage5.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Remote sensing and monitoring technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Remote sensing and monitoring technologies_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools",
+      "label": "Environmental impact tools",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What software is used for additional processing and archiving of PVOL data in the OPERA development environment?",
+      "answer": "The BALTRAD Toolbox is used for additional processing and archiving of PVOL data in the OPERA development environment.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " PVOL data result from the scanning routine of a radar (also known as volume coverage pattern or VCP). It consists of a number of scans (also called sweeps) collected at different elevation angles (angle between radar scan and horizon), with quantities observed by the radar such as reflectivity factor (DBZ) and radial velocity (VRAD) (see for example 24 for details). Scanning routines are typically conducted every 5 to 15 minutes and generally result in one PVOL file per routine. To exchange such data, national meteorological services in Europe collaborate in OPERA, the Operational Programme for the Exchange of Weather Radar Information25, under the umbrella of the European Meteorological Services Network, EIG EUMETNET. OPERA member countries submit PVOL data (or scans) to OPERA in real-time, using the ODIM HDF5 format26. Data are sometimes cleaned (i.e. filtered) for mete - orological purposes prior to distribution (see Usage Notes and20). These data are subsequently used in OPERA production centers to produce meteorological products. They are also forwarded to the OPERA development environment (ODE) server, where software called the BALTRAD Toolbox 27 does additional processing and archiving.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Environmental impact tools",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do TRIO models help in estimating the environmental loads of traded goods through international supply chains?",
+      "answer": "TRIO models, also known as Multi-Regional Input-Output models, are effective tools that estimate the environmental impact of traded goods by assessing the resources used and emissions generated along international supply chains.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Environmental impact tools",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What modelling tool is mentioned as being used to provide insights into the linkages of the ecological system with anthropogenic pressures?",
+      "answer": "The modelling tool mentioned is Ecopath with Ecosim (EwE).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2003, 2008; Steenbeek et al. 2021; Stock et al. 2023). On the other hand, we need to move from the fisheries land-based economic analysis to an integrated analysis including the entire seafood system value chain (from fishers to consumers), where global and local components are included and multi-stakeholder interests are represented. In the last decades, several modelling tools have emerged to provide insights into the linkages of the ecological system with the anthropogenic pressures (Guisan and Zimmermann 2000; Fulton 2010), including marine ecosystem models such as Ecopath with Ecosim (EwE onwards). EwE models Handled by Michelle Tigchelaar, Stanford University, United States of America. * Miquel Ortega m.ortegac@icm.csic.es 1 Institute of Marine Science (ICM-CSIC), Pg. Mar tim de la Barceloneta, 37, Despatx B02Pg. Mar tim de la Barceloneta, 37, B64, 8003 Barcelona, Spain 2 Ecopath International Initiative (Ell), Barcelona, Spain Sustainability Science have been proven to be powerful tools, especially, but not exclusively, linked with fisheries management (Christensen and Walters 2004; Heymans et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Environmental impact tools",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental impact tools_qna_002",
+      "value": 1
+    }
+  ]
+}

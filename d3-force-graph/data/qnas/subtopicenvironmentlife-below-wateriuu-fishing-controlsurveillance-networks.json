@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks",
+      "label": "Surveillance networks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does ICT-induced disintermediation refer to in the context of the paragraph?",
+      "answer": "ICT-induced disintermediation refers to how remote surveillance allows new information flows that bypass key stakeholders, enabling verification without onsite audits.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " ( 2022 ), writing almost a decade later, observe that Australia-Oceania is the only region in the world where farm-based food security studies are rare compared to water security studies a gap this research addresses. Data-driven climate solutions There is a growing body of work on climate solutions and how these intersect with primary production. Central to solutions is measurement, significantly enhanced through advances in digital technology that have resulted in the proliferation of data. The Australian pastoral industry has become one of the most recent industries to be subject to what Archer ( 2021 :284) terms data driven sustainability . He describes a socio-technical imaginary of neoliberal sustainability (Archer 2021 :282) whereby sustainability reporting is now dependent upon data from intense and invasive regimes of monitoring and surveillance. Gale et al., (2017:77) refer to this as ICT-induced disintermediation , as remote surveillance enables new flows and arrangements of information, by-passing key stakeholders such as pro - ducers and enabling timely verification without the need for onsite audits. Whilst earlier forms of sustainability gover - nance relied on analogue data, Archer ( 2021 ) cautions that digitised forms of surveillance differ in that they are auto - mated.",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Surveillance networks",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did the study using statistical modeling verify the risk of NIS spread?",
+      "answer": "It showed a strong correlation between predicted risks of NIS spread via diving boats and actual NIS presence at diving sites.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2007; 2008; Karamanlidis et al. 2016; Mclvor et al. 2023). A previous experimental study in Madeira supported that local MPA communities showed lower NIS colonisation than communities outside protected areas (Gestoso et al. 2017), sug- gesting some degree of enhanced biotic resistance against NIS invasion (Elton 1958). However, the extent of the effects or how they relate to differ - ential NIS pressure is unclear. Recent works have also focused on local NIS proliferation and possible trophic control mechanisms (Chebaane et al. 2023, 2024). However, these studies detected spatial vari- ation in trophic interactions and biotic resistance that may be related to differential NIS pressure, pro- tection status or other factors. Another recent study conducted in Madeira used statistical modelling to verify the risk of NIS spread via diving boats using environmental and survey data (Parretti et al. 2020). Model validation showed a strong correlation between predicted risks and actual NIS presence at diving sites. Results indicate higher NIS risks in MPAs, supported by increased maritime traffic related to dive operations, highlighting the need for management actions.",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Surveillance networks",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is the network analysis method considered well-suited for this study?",
+      "answer": "It is considered well-suited due to its previous applications in the study of food systems governance, organizational change, and the investigation of corporate power and interlocking directorships.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To achieve our aim, we address two objectives. First, we identify, map, and describe the most prominent MIs involv - ing the UPF industry in GFG through a network analysis of board seat memberships. Second, we describe the char - acteristics of these MIs, in terms of which corporations or organisations, industries, executive job titles, actor types, and countries of origin are represented. We then discuss the implications of UPF industry engaged multi-stakeholder governance for GFG, food systems transformation, and global responses to the health and environmental harms of UPFs. Methods To map, analyse, and describe MIs involving the UPF indus- try, we adopted a network analysis method (Wasserman and Faust 1994) involving three steps: i) quantitative and quali- tative data collection; ii) data categorization, mapping, and analysis; and iii) synthesis of results. This method is well suited to addressing the study aim, given its previous appli- cations in the study of food systems governance and organi- zational change (Rocker et al. 2022), and the investigation of corporate power and interlocking directorships (Scott 2011).",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Surveillance networks",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Surveillance networks_qna_002",
+      "value": 1
+    }
+  ]
+}

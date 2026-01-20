@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design",
+      "label": "Sustainable design",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do sustainability-driven companies approach environmental strategies and green product development?",
+      "answer": "Sustainability-driven companies prioritize environmentally-friendly practices and sustainable development in their strategies, which guides their focus on green product development and creating products with minimal environmental impact.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723006941",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Sustainable design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of incorporating environmental issues in product design and realization, as discussed in the works by Bras, B.?",
+      "answer": "Incorporating environmental issues in product design and realization is crucial for sustainable production and consumption.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652618327872",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Sustainable design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the risk associated with a retailer's unilateral approach that focuses mainly on cost and commercial priorities in developing sustainable products?",
+      "answer": "A retailer's unilateral approach that prioritizes cost and commercial considerations may undermine social and environmental sustainability compliance of suppliers and limit the chances of achieving aesthetic criteria in sustainable product development. This approach can lead to a lack of balance between cost and aesthetics, potentially resulting in products that do not fully meet sustainability standards or consumer expectations.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0148296322006348",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Sustainable design",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Sustainable design_qna_002",
+      "value": 1
+    }
+  ]
+}

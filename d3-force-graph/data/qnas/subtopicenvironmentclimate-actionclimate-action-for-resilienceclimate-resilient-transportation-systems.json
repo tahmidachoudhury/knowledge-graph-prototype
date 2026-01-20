@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems",
+      "label": "Climate-resilient transportation systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is it important to consider the propagation of costs of extreme weather events through the global trade network?",
+      "answer": "It is important to consider the propagation of costs of extreme weather events through the global trade network for a comprehensive account of the social cost of carbon (SCC) used in cost-benefit analysis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021 ; Cruz and Rossi-Hansberg 2024 ). Under - standing the spatial spillovers of local weather events has also important consequences for cost-assessments of climate change and thus the decision-making of policy makers. As the frequency and severity of extreme weather events is likely increasing with further global warming the propagation of the costs of extreme weather events through the global trade network is relevant for a comprehensive account of the social cost of carbon (SCC), a key figure used in cost-benefit analysis that puts a monetary value on the impacts of climate change caused by one ton of carbon (Wagner et al. 2021 ). In the U.S., the former Trump administration revised the official, formerly global, SCC figures, considering only domestic climate impacts in continental United States. This has been reversed by the Biden admin - istration, mainly based on ethical and fairness arguments. But if costs of climate change are propagated through international trade, this provides an argument to take into account global climate impacts for the SCC calculation even from a pure selfish perspective. It is therefore important to measure the extent of climate impacts on trade flows and their propa - gation through the global trade system.",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Climate-resilient transportation systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How has climate change impacted the urgency of transitioning to a carbon-neutral transport system?",
+      "answer": "In the last decades, climate change has heightened concerns, making the transition to a carbon-neutral transport system a global political target, as highlighted by organizations like the European Conference of Ministers of Transport and the UNF CCC.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Climate-resilient transportation systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Climate-resilient transportation systems_qna_001",
+      "value": 1
+    }
+  ]
+}

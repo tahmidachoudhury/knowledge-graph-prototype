@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices",
+      "label": "Conservation planning practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What type of research is emphasized as necessary for effective conservation planning?",
+      "answer": "Robust data-driven research is emphasized as necessary for effective conservation planning to understand wildlife persistence and adaptability to urbanising landscapes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The findings of this study can inform spatially-guided management decisions and long-term conservation strategies for large mammals under growing urban pressures worldwide. Keywords Landscape genetics Connectivity Conservation planning Urbanising environment Urbanisation Introduction Urban expansion has emerged as one of the signifi- cant drivers of biodiversity decline globally (Seto et al. 2012), with projected human population growth expected to reach nearly 9.7 billion by 2050 (UN 2022) and exacerbate current impacts. Australia, in particular, faces severe biodiversity loss due to rem- nant habitat conversion for agriculture, forestry, and urban infrastructure (Bennett and Saunders 2010; Heilig 2018; van Leeuwen 2021). Rapid changes in urban and rural areas (peri-urban zones) create a complex mosaic of habitats, challenging wildlife adaptation and persistence (Simon 2008; Amirinejad et al. 2018). As such, effective conservation planning requires robust data-driven research to understand wildlife persistence and adaptability to urbanising landscapes, moving beyond expert opinions to quan- titative analyses (Werner 2011). In human-modified landscapes, wildlife face novel spatio-genetic barriers that alter historical movement pathways, encompassing both physical barriers (e.g., buildings, waterways) and behavioural barriers (e.g., reluctance to disperse across terrain) (Slatkin 1987; Baguette and Van Dyck 2007).",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Conservation planning practices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How has the ecological landscape perspective been applied in the UK regarding conservation measures?",
+      "answer": "The ecological landscape perspective has been adopted in ongoing implementations of conservation measures in the UK.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2019 Although connectivity in general terms is an important component in ecological mechanisms operating across landscape mosaics, increasing structuralconnectivity as such may not primarily contribute to increasing population size or viability (Hodgson et al. 2011 ), i.e. not directly supporting biodiversity. Hence, the links between GI and ef cient biodiversity conservation may actually be relatively weak, which to some extent re ect the fact that GI has multiple goals beyond biodi-versity conservation (von Post et al. 2023 ). Implementing GI may therefore not help solve the problem of decreasingbiodiversity, unless trade-offs between other intended outcomes are explicitly considered (von Post et al. 2023 ). A relevant ecological landscape perspective that resi- lient ecological networks (and GI) could be based on hasbeen adopted in ongoing implementations of conservation measures in the UK (Isaac et al. 2018 ). In a report to the Department of Environment, Food and Rural Affairs(DEFRA), Lawton et al. ( 2010 ) suggested a strategy based on four well-established principles for biodiversity con-servation (Isaac et al. 2018 ). The ecological landscape perspective is there based on the concept Better, Bigger, More, and Joined (BBMJ), i.e.",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Conservation planning practices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Conservation planning practices_qna_001",
+      "value": 1
+    }
+  ]
+}

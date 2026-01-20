@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Carbonic acid",
+      "label": "Carbonic acid",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Carbonic acid_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do tertiary amine (TEA) and AMP differ in their reaction with CO2?",
+      "answer": "TEA reacts with water and CO2 to form HCO3 and protonated TEA (TEAH+), while AMP is sterically hindered and forms unstable carbamate, allowing it to hydrolyze into HCO3.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Additionally, it accumulates lipids in greater quantities than other species, making it particularly suitable to produce value-added products such as biofuels19. The research conducted by Kim et al. (2013) showed that S. acuminatus outperformed other microalgal species in removing dissolved CO2 from amine-based solutions under similar amine types 16,17,19 22. The S. acuminatus could coexist with TEA solution with less toxicity. Primary amine (MEA) and secondary amine (DEA) react with CO2 to form relatively stable carbamate19 which cannot be used as a carbon source for microalgae. On the other hand, tertiary amine (TEA) reacts with water and CO2 to form HCO3 and protonated TEA (TEAH+)18,19. Additionally, AMP is a sterically hindered amine with unstable carbamate, allowing it to hydrolyze into HCO3 as well26. HCO3 can be carbon nutrient, carrying into microalgae cells through carbon concentrating mechanism (CCM) and converted into CO2 for photosynthesis15, 18. Due to these mechanisms, the tertiary amine or AMP may be suitable alternatives for amine-based absorption combined with microalgae cultivation process. For recent studies, Yin et al.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Carbonic acid",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Carbonic acid",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Carbonic acid_qna_000",
+      "value": 1
+    }
+  ]
+}

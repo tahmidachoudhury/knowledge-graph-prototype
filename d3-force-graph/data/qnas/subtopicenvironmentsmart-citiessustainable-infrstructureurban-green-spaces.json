@@ -1,0 +1,194 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "label": "Urban green spaces",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What role do urban green and blue spaces play in city resident health and well-being?",
+      "answer": "Urban green and blue spaces enhance the health and well-being of city residents in terms of ecology.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Urbanization is accelerating rapidly, highlighting the critical role of aligning with sustainable development goals, urban green and blue spaces (UGS and UBS). These spaces play a crucial role in enhancing the health and well-being of city residents in terms of ecology. Acknowledging the importance of urban ecology, this study utilizes Sentinel-2A data and support vector machine classification, aimed to identify UGS and UBS. To examine the connections between UGS and UBS, specific indices, spectral bands, and textures were calculated. Additionally, the concentration of chlorophyll, a vital indicator of ecological health, was assessed using three indices. Structural equation modeling was employed to elucidate the relationship between UGS and UBS and their impact on chlorophyll concentration for the years 2017 and 2023. In the 2017 model, UGS exhibited a positive path coefficient (0.25) with chlorophyll-a, indicating that an increase in UGS is associated with an increase in chlorophyll levels. Conversely, in 2023, the path coefficient turned negative ( 0.83), presenting a stark contrast to the 2017 model. This shift suggests potential environmental or urban development changes, such as alterations in the quality or type of urban green spaces, potentially including more non-native or ornamental plants that contribute less to overall chlorophyll levels.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban green spaces",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why are urban green space (UGS) and urban blue space (UBS) important in urban planning?",
+      "answer": "UGS and UBS are important because they help regulate urban temperatures and create more livable urban spaces through processes like shadowing and evapotranspiration.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " UGS can be subjected to pollution, soil compaction, and other stressors that reduce plant health. Similarly, the UBS showed an increase in its path coefficient from 0.99 in 2017 to 1.8 in 2023, suggesting improvements such as cleaner water or urban planning strategies aimed at reducing water pollution. The consistent negative relationship across both years suggests that urban water bodies are not contributing to Chl levels due to complex interactions of water bodies with their urban surroundings. However, further research is essential to delve into these dynamics and comprehend the implications for urban ecological planning and sustainability. Keywords Artificial intelligence Chlorophyll-a concentrations Random forest classification Urban green and blue spaces Urbanization Introduction The continuous expansion of cities has progressively trans- formed urban ecological landscapes, creating significant spa- tial variations that exacerbate global warming and intensify urban heat islands (UHIs) (Liu et al. 2024). In this context, urban green space (UGS) and urban blue space (UBS) are pivotal in adaptable urban thermal environments (Shi et al. 2020). These elements not only play a critical role in regu- lating urban temperatures but also in creating more livable urban spaces through processes like shadowing, evapotran- spiration, and air movement modulation (Shi et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban green spaces",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What can urban green space provide according to the paragraph?",
+      "answer": "Urban green space can provide opportunities for conservation and enhanced human wellbeing with careful planning and policy practice.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2022). For example, gardens and smaller acreage properties present a large proportion of the total land available for conservation actions across the planet. As with other jurisdictions, Australian regions that exhibit high biodiversity are also the areas that have been the focus of intense urbanisation (e.g., South- least Australia, Southwest Australia). The critical mass of population now residing in urban, suburban and peri-urban areas poses an opportunity for conservation gains and broadscale engagement in nature apprecia- tion; specifically, via the actions of the householder in residential gardens (Bekessy et al. 2020; Newsome 2020; Delahay et al. 2023). Admittedly, the trend towards an increasingly urbanised planet often equates to local and regional biodiversity declines (Aronson et al. 2014), through direct habitat loss, human-mediated disturbance and direct mortality cre- ated by vast road and transport networks (Johnson et al. 2017). However, with careful plan- ning and policy practice, urban green space can present opportunities for conservation and enhanced human wellbeing (Miller et al. 2009; Nilon et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban green spaces",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of greenspace are included in Xalapa's vegetation cover?",
+      "answer": "The greenspace network in Xalapa includes both public (parks, median strips, reserves) and private property (gardens, forest patches).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Despite its continuously growing urban matrix (Lemoine-Rodr guez et al. 2019), Xalapa is considered to have a high vegetation cover, with nearly ~ 40% of its ter - ritory covered by vegetation (Falf n et al. 2018 ), mainly distributed across its greenspace network, both comprised by public (i.e., parks, median strips, reserves) and private property (i.e., gardens, forest patches). Woody vegetation in Xalapa is diverse and heterogeneous, with the configuration of the trees and shrubs mainly shaped by the necessities and preferences of citizens and government plans (Falf in and MacGregor-Fors 2016 ). Survey design We followed a citywide survey scheme (Turner 2003 ; Mac - Gregor-Fors 2019 ) to gather a representative sample of the bird communities in the urban continuum of Xalapa. For this city, a sampling design was established in 2013 and has been continuously utilized for different biodiversity surveys (e.g., Ram rez-Restrepo et al. 2015 ; Escobar-lb ez and MacGregor-Fors 2016 ; Falf n and MacGregor-Fors 2016 ). Briefly, we delimited the urbanization sprawl of the city of Xalapa using high-resolution satellite imagery fol - lowing building-aggregation and road communication cri - teria (Lemoine-Rodr guez et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban green spaces",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the purpose of including strategically established points in green areas?",
+      "answer": "The purpose was to have representation of the bird communities that dwell in the most important green areas of the city, particularly those with a high proportion of original vegetation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2019 ). Then we placed a 750 750 m grid and in the center of each cell, we placed a survey point. Originally comprised of 106 survey points, we also included some strategically established points in some of the most important green areas of the city (i.e., some of the largest ones and keeping a high proportion of original vegetation) to also have a representation of the bird com - munities that dwell there, for a total of 114 survey points for the entire urban area (Fig. 1). To compare the bird communities in the contrast con - servation areas (referred to as reference sites hereafter), we established 20 survey points (10 points each) in the two most important accessible remnant vegetation areas adja - cent to the city of Xalapa: the protected natural areas of La Martinica in the North as a sample of the original temperate pine-oak forest environment (hereafter North reference site) and Santuario Bosque de Niebla in the Southwest region as a sample of the original cloud forest environment (here - after South reference site).",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban green spaces",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_005",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What benefits do Green Urban Areas (GUAs) offer to citizens and visitors?",
+      "answer": "GUAs offer various ecosystem services to citizens and visitors, including environmental benefits and improved well-being.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Zooming into Europe's high level of urbanization, the loss and degradation of urban and peri-urban green spaces, have negatively impacted eco- systems, human health and urban sustainability (Tzoulas et al. 2007). A sustainable urban environment requires, among other parameters, equitable access to green spaces, reducing environmental degradation while enhancing com- munity well-being. Integrating urban and human sustainabil- ity ensures that cities support adaptive systems capable of mitigating and responding to climate impacts. Adopting such multi-faceted approaches that combine and assess multiple environmental pressures fosters long-term urban resilience. The role of Green Urban Areas (GUAs) becomes cru- cial for cities to achieve climate adaptation. GUAs improve human health and well-being (Van den Berg et al. 2010; WHO 2016), mitigate urban heat (Aram et al. 2019), as well as air and noise pollution (Adilov et al. 2023; Ramon et al. 2023 ), promote environmental justice (Venter et al. 2023), and protect biodiversity (Moln et al. 2023), offer - ing in parallel various ecosystem services to citizens and visitors (Pereira et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban green spaces",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_006",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What negative impacts are associated with the loss and degradation of urban green spaces in Europe?",
+      "answer": "The loss and degradation of urban green spaces negatively impact ecosystems, human health, and urban sustainability.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Zooming into Europe's high level of urbanization, the loss and degradation of urban and peri-urban green spaces, have negatively impacted eco- systems, human health and urban sustainability (Tzoulas et al. 2007). A sustainable urban environment requires, among other parameters, equitable access to green spaces, reducing environmental degradation while enhancing com- munity well-being. Integrating urban and human sustainabil- ity ensures that cities support adaptive systems capable of mitigating and responding to climate impacts. Adopting such multi-faceted approaches that combine and assess multiple environmental pressures fosters long-term urban resilience. The role of Green Urban Areas (GUAs) becomes cru- cial for cities to achieve climate adaptation. GUAs improve human health and well-being (Van den Berg et al. 2010; WHO 2016), mitigate urban heat (Aram et al. 2019), as well as air and noise pollution (Adilov et al. 2023; Ramon et al. 2023 ), promote environmental justice (Venter et al. 2023), and protect biodiversity (Moln et al. 2023), offer - ing in parallel various ecosystem services to citizens and visitors (Pereira et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban green spaces",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_007",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is required for a sustainable urban environment according to the paragraph?",
+      "answer": "A sustainable urban environment requires equitable access to green spaces and the reduction of environmental degradation while enhancing community well-being.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Zooming into Europe's high level of urbanization, the loss and degradation of urban and peri-urban green spaces, have negatively impacted eco- systems, human health and urban sustainability (Tzoulas et al. 2007). A sustainable urban environment requires, among other parameters, equitable access to green spaces, reducing environmental degradation while enhancing com- munity well-being. Integrating urban and human sustainabil- ity ensures that cities support adaptive systems capable of mitigating and responding to climate impacts. Adopting such multi-faceted approaches that combine and assess multiple environmental pressures fosters long-term urban resilience. The role of Green Urban Areas (GUAs) becomes cru- cial for cities to achieve climate adaptation. GUAs improve human health and well-being (Van den Berg et al. 2010; WHO 2016), mitigate urban heat (Aram et al. 2019), as well as air and noise pollution (Adilov et al. 2023; Ramon et al. 2023 ), promote environmental justice (Venter et al. 2023), and protect biodiversity (Moln et al. 2023), offer - ing in parallel various ecosystem services to citizens and visitors (Pereira et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban green spaces",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_008",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What further action is deemed necessary according to the findings presented in the paragraph?",
+      "answer": "Further research is essential to explore the dynamics of urban green and blue spaces and comprehend their implications for urban ecological planning and sustainability.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " UGS can be subjected to pollution, soil compaction, and other stressors that reduce plant health. Similarly, the UBS showed an increase in its path coefficient from 0.99 in 2017 to 1.8 in 2023, suggesting improvements such as cleaner water or urban planning strategies aimed at reducing water pollution. The consistent negative relationship across both years suggests that urban water bodies are not contributing to Chl levels due to complex interactions of water bodies with their urban surroundings. However, further research is essential to delve into these dynamics and comprehend the implications for urban ecological planning and sustainability. Keywords Artificial intelligence Chlorophyll-a concentrations Random forest classification Urban green and blue spaces Urbanization Introduction The continuous expansion of cities has progressively trans- formed urban ecological landscapes, creating significant spa- tial variations that exacerbate global warming and intensify urban heat islands (UHIs) (Liu et al. 2024). In this context, urban green space (UGS) and urban blue space (UBS) are pivotal in adaptable urban thermal environments (Shi et al. 2020). These elements not only play a critical role in regu- lating urban temperatures but also in creating more livable urban spaces through processes like shadowing, evapotran- spiration, and air movement modulation (Shi et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban green spaces",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban green spaces_qna_008",
+      "value": 1
+    }
+  ]
+}

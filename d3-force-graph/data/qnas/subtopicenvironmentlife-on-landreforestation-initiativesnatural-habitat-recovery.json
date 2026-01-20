@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery",
+      "label": "Natural habitat recovery",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is the natural recovery of Cystoseira sensu lato forests often unachievable?",
+      "answer": "Natural recovery is frequently unachievable due to severe degradation, making recovery nearly impossible even when causes of collapse are removed.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These habitats, which are recognised for their high ecological value, are classified as large shallow inlets and bays, code 1160 within the Natura 2000 framework and protected under the European Union (EU) Habitats Directive, but not protected in France; in some instances, the degradation is so severe that natural recovery is nearly impossible in the short (years) or medium term (decades), even when the causes of their collapse have been removed. The natural recovery of Cystoseira sensu lato forests is frequently unachievable, even in instances where isolated natural recolonisation has been documented45,53,57. Restoration initiatives are frequently employed as a means of reinstating past ecosystem functions58. The practice of ecological restoration has emerged as a critical measure for the management of heavily degraded ecosystems59,60 The Convention on Biological Diversity has set restoration targets61, and, in 2020, the United Nations declared the United Nation Decade of ecosystem restoration 2021 2030 62. This was followed by the proposed EU Nature Restoration Law63. There are few globally successful examples of active restoration that are focused on the recovery of canopy-forming species and success always occurred on a very small areas of few dozen of m (e.g64 68).",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Natural habitat recovery",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which habitat showed significantly higher corticosterone concentrations in the Small Ground Finch according to the study?",
+      "answer": "Urban habitats showed significantly higher corticosterone concentrations in the Small Ground Finch compared to agricultural and natural habitats.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This study aimed to explore the influence of anthropogenic land use on the morphology and corticosterone concentrations in two songbirds endemic to the Galapagos archipelago: the granivorous Small Ground Finch Geospiza fuliginosa and the insectivorous Galapagos Yellow Warbler Setophaga petechia aureola in San Cristobal Island. Birds were caught and measured between June and August 2018 and June and July 2019 across four areas with different human land uses: urban green areas in the coastal town of Puerto Baquerizo Moreno, natural deciduous forest in the lowlands, agricultural areas in the highlands, and seasonal evergreen forest in the highlands. Morphological comparisons among study areas were made using ANOVA or the Kurskall-Wallis test. Corticosterone levels obtained from tail feathers were measured with an ELISA test. Linear regression models were employed to explore the effects of the different human land uses on corticosterone concentrations. For G. fuliginosa , we found significant differences (p < 0.5) in weight, wing, and tarsus length between natural and disturbed habitats. The linear regression results showed higher corticosterone concentrations in urban G. fuliginosa than those in agricultural and natural habitats. Additionally, higher corticosterone concentrations were found in finches captured in 2018, a year with much higher precipitation than in 2019.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Natural habitat recovery",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did the case study by Gillmann et al. (2024a) reveal about species during recovery?",
+      "answer": "The case study highlighted the importance of species dispersal capacity and increasing interspecific competition during recovery, alongside a decrease in species tolerance to organic pollution.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " According to the ARC, different factors dominate at various stages of recovery. Species tolerance to envi - ronmental stressors plays a critical role during degrada - tion phases, while dispersal constraints shape community composition in the early phases of recovery. As ecosys - items mature, biotic interactions, such as competition with established species, become increasingly important. These shifts from abiotic to biotic controls in commu - nity structure and succession have also been observed in empirical studies, such as those examining the relative influence of abiotic and biotic factors on stream mac - roinvertebrate communities (Toskey et al. 2024) and the role of connectivity and seasonality in shaping succession after stream restoration (Westveer et al. 2018). A recent case study by Gillmann et al. (2024a) on a restored catchment supports this perspective, highlight - ing the importance of species dispersal capacity and increasing interspecific competition during recovery, alongside a decrease in species tolerance to organic pol - lution. The strong relevance of species tolerances for both recovery and degradation is well supported by numerous studies (e.g., Chessman 2015; Kefford et al.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Natural habitat recovery",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Natural habitat recovery_qna_002",
+      "value": 1
+    }
+  ]
+}

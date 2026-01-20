@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Precision agriculture",
+      "label": "Precision agriculture",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Precision agriculture_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Why do farmers feel that the cost of equipment used in Precision Agriculture is higher than what they can afford?",
+      "answer": "Farmers believe the cost of Precision Agriculture equipment is higher than what they can afford based on their farm size.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Precision agriculture",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Precision agriculture_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "Why do farmers see the need for Government intervention in Precision Agriculture?",
+      "answer": "Farmers believe that the cost of equipment in Precision Agriculture is high and beyond what they can afford based on their farm size, hence they suggest Government intervention in the form of subsidies or reduced loan rates.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Precision agriculture",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Precision agriculture",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Precision agriculture_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Precision agriculture",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Precision agriculture_qna_001",
+      "value": 1
+    }
+  ]
+}

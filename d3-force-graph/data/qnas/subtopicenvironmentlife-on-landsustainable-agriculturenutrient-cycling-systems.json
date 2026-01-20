@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Nutrient cycling systems",
+      "label": "Nutrient cycling systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Nutrient cycling systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is nutrient cycling related to soil conditions and elements?",
+      "answer": "Nutrient cycling relies on the availability of essential elements and specific soil conditions, including elements like nitrogen and phosphorus.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These issues are particularly urgent in Latin America and the Caribbean (LAC)6, where reverse soil degradation is a challenge due to unsustainable land use and management, including high pressure ofdeforestation 7and forest disturbance (e.g., logging and res), loss of biodiversity8, soil erosion9, and high vulnerability to climate change10. Consequently, the SH approach guides informed land use and managementdecisions, ensuring the preservatio n of fragile soil resources for future generations 11. Maintaining healthy soils is imperative for attaining theUnited Nations Sustainable Deve lopment Goals in the forthcoming decades12and keeping planetary boundaries within a safety zone for humanity13,14 The SH assessment involves monitoring primary and crucial soil functions for ecosystem health and sustainability15 These functions include vital processes such as nutrient cycling , water regulation, biodiversity sup- port, carbon sequestration, physical S upport to plant growth, and cultural services2,16,17. Soil attributes and environment al processes are closely related to these soil functions12,16. For instance, nutrient cycling, including elements like nitrogen and phosphorus, relies on the availability of essential elements and speci C soil conditions 18, 19.",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Nutrient cycling systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Nutrient cycling systems_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the high-resolution assessment on global nitrogen flows in cropland contribute to agricultural sustainability?",
+      "answer": "The high-resolution assessment on global nitrogen flows in cropland helps in understanding and managing nitrogen cycling, which is crucial for sustainable agricultural practices.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0022316622131378",
+      "paragraph": "",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Nutrient cycling systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Nutrient cycling systems",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Nutrient cycling systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Nutrient cycling systems",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Nutrient cycling systems_qna_001",
+      "value": 1
+    }
+  ]
+}

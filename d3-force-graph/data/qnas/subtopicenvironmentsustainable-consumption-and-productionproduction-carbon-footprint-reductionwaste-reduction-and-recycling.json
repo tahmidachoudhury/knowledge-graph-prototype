@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Waste reduction and recycling",
+      "label": "Waste reduction and recycling",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Waste reduction and recycling_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does reducing dead stocks through management interventions impact carbon emissions?",
+      "answer": "By reducing dead stocks through management interventions, there is a decrease in waste transport and disposal, leading to lower carbon emissions. This is because fewer items are being wasted and disposed of, resulting in less environmental impact in terms of carbon emissions from the disposal process.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Production carbon footprint reduction",
+      "subtopic": "Waste reduction and recycling",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Waste reduction and recycling",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Production carbon footprint reduction|Waste reduction and recycling_qna_000",
+      "value": 1
+    }
+  ]
+}

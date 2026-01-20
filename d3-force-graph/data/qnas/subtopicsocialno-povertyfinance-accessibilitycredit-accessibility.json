@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility",
+      "label": "Credit accessibility",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What has been largely overlooked in the study of public bilateral financial institutions?",
+      "answer": "Export Credit Agencies (ECAs) have been largely overlooked in scholarly attention despite their significant role.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 2018 ). While capital market actors and multilateral financial institutions have been the subject of significant scholarly attention (Kim and Lee 2021 ; Stoll et al. 2021 ; Ameli et al. 2020 ), public bilateral financial institutions, especially Export Credit Agencies (ECAs), have been largely overlooked (Peterson and Downie 2023 ; Klasen et al. 2022 This is an important oversight given that ECAs are the largest source of bilateral public finance for fossil fuels, which has helped to lock-in recipient countries to fossil fuel energy systems, such as coal fired power stations in Asia and gas infrastructure in Africa (O Manique et al. 2024 ; Chen et al. 2021 ). At the same time, as institutions under the control of national governments, ECAs, unlike private capital or multilateral financial institutions, should be well placed to respond to national climate policy objectives, and use their financial instruments, such as risk insur - ance, to crowd-in private investment for clean energy projects. In this context, it is no surprise that ECAs are facing growing international pressure to align their activities with the goals of the Paris Agreement.",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "subtopic": "Credit accessibility",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of institutions have been largely overlooked in scholarly attention regarding public bilateral financial institutions?",
+      "answer": "Public bilateral financial institutions, especially Export Credit Agencies (ECAs), have been largely overlooked.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 2018 ). While capital market actors and multilateral financial institutions have been the subject of significant scholarly attention (Kim and Lee 2021 ; Stoll et al. 2021 ; Ameli et al. 2020 ), public bilateral financial institutions, especially Export Credit Agencies (ECAs), have been largely overlooked (Peterson and Downie 2023 ; Klasen et al. 2022 This is an important oversight given that ECAs are the largest source of bilateral public finance for fossil fuels, which has helped to lock-in recipient countries to fossil fuel energy systems, such as coal fired power stations in Asia and gas infrastructure in Africa (O Manique et al. 2024 ; Chen et al. 2021 ). At the same time, as institutions under the control of national governments, ECAs, unlike private capital or multilateral financial institutions, should be well placed to respond to national climate policy objectives, and use their financial instruments, such as risk insur - ance, to crowd-in private investment for clean energy projects. In this context, it is no surprise that ECAs are facing growing international pressure to align their activities with the goals of the Paris Agreement.",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "subtopic": "Credit accessibility",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility",
+      "target": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility",
+      "target": "Subtopic:Social|No poverty|Finance accessibility|Credit accessibility_qna_001",
+      "value": 1
+    }
+  ]
+}

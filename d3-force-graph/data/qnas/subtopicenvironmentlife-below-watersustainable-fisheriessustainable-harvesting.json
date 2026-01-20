@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Sustainable harvesting",
+      "label": "Sustainable harvesting",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Sustainable harvesting_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of the Fish Biocapacity Per Capita in the context of sustainable fisheries?",
+      "answer": "The Fish Biocapacity Per Capita represents the ability of a fish population to regenerate and sustain itself over time. It is crucial for ensuring the sustainability of fisheries and preventing overexploitation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0025326X23008032",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Sustainable harvesting",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Sustainable harvesting",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Sustainable harvesting_qna_000",
+      "value": 1
+    }
+  ]
+}

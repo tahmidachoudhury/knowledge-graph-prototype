@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "label": "Air quality prediction",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is predicting the timing and magnitude of N2O emissions challenging?",
+      "answer": "The timing and magnitude of N2O emissions are notoriously difficult to predict, leading to considerable uncertainty in nitrogen budgets and ecosystem modelling.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Global denitrifica- tion rates have been increased by approximately 20% since preindustrial times (Galloway et al. 2004; Schlesinger 2009) and the N2O emissions as a by-product of denitrification have increased atmospheric concentrations by 2% per decade over the last four decades, mainly due to soil N2O emis- sions from agriculture (Tian et al. 2020). Denitrification is a microbial respiratory process that uses nitrogen species as electron acceptors and involves a cascade of reduction steps from soluble nitrate ( NO3 ) via intermediates ( NO2 , NO, N2O) to gaseous dinitrogen (N2) (Philippot et al. 2007 ; Zumft 1997). Soil denitrification requires the presence of suitable electron donors (e.g. organic carbon), nitrogen spe - cies (mainly nitrate), the shortage of oxygen as the predomi- nant electron acceptor and a microbial community with the metabolic capacity to denitrify (Firestone 1982; Philippot et al. 2007; Robertson and Groffman 2007). The timing and magnitude of N2O emissions are notori- ously difficult to predict, leading to considerable uncertainty in N budgets and ecosystem modelling (Groffman et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the purpose of the VMD-SE-PSO-ELM hybrid model?",
+      "answer": "The VMD-SE-PSO-ELM hybrid model is established to improve the prediction performance of carbon prices series in China’s S ETS pilots.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The characteristics of non-stationarity, non-linearity and chaos are veri ed in turn by Augmented Dickey Fuller (ADF) test, Brock Decher Scheikman (BDS) test and the maximal Lyapunov exponent (MLYE). (2) The VMD-SE-PSO-ELM decomposition- reconstruction-prediction-ensemble hybrid model was established on the data features of carbon prices series in China S ETS pilots. The proposed model combines the advantages of each algorithm and makes it possible to improve the prediction performance. (3) Five related models are used for empirical research to explain the effectiveness and robustness of the VMD-SE-PSO-ELM model. Furthermore, four diverse evaluation criteria are used to certify the forecasting performance of models, which contains root mean square error (RMSE), aver- age absolute error (MAE), average absolute percentage error (MAPE) and goodness of t (R2). (4) As the GHG Market Sentiment Survey 2021 of the International Emissions Trading Association (IETA) and PwC (IETA-PwC, 2021 ) indicates, global carbon markets have been resilient to the effects of COVID-19 and a further rise in the carbon prices is expected.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How many evaluation criteria are used to certify the forecasting performance of the models, and what are they?",
+      "answer": "Four evaluation criteria are used: root mean square error (RMSE), average absolute error (MAE), average absolute percentage error (MAPE), and goodness of fit (R2).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The characteristics of non-stationarity, non-linearity and chaos are veri ed in turn by Augmented Dickey Fuller (ADF) test, Brock Decher Scheikman (BDS) test and the maximal Lyapunov exponent (MLYE). (2) The VMD-SE-PSO-ELM decomposition- reconstruction-prediction-ensemble hybrid model was established on the data features of carbon prices series in China S ETS pilots. The proposed model combines the advantages of each algorithm and makes it possible to improve the prediction performance. (3) Five related models are used for empirical research to explain the effectiveness and robustness of the VMD-SE-PSO-ELM model. Furthermore, four diverse evaluation criteria are used to certify the forecasting performance of models, which contains root mean square error (RMSE), aver- age absolute error (MAE), average absolute percentage error (MAPE) and goodness of t (R2). (4) As the GHG Market Sentiment Survey 2021 of the International Emissions Trading Association (IETA) and PwC (IETA-PwC, 2021 ) indicates, global carbon markets have been resilient to the effects of COVID-19 and a further rise in the carbon prices is expected.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the three streams of carbon forecasting methods mentioned in the paragraph?",
+      "answer": "The three streams of carbon forecasting methods are traditional econometric models, machine learning models, and ensemble models.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fluctuating carbon prices may affect the running costs of a company and therefore its operational strategy, since extreme volatility in carbon pricescan be risky and create uncertainty in production activities. Hence, effective carbon priceforecasting will not only help manage the market risk but also contribute to broader politicalobjectives to tackle climate change. The currently extensive carbon forecasting methods can be groups to three streams: tradi- tional econometric models , such as GARCH (Liu & Huang, 2021 ), ARMA/ARMIA (Conejo et al., 2005 ; Sun & Zhang, 2018 ; Zhou et al., 2006 ),machine learning models such as neu- ral networks (Chiu et al., 2020 ; Mayer et al., 2015 ;Y ue ta I . , 2014 ; Zhu et al., 2017 ), and ensemble models (Lu et al., 2020 ; Safari & Davallou, 2018 ; Zhu et al., 2018b ). Overall, the integrated model, with its two-stage framework of decomposition-prediction, has come todominate the eld of carbon price forecasting. Given that carbon prices are non-linear andnon-stationary, taken alongside the over tting and local optimization problems of machinelearning, many studies apply a combination of econometric models to predict the linear partof the decomposition, and machine learning models to predict the non-linear part (Zhang &Wu, 2022 ; Zhang et al., 2018 ;Z h u&W e i, 2013 ; Zhu et al., 2018a ,2018b ).",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the second stage of the proposed framework focused on?",
+      "answer": "It focuses on finding the best-performing prediction model from various available models for the factors of trend and period after decomposition.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " While so far there has been an abundance of studies to explore carbon price forecasting, it is currently dif cultto guarantee that any single algorithm proposed in the literature will consistently outperformothers all the time. The optimal prediction model may change as the data sample varies.A two-step technique is widely used in the existing literature, speci cally, the process ofdecomposition followed by a single learning method, in an effort to more accurately predictthe price outcome of a given set of data. However, the data distribution characteristics ofthe different sub-series are distinct and so the prediction results may not always be optimalwhen using the same approach. This paper therefore proposes a new two-step frameworkfor predicting international carbon prices which can serve as a reference for better-informedinvestment decisions and climate governance in both China and the EU. More precisely, we rst decompose the carbon prices into factors based on trend and period, using the Singular Spectrum Analysis (SSA) approach. The second stage is then to nd the best-performing model from among the numerous available prediction models for 123 Annals of Operations Research (2025) 345:1267 1295 1269 the factors of trend and period.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_005",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the framework's interpretability contribute to its application?",
+      "answer": "The framework is easily interpretable and extendable, allowing for the inclusion of more feature variables to further improve the prediction efficiency of the algorithm.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We select four generally best-performing learning models and two common deep learning models, Recurrent Neural Network (RNN) and Long short-term memory (LSTM). We then ensemble the results for each sub-factor using the bestperforming prediction model to obtain the nal prediction values for the carbon prices. Theadvantages of this type of framework are that we do not assume in advance that any learningmodel will perform better in terms of prediction, but instead try all algorithms which haveperformed historically well in previous experiments. This openness allows our results to bebetter adapted to the characteristics of the data distribution of the carbon price series. Suchdata-driven algorithms are more appropriate and applicable to a wider variety of scenarios. The nal prediction results are equivalent to incorporating the optimal prediction valuesof each decomposition sequence, and therefore clearly outperform the prediction resultsof one single algorithm. Moreover, the framework in this paper is easily interpretable andextendable, allowing for the inclusion of more feature variables, to further improve theprediction ef ciency of the algorithm. Our study is closely related to the literature that applies the structure of rst decomposing the raw carbon price series and then inputting the results into machine learning models, forinstance Li et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_006",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is there a strong interest in modeling and forecasting GHG emissions?",
+      "answer": "There is interest in modeling and forecasting GHG emissions to ensure that energy policies are as effective as possible by understanding the main dynamics and drivers of emissions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Also, the NECP envisages the need for higher taxes on heavily polluting activities. The Technical Building Code laysdown new building regulations, to ensure that domestic energy consumption is low. A fundamental driving force behind many of these initiatives will be the Recovery, Transformation and Resilience Plan (RTRP), presented by the Spanish Government inOctober 2020, which proposes assigning 39% of the funds that Spain receives under the Next Generation EU (NGEU) programme to the green transition; see Cansino et al. (2016) for a description of the policy measures to control carbon emissions in Spain. Ensuring that energy policies are as effective as possible requires an understanding of the main dynamics and drivers of emissions. Within this context, the interest in modelling and forecasting GHG emissions is without doubt. Carbon dioxide (CO 2) emissions, largely by-products of energy consumption, account for the largest share of GHG and, consequently, the analysis of GHG emissions has usually focused on CO 2 emissions; see, for instance, Friedlingstein et al. ( 2022 ), who describes the Global Carbon Project that produces world-wide projections of CO 2emissions in preparing the annual Global Carbon Budget, which is considered in the Intergovernmental Panel on Climate Change (IPPC) reports.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_007",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is there interest in modeling and forecasting GHG emissions?",
+      "answer": "There is interest in modeling and forecasting GHG emissions to understand the main dynamics and drivers of emissions and ensure that energy policies are as effective as possible.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Also, the NECP envisages the need for higher taxes on heavily polluting activities. The Technical Building Code laysdown new building regulations, to ensure that domestic energy consumption is low. A fundamental driving force behind many of these initiatives will be the Recovery, Transformation and Resilience Plan (RTRP), presented by the Spanish Government inOctober 2020, which proposes assigning 39% of the funds that Spain receives under the Next Generation EU (NGEU) programme to the green transition; see Cansino et al. (2016) for a description of the policy measures to control carbon emissions in Spain. Ensuring that energy policies are as effective as possible requires an understanding of the main dynamics and drivers of emissions. Within this context, the interest in modelling and forecasting GHG emissions is without doubt. Carbon dioxide (CO 2) emissions, largely by-products of energy consumption, account for the largest share of GHG and, consequently, the analysis of GHG emissions has usually focused on CO 2 emissions; see, for instance, Friedlingstein et al. ( 2022 ), who describes the Global Carbon Project that produces world-wide projections of CO 2emissions in preparing the annual Global Carbon Budget, which is considered in the Intergovernmental Panel on Climate Change (IPPC) reports.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality prediction",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality prediction_qna_007",
+      "value": 1
+    }
+  ]
+}

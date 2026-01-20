@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to information",
+      "label": "Access to information",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to information_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What data source was used to identify the leading corporations in the UPF industry?",
+      "answer": "The Euromonitor Passport Market Information Database was used to extract quantitative data.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Moreover, this method also elucidates structural features of social networks and measures of degree centrality, which helps identify the most central actors to the network based on the number of direct connections actors have within the overall network (Borgatti et al. 2018). Understanding direct connections in a network is beneficial in food systems analy - sis, particularly when trying to understand how actors in the network establish influence, rapid communication, and ease in spreading information (Golbeck 2013 ). We conceptual - ized the UPF industry broadly as a commercial ecosystem comprising UPF and beverage manufacturers at its core, as well as other co-dependent food supply chain sectors and industries who profit from the proliferation of UPFs, and the displacement of NOVA groups 1 3 (Unprocessed or minimally processed foods, processed culinary ingredients, processed foods) in human diets (Slater et al. 2024). Data collection To identify MIs involving the UPF industry, we extracted quantitative data from diverse sources. First, using data from the Euromonitor Passport Market Information Database (Passport Global Market Information Database 2022), we identified the world S top-10 leading corporations by sales revenue for each major UPF product category identified by (Baker et al.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "subtopic": "Access to information",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to information",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to information_qna_000",
+      "value": 1
+    }
+  ]
+}

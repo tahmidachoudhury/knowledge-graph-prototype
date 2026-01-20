@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Hand hygiene practices",
+      "label": "Hand hygiene practices",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Hand hygiene practices_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What vital preventive measure is emphasized in the context of preventing the spread of viruses during the pandemic?",
+      "answer": "Regular handwashing is emphasized as a vital preventive measure in preventing the spread of viruses during the pandemic.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The importance of these resources and their interdependence has been highlighted throughout the global COVID-19 crisis. This pandemic has had a direct influence on the progress towards these SDG (Geng et al., 2022). The access to safe water and proper sanitation is essential in preventing the spread of viruses, as regular handwashing is a vital preventive measure. However, in areas with water scarcity or contamination, people may struggle to follow basic hygiene practices, making them more susceptible to the virus (Shiretha et al., 2022). Additionally, the pandemic has increased the demand for energy due to the implementation of stay-at-home policies. This has particularly affected heating, cooking and air conditioning needs. In some cases, energy shortages have even impacted on food availability and preferences, as well as the household water supply (Sani & Scholz, 2021). Overall, the COVID-19 crisis posed significant challenges to the achievement of the SDG concerning water, energy and food. The pandemic has underscored the crucial role of clean water, san- itation and energy access in ensuring public health and well-being.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Hand hygiene practices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Hand hygiene practices_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why can people in areas with water scarcity be more susceptible to the virus?",
+      "answer": "People in areas with water scarcity or contamination may struggle to follow basic hygiene practices like handwashing, making them more susceptible to the virus.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The importance of these resources and their interdependence has been highlighted throughout the global COVID-19 crisis. This pandemic has had a direct influence on the progress towards these SDG (Geng et al., 2022). The access to safe water and proper sanitation is essential in preventing the spread of viruses, as regular handwashing is a vital preventive measure. However, in areas with water scarcity or contamination, people may struggle to follow basic hygiene practices, making them more susceptible to the virus (Shiretha et al., 2022). Additionally, the pandemic has increased the demand for energy due to the implementation of stay-at-home policies. This has particularly affected heating, cooking and air conditioning needs. In some cases, energy shortages have even impacted on food availability and preferences, as well as the household water supply (Sani & Scholz, 2021). Overall, the COVID-19 crisis posed significant challenges to the achievement of the SDG concerning water, energy and food. The pandemic has underscored the crucial role of clean water, san- itation and energy access in ensuring public health and well-being.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Hand hygiene practices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Hand hygiene practices",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Hand hygiene practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Hand hygiene practices",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Hand hygiene practices_qna_001",
+      "value": 1
+    }
+  ]
+}

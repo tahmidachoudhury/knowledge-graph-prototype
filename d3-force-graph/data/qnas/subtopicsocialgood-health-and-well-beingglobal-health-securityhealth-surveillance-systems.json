@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health surveillance systems",
+      "label": "Health surveillance systems",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health surveillance systems_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How might the COVID-19 crisis impact the achievement of SDGs in relation to surveillance society?",
+      "answer": "The COVID-19 crisis could lead to the normalization of surveillance technologies, potentially eroding civil liberties related to privacy and democracy. The mass surveillance practised by big tech companies and democratic states could become part of the \"new normal,\" affecting the achievement of SDGs.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "subtopic": "Health surveillance systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Global health security|Health surveillance systems_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How might the COVID-19 crisis impact the surveillance society and the achievement of SDGs?",
+      "answer": "The COVID-19 crisis could have far-reaching implications for surveillance society, potentially affecting the achievement of SDGs. The crisis could lead to the normalization of surveillance technologies, resulting in mass surveillance by big tech companies and democratic states, eroding civil liberties related to privacy and democracy.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Good health and well-being",
+      "topic": "Global health security",
+      "subtopic": "Health surveillance systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health security|Health surveillance systems",
+      "target": "Subtopic:Social|Good health and well-being|Global health security|Health surveillance systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Global health security|Health surveillance systems",
+      "target": "Subtopic:Social|Good health and well-being|Global health security|Health surveillance systems_qna_001",
+      "value": 1
+    }
+  ]
+}

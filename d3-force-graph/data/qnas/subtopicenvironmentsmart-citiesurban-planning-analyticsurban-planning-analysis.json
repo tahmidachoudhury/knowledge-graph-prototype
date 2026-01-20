@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "label": "Urban planning analysis",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can scenario planning be implemented in the formulation of a city development plan?",
+      "answer": "Scenario planning can be effectively implemented in the formulation of a city development plan by considering various potential futures, identifying key drivers of change, and developing strategies to navigate uncertainties and opportunities in urban development.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0016328723001738",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban planning analysis",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to the paragraph, how should critical analysis approach the future?",
+      "answer": "Critical analysis should not attempt to dogmatically prefigure the future but should seek to find the new world through criticism of the old.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Indeed, a critical approach is well suited for scientific study (York and Clark 2010). Aligned with this definition, we draw on a distinguished critical research tradition rooted largely in the works of Karl Marx and associated critical scholars. In a well- known letter to his colleague Arnold Ruge, Marx briefly elaborated on the necessity of critical analysis for the pro- gram and mission of their co-edited journal. Marx wrote to Ruge: we do not attempt dogmatically to prefigure the future, but want to find the new world only through criticism of the old But if the designing of the future and the proclamation of ready-made solu- tions for all time is not our affair, then we realize all the more clearly what we have to accomplish in the present I am referring to ruthless criticism of everything existing, ruthless in two senses: The criti - cism must not be afraid of its own conclusions, nor Sustainability Science of conflict with the powers that be (Marx 1978a: Italics added). A critical analysis, from this view, will often challenge conventional wisdom and strongly held assumptions in the scientific and, crucially, the broader social realms.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban planning analysis",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is it essential to adopt nuanced urban development and planning strategies when identifying preference heterogeneity among citizens?",
+      "answer": "It is crucial to adopt nuanced urban development and planning strategies to cater to the diverse preferences of both permanent and non-permanent residents, leveraging smart city technologies for connectivity and resource management.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2590051X23000710",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban planning analysis",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main theme of Sharif's (2021) work on urban sustainability assessment?",
+      "answer": "The main theme of Sharif's (2021) work is on urban sustainability assessment, providing an overview and bibliometric analysis of the topic.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/370705198_Temporal_PROMETHEE_II_-_New_multi-criteria_approach_to_sustainable_management_of_alternative_fuels_consumption",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban planning analysis",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban planning analysis_qna_003",
+      "value": 1
+    }
+  ]
+}

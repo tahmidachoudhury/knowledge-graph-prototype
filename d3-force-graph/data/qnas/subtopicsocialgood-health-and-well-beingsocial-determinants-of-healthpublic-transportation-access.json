@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access",
+      "label": "Public transportation access",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does lowering direct monetary costs and increasing travel time costs make transportation more inclusive for all households?",
+      "answer": "Lowering direct monetary costs and increasing travel time costs make transportation more inclusive by shifting the access to transportation from being primarily dependent on financial resources to being more dependent on time, which is equal for every individual regardless of their financial circumstances.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Public transportation access",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How can the affordability and accessibility of public transportation be improved?",
+      "answer": "The affordability and accessibility of public transportation can be improved by reducing fares, expanding service coverage and frequency, providing discounts for low-income riders, improving connections between different modes of transit, and investing in infrastructure upgrades and maintenance.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Public transportation access",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How does lowering the direct monetary costs and increasing travel time costs make transportation more inclusive for all households?",
+      "answer": "Lowering direct monetary costs and increasing travel time costs make transportation more inclusive by shifting the access to transportation from being a matter of financial resources to being more about time. This change increases net accessibility since everyone has an equal time budget, while financial resources vary based on life circumstances.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Public transportation access",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Public transportation access_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques",
+      "label": "Remote surgery techniques",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How have advances in electronic surgical devices impacted surgical procedures in healthcare?",
+      "answer": "Advances in electronic surgical devices have favored the use of less invasive procedures, leading to shorter hospital stays for patients.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Environmental strategies within the healthcare sector typically focus on waste reduction in addition to reduction in energy use and emissions (Thiel et al. 2015). For instance, minimizing the use of single-use devices in favour of reus- able alternatives is one of the mitigation strategies created by hospitals (Unger and Landis 2016). In addition to the direct impacts, the indirect impacts arise from the use of these devices, which include favour - able effects on the optimization of healthcare procedures and adverse impacts arising from the additional demand for resources. For example, advances in electronic surgi - cal devices have introduced new surgical techniques and diagnostic modalities in medical institutions (Gautam and Sahney 2020). These devices have favoured the use of less invasive procedures leading to shorter hospital stays for patients (Yu et al. 2012). Therefore, it is important to have a comprehensive evaluation of the environmental sustainabil- ity of these devices, because these positive impacts might compensate for the increased environmental damage associ- ated with the life cycle stages (Frag o-Marques and Ozben 2022). Previous research has emphasised the significance of evaluating the environmental impacts of EHDs from a life cycle perspective to comprehensively capture their overall burdens (Sherman et al.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote surgery techniques",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How many studies were categorized as electronic surgical devices (EHDs used to conduct surgical procedures)?",
+      "answer": "There were 13 studies categorized as electronic surgical devices (EHDs used to conduct surgical procedures).",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " First, the selected studies were initially categorised into two groups: (i) studies on electronic surgical devices (EHDs used to conduct surgical procedures) (n = 13) and (ii) studies on electronic non-surgical devices (EHDs that offer clinical or non-clinical services that do not involve surgery) (n = 4) (see Fig. 1). It is important to note that the selected studies cover both LCA studies and other quantitative environmental assessment studies. Second, the attributes and methodologi- cal choices of these articles in both categories were criti- cally analysed based on the four phases of the LCA: (i) goal and scope definition; (ii) life cycle inventory, (iii) life cycle impact assessment (LCIA), and (iv) interpretation of the impact assessment results (ISO 14040, 2006). For each LCA phase, methodological challenges were identified and recommendations for these challenges were formulated. In the goal and scope definition stage, studies Fig. 1 Methodology used to identify relevant studies. The number of studies identified in each step of screening is presented in the dia- gram.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Remote surgery techniques",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Remote surgery techniques_qna_001",
+      "value": 1
+    }
+  ]
+}

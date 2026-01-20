@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency",
+      "label": "Wind turbine design and efficiency",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the advantages of 2D simulations compared to 3D simulations in CFD?",
+      "answer": "2D simulations offer quicker results and are adequate for acquiring the majority of pertinent parameters.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Biomass, a sustainable energy source, can be utilized to produce chemicals, heat, and electricity. For this purpose, studies on the gasification of woody biomass in fluidized bed reactors are of interest. CFD simulations are commonly utilized for designing and optimizing processes. In computational fluid dynamics (CFD) solutions, 2D and 3D modeling have different advantages and disadvantages in terms of accuracy and computational power. 2D simulations offer quicker results and are adequate for acquiring the majority of pertinent parameters. Conversely, 3D methods are primarily required for meticulous analysis and optimization purposes. The current investigation aims to examine the gasification process in a fluidized bed through the use of CFD. This research involves performing 2D and 3D CFD simulations to examine the devolatilization characteristics of woody biomass in the fluidized bed reactor. The focus of the study is to evaluate the ability of 2D simula- tion studies to represent 3D simulation studies. The research investigated the behaviors of gas solid flow modeling using ANSYS 16.0. Keywords CFD Modelling Woody biomass Fluidized bed reactor 2D and 3D simulation 1 Introduction Biomass is the oldest carbonaceous fuel used by humankind and the only solid fuel that is sustainable [1 ].",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine design and efficiency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does CFD modeling benefit engineers in improving fluidized bed efficiency?",
+      "answer": "CFD modeling allows engineers to analyze fluidized bed dynamics without the need for expensive pilot-scale experiments, significantly reducing development and optimization costs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The enhanced mixing and uniform temperature distribution within the bed also ensure com- plete combustion, improving the overall efficiency of the process [11, 12]. Numerical simulation methodologies have become increasingly prevalent for analyzing and optimizing the dynamics of fluid flow and thermal transfer processes. These methods have evolved significantly over recent years, effec- tively resolving numerous essential theoretical issues [13, 14]. High-temperature processes such as gasification, waste treatment, and CO2 utilization often use fluidized bed tech- nology. One of the biggest challenges engineers face is improving the efficiency of fluidized beds, and this can be solved by CFD modeling. CFD enables the analysis of fluid- ized bed dynamics without the need for expensive pilot-scale experiments, greatly reducing development and optimization costs [15]. However, since significant physical and chemical interactions are involved in simulating multiphase flows in fluidized beds, complex mathematical models are required in the CFD software. These models need to be verified and validated to ensure their accuracy and reliability. When experimental studies are too costly or impractical, they can be used to measure process efficiency after validation.",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine design and efficiency",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine design and efficiency_qna_001",
+      "value": 1
+    }
+  ]
+}

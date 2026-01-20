@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration",
+      "label": "Blue carbon sequestration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the estimated amount of carbon dioxide equivalent stored in mangrove forests globally?",
+      "answer": "An estimated 21,896.56 metric tons of carbon dioxide equivalent (CO2e) are stored in mangrove forests globally.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Noticeably, there has been a long-standing decrease in the presence of mangrove forests worldwide, although this decline is gradually becoming less severe (Giri and Muhl- hausen 2008). Decline and loss of habitat have been greatly influenced by changing the climate, forest harvesting, farm- ing, fishing, pollution, and the development of coastlines (Bryan-Brown et al. 2020). UNEP and its partners report an alarming statistic revealing the loss or degradation of more than two-thirds of mangroves to date (Spalding 2010). The mangrove ecosystem plays a vital role in maintain- ing the delicate balance of CO2 levels and contributes sig- nificantly to blue carbon ecosystems (BCEs). Mangroves function as a sink for atmospheric CO2 by capturing and storing it in the soil and above-ground biomass, thus pre- venting its rear entry into the atmosphere. An estimated 21,896.56 (above-ground biomass 2817.23; top 1-m soil 19,79.32) metric tons of carbon dioxide equivalent (CO2e) are stored in mangrove forests globally (Sumarmi et al. 2021). Mangroves release a portion of the carbon they cap- ture to coastal seas as particulate and dissolved organic carbon (Alongi 2014), which is carried on by tidal flows and currents into the ocean, where it accumulates in the sediment on the ocean floor (Lin et al.",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Blue carbon sequestration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How much carbon do BCEs (Benthic Coastal Ecosystems) accumulate globally?",
+      "answer": "BCEs are believed to contain more than 30,000 teragrams (Tg) of carbon across approximately 185 million hectares.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2024). In addition to being sources of detritus, mangroves also serve as habitats for macrophytes and invertebrates, which are vital food sources for mollusks, crustaceans, and fish that are ulti- mately consumed by larger marine predators. This makes mangroves a crucial foundation for coastal food webs and the C cycle (Tang et al. 2018 Globally, BCEs are believed to contain more than 30,0 teragrams (Tg) of carbon spread across around 185 million hectares. By preserv - ing these ecosystems, it is possible to avoid the emission of approximately 304 (141 466) Tg of CO2e every year (Macreadie et al. 2021). This phenomenon significantly impacts global carbon dynamics, representing roughly 10 to 15% of carbon sequestration in coastal sediments around the world (Duarte et al. 2013). Mangroves can store three to five times more carbon than terrestrial forests (Friess et al. 2019) and 13 times more than rainforests (Maulana and Auliah 2021). Albeit, global mangroves are disappear - ing at a rapid 2% annually, releasing 0.15 1.2 billion tons of CO2 each year, and causing economic losses of $6 42 billion (Pendleton et al.",
+      "macrotopic": "Life below water",
+      "topic": "Blue economy",
+      "subtopic": "Blue carbon sequestration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration",
+      "target": "Subtopic:Environment|Life below water|Blue economy|Blue carbon sequestration_qna_001",
+      "value": 1
+    }
+  ]
+}

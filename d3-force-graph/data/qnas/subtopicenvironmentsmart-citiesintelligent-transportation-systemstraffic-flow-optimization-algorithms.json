@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms",
+      "label": "Traffic flow optimization algorithms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "According to Giuseppe De Ruvo, what is the misconception regarding the objectivity of algorithms?",
+      "answer": "The misconception is that algorithms are objective tools that produce infallible results, whereas in reality, they can be misleading and perform imperfect calculations depending on the complexity of the context.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " While it is difficult to compare the current status of knowledge with past situations or very distant cultural contexts, we can nevertheless say that the current state of affairs is undoubtedly characterized by certain peculiarities that make it difficult for ordinary people to acquire accurate information, especially on politically sensitive issues. On the one hand, there is an immense amount of informa - tion in circulation, much of which is scientifically inaccu - rate, distorted by ideologies, political beliefs, or simply by the ignorance of those who receive, reinterpret, and dissem - inate it. On the other hand, the abundance of information puts those who want to deepen their knowledge on certain topics in a privileged position. Indeed, through the Internet, it is possible to have immediate access to specialized mate - rial on all kinds of topics. While this wide availability of Francesca Pongiglione pongiglione.francesca@unisr.it 1 Vita-Salute San Raffaele University, Milano, Italy The Author(s), under exclusive licence to Springer Nature B.V. 2025The Crisis of Knowledge: Ethics, Politics, Epistemology Francesca Pongiglione1 3 F. Pongiglione This thematic collection of Topoi , The Crisis of Knowl - edge: Ethics, Politics, Epistemology, aims specifically to respond to these questions.",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic flow optimization algorithms",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What new algorithm is introduced in the study?",
+      "answer": "The study introduces a new Causal Direction from Dependency (D2C) algorithm.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, as a robustness check, we compare previous ndings with resultsfrom a Machine Learning experiment. To the best of our knowledge, this is the rst studythat adopts an ML approach to analyze the Russian case. In addition, we wrote a new CausalDirection from Dependency (D2C) algorithm. The remainder of the study proceeds as follows: Sect. 2provides a survey of the relevant literature; Sect. 3contains the results of time-series analyses; Sect. 4presents our new ML algorithm along with its ndings. Finally, Sect. 5concludes. 2 Literature review Economic growth entails industrialization and increases in other economic activities. Accord- ing to Panayotou ( 2016 ), several factors such as consumption of natural resources and environmental degradation can explain how, although economic growth has a variety ofpositive impacts in the society, it can result in a number of negative effects, such as increasedcarbon emission, global warming and other forms of pollution. Soytas and Sari ( 2009 ) indi- cate that carbon emissions increase with an acceleration of economic activities. As longas there is an increase in manufacturing and production, there is always a direct relation-ship with the emission in the air.",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Traffic flow optimization algorithms",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Traffic flow optimization algorithms_qna_001",
+      "value": 1
+    }
+  ]
+}

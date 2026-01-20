@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass energy and waste-to-energy",
+      "label": "Biomass energy and waste-to-energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass energy and waste-to-energy_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the predominant sources of bioenergy mentioned in the paragraph?",
+      "answer": "The predominant sources of bioenergy are woody wastes, municipal solid wastes, landfill gases, and agricultural residues.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The predomi- nant source of bioenergy is derived from woody wastes, with municipal solid wastes, landfill gases, and agricultural residues also contributing significantly. The agricultural residues include a variety of plant-based materials such as cotton stalks, wheat straw, rice straw, coconut shells, corn stover, and rice husks. These residues represent a substan- tial portion of the raw materials utilized in bioenergy pro- duction [2 , 3]. With the growing emphasis on sustainable energy sources, the thermal conversion of woody biomass has gained prominence. This process not only facilitates the disposal of wood waste but also results in the generation of bioash rich in mineral content, offering potential for nutri- ent recovery and reuse in soil amendment applications. The combustion of woody biomass in fluidized bed systems is a key area of focus in the transition towards more sustainable energy sources. This method of energy generation is par - ticularly appealing due to its ability to efficiently convert a wide range of biomass types into heat and power, while also offering the potential for carbon neutral operations. Gasi- fication encompasses a complex interplay of multi-phase, multi-scale, and multi-physics phenomena, incorporating diverse physical and chemical processes.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass energy and waste-to-energy",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass energy and waste-to-energy",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass energy and waste-to-energy_qna_000",
+      "value": 1
+    }
+  ]
+}

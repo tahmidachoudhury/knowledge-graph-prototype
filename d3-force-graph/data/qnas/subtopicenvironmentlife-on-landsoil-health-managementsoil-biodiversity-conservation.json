@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil biodiversity conservation",
+      "label": "Soil biodiversity conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil biodiversity conservation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are household gardens described as in the context of biodiversity conservation?",
+      "answer": "Household gardens are described as key examples of private lands that can serve as refuges for biodiversity, particularly for birds.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Inadequacies in public protected area networks dictates that private land will play an important role in the conservation of biodiversity in the coming decades. Household gar - dens are a key example of private lands that can serve as refuges for biodiversity, with birds as a popular flagship for garden biodiversity. Discussion has focused heavily on the species of plant a resident might select to attract birds to their garden. In this paper, we describe additional and important factors that should form part of this broader conversation on gardens for birds and biodiversity, with a specific aim of drawing attention to species that are at risk of localised extinctions in modern urban landscapes urban adaptors. We present our commentary in two themes: (a) mitigating threats to birds in the urban environ- ment and (b) enhancing the habitat value of the urban environment for a broader range of bird species. We provide a synthesis of the research of recent years that has explored the urban environment and its ability to support birds, but importantly, we extend on this by bringing together topics that have been somewhat lacking in the discussion to date.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil biodiversity conservation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil biodiversity conservation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What challenge does soil erosion pose according to the paragraph?",
+      "answer": "Soil erosion poses a major challenge to natural resource conservation, leading to land degradation, biodiversity loss, and diminished soil quality.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Evaluation of early warning signals for soil erosion using remote sensing indices in northeastern Iran Abdolhossein Boali1, Mohsen Hosseinalizadeh1 , Narges Kariminejad2, Hamid Reza Asgari1, Ali Mohamadian Behbahani1, Babak Naimi3, Vahid Shafaie4 & Majid Movahedi Rad4 Soil erosion represents a major challenge to natural resource conservation, causing land degradation, biodiversity loss, and diminished soil quality. This study explored the use of satellite imagery to evaluate the spatiotemporal risk of soil erosion in northeastern Iran. The ICONA model was applied to identify areas at severe erosion risk, while remote sensing indices (NDVI, NDSI, and TGSI) were employed to analyze erosion trends. NDVI is used to monitor vegetation health, NDSI detects soil salinity levels, and TGSI assesses topsoil grain size distribution, collectively providing critical insights into soil erosion risk in the study area. These indices, derived from the Google Earth Engine with a 30-meter spatial resolution and monthly temporal intervals (2003 2022), were assessed at 100 points, equally divided between eroded and non-eroded regions. Field data, including vegetation plots and soil profiles, were used to validate the remote sensing outputs.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil biodiversity conservation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil biodiversity conservation",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil biodiversity conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil biodiversity conservation",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil biodiversity conservation_qna_001",
+      "value": 1
+    }
+  ]
+}

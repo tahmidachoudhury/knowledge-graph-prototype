@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Heatwave resilience in energy systems",
+      "label": "Heatwave resilience in energy systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Heatwave resilience in energy systems_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What challenges have been posed by the pandemic regarding energy access?",
+      "answer": "The pandemic has increased demand for energy due to stay-at-home policies, affecting heating, cooking, and air conditioning needs, and leading to energy shortages that can impact food availability and household water supply.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The importance of these resources and their interdependence has been highlighted throughout the global COVID-19 crisis. This pandemic has had a direct influence on the progress towards these SDG (Geng et al., 2022). The access to safe water and proper sanitation is essential in preventing the spread of viruses, as regular handwashing is a vital preventive measure. However, in areas with water scarcity or contamination, people may struggle to follow basic hygiene practices, making them more susceptible to the virus (Shiretha et al., 2022). Additionally, the pandemic has increased the demand for energy due to the implementation of stay-at-home policies. This has particularly affected heating, cooking and air conditioning needs. In some cases, energy shortages have even impacted on food availability and preferences, as well as the household water supply (Sani & Scholz, 2021). Overall, the COVID-19 crisis posed significant challenges to the achievement of the SDG concerning water, energy and food. The pandemic has underscored the crucial role of clean water, san- itation and energy access in ensuring public health and well-being.",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Heatwave resilience in energy systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Climate resilience|Heatwave resilience in energy systems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the peak temperature achieved during the 16-day heat ramp?",
+      "answer": "The peak temperature achieved during the 16-day heat ramp was 32°C.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " All tanks executed the same profile and coral racks were haphazardly redistributed daily to minimize tank effects. We created a 12:12 h light:dark cycle with Radion LED aquarium lights (Ecotech Marine) with a peak midday PAR irradiance of ~ 400 mol/m2/sec. Tanks had continuous seawater input and were mixed with submersible pumps. Corals were accli- mated to indoor conditions at ~ 25 C for a week before com- mencement of a 16-day heat ramp in late February, peaking at 32 C (Fig. 1BC). Temperature was then held at 32 C until we observed substantial bleaching or mortality in ~ 50% of fragments (5 days) at which point the temperature was ramped down over 10 days to a 25 C hold. During the 32 C ramp-hold period, we removed fragments that had no viable tissue remaining (i.e., 100% tissue sloughing or complete algal overgrowth) to reduce detrimental effects on neighboring fragments. Fragments were returned to outdoor seawater tables in early May 2018 and kept in ambient flow- through conditions to allow recovery of surviving fragments (Fig. 1B).",
+      "macrotopic": "Clean energy",
+      "topic": "Climate resilience",
+      "subtopic": "Heatwave resilience in energy systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Heatwave resilience in energy systems",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Heatwave resilience in energy systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Climate resilience|Heatwave resilience in energy systems",
+      "target": "Subtopic:Environment|Clean energy|Climate resilience|Heatwave resilience in energy systems_qna_001",
+      "value": 1
+    }
+  ]
+}

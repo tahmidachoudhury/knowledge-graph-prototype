@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration",
+      "label": "Ecological restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What do the results highlight about the factors influencing ecological processes of recovery and degradation?",
+      "answer": "The results highlight the interplay of abiotic and biotic factors in driving ecological processes of recovery and degradation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These results highlight the interplay of abiotic and biotic factors in driv- ing ecological processes of recovery and degradation. Conclusion These findings emphasize the critical role of improving water quality for enhancing biodiversity and eco - logical status in rivers, while also demonstrating the importance of biotic interactions and land use context in driv- ing recovery dynamics. Integrating these insights into management and restoration efforts can enhance freshwater ecosystem resilience in the face of escalating environmental pressures. Keywords River restoration, Macroinvertebrate, Water Framework Directive, Freshwater biodiversity, Land use, River, Stream, Multiple stressors Introduction To address the global freshwater biodiversity crisis, numerous measures such as improved wastewater treat - ment and local habitat restoration have been imple - mented (Dudgeon et al. 2006; Reid et al. 2019). These measures led to some progress in combatting environ - mental degradation and biodiversity loss (Pharaoh et al. 2023). However, the recovery trajectory has slowed down in the past 2 decades, as particularly shown for ben - thic invertebrates (Haase et al. 2023; Sinclair et al.",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Ecological restoration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is it essential to understand the interaction between biotic and abiotic factors for restoration efforts?",
+      "answer": "Understanding the interaction between biotic and abiotic factors is essential for enhancing the effectiveness of restoration efforts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2007; Eglesfield et al. 2023). Additionally, invasive species can exacerbate biotic pressures, either by outcompeting native species or altering food web dynamics (Gallardo et al. 2016; Feio et al. 2025). In addition to these biotic factors, broader elements, such as river type, connectivity, and baseline degradation, are likely to influence recovery potential. For instance, while near-natural rivers may be more vul - nerable to new stressors, heavily degraded rivers often face limits to further decline due to already diminished conditions (Fryirs and Brierley 2000; Tonolla et al. 2021; Wagner et al. 2024). Thus, understanding the interaction between biotic and abiotic factors is essential for enhanc - ing the effectiveness of restoration efforts. The complexity of these interactions has been fur - ther highlighted in the recently proposed Asymmetric Response Concept (ARC) of Vos et al. (2023), which builds on the findings from recent studies and synthe - sizes the roles of species tolerance, dispersal capacity, and biotic interactions in ecosystem recovery and degrada - tion.",
+      "macrotopic": "Life below water",
+      "topic": "Coastal restoration",
+      "subtopic": "Ecological restoration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration",
+      "target": "Subtopic:Environment|Life below water|Coastal restoration|Ecological restoration_qna_001",
+      "value": 1
+    }
+  ]
+}

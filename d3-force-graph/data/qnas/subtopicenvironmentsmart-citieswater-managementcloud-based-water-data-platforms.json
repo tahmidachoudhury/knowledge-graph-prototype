@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Cloud-based water data platforms",
+      "label": "Cloud-based water data platforms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Cloud-based water data platforms_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can tokens exchanged for credit in smart solutions contribute to improving decision-making processes?",
+      "answer": "Tokens exchanged for credit in smart solutions can enable the collection and sharing of data on environmental conditions, such as water bodies, which can provide valuable information for improving decision-making processes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Cloud-based water data platforms",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Cloud-based water data platforms",
+      "target": "Subtopic:Environment|Smart cities|Water management|Cloud-based water data platforms_qna_000",
+      "value": 1
+    }
+  ]
+}

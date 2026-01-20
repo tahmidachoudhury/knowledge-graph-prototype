@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Fish-friendly hydropower technologies",
+      "label": "Fish-friendly hydropower technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Fish-friendly hydropower technologies_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the study innovate on previous work by Hedberg et al.?",
+      "answer": "The study innovates by exacerbating adverse conditions through modifications in channel geometry and pier design, which leads to a greater degree of oblique approach and less approach flow toward the spillway.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For hydraulic structures constructed in natural rivers, common in Norwegian and Swedish hydropower systems, the topography and bathymetry may impose limitations on this design. dams in Sweden, Norway, and the Akosombo dam in Ghana. In these examples, spillways are positioned either perpendicular or at an oblique angle to the main flow leading toward the turbine intakes. main flow direction leading toward the intakes as a blue arrow, while the spillway direction is shown as a red arrow. Existing literature reveals a noticeable knowledge gap in reporting flow distribution across spillways and the effects of adverse conditions on spillway capacity. One aim of this study is to enhance understanding of how poor flow distribution across a spillway impacts its performance and to identify contributing factors to this loss. This paper presents experiments on an ogee-shaped spillway with three outlets, building on the work of Hedberg et al.23 on a similar channel. The novelty of this study lies in exacerbating the adverse conditions by modifying the channel geometry and pier design, resulting in a greater degree of oblique approach and less approach flow toward the spillway.",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Fish-friendly hydropower technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Fish-friendly hydropower technologies",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Fish-friendly hydropower technologies_qna_000",
+      "value": 1
+    }
+  ]
+}

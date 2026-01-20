@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "label": "Real-time energy analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How was the performance of the energy-autonomous technology evaluated?",
+      "answer": "The performance was evaluated through building energy consumption simulations conducted using DesignBuilder software and the EnergyPlus calculation engine.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Section Results is to analyze the results of the energy simulation, and the performance of the technology in terms of heating, emission reduction, and climate adaptation. Section Conclusion concludes the significance of the work in this paper. Methodology This study aims to explore the feasibility and effectiveness of applying energy-autonomous technology (EAT) in independent public toilets, with a particular focus on their energy efficiency and climatic adaptability under different climatic conditions. To this end, we used a park scenario as the context of use and constructed a model of an independent public toilet that includes PV/T technology for energy supply and aerobic bio-composting for on-site excreta treatment. To evaluate the performance of EAT, we conducted building energy consumption simulations using DesignBuilder software, which works alongside the EnergyPlus calculation engine to dynamically simulate building energy consumption. The specific steps included: selecting the building type and template, setting building elements (such as walls, windows, doors, etc. ), and adding parameters for materials, equipment, and personnel activities within the rooms. By simulating the energy consumption of independent public toilet models in five different climatic zones, we assessed the self-sufficiency of the model S energy supply and its performance under various climatic conditions.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which software was used for simulating and analyzing energy consumption in the study?",
+      "answer": "DesignBuilder software was used for simulating and analyzing energy consumption.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Study on energy-autonomous technology for energy consumption performance and climate adaptation in independent public toilets based on DesignBuilder simulation Dapeng Bi1,2, Zhonghua Zhao2,3 , Qunwu Huang1 & Yiping Wang1,3 To enhance energy efficiency and climatic adaptation, this study explores the potential of energy- autonomous technology (EAT) in independent public toilets. Many public toilets today suffer from significant resource wastage due to reliance on external electricity , water, and sewage systems. EAT aims to address these issues by efficiently managing toilet energy requirements. Using DesignBuilder software, we simulated and analyzed energy consumption under various climatic conditions. The results highlight that Nanning, with its strong sun irradiation and mild temperatures, exhibits a daily peak energy use of around 3.25 kWh, making it ideal for implementing such technologies. In sunny but colder locations like Xining, there are also notable advantages. Tianjin, with an effective heat gain of approximately 3,90 MJ, demonstrates significant annual energy generation. Significant emission reductions were observed in Lhasa, emphasizing the environmental benefits of EA T. This research contributes academically by providing a comprehensive analysis of EA T performance in different climates, filling a gap in the existing literature regarding the application of EA T in public toilets.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the review by Padua in Energy Re's Soc SCI 2020 focus on?",
+      "answer": "The review by Padua focuses on the complexity of energy behaviour, technologies, analytical traditions, and household energy consumption data in the United States.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which specific energy app is being investigated in this study?",
+      "answer": "The study investigates the Tibber energy app.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " While empiri- cal studies have explored the role of various feedback mediums in influencing energy practices (Hargreaves et al., 2010), there remains a research gap in under - standing user interactions with energy apps as a medium to facilitate sustainability (Valor et al., 2019). Moreover, existing studies predominantly rely on theoretical frameworks or pilot-scale interventions rather than leveraging real-world data from active users (Paneru & Tarigan, 2023). The two main issues in conducting this type of study are the lack of data regarding users engagement with smart energy apps and the limited knowledge to analyse such data. This study addresses this gap by investigating user interac-tions with the Tibber energy app, a digital platform widely adopted by Norwegian households, to explore how such technologies mediate engagement, per - ceptions (Paneru et al., 2023) and energy practices (Paneru & Tarigan, 2023; Simonsen et al., 2022). Norway S position as a global leader in deploying smart energy technologies, characterised by its unique socio-technical context, provides an optimal environ- ment for this inquiry (Korsnes & Throndsen, 2021).",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_004",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What do the findings provide insights for?",
+      "answer": "The findings provide actionable insights for improving app design, advancing smart energy solutions, and informing energy efficiency and conservation initiatives.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The findings highlight diverse motiva- tions for app engagement, extending beyond cost sav - ings to include empowerment, convenience, and align- ment with sustainability goals. While users express predominantly positive sentiments about the app S intuitive design, real-time feedback, and gamification features, reviews also reveal areas for improvement, emphasizing the importance of user-centred design in enhancing app usability and functionality. The findings provide actionable insights for improving app design, advancing smart energy solutions, and informing energy efficiency and conservation initiatives. Keywords Sustainable household User engagement Smart energy apps Norway Technology adoption Sentiment analysis Topic modelling Abbreviations App Application BERT Bidirectional Encoder Representations from the Transformers COVID-19 Coronavirus Disease 2019 EV Electric Vehicle iOS IPhone Operating System kWh Kilowatt hour LDA Latent Dirichlet allocation NLTK Natural Language Toolkit NLP Natural Language Processing PV PhotovoltaicsC. P. Paneru (*) A. K. M. Tarigan C. To a Department of Safety, Economics and Planning, University of Stavanger, Kjell Arholmsgate 41, 4036 Stavanger, Norway e-mail: chandra.p.paneru@uis.no Energy Efficiency (2025) 18:25 25 Vol:. (1234567890) TF-IDF Term frequency-inverse document frequency TWh Terawatt hour Introduction The residential energy sector is witnessing a surge in the availability and adoption of feedback-based digi- tal solutions, including in-home energy displays, web portals and smartphone-based energy apps.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of data do existing studies on energy apps predominantly rely on?",
+      "answer": "Existing studies predominantly rely on theoretical frameworks or pilot-scale interventions rather than real-world data from active users.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " While empiri- cal studies have explored the role of various feedback mediums in influencing energy practices (Hargreaves et al., 2010), there remains a research gap in under - standing user interactions with energy apps as a medium to facilitate sustainability (Valor et al., 2019). Moreover, existing studies predominantly rely on theoretical frameworks or pilot-scale interventions rather than leveraging real-world data from active users (Paneru & Tarigan, 2023). The two main issues in conducting this type of study are the lack of data regarding users engagement with smart energy apps and the limited knowledge to analyse such data. This study addresses this gap by investigating user interac-tions with the Tibber energy app, a digital platform widely adopted by Norwegian households, to explore how such technologies mediate engagement, per - ceptions (Paneru et al., 2023) and energy practices (Paneru & Tarigan, 2023; Simonsen et al., 2022). Norway S position as a global leader in deploying smart energy technologies, characterised by its unique socio-technical context, provides an optimal environ- ment for this inquiry (Korsnes & Throndsen, 2021).",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can analyzing user reviews of smart energy apps be beneficial according to the paragraph?",
+      "answer": "Analyzing user reviews can provide valuable insights into users' perceptions and interactions with the apps, including their engagement with features, awareness of energy feedback, and perceptions of the app's utility for informed energy decisions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, Huijer, (2013) observes the effectiveness of these tools and examines how well they integrate with users existing practices and routines. Furthermore, Chalal et al., (2022) conducted a systematic review of energy eco-feedback systems, highlighting the importance of effective visualisation techniques in enhancing user engagement and com- prehension of energy consumption patterns. Recent work by Mosca et al., (2024) maps the landscape of digital interventions to promote sustainability, calling for future studies on effective digital interventions. This study builds on this literature by focusing on how users engage with digital energy platforms, using app reviews as a lens to explore perceptions, evalua- tions, and points of interaction. Relevance of user reviews Analysing user reviews for smart energy apps can offer valuable insights into users perceptions and interactions with these technologies. Particularly, such reviews can highlight how users engage with app features, their awareness of energy feedback, and their perceptions of the app S utility in supporting informed energy decisions. This approach aligns with the growing recognition of energy big data S potential to enhance efficiency by analysing user dimensions (Zhou & Yang, 2016).",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Real-time energy analytics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Real-time energy analytics_qna_006",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation campaigns",
+      "label": "Reforestation campaigns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation campaigns_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific time frames were used for the summer and winter campaigns to estimate the percentage cover of vascular plants?",
+      "answer": "The summer campaign was conducted in August 2022, and the winter campaign was conducted in March/April 2023.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Additionally, we visually estimated the percentage cover of vascular plants in a summer campaign in August 2022 and a winter campaign in March/April 2023. We measured the summer cover of vascular plants because shading from vascular plants is likely to be most important when vascular plant biomass is high. Vascular plant winter cover may also be important as some bryophyte species (especially those from arable land) are short- lived and develop mostly from late summer on 53 and then grow throughout winter as long as temperatures remain above freezing. Open gaps in the vegetation cover can then be colonized. We therefore included both summer and winter cover of vascular plants in our initial models but finally excluded winter cover as it was never significant. In the unweeded subplots, the species richness of vascular plants had changed substantially over time and we therefore estimated the realized richness of these subplots in August 2022. To calculate the functional composition of the vascular plant community, we measured the specific leaf area (SLA) of the 20 sown target species in monocultures in summer 2019, following the protocol from Garnier et al.",
+      "macrotopic": "Life on land",
+      "topic": "Afforestation programs",
+      "subtopic": "Reforestation campaigns",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation campaigns",
+      "target": "Subtopic:Environment|Life on land|Afforestation programs|Reforestation campaigns_qna_000",
+      "value": 1
+    }
+  ]
+}

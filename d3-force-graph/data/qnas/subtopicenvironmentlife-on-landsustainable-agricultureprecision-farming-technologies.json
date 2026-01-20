@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Precision farming technologies",
+      "label": "Precision farming technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Precision farming technologies_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are precision technologies for agriculture, and how do they contribute to sustainability in farming?",
+      "answer": "Precision technologies for agriculture, as discussed by Clapp and Ruder, include digital farming and gene-edited crops. These technologies help farmers make more informed decisions about resource use, leading to increased productivity and reduced environmental impact, ultimately contributing to the sustainability of agriculture.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666154324000255",
+      "paragraph": "",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Precision farming technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Sustainable agriculture|Precision farming technologies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "Why do farmers emphasize the need for a complete SFT system in Precision Agriculture?",
+      "answer": "Farmers believe a complete SFT system is necessary in Precision Agriculture to ensure compatibility and seamless integration of technologies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "Life on land",
+      "topic": "Sustainable agriculture",
+      "subtopic": "Precision farming technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Precision farming technologies",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Precision farming technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Sustainable agriculture|Precision farming technologies",
+      "target": "Subtopic:Environment|Life on land|Sustainable agriculture|Precision farming technologies_qna_001",
+      "value": 1
+    }
+  ]
+}

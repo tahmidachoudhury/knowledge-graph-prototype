@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors",
+      "label": "Soil health monitors",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of adding highly enriched 15N labelled NO3 to soil?",
+      "answer": "The purpose is to monitor the denitrification products N2O and N2.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Highly enriched 15N labelled NO3 is added to soil allowing monitoring of 15N labelled denitrification products N2O and N2 (Siegel et al. 1982). This method has proven to be efficient for monitoring short-term fluxes in pot experiments (Rummel et al. 2021; Kirkby et al. 2023), as well as on the field scale (Buchen et al. 2016; Sgouridis et al. 2016; Friedl et al. 2022; Takeda et al. 2022; Buchen- Tschiskale et al. 2023). Recently, an improved version of the 15N gas flux method (15NGF +) was developed, combining the approaches of the 15N gas flux method and the HeO2 atmosphere method (Well et al. 2019a; Friedl et al. 2020; Micucci et al. 2023). Prior to accumulation of soil-derived gases, the chambers headspace is flushed with an artificial HeO2 atmosphere. This lowers the background concentration of unlabeled atmospheric N2 and thus improves the limit of detection. It achieves realistic estimates of cumulative denitrification fluxes with sufficient sensitivity to study N2 and N2O fluxes on the field scale enabling the study of deni- trification responses to control factors.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Soil health monitors",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What indicators are integrated into the soil health index created in the study?",
+      "answer": "The soil health index integrates indicators such as total porosity, plant-available water, and carbon stock.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " communications earth & environment Article https://doi.org/10.1038/s43247-25-2021-w Soil health in Latin America and the Caribbean Check for updates Raul Roberto Poppiel1, Maur cio Roberto Cherubin1,2,J e a nJ .M N ova i s1& Jos A. M. Dematt 1,2 Socio-economic progress relies on critical soil ecosystem services, yet Latin American and Caribbean soils face considerable pressures. Here we assess soil health across the region using remote sensingdata processed with cloud-based machine learning to create high-resolution maps (90 m) of a soilhealth index. This index integrates weighted physical, chemical, and biological indicators, such astotal porosity, plant-available water, and carbon stock. Based on ve soil functions, which involve water and nutrient uxes, carbon sequestration, and supporting plant growth, we found that 38% of soils are classi ed as unhealthy, 28% as moderate, and 34% as healthy. Unhealthy soils dominate drylands and savannas with frequent surface exposure, while humid equatorial zones exhibit healthierconditions. Notably, the Amazon basin registers medium-low soil health, underscoring the urgentneed for conservation. Our ndings offer a robust framework for soil protection policies and restoration strategies to enhance sustainability and ecosystem resilience.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Soil health monitors",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Soil health monitors_qna_001",
+      "value": 1
+    }
+  ]
+}

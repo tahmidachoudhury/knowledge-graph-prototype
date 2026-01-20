@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices",
+      "label": "Soil carbon sequestration practices",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can supply-side practices in agriculture contribute to climate change mitigation?",
+      "answer": "According to the IPCC special report on climate change and land, supply-side practices can contribute to climate change mitigation by reducing crop and livestock emissions, sequestering carbon in soils and biomass, and decreasing emission intensity within sustainable production systems.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0022316622131378",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "subtopic": "Soil carbon sequestration practices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can both measurement and modeling approaches benefit analyses of land management practices for soil C sequestration?",
+      "answer": "A combination of direct measurements for validation purposes and modeling at larger scales can help define the efficacy of different land management practices in enhancing soil C sequestration.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 2022 ), SOC accumulation is expected to hold a major potential to mitigate agricultural GHG emissions (Petersen et al. 2013 ). To improve impact assessment estimates, LCA studies should therefore uni- formly include SOC changes and be conducted over longer timespans to assess the stability of added C storage for a full accounting of agricultural GHG emissions (e.g. including beef production) (Cusack et al. 2021). Goglio et al. (2015) reviewed different methods to account for SOC in agricultural LCA. In their ranking of preferences of SOC estimation methods, models were pre- ferred to measurements. Due to inherently high spatial vari- ability of SOC stocks and the high cost of measurements, there is little measured data available from the case studies to allow for the assessment of changes in SOC (Heikkinen et al. 2021). Conversely, different modelling approaches are already widely applied to assess changes in SOC in agricul- ture and have been shown to generate accurate results (e.g., Riggers et al. 2019; Jebari et al. 2021). It is worth pointing out that both a combination of direct measurements (for vali- dation purposes) and modelling (at larger scales) can greatly help define the efficacy of different land management prac- tices in enhancing soil C sequestration (Smith et al.",
+      "macrotopic": "Zero hunger",
+      "topic": "Climate-smart agriculture",
+      "subtopic": "Soil carbon sequestration practices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices",
+      "target": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices",
+      "target": "Subtopic:Social|Zero hunger|Climate-smart agriculture|Soil carbon sequestration practices_qna_001",
+      "value": 1
+    }
+  ]
+}

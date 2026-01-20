@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Marine microbes",
+      "label": "Marine microbes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Marine microbes_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of enzymes were found in the genomes of halophilic PPB?",
+      "answer": "The genes encoded enzymes for ectoine/hydroxyectoine, proline, ubiquinone, and carotenoids such as lycopene, β-carotene, spirilloxanthin, and spheroidene.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Through a compre- hensive literature review, we compiled a list of halo- philic PPB and mined their genomes for genes linked to CO /CO utilization as carbon sources. Further genomic search revealed genes encoding enzymes for ectoine/hydroxyectoine, proline, ubiquinone, and carotenoids (lycopene, -carotene, spirilloxanthin, and spheroidene). We identified 276 genomes of PPB with the genomic potential to valorise CO /CO into health-promoting ingredients, highlighting 22 spe- cies capable of producing three or more chemicals simultaneously. These findings highlight the untapped potential of halophilic PPB as bio-platforms for sus- tainable pharmaceutical production.Supplementary Information The online version contains supplementary material available at https:// doi. org/ 10. 1007/ s11157- 25- 9722-w . S. Stegman (*) Australian Centre for Water and Environmental Biotechnology, The University of Queensland, Brisbane, QLD 4072, Australia e-mail: samuel.stegman@uva.es S. Stegman E. Huang-Lin R. Lebrero S. Cantera (*) Institute of Sustainable Processes, University of Valladolid, Dr. Mergelina S/N., 47011 Valladolid, Spain e-mail: sara.cantera@uva.es S. Stegman E. Huang-Lin R. Lebrero S. Cantera Department of Chemical Engineering and Environmental Technology, University of Valladolid, Dr. Mergelina S/N., 47011 Valladolid, Spain C. Melkonian D. Tamarit Theoretical Biology and Bioinformatics, Utrecht University, 3584CH Utrecht, The Netherlands C. Melkonian Bioinformatics Group, Wageningen University, Droevendaalsesteeg 1, 6708 PB Wageningen, The Netherlands Rev Environ Sci Biotechnol Vol:.",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Marine microbes",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Marine microbes",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Marine microbes_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability",
+      "label": "Seafood traceability",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can improving traceability in seafood production help regain consumer confidence, as discussed by Stowaway et al. (2008)?",
+      "answer": "By enhancing traceability, consumers can have greater transparency and trust in the origin and processing of seafood products, leading to increased consumer confidence in the industry.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652623016591",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "subtopic": "Seafood traceability",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the importance of traceability in seafood production according to Stowaway et al. (2008)?",
+      "answer": "Traceability in seafood production is crucial for improving consumer confidence and ensuring the quality and safety of seafood products.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652623016591",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "subtopic": "Seafood traceability",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can digital technologies help overcome barriers to achieve sustainable production and consumption in the food sector?",
+      "answer": "Digital technologies can help overcome barriers by improving traceability, efficiency, and transparency in food supply chains, ultimately promoting sustainability in production and consumption.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable fishing",
+      "subtopic": "Seafood traceability",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability",
+      "target": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability",
+      "target": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability",
+      "target": "Subtopic:Social|Zero hunger|Sustainable fishing|Seafood traceability_qna_002",
+      "value": 1
+    }
+  ]
+}

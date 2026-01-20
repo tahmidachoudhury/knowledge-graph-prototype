@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives",
+      "label": "Energy-efficient motors and drives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How has increased fuel use efficiency been achieved in modern tractors?",
+      "answer": "Increased fuel use efficiency has been achieved by power/load matching and the use of variable transmission.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract The energy use and emissions from direct fossil fuel combustion on-farms to power farm machinery was criticallyreviewed. Approximately, 15% of agricultural production costs on-farm are energy-related. A potential solution to more sustainable energy use is a shift toward biofuels from renewable resources. The reduction of greenhouse gas emissions through the substitution of diesel oil with biodiesel depends on the feedstock, the inter-esteri cation process, the storageperiod, and ambient conditions. In modern tractors, increased fuel use ef ciency (or reduced fuel consumption) has been achieved by power/load matching and the use of variable transmission. Engine management systems that are capable of continuously communicating with the engine and transmission to make appropriate adjustments based on inputs receivedfrom the tractor allow for quick and precise responses to changing conditions. As a result, maximum ef ciency and productivity can be obtained from the tractor operating similarly to the traditional gear-up and throttle-back methods of a pro cient operator. The future for autonomous tractors is promising, though not new. Electric-powered tractors are near tocommercialization or are already commercially available. Hybrid electric driven tractors present some advantages in terms of increased energy use ef ciency and functionalities.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Energy-efficient motors and drives",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do increases in silicon content affect the properties of silicon steels?",
+      "answer": "Increasing the Si content significantly improves the magnetic properties of silicon steels, enabling rapid magnetization and demagnetization and reducing energy losses associated with hysteresis and eddy currents.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " [69 76] A comprehensive and widely accepted phase diagram of the Fe-side ( XSi 0.50) was experimentally estab- lished by Schu rmann and Hensgen[77]using TA, DTA and equilibration technique. The bcc_A2/fcc_A1 solu-tions form a closed single-fcc_A1 region, generally known as c-loop . [78]Phase equilibria in this region were investigated by TA,[60,79]XRD[80]and characteri- zation techniques based on magnetic properties ofbcc_A2/fcc_A1. [81 83]The temperatures of bcc_A2/Table I. Summary of Stable Phases in the Binary Fe-Si System Phase Pearson Symbol Space Group Strukturbericht Prototype Model Denoted in text Liquid MQMaLiquid c-Fe cF4F m 3m A1 Cu CEFbfcc_A1 (a,d)-Fe cl2l m 3m A2 W CEF bcc_A2 a -FeSi cP2P m 3m B2 CsCl CEF bcc_B2 a -Fe 3Si cF16 Fm 3m DO 3 BiF 3 cbcc_D0 3 Fe2Si hP6 P63 =mmc Co 1.75Le CEF Fe 2Si Fe5Si3 hP16 P63 =mcm D88 Mn 5Si3 STCOdFe5Si3 FeSi cP8 P213 B20 FeSi CEF FeSi a-FeSi 2 tP3P 4 =mmm FeSi 2_I STCO a-FeSi 2 b-FeSi 2 oC48 Cmca FeSi 2_h CEF b-FeSi 2 Si(dia.)",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Energy-efficient motors and drives",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Energy-efficient motors and drives_qna_001",
+      "value": 1
+    }
+  ]
+}

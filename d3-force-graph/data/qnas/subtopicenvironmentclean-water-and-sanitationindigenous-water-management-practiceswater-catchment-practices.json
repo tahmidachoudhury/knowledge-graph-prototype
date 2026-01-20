@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Water catchment practices",
+      "label": "Water catchment practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Water catchment practices_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How was the upstream catchment land use quantified for each sampling site?",
+      "answer": "The upstream catchment land use was quantified using the methodology from Sch rings et al.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Interspecific competition As a proxy for interspecific competition, we used the same species traits as Gillmann et al. (2024a): feeding type (competition for food), habitat preference (micro - scale space competition), and stream zonation preference (macroscale space competition). We obtained trait val - ues from the freshwaterecology.info database (Schmidt-Kloiber & Hering 2015), which provides trait affinities on a 10-point scale. We defined competition as the propor - tion of trait overlap between species, indicating similar habitat and food preferences. Using the Gower Similar - ity from the gawdis package in R (v.0.1.5, de Bello et al. 2021), we calculated the trait similarities for each taxa pair per site and year. A lower Gower distance indicates higher similarity and thus higher likelihood of compe - tition. We then summarized these values to the mean Gower similarity per site and year, which we refer as competition in the following. Abiotic data Catchment land use For each sampling site, we quantified the upstream catchment land use following the methodology used by Sch rings et al.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Water catchment practices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Water catchment practices",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Water catchment practices_qna_000",
+      "value": 1
+    }
+  ]
+}

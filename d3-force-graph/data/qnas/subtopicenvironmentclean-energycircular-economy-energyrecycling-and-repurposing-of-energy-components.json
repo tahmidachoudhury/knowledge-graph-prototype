@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Recycling and repurposing of energy components",
+      "label": "Recycling and repurposing of energy components",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Recycling and repurposing of energy components_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What energy resources were considered in the calculation of energy use, and in what units was it measured?",
+      "answer": "Energy use was calculated in megajoules (MJ) and corresponded to the disposal of non-renewable energy resources like carbon, gas, oil, or uranium.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/371102736_Ultra-processed_foods_consumption_as_a_promoting_factor_of_greenhouse_gas_emissions_water_energy_and_land_use_A_longitudinal_assessment",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "subtopic": "Recycling and repurposing of energy components",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Circular economy energy|Recycling and repurposing of energy components",
+      "target": "Subtopic:Environment|Clean energy|Circular economy energy|Recycling and repurposing of energy components_qna_000",
+      "value": 1
+    }
+  ]
+}

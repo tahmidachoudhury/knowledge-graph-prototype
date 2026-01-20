@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Fair representation|Gender balance",
+      "label": "Gender balance",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Fair representation"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Fair representation|Gender balance_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How diverse was the sample in terms of gender distribution?",
+      "answer": "The sample was 50.7% female, indicating a relatively balanced gender distribution.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S235255092200344X",
+      "paragraph": "",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Fair representation",
+      "subtopic": "Gender balance",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Fair representation|Gender balance",
+      "target": "Subtopic:Social|Reduced inequalities|Fair representation|Gender balance_qna_000",
+      "value": 1
+    }
+  ]
+}

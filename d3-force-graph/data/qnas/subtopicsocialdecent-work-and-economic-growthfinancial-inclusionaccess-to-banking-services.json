@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services",
+      "label": "Access to banking services",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do banks contribute to economic resilience during crises according to the paragraph?",
+      "answer": "Banks contribute by facilitating access to finance, which enhances economic resilience and supports sustained economic growth and employment participation.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Limiting the negative economic consequences of future natural hazard shocks is therefore an urgent and high-priority policy goal (Koubi, 2019; United Nations, 2015). It is widely acknowledged that the banking sector has an important role to play in this endeavour (Carney, 2015; Ranger et al., 2021; United Nations, 2023). By facilitating access to finance, banks can enhance economic resilience through critical times and contribute to sustained economic growth and employment participation across societal groups. This is particularly true for small and medium-sized enterprises (SMEs) and otherwise underserved and excluded populations, which are highly vulnerable to exogenous shocks. However, the relationship between natural hazards, banks, and real economic resilience is more complex than this. First, banks themselves can be negatively impacted and experience losses and threats to their financial health, potentially limiting the ability to supply recovery loans. Second, banks may differ in their willingness to support economic recovery based on their business models, ownership structures, and resulting objective functions (Beck et al., 2018; Brei & Schclarek, 2015).",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "subtopic": "Access to banking services",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is understanding the intricacies and heterogeneities within the banking sector important according to the paragraph?",
+      "answer": "Understanding these intricacies and heterogeneities is necessary to guide future research and create context-sensitive policy recommendations.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " While these studies provide insights into the real economic impacts of disasters and climate transition risks, existing literature has not made sufficient efforts to understand the complex interactions between physical climate and natural hazard shocks, banks, and the real economy. In the works closest to mine, Zhou et al. (2023) and Duqi (2023) provide excellent but very broad overviews. In particular, Zhou et al. (2023) cover insurance, equity markets, bond markets, international financial flows, and the banking sector, making it suitable as a first introduction to various general aspects of the literature. The textbook of Duqi (2023) provides regulatory context and discusses foundational theories, making it useful for instance for educational purposes. However, due to the scope of these studies, the analyses remain shallow and unstructured and do not systematically cover the intricacies and heterogeneities within the banking sector that are necessary to understand to guide future research and give context-sensitive policy recommendations Therefore, this review contributes an in-depth, systematic analysis of the empirical evidence on the bank-level impacts of natural hazard shocks, and the channels through which banks mediate the real economic consequences.",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Financial inclusion",
+      "subtopic": "Access to banking services",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services",
+      "target": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services",
+      "target": "Subtopic:Social|Decent work and economic growth|Financial inclusion|Access to banking services_qna_001",
+      "value": 1
+    }
+  ]
+}

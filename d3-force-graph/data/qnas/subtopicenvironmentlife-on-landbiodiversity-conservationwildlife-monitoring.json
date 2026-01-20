@@ -1,0 +1,314 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "label": "Wildlife monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the purpose of placing a wildlife camera near the nests in 2022?",
+      "answer": "The wildlife camera was set up to take a picture every 2 hours to record the fate of the nests and hatching dates.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2013 ; Blasco- Zumeta and Heinze 2018 ), and equipped with a GPS device using leg-loop teflon harnesses (Supplemental Material Fig. S3). We used Lotek PinPoint Cell Solar 2G GPS-GSM devices in 2022 and Interrex/Druid Mini solar-powered 2G GPS-GSM devices in 2023, weighing 6.3 0.4 g. Both units were the same with respect to their design and performance. We optimized the schedule to preserve the battery life by setting the interval at which the device recorded the loca - tions at once every 2 h. GPS deployment was performed only if the overall weight of the device and the teflon har - ness represented < 3.5% of the body mass. Handling and tagging lasted approximately 20 min. In 2022 only, a wild - life camera (set to take a picture every 2 h) was placed to aim at each nest to record the nest S fate and hatching date. GPS data were filtered with the R package SDL filter (Shimada et al. 2016 ) to remove spatial and temporal dupli - cates and unrealistic fixes based on speed, considering a conservative threshold of 60 km/h.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why were camera traps not used in the 2023 study?",
+      "answer": "Camera traps were not used in 2023 because there was evidence that they were a source of stress for the birds.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To make the number of fixes comparable between individuals and years and reduce spatial autocorrelation, we subsampled our tracks, keeping one fix every six hours with a 15-minute time tolerance with the R package amt (Signer et al. 2019 ). In 2022, data related to the breeding period were obtained based on the average length of the lapwing breeding season in Italy (i.e., 25 days of incubation followed by 35 40 days to raise the young; Brichetti and Fracasso 2018 2022 ). If the hatching date was known, we considered the period from hatching to the fol - lowing 30 days; if not, we used the day after deployment plus 30 days. By doing so, we could be sure that our data would fall within the fledging date. Since we had evidence that camera traps were a source of stress for the birds, in 2023 we refrained from using them. Therefore, we assessed each breeding phase through direct field observations and kept only the locations falling between the day after deploy - ment and the fledging date (37 days on average, deemed comparable to the data from 2022).",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of archived, unfiltered weather radar data?",
+      "answer": "It serves as a goldmine for biological monitoring purposes, providing coverage of the aerial habitat that no other method can offer.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1 Scientific Data www.nature.com/scientificdataBiological data derived from European weather radars Peter Desmet 1 , Judy Shamoun-Baranes 2, Bart Kranstauber 2, adriaan M. Dokter 3, Nadja Weiss haupt 4, Baptiste Schmid 5, Silke Bauer 2,5,6,7, G nther Haase 8, Bart Hoekstra 2, Pieter Huybrechts 1, Hidde Leijnse 9, Nicolas No 1,10, Stijn Van Hoey 1,11, Berend Wijers 2 & Cecilia Nilsson 12 Weather radars detect more than weather, they also continuously register the movements of billions of animals aloft in the lower atmosphere. This makes archived, unfiltered weather radar data a goldmine for biological monitoring purposes, providing coverage of the aerial habitat in a way no other method can. Here we present two datasets of biological data extracted from European weather radar data, obtained through a collaboration with the Operational Programme for the Exchange of Weather Radar Information (OPERa) and three national meteorological services. the datasets were created by processing weather radar data with methods optimized for extracting bird targets, resulting in vertical profiles of biological targets. The datasets collectively cover 141 radar stations in 18 countries, from 2008 to 2023.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of aerial fauna can weather radars monitor?",
+      "answer": "Weather radars can monitor all forms of aerial fauna, including insects, birds, and bats.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Data quality and coverage differs between years, countries, and radar stations, so care must be taken when evaluating data for each specific use case. Despite these challenges the datasets are currently the most comprehensive of their kind in Europe and open new avenues in understanding continental scale movements of aerial animals. Background & Summary Since the second world war, the airspace across the world has been monitored by an ever-growing network of silent sentinels, constantly interrogating the skies. Specialized radars monitor all forms of movement in the air, and one of the most widespread networks globally is that of weather surveillance radars. Their main purpose is to quantify meteorological phenomena such as precipitation and monitor storm systems, but weather radars also measure other things aloft in the lower atmosphere. As our abilities to analyze and store the huge amounts of data gathered by weather radar networks increase, new possible applications arise. One application that has seen a steep rise in use is the extraction of biological targets from weather radar data, information that is immensely useful for a broad variety of fundamental and applied biological and ecolog - ical questions1,2 As weather radars detect all aerial fauna, from insects3 to birds4 and bats5, they can continuously monitor the movements of animals in the air.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did the hunted species richness change with the number of monitoring days?",
+      "answer": "Hunted species richness more than doubled with the number of monitoring days, increasing from 20 to 50 species.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We found that hunted species richness more than doubled with the number of monitoring days, from 20 to 50 species over the range of the data (Extended Data Fig. 2b), holding other variables constant. The ratio of larger- to smaller-bodied duikers was positively associated with travel time to towns (with a fourfold increase in this duiker ratio as travel time increased from 0 to 15 hours; Extended Data Fig. 3) and was marginally negatively associated with the proportion of animals hunted by gun. The ratio of ungulates to rodents increased from 2.5 to 17.1 with an increasing proportion of animals hunted by guns (from 0% to 99%; Fig. 4) and from 0.33 to 17.1 with increasing forest condition index. Finally, the proportion of primates in the offtake nearly tripled to 20% as the proportion of animals hunted by gun increased (Fig. 4). Discussion We analysed factors associated with regional hunting patterns across African tropical forests, which previously had been explored rigorously at only the local site level36,37. Using a large compilation of African hunt - ing data, our analyses provide insights into regional patterns of the scale of wild meat hunting, possible wildlife depletion and effects of survey effort, which together have implications for wild meat monitoring, management and policy over large spatial scales.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of animals are being monitored using automated sound recorders (ASRs)?",
+      "answer": "Animals such as birds, frogs, bats, insects, and marine mammals are monitored using automated sound recorders.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To effectively study and monitor the intricate patterns, underlying drivers, and extensive consequences of these changes, ecologists are increasingly resorting to automated data collection and monitoring methods. By utilizing sensors such as cameras and acoustic recorders, they can now monitor species of interest across spatial and temporal scales previously unattainable5 11. Among these methods, automated sound recorders (ASRs) or autonomous recording units (ARUs) are being increasingly utilized for surveys of sound-producing animals not easily monitored through image-based devices. This includes animals like birds, frogs, bats, insects, and marine mammals12 14. The applications of ARUs are expanding in scope, with some projects now amassing and analyzing hundreds of thousands of audio/ sound recordings15,16. Given that manual review of such a vast collection of audio data (i.e., sound recording data) is impractical, automated analysis techniques are essential for extracting valuable ecological information. Modern artificial intelligence (AI) techniques are increasingly applied to automated detection and localization of bioacoustic events. These techniques involve identifying sound events of interest within audio recordings and providing timestamps for the start and end times of these events17 24.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How has the use of camera traps been refined recently?",
+      "answer": "The use of camera traps has been refined to detect not only small mammals but also reptiles and amphibians.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Avenant 2005; Heisler et al. 2016; Milana et al 2018; van Strien et al. 2015). Additionally, some species, e.g., Sorex araneus and S. coronatus , can be discriminated only by spe - cialists (Handwerk 1987) or with certainty using molecular methods. Other non-invasive-methods have also been developed. For example, hair traps were developed primarily for arbo- real species (dormice) but are also applicable to others (Chiron et al. 2018; Lindenmayer et al. 1999; Sanecki and Green 2005; Suckling 1978). Nest boxes are commonly used to detect the Hazel dormouse Muscardinus avellanarius (Ju kaitis 2005; Morris et al. 1990). The use of non-invasive baited tubes was invented in the UK to specifically detect the Eurasian water shrew Neomys fodiens (Churchfield et al. 2000). More recently, the application of camera traps was also refined to detect small mammals and also reptiles/ amphibians (De Bondi et al 2010; Glen et al 2013; Hobbs and Brehme 2017; Ortmann and Johnson 2021). Collection of hair samples is sometimes combined with camera traps, e.g.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_007",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some sources of data used to study small mammals?",
+      "answer": "Data about small mammals can be based on direct observations, hunting bags, trapping, dead individuals, road kill, predation remains, owl pellets in collections, and museum records.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These are usually based on direct observations, hunting bags, or from a variety of sources such as trapping, individuals found dead, road kill, predation remains, owl pellets in collections, and museum records. Despite the comprehensive knowledge of faunistic and natural history, substantial knowledge gaps exist concerning several small mammal species. Closing these gaps is one of the major interests of biodiversity research and conservation. It also has implications for pest management, since some microtine rodents are still considered a pest to agriculture in some regions, in particular at the peak of their population cycles (Jacob et al. 2020). There are also public health concerns that require knowledge about the distribution of the spe- cies that might carry human pathogenic viruses (e.g., hanta or cowpox virus) or bacteria (e.g., Leptospira; Essbauer et al. 2010). But several vole species are also known to be intermediate hosts of the zoonotic tapeworm Echinococcus multilocularis (Mart nek et al. 1998; Woolsey et al 2015a, b). Given their ecological role, small mammal monitoring is important in a changing world that faces dramatic global biodiversity loss with substantial impact on the function of ecosystems.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_008",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific type of shrew can be detected using the non-invasive baited tubes developed in the UK?",
+      "answer": "The Eurasian water shrew Neomys fodiens can be detected using the non-invasive baited tubes developed in the UK.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Avenant 2005; Heisler et al. 2016; Milana et al 2018; van Strien et al. 2015). Additionally, some species, e.g., Sorex araneus and S. coronatus , can be discriminated only by spe - cialists (Handwerk 1987) or with certainty using molecular methods. Other non-invasive-methods have also been developed. For example, hair traps were developed primarily for arbo- real species (dormice) but are also applicable to others (Chiron et al. 2018; Lindenmayer et al. 1999; Sanecki and Green 2005; Suckling 1978). Nest boxes are commonly used to detect the Hazel dormouse Muscardinus avellanarius (Ju kaitis 2005; Morris et al. 1990). The use of non-invasive baited tubes was invented in the UK to specifically detect the Eurasian water shrew Neomys fodiens (Churchfield et al. 2000). More recently, the application of camera traps was also refined to detect small mammals and also reptiles/ amphibians (De Bondi et al 2010; Glen et al 2013; Hobbs and Brehme 2017; Ortmann and Johnson 2021). Collection of hair samples is sometimes combined with camera traps, e.g.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_009",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What traditional methods were used for monitoring mammals before recent restrictions?",
+      "answer": "The traditional methods included hunting or catching mammals in different types of traps, including killing traps for small mammals, allowing for species determination based on outer appearance, fur colour, skull and skeletal morphology, and internal anatomy.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, commonly used monitoring strategies are increasingly restricted due to legal conflicts and meth- odological challenges. Traditionally, mammals were hunted or caught in dif- ferent types of traps that included killing traps for small mammals. This allowed species determination using outer appearance, fur colour, skull and skeletal morphology and internal anatomy, if necessary. Individuals could be meas- ured, described and voucher specimens could be deposited in public collections. However, the use of killing traps indis- criminately, or on a large scale is prohibited by the Berne Convention (adapted in the EU by Decision 82/72/EEC and subsequently in Germany by law since 2005). Thus, in recent decades the highest standards for monitoring quality were achieved using different kinds of commonly available live traps (Hoffmann et al. 2010 ; Torre et al. 2016 ). Although comparatively less harmful, live trapping is also becoming increasingly more restricted. In Germany, the federal law on nature protection ( 44 Abs. 1 Nr. 1) in general bans trapping (including live traps), if the potential for avoidable pains, suffering (including stress) or harm is associate with it ( 13 Protection of Animal Act).",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_010",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What monitoring practice has been adopted in recent decades as a result of restrictions on killing traps?",
+      "answer": "In recent decades, the highest standards for monitoring quality have been achieved using various types of commonly available live traps.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, commonly used monitoring strategies are increasingly restricted due to legal conflicts and meth- odological challenges. Traditionally, mammals were hunted or caught in dif- ferent types of traps that included killing traps for small mammals. This allowed species determination using outer appearance, fur colour, skull and skeletal morphology and internal anatomy, if necessary. Individuals could be meas- ured, described and voucher specimens could be deposited in public collections. However, the use of killing traps indis- criminately, or on a large scale is prohibited by the Berne Convention (adapted in the EU by Decision 82/72/EEC and subsequently in Germany by law since 2005). Thus, in recent decades the highest standards for monitoring quality were achieved using different kinds of commonly available live traps (Hoffmann et al. 2010 ; Torre et al. 2016 ). Although comparatively less harmful, live trapping is also becoming increasingly more restricted. In Germany, the federal law on nature protection ( 44 Abs. 1 Nr. 1) in general bans trapping (including live traps), if the potential for avoidable pains, suffering (including stress) or harm is associate with it ( 13 Protection of Animal Act).",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_011",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why are non-invasive methods becoming increasingly important in documenting small mammal distribution?",
+      "answer": "Non-invasive methods are becoming important due to legal requirements, manpower issues, and the need for scientific training in fieldwork related to live trapping.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " So, for every study with live trap- ping paperwork is required to obtain exceptions of the men- tioned laws for the specific study sites. Exceptions granted might call for frequent checking intervals for live traps in the field. Captured specimens need to be identified and released on site by small mammal experts. Thus, legal requirements, manpower and scientific training of field workers are impor - tant when considering large scale and long-term routine sur - veys using live-traps. Consequently, the use of non-invasive methods is becom- ing increasingly important for documenting small mammal distribution, and will be the main, if not the only, accepted method to do so in the near future. Some non-invasive meth- ods such as owl pellet analysis have already been in use for some time, while others have been developed specifi- cally for one or a few species. All have both advantages and limitations. Mammal Research Owl pellet analysis is a well-established method to obtain small mammal remains, but has limitations for large scale monitoring, as a) the application is limited to areas where relevant birds of prey co-occur (for small mammals mainly the barn owl Tyto alba and tawny owl Strix aluco); b) the prey preferences of the birds of prey present a bias; c) a limited range of preferred hunting grounds; and d) only the locality where the pellet is regurgitated is known, but not the locality and habitat where the prey was captured (e.g.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_012",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the methodological and legal challenges mentioned in the paragraph related to small mammal monitoring?",
+      "answer": "The challenges include the inability to know the exact site of occurrence of a detected species and the overall difficulties associated with monitoring at small and large spatial and temporal scales.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In this way, small mammals can also be detected (Harper et al. 2019; Leempoel et al. 2020a, b). This latter method can be applied on a larger scale but again is limited by the inability to know the exact site of occur - rence of a detected species. The above review reflects the methodological and legal challenges that are associated with small mammal monitoring at small and large spatial and temporal scales. These challenges motivated us to develop a new monitoring strategy that combines non-invasive field sampling using baited tubes to collect fecal pellets and molecular species determination using the mitochondrial COI gene as a barcod- ing marker. Here we document the results of this pilot study to test the performance of our new monitoring strategy under large-scale conditions. The survey was performed under the supervision of scientific staff with expertise in mammalogy and molecular biology (study design and lab work). How - ever, the large spatial coverage and the high number of sam- ples is basically achieved by incorporating volunteers for fieldwork, e.g., rangers of national parks, citizen scientist or scientific staff without an explicit expertise in the field of DNA-barcoding.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_013",
+      "group": "QnA",
+      "label": "",
+      "question": "How has the Living Planet Index been utilized in the report?",
+      "answer": "The Living Planet Index has been used as an early warning indicator to track trends in the abundance of mammals, fish, reptiles, birds, and amphibians globally over almost 50 years, providing a comprehensive dataset on the decline of wildlife populations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As our future in biodiversity and climate. For example, we feature the new is critically dependent on biodiversity and a stable climate, it is biodiversity risk maps generated for the IPCC Working Group 2 essential that we understand how nature's decline and climate report published in February 2022. These maps are the result of change are connected. decades of work which has involved more than 1 million hours of computer time. We also explore an analysis using data from The nature of these connections, the impacts they have on people the IUCN Red List which allows us to overlay six key threats - and biodiversity, and building a positive, equitable, and sustainable agriculture, hunting, logging, pollution, invasive species and climate future, are key themes in this edition of the Living Planet Report. change - to highlight 'threat hotspots' for terrestrial vertebrates. In addressing these complex, interlinked challenges we recognise that there is no one-size-fits-all solution, nor one single source of To help us imagine a future where people and nature can thrive, knowledge. To create this edition, we have therefore woven together scenarios and models - such as the Bending the Curve work multiple voices and drawn on different sources of knowledge from featured in the 2020 Living Planet Report - can create 'menus' that around the world.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_014",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the average decline in monitored wildlife populations according to the 2022 global Living Planet Index?",
+      "answer": "The average decline in monitored wildlife populations is 69% between 1970 and 2018.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The 2022 global Living 2022 the Index included almost 32,000 species populations, which Planet Index shows an average 69% decrease in relative abundance is 11,000 more than in 2020, the largest increase yet in number of of monitored wildlife populations between 1970 and 2018. populations between two editions of this report. These populations, or trends in relative abundance, are important because they give a snapshot of changes in an ecosystem. ABUNDANCE Valentina Marconi, Louise McRae, The Living Planet Index (LPI) tracks changes in the relative Essentially, declines in abundance are early warning indicators Sophie Ledger, Kate Scott-Gatty, abundance of wild species populations over time 42-44 The global of overall ecosystem health. At the same time, population trends Hannah Puleston, Charlotte Benham, Index is constructed by calculating an average trend for tens are responsive - therefore if conservation or policy measures are and Robin Freeman of thousands of terrestrial, freshwater and marine vertebrate successful, species abundance trends will quickly show this. (Zoological Society of London) populations from across the globe. Despite 30 years of policy interventions to stop biodiversity loss we continue to observe similar declines to those shown in previous reports.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_009",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_010",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_011",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_012",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_013",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife monitoring_qna_014",
+      "value": 1
+    }
+  ]
+}

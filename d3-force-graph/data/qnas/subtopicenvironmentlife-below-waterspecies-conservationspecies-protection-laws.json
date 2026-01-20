@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species protection laws",
+      "label": "Species protection laws",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_000",
+      "group": "QnA",
+      "label": "Regulation",
+      "question": "What is the German BNatschG law concerned with?",
+      "answer": "The German BNatschG law is concerned with the protection of many species, including those of conservation concern.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Rondini et al. (2011) state that, even for mammals, detailed distribution information is lacking, which hinders conservation efforts. And they argue that fine- resolution distribution data are important for the develop- ment of global conservation strategies for mammals in order to make predictions about its future distribution. (Rondini et al. 2011:2633). Monitoring programs are standard to many species of conservation concern to assess population development. In Europe, an assessment of population trends is mandatory under the Habitats Directive of 1992 (Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora). Some small terres - trial mammals such as, Microtus tatricus, Sicista betulina, S. subtilis, Cricetus cricetus and Muscardinus avellanarius are listed in Annex IV of this Directive and are of special concern. In Germany, many species are protected by the German BNatschG (federal law on nature). Monitoring small terrestrial mammals The distribution and overall ecology, including the pre- ferred habitats, of species has been of interest to natural- ists for centuries and has been documented in (regional) faunal lists, notes and articles, books, and distribution maps or atlases.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species protection laws",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What legal document prohibits the indiscriminate use of killing traps in mammals monitoring?",
+      "answer": "The Berne Convention prohibits the indiscriminate use of killing traps, and this has been adapted in the EU by Decision 82/72/EEC and subsequently enforced in Germany by law since 2005.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, commonly used monitoring strategies are increasingly restricted due to legal conflicts and meth- odological challenges. Traditionally, mammals were hunted or caught in dif- ferent types of traps that included killing traps for small mammals. This allowed species determination using outer appearance, fur colour, skull and skeletal morphology and internal anatomy, if necessary. Individuals could be meas- ured, described and voucher specimens could be deposited in public collections. However, the use of killing traps indis- criminately, or on a large scale is prohibited by the Berne Convention (adapted in the EU by Decision 82/72/EEC and subsequently in Germany by law since 2005). Thus, in recent decades the highest standards for monitoring quality were achieved using different kinds of commonly available live traps (Hoffmann et al. 2010 ; Torre et al. 2016 ). Although comparatively less harmful, live trapping is also becoming increasingly more restricted. In Germany, the federal law on nature protection ( 44 Abs. 1 Nr. 1) in general bans trapping (including live traps), if the potential for avoidable pains, suffering (including stress) or harm is associate with it ( 13 Protection of Animal Act).",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species protection laws",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What does Germany's federal law on nature protection state regarding trapping?",
+      "answer": "Germany's federal law on nature protection generally bans trapping, including live traps, if it is associated with avoidable pain, suffering, or harm.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, commonly used monitoring strategies are increasingly restricted due to legal conflicts and meth- odological challenges. Traditionally, mammals were hunted or caught in dif- ferent types of traps that included killing traps for small mammals. This allowed species determination using outer appearance, fur colour, skull and skeletal morphology and internal anatomy, if necessary. Individuals could be meas- ured, described and voucher specimens could be deposited in public collections. However, the use of killing traps indis- criminately, or on a large scale is prohibited by the Berne Convention (adapted in the EU by Decision 82/72/EEC and subsequently in Germany by law since 2005). Thus, in recent decades the highest standards for monitoring quality were achieved using different kinds of commonly available live traps (Hoffmann et al. 2010 ; Torre et al. 2016 ). Although comparatively less harmful, live trapping is also becoming increasingly more restricted. In Germany, the federal law on nature protection ( 44 Abs. 1 Nr. 1) in general bans trapping (including live traps), if the potential for avoidable pains, suffering (including stress) or harm is associate with it ( 13 Protection of Animal Act).",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species protection laws",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species protection laws",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species protection laws",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species protection laws",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species protection laws_qna_002",
+      "value": 1
+    }
+  ]
+}

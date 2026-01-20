@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning",
+      "label": "Urban gis planning",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the overall spatial differentiation accuracy of the classification conducted in Ekiti?",
+      "answer": "The classification had an overall spatial differentiation accuracy of 73.1%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " (1234567890) local government areas were analyzed through the- matic analysis and descriptive statistics. Agroforestry constituted 18% of Ekiti land while full-sun cocoa covered 13%. Thus, 57% of cocoa cover in Ekiti State was agroforestry. The classification had overall spatial differentiation accuracy of 73.1% with a kappa statis- tic of 68% indicating substantial agreement strength between the classification and the collected validation data. Interviews were similarly aligned, with 74% of respondents using agroforestry or mixed methods. The continued use, despite government promotion of full-sun methods, suggests limited policy uptake and the enduring value of agroforestry for farmers. This research can contribute to improved monitoring of cocoa-driven tree loss and provide important context for policy and program design to enhance climate change adaptation in similar cocoa producing regions. Keywords Cocoa agroforestry Climate change Remote sensing Land classification Land management Policy Introduction Cocoa (Theobroma cacao L) is one of West Africa S largest agricultural commodities, supplying the world with popular products such as chocolate, cosmetics, and pharmaceuticals (Torres and van Seters 2016; Kim et al. 2011).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban gis planning",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How large is the YRB study area and how many provinces does it cover?",
+      "answer": "The YRB study area covers 1.8 million km² across 11 provinces, cities, and autonomous regions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To gain insights into these responses, we quantified land use and climate change using land-use dynamics (LUD) and the standardized precipitation evapotranspiration index (SPEI), respectively. Subsequently, an SES network was constructed by incorporating six distinct socio-ecological factors. Furthermore, the responses of the network attributes along the LUD and SPEI gradients were explored using network analysis and a moving-window approach. The aims of this study were to (1) construct a network among SES components in the YRB, (2) explore the effects of land-use and climate change on SES network coupling relationships, and (3) identify their thresholds to guide ecological zoning management. Materials and methods Study areas The YRB (90 33 122 25 E, 24 30 35 45 N) covers 1.8 million km2 across 11 provinces, cities, and autonomous regions (Fig. 1). The topography of the YRB varies, with the ground gradually rising from southeast to northwest. With the influence of monsoon circulation, the YRB experiences a subtropical climate characterized by an annual precipitation range of 1000 to 1400 mm and an average annual temperature fluctuating between 12 and 18 C40.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban gis planning",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the mean spatial extent of SUHI in Athens according to the study?",
+      "answer": "The mean spatial extent of SUHI in Athens was 55.2 km².",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The mean spatial extent of SUHI in Athens was 55.2 km2, whilst its mean intensity was 5.6 C. This paper addresses this limitation by processing satellite Euro-Mediterranean Journal for Environmental Integration time series data to provide a more representative distribution of LST hotspots in a city, such as Athens, characterized by a dense and extensive urban sprawl. The poor air quality in cities has resulted in air pollu- tion being an important environmental stressor (Krefis et al. 2018). Evidence compiled from the last 20 years of research has clearly quantified health impacts not only in low- and middle-income countries where air pollution levels are high, but also in high-income countries with relatively clean air (EEA 2021). As a consequence, the latest release of WHO global air quality guidelines (WHO 2021) incorporates significant decreases in air pollution limits. Pollutant con- centrations from air quality monitoring stations have been widely used to derive hotspots of population exposure. Nev - ertheless, data on concentrations and population distribu- tion should be available in spatial resolution of 1 km 1 km or finer to obtain appropriate estimates of total population exposure and health-related externalities (Santiago et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Urban gis planning",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Urban gis planning_qna_002",
+      "value": 1
+    }
+  ]
+}

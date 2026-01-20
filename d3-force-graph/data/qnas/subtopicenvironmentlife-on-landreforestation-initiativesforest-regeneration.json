@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration",
+      "label": "Forest regeneration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What kinds of disturbances are encompassed in forest loss analyses?",
+      "answer": "Forest loss analyses encompass both temporary and permanent stand-removing disturbances.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Quantifying degradation has been more challenging to quantify than deforestation as canopy cover may be partially impacted or regenerate over time2,4. Forest change analyses often rely on satellite imagery data of forest loss , which encompasses both temporary and permanent stand-removing disturbances5. Recent advancements in remote sensing data and analytical techniques have facilitated more nuanced spatial analyses capable of distinguishing between anthropogenic and fire-driven forest loss, while also identifying degraded and disturbed forests1,6. This differentiation is vital for informing effective conservation and land use policy, as forest loss from increasingly altered natural processes, such as wildfire6, and anthropogenic drivers, including forestry, agricultural expansion and urbanization7,8 can compromise forest quality via fragmentation9, changes in structure10, altered species composition11, edge pressures and heightened susceptibility to subsequent disturbances12, 13. Forest degradation and deforestation pose a key threat for biodiversity via the removal and diminishment of mature habitat14. A comprehensive study of extinction risk for 19,432 vertebrates worldwide revealed that forest loss elevates the risk of a species being listed as threatened on the IUCN Red List, of being upgraded to higher threat categories and experiencing population decline15.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Forest regeneration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What defines old-growth forests according to the studies mentioned?",
+      "answer": "Old-growth forests are defined by naturally regenerated forest stands of native tree species, a long period without significant human intervention, presence of a dominant cohort of large live and dead trees, complex structure with varied tree sizes and ages, accumulation of large deadwood material, provision of diverse ecosystem services, and natural disturbance regimes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2023). The term old-growth forest is used differently in studies published about their effect in climate change mitiga- tion (Kenina et al. 2023). What is common in all definitions is naturally regenerated forest stands of native tree species, the exclusion of significant human intervention for a long period, the presence of a dominant cohort of large, both Communicated by Camilla Wellstein. * Marta Pardos pardos@inia.csic.es 1 Department of Forest Dynamics and Management, Institute for Forest Research (ICIFOR, INIA-CSIC), Ctra A Coru a Km 7.5, 28040 Madrid, Spain 2 Department of Agroforestry Sciences, University of Huelva, Avda. Fuerzas Armadas S/N, 21007 Huelva, Spain 3 Departamento de Biolog a Vegetal y Ecolog a, Facultad de Biolog a, Universidad de Sevilla, Avda. Reina Mercedes, S/N, 41012 Sevilla, Spain 4 Centro de Capacitaci n y Experimentaci n Forestal, C/. Vadillo-Castril, 23470 Cazorla, Spain 194 European Journal of Forest Research (2025) 144:193 211 live and dead, standing and fallen old trees, their complex structure (variety of tree sizes and tree ages, resulting in multilayered canopies), the accumulation of large deadwood material in different stages of decay, the provision of a wide range of ecosystem services and natural disturbance regimes (Wirth et al.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Forest regeneration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Forest regeneration_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Real-time traffic flow optimization for autonomy",
+      "label": "Real-time traffic flow optimization for autonomy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Real-time traffic flow optimization for autonomy_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What challenges does the proposed method aim to tackle in the context of UDA?",
+      "answer": "The proposed method aims to tackle the challenge of integrating high-performing yet computationally expensive models with faster but less accurate models, and to effectively combine models from easier tasks into harder tasks, resulting in performance gains without incurring additional training costs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Our main contributions can be summarized as follows: (1) Cost-free model merging by introducing a novel method to merge existing available pretrained models with-out requiring additional training costs. (2) Cross-task model merging by applying model merging to combine models designed for different tasks with sharedparameters. (3) Extensive benchmarking of model merging for unsu- pervised domain adaptation, focusing on multiple models, strategies and datasets. The remainder of the paper is organized as follows: Sect. 2 reviews related work on semantic segmentation, unsuper- vised domain adaptation and model merging. In Sect. 3, details the core hypothesis of this work: initial layers should be merged differently from nal layers. It also introduces the proposed layer-wise model merging technique to addressthese discrepancies; Sect. 4 presents our experimental results, focusing on the following scenarios: (1) merging model weights derived at different epochs of training, (2) merging model weights derived from different training frameworksbut with a common architecture, (3) merging model weights derived from different architectures for the same task and (4) merging model weights derived from different tasks; Finally, Sect.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban autonomous taxis",
+      "subtopic": "Real-time traffic flow optimization for autonomy",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Real-time traffic flow optimization for autonomy",
+      "target": "Subtopic:Environment|Smart cities|Urban autonomous taxis|Real-time traffic flow optimization for autonomy_qna_000",
+      "value": 1
+    }
+  ]
+}

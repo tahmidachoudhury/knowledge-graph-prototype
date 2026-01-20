@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation education",
+      "label": "Conservation education",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation education_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What role does education play in environmental conservation as mentioned in the research?",
+      "answer": "The research underscores the transformative potential of education in reshaping societal attitudes toward environmental conservation and emphasizes the need for sustained investment in educational programs aligned with sustainability goals.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Although celebrated for driving economic growth, financial inclusion is critically analyzed here for its unintended environmental consequences. Similarly, the study provides robust empirical evidence on how green innovations can offset the ecological costs of resource rents. Third, it underscores the transformative potential of education in reshaping societal attitudes toward environmental conservation, emphasizing the need for sustained investment in educational programs aligned with sustainability goals. By integrating these diverse elements, the research advances theoretical frameworks and offers actionable insights for achieving a sustainable future in resource-rich contexts. The rationale for this analysis stems from the urgent global need to address climate change and promote sustainable development. By investigating the combined effects of these variables, we aim to provide a more comprehensive understanding of the drivers and barriers to achieving SDGs 7 and 13. This multifaceted approach allows us to uncover potential synergies and trade-offs between economic development and environmental conservation. Our findings can inform policymak - ers in resource-rich nations on effectively leveraging their natural resources, education systems, financial sectors, and technological capabilities to promote sustainable practices while maintaining economic growth. This research fills a gap in the existing literature by offering empirical evidence on the collective influence of these factors on sustainability outcomes, contributing to the development of more holistic and effective strategies for achieving the SDGs.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Conservation education",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation education",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Conservation education_qna_000",
+      "value": 1
+    }
+  ]
+}

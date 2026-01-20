@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flywheel energy storage",
+      "label": "Flywheel energy storage",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Flywheel energy storage_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How much did the power factor improve for the Fe-Al-Si alloy according to Srinithi et al.?",
+      "answer": "The power factor improved from 2.5 x 10^-4 W/m K² to 8.8 x 10^-4 W/m K² for the Fe-Al-Si alloy.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fukuta et al.22 reported an improvement in the ZT of the Fe-V-AI alloy using a grain refinement approach, achieving a high ZT value of 0.37. On the other hand, by implementing microstructure engineer - ing, Srinithi et al.23 reported an improvement in the power factor of Fe-Al-Si from 2.5 10 4 W/m K2 to 8.8 10 4 W/m K2. Recently, Reumann et al.24 investigated the effect of Cr substitution on the Fe site of Fe2VAI and obtained a higher Seebeck coefficient of ~ ~70 V/K in Fe1.975Cr0.025VAI compared to ~40 V/K in Fe2VAI. Considering the advantage of the low-cost and nontoxic nature of the Fe11Ti3AI6 alloy, this work was carried out to explore the possibility of further improving its thermoelec- tric performance. Although Fe11Ti3AI6 exhibits a respectable power factor of 7.0 10 4 W/m K2, its Seebeck coefficient is still too low. Clearly, a strategy for further development of this alloy is to increase its Seebeck coefficient, which may be achieved by adding an additional transition element into the alloy. After initial exploration, we found that the Seebeck coefficient of Fe11Ti3AI6 alloy could be increased by replac- ing Fe with Cr.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Flywheel energy storage",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Flywheel energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Flywheel energy storage_qna_000",
+      "value": 1
+    }
+  ]
+}

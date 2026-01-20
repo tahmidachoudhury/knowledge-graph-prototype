@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility",
+      "label": "Biofuels for sustainable mobility",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Which vehicles will be exempt from the admission ban for new passenger cars and light commercial vehicles equipped with combustion engines from 2035 onwards?",
+      "answer": "Vehicles powered by CO2-neutral, synthetic fuels, also known as 'e-fuels', will be exempt from the admission ban imposed on new passenger cars and light commercial vehicles with combustion engines from 2035 onwards, as specified in Regulation (EU) 2023/851 adopted by the Council of the EU in March 2023.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "subtopic": "Biofuels for sustainable mobility",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which criteria were found to be most sensitive for modification of the indifference threshold in the sensitivity analysis?",
+      "answer": "The criteria found to be most sensitive for modification of the indifference threshold are C1 (Blended biodiesels), C4 (Natural gas), C5 (Pure biodiesels), and C7 (Electricity).",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/370705198_Temporal_PROMETHEE_II_-_New_multi-criteria_approach_to_sustainable_management_of_alternative_fuels_consumption",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "subtopic": "Biofuels for sustainable mobility",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which criteria in road transport are least affected by changes in the indifference threshold, and why?",
+      "answer": "Criteria such as __6 (Biogases), __8 (Pure biogasoline), and __9 (Other liquid biofuels) are least affected by changes in the indifference threshold. This is because they have a minor share in final energy consumption in road transport and do not significantly impact the rankings of anaanalysedel types.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/370705198_Temporal_PROMETHEE_II_-_New_multi-criteria_approach_to_sustainable_management_of_alternative_fuels_consumption",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "subtopic": "Biofuels for sustainable mobility",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why does Sweden rank as the leader in sustainable transportation according to the Temporal PROMETHEUS II ranking?",
+      "answer": "Sweden ranks as the leader in sustainable transportation due to its extensive use of biogas as a transportation fuel since the 1990s, accounting for a significant portion of biome thane utilized in the EU in 2015.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/370705198_Temporal_PROMETHEE_II_-_New_multi-criteria_approach_to_sustainable_management_of_alternative_fuels_consumption",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "subtopic": "Biofuels for sustainable mobility",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility",
+      "target": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility",
+      "target": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility",
+      "target": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility",
+      "target": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|Biofuels for sustainable mobility_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact",
+      "label": "Illegal logging and its impact",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the estimated annual tonnage of wildlife harvested through illegal bushmeat hunting globally?",
+      "answer": "Approximately 5 million tons of wildlife are harvested annually through illegal bushmeat hunting.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Globally, illegal bushmeat hunting has contributed to the decline of over 300 species listed as threatened on the International Union for Conservation of Nature (IUCN) Red List and accounts for an estimated 5 million tons of wildlife harvestedannually, particularly in tropical regions, placing immense pressure on biodiversity. Despite its recognized conservation threat, limited information exists on the bushmeat trade dynamics in sub-Saharan African savannas. This study conducted interviews with 133 illegal hunters and 40 anti-poaching eld rangers in Southeastern Zimbabwe, using semi-structured questionnaires. We explored the characteristics, motivations, methods, species targeted, and perceptions of wildlife law enforcement in Save Valley Conservancy (SVC). Overall, illegal bushmeat hunting in SVC is mainly done by less educated and unemployed young to middle aged men (15 40 years old). The motives behind illegal bushmeat hunting mainly included household consumption (96%), the desire to raise income (96%), unemployment (78%), retaliation for wildlife induced losses (62%), culture (29%) and poor bene t sharing (8%).",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Illegal logging and its impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does land ownership affect illegal bushmeat harvesting levels?",
+      "answer": "The levels of illegal bushmeat harvesting have been found to vary across different land ownership.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, illegal hunters use a wide range of methods including dogs, spotlighting (is a method where bright, focused lights are used to illuminate animals atnight. The intense beam of light temporarily blinds or dis- orients the animals, causing them to freeze or remain still, which makes them easier to locate and target), rearms, spears, bows and arrows (Gandiwa 2011 , Knapp et al. 2017 , Lindsey et al. 2012 ). Illegal bushmeat harvesting usually occurs all year round with some seasonal variations in mostprotected areas (Matseketsa et al. 2022 ) and the levels have been found to vary across different land ownership (Duporge et al. 2018 ). Ungulates including impala ( Aepy- ceros melampus ), wildebeest ( Connochaetes taurinus ) and buffalo ( Syncerus caffer), are among the most frequently harvested species (Rogan et al. 2017 ). Illegal hunters face signi cant risks and costs in their activities as most bushmeat hunting in African savannas is illegal (Lindsey et al. 2012 ). Its elusive nature exposes the hunters to attacks by dangerous animals and injuries like punctures, wounds, and broken bones.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Illegal logging and its impact",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Illegal logging and its impact_qna_001",
+      "value": 1
+    }
+  ]
+}

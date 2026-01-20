@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services",
+      "label": "Collaboration with ride-sharing services",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed model merging method improve UDA performance?",
+      "answer": "The proposed method increases performance by effectively merging models from different tasks and datasets, resulting in improvements such as up to 6.8% in mloU and 7% in mPQ for semantic and panoptic segmentation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL: https://doi.org/10.1007/s00371-025-03843-7 The Visual Computer https://doi.org/10.1007/s00371-25-3843-7 RESEARCH Layer-wise model merging for unsupervised domain adaptation in segmentation tasks Roberto Alcover-Couso1 Juan C. SanMiguel1 Marcos Escudero-Vi olo1 Jos M. Mart nez1 Accepted: 7 February 2025 The Author(s) 2025 Abstract Merging parameters of multiple models has resurfaced as an effective strategy to enhance task performance and robustness, but prior work is limited by the high costs of ensemble creation and inference. In this paper, we leverage the abundance of freely accessible trained models to introduce a cost-free approach to model merging. It focuses on a layer-wise integration ofmerged models, aiming to maintain the distinctiveness of the task-speci C nal layers while unifying the initial layers, which are primarily associated with feature extraction. This approach ensures parameter consistency across all layers, essential for boosting performance. Moreover, it facilitates seamless integration of knowledge, enabling effective merging of modelsfrom different datasets and tasks. Speci cally, we investigate its applicability in unsupervised domain adaptation (UDA), an unexplored area for model merging, for semantic and panoptic segmentation.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "Collaboration with ride-sharing services",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What significant performance improvements were achieved through the proposed model merging strategy?",
+      "answer": "The proposed model merging strategy demonstrated performance increases of up to 6.8% in mIoU for merging different-architecture models with a shared backbone and 7% in mPQ for merging semantic and panoptic segmentation models.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In response, teacher student distillation has emerged as a standard technique for improving UDA training stability[2,3,16,17]. Although the teacher student framework has proven effective across various UDA setups and alignment losses, the underlying alignment techniques themselves may not share this level of success. Joint application of differ-ent alignment losses has been shown to be challenging and sometimes counterproductive [ 18 20], leading to existing approaches favor model ensembling for leveraging multi-ple alignment strategies, despite its increased computational costs from requiring inference across multiple models [ 16, 21,22]. Model merging presents a promising alternative for over- coming the unstable training dynamics of UDA. By com- bining weights derived from different models and setups, this technique effectively integrates the strengths of variousalignment strategies without incurring additional computa- 123 R. Alcover-Couso et al. Fig. 1 Performance comparison for the UDA Synthia-to-Cityscapes setup. Most state-of-the-art UDA methods build up from DAFormer[3] by adding computationally expensive blocks. In contrast, we lever-age the obtained checkpoints during training to improve performance without incurring any associated training or inference overhead tional overhead. Since parameter merging only requires a single model inference, it offers a computationally ef cient solution [ 23 26].",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "Collaboration with ride-sharing services",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What challenges does the proposed merging method aim to address in the context of UDA?",
+      "answer": "The proposed merging method aims to incorporate high-performing but computationally expensive models into faster, less accurate models and to combine models from easier tasks into harder tasks, leading to improved performance in segmentation tasks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Since UDA research often explores a variety of adaptation strategies on a common base architecture, it nat-urally produces multiple sets of learned parameters. Model merging can then use these diverse parameter sets to create a uni ed model that retains the bene cial adaptations of eachapproach. To evaluate our proposal for semantic and panoptic segmentation, we set an extensive baseline by experiment- ing with various model merging methods based on the sameor different datasets and architectures. Our experiments also address two challenges. The rst one aims to incorporate high-performing yet computationally expensive models into faster but less accurate ones. Our proposal increases speedby 3.25 times with performance increases up to 6.8% in mloU. The second challenge is for combining models from easier tasks into harder tasks. Our proposal presents perfor-mance gains of 3.4% in mloU and 7% in mPQ compared to previous state-of-the-art UDA methods for, respectively, semantic and panoptic segmentation (see Fig. 1). Our results are validated across various UDA synthetic-to-real setupsfor multiple strategies (including adversarial, self-training and entropy minimization), architectures (convolutional and transformer based) and datasets (Cityscapes and Mapillary).",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "Collaboration with ride-sharing services",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|Collaboration with ride-sharing services_qna_002",
+      "value": 1
+    }
+  ]
+}

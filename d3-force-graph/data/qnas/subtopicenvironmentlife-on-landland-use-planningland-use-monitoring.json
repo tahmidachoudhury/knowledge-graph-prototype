@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use monitoring",
+      "label": "Land use monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use monitoring_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technology is commonly employed for monitoring soil erosion and why?",
+      "answer": "Sensors and satellite-based technologies are commonly used for monitoring because they are suitable for tracking land cover changes and identifying vulnerable areas.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These models provide essential data for early warning systems by accurately evaluating erosion in various regions. Utilizing the results of these models alongside spatial data makes it possible to monitor and predict soil erosion changes continuously. This enables dynamic warnings to be issued for at-risk areas, allowing timely implementation of management measures. Early warning systems can help predict erosion events and facilitate timely response. Erosion prevention and soil conservation are essential for sustainable land management and ecosystem health. They play a major role in supporting these efforts by providing a valuable dataset for decision- makers. The early warning system (EWS) relies on various data sources, including meteorological, soil moisture measurements, topographical, and land-use data10. An effective EWS incorporates communication mechanisms to disseminate alerts and warnings to stakeholders, including farmers, land managers, and policymakers11. Timely alerts are crucial for prompt action. Several EWS have used rainfall thresholds to trigger alerts12. The system warns against potential soil erosion risks when rainfall exceeds a certain threshold. Sensors and satellite-based technologies are commonly used for monitoring. Remote sensing is suitable for tracking land cover changes and identifying vulnerable areas.",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use monitoring",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use monitoring_qna_000",
+      "value": 1
+    }
+  ]
+}

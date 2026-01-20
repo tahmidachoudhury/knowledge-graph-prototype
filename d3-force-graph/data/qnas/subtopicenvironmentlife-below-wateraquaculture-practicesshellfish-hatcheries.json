@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries",
+      "label": "Shellfish hatcheries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is a detailed assessment of juvenile COTS growth needed?",
+      "answer": "A detailed assessment of their growth is needed due to their remarkable growth plasticity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Unless cohorts are monitored from settle - ment, the plasticity of growth in response to environmental conditions complicates the aging of juvenile echinoderms (Byrne et al. 2021). The ontogenetic changes in juvenile COTS from the 5-armed stellate to the multiarmed disk morphology is described in Byrne et al. (2024b). Given their remarkable growth plasticity, a detailed assessment of their growth is needed. To document their development and transition to a coral diet, juvenile COTS have been reared in laboratory studies (Deaker et al. 2020a, b; Johansson et al. 2016; Lucas 1984; Neil et al. 2022; Yamaguchi 1973, 1974). Two of these studies documented growth from metamorphosis through the herbivorous juvenile stage using changes in total diameter and arm number as metrics (Yamaguchi 1973, 1974; Lucas 1984). Yamaguchi (1973) followed the growth of 14 juve- niles for five months and Lucas (1984) documented develop- ment of 6 herbivorous stage juveniles for over a year. We built on previous rearing studies (Yamaguchi 1973, 1974; Lucas 1984; Byrne et al.",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Shellfish hatcheries",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the goal of identifying new growth markers or traits in juvenile COTS?",
+      "answer": "The goal was to find markers or traits that varied regularly over time, similar to aging methods used for other marine invertebrates.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2024b) in documenting development of a large laboratory population of juveniles from settlement and metamorphosis to the advanced her - bivorous juvenile. Studies on juvenile COTS have used the number of arms and diameter as individual traits to charac- terise growth (Deaker et al. 2020a, b; Lucas 1984; Wilmes et al. 2020a; Yamaguchi 1973, 1974; Zann et al. 1987). However, as single-trait growth markers, their application is limited in advanced juveniles because diameter reaches growth stasis on an algal diet (Deaker et al. 2020a) and the number of arms reaches a maximum with no subsequent additions to mark growth (Yamaguchi 1973). In addition to these two traits, we quantified ontogenetic change in traits not previously quantified (e.g. spine type, number) over time in juveniles of known age, from settlement to 300 days age. We sought to identify markers/traits either individually or in combination that varied regularly over time as used in aging methods for other marine invertebrates (Peharda et al. 2018; Sun et al. 2019).",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Shellfish hatcheries",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the deposited eggs handled in the study?",
+      "answer": "Deposited eggs were collected daily and transferred, separated by female, to small glass vials until hatching.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Therefore, females were kept individually in translucent plastic pots (1 L) covered with gauze. They were provided sucrose solution and fresh flowers for adult feeding, and leaves of Rumex acetosa as oviposition substrate. Deposited eggs were collected daily and transferred, separated by female, to small glass vials kept in one climate cabinet at 22 C (70% humidity, L19:D5 throughout) until hatching (Panasonic MIR-554). Hatchlings were fed on field-collected R. acetosa leaves under the same conditions for 4 days, after which they were allocated to treatments. Experimental design On day 5 after hatching, larvae were individually transferred to transparent plastic boxes (250 ml) lined with moist tissue and containing a fresh cutting of R. acetosa. Larvae were randomly allocated to one out of four treatments, using a split-brood design. We employed a full-factorial design with two rearing temperatures and two host plant treatments. Rearing temperatures had a mean of 19.2 C (light phase 20 C, dark phase 16 C; L19:D5 photoperiod) or 25.2 C (light phase 26 C, dark phase 22 C), and we used one climate cabinet per temperature (Panasonic MIR-554).",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Shellfish hatcheries",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Shellfish hatcheries_qna_002",
+      "value": 1
+    }
+  ]
+}

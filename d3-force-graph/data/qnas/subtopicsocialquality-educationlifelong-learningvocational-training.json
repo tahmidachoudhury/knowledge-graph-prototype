@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Vocational training",
+      "label": "Vocational training",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Vocational training_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why do many apparel industry jobs not require formal training?",
+      "answer": "Many apparel industry jobs are considered \"unskilled\" because workers often receive informal training from their parents as children before entering the workforce.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652618327872",
+      "paragraph": "",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning",
+      "subtopic": "Vocational training",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Lifelong learning|Vocational training",
+      "target": "Subtopic:Social|Quality education|Lifelong learning|Vocational training_qna_000",
+      "value": 1
+    }
+  ]
+}

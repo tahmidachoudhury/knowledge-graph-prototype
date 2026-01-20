@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction",
+      "label": "Fleet capacity reduction",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What will be quantified in this study regarding capacity loss?",
+      "answer": "The interactions between two phenomena causing capacity loss will be quantified in this study.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The interactions between these two phenomena causing capacity loss will be quantified in this study. An additional outcome of the unique model study is to provide velocity data for use as boundary conditions and validation data for numerical modelling. The combined sets of experiments can serve as material for evaluating CFD methods and codes for design, redesign and evaluation of hydropower infrastructure. Method The discharge over an ogee-crested spillway is given by24: Q=CLH3/2 (1) where Q is the discharge, C is the spillway S discharge coefficient, L is the spillway length and H is the total head over the spillway crest. To correct for contraction losses occurring at the corner of the abutment and inlet of the spillway, the standard design approach involves taking a reduced effective spillway length, given by: Le =L (nKH ), where L is the uncorrected length, n is the number of corners and K is a contraction loss coefficient. A commonly used contraction coefficient is found in the handbook of Creager and Justin25, namely K=0.1. The effect is illustrated in Fig. 2a, where the full length of the spillway is not utilized due to the sharp corner, which causes a contraction loss.",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Fleet capacity reduction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What effect do fleet-related measures have on emissions in the evaluated policy packages?",
+      "answer": "When fleet-related measures are included along with activity-related measures, emissions can be reduced to 0.4 million tonnes of CO2 equivalents, showing a significant decrease of 94.2%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Fleet capacity reduction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the average size reduction of daily and monthly files compared to the original VP files?",
+      "answer": "Daily files were on average 25% of the original VP file size, and monthly files were 6%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This format defines all measurements, facilitating standardized data exchange. While this process removes some meta - data, it does not reduce the amount of data records, nor does it statistically aggregate data. BALTRAD_VPTS data from 2018 to 2023 were converted using the Python package vptstools33 as part of an operational service. All other data were converted using the R package bioRad34,35 (see Fig. 1). We first created daily CSV files per radar (298 498 files) and then concatenated and gzipped these into monthly csv.gz files (10 991 files). The VPTS files are more storage efficient than the VP files, allowing faster downloads and analyses. For the same time period, daily files were on average 25% of the original VP file size, monthly files 6%. Long-term archiving. Finally, we performed a data format validation on all VPTS data using the Python library frictionless-py36 (see Technical Validation) and archived the monthly-packaged data on Zenodo, a free-to-use, general-purpose research repository. One deposit was created for each source (BALTRAD and UvA). Fig.",
+      "macrotopic": "Life below water",
+      "topic": "Overfishing control",
+      "subtopic": "Fleet capacity reduction",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction",
+      "target": "Subtopic:Environment|Life below water|Overfishing control|Fleet capacity reduction_qna_002",
+      "value": 1
+    }
+  ]
+}

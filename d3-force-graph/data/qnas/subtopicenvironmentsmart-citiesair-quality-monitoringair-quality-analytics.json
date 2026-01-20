@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics",
+      "label": "Air quality analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of revenue share did the air quality/clean energy segment represent among the top 20 environmental firms in 2022?",
+      "answer": "The air quality/clean energy segment represented 79.4% of the revenue share among the top 20 environmental firms in 2022.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Theoretical studies on imperfectly competitive environmental industries have not paid sufficient attention to transboundary pollution. In open economy settings 1 See Eurostat Statistics Explained: Environmental Economy-Statistics on Employment and Growth (Eurostat 2024). In the European Union, the environmental goods and services sector S gross value added exceeded 340 billion in 2020. 2 See Environmental Business International (2023). The total revenue of environmental industries in the United States exceeded $500 billion in 2022. 3 Rubin and Powers (2023) report the top 20 environmental firms revenue share in 2022 in the segments of air quality/clean energy (79.4%), hazardous waste (84.5%), wastewater treatment (73.5%), and envi- ronmental management (65.5%). 4 See Policy Instruments for the Environment (PINE) Database (OECD 2024) for information on envi- ronmental policy instruments. As of July 2024, the number of environmentally beneficial subsidies and payments in OECD countries was 682, whereas the number of taxes and fees was 963. 5 If subsidies are not available, emission taxes deviate from the Pigouvian level to simultaneously cor - rect pollution externalities and imperfect competition (Canton et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What methodology does the study use to analyze air quality and pollution hotspots?",
+      "answer": "The study analyzes air quality data in conjunction with mapping pollution hotspots, particularly considering the exacerbating effects of heatwaves.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Urban sprawl poses significant challenges, including pollution, urban heat stress, and biodiversity loss, necessitating proactive solutions for climate adaptation and urban resilience. This study presents an integrated methodological approach to identify urban hotspots of combined environmental pressures in the Athens Metropolitan Area (AMA), a densely populated region experiencing heightened climate vulnerabilities. Utilizing satellite data, numerical models, and geospatial analysis, the study focuses on three main urban pressures: urban heat, air pollution, and lack of green urban areas (GUAs). The approach offers a comprehensive spatial and temporal assessment of Land Surface Temperature (LST) to identify urban heat islands (UHI). Concurrently, air quality data are analyzed to map pollution hotspots, considering the exacerbating effects of heatwaves. The accessibility and distribution of GUAs are evaluated through the 15-min city concept, highlighting areas deficient in green spaces. The combined data-driven hotspot mapping facilitates the identification of the most vulnerable urban sites, providing essential insights for policy and decision-makers. The proposed methodology's adaptability allows for its application across various research disciplines and spatial scales, enhancing urban resilience through targeted interventions, such as Nature-based Solutions (NbS).",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methodology was used in the study to analyze the aerosol composition at the single-particle level?",
+      "answer": "The study employed a single-particle mass spectrometer that detects and profiles individual particles by using laser pulses for ion formation, providing insights into the chemical composition relevant to environmental and health effects.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For comparison, the results for marine gas oil are presented in Supplementary Material (Fig. S1). Size distributions are shown in Fig. S2. At a 20 kW load, the mass spectra before (Fig. 1(a), up) and after (Fig. 1(a), down) the scrubber are highly compa- rable. Since the same number of particles is analyzed before and after the scrubber, the mass spectra reveal changes in aerosol composition but not the reduction in particle number concentrations (25% at 20 kW and 38% at 60 kW load; for details, see [11]). Therefore, a slight signal reduction across the entire spectrum after the scrubber may be attributed to instrument performance. The HSO4 peak shows a small increase, but due to saturation effects in this mass channel, the SO3 signal serves as a more reliable indicator of sulfate content, and it is also reduced. The spectra show no sig- nals of water-soluble organic acids, which can be detected in negative mode with single-particle mass spectrometers Fig.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality analytics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality analytics_qna_002",
+      "value": 1
+    }
+  ]
+}

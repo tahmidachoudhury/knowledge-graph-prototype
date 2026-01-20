@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Financial literacy",
+      "label": "Financial literacy",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Financial literacy_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is it important to understand citizens' financial inclinations and commitments within Transit-Oriented Developments (Tods)?",
+      "answer": "Understanding citizens' financial behaviours is crucial for formulating effective policies in Tods.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2590051X23000710",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "subtopic": "Financial literacy",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Finance accessibility|Financial literacy",
+      "target": "Subtopic:Social|No poverty|Finance accessibility|Financial literacy_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sewage discharge",
+      "label": "Sewage discharge",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Sewage discharge_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does DEET potentially contaminate due to increased domestic usage?",
+      "answer": "DEET potentially contaminates the aquatic matrix, sewage channels, and municipal wastewater treatment plants.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Over 120 items have now been registered with the Environmental Protection Agency (EPA), including DEET as one of the ingredients, and these products are registered by around 30 distinct firms [5]. *Correspondence: S. Shanthakumar shanthakumar.s@vit.ac.in 1 Department of Environmental and Water Resources Engineering, School of Civil Engineering, Vellore Institute of Technology (VIT), Vellore 632014, India 2 Centre for Clean Environment, Vellore Institute of Technology (VIT), Vellore 632014, India Ricky et al. Environmental Sciences Europe (2025) 37:36 DEET reaches the aquatic matrix due to its increased domestic usage (showering, laundry, and by other means of disposal of personal care products in the drainage channel), resulting in the contamination of the sewage channel with DEET, subsequently leading to its pres - ence in the municipal wastewater treatment plants [6]. The degradation observed in wastewater treatment pro - cedures exhibits significant variability, with reported removal rates ranging from 10 to 90% [7]. Numerous investigations have elucidated the possible neurotoxic and cardiotoxic effects associated with DEET, which can manifest as severe bradycardia, coma, encephalopa - thy, convulsions, and hypotension [8].",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Sewage discharge",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Sewage discharge",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Sewage discharge_qna_000",
+      "value": 1
+    }
+  ]
+}

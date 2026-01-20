@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety",
+      "label": "Radiation safety",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_000",
+      "group": "QnA",
+      "label": "Public health",
+      "question": "What is radon, and why is it a concern for public health?",
+      "answer": "Radon is a colorless, odorless radioactive gas produced from uranium decay in soil and rock, and it is the second leading cause of lung cancer after smoking, making it a significant public health concern.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Keywords Radon Climate change Temperatures Buildings Public health Introduction Climate change poses a critical global challenge with significant impacts on environmental health and indoor air quality, particularly regarding radon con- centrations in residential settings (Celik, 2020; Al Jassim et al., 2018). Radon, a colorless, odorless radi- oactive gas resulting from uranium decay in soil and rock, is the second leading cause of lung cancer after smoking (M kel inen et al., 2005; Celebi et al., 2015; Environmental Protection Agency, 2021; Kholopo et al., 2024; Mphaga et al., 2024a, 2024b). Under - standing the relationship between climate change and radon levels is essential for developing effective public health strategies. Radon accumulates in poorly ventilated areas, infiltrating homes through structural cracks, construction joints, and gaps around service P. C. Rathebe (*) K. V. Mphaga Department of Environmental Health, Faculty of Health Sciences, Doornfontein Campus, University of Johannesburg, P.O. Box 524, Johannesburg 2006, South Africa e-mail: prathebe@uj.ac.za K. V. Mphaga e-mail: mphagakv@gmail.com D. M. Masekameni Developmental Studies, School of Social Sciences, University of South Africa, Pretoria 3, South Africa e-mail: danielmasekameni@gmail.com Environ Monit Assess (2025) 197:446 446 Vol:.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Radiation safety",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of the examination process for irradiated materials at INL?",
+      "answer": "The purpose of the examination process is to inform the qualification of safer and more efficient nuclear fuels and materials.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " INL encompasses the full research and development cycle for nuclearmaterials, from conceptualizing and modeling of new fuel systems, to fabrication of novel fuels, fuel irradiation, and examination of the irradiated sam-ples to determine performance in extreme reactorenvironments, all to inform quali cation of safer and more ef cient nuclear fuels and materials. AT INL, the PIE work ow generally begins with shipping the irradiated material, whether from INL S Advanced Test Reactor 27or Transient Reactor Test Facility, 28, 29to the Material and Fuels Com- plex S (MFC) Hot Fuels Examination Facility (HFEF),30where they can undergo initial examina- tion within the hot cell, rst with nondestructivetechniques. The capabilities at MFC can examine highly radioactive samples from the engineering scale down to the langstrom scale. Once examina-tions at HFEF are complete, samples can be sec-tioned into smaller samples to isolate regions of interest and reduce the radiation dose rates before being repackaged and sent to other specializedexamination facilities. One of these facilities is the Irradiated Materials Characterization Laboratory (IMCL), which houses a variety of instruments forPIE for nuclear materials, including micro-X-ray computed tomography (XCT).",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Radiation safety",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do gamma rays affect plant cells?",
+      "answer": "Gamma rays can produce free radicals through their interaction with atoms and molecules in plant cells, which can harm essential components and influence various aspects of plant biology, such as morphology, anatomy, biochemistry, and physiology.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Gamma rays are electromagnetic radiation, commonly used as mutagens due to their ease of application, good penetration, reproducibility, high mutation frequency, and fewer disposal problems [9]. Gamma rays biologi - cal effect is dependent on their interaction with atoms or molecules in the cell, notably water, which produces free radicals [10]. These radicals can harm or disrupt essen - tial components of plant cells and have been documented to influence the morphology, anatomy, biochemistry, and physiology of plants in different ways depending on the radiation dose [11]. These impacts include changes in the plants cellular structure and metabolism, such as dilata - tion of thylakoid membranes, variation in photosynthesis, modulation of the antioxidant system, and accumulation of phenolic chemicals [12]. Low-dose ionizing irradiation on plants manifests as accelerated cell proliferation, ger - mination rate, cell growth, enzyme activity, stress resist - ance, and crop yields [13]. Gamma irradiation is more effective for improving the qualities and self-life of grains and fruits and can increase genetic diversity for tradi - tional breeding to scrutinize new genotypes with better traits, such as stress tolerance, grain yield, and quality [9].",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Radiation safety",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Radiation safety_qna_002",
+      "value": 1
+    }
+  ]
+}

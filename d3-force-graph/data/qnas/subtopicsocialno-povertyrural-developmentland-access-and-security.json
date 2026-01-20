@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Land access and security",
+      "label": "Land access and security",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Rural development"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Land access and security_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the significance of Spatial Differentiation in rural areas according to the themes identified?",
+      "answer": "Spatial Differentiation was identified as a key theme in rural areas, highlighting the impact of spatial conditions on the environment and societal features.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Land access and security",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Rural development|Land access and security_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How do stakeholders in Greek rural areas perceive the issue of spatial differentiation and its impact on land use and management systems?",
+      "answer": "Stakeholders in Greek rural areas view spatial differentiation as a key topic for discussion due to the continuously changing slope and its visual impact on the landscape resulting from land uses and management systems.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Rural development",
+      "subtopic": "Land access and security",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Land access and security",
+      "target": "Subtopic:Social|No poverty|Rural development|Land access and security_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Rural development|Land access and security",
+      "target": "Subtopic:Social|No poverty|Rural development|Land access and security_qna_001",
+      "value": 1
+    }
+  ]
+}

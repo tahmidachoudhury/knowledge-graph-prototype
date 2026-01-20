@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil tillage reduction",
+      "label": "Soil tillage reduction",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil tillage reduction_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What sampling method was used to collect the soil cores during the study?",
+      "answer": "A custom-made drill for undisturbed sampling of cylindrical soil cores encased in a stiff 5 mm PE sleeve was used.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The soil is regularly ploughed to a depth of 30 cm and labelled as cropland in the following. The second soil was sampled from a grassland research station in Gie en and referred to as grassland (latitude N50 32 , longitude E8 41 , elevation 172 m a.s.l.). The soil was a flu - vic Gleysol with a clay loam texture, soil organic carbon contents of 4.42% and a pH of 6.71. The soil organic matter (SOM) content of the grassland soil was higher (4.46%) and the bulk density lower (1.0 g cm-3) compared to the cropland soil with SOC contents of 1.21% and a bulk density of 1.3 g cm-3, respectively (Rohe et al. 2021 ). More details about the field site can be found in Rohe et al. ( 2021 ). During sampling in late summer of 2022, a custom-made drill for undisturbed sampling of cylindrical soil cores (UGT GmbH, Germany) was used to take undisturbed samples (encased in a stiff 5 mm PE sleeve, Fig. 1). On each field site, five undis - turbed cores (10 cm height, 10 cm ) were taken from 5 to 15 cm depth.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil tillage reduction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil tillage reduction_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do simplified cropping systems affect soil quality?",
+      "answer": "Simplified cropping systems may degrade soil quality due to losses in soil organic carbon and nitrogen.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 17 (Degani et al. 2019; Gaudin et al. 2015; Lin 2011; Reck - ling et al. 2022), and provide yield benefits under various growing conditions (Angus et al. 2015; Bowles et al. 2020; Jarecki et al. 2018). Diversifying cropping systems can enhance resilience by suppressing pests, improving soil fertility, and enhancing beneficial soil biota (Bennett et al. 2012; Linton et al. 2020; McDaniel et al. 2014; Tiemann et al. 2015; Tilman et al. 2014), while also attenuating the adverse effects caused by variable weather (Roesch-McNally et al. 2018). Conversely, simplified cropping systems may degrade soil quality due to losses in soil organic carbon and N (Bardgett and van der Putten 2014). Crop diversification, especially with pulse crops, often leads to N fertility improvement (Lin 2011; Ochieng et al. 2020). The study by Sanford et al. (2021) suggested that the enhanced resilience of diversified crop - ping systems may be linked to gradual improvements in soil health over time.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil tillage reduction",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil tillage reduction",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil tillage reduction_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil tillage reduction",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil tillage reduction_qna_001",
+      "value": 1
+    }
+  ]
+}

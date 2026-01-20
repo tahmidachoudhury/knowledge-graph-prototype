@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation",
+      "label": "Public consultation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the levels of participation in the co-production process as distinguished in the paragraph?",
+      "answer": "The levels of participation range from limited consultation in developing background knowledge to proposing actual solutions and taking responsibility for implementing them.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Research funded by the Finnish Strategic Research Council (SRC) provides an interesting study case and a source of insights on co-production of knowledge because the SRC has had an explicit goal to foster new and deepertypes of science-policy interaction. The creation of the Strategic Research Council (SRC) in 2015 was an inno- vative decision to fund research with the explicit aim ofgenerating strategic knowledge through interaction with stakeholders. It represented a rst step in theinstitutionalisation of knowledge co-production by pro- viding competitive research the operationalisation of knowledge co-production (Miller and Wyborn 2020 ; Norstro m et al. 2020 ). Sustainability research stresses interactions between different forms of knowledge. This underlines an instrumental use ofknowledge co-production (Apetrei et al. 2021 ), although co-production can also be seen as process for democracy and deeper (Mode 1) transdisciplinarity (Rigolot 2020 ). Distinctions can also be made at the level of participation of the different actors in the co-production process (Hurl- bert and Gupta 2015 ) ranging from limited consultation in developing background knowledge and insights of a problem, to proposing actual solutions and taking respon-sibility for implementing them.",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Public consultation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How could multilevel cooperation be best initiated for larger urban development projects according to the recommendations?",
+      "answer": "The recommendations suggest that local governments are in the best position to engage in multilevel cooperation when initiating larger urban development projects.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2210422423001181",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Public consultation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Public consultation_qna_001",
+      "value": 1
+    }
+  ]
+}

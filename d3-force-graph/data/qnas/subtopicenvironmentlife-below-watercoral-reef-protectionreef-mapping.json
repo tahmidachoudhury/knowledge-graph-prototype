@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping",
+      "label": "Reef mapping",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How far from the top of the limestone cliff were the surveys conducted?",
+      "answer": "Surveys were conducted between 50 and 100 meters from the top of the cliff.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 25 35 m), well-developed leaf litter with shallow soils, and sparse distribution of standing water bod- ies. In an attempt to increase detection to permissible levels in order to capture a broad range of species without causing over-parameterization of the models data were collected at two locations within this habitat and subsequently pooled. Surveys in edge habitat (MH3) were conducted in second- ary growth forest found between 50 and 100 m from top of a steep limestone cliff that rises from the northern banks of Fig. 1 Map of the Americas, showing the location of Parque Nacional Laguna del Tigre within Guatemala. Red box indicates area shown in Fig. 2. Due to the curvature of the map the scale shown is representative of the scale at the equator. Map adapted from D-Maps.com Fig. 2 Map of the south-east region of Parque Nacional Laguna del Tigre showing the location of transects indicated by coloured lines: Orange = Disturbed Habitat MH1; Yellow and Red = Forest Habitat MH2; Blue = Edge Habitat MH3. The two rivers are the San Pedro River flowing east to west, and the Sacluc River flowing south to north.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Reef mapping",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What methods were used to assess the current distribution of Gongolaria barbata?",
+      "answer": "The current distribution was established through an extensive survey conducted by snorkelling along approximately 30 km of coastline, along with GIS analysis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Severe decline of Gongolaria barbata (Fucales) along most of the French Mediterranean coast Aur lie Blanfun , Charles-Fran ois Boudouresque, Marc Verlaque & Thierry Thibaut In the Mediterranean Sea, seaweed marine forests, one of the most important benthic assemblages for the coastal ecosystem functioning, are shaping the rocky reefs. Among the Fucales, Gongolaria barbata (syn. Cystoseira barbata ) is a several years living species usually growing in very shallow, sheltered and well-lit marine reef habitats and in coastal lagoons. The long-term change in its distribution in relation to a variety of disturbances has been assessed along the French Mediterranean coast, including Corsica and brackish lagoons, thanks to historical data dating back to the 19th century The current distribution was established through an extensive survey conducted by snorkelling, encompassing approximately 3 0 km of coastline. A GIS analysis indicates that Gongolaria barbata can currently be considered as regionally extinct in French Catalonia and Western Provence and functionally extinct in the French Riviera. In Languedoc, the species is extinct in the open sea and only present in certain brackish lagoons despite severe repeated anoxic crises ( mala gues ) and competition with a rich exotic flora introduced from the NE Atlantic and NW Pacific, especially the invasive Sargassum muticum.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Reef mapping",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How were the locations of Gongolaria barbata recorded during the field work?",
+      "answer": "All the G. barbata populations were geolocalised and recorded on 1:2 500 maps.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fabre (FABR); Mus e et Jardins Botaniques Cantonaux MJBC (LAU): Herbarium de Lausanne and Herbier Ducommun. Gongolaria barbata was found in Herbaria as Cystoseira hoppei C. Agardh, C. barbata var. hoppei (C. Agardh) J. Agardh and C. barbata f. hoppei (C. Agardh) Woronichin, C. barbata (Stackhouse) C. Agardh, C. barbata f. aurantia (K tzing) Giaccone and C. barbata f. repens A.D. Zinova & Kalugina. Field work The current distribution of G. barbata was investigated by field surveys conducted between 2007 and 2016, along the entire French Mediterranean coastline (~ 30 km of shoreline measured on a map with a 1:2 500 scale). The suitable habitat (very shallow sheltered upper sublittoral rocky zone) of G. barbata have been previously identified and selected on aerial photographs (Google Earth ) in order to optimize the field surveys. The upper littoral zone was explored by snorkelling. All the G. barbata populations were geolocalised and recorded on 1:2 500 maps. GIS analyses Each location (past or present) of Gongolaria barbata along the French Mediterranean coast was geolocalised and the past and present distribution patterns were analyzed on a GIS (Geographical Information System) database (ArcGis10).",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Reef mapping",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Reef mapping_qna_002",
+      "value": 1
+    }
+  ]
+}

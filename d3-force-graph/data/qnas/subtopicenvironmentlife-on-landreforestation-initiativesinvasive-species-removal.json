@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal",
+      "label": "Invasive species removal",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the purpose of displacing aquatic macrophytes, sand, and boulders during the sampling?",
+      "answer": "The purpose was to dislodge macroinvertebrates that might be attached to the mentioned substrates.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The following habitats were sampled along a 100 m transect for each sample: pools, bedrock, littoral/riparian vegetation/macrophytes, stones in current, stones out of current and rapids/riffles, gravel, sand and mud for a total time of 8 min. The net was fully immersed in the aquatic environment, and the collection of macroinvertebrates was conducted by systematically sweeping a designated area. The methodology encompassed the act of traversing the water while utilising a sampling net, and employing forceful movements to displace aquatic macrophytes, sand, and boulders. This action was undertaken with the purpose of dislodging macroinvertebrates that might be attached to the mentioned substrates. To avoid the potential escape of active macroinvertebrates, the net was expeditiously retrieved from the water column. The macroinvertebrates were afterwards transferred into a 500 mL plastic container and preserved in 70% ethanol solution. Macroinvertebrates were then taken to the laboratory for identification up to genus and/or species level in most instances following Fry27 identification guides. Data analysis Sediment metal, nutrient concentrations and water environmental variables (with the exception of pH) were log transformed to test for homogeneity of variances and normality.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Invasive species removal",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the primary cause of biodiversity loss as indicated in the document?",
+      "answer": "The primary cause of biodiversity loss includes direct human drivers such as greenhouse gas emissions from fossil fuel combustion, habitat conversion, pollution, and the introduction of invasive species.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Costa Rica and France lead the High Ambition Coalition for Nature and People1 106 are key members of the Beyond Oil and Gas Alliance ¹07 and have been leading voices in the campaign for universal recognition of the right to a healthy environment. In recent months, the right to a healthy environment has been used by communities to block offshore oil and gas activities in Argentina and South Africa, because of the potential impacts on marine mammals. The right was used to compel governments in Indonesia and South Africa to take action to improve air quality and to stop an ill-advised coal-fired power project in Kenya. The right was used to protect forests from mining in Ecuador and to eliminate the use of a bee-killing pesticide in Costa Rica. Climate lawsuits drawing upon the right to a healthy environment are occurring all over the world, and research indicates they are more likely to be successful than not 108 Although not legally binding, the UN resolution is expected to accelerate action to address the global environmental crisis, just as UN resolutions on the right to water in 2010 turbocharged progress in delivering safe water to millions of people.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Invasive species removal",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Invasive species removal_qna_001",
+      "value": 1
+    }
+  ]
+}

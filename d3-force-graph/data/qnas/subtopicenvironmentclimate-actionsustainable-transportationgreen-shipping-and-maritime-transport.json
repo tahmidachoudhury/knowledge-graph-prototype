@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport",
+      "label": "Green shipping and maritime transport",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the three-step risk assessment method developed for the ship recycling sector contribute to enhancing safety?",
+      "answer": "The three-step risk assessment method developed for the ship recycling sector helps in identifying potential hazards, evaluating risks, and implementing control measures to enhance safety and mitigate environmental impacts in the ship recycling industry.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2405844023085602",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Green shipping and maritime transport",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What is the key message conveyed in the \"Collaborative Progress: Clean Cargo Working Group (CCWG) 2015 Progress Report\" by BSR?",
+      "answer": "The key message is about the progress made by the Clean Cargo Working Group in their 2015 progress report.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652618327872",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Green shipping and maritime transport",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is LPG considered a clean and environmentally friendly fuel?",
+      "answer": "LPG is considered a clean and environmentally friendly fuel because it is a co-product of oil refining and natural gas conversion, characterized by high availability. It helps lower vehicle maintenance costs, reduce emissions, and fuel costs compared to conventional petrol and diesel oil.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/370705198_Temporal_PROMETHEE_II_-_New_multi-criteria_approach_to_sustainable_management_of_alternative_fuels_consumption",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Green shipping and maritime transport",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Green shipping and maritime transport_qna_002",
+      "value": 1
+    }
+  ]
+}

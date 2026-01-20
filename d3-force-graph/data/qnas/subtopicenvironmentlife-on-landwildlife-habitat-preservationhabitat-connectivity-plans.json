@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans",
+      "label": "Habitat connectivity plans",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How are amphibian populations expected to be structured?",
+      "answer": "Amphibian populations are expected to be locally structured due to their weak dispersal ability and occupation of specific, sometimes disconnected habitats.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2016; Camacho-S inchez et al. 2020; Sunde et al. 2020; Zimmerman et al. 2020; Dufresnes et al. 2023a). Genomic datasets obtained from double digest Restriction Associ- ated DNA sequencing (RAD-seq; Peterson et al. 2012) or sequence-capture methods (Hutter et al. 2022; de Visser et al. 2024) offer far greater resolving power to distinguish 363 Conservation Genetics (2025) 26:361 379 lineages and the structure therein, to accurately delineate their geographic boundaries, to quantify the extent of admix- ture, and to estimate population genetic diversity with fewer samples (Lexer et al. 2013; Vences et al. 2024). Although significantly improving the accuracy of infer - ences, the shift from genetic to genomic methods poses chal- lenges (Shaffer et al. 2015; Vences et al. 2024). Amphibian species are relatively weak dispersers among vertebrates (maximum a few kilometers per generation) and only occupy specific, sometimes disconnected habitats (Cayuela et al. 2020). Amphibian populations are thus expected to be locally structured, and analyses of thousands of loci may eventually recover every surveyed population as a distinct genetic cluster.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat connectivity plans",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of habitat do breeding lapwings need to find suitable foraging patches according to the paragraph?",
+      "answer": "Breeding lapwings need to explore larger areas, including well-managed restored wetlands and summer crops, to find suitable foraging patches.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Home ranges of lapwings breeding in croplands were larger and significantly more cohesive than those of birds breeding in wetlands, suggesting a need to explore larger areas to find suitable foraging patches. The dual nesting and feeding strategy highlighted the crucial importance of both wetlands and, unexpectedly, summer crops for this species of conservation concern. To provide suit - able habitat for breeding lapwings, restored wetlands must be well managed and attention should be given to intrafield heterogeneity, possibly increasing bare ground patches. Keywords Vanellus vanellus Italy Reproduction Animal movement ecology GPS WetlandsReceived: 3 July 2024 / Revised: 11 February 2025 / Accepted: 12 February 2025 The Author(s) 2025Habitat selection of the threatened northern lapwing ( Vanellus vanellus breeding in an intensive agroecosystem Devon Cevenini1,2 Jacopo G. Cecere2 Federico De Pascalis2 Roberto Tinarelli3 Vojt ch Kubelka4 Lorenzo Serra2 Andrea Pilastro1 Giacomo Assandri2,5 13 European Journal of Wildlife Research (2025) 71:30 al. 2016 ). Moreover, human land use and land reclamation have strongly reduced the extent and worsened the ecologi - cal conditions of wetlands in most agricultural landscapes (Gardner et al.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife habitat preservation",
+      "subtopic": "Habitat connectivity plans",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans",
+      "target": "Subtopic:Environment|Life on land|Wildlife habitat preservation|Habitat connectivity plans_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification",
+      "label": "Role of alkalinity in mitigating acidification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is it important to integrate engineering knowledge with natural methods in CO2 management?",
+      "answer": "It is essential to effectively handle the raising CO2 levels amid the challenges in enhancing microalgae assimilation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Although there are various efforts to enhance microalgae assimilation through genetic engineering or improvements of cultivation technologies (both closed Department of Chemical Technology, Faculty of Science, Chulalongkorn University, Pathumwan, Bangkok 10330, Thailand. 2Center of Excellence in Catalysis for Bioenergy and Renewable Chemicals (CBRC), Faculty of Science, Chulalongkorn University, Pathumwan, Bangkok 10330, Thailand. email: pichaya.i@chula.ac.th OPEN Scientific Reports www.nature.com/scientificreports and open systems), challenges persist, particularly concerning costs associated with downstream biorefinery processes5. Consequently, it is essential to investigate and develop additional technologies, integrating engineering knowledge with natural methods, to effectively handle the raising CO2 level. Over the past decades, Carbon Capture, Utilization, and Storage (CCUS) technologies have been developed to tackle CO2 emissions. Among them, an amine-based absorption is a prominent method for CO2 post- combustion capture from industrial flue gases and other point sources9. This technology demonstrates a high CO2 capture rate and efficiency compared to alternative methods (e.g. adsorption, membrane, and cryogenic processes)5,9. Furthermore, it can also be integrated with existing infrastructure, facilitating their adoption as a viable mitigation strategy in carbon management frameworks10.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Role of alkalinity in mitigating acidification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the risks associated with using high alkalinity and corrosive amine solutions in the proposed microalgae integration process?",
+      "answer": "The high alkalinity and corrosiveness of the amine solution may be toxic to the microalgae cells, potentially affecting growth and system performance.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Despite these advantages, the amine-based CO2 capture still faces significant challenges, particularly on energy-intensive solvent regeneration, leading to substantial heat input and high operational cost10,11. Over 57 70% of the total energy requirement in the amine-based CO2 capture process accounts for the solvent regeneration12. Additionally, solvent degradation and corrosion issues can affect system performance and longevity13. With the mentioned issues, this research explores an alternative method for amine regeneration by integrating a biological microalgae process, eliminating the limitation of amine-based absorption and microalgae5,14,15. The amine can evade the CO2 loss to the atmosphere during the cultivation and the dissolved CO2 can be disposed by photosynthesis process in microalgae cells using bicarbonate (HCO3 as a carbon source, eradicating energy for regeneration of the amine solution. After that, the amine solution can be recycled for further CO2 capture within absorption unit 14, 15. However, the high alkalinity and the corrosive of the amine solution may be toxic to the cells. Hence, combining both processes could elevate CO2 capture capability if the level of amine solvents usage is acceptable for microalgae growth14.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Role of alkalinity in mitigating acidification",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Role of alkalinity in mitigating acidification_qna_001",
+      "value": 1
+    }
+  ]
+}

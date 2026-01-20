@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification",
+      "label": "Photocatalytic purification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the process of (MLCT) facilitate in relation to TiO2?",
+      "answer": "The process of (MLCT) facilitates the rapid movement of photo-electric charges toward TiO2, which exceeds electron recombination using the oxidized dye component.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The limited absorption of (MLCT) band, in addition to the expensive expenditure on Ru (II) complexes, are common problems despite their increased efficiency [ 6]. The remarkable light-harvesting and durability properties associated with such photosensitizers can be ascribed to a process called (MLCT), which facilitates the rapid movement of photo - electric charges toward TiO2, exceeding electron recombina - tion using the oxidized dye component, rather than passing through the circuit [ 7, 8]. Moreover, metal-free organic sen - sitizers are preferred over Ru (II)-based sensitizers because of their numerous advantages, including versatile structure, economical manufacture, and enhanced molar extinction coefficients, which facilitate intramolecular charge transfer (ICT) between an electron-rich donor and an anchoring sec - tion via the use of a -spacer when light is absorbed [ 9, 10]. Co-sensitization is considered a promising technique for boosting the efficiency of DSSCs. The approach described above involves incorporating organic sensitizers (providing visible light) coupled with Ru (II) complexes (producing near-infrared light) to achieve extensive spectrum sensitiv - ity within the region of visible light and to enhance light absorption [ 11].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Photocatalytic purification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of coordination modes allow N3 dye to attach to titanium surfaces?",
+      "answer": "Unidentate, bridging bidentate, and chelating are the three types of coordination modes that enable the carboxylate groups of N3 dye to chemically attach to titanium surfaces.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The following are expected to satisfy the requirements for improved DSSC performance. The photo - voltaic performance is enhanced when DSSCs are co-sensi - tized rather than when only one sensitizer is used [ 12, 13]. The reasons for this include the lack of dye aggregation, low charge recombination, and high molar extinction coeffi - cients, all of which allow the cell to absorb as many incom - ing photons as possible. Co-sensitizers, to fill in the surface area that the larger sensitizers leave behind, should be on the smaller side [ 14]. A popular adsorption sensitizer on nanocrystalline TiO2 surfaces for collecting and transport - ing photoelectrons is the ruthenium complex, also known as N3 dye. Unidentate, bridging bidentate, and chelating are three types of coordination modes that allow the carboxyl - ate groups of N3 dye to chemically attach themselves to the surface of titanium. The N3 dye has been widely proven to possess a higher photovoltaic performance. Furthermore, the mesoporous structure of the nanocrystalline TiO2 anode played an essential role in promoting dye diffusion and adsorption, facilitating incident light flow and brightness, and increasing the efficiency of electron transmission.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Photocatalytic purification",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Photocatalytic purification_qna_001",
+      "value": 1
+    }
+  ]
+}

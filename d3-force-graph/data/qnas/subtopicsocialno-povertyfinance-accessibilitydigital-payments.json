@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Digital payments",
+      "label": "Digital payments",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Digital payments_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can blockchain-based platforms benefit small businesses in Africa?",
+      "answer": "Blockchain-based platforms offer opportunities for small businesses and entrepreneurs to expand access to financial services through methods like accepting payments in cryptocurrencies and providing microcredits, which are typically more accessible to larger businesses in traditional banking systems.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "subtopic": "Digital payments",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Finance accessibility|Digital payments",
+      "target": "Subtopic:Social|No poverty|Finance accessibility|Digital payments_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance",
+      "label": "Agriculture microfinance",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the main outputs that Somalia depends on for export?",
+      "answer": "Somalia depends heavily on the export of agricultural and livestock products.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " A few studies, including Warsame et al.32, on the renewable energy-environmental degradation nexus in Somalia have failed to consider trade openness. The country depends heavily on the export of agricultural and livestock products, and most consumed goods are imported. In addition, to infer consistent outcomes, this empirical study uses various econometric techniques, including unit root analysis, bounds testing, the Johansen cointegration approach, the autoregressive distributed lag (ARDL) model, dynamic OLS, and variance decomposition. Finally, the findings can inform evidence-based policies that align economic progress with environmental protection, thus charting a course towards a more sustainable future for Somalia. The remainder of this paper is structured as follows. The second section reviews related theoretical and empirical literature. In the third section, the methodology details the research approach, data collection, and analytical methods. The fourth section presents the results and discusses outcomes. Finally, the study concludes with relevant policy suggestions. Theoretical and empirical literature Theoretically, the literature relies on the pollution haven hypothesis PHH and the factor endowment hypothesis FEH to explain the association between trade openness and the environment8,36.",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Agriculture microfinance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What role does financial support play in the livestock production according to the review?",
+      "answer": "Financial support has enabled production in the livestock sector but can also create a culture of dependency that limits innovation.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract How do agricultural policies in the EU need to change to increase the sustainability of livestock production, and what meas- ures could encourage sustainable practices whilst minimising trade-offs? Addressing such questions is crucial to ensure progress towards proclaimed targets whilst moving production levels to planetary boundaries. However, a lack of available evidence on the impacts of recent policies hinders developments in this direction. In this review, we address this knowledge gap, by collating and evaluating recent policy analyses, using three complementary frameworks. The review highlights that recent policy reforms, and especially those of the Common Agricultural Policy, have had a large impact on the sustainability of the livestock sector by contributing to intensification and simplification. This has often resulted in negative impacts (e.g. on greenhouse gas emissions and animal welfare) and while financial support has enabled production, it can also lead to a culture of dependency that limits innovation. At the same time, a lack of regulation and concrete targets, and low levels of stakeholder engagement in policy design have led to delays in the delivery of sustainability objectives.",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Agriculture microfinance",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance",
+      "target": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance",
+      "target": "Subtopic:Social|No poverty|Microfinance|Agriculture microfinance_qna_001",
+      "value": 1
+    }
+  ]
+}

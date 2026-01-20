@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types",
+      "label": "Hydropower plant types",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Why is hydropower-based power expansion predominant in industrial countries, except for Belgium, the Netherlands, and South Africa?",
+      "answer": "Hydropower-based power expansion is predominant in industrial countries due to its high efficiency and reliability. However, Belgium, the Netherlands, and South Africa opt for solar and wind power due to their favourable environmental conditions for these renewable sources.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant types",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which type of renewable energy source has the highest average installed capacity in most countries?",
+      "answer": "Hydropower has the highest average installed capacity in most countries over a 10-year period.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant types",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of China's large-scale hydropower system according to Feng et al. (2019)?",
+      "answer": "According to Feng et al. (2019), China's large-scale hydropower system has unique operation characteristics and presents modelling challenges, along with possibilities for dimensionality reduction.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Hydropower plant types",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Hydropower plant types_qna_002",
+      "value": 1
+    }
+  ]
+}

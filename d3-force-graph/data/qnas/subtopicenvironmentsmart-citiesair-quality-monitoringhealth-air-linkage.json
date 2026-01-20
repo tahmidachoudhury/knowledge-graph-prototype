@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Health-air linkage",
+      "label": "Health-air linkage",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Health-air linkage_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What link is suggested between ecosystem and human health?",
+      "answer": "The paragraph suggests that measuring various parameters can help understand the linkage between ecosystem health and human health.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " coliforms, algae, pH, nutrients, chemical compounds, and ecosystem services). Measuring these parameters should be incorporated into future stud- ies to allow an understanding of the linkage of ecosystem and human health. Keywords Aquatic freshwater ecosystems Health assessment Health indicators Human health Communicated by Michael Joy. * Fanny G. De Carvalho fanny.decarvalho@toulouse-inp.fr 1 Centre de Recherche sur la Biodiversit et I Environnement (CRBE, UMR 5300), CNRS, IRD, Toulouse INP, Universit de Toulouse, Toulouse, France 2 CERPOP UMR1295, Inserm-Universit de Toulouse, Toulouse, France 724 Biodiversity and Conservation (2025) 34:723 767 Introduction Humanity is an integral part of the global life-support system. This system provides many different resources and services, named ecosystem services, without which the existence of any life would be impossible. Ecosystem services represent all outputs or processes pro- vided by an ecosystem that directly or indirectly benefit humans, most prominently clean air and drinking water (Millenium Ecosystem Assessment 2005). They are classified into four categories: provisioning, regulating, supporting, and cultural ecosystem services.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Health-air linkage",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Health-air linkage_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to the paragraph, what did Fosten (2019) find concerning the relationship between emissions and economic activity in the short run?",
+      "answer": "Fosten (2019) concluded that emissions are not linked to economic activity in the short run (one month), but there are strong linkages when looking at cycles of length one to three years.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " There is a wide agreement about the link of CO 2emissions and economic activity; see, for example, Dong et al. ( 2020 ) and Economic activity and CO 2emissions in Spain 1381 is analysed by Esteve and Tamarit ( 2012a ,b), Sephton and Mann ( 2013 ), Balaguer and Cantavella ( 2016 ), and Moutinho et al. ( 2017 ), among others. In general, models tting the EKC show very diverse evidence. Alternatively, Fosten ( 2019 ) focuses away from the long-run EKC and analyses the short-to-medium run impact of economic activity on CO 2emissions. In the context of the US, Fosten ( 2019 ) proposes a factor-augmented regression model to repre- sent short-to-medium run relationship between seasonally-adjusted monthly growth r a e so ft o t a IC O 2emissions and economic activity, which is represented by a single factor extracted using Principal Components (PC) from a set of macroeconomic vari-ables. He concludes that emissions are not linked to economic activity in the short-run (one month) but nds strong linkages when looking at cycles uncovered at time- scales of length one to three years.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Health-air linkage",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Health-air linkage",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Health-air linkage_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Health-air linkage",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Health-air linkage_qna_001",
+      "value": 1
+    }
+  ]
+}

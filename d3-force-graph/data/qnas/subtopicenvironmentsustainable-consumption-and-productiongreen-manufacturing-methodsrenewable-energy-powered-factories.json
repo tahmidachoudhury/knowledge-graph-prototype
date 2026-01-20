@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Renewable energy-powered factories",
+      "label": "Renewable energy-powered factories",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Renewable energy-powered factories_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does Factory A perform in terms of energy consumption compared to Factory B and Factory C?",
+      "answer": "Factory A scores 10 points for energy consumption, while Factory B scores 10 points as well, and Factory C scores 10 points too.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0959652623010582",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "subtopic": "Renewable energy-powered factories",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Renewable energy-powered factories_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What factors influence Exlm and UKEF's ability to support renewable energy sector exports?",
+      "answer": "The factors include the extent of political control over the bureaucracy, the size and composition of green industrial bases, and the policy tools available to both ECAs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Achieving a clean energy transition requires global financial flows to be redirected away from fossil fuels and into renewable energy. While capital market actors and multilateral financial institutions have been the subject of significant scholarly attention, public bilat - eral financial institutions, especially Export Credit Agencies (ECAs), have been largely overlooked. This is an important oversight given ECAs are the source of billions of dollars of public finance for fossil fuels, which has helped to lock-in recipient countries to fossil fuel energy systems. Using a panel dataset of ECA transactions in the energy sector, we show that despite some improvements in financial flows after the Paris Agreement in 2015, fossil fuel investments remain pervasive and growth in clean energy investments is mini - mal. To better understand changes in ECA portfolios, we examine the cases of the Export- Import Bank of the United States (Exlm) and UK Export Finance (UKEF). Drawing on elite interviews, we identify three factors that are shaping Exlm S and UKEF S capacity to promote renewable energy exports: the extent of political control over the bureaucracy, the size and composition of green industrial bases, and the policy tools available to both ECAs to support the renewables sector.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green manufacturing methods",
+      "subtopic": "Renewable energy-powered factories",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Renewable energy-powered factories",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Renewable energy-powered factories_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Renewable energy-powered factories",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green manufacturing methods|Renewable energy-powered factories_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Afforestation and reforestation",
+      "label": "Afforestation and reforestation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Afforestation and reforestation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the cost range for planting trees to offset CO2 according to the report?",
+      "answer": "The cost range for planting trees to offset CO2 is between $0 and $240 per ton of CO2.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " REVIEWCurrent Sustainable/Renewable Energy Reports (2025) 12:6 https://doi.org/10.1007/s40518-25-252-1 Planting trees tends to be cheaper (ranging between $0 and $240 /t CO2 [3], as shown in Current Sustainable/Renewable Energy Reports (2025) 12:6 that stresses growing negative environmental effects when upscaling, particularly in the case of BECCS [ 12]. Second, Hollnaicher (2022) criticizes an overly high discount rate in the IAMs, which leads to an overestimation of CDR [ 13]. Third, the extent and originating sectors of so-called resid - ual emissions that are offset by CDR when countries reach net zero differ significantly in modeled scenario pathways [14 19]. Often residual emission estimates are not explic - itly defined in long-term national climate strategies, and for those countries that do define them, the level of residual emissions varies widely [ 16, 17]. Ambiguous amounts of residual emissions and the sectors in which these can take place lead to questions about responsible sectors or entities to deploy or pay for CDR [ 19]. Importantly, the emissions that are defined as residual come from notions of what is necessary and what is possible in the future, both of which are assumptions with political and justice implications [ 18].",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Afforestation and reforestation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon footprint reduction|Afforestation and reforestation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of total EU emissions do EU forests currently absorb?",
+      "answer": "EU forests currently absorb around 10% of the total EU emissions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The negative effect of drought is evidenced in P. pinea trees over 100-years old, while P. nigra showed a cumulative negative effect of drought for all ages. A lower effect of competition was recorded in the oldest trees in both forests. The interaction of competition with climate and tree age showed attenuated climate-mediated differences when competition was high. Keywords Climate influence Competition Pinus nigra Pinus pinea Standing biomass Tree age Introduction Forests play a main role in helping to mitigate the effects of anthropogenic climate change due to their ability to store substantial amounts of carbon (Gunn et al 2013). Currently, EU forests absorb around 10% of the total EU emissions (Korouso et al. 2023), thus being identified as natural solu- tions\" to climate change (Gonz lez et al. 2020). Among their mitigation strategies, EU policies include the retention of mature trees to assure carbon sequestration in the long-term. Thus, the conservation of old-growth forests is one strategy aimed at reducing net carbon dioxide emissions and mod- erate the influence of future climate change (Fraser et al.",
+      "macrotopic": "Climate action",
+      "topic": "Carbon footprint reduction",
+      "subtopic": "Afforestation and reforestation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Afforestation and reforestation",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Afforestation and reforestation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon footprint reduction|Afforestation and reforestation",
+      "target": "Subtopic:Environment|Climate action|Carbon footprint reduction|Afforestation and reforestation_qna_001",
+      "value": 1
+    }
+  ]
+}

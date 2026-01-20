@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine monitoring and diagnostics",
+      "label": "Wind turbine monitoring and diagnostics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine monitoring and diagnostics_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What methods have numerous researchers used to assess thermal fatigue and temperature fluctuations in T-sections?",
+      "answer": "Researchers have utilized the Power Spectral Density to quantify amplitude and Root Mean Square to quantify frequency of the fluctuations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As previously stated, engineers and researchers are becoming increasingly concerned with the mixing behaviours and temperature uctuations in the T-section because they can cause thermal fatigue and damage. Hence,a potential correlation could exist between uctuations intemperature and thermal fatigue. Furthermore, the degree of uctuation of temperature can serve as a qualitative indi- cator for estimating high-cycle thermal fatigue. Numerousresearchers have utilized the Power Spectral Density and Root Mean Square to quantify the amplitude and frequency of the uctuation, respectively, when assessing thermalfatigue and temperature uctuations in T-sections [ 6,13]. Based on the aforementioned mechanism and research approach, numerous researchers [ 14 16] reported that cram- ming porous medium in the interfacial zone was helpful inthe reduction of thermal uctuations in the T-section. The eld of uid solid coupling mechanics has experienced signi cant advancements in recent years. Researchers havebecome increasingly intrigued by the quantitative correlation that exists between temperature uctuations and high-cycle thermal fatigue [ 16 18]. Fluid structure interactions are the subject of scholarly investigation through both experimental methods and numerical simulation techniques [ 19 22]. Zughbi et al.",
+      "macrotopic": "Clean energy",
+      "topic": "Wind turbines",
+      "subtopic": "Wind turbine monitoring and diagnostics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine monitoring and diagnostics",
+      "target": "Subtopic:Environment|Clean energy|Wind turbines|Wind turbine monitoring and diagnostics_qna_000",
+      "value": 1
+    }
+  ]
+}

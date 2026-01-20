@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses",
+      "label": "Acidification effects on seagrasses",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific changes do S. japonica gametophytes undergo to acclimate to high seawater temperatures?",
+      "answer": "They undergo transformations of amino acids, changes in sugar metabolism, and intensification of the innate immune system.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Its adaptation to elevated seawater temperature is an example of securing the natural habitats of a species. To decipher the mechanisms underlining S. japonica adaptation to relative high seawater temperature, we assembled ~ 516.3 Mb female gametophyte genome and ~ 540.3 Mb of the male, respectively. The gametophytes isolated from southern China kelp cultivars acclimated to the relative high seawater temperature by transforming amino acids, glycosylating protein, maintaining osmotic pressure, intensifying the innate immune system, and exhausting energy and reduction power through the PEP-pyruvate-oxaloacetate node and the iodine cycle. They adapted to the relative high seawater temperature by transforming amino acids, changing sugar metabolism and intensifying innate immune system. The sex of S. japonica was determined by HMG-sex , and around this male gametophyte determiner the stress tolerant genes become linked to or associated with. Keywords Saccharina japonica , High seawater temperature, Acclimation, Adaptation, Genome assembly, Genome wide association analysis, Transcriptomic analysisMechanisms underlining Kelp ( Saccharina japonica adaptation to relative high seawater temperature Li Guo1, Xiaojie Li2, Shuxiu Chen3, Yan Li2, Weiwei Wang3, Shiju Luo2, Liming Jiang2,4, Hang Liu1, Xiaohui Pan1, Yanan Zong1, Leili Feng1, Fuli Liu1,5, Linan Zhang6, Guiqi Bi7 and Guanpin Yang1,5,8,9* Guo et al.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification effects on seagrasses",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What specific effects on communities are less understood in relation to seagrass meadows?",
+      "answer": "The specific effects of fragmentation and edge effects on epifaunal and infaunal communities are less understood.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Both groups play key 1Grupo en Biodiversidad y Conservaci n (BIOCON), ECOAQUA, Universidad de Las Palmas de Gran Canaria, Canary Islands 35017, Spain. 2Department of Biological and Environmental Sciences, University of Gothenburg, Kristineberg, Sweden. 3MARE Marine and Environmental Sciences Centre/ARNET Aquatic Research Network, Ag ncia Regional para o Desenvolvimento da Investiga o Tecnologia e Inova o (ARDITI), Funchal, Portugal. 4Rodrigo Riera and Joana Vasconcelos contributed equally to this work. email: eduardo.infantes@marine.gu.se; joanapatricia.reis@ulpgc.es OPEN Scientific Reports www.nature.com/scientificreports roles in benthic food webs, connecting primary producers with higher trophic levels and serving as bioindicators of environmental stress30,31. Although the impacts of fragmentation and edge effects in seagrass meadows are well-documented, less is known about their specific effects on epifaunal and infaunal communities18,32,33. Previous research has often studied these communities separately, without fully examining the role of fragmentation in shaping their structure and dynamics32,34. This study addresses this gap by analyzing how edge effects vary in seagrass meadows with different fragmentation levels, with a particular focus on epifaunal and infaunal communities.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification effects on seagrasses",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do bryophytes react to changes in their environment?",
+      "answer": "Bryophytes take up nutrients over their whole leaf surface area and can react quickly to environmental changes, which may be influenced by the conditions created by fast- or slow-growing vascular plant communities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Experimental studies are needed to test this but the effect of vascular plant richness on bryophytes has only rarely been investigated in experiments manipulating vascular plant species number 31,32. Changes in the functional composition of vascular plants following nitrogen enrichment could also influence bryophytes. A key axis of vascular plant functional composition variation is the leaf economics spectrum 33,34, distinguishing fast from slow growth strategy, which can be represented by traits such as specific leaf area (SLA) 35. Fast-growing communities with a high mean SLA are adapted to nutrient-rich conditions and might therefore produce more biomass, which in turn reduces light availability. However, fast vascular plant communities also have more rapidly decomposing litter and thus less organic material buildup on the ground 36, which might benefit bryophytes. Slow vascular plant species are well adapted to drought 30 and could thus provide a moister microclimate in summer which might facilitate bryophyte survival during dry periods. Because bryophytes take up nutrients over the whole surface area of their leaves, they react quickly to changes in their environments 37 and could be influenced by the conditions that fast- or slow-growing vascular plant communities produce.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification effects on seagrasses",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification effects on seagrasses_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts",
+      "label": "Acidification impacts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do the direct effects of individual drivers of biodiversity loss compare to their indirect effects?",
+      "answer": "The direct effects of individual drivers have been intensively studied, while the knowledge on indirect effects and interactions among drivers is still limited.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Keywords Biodiversity conservation Butterfly Eutrophication Global change Plant herbivore interaction Introduction In the current era, biodiversity is strongly threatened by global environmental change, which involves a variety of human-induced drivers (Pereira et al. 2012 ; Ceballos et al. 2015; Johnson et al. 2017; Wagner 2020). These drivers may directly or indirectly affect biodiversity, and may addition- ally interact with one another (Oliver and Morecroft 2014; Jackson et al. 2016; Gunderson et al. 2017; Hamann et al. 2021). While the direct effects of individual drivers have been quite intensively studied, our knowledge on indirect effects and interactions among drivers is still limited (Oliver and Morecroft 2014; Sage 2020; Wagner 2020; Kuczyk et al. 2021a). Important drivers of biodiversity loss are agricultural intensification and anthropogenic climate change (Pereira et al. 2012; Ceballos et al. 2015; WallisDeVries and Van Swaay 2017). With regard to agricultural intensification, adverse effects of eutrophication on species richness have been widely documented for plants (Bobbink et al. 2010; Stevens et al.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification impacts",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What are some of the environmental impacts associated with the production and consumption of UFDs?",
+      "answer": "Production and consumption of UFDs determine 26% of total greenhouse gas emissions, 70% of freshwater withdrawals, and 78% of marine and freshwater eutrophication, leading to soil and surface water acidification, loss of biodiversity, and air pollution.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0002916523624207ect",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification impacts",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the environmental impact differences between the highest and lowest quartiles of UPF consumption?",
+      "answer": "Compared to low UPF consumption, higher UPF consumption was statistically significantly inversely associated with blue water (_x0002_13.6%), GHG emissions (_x0002_7.7%), acid?cation (_x0002_7.2%), marine water eutrophication (_x0002_5.4%), freshwater eutrophication (_x0002_5.3%), and land use (_x0002_3.0%).",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0002916523624207ect",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification impacts",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidification impacts_qna_002",
+      "value": 1
+    }
+  ]
+}

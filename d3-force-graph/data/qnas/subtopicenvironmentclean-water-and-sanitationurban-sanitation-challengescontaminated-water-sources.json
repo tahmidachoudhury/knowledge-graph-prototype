@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources",
+      "label": "Contaminated water sources",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the UNEP unintentional POP inventory toolkit focus on?",
+      "answer": "The UNEP unintentional POP inventory toolkit contains a dedicated chapter on contaminated sites, highlighting the significance of historic reservoirs and releases of unintentionally produced POPs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Also, many high income countries have disposed POPs containing municipal waste largely in landfills until recently and some coun tries, such as Australia, New Zealand, and the US with limited waste destruction capacity, still dispose POPs containing waste to landfills [46, 167, 184, 189, 362]. Therefore, municipal landfills are joining chemical landfills as reservoirs of POPs and other PBTs albeit at a lower pollution inventory for individual sites, but they represent a large overall inventory considering the hundreds of thousands of landfills including those that predate modern environmental regulations, and which do not have lining and caping systems and waste is not isolated from the surrounding environment [29]. Whilst in the frame of the Stockholm Convention POPs inventories are developed, e.g., for polychlorin ated biphenyls (PCBs) in transformers and capaci tors or PBDEs in electronic waste, the POPs disposed to landfills or in contaminated sites are normally not quantified with some exemptions like large pesticide landfills [234, 294, 349, 351]. Inventories of uninten tionally produced POPs, such as PCDD/PCDF, are largely developed as release inventories for specific years [86, 354] and mostly do not consider the historic reservoirs and releases with a few exemptions [198, 289, 361], although the UNEP unintentional POP inventory toolkit contains a dedicated chapter on contaminated sites [311].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Contaminated water sources",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is a major source of DEET pollution in water systems?",
+      "answer": "A major source of DEET pollution in water systems is its significant use in personal care products and applications in agriculture.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The consump - tion of DEET at large doses has also been observed to exhibit fatal toxicity. A recent study reported that there is a significant correlation between DEET and increased levels of serum uric acid in the human population and the occurrence of several chronic ailments, including gout, diabetes, hypertension, and chronic renal illnesses [9]. Conventional municipal treatment plants are not designed to handle this type of pollutant. Due to its low log Kd (dissociation constant) value of 1.91, only a mini - mum proportion of DEET can be adsorbed into waste - water sludge, soils, and landfills [10]. This results in the migration of DEET into the aquatic environment, and the detected concentration range varies from ng/L to mg/L. The early documentation of DEET detection in fresh - water environments occurred throughout the 1990s in American and European regions. Due to the significant use of DEET in personal care products (PCPs) and their application in agriculture, the presence of DEET in waste - water, surface water, and groundwater has been observed [3, 11].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Contaminated water sources",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What are some of the threats to the quality of water resources worldwide according to the cited sources?",
+      "answer": "The quality of water resources is threatened by processes along watercourses, including geogenic processes and human activities as mentioned by Scott et al. (2017) and Mishra and Sharma (2021).",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723018297",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Contaminated water sources",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Contaminated water sources_qna_002",
+      "value": 1
+    }
+  ]
+}

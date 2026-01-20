@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Startup support",
+      "label": "Startup support",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Startup support_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How did the flexibility of innovators in tech start-ups and scale-ups enable them to become change agents in the innovation system?",
+      "answer": "Innovators' flexibility allowed them to redirect their development trajectories, potentially challenging the dominance of large companies and governments in the innovation system.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0016328723001738",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Startup support",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Startup support_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How do tech start-ups and scale-ups contradict common big tech statements?",
+      "answer": "Tech start-ups and scale-ups contradict common big tech statements by adopting locally and socially driven business models, such as giving revenues or connecting to local entrepreneurs or community initiatives, instead of prioritizing privacy first.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0016328723001738",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Startup support",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Startup support",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Startup support_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Startup support",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Startup support_qna_001",
+      "value": 1
+    }
+  ]
+}

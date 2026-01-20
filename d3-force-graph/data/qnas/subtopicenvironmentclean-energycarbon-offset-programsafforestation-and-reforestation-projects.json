@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects",
+      "label": "Afforestation and reforestation projects",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Which natural strategy for controlling CO2 concentration is mentioned in the paragraph?",
+      "answer": "Afforestation is mentioned as a natural strategy for controlling CO2 concentration by utilizing natural enzymes in the photosynthesis process.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This study triggers a new exploration of integration between biological and chemical processes that could elevate the traditional amine-based CO2 capture capabilities. Nevertheless, pilot-scale investigations are necessary to confirm the biocomposites S efficiency. Currently, the climate change situation presents a significant threat to both human societies and natural ecosystems. The ongoing increase in atmospheric carbon dioxide (CO2) level, driven primarily by anthropogenic activities such as fossil fuel combustion, deforestation, and industrial processes, is a primary cause of global warming. IPCC (2023) indicated that global CO2 emissions surpassed 36.8 Gt/yr1, leading to atmospheric CO2 concentration exceeding 420 ppm1 1, substantially higher than pre-industrial levels of approximately 280 ppm. This escalation in greenhouse gases has led to numerous adverse environmental impacts, including more frequent and severe weather events, rising sea level, and biodiversity loss2. Due to this problem, several research studies have been ongoing to investigate both natural and engineered approaches for addressing this issue. Afforestation is one of the strategies for controlling CO2 concentration by utilizing natural enzymes in photosynthesis process2. However, due to a low CO2 capture rate of these organisms, the CO2 removal by agricultural plants is account for only 3 6% of total fossil fuel emissions3.",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Afforestation and reforestation projects",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the potential advantage of using microalgae for CO2 sequestration compared to traditional afforestation?",
+      "answer": "Microalgae can capture CO2 10 to 50 times more efficiently than terrestrial plants, thus reducing the extensive land use required for traditional afforestation practices.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Afforestation for production of bioenergy with carbon capture and storage (BECCS) requires up to 25 75% of global cropland area to achieve the 1.5 C Paris Agreement target4, which negatively affected biodiversity, food and water security, and human existence2. To address the land area issue, considerable attention has been directed towards improving CO2 removal efficiency using microalgae, as it is known to be an intensified alternative than planting trees. There are many researchers who have been interested in microalgal process, accounting the number of publications on microalgae-based CO2 sequestration has steadily grown, exceeding 4,0 articles5. Microalgae, unicellular eukaryotic organisms, can be a solution to eliminate the extensive land use6 with their potential to capture CO2 10 50 times higher than terrestrial plants through photosynthesis by utilizing sunlight, nutrients, and carbon sources7. Moreover, the microalgae process is known for an extra benefit to produce value- added products from its biomass, such as biofuels, cosmetics, nutritional supplements, agricultural products, and pharmaceutical products8. Nevertheless, the current CO2 sequestration situation of microalgae still faces an enormous quantity of CO2 emitted from numerous sources.",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Afforestation and reforestation projects",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Afforestation and reforestation projects_qna_001",
+      "value": 1
+    }
+  ]
+}

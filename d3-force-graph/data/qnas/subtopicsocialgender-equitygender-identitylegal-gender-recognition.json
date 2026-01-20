@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Gender identity|Legal gender recognition",
+      "label": "Legal gender recognition",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Gender identity"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Gender identity|Legal gender recognition_qna_000",
+      "group": "QnA",
+      "label": "Methods",
+      "question": "What technique was used to verify the gender of the gametophyte clones?",
+      "answer": "The gender of the gametophyte clones was verified using sex-specific microsatellite alleles and sex-unique morphological characteristics.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Materials and methods Isolation and biomass amplification of Kelp gametophytes The gametophytes were isolated from mature kelp sporo - phytes with the method we described early [ 6, 10]. The gametophyte clones were maintained at Kelp Species and Elite Variety Center, Shandong Oriental Ocean Sci-tech, Yantai, Shandong, China. The biomass of gametophyte clones was amplified with the method we described early [10]. The gender of the gametophyte clones was verified with sex-specific microsatellite alleles and sex-unique morphological characteristics as we did early [ 20, 21]. Contig assembling Gametophyte clones, female and male each, ~ 100 mg in wet weight, were collected separately through brief cen - trifugation, ground into fine powders in liquid nitrogen, and transferred into a pre-chilled centrifugation tube. Genomic DNA was isolated with CTAB method. The whole genomes of S. japonica male and female gametophytes were sequenced separately with the SMRT sequencing technology. The high-quality reads were assembled into contigs using falcon (v0.2.0), and the errors in the primarily assembled contigs were identified and corrected with the arrow tool. The genomic DNA was used also to construct the short fragment library which was then sequenced on Illumina platform, and used to correct the errors in contigs.",
+      "macrotopic": "Gender equity",
+      "topic": "Gender identity",
+      "subtopic": "Legal gender recognition",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Gender identity|Legal gender recognition",
+      "target": "Subtopic:Social|Gender equity|Gender identity|Legal gender recognition_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Protected forest zones",
+      "label": "Protected forest zones",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Protected forest zones_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of the High Forest Zone (HFZ) in relation to biodiversity and conservation?",
+      "answer": "The High Forest Zone (HFZ) is part of the West African Guinean Forest biodiversity hotspot, recognized for its dense tropical rainforests and abundant biodiversity, which are crucial for conservation strategies and carbon sequestration efforts associated with the global REDD+ initiative.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Ghana provides an excellent setting for such a case study due to its abundant forestresources and troublingly high deforestation rate, which is currently estimated at 3.2% per annum and one of the highest in the world (FAO 2020 ; Nukpezah and Alemagi 2020 ). Ghana S economic development and the livelihoods of its smallholder communities are heavily reliant on agri- culture, particularly cocoa production which accounts forapproximately 4% of the national Gross Domestic Product (GDP) and provides livelihoods for approximately six million people, or roughly 30% of the country S population (Arhin 2015 ; Olwig et al. 2024 ). However, recent economic growth, driven primarily by the cocoa industry, has had detrimental impacts on the country S forest resources and land degradation, particularly across the cocoa forest land- scapes in the High Forest Zone (HFZ) (Brobbey et al. 2020 ; Government of Ghana 2016 ; Nasser et al. 2020 ; Olwig et al. 2024 ). The HFZ, which is part of the West African Guinean Forest biodiversity hotspot, is distinguished by its dense tropical rainforests and abundant biodiversity, which arecritical for conservation strategies and carbon sequestration efforts associated with the global REDD +initiative (Car- odenuto 2019 ; FAO 2020 ; Nukpezah and Alemagi 2020 ).",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Protected forest zones",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Deforestation prevention|Protected forest zones_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of forests are found in Arunachal Pradesh?",
+      "answer": "Arunachal Pradesh is home to tropical rainforests, subtropical pine forests, and temperate and alpine vegetation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This unique location makes it a cultural and geographical treasure, rich in natural beauty and heritage. Global recognition acknowledges the state S rich biodiversity and complex ecological zones shaped by its unique geographic and topographic landscape30. The region harbours different types of forest, including tropical rainforests, subtropical pine forests, and temperate and alpine vegetation31. Scientific Reports These forests are home to an abundance of flora and fauna, with over 500 species of orchids, 650 bird species and numerous endemic plant and animal species32. The climate in Arunachal Pradesh changes significantly across the state due to altitude and monsoon patterns. The lowlands have a subtropical climate, while higher areas experience temperate and alpine climates with rainfall reaching up to 3000 5000 mm in some places. The soils of Arunachal Pradesh typically exhibit an acidic nature, accompanied by elevated organic matter levels, constrained nutrient availability, and limited cation exchange capacity33. This wide climatic variation creates diverse habitats making it an ideal area for ecological and environmental studies34. Previous study has indicated that the altitudinal gradient of hilly regions is characterized by climate variability, which impacts the edaphic properties35.",
+      "macrotopic": "Life on land",
+      "topic": "Deforestation prevention",
+      "subtopic": "Protected forest zones",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Protected forest zones",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Protected forest zones_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Deforestation prevention|Protected forest zones",
+      "target": "Subtopic:Environment|Life on land|Deforestation prevention|Protected forest zones_qna_001",
+      "value": 1
+    }
+  ]
+}

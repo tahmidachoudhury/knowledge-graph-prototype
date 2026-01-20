@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "label": "Carbon emission reduction",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What is carbon lock-in, and how does it hinder efforts to reduce greenhouse gas emissions?",
+      "answer": "Carbon lock-in refers to dependence on high-carbon technologies and infrastructure, hindering efforts to transition to low-carbon alternatives.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Carbon emission reduction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What approach did Capo rale et al. use to analyse the relationship between CO2 emissions and GDP in China?",
+      "answer": "G.M. Capo rale, G. Claudio-Quiroga, and L.A. Gillan used a fractional integration and cointegration approach to analyse the relationship between CO2 emissions and GDP in China.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2211467X24000282",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Carbon emission reduction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does the CO2 Subnets curve concept relate to environmental policymaking?",
+      "answer": "The CO2 Subnets curve concept suggests that initially, economic growth leads to an increase in CO2 emissions, but eventually, as the economy develops, emissions decrease. This can inform environmental policymaking strategies.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S146290112300120X?via%3Dihub",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Carbon emission reduction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the relationship between industrialization and CO2 emissions as discussed in the paragraph?",
+      "answer": "The paragraph states that growth in the economy attributed to industrialization and manufacturing leads to increased energy consumption, which subsequently raises CO2 emissions.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Russia is a promising case study of economic drivers of environmental pollution, since it is a resource-abundant state with a vast territory andremarkable environmental pressure in several industrial centers. 123 Annals of Operations Research (2025) 345:665 683 667 This is a qualitative and quantitative research that concentrates on the case of Russia. The common knowledge is that any growth in economy attributed to industrialization landmanufacturing increases energy consumption and, hence, CO 2emissions (Dogan & Seker, 2016b ) .T h n C e a ei nC O 2emissions is likely to increase climatic changes: speci cally, global warming. In this manner, it is critical to understand what climate, economic andenvironment-related organizations say about Russian economic growth, and how it affectsenergy consumption and CO 2emissions levels (Berardi, 2015 ). The empirical approach aims to investigate the nexus among CO 2emissions, energy use, and ta GDP in Russia using annual data for years 1990 2017, showing results of stationarity and structural breaks tests, the Johansen and Juselius (JJ) cointegration approach, and the Toda and Yamamoto (TY)causality test.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Carbon emission reduction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What relationship does the paper analyze in Spain?",
+      "answer": "The paper analyzes the short-run relationship between economic activity and CO2 emissions in Spain.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " In this paper, we analyse the short-run relationship between economic activity and CO 2emissions in Spain, by tting a SADFM to annual rates of growth of Spanish CO 2 emissions with the factors extracted by 2SKF from a large set of Spanish macroeco-nomic variables. 2SKF is an unsupervised factor extraction procedure, which combinesinformation contained in all macroeconomic variables independently from the target variable. Additionally, we also consider factor extraction orientated towards pre- diction of the rate of growth of CO 2emissions. In particular, we extract factors using partial least squares (PLS) as proposed by Wold ( 1966 ). We conclude that the explana- tory power of selected economic variables is larger than that of common economic factors when the latter are extracted using the 2SKF procedure. However, the pre-dictive power of the common factors increases when they are extracted using PLS. We nd that the PLS common factors recover some explanatory power for explaining CO 2emissions beyond the information content of the selected individual economic indicators. Our results somehow differ from those found by Bennedsen et al. ( 2021 ) for the US economy as the outstanding predictors for CO 2emissions in Spain are private consumption and maritime transport of merchandise, while theirs rely more on IP .",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Carbon emission reduction",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Carbon emission reduction_qna_004",
+      "value": 1
+    }
+  ]
+}

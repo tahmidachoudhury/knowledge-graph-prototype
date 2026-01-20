@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Data-driven waste management policies",
+      "label": "Data-driven waste management policies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Data-driven waste management policies_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How do data-centric policies contribute to the waste management strategies in this phase?",
+      "answer": "Data-centric policies target the reuse level by advocating for the right to repair and certifications of high-quality repair, as well as proposing criteria to distinguish waste and regulate waste export at the recycling level.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0921344924000533",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "subtopic": "Data-driven waste management policies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Waste management|Data-driven waste management policies",
+      "target": "Subtopic:Environment|Smart cities|Waste management|Data-driven waste management policies_qna_000",
+      "value": 1
+    }
+  ]
+}

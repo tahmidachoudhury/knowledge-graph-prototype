@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols",
+      "label": "Quality assurance protocols",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_000",
+      "group": "QnA",
+      "label": "Methodology",
+      "question": "What methodology is mentioned in the paper for analyzing the case study?",
+      "answer": "Protocol analysis and guided expert interviews.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Here, in addition to the individual position of the actors within the network, both the qualities of the individual relationships and the overall structure of the network are visible and can beanalyzed. The paper is structured as follows: In the following section The Governance of MSIs , the theoretical frame- work regarding the governance of MSIs is developed and implemented using the case study of a German MSI in the cocoa and chocolate sector, the German Initiative on Sus-tainable Cocoa (GISCO). The initiative is introduced (sec- tion The German Initiative on Sustainable Cocoa Case Study ) and the methods of protocol analysis and guided expert interviews are outlined (section Methodology ). This is followed by a presentation of the empirical results (section Results ). The paper then ends with a concluding summary (section Conclusion ). The Governance of MSIs As a starting point for the conceptualization, Vangen et al. (2015 : 1244) de ne the governance of cross-sectoral col- laborations, which include MSIs: The governance of a collaborative entity entails the design and use of a structureand processes that enable actors to direct, coordinate and allocate resources for the collaboration as a whole and to account for its activities.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Quality assurance protocols",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How was the sediment sample prepared before being sent for further analysis to BEMLAB?",
+      "answer": "A sediment subsample of 0.5 kg was separated from the homogenized dried sediment samples and sent to BEMLAB for further analysis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Samples were quickly placed in an ice filled cooler box and transported to the University of Mpumalanga laboratory for further processing. In the laboratory, the sediment samples were oven dried at 60 C for 72 h to a constant weight before being disaggregated in a porcelain mortar. The dried sediment samples were then homogenised using a riffle splitter, and thereafter, a sediment subsample of 0.5 kg was separated and sent to BEMLAB, Cape Town, for further analysis. The following elements were analysed on the sediment samples: Scientific Reports sediment pH (sedpH), resistivity (sedRes), stone, phosphorus (sedP), potassium (K), calcium (Ca), magnesium (Mg), sodium (Na), copper (Cu), zinc (Zn), manganese (Mn), boron (B), iron (Fe), sediment organic carbon (SOC), and sulphur (S) were quantified for each site and season using an inductively coupled plasma atomic emission spectroscopy (ICPMS) instrument (see Rice26 for detailed methodology). Macroinvertebrate sampling Macroinvertebrate samples ( n = 2 per site) were collected from the 16 river sites across the 2 seasons using a standardised handheld kick net (frame 30 cm 30 cm, mesh size 500 m, handle 1.5 m).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Quality assurance protocols",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to determine the protein concentration in the samples?",
+      "answer": "The Bradford method (1976) was used to determine the protein concentration in the samples using a Bio-Rad protein assay kit with bovine gamma globulin as a standard.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The homogenate was centrifuged for 5 min at 9000 rpm at 4 C, and the supernatant was then centrifuged again at 54,0 rpm (TLAA55, Optima-Beckman, Indianapolis, USA) for 30 min at 4 C. To separate the soluble and Scientific Reports membrane fractions. Each sample after ultracentrifugation therefore gives two fractions, a supernatant called soluble fraction and a pellet called membrane fraction. The protein concentration was determined according to the Bradford method (1976) using a Bio-Rad protein assay kit with bovine gamma globulin as a standard. For each sample, 20 g was transferred to 0.5 mL polypropylene Protein LoBind Eppendorf tubes and precipitated via the chloroform-methanol method (Wessel and Flugge 1984). To solubilize the proteins, 20 L of 100 mM TEAB, pH 8.5 (triethylammonium bicarbonate) containing 0.5% RapiGest surfactant (Waters, Milford, USA), was added. In-solution trypsin digestion The proteins were then reduced with 5 mM DTT (dithiothreitol) and alkylated with 15 mM iodoacetamide. The samples were diluted five times with 20 L of 100 mM TEAB, pH 8.5. Proteolysis was performed with 1 g of Sequencing Grade trypsin (Promega, Madison, USA) and was continued overnight at 37 C. Each sample was dried under vacuum with an RVC 2 25 Martin Christ Concentrator (Martin Christ Instrument Inc., Osterode, Germany) and stored at -80 C. 2.5 Peptide separation using nanoUPLC.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Quality assurance protocols",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Quality assurance protocols_qna_002",
+      "value": 1
+    }
+  ]
+}

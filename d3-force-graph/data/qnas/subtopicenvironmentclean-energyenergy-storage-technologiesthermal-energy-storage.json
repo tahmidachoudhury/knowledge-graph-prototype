@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Thermal energy storage",
+      "label": "Thermal energy storage",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Thermal energy storage_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What technologies were evaluated for their impact on energy consumption in the paragraph?",
+      "answer": "The technologies evaluated include Building Energy Management Systems (BEMS), Phase Change Materials (PCM), Solar PV, and Ground Heat Pumps (GHP).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Studies have evaluated the impact of Building Energy Management Systems (BEMS), Phase Change Materials (PCM), Solar PV , and Ground Heat Pumps (GHP) on energy consumption, demonstrating that photovoltaic panels can significantly meet electricity needs25,26. For instance, Noorollahi et al.27 used solar collectors and thermal storage with particle swarm optimization for optimal energy self-sustainability. Advances in autonomous technology have spurred interest in zero-energy, sustainable, and green buildings, leading to new design concepts and assessment systems28 30. Energy Internet of Things technology has been used in autonomous buildings to collect energy consumption data for analysis and reduction of building energy consumption30,31. Rahim Zahedi et al. used green roof technology to effectively reduce heat loss from roofs and walls, saving 54.95% in winter and 76.11% in summer32. The use of energy-autonomous technology (EAT) in independent public toilets means that they rely as little as possible on external power or heat supply and that they reasonably select appropriate renewable energy sources to replace external energy supply based on their energy demand, resulting in a balance between energy supply and demand33,34.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Thermal energy storage",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Thermal energy storage_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What specific technology did Noorollahi et al. use for optimal energy self-sustainability?",
+      "answer": "Noorollahi et al. used solar collectors and thermal storage with particle swarm optimization for optimal energy self-sustainability.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Studies have evaluated the impact of Building Energy Management Systems (BEMS), Phase Change Materials (PCM), Solar PV , and Ground Heat Pumps (GHP) on energy consumption, demonstrating that photovoltaic panels can significantly meet electricity needs25,26. For instance, Noorollahi et al.27 used solar collectors and thermal storage with particle swarm optimization for optimal energy self-sustainability. Advances in autonomous technology have spurred interest in zero-energy, sustainable, and green buildings, leading to new design concepts and assessment systems28 30. Energy Internet of Things technology has been used in autonomous buildings to collect energy consumption data for analysis and reduction of building energy consumption30,31. Rahim Zahedi et al. used green roof technology to effectively reduce heat loss from roofs and walls, saving 54.95% in winter and 76.11% in summer32. The use of energy-autonomous technology (EAT) in independent public toilets means that they rely as little as possible on external power or heat supply and that they reasonably select appropriate renewable energy sources to replace external energy supply based on their energy demand, resulting in a balance between energy supply and demand33,34.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Thermal energy storage",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Thermal energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Thermal energy storage_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Thermal energy storage",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Thermal energy storage_qna_001",
+      "value": 1
+    }
+  ]
+}

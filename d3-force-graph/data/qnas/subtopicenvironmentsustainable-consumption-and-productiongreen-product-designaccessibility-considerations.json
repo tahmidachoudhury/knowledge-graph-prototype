@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Accessibility considerations",
+      "label": "Accessibility considerations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Accessibility considerations_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can factors like affordability, functionality, and convenience impact the successful shift in consumer behaviour towards certain products?",
+      "answer": "These factors can influence consumer adoption by making products more accessible, practical, and easy to use in daily routines, thereby increasing the likelihood of sustained behaviour change.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S019566632302487X",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Accessibility considerations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Accessibility considerations_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors should be considered when developing products to launch in the UK to facilitate a shift in consumer behaviour?",
+      "answer": "Affordability, functionality, convenience, as well as environmental, ethical, and health benefits should be taken into account for successful product adoption in the UK market.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S019566632302487X",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Accessibility considerations",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Accessibility considerations",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Accessibility considerations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Accessibility considerations",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Accessibility considerations_qna_001",
+      "value": 1
+    }
+  ]
+}

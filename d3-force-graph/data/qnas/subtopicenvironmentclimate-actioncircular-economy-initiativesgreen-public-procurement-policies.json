@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Green public procurement policies",
+      "label": "Green public procurement policies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Green public procurement policies_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are the strategies for implementing circular economy, green technology, carbon tax, and water treatment technology at different levels of the supply chain in the textile and clothing industry?",
+      "answer": "Strategies for implementing circular economy, green technology, carbon tax, and water treatment technology involve establishing specific protocols, policies, and investments to promote environmental responsibility and efficiency across the supply chain.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652622052167",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Green public procurement policies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Green public procurement policies_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the focus of the EU strategy for sustainable and circular textiles?",
+      "answer": "The EU strategy for sustainable and circular textiles focuses on promoting eco-friendly practices in the textile industry, aiming to reduce its environmental impact.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0959652624004712",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Green public procurement policies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Green public procurement policies",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Green public procurement policies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Green public procurement policies",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Green public procurement policies_qna_001",
+      "value": 1
+    }
+  ]
+}

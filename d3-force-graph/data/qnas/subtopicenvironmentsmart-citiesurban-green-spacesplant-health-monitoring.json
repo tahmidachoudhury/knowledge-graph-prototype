@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Plant health monitoring",
+      "label": "Plant health monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Plant health monitoring_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What ecological indicator was assessed in the study to evaluate urban green space health?",
+      "answer": "The concentration of chlorophyll was assessed as a vital indicator of ecological health.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Urbanization is accelerating rapidly, highlighting the critical role of aligning with sustainable development goals, urban green and blue spaces (UGS and UBS). These spaces play a crucial role in enhancing the health and well-being of city residents in terms of ecology. Acknowledging the importance of urban ecology, this study utilizes Sentinel-2A data and support vector machine classification, aimed to identify UGS and UBS. To examine the connections between UGS and UBS, specific indices, spectral bands, and textures were calculated. Additionally, the concentration of chlorophyll, a vital indicator of ecological health, was assessed using three indices. Structural equation modeling was employed to elucidate the relationship between UGS and UBS and their impact on chlorophyll concentration for the years 2017 and 2023. In the 2017 model, UGS exhibited a positive path coefficient (0.25) with chlorophyll-a, indicating that an increase in UGS is associated with an increase in chlorophyll levels. Conversely, in 2023, the path coefficient turned negative ( 0.83), presenting a stark contrast to the 2017 model. This shift suggests potential environmental or urban development changes, such as alterations in the quality or type of urban green spaces, potentially including more non-native or ornamental plants that contribute less to overall chlorophyll levels.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Plant health monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Plant health monitoring_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What indicator reflects the capacity of urban vegetation to perform photosynthesis?",
+      "answer": "Chlorophyll concentration serves as an indicator of plant health and productivity, reflecting the capacity of urban vegetation to perform photosynthesis under varying urban conditions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2020; Wu et al. 2019). UBS, through its inherent properties, aids in temperature regulation by facilitating energy exchange with water bodies, thus offering a cooling effect similar to that of UGS during warm conditions. Furthermore, UGS, such as parks, gardens, and street trees, along with UBS, includ- ing rivers, lakes, and ponds within city boundaries, enhance urban biodiversity, improve air quality, and regulate micro- climates (Kumar et al. 2023). The efficiency of these spaces in temperature moderation is influenced by various factors including their design, size, type, and the urban layout sur - rounding them (Pritipadmaja et al. 2023; Wang et al. 2023).Responsible Editor: Philippe Garrigues. Extended author information available on the last page of the article Environmental Science and Pollution Research Similar to UGS and UBS, in the urban environment, chlo - rophyll plays a crucial role. Chlorophyll concentration serves as an indicator of plant health and productivity, reflecting the capacity of urban vegetation to perform photosynthesis under varying urban conditions (Bramich et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Plant health monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Plant health monitoring",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Plant health monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Plant health monitoring",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Plant health monitoring_qna_001",
+      "value": 1
+    }
+  ]
+}

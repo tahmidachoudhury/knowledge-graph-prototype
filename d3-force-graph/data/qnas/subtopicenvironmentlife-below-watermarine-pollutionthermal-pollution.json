@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution",
+      "label": "Thermal pollution",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the consequences of temperature fluctuations observed near mixing tees?",
+      "answer": "Temperature fluctuations near mixing tees can result in high-cycle thermal fatigue, potentially causing damage to T-sections and pipelines, which has led to leakage and incidents in power plants.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1 aGeometry of ow domain, and bmeshed domain reagents before getting into reactors or turbines. It guaran- tees interaction of the chemical substances is uniform and plays a central role in processes where prede ned reactionrequirements are important [ 6]. Temperature uctuations are observed at the interfacial region while hot and cold uids are mixed. Fluctuations intemperature close to mixing tees result in high-cycle thermal fatigue, which may cause damage to T-sections and pipelines. This has resulted in leakage and incidents occurring withinpower plants on speci C occasions [ 2]. Since piping design and safe operation depend on a thorough comprehension of the thermal hydraulic behaviour of uid inside the T-section, it is essential to have this knowledge thorough. In general, ow patterns inside the T-section provide useful information for identifying regions with intense temperature uctuations. Utilizing the momentum ratio ( MR=M m/Mb), experimental and numerical modelling techniques, and the tee ow pat- tern, Kamide et al. [ 4] reported that the ow patterns can be categorized into wall jet, de ecting jet, and impinging jet OWS. Furthermore, while an, the ow pattern in a T-junctionbecomes even more complicated in case of upstream elbow.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Thermal pollution",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are engineers and researchers concerned with the mixing behaviors and temperature fluctuations in T-sections?",
+      "answer": "They are concerned because these fluctuations can cause thermal fatigue and damage.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As previously stated, engineers and researchers are becoming increasingly concerned with the mixing behaviours and temperature uctuations in the T-section because they can cause thermal fatigue and damage. Hence,a potential correlation could exist between uctuations intemperature and thermal fatigue. Furthermore, the degree of uctuation of temperature can serve as a qualitative indi- cator for estimating high-cycle thermal fatigue. Numerousresearchers have utilized the Power Spectral Density and Root Mean Square to quantify the amplitude and frequency of the uctuation, respectively, when assessing thermalfatigue and temperature uctuations in T-sections [ 6,13]. Based on the aforementioned mechanism and research approach, numerous researchers [ 14 16] reported that cram- ming porous medium in the interfacial zone was helpful inthe reduction of thermal uctuations in the T-section. The eld of uid solid coupling mechanics has experienced signi cant advancements in recent years. Researchers havebecome increasingly intrigued by the quantitative correlation that exists between temperature uctuations and high-cycle thermal fatigue [ 16 18]. Fluid structure interactions are the subject of scholarly investigation through both experimental methods and numerical simulation techniques [ 19 22]. Zughbi et al.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Thermal pollution",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does an increase in temperature influence water temperature and species distribution?",
+      "answer": "An increase in temperature leads to changes in water temperature, which, in turn, affects the distribution of species.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0025326X23008032",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Thermal pollution",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Thermal pollution_qna_002",
+      "value": 1
+    }
+  ]
+}

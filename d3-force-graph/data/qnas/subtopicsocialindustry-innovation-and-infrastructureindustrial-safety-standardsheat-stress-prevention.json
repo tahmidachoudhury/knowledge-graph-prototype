@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Heat stress prevention",
+      "label": "Heat stress prevention",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Heat stress prevention_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What temperature threshold is identified as detrimental to labour productivity in non-climate-controlled facilities?",
+      "answer": "The temperature threshold identified is above 85 F (29.4 C).",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " We find that under a middle-of-the-road climate projection of the period 2020 2039, annual global trade is reduced by about 735 million USD due to additional high temperature events relative to 2015. 1.1 Literature Review Growing micro- and plant-level evidence suggests that high ambient temperature has det - rimental impacts on labour productivity and supply. Using survey data on time allocation of individuals, Zivin and Neidell ( 2014 ) find evidence for a substantial reduction of labour supply in climate-exposed industries such as agriculture, construction and manufacturing in non-climate-controlled facilities on days with maximum temperature above 85 F (29.4 C). Given the evidence on the temperature-productivity relationship of individuals, one might suggest that such temperature effects prevail also on plant-level. Looking at the near- universe of Chinese manufacturing plants from 1998 to 2007, Zhang et al. (2018 ) find an inverted U-shape relationship between temperature and total factor productivity (TFP). Their estimates show that for the average plant on a day with maximum temperature above 90 F (32.24 C), TFP decreases by 0.56 percent relative to a day with 50 60 F (10 15 C), translating into an estimated output loss of 0.45 percent for the average plant.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards",
+      "subtopic": "Heat stress prevention",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Heat stress prevention_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What temperature was maintained during the recovery phase after heat stress?",
+      "answer": "The temperature was stepped down to 25°C during the recovery phase after heat stress.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Fig. 1 Collection sites and timeline. A: We tagged colonies and collected samples from the M. capitata patch reef population at 30 sites (red dots) spanning Kane ohe Bay in early November 2017. B: Ambient temperature shown in multi-color trace and acute artificial heat stress profile shown in red. Dashed line at 28.5 C is the local bleaching threshold (MMM + 1 C) (NOAA/NDBC 1971, Dilworth 2021). Coral fragments were held outside under ambient conditions (gray bar) and then indoors at ~ 25 C (blue bars) for a week prior to ramping up and holding at 32 C (pink bar). After substantial bleach- ing and mortality, temperature was stepped down to 25 C (purple bar). Remaining fragments were returned to ambient conditions and survivorship assessed several months post-heat stress. Temperature data collected at the 30 field sites from August 2017 to March 2019 (top black bracket) were used to characterize site thermal metrics in non-bleaching conditions. In October 2019, during the peak of a coral bleaching event, collection sites were revisited (yellow) and original source colonies scored for health/bleaching.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards",
+      "subtopic": "Heat stress prevention",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Heat stress prevention",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Heat stress prevention_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Heat stress prevention",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Heat stress prevention_qna_001",
+      "value": 1
+    }
+  ]
+}

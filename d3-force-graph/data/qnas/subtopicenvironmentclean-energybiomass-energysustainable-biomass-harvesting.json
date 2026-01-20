@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting",
+      "label": "Sustainable biomass harvesting",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the gametophyte clones harvested for the study?",
+      "answer": "The biomass of the gametophyte clones, both male and female, was harvested separately.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The short fragment libraries were also constructed and used to re-sequence the gametophyte populations, identify the sex determi - nation region of kelp gametophytes and decipher the genetic basis associating with the tolerance to relative high seawater temperature. Upgrading contigs into scaffolds The biomass of the gametophyte clones, both male and female, was harvested separately and used to construct Hi-C library which was then sequenced on Illumina platform. The read pairs generated were mapped to the contigs. According to the mating and concomitance Guo et al. BMC Genomics (2025) 26:186 Fig. 1 The life cycle of Saccharina japonica (A) and graphical display of Saccharina japonica gametophyte genome assemblies ( B - D). The gametophytes can be vegetatively cultured (cloned), and preserved as the genetic resources. The gametophyte clones can be hybridized with the first filial generation used as either the hybrid kelp or the basic population of selection breeding. a, the gametophytes germinated from zoospores; b, young sporophytes; C and d, artificially cultivated gametophytes (clones); and e, sporophytes under cultivation. B, the interaction map of the scaffolds revealed with the high- throughput chromosome conformation capture (HiC) technique.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Sustainable biomass harvesting",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What issue does the analysis aim to address regarding Dicranopteris pedata?",
+      "answer": "The analysis aims to address how to dispose of and recycle the Dicranopteris pedata clipping waste biomass.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To solve the above issue, we collected a sample of Dicranopteris pedata from the rare earth mining area and turned it into REEs/C under three temperatures for the purposes of characterisation. The performance of carbonisation materials was also tested by experiments conducted to remove Pb(II). Our analysis could solve a key issue of Dicranopteris pedata functioning as a restoration technology: how to dispose of and recycle the Dicranopteris pedata clipping waste biomass. This work provides a new theoretical understanding of and technical methods for soil and water conservation and ecological restoration in southern China S rare earth mining areas, which can help the rare earth mining industry be environmentally responsible. Materials and methods Chemical reagents and raw materials Lead nitrate (Pb(NO3)2) was purchased from Aladdin Reagent (Shanghai) Co. Ltd., and was of analytical grade. Waste samples of Dicranopteris pedata were sourced from the rare earth ore region in Hetian Town, Changting County, Fujian Province, China (116 26 11 E, 25 40 29 N). The concentrations of Dicranopteris pedata and soil from that mine are indicated in Preparation of REEs/C Firstly, we dried the Dicranopteris pedata sample of waste for 72 h at 65 C and ground it to a fine powder so that it could pass through a 100-mesh sieve.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Sustainable biomass harvesting",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Sustainable biomass harvesting_qna_001",
+      "value": 1
+    }
+  ]
+}

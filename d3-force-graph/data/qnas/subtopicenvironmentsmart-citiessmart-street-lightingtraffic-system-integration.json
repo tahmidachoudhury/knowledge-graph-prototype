@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Traffic system integration",
+      "label": "Traffic system integration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart street lighting|Traffic system integration_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed model merging method improve performance while addressing computational costs?",
+      "answer": "The proposed method allows for the integration of different models, boosting performance (up to 6.8% in mIoU) while increasing speed by 3.25 times, all without incurring additional computational costs associated with traditional model ensembling strategies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Our main contributions can be summarized as follows: (1) Cost-free model merging by introducing a novel method to merge existing available pretrained models with-out requiring additional training costs. (2) Cross-task model merging by applying model merging to combine models designed for different tasks with sharedparameters. (3) Extensive benchmarking of model merging for unsu- pervised domain adaptation, focusing on multiple models, strategies and datasets. The remainder of the paper is organized as follows: Sect. 2 reviews related work on semantic segmentation, unsuper- vised domain adaptation and model merging. In Sect. 3, details the core hypothesis of this work: initial layers should be merged differently from nal layers. It also introduces the proposed layer-wise model merging technique to addressthese discrepancies; Sect. 4 presents our experimental results, focusing on the following scenarios: (1) merging model weights derived at different epochs of training, (2) merging model weights derived from different training frameworksbut with a common architecture, (3) merging model weights derived from different architectures for the same task and (4) merging model weights derived from different tasks; Finally, Sect.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart street lighting",
+      "subtopic": "Traffic system integration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart street lighting|Traffic system integration",
+      "target": "Subtopic:Environment|Smart cities|Smart street lighting|Traffic system integration_qna_000",
+      "value": 1
+    }
+  ]
+}

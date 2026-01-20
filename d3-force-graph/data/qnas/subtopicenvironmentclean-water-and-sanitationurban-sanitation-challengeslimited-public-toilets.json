@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets",
+      "label": "Limited public toilets",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the number of public toilets per 10,000 people in China by the end of 2021?",
+      "answer": "There are only 3.29 public toilets per 10,000 people in China by the end of 2021.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Despite urban growth, current toilet numbers and distribution remain inadequate, with only 3.29 public toilets per 10,0 people in China by the end of 2021, unevenly distributed5. Traditional flush toilets, reliant on extensive energy, water, and sewage networks, often face operational challenges and environmental pollution risks due to maintenance neglect6 8. Given these challenges, a key research question arises: How can energy-autonomous technology (EAT) be applied to improve the energy efficiency and climatic adaptability of independent public toilets, particularly under different climatic conditions? To address this, we explore the potential of EAT in reducing environmental impact while ensuring sustainable operation. Independent public toilets can utilize renewable energy sources, aligning with China S strategy to reduce CO2 emissions and support sustainable development goals9. By investigating the performance of EAT across various climates, this study aims to provide practical solutions for enhancing public health infrastructure in water-scarce or underdeveloped areas. Public toilets serve users who are temporarily occupying the space. In cold climates, space heating is typically controlled between 10 and 14 C, with 12 C being common, to prevent indoor water from freezing10 12.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Limited public toilets",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the sample design limitation mentioned in the paragraph?",
+      "answer": "The sample design was limited by the irregular shape of the urban continuum of Xalapa, affecting the number of available subgroups for analysis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In addition to the importance of the reference points as remnants of the original vegetation, those areas allow for the free transit of people, in contrast with some other similar areas in the surroundings of Xalapa that are private property or insecure places non-suitable for surveying. Unfortunately, urban and agricultural sprawl in the Southeast region of the study area makes it almost impossible to survey a similar sampling design for a tropical dry forest representation, restricting the analyses only to the other two types of vegetation in the region. To analyze comparable samples, we randomly selected subgroups for the urban and reference survey sites. Given the location of the reference sites, we drew line limits of 1 min (~ 11.1 km) above and below the location of each reference site. Within those bands, we selected subgroups of nine survey sites each from the available pool that var - ied in amount because of the irregular shape of the urban continuum of Xalapa. The final number of subgroups and zones analyzed is as follows: one North reference, one North urban, two center urban, one South reference, and two South urban subgroups (Fig.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Limited public toilets",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the role of independent public toilets in modern cities?",
+      "answer": "Independent public toilets serve as critical infrastructure for daily life and tourism, especially in densely populated areas lacking municipal pipeline connections.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " email: cn123004@tjrac.edu.cn OPEN Scientific Reports www.nature.com/scientificreports Qtd Conventional energy substitution of solar photovoltaic system, kgce Vco2 CO2 emission factor of standard coal, kg/kgce Qpvt -so2 SO2 emission reduction of EAT for an independent public toilet, kg Vso2 SO2 emission factor of standard coal, kg/kgce Qdf C Dust emission reduction of EAT for an independent public toilet, kg Qnj Effective heat gain of solar thermal utilization system for the whole year, MJ t Operating efficiency when using conventional energy as the heat source D The amount of standard coal consumed per kWh of electricity converted En Annual power generation of the solar PV system, kWh Independent public toilets are essential for the functioning of modern cities, especially in densely populated areas where they serve as critical infrastructure1. These facilities are integral to daily life and tourism, particularly in locations lacking municipal pipeline connections2,3. For the current urban growth, environmental degradation, population explosion, lack of resources, and other challenges that must be addressed, the current number, distribution, and humanized toilet facilities are insufficient to fulfill the growing needs of users4.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Limited public toilets",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Limited public toilets_qna_002",
+      "value": 1
+    }
+  ]
+}

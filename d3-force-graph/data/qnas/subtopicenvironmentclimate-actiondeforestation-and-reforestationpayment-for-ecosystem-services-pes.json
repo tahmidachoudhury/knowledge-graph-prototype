@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)",
+      "label": "Payment for ecosystem services (pes)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What condition allows second-best subsidies to achieve decarbonization at a similar cost to the first-best solution, according to Rezai and van der Ploeg (2017)?",
+      "answer": "Credible public commitment allows second-best subsidies to achieve decarbonization at the same cost as the first-best solution.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Much research has analysed welfarelosses relating to second-best energy subsidies at an aggregate level. Kalkuhl et al. ( 2013 ) n d that if carbon pricing is permanently missing, the total mitigation cost is many times greater.A combination of carbon pricing and subsidies minimises welfare loss in a second-best world.Grimaud et al. ( 2011 ) explore the carbon pricing policy required to support innovation when no subsidies are available. Rezai and van der Ploeg ( 2017 ) show that second-best subsidies can achieve decarbonisation at a similar cost to the rst-best solution should there be crediblepublic commitment. Secondly, this is the rst paper to consider the household-level equity and ef ciency impli- cations of nancing energy subsidies through potentially distortive energy price surcharges.Following much debate throughout the early 20th Century (Ramsey 1927 ; Hotelling 1939 ; Lerner 1944 ;C o a S e 1946 ; Boiteux 1956 ), the optimal utility tariff design has converged on a two-part Coasian structure, whereby a volumetric charge recovers marginal costs and a xed charge recovers each consumer S share of xed costs. Much applied literature exists toexamine the implications of deviating from the Coasian tariff structure in a general sense (e.g.,Borenstein 2016 ; Davis and Muehlegger 2010 ), however, deviations arising from subsidy- related surcharges have not been addressed.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Payment for ecosystem services (pes)",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "According to the findings, is an emissions trading system (ETS) always superior to operational permits for GHG regulations?",
+      "answer": "No, climatic and economic projections in an ETS scenario are not necessarily superior to those in an operational permit scenario.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In this work, we ask whether tradable emissions permits, based on the cap-and-trade principle, provide better climate change and economic projections than alternative reg- ulations for GHG emissions, such as operational permits, which are commonly used tomitigate non-GHG emissions ( prevention rst principle). Towards this goal, we sim- ulate climate and the economy through a new version of the Dystopian Schumpeter meeting Keynes (DSK) model, extended to include an emission trading system (ETS): and operational permit systems. We show that climatic and economic projections in an ETS scenario need not be superior to those in an operational permit scenario. Which system delivers more encouraging projections on temperature anomalies, the greentransition, and economic dynamics depends on institutional details, such as the set of rms for which permits are mandatory; the regulatory requirement of corrective mea- sures; the magnitude of penalties; the stringency of the ETS. An ETS with a decliningnumber of permits emerges as the best-performing system in terms of macroeconomic, microeconomic, and climate outcomes. A system of operational permits mandatory only for large rms (centralised permits) ranks as the second-best system, provided that the regulator imposes corrective measures regarding R&D expenses and machinery replacement.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Payment for ecosystem services (pes)",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Which system is identified as the best-performing in terms of macroeconomic, microeconomic, and climate outcomes?",
+      "answer": "An ETS with a declining number of permits is identified as the best-performing system.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In this work, we ask whether tradable emissions permits, based on the cap-and-trade principle, provide better climate change and economic projections than alternative reg- ulations for GHG emissions, such as operational permits, which are commonly used tomitigate non-GHG emissions ( prevention rst principle). Towards this goal, we sim- ulate climate and the economy through a new version of the Dystopian Schumpeter meeting Keynes (DSK) model, extended to include an emission trading system (ETS): and operational permit systems. We show that climatic and economic projections in an ETS scenario need not be superior to those in an operational permit scenario. Which system delivers more encouraging projections on temperature anomalies, the greentransition, and economic dynamics depends on institutional details, such as the set of rms for which permits are mandatory; the regulatory requirement of corrective mea- sures; the magnitude of penalties; the stringency of the ETS. An ETS with a decliningnumber of permits emerges as the best-performing system in terms of macroeconomic, microeconomic, and climate outcomes. A system of operational permits mandatory only for large rms (centralised permits) ranks as the second-best system, provided that the regulator imposes corrective measures regarding R&D expenses and machinery replacement.",
+      "macrotopic": "Climate action",
+      "topic": "Deforestation and reforestation",
+      "subtopic": "Payment for ecosystem services (pes)",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)",
+      "target": "Subtopic:Environment|Climate action|Deforestation and reforestation|Payment for ecosystem services (pes)_qna_002",
+      "value": 1
+    }
+  ]
+}

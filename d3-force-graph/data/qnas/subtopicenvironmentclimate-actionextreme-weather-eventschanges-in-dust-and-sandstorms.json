@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms",
+      "label": "Changes in dust and sandstorms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms_qna_000",
+      "group": "QnA",
+      "label": "Analyse",
+      "question": "Welche Faktoren beeinflussen den Bruterfolg des Steinschmätzers?",
+      "answer": "Der Bruterfolg wird in erster Linie durch Prädation bestimmt, allerdings haben auch andere Umweltfaktoren einen Einfluss, etwa die Exposition des Geländes und die Bodenbewachsenheit.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Die unmittelbare N he zu Nestern von Artgenossen wurde ebenso gemieden wie bebuschtes oder nordexponiertes Gel nde. Weiter untersuchten wir, ob der Lebensraum auch den Bruterfolg beeinflusst. Bruterfolg wurde in erster Linie durch Pr dation bestimmt, aber auch der Einfluss weiterer Umweltfaktoren konnte analytisch gezeigt werden. An nordexponierten H ngen oder in Gebieten mit wenig bewachsenem Boden nahm die Wahrscheinlichkeit ab, dass die Brut erfolgreich ausflog. Die N he von Nestern von Artgenossen hatte keinen eindeutigen Einfluss. Schlie lich beschreiben wir, wie der Bruterfolg innerhalb und zwischen den Jahren variierte. Innerhalb von Jahren hatten Ersatzbruten einen erh hten Bruterfolg, doch zwischen Jahren beobachteten wir kaum Schwankungen im Bruterfolg. Der interannuell relativ konstante Bruterfolg, sowie eine versp tete Brutzeit im Beobachtungsjahr mit sp tem Fr hlingsbeginn, deuten darauf hin, dass Steinschm tzer jahresspezifische Schwankungen in den meteorologischen Bedingungen auffangen k innen. Da der bevorzugte Lebensraum in den Alpen immer noch weit verbreitet ist, k nnte das Alpengebiet als R ckzugsgebiet f r den Steinschm tzer dienen, der in tieferen Lagen Westeuropas negative Bestandstrends zeigt. Voraussetzung daf r ist jedoch, dass eine Bewirtschaftung mit geringer Intensit t und heterogene Lebensr ume beibehalten werden.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in dust and sandstorms",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which regions exhibit unhealthy soil conditions according to the findings?",
+      "answer": "Unhealthy soils dominate drylands and savannas with frequent surface exposure.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " communications earth & environment Article https://doi.org/10.1038/s43247-25-2021-w Soil health in Latin America and the Caribbean Check for updates Raul Roberto Poppiel1, Maur cio Roberto Cherubin1,2,J e a nJ .M N ova i s1& Jos A. M. Dematt 1,2 Socio-economic progress relies on critical soil ecosystem services, yet Latin American and Caribbean soils face considerable pressures. Here we assess soil health across the region using remote sensingdata processed with cloud-based machine learning to create high-resolution maps (90 m) of a soilhealth index. This index integrates weighted physical, chemical, and biological indicators, such astotal porosity, plant-available water, and carbon stock. Based on ve soil functions, which involve water and nutrient uxes, carbon sequestration, and supporting plant growth, we found that 38% of soils are classi ed as unhealthy, 28% as moderate, and 34% as healthy. Unhealthy soils dominate drylands and savannas with frequent surface exposure, while humid equatorial zones exhibit healthierconditions. Notably, the Amazon basin registers medium-low soil health, underscoring the urgentneed for conservation. Our ndings offer a robust framework for soil protection policies and restoration strategies to enhance sustainability and ecosystem resilience.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in dust and sandstorms",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in dust and sandstorms_qna_001",
+      "value": 1
+    }
+  ]
+}

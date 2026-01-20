@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Flush toilets",
+      "label": "Flush toilets",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Flush toilets_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How often must air exchange and ventilation occur between toilets according to the standards?",
+      "answer": "Air exchange and ventilation must occur at least 5 times per hour.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In southern regions, lower temperatures (around 5 C) during non-use periods suffice. Room temperature should generally not exceed 28 C for cooling requirements13 but in northern regions, cooling is often unnecessary due to outdoor temperature fluctuations averaging 1.5 C10,14. The fan must also make sure that air exchange and ventilation occur between toilets at least 5/h15 17. From a comfort and safety standpoint, lighting fixtures for standalone public restrooms are an absolute necessity, and interior lighting must satisfy the standard of 50 Ix illumination 15. Cold water in most of China averages 10 ~ 20 C and needs to be heated to 45 C at distribution points18. Hot water for washing is not necessary for autonomous public toilet operation. Energy consumption for specialized equipment, such as sanitary ware controls, intelligent monitoring devices, and excreta treatment systems, depends on usage duration and performance1 Conventional public toilets face energy supply challenges, including reliance on outdated energy sources, excessive consumption, and environmental damage20. To operate sustainably, independent public toilets must adopt innovative energy solutions21. Autonomous technology aims to reduce building-related environmental pollution by utilizing clean energy, targeting zero-energy buildings22 24.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Flush toilets",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Flush toilets_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What operational challenges do traditional flush toilets face?",
+      "answer": "Traditional flush toilets often face operational challenges and environmental pollution risks due to maintenance neglect.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Despite urban growth, current toilet numbers and distribution remain inadequate, with only 3.29 public toilets per 10,0 people in China by the end of 2021, unevenly distributed5. Traditional flush toilets, reliant on extensive energy, water, and sewage networks, often face operational challenges and environmental pollution risks due to maintenance neglect6 8. Given these challenges, a key research question arises: How can energy-autonomous technology (EAT) be applied to improve the energy efficiency and climatic adaptability of independent public toilets, particularly under different climatic conditions? To address this, we explore the potential of EAT in reducing environmental impact while ensuring sustainable operation. Independent public toilets can utilize renewable energy sources, aligning with China S strategy to reduce CO2 emissions and support sustainable development goals9. By investigating the performance of EAT across various climates, this study aims to provide practical solutions for enhancing public health infrastructure in water-scarce or underdeveloped areas. Public toilets serve users who are temporarily occupying the space. In cold climates, space heating is typically controlled between 10 and 14 C, with 12 C being common, to prevent indoor water from freezing10 12.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Flush toilets",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Flush toilets",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Flush toilets_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Flush toilets",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Flush toilets_qna_001",
+      "value": 1
+    }
+  ]
+}

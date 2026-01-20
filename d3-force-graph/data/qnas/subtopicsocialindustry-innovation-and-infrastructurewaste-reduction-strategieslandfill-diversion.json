@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion",
+      "label": "Landfill diversion",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the characteristics of older landfills mentioned in the paragraph?",
+      "answer": "Older landfills, which predate modern environmental regulations, do not have lining and capping systems, allowing waste to remain unisolated from the surrounding environment.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Also, many high income countries have disposed POPs containing municipal waste largely in landfills until recently and some coun tries, such as Australia, New Zealand, and the US with limited waste destruction capacity, still dispose POPs containing waste to landfills [46, 167, 184, 189, 362]. Therefore, municipal landfills are joining chemical landfills as reservoirs of POPs and other PBTs albeit at a lower pollution inventory for individual sites, but they represent a large overall inventory considering the hundreds of thousands of landfills including those that predate modern environmental regulations, and which do not have lining and caping systems and waste is not isolated from the surrounding environment [29]. Whilst in the frame of the Stockholm Convention POPs inventories are developed, e.g., for polychlorin ated biphenyls (PCBs) in transformers and capaci tors or PBDEs in electronic waste, the POPs disposed to landfills or in contaminated sites are normally not quantified with some exemptions like large pesticide landfills [234, 294, 349, 351]. Inventories of uninten tionally produced POPs, such as PCDD/PCDF, are largely developed as release inventories for specific years [86, 354] and mostly do not consider the historic reservoirs and releases with a few exemptions [198, 289, 361], although the UNEP unintentional POP inventory toolkit contains a dedicated chapter on contaminated sites [311].",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Landfill diversion",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors are contributing to the need for new methods of treating SPL?",
+      "answer": "A shift in social acceptance regarding environmental footprint policies and an increase in landfill costs are driving the need for alternative methods to treat SPL.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " [10]Sommerseth et al. [11]also found NaAISiO 4present in 1st cut SPL. SPL, in reaction with water forms several gases which are important to take into consideration duringpost-treatment of the material as it is a hazardous waste. Ammonia, NH 3, is formed as a reaction between aluminum nitride and water. Phosphorus, which isintroduced together with the alumina raw material inthe form of P 205or AIPO 4,[12]reacts readily with moisture in air and/or water to the poisonous gases called phosphine, PH 3, and sodium cyanide, NaCN, in contact with water forms HCN. Both PH 3and HCN are deadly gases, and hence, SPL must be treated with care. The impurities present make direct reuse di cult, hencepost treatment of the SPL is necessary to transform the waste material into a valuable product. SPL has traditionally been land lled as this has been the most economically feasible method of handling. Ashift in acceptance both socially in terms of environ- mental footprint policies, and an increase in cost for land Il are leading to a need for methods of treating thiswaste to make it usable for new applications.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Landfill diversion",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Landfill diversion_qna_001",
+      "value": 1
+    }
+  ]
+}

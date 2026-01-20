@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Online voting",
+      "label": "Online voting",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Online voting_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What barriers do young people face in societal participation, and how could technology address them?",
+      "answer": "Young people face structural barriers like voting age and psychological barriers such as disinterest or distrust in participation processes. Technology can address these barriers by providing engaging and safe environments for participation and interaction, lowering the barriers to involvement in societal issues.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Compared to adults, adolescents have been found to have more positive attitudes toward using robots, for example inpsychotherapy [ 45]. This may be due to teenagers being gen- erally more ready to adopt new technologies [ 46]. However, in the workplace context, Fenech et al. [ 47] found that gen- eration Z (i.e., people born between 1997 and 2012) has anundecided attitude toward robotics, which may lean toward apprehension, fear, and anxiety. In some previous studies, young people have been engaged through a participatorydesign approach to ideate social robots for mental health. Bj rling and Rose [ 29] conducted an extensive social robot design challenge with young people in a school environment,drawing from previous research suggesting that robots canhave therapeutic effects on humans emotional responses. The aim of the challenge was to design a social robot to help reduce stress, and the study resulted in various ideasfor robot embodiments and features [ 48]. The participants engaged in design sessions that included activities ranging from drawing to storyboarding and testing a robot prototypewith peers.",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Online voting",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Online voting",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Online voting_qna_000",
+      "value": 1
+    }
+  ]
+}

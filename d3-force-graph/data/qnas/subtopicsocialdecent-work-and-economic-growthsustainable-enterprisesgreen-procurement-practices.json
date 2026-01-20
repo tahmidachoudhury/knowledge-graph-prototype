@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices",
+      "label": "Green procurement practices",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do companies practising green initiatives perceive the impact on their Key Performance Indicators (KPIs)?",
+      "answer": "Companies that implement green practices report mixed experiences with their KPIs, with 15 out of 17 respondents agreeing that there are benefits, while a divided sample of 8 respondents disagree and 9 agree on the impact on KPIs.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "subtopic": "Green procurement practices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the trend in green raw material procurement among companies surveyed?",
+      "answer": "Among the companies surveyed, 12 confirmed they engage in green supplier selection, with 7 stating they always purchase eco-friendly materials, 4 often, and only one sometimes, showing varying levels of commitment to green procurement practices.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Sustainable enterprises",
+      "subtopic": "Green procurement practices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices",
+      "target": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices",
+      "target": "Subtopic:Social|Decent work and economic growth|Sustainable enterprises|Green procurement practices_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "label": "Changes in windstorm patterns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the impact of strong winds on the precipitation measurements in the Arctic?",
+      "answer": "Strong winds can lead to undercatch, resulting in an underestimation of actual precipitation amounts, which affects the accuracy of long-term measurements.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " SN99710), Ny- lesund (No. SN99910), and Svalbard Lufthavn (No. SN99840), managed by the Norwegian Centre for Climate Services in Svalbard, were retrieved from the database available at https://seklima.met.no/ The dataset spans multiple periods across the three Arctic locations: Bj rn ya - from January 1, 1964 to December 31, 2023, Ny- lesund from January 1, 1975 to December 31, 2023, and Svalbard Lufthavn from January 1, 1976 to December 31, 2023. the locations of all three stations (solid red circles). While Bj rn ya is a relatively small island, Ny- lesund and Svalbard Lufthavn are coastal stations situated near the sea. All three locations employ precipitation gauges to record their data. However, it is important to note that these gauges are subject to biases, particularly undercatch, which occurs during periods of strong winds. This can lead to an underestimation of actual precipitation amounts, affecting the accuracy of long-term precipitation measurements, especially in harsh Arctic conditions, where wind speeds can be significant39. It may be argued that the recent positive trends in precipitation in Svalbard could be due to the increase in wet snowfall and rainfall, which is more efficiently captured in the precipitation gauges compared to snowfall40.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in windstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How did the storm Gudrun impact discussions within the forestry sector?",
+      "answer": "The extensive consequences of the storm attracted significant attention and catalyzed discussions on storm-related risks and mitigation strategies within the forestry sector.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Wind gusts reached velocities of up to 42 ms (Skogsstyrelsen 2006 ), resulting in extensive societal disruptions, including widespread power outages, interruptions to transportation networks, and the failure of critical infrastructure affecting a population of thousands of people (Skogsstyrelsen 2006 ). The storm S most severe environmental impact was the large-scale destruction of forests in the Go taland region, speci cally in the counties of Halland, Smaland, and Sca-nia, with an estimated 70 million cubic metres of timber felled equivalent to Sweden S total annual harvest under typical conditions, and with an economic cost assessed atup to EUR 3.2 billion (Broman et al. 2009 ). While forest damage from storms is a relatively com- mon occurrence (Patacca et al. 2023 ), an event of the magnitude and impact of storm Gudrun is rare. The extensive and unprecedented consequences of this storm attracted signi cant attention within the forestry sector(Ulmanen et al. 2015 ), catalysing discussions on storm- related risks and mitigation strategies (Valinger et al. 2019 ). Over time, storms and their associated impacts have become critical topics in forest research and education.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in windstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What time frame experienced a retarding phase in heavy rainfall increases before the significant changes noted in the study?",
+      "answer": "The retarding phase occurred between 1960 and 1980.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Nature ArticleIncreasing hourly heavy rainfall in Austria reflected in flood changes Klaus Haslinger1 Korbinian Breinl2, Lovrenc Pavlin2, Georg Pistotnik1, Miriam Bertola3, Marc Olefs1, Marion Greilinger1, Wolfgang Sch ner4 & G nter BI schl3 Climate change is expected to increase heavy rainfall with concomitant increases in flooding1. Causes of increased heavy rainfall include the higher water-holding capacity of a warmer atmosphere and changes in atmospheric circulation patterns2, which may translate into future heavy rainfall increases in most of Europe3. However, gathering evidence on the time evolution of past changes has been hampered by data limitations and measurement uncertainties, in particular for short rainfall durations, such as 1 h. Here we show an 8% increase in daily and 15% increase in hourly heavy rainfall over the last four decades by analysing a new dataset comprising 883 stations in Austria from 1900 to 2023. These increases are fully consistent between two independent networks and occurred after a retarding phase between 1960 and 1980. Hourly heavy rainfall changes are aligned with temperature increases with the sensitivity of a 7% increase per 1 C of warming, in line with Clausius Clapeyron scaling.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in windstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What correction methods are mentioned for improving precipitation accuracy?",
+      "answer": "The correction methods include adjusting for wind-induced losses, wetting loss, and evaporation loss.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " plot) and mean precipitation (mm) (bar plot) for the three stations. Ny- lesund (grey) and Svalbard Lufthavn (black) show a close resemblance in temperature climatology. Bj rn ya (red) shows a higher temperature during cold months compared to the other stations. Precipitation is strong during colder months and weak during warmer months across all the stations, reflecting a seasonal variation typical in maritime Arctic climates-wetter winter and drier summer. To mitigate the biases caused by undercatch in precipitation gauge measurements, corrections are applied to improve data accuracy. Various correction methods are employed, including adjusting for wind-induced losses, wetting loss, and evaporation loss. These factors are particularly significant in the Arctic S cold and stormy conditions. These corrections are crucial to obtain reliable precipitation estimates, especially when analyzing long-term trends and extreme events in polar regions40. Here, we have employed the technique followed by Kochendorfer et al.41 using wind speed at 10 m ( w10), gauge precipitation ( Pg) and gauge temperature ( Tg). The correction factor for rain is given by krain= (exp .281 w10(1 arctan (1 .628 Tg)+0 .837))) 1 Scientific Reports and for snow is given by ksnow=( 0.742 e 0.181 w10+0.322) 1.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in windstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in windstorm patterns_qna_003",
+      "value": 1
+    }
+  ]
+}

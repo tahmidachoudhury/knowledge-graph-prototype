@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Pathogen monitoring systems",
+      "label": "Pathogen monitoring systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Pathogen monitoring systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method can be used to study animal viruses that can infect human cells, given the challenges of viral culturing?",
+      "answer": "One method to study animal viruses is to use surrogate systems, such as viral pseudotypes, that recapitulate specific steps of the infection cycle by incorporating the receptor-binding protein of an enveloped virus into a viral vector.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The cross-species transmission of animal viruses to humans (zoonosis) poses a tremendous threat to human health. A substantial fraction of the estimated tens of thousands of viruses infecting wildlife or domes - tic mammals may spill over into humans1. However, predicting which viruses are more likely to emerge is extremely challenging, as this is a largely random process influenced by many ecological, evolutionary, social, genetic and virological factors. Previous studies have identified ecological risk factors including biodiversity loss2 and global warming3 among other disturbances4,5, as well as important targets of evolution - ary optimization following viral cross-species transmission6. Certain viral traits have also been associated with zoonotic risk. In particular, enveloped RNA viruses are of greatest concern as they show increased cross-species transmissibility and account for >70% of all zoonotic viruses7 10. Recent large-scale viral metagenomics initiatives have led to major advances in the identification of potential zoonotic threats11. However, experimental virology studies providing functional information about the ability of animal viruses to infect human cells are comparatively scarce12 because viral culturing is technically challenging and raises biosafety issues. One way to circumvent these limitations is to use sur - rogate systems that recapitulate specific steps of the infection cycle, such as viral pseudotypes, in which the receptor-binding protein (RBP) of an enveloped virus of interest is incorporated into a viral vector.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Pathogen monitoring systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Pathogen monitoring systems_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What were the evaluated RBPs' viral internalization detection results mentioned in the text?",
+      "answer": "Viral internalization was detected for 43 out of 102 RBPs, with an area under the curve (AUC) of 81.6%, sensitivity of 82.5%, and precision of 73.1%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Pseudotyping has been applied to most families of enveloped RNA viruses and can faithfully reproduce key processes such as receptor usage, cellular tropism and antibody-mediated neutralization13. The cross-species transmission of viruses initially depends on the compatibility between the viral RBP and the cellular entry factors of different host species. Interspecies variability in these factors has often been considered a major barrier to zoonosis, based on observa- tions made with a few well-studied viruses, such as avian and human influenza strains14 or coronaviruses15 Moreover, an evolutionary arms race between RBPs and virus receptors has been shown in several cases including some rodent arenaviruses16, bat ebolaviruses17 and hominid lentiviruses18. However, viral internalization is a complex process that typically involves multiple steps including initial attachment19, receptor Received: 11 July 2024 Accepted: 11 November 2024 Published online: 2 January 2025 Check for updates Institute for Integrative Systems Biology, Universitat de Val ncia - Consejo Superior de Investigaciones Cient ficas, Paterna, Spain. e-mail: rafael.sanjuan@uv.es Nature Microbiology Article https://doi.org/10.1038/s41564-24-1879-4VSV susceptibility (5% GFP-positive cells versus 72% in HEK293T cells inoculated with full VSV control), we still detected viral internalization for 43 out of 102 RBPs (Supplementary Nature Microbiology 407 Article https://doi.org/10.1038/s41564-24-1879-4reached an area under the curve (AUC) of 81.6%, a sensitivity of 82.5% and a precision of 73.1% (Fig.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Waterborne diseases prevention",
+      "subtopic": "Pathogen monitoring systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Pathogen monitoring systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Pathogen monitoring systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Pathogen monitoring systems",
+      "target": "Subtopic:Environment|Clean water and sanitation|Waterborne diseases prevention|Pathogen monitoring systems_qna_001",
+      "value": 1
+    }
+  ]
+}

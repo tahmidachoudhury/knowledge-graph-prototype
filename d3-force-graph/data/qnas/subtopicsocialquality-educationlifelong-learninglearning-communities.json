@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Learning communities",
+      "label": "Learning communities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Learning communities_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What feelings does the study suggest are involved in creating collective thinking across academia and practice?",
+      "answer": "The study suggests that it can entail feelings of being part of a community and may involve actual consequences and risks.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Around the world, practitioners and academics are engaging in the rise of regenerative farming. On the margins of the pre- dominant farming system, and often with little support and acknowledgement, regenerative farming is surprisingly persistent and represents a radical response to industrialization, ecological crises and alienation. This study uses feminist theories to grasp farmers regenerative experiences and explores how dialogical methodologies can create collective thinking among farmers and between academia and practice. The study is based on dialogues and iterative writing between three female researchers and two female regenerative farmers in Denmark in which we explore regenerative farming practices, female per - spectives, feminist (more-than-human) care, and the sustainability crises we are facing today and in the future. The exchange of thoughts provides insights into what it is to be human in farming, including more-than-human relationships, as well as reflections on composting as a reproductive practice, and the (quiet) revolutionary potential of regenerative farming. Thus, we experience how creating collective thinking about common concerns across academia and practice can entail feelings of being part of a community as well as involve actual consequences and risks.",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning",
+      "subtopic": "Learning communities",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Lifelong learning|Learning communities_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do large language models (LLMs) pose risks to knowledge creation according to Francesco Bianchini?",
+      "answer": "LLMs pose risks by producing texts that may not be perceived as credible sources of knowledge, potentially leading individuals to retreat into ignorance, while also being manipulable to generate fictitious content.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL: https://doi.org/10.1007/s11245-025-10168-6 Topoi https://doi.org/10.1007/s11245-25-10168-6 information is a valuable resource, it also presents a number of problems. First, the quality of information disseminated on the Internet varies greatly, and for every reliable piece of infor - mation, there is just as much, if not more, that is unreliable. However, not everyone can distinguish between informa - tion and misinformation, and often, the skills needed to recognize misinformation are not insignificant (Croce and Piazza 2019 ; Millar 2019 ). Second, the sheer volume of information can be confus - ing, and instead of promoting knowledge creation, it can ultimately hinder it (Hartford 2019 ; Vanderheiden 2016 ). Third, there is complete anarchy in terms of the dissemi - nation of information. Anyone can write and spread fake news with impunity, creating potentially dangerous situa - tions for society. There are people who deliberately fabri - cate fake news to ensure that it reaches as many people as possible, often for political purposes (Rini 2017 ).",
+      "macrotopic": "Quality education",
+      "topic": "Lifelong learning",
+      "subtopic": "Learning communities",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Lifelong learning|Learning communities",
+      "target": "Subtopic:Social|Quality education|Lifelong learning|Learning communities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Lifelong learning|Learning communities",
+      "target": "Subtopic:Social|Quality education|Lifelong learning|Learning communities_qna_001",
+      "value": 1
+    }
+  ]
+}

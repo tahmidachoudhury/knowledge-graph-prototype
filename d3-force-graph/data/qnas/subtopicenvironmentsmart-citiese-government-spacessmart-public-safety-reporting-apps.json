@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps",
+      "label": "Smart public safety reporting apps",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How have smart solutions like tracing apps proven effective during crisis conditions such as the COVID-19 pandemic?",
+      "answer": "Smart solutions like tracing apps have been widely used to control the spread of COVID-19 by enabling contact tracing, monitoring infected individuals, and notifying potential contacts, thus helping to curb the transmission of the virus and manage the outbreak.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Smart public safety reporting apps",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How have smart solutions proven effective under crisis conditions, such as the COVID-19 pandemic?",
+      "answer": "Digital tools like tracing apps have been widely used to control the spread of COVID-19, showcasing the effectiveness of smart solutions in crisis management.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Smart public safety reporting apps",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Smart public safety reporting apps_qna_001",
+      "value": 1
+    }
+  ]
+}

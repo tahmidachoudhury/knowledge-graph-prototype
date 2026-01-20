@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Lightweight product design",
+      "label": "Lightweight product design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Lightweight product design_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the key sections of the High FEM module, and how are they weighted?",
+      "answer": "The seven sections of the High FEM module, with a weighted maximum of 100 points, reflect the industry's perspectives on different stages in a product's life cycle towards sustainability.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0959652623010582",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Lightweight product design",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Lightweight product design",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Lightweight product design_qna_000",
+      "value": 1
+    }
+  ]
+}

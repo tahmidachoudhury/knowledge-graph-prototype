@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs",
+      "label": "Feed-in tariffs",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What effect does an electricity price surcharge have in the 2015/16 Irish scenario?",
+      "answer": "An electricity price surcharge shifts the burden from those with lower incomes towards those with higher incomes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Some policies stipulatethat the generator return this windfall to the governing body. This can result in a negative policy cost, or a rebate for consumers (e.g. Government of Ireland 2020b ). 3We consider this scenario in our analysis. We nd that, for scenarios of positive cost, ef ciency grows in relative importance as the magnitude of the subsidy burden increases. However, for the scenarios analysed, equity stilloutweighs the ef ciency loss given likely social aversion towards inequality. An energy pricesurcharge is preferable to a at-rate charge, therefore. For scenarios of negative policy cost,the converse is true and a negative at-rate charge (i.e., a lump-sum rebate) is preferable to anegative consumption surcharge (i.e., a reduction in the volumetric price) in the majority ofcircumstances. The welfare maximising cost-recovery option is therefore largely predicatedon whether one expects the long-term cost trajectory to be positive or negative. 1For the 2015/16 Irish scenario, an electricity price surcharge shifts the burden from those with lower incomes towards those with higher incomes 2While energy subsidies are most commonly employed to support renewable energy (for discussion, see Farrell and Lyons 2015 ), energy subsidies and the associated cost-recovery mechanisms can often be used to support household-level energy ef ciency investment (for discussion, see Chawla and Pollitt 2013 ).",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Feed-in tariffs",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What type of support did renewable energy generation in Ireland receive between 2006 and 2015?",
+      "answer": "Renewable energy generation in Ireland received support under the Renewable Energy Feed-in Tariff (REFIT) scheme.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 3In some cases, renewables can receive a xed price support independent of wholesale market prices (for a discussion, see Alolo et al. 2020 ). Often, the policy cost is in uenced by the wholesale market price. The Irish system presents a good example of this. Renewable energy generation, predominantly wind, deployedfrom approximately 2006 to 2015 was supported under the Renewable Energy Feed-in Tariff (REFIT) scheme(Government of Ireland 2020a ). This was a guaranteed price, similar to policies in place in many markets (for a discussion, see Alolo et al. 2020 and the policy cost was the difference between the market price and the pre-agreed strike price (Farrell et al. 2017 ). Under this scheme, generators retain all remuneration should the market price exceed the strike price. Since closure of the REFIT scheme, Irish renewable energyis supported by the Renewable Energy Support Scheme (RESS) (Government of Ireland 2020b ). This is a contracts for differences-style price support, with similar schemes in place in the other jurisdictions such asthe UK (Department for Business, Energy and Industrial Strategy 2022 ; Department for Environment, Climate and Communications 2023 ).",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Feed-in tariffs",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What type of price support mechanism does the Renewable Energy Support Scheme (RESS) use?",
+      "answer": "The Renewable Energy Support Scheme (RESS) uses a contracts for differences-style price support mechanism.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 3In some cases, renewables can receive a xed price support independent of wholesale market prices (for a discussion, see Alolo et al. 2020 ). Often, the policy cost is in uenced by the wholesale market price. The Irish system presents a good example of this. Renewable energy generation, predominantly wind, deployedfrom approximately 2006 to 2015 was supported under the Renewable Energy Feed-in Tariff (REFIT) scheme(Government of Ireland 2020a ). This was a guaranteed price, similar to policies in place in many markets (for a discussion, see Alolo et al. 2020 and the policy cost was the difference between the market price and the pre-agreed strike price (Farrell et al. 2017 ). Under this scheme, generators retain all remuneration should the market price exceed the strike price. Since closure of the REFIT scheme, Irish renewable energyis supported by the Renewable Energy Support Scheme (RESS) (Government of Ireland 2020b ). This is a contracts for differences-style price support, with similar schemes in place in the other jurisdictions such asthe UK (Department for Business, Energy and Industrial Strategy 2022 ; Department for Environment, Climate and Communications 2023 ).",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Feed-in tariffs",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Feed-in tariffs_qna_002",
+      "value": 1
+    }
+  ]
+}

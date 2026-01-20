@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies",
+      "label": "Data-driven strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How do data-driven models contribute to the prediction of groundwater quality in the AKO basin?",
+      "answer": "Data-driven models help in predicting groundwater quality by utilizing various algorithms and statistical methods to analyse the data collected from the AKO basin in Maharashtra, India.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723018297",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Data-driven strategies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of the proposal for a new customization process for a data-based water quality index using a random forest approach by Lee et al. (2023)?",
+      "answer": "The proposal by Lee et al. (2023) suggests a new way to customize a water quality index using a random forest approach, improving data analysis and accuracy.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723018297",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Data-driven strategies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What dataset was used in the study described in the paragraph?",
+      "answer": "A Germany-wide dataset of monitoring sites along with sequential data for the Boye and Kinzig catchments was used.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Methods Biological data Data basis We used a Germany-wide dataset of monitoring sites (Sch rings et al. 2024b, c), along with sequential data for two intensively sampled watersheds, the Boye and Kinzig catchments (Gillmann et al. 2024a ; Nguyen et al. 2024), selecting only those sites with at least two sam - pling events and available abiotic data for the same year. This yielded a dataset of 1599 sites, sampled between two and 12 times from 2004 to 2022, spanning the fed - eral states of North Rhine-Westphalia, Lower Saxony, Rhineland-Palatinate, Hesse, Thuringia, Saxony-Anhalt, Mecklenburg-Western Pomerania, and Saxony (Figure S1). Benthic invertebrate samples were collected at each site using standardized multi-habitat sampling methods, following the EU Water Framework Directive (WFD) for ecological status assessment (Haase et al. 2004) and were accompanied by information on river types, river sys - items, and river category (whether the river is classified as natural or heavily modified according to the WFD approach). Ecological status As a proxy for community composition and ecosystem health, the river type-specific Multimetric Index (MMI), was calculated with the online tool PERLODES (https:// www.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water quality monitoring",
+      "subtopic": "Data-driven strategies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water quality monitoring|Data-driven strategies_qna_002",
+      "value": 1
+    }
+  ]
+}

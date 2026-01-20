@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Infrastructure grants",
+      "label": "Infrastructure grants",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Infrastructure financing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Infrastructure grants_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the current disparity in funding allocation between infrastructure and mobility solutions by the national government?",
+      "answer": "The national government allocates more funds to infrastructure projects than to broad mobility solutions.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2210422423001181",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Infrastructure financing",
+      "subtopic": "Infrastructure grants",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Infrastructure grants_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What specific types of infrastructure projects are regions mainly funded for by the national government?",
+      "answer": "Regions mainly receive funding for road and housing-related infrastructure projects from the national government.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2210422423001181",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Infrastructure financing",
+      "subtopic": "Infrastructure grants",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Infrastructure grants",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Infrastructure grants_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Infrastructure grants",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Infrastructure financing|Infrastructure grants_qna_001",
+      "value": 1
+    }
+  ]
+}

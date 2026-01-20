@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives",
+      "label": "Pond restoration initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What measures have been implemented to address the global freshwater biodiversity crisis?",
+      "answer": "Measures such as improved wastewater treatment and local habitat restoration have been implemented.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These results highlight the interplay of abiotic and biotic factors in driv- ing ecological processes of recovery and degradation. Conclusion These findings emphasize the critical role of improving water quality for enhancing biodiversity and eco - logical status in rivers, while also demonstrating the importance of biotic interactions and land use context in driv- ing recovery dynamics. Integrating these insights into management and restoration efforts can enhance freshwater ecosystem resilience in the face of escalating environmental pressures. Keywords River restoration, Macroinvertebrate, Water Framework Directive, Freshwater biodiversity, Land use, River, Stream, Multiple stressors Introduction To address the global freshwater biodiversity crisis, numerous measures such as improved wastewater treat - ment and local habitat restoration have been imple - mented (Dudgeon et al. 2006; Reid et al. 2019). These measures led to some progress in combatting environ - mental degradation and biodiversity loss (Pharaoh et al. 2023). However, the recovery trajectory has slowed down in the past 2 decades, as particularly shown for ben - thic invertebrates (Haase et al. 2023; Sinclair et al.",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Pond restoration initiatives",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is widely believed to have contributed to the recovery of benthic invertebrate assemblages in Europe?",
+      "answer": "The recovery is widely believed to have primarily resulted from improvements in water quality.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Ecological Processes (2025) 14:30 It is widely believed that the recovery of benthic inver - tebrate assemblages in Europe has primarily resulted from improvements in water quality (Haase et al. 2023; Sinclair et al. 2024). While water quality enhancements have undoubtedly played a crucial role, the relationship between these improvements and broader ecological out - comes is more complex than it might appear, especially at larger scales. This complexity raises critical questions about additional factors that influence ecological recov - ery. For instance, hydromorphological restoration pro - jects, which aim to restore physical habitat conditions, have shown varying degrees of success (Kail et al. 2015; Lu et al. 2019). While some studies report positive out - comes (e.g., Feld et al. 2018; Li et al. 2018), others find minimal or no improvements beyond the local habitat scale (e.g., Verdonschot et al. 2016; White et al. 2017). This inconsistency highlights a significant challenge: despite substantial advances in wastewater treatment and water quality, hydromorphological restoration often falls short of achieving ecological recovery.",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Pond restoration initiatives",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do biotic interactions play in recovery trajectories according to recent research in freshwater systems?",
+      "answer": "Biotic interactions, particularly competition, play a critical role in shaping recovery trajectories by limiting recolonization success and influencing community dynamics.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2016; Thomp - son et al. 2018), while the significance of dispersal dur - ing recovery has also been noted (Brederveld et al. 2011; Enss et al. 2024; Gillmann et al. 2024b; Li et al. 2016; Louhi et al. 2011). Recent research in freshwater systems has also highlighted the critical role of biotic interac - tions, particularly competition, in shaping recovery tra - jectories. Brettschneider et al. (2023) and White et al. (2021) illustrate how interspecific competition can limit recolonization success and influence community dynam - ics. White et al. (2021) demonstrated that priority effects in restored streams, where established species restrict the colonization success of more vulnerable taxa, can act as a barrier to biotic recovery. Similarly, Brettschneider et al. (2023) highlight that even when habitat conditions improve, recovery may remain limited if biotic interac - tions constrain recolonization. These findings align with those of Gillmann et al. (2024a), who observed competi - tion becoming more pronounced as ecosystems recover from disturbances.",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Pond restoration initiatives",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Pond restoration initiatives_qna_002",
+      "value": 1
+    }
+  ]
+}

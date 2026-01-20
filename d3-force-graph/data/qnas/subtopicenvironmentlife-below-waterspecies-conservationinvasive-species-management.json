@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Invasive species management",
+      "label": "Invasive species management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Invasive species management_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is urgently needed to address biological invasions and NIS proliferations?",
+      "answer": "There is an urgent need for progress in practical tools to assess the risks associated with biological invasions and NIS proliferations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The GBF aims to transform society S relationship with biodiversity by 2030, aligning with the Sustainable Develop- ment Goals and envisioning a future by 2050 where harmony with Nature is achieved (CBD 2022). This framework has 23 action-oriented global targets for urgent action to reverse biodiversity decline over the decade until 2030. Particularly, Target 6 addresses biological invasions, aiming to reduce the introduc- tion of IAS (Invasive Alien Species) by 50% by 2030 and minimise their impact, especially in priority sites, such as islands (CBD 2022). Similarly, the Marine Strategy Framework Directive acknowledges the hazards of NIS proliferation and invasive species by including a dedicated Descriptor (D2) that EU mem- bers must consider when evaluating Good Environ- mental Status (GES) (e.g., Zenetos et al. 2022). With experts and international policies recognising biologi- cal invasions as one of the significant threats to global marine biodiversity (e.g., Ounanian et al. 2012), it is urgent to make progress in practical tools to assess the risks of biological invasions and NIS prolifera- tions (Coop et al.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Invasive species management",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Invasive species management_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why have local land managers recognized the need for conservation management of M. giganteus populations?",
+      "answer": "Local land managers have recognized the need for conservation management due to declining populations that may experience severe declines leading to extirpation without proactive management.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2015; Brunton et al. 2022). For this reason, local land managers have recognised the need for conservation management of these declining populations. Without proactive man- agement, these populations may experience declines too severe to recover from, leading to extirpation. Therefore, M. giganteus presents as an ideal study species to, not only, address gaps in landscape genetic studies of least-concern species but provide insights into the magnitude of impacts surrounding urbanising landscapes on large mammal species. This study aimed to understand and map the effect of landscape structure on M. giganteus gene flow and test the following hypotheses: (i) landscape resistance (Isolation-by-Resistance; IBR) influences M. gigan teus genetic differentiation more than geographical distance alone (Isolation-by-Distance; IBD), and (ii) the influences of landscape structure on the species genetic differentiation are scale-dependent. Methods Study area The Sunshine Coast region of SEQ, is a rapidly urbanising area covering roughly 1,338 km2, north of the capital city of Brisbane, QLD, Australia (Fig. 1). Land use varies within the Sunshine Coast and includes agriculture, forestry, remnant vegeta- tion, modified green spaces, and urban and peri-urban spaces.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Invasive species management",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Invasive species management",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Invasive species management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Invasive species management",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Invasive species management_qna_001",
+      "value": 1
+    }
+  ]
+}

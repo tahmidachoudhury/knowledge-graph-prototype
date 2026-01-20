@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation",
+      "label": "Influence on ocean circulation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of total precipitation over Arctic land areas is constituted by oceanic precipitation?",
+      "answer": "Oceanic precipitation constitutes about 60% of total precipitation over Arctic land areas.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Extreme events differ seasonally, interannually, and geographically, highlighting the complexity of spatio-temporal variability in precipitation across the Svalbard archipelago 25 27, where most of the stations are located near the ocean, making them particularly suitable for studying oceanic precipitation. Oceanic precipitation constitutes about 60% of total precipitation over the Arctic land areas 31, representing a critical but underexplored aspect of the Arctic hydrological cycle. In this perspective, we explore intense precipitation events or extremes at three stations in Svalbard using extreme value theory (EVT). We use the peak over threshold (POT) method for identifying precipitation extremes. Classical statistical methods primarily focus on the average behavior of stochastic processes, whereas EVT concentrates on the tail of the distribution, making it particularly relevant for studies of rare and high- impact occurrences. EVT provides a robust model and framework to describe unusual events often encountered in geoscience applications, such as extreme precipitation, heatwaves, and floods32 38. This statistical theory offers powerful methodologies for modeling extremes, including the generalized extreme value (GEV) distribution and the generalized Pareto distribution (GPD).",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Influence on ocean circulation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main focus of the research mentioned in the paragraph?",
+      "answer": "The main focus is on the impact of precipitation by changing atmospheric circulation and its influence on sea ice reduction in the Arctic, particularly regarding extreme weather events and the hydrological cycle.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 3Present address: SAFIR, Sorbonne University Abu Dhabi, Abu Dhabi, United Arab Emirates. 4Sorbonne Center for Artificial Intelligence, Sorbonne University, 75005 Paris, France. 5Center for Computational Natural Science and Bioinformatics, International Institute of Informational Technology, Hyderabad 500032, India. 6Division of Dynamics, Lodz University of Technology, 90-924 Lodz, Poland. 7Centre for Mathematical Biology and Ecology, Department of Mathematics, Jadavpur University, Kolkata 700032, India. 8Dhiman Das and R. Athulya contributed equally to this work. email: diba.ghosh@gmail.com OPEN Scientific Reports www.nature.com/scientificreports precipitation by the changing atmospheric circulation is the sea ice reduction. For example, the Barents Sea, a deep water-forming site in the Arctic, experienced a dramatic reduction in the sea ice16, significantly altering the local atmospheric circulation patterns. Given the potential influence of extreme weather events on the Arctic hydrological cycle, a comprehensive understanding of the occurrences of extremes is crucial for better projection of climate and weather in the high Arctic and their impact on the oceanic circulation. While several studies have explored extreme precipitation patterns globally 17 21, research in the Arctic remains limited, constrained by data availability.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Influence on ocean circulation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How might a shift in precipitation patterns in the Arctic impact the environment?",
+      "answer": "It can affect Arctic hydrology by melting glaciers and ice caps, which influences ocean circulation and weather patterns, contributing to sea level rise.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Additionally, increases in annual mean, daily, and 5-day total precipitation are strongly linked to enhanced atmospheric moisture from warming and intensified moisture transport from lower latitudes towards the Arctic 9. A predominantly frigid Arctic is expected to experience frequent and intense precipitation events, accompanied by a marked shift from snow to rain 10. A recent work by Athulya et al.11 in Ny- lesund, in the high Arctic coastal region, highlights a significant rise in winter precipitation without any corresponding increases in the number of precipitation days. This suggests that, in a warmer Arctic, intense short-duration precipitation events may become more frequent12,13. This poses a question: Whether Arctic precipitation is shifting towards extremes? A shift in the precipitation pattern in the Arctic can affect the entire Arctic hydrology by melting glaciers and ice caps, affecting ocean circulation and weather patterns, and eventually contributing to sea level rise14,15. Another important factor affecting 1Physics and Applied Mathematics Unit, Indian Statistical Institute, Kolkata 700108, India. 2National Centre for Polar and Ocean Research, Ministry of Earth Sciences, Vasco da Gama 403804, India.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Influence on ocean circulation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Influence on ocean circulation_qna_002",
+      "value": 1
+    }
+  ]
+}

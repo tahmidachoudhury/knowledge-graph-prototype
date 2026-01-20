@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Energy-efficient processes",
+      "label": "Energy-efficient processes",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Energy-efficient processes_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do physical pretreatments impact the environmental and cost aspects of textile processing?",
+      "answer": "Physical pretreatments are associated with intensive energy consumption, raising environmental concerns and posing high costs for large-scale implementation.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Energy-efficient processes",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Energy-efficient processes_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are some energy-intensive processes in silk production?",
+      "answer": "The temperature and humidity control in silk production consume a lot of energy. Additionally, the use of hot air or steam to dry the cocoons.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/B9780128240526000135",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Energy-efficient processes",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Energy-efficient processes",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Energy-efficient processes_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Energy-efficient processes",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Energy-efficient processes_qna_001",
+      "value": 1
+    }
+  ]
+}

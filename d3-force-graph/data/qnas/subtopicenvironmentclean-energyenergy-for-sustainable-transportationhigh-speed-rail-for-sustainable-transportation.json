@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|High-speed rail for sustainable transportation",
+      "label": "High-speed rail for sustainable transportation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|High-speed rail for sustainable transportation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the potential benefits of investing in high-speed rail and other intercity transportation options?",
+      "answer": "Investing in high-speed rail and other intercity transportation options can reduce the reliance on air travel and long-distance car trips, improve connectivity between cities and regions, reduce travel times, and lower greenhouse gas emissions from transportation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for sustainable transportation",
+      "subtopic": "High-speed rail for sustainable transportation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|High-speed rail for sustainable transportation",
+      "target": "Subtopic:Environment|Clean energy|Energy for sustainable transportation|High-speed rail for sustainable transportation_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Electric vehicle batteries",
+      "label": "Electric vehicle batteries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Electric vehicle batteries_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is the production of electric cars currently a bottleneck in the transition to e-vehicles?",
+      "answer": "The production of electric cars is currently a bottleneck in the transition to e-vehicles because current batteries require lithium and the supply of lithium is limited in terms of both quantity and quality.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "subtopic": "Electric vehicle batteries",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Electric vehicle batteries",
+      "target": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Electric vehicle batteries_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development",
+      "label": "Balanced development",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the main components involved in the synergistic development analyzed in the study?",
+      "answer": "The main components involved are water resources, economic society, and the ecological environment.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Analysis of influencing factors and paths of synergistic development of water resources-economic society-ecological environment based on DIM modeling Suming Ren1, Fuqiang Wang1,2, , Peiheng Liu1, Heng Zhao1,2, Honglu Zhang1 & Lanbo Cui1 The intersection of climate change and human activities exacerbates the prominent contradiction between environmental resources and economic development. The synergistic development of water resources, economy and society, and ecological environment is particularly urgent. Therefore, accurately identifying its influencing factors and related pathways holds significant practical importance in resolving the contradiction between resources and economic de velopment. This study constructs a system of influencing factors for the synergistic de velopment of water resources, economic society and ecological environment from three dimensions, re veals the influencing relationship between indicators through the Decision Making Trial and Evaluation Laboratory (DEMATEL), determines the hierarchical structure of the influencing factors and the related paths through the Interpretive Structural Model (ISM), and classifies the influencing factors through the Matrix Multiplication Method of Cross Influence Matrix Multiplication (MICMAC). The results show that water resource factors are important cause factors and economic, social and ecological factors are essential effect factors.",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Balanced development",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was the main driver of asymmetry relationships in sustainable product development (SPD) according to the text?",
+      "answer": "The main driver of uniform asymmetry relationships in SPD was economic sustainability orientation, with less focus on social and environmental sustainability by both parties.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0148296322006348",
+      "paragraph": "",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Balanced development",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did participants in co-existing asymmetry relationships differ from those in uniform asymmetry relationships in terms of sustainability goals?",
+      "answer": "Participants in co-existing asymmetry relationships focused equally on economic, social, and environmental sustainability in SPD by developing mutual sustainability goals, contrasting with the less emphasis on social and environmental sustainability in uniform asymmetry relationships.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0148296322006348",
+      "paragraph": "",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Socioeconomic harmony",
+      "subtopic": "Balanced development",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development",
+      "target": "Subtopic:Social|Reduced inequalities|Socioeconomic harmony|Balanced development_qna_002",
+      "value": 1
+    }
+  ]
+}

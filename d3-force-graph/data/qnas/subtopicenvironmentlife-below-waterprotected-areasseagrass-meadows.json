@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows",
+      "label": "Seagrass meadows",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What types of fauna are being assessed in the seagrass meadows according to the study?",
+      "answer": "The study assesses both large (> 1 mm) and small (0.2 - 1 mm) epifauna, as well as infauna.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Navigating biodiversity patterns in fragmented seagrass mosaics Rodrigo Riera1,4, N stor E. Bosch1, Eduardo Infantes2 & Joana Vasconcelos1,3,4 Human-driven fragmentation of natural habitats increasingly threatens biodiversity , particularly in coastal ecosystems like seagrass meadows. Fragmentation breaks continuous habitats into smaller, isolated patches, amplifying edge effects and disrupting community structures and ecosystem functions. This study examines the effects of habitat fragmentation on large (> 1 mm) and small (0.2 1 mm) epifauna, as well as infauna, within eelgrass ( Zostera marina ) meadows along the Skagerrak coast in western Sweden. We assessed faunal responses across three fragmentation levels (low, medium, and high) and patch zones (Edge, Near-Edge and Center), providing a novel multi-assemblage analysis of these dynamics. Field surveys and statistical modeling revealed distinct community responses: large epifauna, especially amphipods, dominated low and moderately fragmented meadows, whereas highly fragmented areas showed more even species distributions. In contrast, small epifauna exhibited consistent abundance across zones and fragmentation le vels. Infaunal communities varied most, with high fragmentation linked to increased evenness and shifts in species composition.",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Seagrass meadows",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How do edge effects relate to seagrass meadows?",
+      "answer": "Seagrass meadows serve as a valuable model for studying edge effects and fragmentation because they are transitional zones between seagrass beds and adjacent habitats, where pronounced edge effects influence species distribution and ecosystem function.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The contrasting conditions between habitat edges and interiors - known as edge effects - intensify the impacts on community structure, habitat complexity, and species interactions, with variations across ecosystems16 19. While edge effects may not directly cause fragmentation, they compound its effects on biodiversity, species composition, and ecosystem functions1,20 Seagrass meadows, essential coastal habitats and nurseries for many marine species, serve as a valuable model for studying edge effects and fragmentation18,21. As transitional zones between seagrass beds and adjacent habitats like sandy substrates, these ecotones exhibit pronounced edge effects, which drive shifts in both epifaunal and infaunal communities15,21,22, These effects are often more pronounced at habitat edges, where exposure to predators and environmental stress is greater, leading to behavioral and physiological changes in both groups23,24. Additionally, nutrient and sediment dynamics shift within these ecotones, further influencing species distribution and ecosystem function25,26. Epifaunal species, such as annelids, crustaceans, and mollusks, are particularly sensitive to structural changes, with resulting shifts in species richness, abundance, and community dynamics23,27. Infaunal organisms, including polychaetes and burrowing crustaceans, are impacted by changes in sediment composition, which affects their distribution and survival rates28,29.",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Seagrass meadows",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does this study aim to analyze regarding seagrass meadows?",
+      "answer": "This study aims to analyze how edge effects vary in seagrass meadows with different fragmentation levels, focusing on epifaunal and infaunal communities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Both groups play key 1Grupo en Biodiversidad y Conservaci n (BIOCON), ECOAQUA, Universidad de Las Palmas de Gran Canaria, Canary Islands 35017, Spain. 2Department of Biological and Environmental Sciences, University of Gothenburg, Kristineberg, Sweden. 3MARE Marine and Environmental Sciences Centre/ARNET Aquatic Research Network, Ag ncia Regional para o Desenvolvimento da Investiga o Tecnologia e Inova o (ARDITI), Funchal, Portugal. 4Rodrigo Riera and Joana Vasconcelos contributed equally to this work. email: eduardo.infantes@marine.gu.se; joanapatricia.reis@ulpgc.es OPEN Scientific Reports www.nature.com/scientificreports roles in benthic food webs, connecting primary producers with higher trophic levels and serving as bioindicators of environmental stress30,31. Although the impacts of fragmentation and edge effects in seagrass meadows are well-documented, less is known about their specific effects on epifaunal and infaunal communities18,32,33. Previous research has often studied these communities separately, without fully examining the role of fragmentation in shaping their structure and dynamics32,34. This study addresses this gap by analyzing how edge effects vary in seagrass meadows with different fragmentation levels, with a particular focus on epifaunal and infaunal communities.",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Seagrass meadows",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Seagrass meadows_qna_002",
+      "value": 1
+    }
+  ]
+}

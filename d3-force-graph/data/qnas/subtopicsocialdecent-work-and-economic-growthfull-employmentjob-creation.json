@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation",
+      "label": "Job creation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How much did job creation in the new energy industry increase after the changes were implemented?",
+      "answer": "Job creation in the new energy industry increased from 6,000 jobs to 7,500 jobs, indicating a positive economic impact and the creation of 1,500 new job opportunities.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "subtopic": "Job creation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is a significant concern for organizations striving for sustainable development according to George et al. (2021)?",
+      "answer": "The lack of a skilled workforce is a significant concern for organizations as highlighted by George et al. (2021).",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "subtopic": "Job creation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How can entrepreneurship ventures in the renewable energy sector lead to economic growth and job creation?",
+      "answer": "By encouraging entrepreneurship ventures in the discovery of alternate energy resources, nations can create green jobs, boost economic growth, and uplift living standards, aligning with the goals of SDG 8 on decent work and economic growth.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Full employment",
+      "subtopic": "Job creation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation",
+      "target": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation",
+      "target": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation",
+      "target": "Subtopic:Social|Decent work and economic growth|Full employment|Job creation_qna_002",
+      "value": 1
+    }
+  ]
+}

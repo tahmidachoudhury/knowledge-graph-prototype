@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pipelines",
+      "label": "Pipelines",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pipelines_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is a common occurrence in pipe systems and multi-channel networks across various sectors?",
+      "answer": "The mixing of turbulent fluxes in tee sections is a common occurrence in these systems.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " A prevalent occurrence in pipe systems and multi-channel net- works across numerous sectors is the mixing of turbulent uxes in tee sections [ 2]. This includes petrochemical facil- ities, electronic cooling, nuclear power plants, refrigeration industry, greenhouse effect reduction inside buildings, etc. [3]. In turbines and compressors utilized in turbomachin- ery, the thermal state has to be at least maintained. Thereare vessel tees which act as an intermediate section of the theatre that mixes the hot and cold uids to get speci C ther- mal pro les which are mainly avoidable thermal stress andboost productivity [ 4]. Therefore, the process of mixing has the potential to in uence ow properties such as velocity and pressure. Indirect from the mixing tees, engineers canhave the capability to control and select these parameters in a way that enhances the operation progress of turbomachinery, because the condition of the incoming uid is very crucialto the turbomachinery operation [ 5]. In processes such as petrochemicals, the mixing tees enable the combining of the 123 2090 International Journal on Interactive Design and Manufacturing (IJIDeM) (2025) 19:2089 2099 Fig.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Pipelines",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pipelines_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the significance of understanding the thermal hydraulic behavior of fluid inside the T-section?",
+      "answer": "Understanding the thermal hydraulic behavior is essential for piping design and safe operation, as it helps identify regions with intense temperature fluctuations that can lead to damage and incidents in power plants.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 1 aGeometry of ow domain, and bmeshed domain reagents before getting into reactors or turbines. It guaran- tees interaction of the chemical substances is uniform and plays a central role in processes where prede ned reactionrequirements are important [ 6]. Temperature uctuations are observed at the interfacial region while hot and cold uids are mixed. Fluctuations intemperature close to mixing tees result in high-cycle thermal fatigue, which may cause damage to T-sections and pipelines. This has resulted in leakage and incidents occurring withinpower plants on speci C occasions [ 2]. Since piping design and safe operation depend on a thorough comprehension of the thermal hydraulic behaviour of uid inside the T-section, it is essential to have this knowledge thorough. In general, ow patterns inside the T-section provide useful information for identifying regions with intense temperature uctuations. Utilizing the momentum ratio ( MR=M m/Mb), experimental and numerical modelling techniques, and the tee ow pat- tern, Kamide et al. [ 4] reported that the ow patterns can be categorized into wall jet, de ecting jet, and impinging jet OWS. Furthermore, while an, the ow pattern in a T-junctionbecomes even more complicated in case of upstream elbow.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Pipelines",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pipelines",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pipelines_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pipelines",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Pipelines_qna_001",
+      "value": 1
+    }
+  ]
+}

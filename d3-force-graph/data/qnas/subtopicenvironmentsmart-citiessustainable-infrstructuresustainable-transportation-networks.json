@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks",
+      "label": "Sustainable transportation networks",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is CO2 now considered as important as accessibility in Urban Mobility Policy planning post-Paris Agreement?",
+      "answer": "Prior to the Paris Agreement, congestion reduction took precedence over environmental concerns, but now CO2 is seen as equally important due to the shift in priorities towards sustainability.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2210422423001181",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Sustainable transportation networks",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How do Black and Schaeffer (2010) define transport demand management in the context of sustainable urban transport?",
+      "answer": "Black and Schaeffer (2010) define transport demand management as a key factor in the delivery of sustainable urban transport.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2210422423001181",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Sustainable transportation networks",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "Why are improve strategies considered critical in terms of timing in transitioning to a more sustainable transport system?",
+      "answer": "Improve strategies are crucial in terms of timing to ensure a smooth transition without creating negative impacts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Sustainable transportation networks",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why do some criteria in road transport have significant differences for individual countries, and how does this affect rankings?",
+      "answer": "Some criteria in road transport have significant differences for individual countries because they account for a large share of final energy consumption. This leads to changes in rankings even with a slight change in the indifference threshold.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/370705198_Temporal_PROMETHEE_II_-_New_multi-criteria_approach_to_sustainable_management_of_alternative_fuels_consumption",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Sustainable transportation networks",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Sustainable transportation networks_qna_003",
+      "value": 1
+    }
+  ]
+}

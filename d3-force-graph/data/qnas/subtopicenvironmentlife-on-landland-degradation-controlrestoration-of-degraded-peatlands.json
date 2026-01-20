@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded peatlands",
+      "label": "Restoration of degraded peatlands",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded peatlands_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What was the effect of disturbance on bryophyte richness in the study?",
+      "answer": "Disturbance increased bryophyte richness and modulated the effects of nitrogen fertilization and other treatments.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Nitrogen enrichment and vascular plant richness loss reduce bryophyte richness Maeve Lin1 , Ariel Bergamini1, No mie A. Pichon1, Eric Allan2,3,4 & Steffen Boch1 Grasslands high diversity is threatened by land-use changes, such as nitrogen fertilization, leading to productive but low-richness, fast-growing plant communities. Bryophytes are a key component of grassland diversity and react strongly to land use. However, it is unclear whether land-use effects are direct or mediated by changes in vascular plants. Increases in vascular plant cover are likely to decrease bryophyte abundance through light competition. Whether changes in vascular plant composition and richness also play a role remains unclear. We sampled bryophytes in a factorial grassland experiment manipulating nitrogen fertilization, fungicide, species richness, and functional composition of vascular plants crossed with moderate disturbances by weeding. Disturbance increased bryophyte richness and modulated treatment effects. In contrast to previous studies reporting indirect negative fertilization effects via increasing vascular plant productivity and reduced light le vels, nitrogen fertilization directly reduced bryophyte cover and species richness, possibly because of to xic effects. Low vascular plant richness and dominance of fast-growing species reduced bryophyte richness.",
+      "macrotopic": "Life on land",
+      "topic": "Land degradation control",
+      "subtopic": "Restoration of degraded peatlands",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded peatlands",
+      "target": "Subtopic:Environment|Life on land|Land degradation control|Restoration of degraded peatlands_qna_000",
+      "value": 1
+    }
+  ]
+}

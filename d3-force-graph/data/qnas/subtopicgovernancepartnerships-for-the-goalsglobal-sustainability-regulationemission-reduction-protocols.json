@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Emission reduction protocols",
+      "label": "Emission reduction protocols",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation"
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Emission reduction protocols_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How can individuals take action to minimize their contribution to environmental pollution?",
+      "answer": "AR2: How can individuals take action to minimize their contribution to environmental pollution?",
+      "macroArea": "Governance",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1029313224000010",
+      "paragraph": "",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "subtopic": "Emission reduction protocols",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Emission reduction protocols_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What type of regulatory instrument was found to be most effective in reducing pollution by eliminating polluting alternatives?",
+      "answer": "Bans were found to be the most effective regulatory instrument because they remove the polluting alternative (Pantone et al., 2011).",
+      "macroArea": "Governance",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S235255092300012X",
+      "paragraph": "",
+      "macrotopic": "Partnerships for the goals",
+      "topic": "Global sustainability regulation",
+      "subtopic": "Emission reduction protocols",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Emission reduction protocols",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Emission reduction protocols_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Emission reduction protocols",
+      "target": "Subtopic:Governance|Partnerships for the goals|Global sustainability regulation|Emission reduction protocols_qna_001",
+      "value": 1
+    }
+  ]
+}

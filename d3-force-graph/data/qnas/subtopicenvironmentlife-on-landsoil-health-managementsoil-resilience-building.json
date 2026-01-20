@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building",
+      "label": "Soil resilience building",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What aspect of soil bacteria does the article emphasize in terms of ecosystem functionality?",
+      "answer": "The article emphasizes the vital role of soil bacteria in ecosystem resilience and resistance.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Article https://doi.org/10.1038/s41467-25-57526-x Differential roles of deterministic and stochastic processes in structuring soilbacterial ecotypes across terrestrialecosystems Mia Riddley 1,7, Shannon Hepp1,7, FNU Hardeep2, Aruj Nayak2,M e i e iL i u3, Xin Xing3, Hailong Zhang4& Jingqiu Liao1,5,6 Soil bacteria are vital to ecosystem resilience and resistance, yet ecological attributes and the drivers governing their composition and distribution, especially for taxa varying in ecologi cal traits and inhabiting different eco- systems, are not fully understood. Here, we analyzed a large-scale bacterial community and environmental dataset of 622 soil samples systematically collected by us from six major terrestri al ecosystems across the United States. We show that soil bacterial diversity and composition signi cantly differ among ecotypes and ecosystems, par tially determined by a few universal abiotic factors (e.g., soil pH, calcium , and aluminum) and several ecotype- or ecosystem-speci C ecological drivers. Co-occu rrence network analysis sug- gests that rare taxa have stronger ecological relevance to the community thanabundant taxa. Ecological models reveal ed that deterministic processes shape assembly of abundant taxa and generalis its, while stochastic processes playedagreaterrolei nr a r et a X aa n ds pecial i sts.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil resilience building",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the purpose of the findings from this research regarding soil health?",
+      "answer": "The findings offer a robust framework for soil protection policies and restoration strategies to enhance sustainability and ecosystem resilience.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " communications earth & environment Article https://doi.org/10.1038/s43247-25-2021-w Soil health in Latin America and the Caribbean Check for updates Raul Roberto Poppiel1, Maur cio Roberto Cherubin1,2,J e a nJ .M N ova i s1& Jos A. M. Dematt 1,2 Socio-economic progress relies on critical soil ecosystem services, yet Latin American and Caribbean soils face considerable pressures. Here we assess soil health across the region using remote sensingdata processed with cloud-based machine learning to create high-resolution maps (90 m) of a soilhealth index. This index integrates weighted physical, chemical, and biological indicators, such astotal porosity, plant-available water, and carbon stock. Based on ve soil functions, which involve water and nutrient uxes, carbon sequestration, and supporting plant growth, we found that 38% of soils are classi ed as unhealthy, 28% as moderate, and 34% as healthy. Unhealthy soils dominate drylands and savannas with frequent surface exposure, while humid equatorial zones exhibit healthierconditions. Notably, the Amazon basin registers medium-low soil health, underscoring the urgentneed for conservation. Our ndings offer a robust framework for soil protection policies and restoration strategies to enhance sustainability and ecosystem resilience.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil resilience building",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil resilience building_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Eco-friendly technology adoption",
+      "label": "Eco-friendly technology adoption",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Eco-friendly technology adoption_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can digitalization and new technologies help citizens and businesses be environmentally friendly, according to Bird and Krogstad (2020)?",
+      "answer": "Digitalization and new technologies can make it easier for citizens and businesses to be environmentally friendly by reducing energy consumption, carbon footprint, and enabling more sustainable practices.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Eco-friendly technology adoption",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Eco-friendly technology adoption_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How many companies in the sample already adopt green practices?",
+      "answer": "Approximately 29% of the companies in the sample already adopt green practices.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Resource conservation efforts",
+      "subtopic": "Eco-friendly technology adoption",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Eco-friendly technology adoption",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Eco-friendly technology adoption_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Eco-friendly technology adoption",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Resource conservation efforts|Eco-friendly technology adoption_qna_001",
+      "value": 1
+    }
+  ]
+}

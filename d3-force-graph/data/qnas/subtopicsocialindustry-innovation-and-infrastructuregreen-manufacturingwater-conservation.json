@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation",
+      "label": "Water conservation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What is the importance of water in the textile industry, as discussed in the context of wastewater treatment?",
+      "answer": "Water is crucial in the textile industry, and wastewater treatment is essential for conserving this vital resource, ensuring sustainability, and protecting the environment.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652622052167",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Water conservation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the four categories into which existing practices for water conservation in the textile industry were grouped by Hussain and Ahab (2018)?",
+      "answer": "Hussain and Ahab (2018) grouped existing practices for water conservation in the textile industry into four categories: water conservation through treatment and reuse of textile wastewater, machinery innovations for textile production, textile processing methods innovations, and innovation of chemicals.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Water conservation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some challenges faced in implementing water conservation practices in textile wet processing?",
+      "answer": "Challenges in implementing water conservation practices in textile wet processing include the high water intensity of the industry, limited access to water-saving technologies, and the need for significant investments in infrastructure and technology upgrades.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Green manufacturing",
+      "subtopic": "Water conservation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Green manufacturing|Water conservation_qna_002",
+      "value": 1
+    }
+  ]
+}

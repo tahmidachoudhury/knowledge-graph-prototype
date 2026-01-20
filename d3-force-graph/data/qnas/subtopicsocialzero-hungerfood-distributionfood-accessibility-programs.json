@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food accessibility programs",
+      "label": "Food accessibility programs",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food accessibility programs_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are some examples of joint efforts within the food system that have proven successful in improving access to nutritious food?",
+      "answer": "Collaborative initiatives such as public-private partnerships for agricultural development, community-led food security programs, and coordinated food distribution networks have shown positive outcomes in enhancing food access and nutrition for vulnerable populations.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S235255092300012X",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Food accessibility programs",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food distribution|Food accessibility programs_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "According to evidence-based understandings, what is missing in the European strategy on GI?",
+      "answer": "Prioritizations according to evidence-based understandings are partly missing in the European strategy on GI.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " These multiple objectives have, how- ever, led to different implementations of the strategy indifferent European countries (Sla tmo et al. 2019 ). Some countries have applied the strategy with a direct biodiver- sity conservation objective aiming to develop resilient andcoherent ecological networks for biodiversity and ecosys- tem services (Salomaa et al. 2017 ; Sla tmo et al. 2019 ; von Post et al. 2023 ), while others have applied it in a more general land-use and spatial planning context with only indirect links to biodiversity conservation (Sla tmo et al. 2019 ). In particular, the ecological landscape perspective necessary for conservation of biodiversity is vaguely rep- resented in the European strategy on GI, and prioritisations according to evidence-based understandings are partlymissing (von Post et al. 2023 ). Notably, within a biodiversity context, GI is often interpreted as having a particular focus on the structuralconnectivity between habitats (Wright 2011 ; Garmendia et al. 2016 ; Salomaa et al. 2017 ). However, in relation to other objectives the interpretations of GI vary (see Wright2011 ; Sla tmo et al.",
+      "macrotopic": "Zero hunger",
+      "topic": "Food distribution",
+      "subtopic": "Food accessibility programs",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Food accessibility programs",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Food accessibility programs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food distribution|Food accessibility programs",
+      "target": "Subtopic:Social|Zero hunger|Food distribution|Food accessibility programs_qna_001",
+      "value": 1
+    }
+  ]
+}

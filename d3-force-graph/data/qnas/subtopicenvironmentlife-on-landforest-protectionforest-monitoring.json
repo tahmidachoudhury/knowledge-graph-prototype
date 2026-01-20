@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest monitoring",
+      "label": "Forest monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Forest protection|Forest monitoring_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the mean forest cover within 20 km of study sites compare to the mean forest cover across the study region?",
+      "answer": "The mean forest cover within 20 km of study sites was 90%, while the mean forest cover across the study region was 50%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Across all studies, hunters sold a mean of 57 17% of the animals hunted (range, 17 94%). The studies were biased towards areas with greater forest cover: the mean forest cover within 20 km of sites was 90 8% (Fig. 1 ), whereas the mean forest cover across the study region was 50 33%. The study sites were located closer to protected area (PA) boundaries (35 30 km away) compared with the mean across the study region of 48 km (excluding points inside PAs), and in areas with lower human population density (7 13 individuals per km2) than the mean across the study region of 40 86 individuals per km2 in 2020 (excluding urban areas). Modelling offtake and composition Our analyses showed that studies with more hunters surveyed were associated with lower estimates of offtake (kg per hunter per day; Fig. 2 , Extended Data Fig. 2a and Supplementary Nature Sustainability Analysis https://doi.org/10.1038/s41893-24-1494-5The taxonomic composition of the hunter offtake was associated with several variables (Fig. 2), depending on the metric under consid - eration.",
+      "macrotopic": "Life on land",
+      "topic": "Forest protection",
+      "subtopic": "Forest monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Forest protection|Forest monitoring",
+      "target": "Subtopic:Environment|Life on land|Forest protection|Forest monitoring_qna_000",
+      "value": 1
+    }
+  ]
+}

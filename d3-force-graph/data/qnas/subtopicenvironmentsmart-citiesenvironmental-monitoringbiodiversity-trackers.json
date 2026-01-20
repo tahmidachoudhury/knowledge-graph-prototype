@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers",
+      "label": "Biodiversity trackers",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What might businesses look for in a biodiversity indicator?",
+      "answer": "Businesses might look for an easy-to-track, target-oriented indicator.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In these contexts, indicators are used to assess (bio-diversity) impacts linked to different LU change drivers, whichincludes accountability for historical impacts or identi cation of cur- rent pressures 4 6. Such biodiversity information is relevant not only to decisions on agricultural LU locally, but also those concerning supply-chain decisions downstream 7,8. Whether used by government agencies, research institutions, non-governmental organisations, businesses or consumers, relatingReceived: 6 May 2024 Accepted: 10 February 2025 Check for updates 1Senckenberg Biodiversity and Climate Research Centre, Frankfurt am Main, Germany.2Faculty of Biological Sciences, Goethe University Frankfurt, Frankfurt am Main, Germany.3Department of Space, Earth and Environment, Chalmers University of Technology, Gothenburg, Sweden.4Stockholm Environment Institute York, University of York, York, UK. e-mail: gabi.rabeschini@gmail.com ;martin.persson@chalmers.se Nature Communications I (2025) 16:1799 11234567890():, 1234567890():, biodiversity indicators to the agricultural LU drivers will be useful if it equips actors with robust information to address trade-offs betweenproduction, consumption and conservation. Policy makers may wishfor an indicator that is easy to implement and communicate; busi- nesses, for an easy-to-track, target oriented indicator; researchers, for an indicator that captures accurately as many aspects of biodiversity aspossible.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Biodiversity trackers",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What categories do scientists use to classify bird populations in urban settings?",
+      "answer": "Scientists classify bird populations in urban settings into categories based on their population dynamics: dwellers, utilizers, and avoiders.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2008 ; Escobar- lb ez and MacGregor-Fors 2016 ; Marzluff 2016 ; Sun et al. 2022 ). Birds inhabiting urban areas are exposed to a large variety of physiological stress sources, such as predation by opportunistic scavengers (e.g., cats, dogs, raccoons, crows), parasitic diseases, and collisions with anthropogenic struc - tures (e.g., vehicles, bus shelters, windows; Klem 1989 ; Marzluff 2001 ; Loss et al. 2015 ; Santiago-Alarcon and Delgado-V 2017 ; Zy k-Gorczy ska et al. 2020 ). Despite all the above, bird species have different responses to environ - mental changes, some of them even adapting and thriving in these transformed habitats over time (Croci et al. 2008 ; McDonnell and Hahs 2015 ; Patankar et al. 2021 ). These differential responses have allowed scientists to classify them into different categories according to their population dynamics within cities (i.e., dwellers, utilizers, avoiders; see Fischer et al. 2015 ). Although migratory species are commonly considered urban avoiders, certain migratory species (e.g., insectivore species) may utilize urban greenspaces as winter habitats or temporary stopover areas, especially when these spaces are located close to other larger green areas (MacGregor-Fors et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Biodiversity trackers",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Biodiversity trackers_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy",
+      "label": "Behavior change campaigns for clean energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can disruptive events potentially trigger transitions towards sustainable consumption, as suggested by Chiu et al.?",
+      "answer": "According to Chiu et al., disruptive events can trigger transitions towards sustainable consumption by creating opportunities for change, leading individuals and organizations to reevaluate their practices and adopt more sustainable behaviours in response.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Behavior change campaigns for clean energy",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What efforts are needed to improve social acceptance and engagement in the bioeconomy transition?",
+      "answer": "Efforts such as conducting interviews and surveys to understand individuals' perceptions and future expectations, as well as comparing current policies with future visions, are essential to improve social acceptance and engagement in the bioeconomy transition.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/356416401_The_circular_economy_and_bioeconomy_in_the_fashion_sector_Emergence_of_a_sustainability_bias",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Behavior change campaigns for clean energy",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is a common observation made in the domain of sustainability and pro-environmental behaviour?",
+      "answer": "A common observation is the discrepancy between people's intentions, attitudes, and beliefs towards sustainability and their actual behaviour. This gap is frequently noted in studies on pro-environmental behaviour.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000360",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Behavior change campaigns for clean energy",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Behavior change campaigns for clean energy_qna_002",
+      "value": 1
+    }
+  ]
+}

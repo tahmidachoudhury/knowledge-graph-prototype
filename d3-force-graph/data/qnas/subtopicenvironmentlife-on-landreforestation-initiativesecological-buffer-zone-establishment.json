@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological buffer zone establishment",
+      "label": "Ecological buffer zone establishment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological buffer zone establishment_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What geographic feature was created around each lapwing nest for the study?",
+      "answer": "A 500-meter buffer zone was created around each lapwing nest to describe the landscape composition.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We excluded individuals who failed reproduction because they were no longer tied to the nest site and started wandering, sometimes at con - siderable distances from the study area. We also excluded three individuals (one in 2022 and two in 2023) due to GPS malfunctioning, resulting in seven individuals in both years. The details of the 14 individuals included in the foraging habitat selection investigated by means of GPS tracking are available in Supplemental Material Table S3. Landcover survey To describe the landscape composition surrounding each lapwing nest, we created a 500-m buffer around each nest (Fig. 1). Similar studies on habitat use in breeding northern lapwings have used a comparable nest buffer size (Horvat and Denac 2019 ; Sakseide and Dale 2023 ), and GPS track - ing confirmed the goodness of fit of this threshold, with 80.0 17.3% (mean SD) of all fixes falling inside the nest buffer zone of the matching individual. Environmental sur - veys to characterize land cover parcels were then carried out within this buffer. Several new nests were discovered during the land cover mapping and were included in the subsequent analysis.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Ecological buffer zone establishment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological buffer zone establishment",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological buffer zone establishment_qna_000",
+      "value": 1
+    }
+  ]
+}

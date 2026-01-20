@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Grid optimization algorithms",
+      "label": "Grid optimization algorithms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Grid optimization algorithms_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can optimizing energy flows contribute to the expansion of electricity grids in the European Union?",
+      "answer": "Optimizing energy flows can help identify efficient ways to integrate renewable energy sources into the grid, thus overcoming barriers to grid expansion in the EU.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Grid optimization algorithms",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Grid optimization algorithms",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Grid optimization algorithms_qna_000",
+      "value": 1
+    }
+  ]
+}

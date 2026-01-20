@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Equal economic opportunities|Fair trade and gender equality",
+      "label": "Fair trade and gender equality",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Equal economic opportunities"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Equal economic opportunities|Fair trade and gender equality_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Is it true that the fashion industry in Bangladesh is solely focused on production without considering workers' rights in their supply chain?",
+      "answer": "No, it is incorrect to assume that the fashion industry in Bangladesh is neglecting workers' rights within their supply chain. Many companies outsourcing production to Bangladesh are actively collaborating with local consultant offices to improve sustainability and ensure workers' safety and rights.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://research.cbs.dk/en/publications/social-environmental-and-economic-value-in-sustainable-fashion-bu",
+      "paragraph": "",
+      "macrotopic": "Gender equity",
+      "topic": "Equal economic opportunities",
+      "subtopic": "Fair trade and gender equality",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Equal economic opportunities|Fair trade and gender equality",
+      "target": "Subtopic:Social|Gender equity|Equal economic opportunities|Fair trade and gender equality_qna_000",
+      "value": 1
+    }
+  ]
+}

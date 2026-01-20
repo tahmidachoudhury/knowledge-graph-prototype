@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Remote diagnostics",
+      "label": "Remote diagnostics",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Remote diagnostics_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Besides traditional digital X-ray radiography and tomography, what additional functionalities does the micro-X-ray computed tomography instrument have?",
+      "answer": "The instrument can visualize in situ tensile and compression testing and perform diffraction contrast tomography.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " IRRADIATION TESTING: FACILITIES, CAPABILITIES, AND EXPERIMENT DESIGNS Laboratory-Based Micro-X-ray Computed Tomography of Energy Materials at Idaho National Laboratory WILLIAM CHUIRAZZI ,1,2RAHUL REDDY KANCHARLA,1 and SWAPNIL MORANKAR1 1. Post-Irradiation Examination Department, Materials and Fuels Complex, Idaho National Laboratory, Idaho Falls, ID 83415, USA. 2. e-mail: william.chuirazzi@inl.gov The Idaho National Laboratory (INL) has implemented laboratory-based mi- cro-X-ray computed tomography in a laboratory equipped for the examinationof highly radioactive samples. This capability provides nondestructive three- dimensional volumetric information on samples to inform subsequent tradi- tional destructive examinations as well as real-world inputs for high- delityscienti C modeling. Samples can be imaged with spatial resolutions ranging from several hundred nm/voxel up to /C24100lm/voxel. The best usable spatial resolution achieved to date is 384 nm/voxel with this instrument, while thehighest radiological dose rate of a sample imaged is /C2460 R/h b/con contact. Advanced data analysis, including custom tomographic reconstruction and segmentation methods, have also been developed to support this capability. Inaddition to traditional digital X-ray radiography and tomography, thisinstrument is also able to visualize in situ tensile and compression testing as well as perform diffraction contrast tomography.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Remote diagnostics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Remote diagnostics",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Remote diagnostics_qna_000",
+      "value": 1
+    }
+  ]
+}

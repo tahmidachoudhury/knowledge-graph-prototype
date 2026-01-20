@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Catch documentation",
+      "label": "Catch documentation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Catch documentation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is it crucial to accurately document the complex interactions of fish footprint in line with the targets of the SDGs?",
+      "answer": "Accurate documentation is crucial to designing sustainable fish resource policies while achieving the other SDGs and ensuring the sustainable use of fish resources.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0025326X23008032",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Catch documentation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|IUU fishing control|Catch documentation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which reports were used to define the value chain structure?",
+      "answer": "The value chain structure was defined using previous fish value chain reports developed in Spain.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These parameters were used as inputs in the value chain module that describe the flow of seafood products from fishers to consumers and the associated rev - enues, costs, salaries, and employment for all stakeholders in the value chain (Christensen et al. 2011). The value chain model consisted of 16 different main enterprise types, whose main linkages are depicted in Fig. 2 (see Supplementary material 2.1 for more information on the data for the value chain). The value chain structure was defined using previous fish value chain reports developed in Spain (Tragsatec 2011, 2012a, b, C; Garc a Antoni 2012; EUMOFA 2015; Cam 2020 ; Ortega Cerd and Coll 2022a ; Ortega Cerd et al. 2023; Ram rez and Sarroca 2023; Moranta et al. 2023) and was checked to ensure fulfilness and adequacy in fora with the participation of the main stakeholders of the area (Mas- carell-Rocher 2021; Ortega Cerd and Coll 2022b; Ortega Cerd et al. 2023). Most of the value chain operates as a fresh supply chain within the national market, with very low processing levels.",
+      "macrotopic": "Life below water",
+      "topic": "IUU fishing control",
+      "subtopic": "Catch documentation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Catch documentation",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Catch documentation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|IUU fishing control|Catch documentation",
+      "target": "Subtopic:Environment|Life below water|IUU fishing control|Catch documentation_qna_001",
+      "value": 1
+    }
+  ]
+}

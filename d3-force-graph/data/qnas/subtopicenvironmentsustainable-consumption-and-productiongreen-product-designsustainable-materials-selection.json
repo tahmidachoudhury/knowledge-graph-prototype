@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Sustainable materials selection",
+      "label": "Sustainable materials selection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Sustainable materials selection_qna_000",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "Why does the High Material Sustainability Index not address social sustainability concerns for workers?",
+      "answer": "The High Material Sustainability Index focuses on environmental aspects of materials, not social concerns for workers.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652618327872",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Sustainable materials selection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Sustainable materials selection_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the selection of raw materials during the conceptualization stage impact the environmental sustainability of garment production?",
+      "answer": "The selection of raw materials during the conceptualization stage impacts the environmental sustainability of garment production by influencing the process routes chosen for manufacturing, with a focus on avoiding environmentally damaging processes, especially in chemical processing.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/B9780128240526000135",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Sustainable materials selection",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Sustainable materials selection",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Sustainable materials selection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Sustainable materials selection",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Sustainable materials selection_qna_001",
+      "value": 1
+    }
+  ]
+}

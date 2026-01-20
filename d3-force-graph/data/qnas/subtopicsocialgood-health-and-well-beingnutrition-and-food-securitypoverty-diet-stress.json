@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Poverty, diet & stress",
+      "label": "Poverty, diet & stress",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Poverty, diet & stress_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did the COVID-19 pandemic affect the socio-economic landscape in Nigeria?",
+      "answer": "The pandemic caused economic decline, pushed many households into poverty, and led to an increase in hunger among the population.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Addressing these challenges while promoting sustainable development (Manioudis & Meramveliota- kis, 2022) has become even more critical in the face of the ongoing global crisis. The COVID-19 pandemic was an international health emergency, which caused widespread infections and deaths. It also had negative effects on socio- economic developments, leading to a crisis around the world. Subsequently to the COVID-19 occurrence, the Nigerian government declared a 3-week national lockdown to avert the increase of the virus spread on 30 March 2020. The Journal of the Knowledge Economy lockdown was extended further until 2 June 2020 (covering a period of 3 months). Some actions were instigated by the federal and state authorities: travel restric- tions, which caused disruptions such as limited movement of goods and services. Travel restrictions by closing transport systems severely disrupted resource sup- ply chains including water, energy and food supplies. In addition, limiting mass crowding had significantly impacted on the resource accessibility due to local market closures preventing the trade of food and energy locally. Thus, the pan- demic caused economic decline and pushed many households into poverty, caus- ing an increase in hunger among the population (WHO, 2022).",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Poverty, diet & stress",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Poverty, diet & stress_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some of the broader trends linked to the disconnection from traditional diets?",
+      "answer": "The disconnection from traditional diets can be linked to social dislocation and urbanisation in the global South, the spread of industrialised farming, weak labour protections, and over-specialisation of national economies.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The disconnection from traditional diets can be linked with broader trends related to the global dominance of financialised capitalism, 1 including social dislocation and urbanisation in the global South due to the spread of industrialised farming, weak labour protections related to work hours, and over-specialisation of national economies, which has undermined food security (Clapp and Isakson 2018a; Isakson 2017; McMichael 2021; Patel 2012). There is broad consensus that a global transition to healthier, more environmentally sustainable and equitable food systems is needed to address the multiple environmental crises that are rapidly changing the eco-systems that humans and non-humans need to live (Slater et al. 2022). Moreover, there is widespread acknowledgement that the responsibility to change falls mostly on high income countries in the global North (Friel 2023). As such, 1 Financialised capitalism describes the structural transformation of economies, firms (including financial institutions), states, and households through the growing dominance of financial actors, markets, and logics. This represents a shift from production and labour to finance a dynamic Lapavitsas (2013) terms profit- ing without producing .",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Poverty, diet & stress",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Poverty, diet & stress",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Poverty, diet & stress_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Poverty, diet & stress",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Poverty, diet & stress_qna_001",
+      "value": 1
+    }
+  ]
+}

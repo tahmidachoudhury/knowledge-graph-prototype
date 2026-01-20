@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability",
+      "label": "Market stability",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the current state of the market in relation to society as discussed in the paragraph?",
+      "answer": "The paragraph states that markets have become increasingly disconnected from society and are now often viewed as being placed above it due to globalized financial industry and neoliberal policies.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " human societies are also facing a dangerous social crisis, with the widening of inequalities and poverty. Indeed, according to the World Inequality Report (WID 2018), social inequalities are increasing almost everywhere on the planet, but at dif- ferent rates. This widening of inequalities is highlighted by economists see, for instance, Piketty (2014) or Milanovi (2018) as a direct consequence of the self-regulating mar - ket under aggressive economic liberalism policies and the power of financial capitalism. In \"The Great Transforma- tion\" (1944), Polanyi saw the failure of the self-regulating market during the period 1818 1918 through the reaction of society to the disembodiment of the economy in social rela- tions. As Polanyi suggested, counter-movements seek to re- embed the market economy into society by demanding fair prices and equal distribution. However, in a context shaped by a globalised financial industry and neoliberal policies, markets have become even more disconnected from society and, according to some, are now placed above it (Hart 2008). In this debate, the entity known as money has a cru-cial, although ambivalent role.",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Market stability",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What ambivalent role does money have in the context of market and society?",
+      "answer": "Money plays a crucial but ambivalent role in the relationship between the market and society, impacting how they interact and function.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " human societies are also facing a dangerous social crisis, with the widening of inequalities and poverty. Indeed, according to the World Inequality Report (WID 2018), social inequalities are increasing almost everywhere on the planet, but at dif- ferent rates. This widening of inequalities is highlighted by economists see, for instance, Piketty (2014) or Milanovi (2018) as a direct consequence of the self-regulating mar - ket under aggressive economic liberalism policies and the power of financial capitalism. In \"The Great Transforma- tion\" (1944), Polanyi saw the failure of the self-regulating market during the period 1818 1918 through the reaction of society to the disembodiment of the economy in social rela- tions. As Polanyi suggested, counter-movements seek to re- embed the market economy into society by demanding fair prices and equal distribution. However, in a context shaped by a globalised financial industry and neoliberal policies, markets have become even more disconnected from society and, according to some, are now placed above it (Hart 2008). In this debate, the entity known as money has a cru-cial, although ambivalent role.",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Economic stability",
+      "subtopic": "Market stability",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability",
+      "target": "Subtopic:Social|Decent work and economic growth|Economic stability|Market stability_qna_001",
+      "value": 1
+    }
+  ]
+}

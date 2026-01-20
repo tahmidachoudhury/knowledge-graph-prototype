@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Renewable energy supply chain certification",
+      "label": "Renewable energy supply chain certification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Renewable energy certification|Renewable energy supply chain certification_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is it suggested that current certification schemes fail to address other acknowledged significant impacts along the value chain?",
+      "answer": "It is suggested that current certification schemes fail to address other acknowledged significant impacts along the value chain because they focus on specific requirements and do not cover all types of materials and production steps.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652623016591",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Renewable energy certification",
+      "subtopic": "Renewable energy supply chain certification",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Renewable energy certification|Renewable energy supply chain certification",
+      "target": "Subtopic:Environment|Clean energy|Renewable energy certification|Renewable energy supply chain certification_qna_000",
+      "value": 1
+    }
+  ]
+}

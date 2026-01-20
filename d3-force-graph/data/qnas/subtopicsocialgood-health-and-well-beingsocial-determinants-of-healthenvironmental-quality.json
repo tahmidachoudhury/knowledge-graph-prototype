@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "label": "Environmental quality",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What crucial factors influence environmental quality according to the paragraph?",
+      "answer": "Factors that influence environmental quality include globalization, trade openness, economic growth, and renewable energy.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The Intergovernmental Panel on Climate Change7 has highlighted that activities such as desertification, deforestation, and global warming have environmental implications. Carbon dioxide (CO2) represents the most significant portion of GHGs, making it a primary environmental pollutant of concern6,8,9. Economic growth driven by trade openness and industrialisation can exacerbate environmental pollution and contribute to climate change through increased industrial activities and consumption1 11. 1Institute of Climate and Environment, SIMAD University, Mogadishu, Somalia. 2Faculty of Economics, SIMAD University, Mogadishu, Somalia. 3Faculty of Management Sciences, SIMAD University, Mogadishu, Somalia. email: abdikafihasan79@gmail.com OPEN Scientific Reports www.nature.com/scientificreports Environmental scientists, researchers, and policymakers have convened to deploy cutting-edge mitigation strategies in response to grave concerns posed by the ongoing rise in global temperatures12. The Kyoto Protocol and COP21 are major international climate agreements that address environmental challenges, with participating nations committed to reducing CO2 emissions to diminish global temperature by 2 C13. Several factors influence environmental quality, including globalisation, trade openness, economic growth, and renewable energy. Although energy generation and use are essential for economic growth, they present challenges, including environmental pollution, which impede ecological sustainability14.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Environmental quality",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What factors influencing environmental quality are explored in the review?",
+      "answer": "The review explores the effects of trade openness, renewable energy consumption, economic growth, and globalization on carbon emissions.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Notably, existing empirical studies covering factors influencing environmental quality have concluded various outcomes, which can be attributed to divergence in the methodologies, variables adopted, and development levels of the respective nations. Drawing on various academic sources, this review explores the complex effects of trade openness, renewable energy consumption, economic growth, and globalisation on the carbon emissions landscape. Trade openness and carbon emissions Trade openness can facilitate the diffusion of cutting-edge cleaner technologies and best practices, resulting in improved environmental performance39. Using a panel nonlinear ARDL from 1990 to 2017, Qamruzzaman and Jianguo27 reveal that adopting renewable energy would result from economies openness to trade. Similarly, expanding the import of renewable energy equipment may accelerate the deployment of renewable energy sources in South Asian economies35. Recent studies by Adebayo et al.10 and Shahbaz et al.40 discovered that trade openness reduces environmental degradation in the U.S. and Sweden. However, Han et al.14 demonstrated that trade strongly promotes non-renewable energy consumption while only slightly strengthening renewable energy usage. Regarding multilateral trade agreements, Dou et al.41 assessed the effects of imports and exports on environmental quality separately.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Environmental quality",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What socioeconomic factors were explored in relation to environmental protection preferences in the study?",
+      "answer": "The study explored income, education, and employment status as socioeconomic factors affecting environmental protection preferences.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract This study explores the influence of socioeconomic factors specifically income, educa- tion, and employment status on environmental protection preferences across 62 devel- oped and developing nations. Using a comprehensive dataset of over 78,0 respondents (World values survey Wave 7), we examine how variations in socioeconomic status shape environmental perceptions and pro-environmental behaviors. The results reveal that educa- tion is a consistently strong predictor of pro-environmental attitudes. At the same time, income shows a more complex relationship, with higher-income individuals in wealthier countries less likely to prioritize environmental protection. Contrary to previous research, urbanization is associated with slightly weaker environmental preferences, suggesting that economic pressures in urban areas may override sustainability concerns. Gender dif- ferences also emerged, with women displaying stronger pro-environmental preferences than men. These findings offer important theoretical contributions, challenging traditional assumptions about the Environmental Kuznets Curve and the role of urbanization in envi- ronmental awareness. The study also provides practical implications for policymakers, emphasizing the need for targeted environmental education and region-specific sustainabil- ity strategies. Keywords Socioeconomic status Environmental protection Environmental awareness Sustainability 1 Introduction Achieving sustainable development necessitates a holistic approach that harmonizes eco- nomic growth with environmental protection (United Nations, 2016).",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Environmental quality",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What percentage of occurrence locations were identified as environmental outliers in the study?",
+      "answer": "4.6% of the occurrence locations, or 269 locations, were identified as environmental outliers.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " A Chi-squared test was used to identify which occurrence locations fell outside of the ellipsoid. Occurrence locations significantly outside the bulk of ellipsoids ( in = 269 or 4.6% of the occurrence locations) were identified as environmental outliers (i.e., occurrence locations which do not represent the typical climate tolerances of D. rotundus) and were removed (following methods of Qiao et al. 2024). After filtering in geographic and environmental space, the remaining 5519 occurrence locations were randomly split into 50% training 50% testing subsets for model calibration and evaluation. Ecological niche modeling Ecological niche model calibration, evaluation, and projection was completed in R using the kuenm package65. While 19 different metrics of climate are available within the WorldClim database, some of these variables are correlated. To reduce background environmental variable redundancy, we used a Pearson Correlation coefficient analysis64 of all 19 variables to eliminate highly correlated variables (i.e., 0.5, n = 12). The remaining seven Fig. 1 . Occurrence Location Filtering. A Geographic Space: Filtering of Desmodus rotundus occurrence locations from 1900-202360 in geographic space.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Environmental quality",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_004",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What environmental stressor is mentioned as a consequence of poor air quality in cities?",
+      "answer": "Air pollution is identified as an important environmental stressor.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The mean spatial extent of SUHI in Athens was 55.2 km2, whilst its mean intensity was 5.6 C. This paper addresses this limitation by processing satellite Euro-Mediterranean Journal for Environmental Integration time series data to provide a more representative distribution of LST hotspots in a city, such as Athens, characterized by a dense and extensive urban sprawl. The poor air quality in cities has resulted in air pollu- tion being an important environmental stressor (Krefis et al. 2018). Evidence compiled from the last 20 years of research has clearly quantified health impacts not only in low- and middle-income countries where air pollution levels are high, but also in high-income countries with relatively clean air (EEA 2021). As a consequence, the latest release of WHO global air quality guidelines (WHO 2021) incorporates significant decreases in air pollution limits. Pollutant con- centrations from air quality monitoring stations have been widely used to derive hotspots of population exposure. Nev - ertheless, data on concentrations and population distribu- tion should be available in spatial resolution of 1 km 1 km or finer to obtain appropriate estimates of total population exposure and health-related externalities (Santiago et al.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Social determinants of health",
+      "subtopic": "Environmental quality",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality",
+      "target": "Subtopic:Social|Good health and well-being|Social determinants of health|Environmental quality_qna_004",
+      "value": 1
+    }
+  ]
+}

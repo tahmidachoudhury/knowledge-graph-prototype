@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Urban rooftop solar installations",
+      "label": "Urban rooftop solar installations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Urban rooftop solar installations_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can rooftop solar potential in urban environments be estimated, as proposed by Tian et al. (2021)?",
+      "answer": "Tian et al. (2021) present a generalized approach for estimating rooftop solar potential in urban environments and assess this methodology specifically on the GalaÃ‚Â´pages Islands to determine the feasibility and benefits of implementing solar energy solutions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Urban rooftop solar installations",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Urban rooftop solar installations",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Urban rooftop solar installations_qna_000",
+      "value": 1
+    }
+  ]
+}

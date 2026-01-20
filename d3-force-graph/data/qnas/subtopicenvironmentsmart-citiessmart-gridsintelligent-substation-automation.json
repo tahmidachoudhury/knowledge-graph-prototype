@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation",
+      "label": "Intelligent substation automation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does smart grid mechanization contribute to improved distributed substation control?",
+      "answer": "Smart grid mechanization enables distributed substation control to function more autonomously and be improved through technology integration.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Intelligent substation automation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does smart grid mechanization lead to improved distributed substation control?",
+      "answer": "Smart grid mechanization allows for more autonomous functioning, leading to improved distributed substation control.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Intelligent substation automation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Intelligent substation automation_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Digital innovation",
+      "label": "Digital innovation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Digital innovation_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "According to Giuseppe De Ruvo, what is the misconception about algorithms in the context of digital capitalism?",
+      "answer": "De Ruvo argues that the notion of algorithms being objective is a practical ideology that misleads individuals into thinking they can trust algorithmic outputs as completely accurate, while in reality, algorithms often make predictions that can be inaccurate and biased.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Indeed, it can be very dif - ficult for individuals to find clear and, above all, truthful information about this phenomenon. And even if the pos - session of false information is partly due to the fault of individuals who limit themselves to superficial and cursory research, the fact remains that there is a lot of misinforma - tion circulating around the issue of climate change. The task of uncovering it cannot be attributed to the individual alone. Hence the need, discussed in this paper, to involve collec - tive agents such as institutions in this difficult but necessary task. In On the Epistemic Blameworthiness of the Consum - ers of Disinformation. Why Should We Bother? Tommaso Piazza reflects on the scholarly interest in animating the debate on disinformation and the culpability of agents who consume disinformation. While it is clear why so many studies are devoted to the phenomenon of disinformation to understand how it works, what mechanisms promote it, and where it comes from it is far less clear why there is any question of whether those who consume it can be blamed.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Digital innovation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Digital innovation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Digital innovation_qna_000",
+      "value": 1
+    }
+  ]
+}

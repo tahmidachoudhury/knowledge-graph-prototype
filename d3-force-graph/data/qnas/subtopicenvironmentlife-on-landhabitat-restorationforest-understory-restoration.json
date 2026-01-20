@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration",
+      "label": "Forest understory restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How can nitrogen fertilization indirectly affect bryophytes?",
+      "answer": "Nitrogen fertilization can indirectly affect bryophytes by changing vascular plant community composition and increasing vascular plant biomass, which leads to greater competition for light and space, potentially excluding less competitive bryophytes from the understory.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In addition to the direct effects, nitrogen fertilization can indirectly affect bryophytes in several ways. A major mechanism might be by changing vascular plant community composition and increasing vascular plant biomass 19,20. Higher vascular plant biomass, which is strongly positively related to the cover of vascular plants 21,22, leads to increased competition for light and space 1Swiss Federal Institute for Forest, Snow and Landscape Research WSL, Birmensdorf, Switzerland. 2Institute of Plant Sciences, University of Bern, Bern, Switzerland. 3Centre for Development and Environment, University of Bern, Bern, Switzerland. 40eschger Centre for Climate Change Research, University of Bern, Bern, Switzerland. email: maeve.lin@wsl.ch OPEN Scientific Reports www.nature.com/scientificreports and the exclusion of less competitive, low-statured bryophytes from the understory 23. Although bryophytes have a low light compensation point 24 and can manage to grow with only short bursts of light 25, their short stature makes them dependent on sparse vegetation or patches of bare ground to receive enough sunlight and to have sufficient space for colonization 26. However, the relative importance of these direct fertilization effects compared to indirect effects remains largely unknown as only a few studies have so far tried to disentangle direct from indirect effects 23,27.",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Forest understory restoration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the hypothesis regarding the impact of disturbance by weeding on bryophyte cover and richness?",
+      "answer": "The hypothesis asserts that disturbance by weeding increases bryophyte cover and richness by creating bare ground for colonization and increasing light levels.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Our hypotheses were: H1: Disturbance by weeding increases bryophyte cover and richness by producing bare ground for bryophyte colonization and increased light levels 47. H2: Nitrogen fertilization directly reduces bryophyte cover and richness via toxicity 23,31,48. H3: Nitrogen fertilization and fungicide application increase shading from vascular plants and decrease open space which in turn indirectly decreases bryophyte cover and richness 19,49. H4: Loss of vascular plant richness and shift to fast-growing species (high SLA) will reduce bryophyte species richness and cover due to lower structural heterogeneity 29 and changes in water and nutrient availability 30 respectively. Legacy effects of initial species richness and functional composition could persist for many years. Methods Study site We conducted our study in the PaNDiv experiment, a large grassland field experiment in the Swiss lowlands (M nchenbuchsee, canton of Bern, 47 3 N, 7 46 E, 564 m a.s.l. 36). The annual mean temperature is 9.3 C with Scientific Reports a mean precipitation of 1022 mm (Federal Office of Meteorology and Climatology MeteoSwiss). Twenty different vascular plant species common to this grassland were sown at the beginning of the experiment in autumn 2015 (Table S1; nomenclature following Juillerat et al.",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Forest understory restoration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Forest understory restoration_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)",
+      "label": "Biomass-to-liquid (btl)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the limitations associated with solvent-based pretreatment methods for biomass conversion?",
+      "answer": "The limitations of solvent-based pretreatment methods include high yields but also high costs of solvents, capital investment for solvent recovery, and high energy costs associated with solvent recovery.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass-to-liquid (btl)",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why was this review written, and what is its aim?",
+      "answer": "This review was written to standardize and compile literature results in the field, aiming to express their yields uniformly to identify promising processes and develop new ideas with a clear understanding of the state of the art.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass-to-liquid (btl)",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)_qna_002",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What are some of the pretreatment methods used to enhance bioethanol production from cotton stalks?",
+      "answer": "Various pretreatment methods like super base-based ionic liquid solvents are used to enhance bioethanol production from cotton stalks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass-to-liquid (btl)",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass-to-liquid (btl)_qna_002",
+      "value": 1
+    }
+  ]
+}

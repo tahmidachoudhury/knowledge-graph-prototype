@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming",
+      "label": "Climate-adaptive farming",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What do researchers advocate for to adapt to climate change and enhance cropping system resilience?",
+      "answer": "Researchers advocate for crop diversification to adapt to climate change and enhance cropping system resilience to biotic and abiotic stresses.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As a result, researchers advocate for crop diversification to adapt to climate change and enhance crop- ping system resilience to biotic and abiotic stresses (Degani et al. 2019; Gaudin et al. 2015; Lin 2011; Ratnadass et al. 2021; Sanford et al. 2021 ), thus reducing yield loss risk under unfavorable growing conditions. Crop diversity influences a variety of ecosystem pro- cesses, including primary productivity, pest suppression, nutrient cycling, and soil organic matter dynamics. Diversi- fied cropping systems enhance ecosystem services, particu- larly in pest control and nutrient cycling, thereby reducing reliance on external inputs, offering benefits to farmers, and delivering public goods to society (Isbell et al. 2017; Smith et al. 2008). With the increasing demand for ecosystem ser - vices in cropping systems, diversification with suitable crop species could be essential for sustaining yield and ecosystem services in dominant cropping systems. In the semi-arid Canadian prairie region, pulse crops play an important role for diversification of oilseed and cereal- based cropping systems, as pulse crops can effectively grow under dry conditions, where crop yield is often limited by precipitation shortages (Blessing et al.",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-adaptive farming",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the potential of traditional agriculture in adapting and mitigating the effects of climate change, according to Alter and Nicholls?",
+      "answer": "Alter and Nicholls suggest that traditional agriculture has the potential to adapt and mitigate the effects of climate change due to its resilience and diversity in crop varieties, as well as its ability to maintain soil health and biodiversity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666154324000255",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Climate-adaptive farming",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Climate-adaptive farming_qna_001",
+      "value": 1
+    }
+  ]
+}

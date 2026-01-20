@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species",
+      "label": "Fish species",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is freshwater biota in Southeast Asia receiving less attention and investment?",
+      "answer": "It receives less attention and investment compared to terrestrial, marine, or temperate counterparts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Indeed, the fresh- water biodiversity loss in the Anthropocene is already pervasive in all taxonomic groups (Reid et al., 2019; Rivaes et al., 2021; Tickner et al., 2020), which experienced a more rapid decline (76%) compared to terrestrial and marine environments (39%) (McLellan et al., 2014). According to the most recent report by Su et al. (2021), anthropogenic activi- ties severely affect fish biodiversity in more than half of the 2,456 river basins worldwide. In Southeast Asia (SEA), freshwater environments play critical socioeconomic and cul- tural roles and host global hotspots of biodiversity and endemism, yet remain among the most threatened in the world (Coleman et al., 2019; Hughes, 2017; Sodhi et al., 2009). The freshwater biota in SEA also received less attention and investments compared to their terrestrial, marine, or temperate counterparts (Coleman et al., 2019; Tydecks et al., 2018), particularly in the Philippines (Magbanua et al., 2017; Papa & Briones, 2017; van der Ploeg et al., 2017).",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fish species",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What region is highlighted as having critical socioeconomic and cultural roles for freshwater environments?",
+      "answer": "Southeast Asia (SEA).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Indeed, the fresh- water biodiversity loss in the Anthropocene is already pervasive in all taxonomic groups (Reid et al., 2019; Rivaes et al., 2021; Tickner et al., 2020), which experienced a more rapid decline (76%) compared to terrestrial and marine environments (39%) (McLellan et al., 2014). According to the most recent report by Su et al. (2021), anthropogenic activi- ties severely affect fish biodiversity in more than half of the 2,456 river basins worldwide. In Southeast Asia (SEA), freshwater environments play critical socioeconomic and cul- tural roles and host global hotspots of biodiversity and endemism, yet remain among the most threatened in the world (Coleman et al., 2019; Hughes, 2017; Sodhi et al., 2009). The freshwater biota in SEA also received less attention and investments compared to their terrestrial, marine, or temperate counterparts (Coleman et al., 2019; Tydecks et al., 2018), particularly in the Philippines (Magbanua et al., 2017; Papa & Briones, 2017; van der Ploeg et al., 2017).",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fish species",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of data was used to assess the fundamental niche of D. rotundus?",
+      "answer": "The assessment of D. rotundus's fundamental niche used only abiotic climate data as background environmental variables.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " MaxEnt is a frequently utilized presence-background modeling platform successfully employed in previous assessments of D. rotundus distribution44,46,55. MaxEnt does not require true absence data for its calibration, and therefore more logically abides by the available occurrence locations data for D. rotundus56. We chose to make a correlative assessment of D. rotundus fundamental niche using only abiotic climate data as background environmental variables, rather than incorporating biotic or movement variables to assess the realized niche50,51,57. While biotic variables have been shown to benefit ecological niche models at finer spatial scales58, our assessment was conducted across a larger spatial scale and was focused on projections of future climate. We chose to mitigate the potential impacts of uncertainty from non-climate variables such as future land-use projections59 or future cattle densities to glean a more comprehensive understanding of future climate variability alone. Occurrence location filtering We collected occurrence locations of D. rotundus from an extensive database specific to this species from across Latin America from 1901 to 202360. We isolated all occurrence locations from this database with associated location data (i.e., geographic coordinates or locality descriptions) using the dplyr package in R statistical software version 4.1.0 resulting in 74.6% geolocated records ( n = 29,174 of 39,118 available records)61.",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fish species",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fish species_qna_002",
+      "value": 1
+    }
+  ]
+}

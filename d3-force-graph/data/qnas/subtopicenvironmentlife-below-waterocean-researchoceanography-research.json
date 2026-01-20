@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanography research",
+      "label": "Oceanography research",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Oceanography research_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which institutions were involved in the research mentioned in the paragraph?",
+      "answer": "The research was conducted at the Department of Marine Biology and Ecology, Rosenstiel School of Marine, Atmospheric, and Earth Science, University of Miami.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2007; Hughes et al. 2017; Walton et al. 2018). Coral bleaching events caused by prolonged exposure to periods of acute ocean warming and resulting in the mass expulsion of symbiotic algae, dinoflagellates in the family Symbiodiniaceae, from coral tissues are occurring Supplementary Information The online version contains supplementary material available at https:// doi. org/ 10. 1007/ s00338- 25- 2634-9. * Emily A. Yeager Emily.yeager@earth.miami.edu 1 Department of Marine Biology and Ecology, Rosenstiel School of Marine, Atmospheric, and Earth Science, University of Miami, 4600 Rickenbacker Cswy., Miami, FL 33149, USA 2 Present Address: Department of Environmental Science and Policy, Rosenstiel School of Marine, Atmospheric, and Earth Science, University of Miami, 4600 Rickenbacker Cswy., Miami, FL 33149, USA 658 Coral Reefs (2025) 44:657 667 with rising frequency (Curran and Barnard 2021; Hoegh- Guldberg and Smith 1989; Hughes et al. 2017). If algal symbiont populations do not recover within relatively short time periods, this loss of symbiotic algae may ultimately lead to mass coral mortality events (Eddy et al.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Oceanography research",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Oceanography research",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Oceanography research_qna_000",
+      "value": 1
+    }
+  ]
+}

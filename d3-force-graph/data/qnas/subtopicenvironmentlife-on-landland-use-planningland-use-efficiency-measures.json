@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures",
+      "label": "Land use efficiency measures",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Why are more intrusive instruments like taxes and regulatory measures considered more effective for achieving substantial progress in sustainability?",
+      "answer": "These instruments, such as market-based measures or regulatory elimination of polluting products, are more effective in driving substantial and lasting progress towards sustainability compared to information-based instruments.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S235255092300012X",
+      "paragraph": "",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use efficiency measures",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What indicators were evaluated in the study to assess ecosystem services in cropping systems?",
+      "answer": "The indicators included crop productivity, resource use efficiency, soil carbon, economic returns, and environmental impacts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Both farmers and researchers are seeking sustainable cropping systems that not only improve productivity and economic returns but also enhance soil health and reduce environmental impacts (Anderson 2011). Balancing productivity, profitability, and environmental sustainability remains a significant challenge (Davis et al. 2012). Therefore, it becomes critical to collectively assess agronomic, economic, and environmental responses to man- agement practices to gain a deeper understanding of eco- system services that underpin sustainable cropping systems (Darnhofer et al. 2010). However, there remains a knowledge gap regarding the overall system performance of diversified rotations using multiple indicators collectively, particularly at the cropping system level. In this study, we evaluated ecosystem services as indi- cated by multiple indicators, including crop productivity, resource use efficiency, soil carbon, economic returns, and environmental impacts, in rotations with different levels of diversification involving pulse crops. In the Canadian prai- ries, wheat and canola dominate crop production; however, simplified wheat-based cropping systems have negatively affected sustainability and resilience (Martens et al. 2015). The study site is located in the semi-arid region of southern Alberta and Saskatchewan, where water scarcity signifi- cantly limits crop production and no till is one of the most common practices for soil and water conservation.",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use efficiency measures",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How did Go et al. calculate the embodied cultivated land use in China from 1987 to 2007?",
+      "answer": "Go et al. calculated the embodied cultivated land use in China from 1987 to 2007 by analysing the amount of land required to produce goods and services consumed within that time period.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use efficiency measures",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use efficiency measures_qna_002",
+      "value": 1
+    }
+  ]
+}

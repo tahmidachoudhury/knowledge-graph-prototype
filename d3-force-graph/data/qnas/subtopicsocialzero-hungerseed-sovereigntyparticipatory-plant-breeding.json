@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Participatory plant breeding",
+      "label": "Participatory plant breeding",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Seed sovereignty|Participatory plant breeding_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Why do some scientists express scepticism about farmers' representation in the stakeholder participation scheme?",
+      "answer": "Some scientists doubt farmers can be adequately represented due to the lack of organized representation and their distrust of the state.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Seed sovereignty",
+      "subtopic": "Participatory plant breeding",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Seed sovereignty|Participatory plant breeding",
+      "target": "Subtopic:Social|Zero hunger|Seed sovereignty|Participatory plant breeding_qna_000",
+      "value": 1
+    }
+  ]
+}

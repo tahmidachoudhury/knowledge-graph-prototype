@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Prairie restoration",
+      "label": "Prairie restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Habitat restoration|Prairie restoration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of Canada's pea and lentil production comes from the Canadian prairies?",
+      "answer": "The Canadian prairies contribute to 98% of Canada's pea and lentil production.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The Canadian prairies contribute to 98% of the Canadian pea and lentil production (Saskatchewan Pulse Growers 2024). In addition, incorporating pulse crops in wheat-based rotations in the semi-arid Canadian prairies led to economic benefits for producers (Khakbazan et al. 2022). In the semi-arid Canadian prairies, where water is the most limited yield factor, simplified cropping systems negatively impact both non-legume and pulse crop produc- tion, as well as the ecological benefits associated with pulse crops. Therefore, a comprehensive evaluation using multiple indicators collectively is needed on ecosystem services in response to diversification of crop rotations with pulse crops, particularly at the cropping system level in the intermediate term (e.g., 5 10 years). Synergies and trade-offs among ecosystem services are widely recognized and reported in cropping systems (Power 2010 ; Rodr guez et al. 2006 ). However, most studies have often focused on individual ecosystem services, although sustainable cropping systems require a holistic improve- ment in ecosystem services, including crop productivity, resource use efficiency, economic returns, soil health, and environmental health.",
+      "macrotopic": "Life on land",
+      "topic": "Habitat restoration",
+      "subtopic": "Prairie restoration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Habitat restoration|Prairie restoration",
+      "target": "Subtopic:Environment|Life on land|Habitat restoration|Prairie restoration_qna_000",
+      "value": 1
+    }
+  ]
+}

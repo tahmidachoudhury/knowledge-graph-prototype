@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Flood-resistant buildings",
+      "label": "Flood-resistant buildings",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Flood-resistant buildings_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What effect can flooding have on radon ingress in buildings?",
+      "answer": "Flooding can saturate the soil and change pressure dynamics around a building, potentially increasing radon ingress.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " While these measures are beneficial for reducing energy consumption, they can inadvertently increase indoor radon concentrations. Tighter building envelopes and improved insulation reduce natural ventilation, trap- ping radon indoors and allowing it to accumulate at higher levels (Environmental Protection Agency, 2021). Ventilation systems designed to conserve energy may not adequately remove radon, necessi- tating the implementation of specific radon mitiga- tion strategies alongside energy efficiency measures (Appleton, 2007). Extreme weather events, such as storms, floods, and high winds, are becoming more frequent and intense due to climate change (Walsh et al., 2020). These events can alter building pressures and ventilation patterns, which can either increase or decrease radon levels depending on the specific con- ditions (McGrath et al., 2021). For instance, flooding can saturate the soil and change the pressure dynam- ics around a building, potentially increasing radon ingress (Friedmann, 2017). Flood-damaged buildings may also have compromised foundations and walls, providing new pathways for radon entry. Storms and high winds can affect indoor air pressure, influenc- ing the movement of radon into and within buildings (Rey et al., 2022).",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Flood-resistant buildings",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Flood-resistant buildings",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Flood-resistant buildings_qna_000",
+      "value": 1
+    }
+  ]
+}

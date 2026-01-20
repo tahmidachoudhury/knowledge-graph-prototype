@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Gis for water mapping",
+      "label": "Gis for water mapping",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Gis for water mapping_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What potential do GI systems have in urban regions?",
+      "answer": "GI systems have the potential to become an essential tool in the management of excessive rainfall in urban regions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " GI is generally considered an alternative engineering approach for stormwater management that also includes temperature control and air quality management. The terms Nature- Based Solutions, green-grey infrastructure, sustainable urban drainage systems, ecologi- cal infrastructure and sponge cities have been widely used in GI debates across the years based on specific objectives (Alves et al., 2024; Seidu et al., 2024; Yuan et al., 2024). These new directions are integrated systems that are designed to perform multitudes of functionality in a manner analogous to that of natural processes. Consequentially, GI systems have the potential to become an essential tool in the management of excessive rainfall in urban regions. Proponents of GI have perused the concept from diverse applications, disciplines and multifunctional dimensions (Alves et al., 2024). The question of what drives GI adop- tion and implementation success is therefore based on the region, stakeholders percep- tions and knowledge levels. Engineers and built environment professionals may convey and recommend GI to clients based on their own understanding of what GI is due to the multifunctional nature of these systems. Some key attributional drivers include com- munity well-being enhancement, urban heat island mitigation, environmental sustain- ability, ecosystem services provision and biodiversity enhancement.",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Gis for water mapping",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Gis for water mapping_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "In the spatial modelling implemented, what other parameters are considered besides recharge for GIGOT?",
+      "answer": "Besides recharge, land cover is also considered in the spatial modelling implemented for GIGOT.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723018297",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Gis for water mapping",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Gis for water mapping",
+      "target": "Subtopic:Environment|Smart cities|Water management|Gis for water mapping_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Gis for water mapping",
+      "target": "Subtopic:Environment|Smart cities|Water management|Gis for water mapping_qna_001",
+      "value": 1
+    }
+  ]
+}

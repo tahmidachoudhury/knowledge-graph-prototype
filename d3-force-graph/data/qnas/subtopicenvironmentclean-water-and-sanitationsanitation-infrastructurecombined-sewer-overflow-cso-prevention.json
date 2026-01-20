@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Combined sewer overflow (cso) prevention",
+      "label": "Combined sewer overflow (cso) prevention",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Combined sewer overflow (cso) prevention_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What limitations exist in Hager's work on side weirs in relation to discharge?",
+      "answer": "Hager's work focuses on side weirs that do not handle the full discharge, which is a limitation compared to the authors' study.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Previous studies may have investigated the total rating curve or discharge capacity of a spillway with multiple outlets, however the authors present here a unique model which is able to measure the discharge distribution between the various outlets while in normal operation. Some of the previously mentioned cases have a large lateral component in the flow leading up to the spillway. Such lateral approach flow and the general flow conditions are also relevant to studies on contractions and side weirs, akin to the work conducted by Hager 19. However, the latter focuses on side weirs that do not handle the full discharge. Multiple studies have investigated the discharge capacity of side weirs in various conditions, ranging from prismatic channels and varied weir heights, to converging channels and oblique weirs19 21. In terms of contractions in high-velocity flow, further work by Hager22 explores the impact of contractions at various angles but does not account for the acceleration of flow that occurs over the spillway. Where avoidable, spillways are typically not constructed near turbine inlets due to potential interference. Something which can be mitigated when inlet structures are constructed in purpose-built channels.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sanitation infrastructure",
+      "subtopic": "Combined sewer overflow (cso) prevention",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Combined sewer overflow (cso) prevention",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sanitation infrastructure|Combined sewer overflow (cso) prevention_qna_000",
+      "value": 1
+    }
+  ]
+}

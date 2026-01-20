@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction",
+      "label": "Source reduction",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary design of reduction cells in the aluminum industry?",
+      "answer": "Most reduction cells in the aluminum industry are based on a prebaked design.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Currently, most reduction cells in the aluminumindustry are based on prebaked design, where theanodes are preformed and baked in a carbon anode plant and assembled to the anode rod before placed inside the electrolysis cell. The size and the design of thecarbon anodes in prebaked Hall He roult cells vary slightly between the plants and aluminum producers. The cathode assembly, however, has the same designacross the industry, both in prebaked and S derberg cells with some very small variations. [4,5] Prior to the production process, the electrolysis cell is preheated, and then lled with a portion of aluminum metal, a cryolite-based electrolyte and operated at typically 940 /C176C 960 /C176C. Aluminum oxide is point-fed to the electrolysis cells and dissolved in the electrolyte, and aluminum is then produced by electrochemical reduction of aluminum ions on the cathode, while oxygen is oxidized on the carbon anodes as described inEq. [ 1]. Each cell consists of 20 to 40 carbon anodesCAMILLA SOMMERSETH, PA L TETLIE, HEIKO GAERTNER, SAMUEL SENANU, and EGIL SKYBAKMOENare with the SINTEF Industry, P.O.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Source reduction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What steps can be taken to reduce the environmental impact of consumption and production?",
+      "answer": "BV2: What steps can be taken to reduce the environmental impact of consumption and production?",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1029313224000010",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Source reduction",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which explanatory variable was found to notably affect the explanatory power of the factors in the SADFM?",
+      "answer": "Industrial Production (IP) was identified as an important explanatory variable that, once included in the model, made the explanatory power of the factors negligible.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, using the nonlinear factor-augmentedregression proposed by Bai and Ng ( 2008 ), he concludes that the polynomial terms of the factors are not signi cant and, therefore, the EKC is not found in the short run. More recently, Bennedsen et al. ( 2021 ) propose a structural augmented dynamic factor model (SADFM) for annual CO 2emissions in the US. As in Fosten ( 2019 ), the economic activity is represented by common factors, which are extracted from a large set of annual macroeconomic US variables using the two-step Kalman Iter (2SKF) procedure of Doz et al. ( 2011 ) instead of PC. The SADFM also includes additional explanatory variables selected from the same set of economic variables byusing procedures based on Least Absolute Shrinkage and Selection Operator (LASSO) of Tibshirani ( 1996 ), Elastic Nets (EN) of Zou and Hastie ( 2005 ) and Autometrics of Doornik ( 2009 ) and Doornik and Hendry ( 2009 ). They conclude that, once the selected explanatory variables, in particular, Industrial Production (IP), are included in the model, the explanatory power of the factors is negligible.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Source reduction",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Source reduction_qna_002",
+      "value": 1
+    }
+  ]
+}

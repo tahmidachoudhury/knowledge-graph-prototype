@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping",
+      "label": "IoT in retail for smart shopping",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What perspective do Hits et al. (2022) provide on product-service systems in the fashion industry?",
+      "answer": "Hits et al. (2022) provide a customer engagement perspective on product-service systems in the fashion industry.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0016718523001999",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "subtopic": "IoT in retail for smart shopping",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping_qna_001",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How can AI-based interventions assist in pre-season decision-making in the apparel retail industry?",
+      "answer": "Santa et al. (2020) address comprehensible AI-based interventions for pre-season choice-making in the apparel retail industry.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0952197624002720",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "subtopic": "IoT in retail for smart shopping",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping_qna_002",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How does AI-powered technology impact Instagrammers' purchase decisions in the fashion and apparel industry?",
+      "answer": "AI-powered technology personalizes recommendations and enhances the shopping experience for Instagrammers, influencing their purchase decisions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0952197624002720",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "subtopic": "IoT in retail for smart shopping",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping",
+      "target": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping",
+      "target": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping",
+      "target": "Subtopic:Environment|Smart cities|IoT in cities|IoT in retail for smart shopping_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban heat island mitigation",
+      "label": "Urban heat island mitigation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban heat island mitigation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some of the multiple pressures faced by the Athens Metropolitan Area?",
+      "answer": "The Athens Metropolitan Area faces urban climate variability, urban excess heat, air quality degradation, and lack of green spaces.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To meet these multifaceted goals, extensive and holistic mapping and assessment of all environmental pressures is needed, based on up-to-date and reliable information such as geospatial, remote sensing, in situ observational and numerical modelling data. Athens Metropolitan Area (AMA), which holds the 14th place in the European ranking for cities regarding population density (https:// ec. europa. eu/ euros tat/) in a country (Greece) where 80.36% (reference year 2022) of the population is liv - ing in urban areas ( https:// datab ank. world bank. org/) faces multiple pressures, among which urban climate variability, urban excess heat, air quality degradation, and lack of green spaces, prevail (Asprogerakas 2016). Greece and Attica in particular, being part of the East- ern Mediterranean region, is considered a climate change hotspot , already experiencing faster warming rates than the global average, along with an increased occurrence of heat waves, prolonged droughts, and increased risk of for - est fires (Giorgi 2006; Giannakopoulos et al. 2011; Founda et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban heat island mitigation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban heat island mitigation_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which factors influence the efficiency of temperature moderation in urban spaces?",
+      "answer": "The efficiency of temperature moderation is influenced by the design, size, type, and the urban layout surrounding the spaces.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2020; Wu et al. 2019). UBS, through its inherent properties, aids in temperature regulation by facilitating energy exchange with water bodies, thus offering a cooling effect similar to that of UGS during warm conditions. Furthermore, UGS, such as parks, gardens, and street trees, along with UBS, includ- ing rivers, lakes, and ponds within city boundaries, enhance urban biodiversity, improve air quality, and regulate micro- climates (Kumar et al. 2023). The efficiency of these spaces in temperature moderation is influenced by various factors including their design, size, type, and the urban layout sur - rounding them (Pritipadmaja et al. 2023; Wang et al. 2023).Responsible Editor: Philippe Garrigues. Extended author information available on the last page of the article Environmental Science and Pollution Research Similar to UGS and UBS, in the urban environment, chlo - rophyll plays a crucial role. Chlorophyll concentration serves as an indicator of plant health and productivity, reflecting the capacity of urban vegetation to perform photosynthesis under varying urban conditions (Bramich et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Urban heat island mitigation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban heat island mitigation",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban heat island mitigation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban heat island mitigation",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Urban heat island mitigation_qna_001",
+      "value": 1
+    }
+  ]
+}

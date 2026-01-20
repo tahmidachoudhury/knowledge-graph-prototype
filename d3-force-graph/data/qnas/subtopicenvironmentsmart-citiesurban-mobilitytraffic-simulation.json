@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation",
+      "label": "Traffic simulation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the method proposed by Playoff et al. (2021) improve efficiency in generating information about road utilization?",
+      "answer": "The method proposed by Playoff et al. (2021) allows for faster calculation of magnitudes based on a network property, leading to more efficient generation of information about road utilization compared to simulating individual agent movement.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "subtopic": "Traffic simulation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the focus of the comparative study conducted by Reuge et al.?",
+      "answer": "Reuge et al. focused on the differences between three-dimensional simulations and two-dimensional axi-symmetric and Cartesian simulations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Cammarata et al. [19] performed both two-dimensional and three-dimen- sional computational fluid dynamics (CFD) simulations of bubbling fluidized beds using the Eulerian-Eulerian model. They suggested that three-dimensional simula- tions are more appropriate for validating CFD models with existing correlations and experimental data. While 3D models provide a more accurate representation of gas and solid phase movements, they are more computationally intensive. Asehegn et al. compared 2D and 3D simulation results for bubbling beds with and without immersed hori- zontal tubes. They concluded that the 3D simulations pre - dicted the flow behavior with greater accuracy compared to the 2D simulation [20]. On the other hand, 2D models, despite their limitations in capturing the full complexity of fluidized bed dynamics, can offer valuable insights into global flow trends and are more practical for initial design assessments. Reuge et al. [21] conducted a comparative study on the differences between three-dimensional simu- lations and two-dimensional axi-symmetric and Cartesian simulations. Their findings reiterated that three-dimen- sional simulations are essential for accurately reproducing the experimental bed expansions and fluctuation heights in a bubbling fluidized bed.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "subtopic": "Traffic simulation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What is a scenario in the context of transportation systems and policy packages?",
+      "answer": "A scenario refers to the transportation system resulting from the introduction of a policy package, including the volume of traffic in each mode of transportation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Urban mobility",
+      "subtopic": "Traffic simulation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation",
+      "target": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation",
+      "target": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation",
+      "target": "Subtopic:Environment|Smart cities|Urban mobility|Traffic simulation_qna_002",
+      "value": 1
+    }
+  ]
+}

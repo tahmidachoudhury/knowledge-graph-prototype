@@ -1,23 +1,24 @@
 import { useCallback } from "react";
-import { ESG_MACROAREAS } from "../utilities/constants";
+import { ESG_MACROAREAS, ESGMacroArea } from "@/lib/constants";
+import { BaseGraphNode, GraphLink, GraphNode } from "@/lib/types/graph.types";
 
 // Filter nodes and links based on selected macroarea
-export const filterData = (macroArea, data) => {
+export const filterData = (macroArea: ESGMacroArea, data: any) => {
   if (!macroArea) {
     // Initial view: show only ESG macroarea nodes
     const macroAreaNodes = data.nodes.filter(
-      (node) =>
-        node.group === "MacroArea" && ESG_MACROAREAS.includes(node.label)
+      (node: GraphNode) =>
+        node.group === "MacroArea" && ESG_MACROAREAS.includes(node.label as ESGMacroArea)
     );
     // No links at top level
     return { nodes: macroAreaNodes, links: [] };
   } else {
     // Drill-down: show all nodes belonging to this macroarea, EXCEPT the MacroArea node itself
     const nodeIds = new Set();
-    const filteredNodes = [];
+    const filteredNodes: GraphNode[] = [];
 
     // Find all nodes that belong to this macroarea (excluding MacroArea nodes)
-    data.nodes.forEach((node) => {
+    data.nodes.forEach((node: GraphNode) => {
       // Only include nodes that belong to this macroarea AND are not MacroArea type
       if (
         node.macroArea === macroArea &&
@@ -30,16 +31,16 @@ export const filterData = (macroArea, data) => {
     });
 
     // Find all links between the filtered nodes (excluding links to/from MacroArea nodes)
-    const filteredLinks = data.links.filter((link) => {
+    const filteredLinks = data.links.filter((link: GraphLink) => {
       const sourceId =
-        typeof link.source === "object" ? link.source.id : link.source;
+        typeof link.source === "object" ? link.source : "";
       const targetId =
-        typeof link.target === "object" ? link.target.id : link.target;
+        typeof link.target === "object" ? link.target : "";
 
       // Only include links where both source and target are in our filtered set
       // and neither is a MacroArea node
-      const sourceNode = data.nodes.find((n) => n.id === sourceId);
-      const targetNode = data.nodes.find((n) => n.id === targetId);
+      const sourceNode = data.nodes.find((n: BaseGraphNode) => n.id === sourceId);
+      const targetNode = data.nodes.find((n: BaseGraphNode) => n.id === targetId);
 
       return (
         nodeIds.has(sourceId) &&

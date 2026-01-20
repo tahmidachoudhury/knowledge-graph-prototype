@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control",
+      "label": "Biological pest control",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why are bioherbicides based on allelochemical molecules considered advantageous over chemical herbicides?",
+      "answer": "Bioherbicides are advantageous because they have multisite actions, unlike chemical herbicides that have a well-defined single site of action.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Overall, these findings allowed us to obtain a global view of the proteome response to CEO, opening promising perspectives for the development of natural herbicides, especially given the low probability of developing resistant weed populations. Keywords Essential oils, Weed populations, Botanical herbicides, Arabidopsis thaliana , Differentially accumulated proteins The intensive use of chemical pesticides is one of the major causes of biodiversity loss. It has also contributed to the development of many pesticide-resistant weed species worldwide1. In fact, 211 weed species have been recently identified as herbicide resistant2. Globally, there are 404 herbicide-resistant weed species (species site of action). Weeds resistant to acetolactate synthase (ALS) inhibitors make up approximately one-third of all cases (133 out of 404) and are particularly problematic for rice and other cereals3. Unlike chemical herbicides, which have a well-defined single site of action, bioherbicides based on allelochemical molecules stand out because of their multisite actions4. For these reasons, the current agricultural system needs to change its practices by not only reducing the use of chemical herbicides but also using more sustainable solutions such as bioherbicides.",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Biological pest control",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are biopesticides and what are they derived from?",
+      "answer": "Biopesticides are natural products used to control weeds and can be based on natural metabolites produced by living organisms, including plants and microbes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The latter are defined as natural products used to control weeds and can be based on natural metabolites produced by living organisms, including plants and microbes2. Currently, agrochemical companies are becoming increasingly interested in ecofriendly products and are investing in the research and development of biopesticides1. For more than three decades, the agricultural chemical sector has not introduced any new herbicides with novel sites of action, which has made farmers dependent on existing herbicides5. Hence, it is crucial to develop a new generation of botanical herbicides with new modes of action. In this sense, essential oils (EOs) could be among the best candidates. EOs contain secondary metabolites produced by aromatic plants in response to biotic and abiotic stresses and provide a number of ecological advantages to plants. They contain many active compounds that are distinguished 1 Integrated and Urban Plant Pathology Laboratory, University of Li ge, Gembloux Agro-Bio Tech, 2 Passage des D port S, 5030 Gembloux, Belgium. 2Louvain Institute of Biomolecular Science and Technology, UCLouvain, Croix du sud 4-5, 1348 Louvain-la-Neuve, Belgium. 3APEO SRL (Agronomical Plant Extracts & Essential Oils), Passage des D port S 2, 5030 Gembloux, Belgium.",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Biological pest control",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why are agrochemical companies interested in biopesticides?",
+      "answer": "Agrochemical companies are becoming increasingly interested in eco-friendly products and are investing in the research and development of biopesticides.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The latter are defined as natural products used to control weeds and can be based on natural metabolites produced by living organisms, including plants and microbes2. Currently, agrochemical companies are becoming increasingly interested in ecofriendly products and are investing in the research and development of biopesticides1. For more than three decades, the agricultural chemical sector has not introduced any new herbicides with novel sites of action, which has made farmers dependent on existing herbicides5. Hence, it is crucial to develop a new generation of botanical herbicides with new modes of action. In this sense, essential oils (EOs) could be among the best candidates. EOs contain secondary metabolites produced by aromatic plants in response to biotic and abiotic stresses and provide a number of ecological advantages to plants. They contain many active compounds that are distinguished 1 Integrated and Urban Plant Pathology Laboratory, University of Li ge, Gembloux Agro-Bio Tech, 2 Passage des D port S, 5030 Gembloux, Belgium. 2Louvain Institute of Biomolecular Science and Technology, UCLouvain, Croix du sud 4-5, 1348 Louvain-la-Neuve, Belgium. 3APEO SRL (Agronomical Plant Extracts & Essential Oils), Passage des D port S 2, 5030 Gembloux, Belgium.",
+      "macrotopic": "Life on land",
+      "topic": "Conservation farming",
+      "subtopic": "Biological pest control",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control",
+      "target": "Subtopic:Environment|Life on land|Conservation farming|Biological pest control_qna_002",
+      "value": 1
+    }
+  ]
+}

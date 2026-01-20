@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions",
+      "label": "Trophic interactions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the significance of the size/time of diet shift mentioned in the paragraph?",
+      "answer": "The Gompertz model's fit is consistent with the size/time of diet shift from herbivory.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In particular, pointed spines appear to have potential as an age marker for juveniles. Using size-at-age data, we investigated the fit of growth models to estimate age-size relationships. A Gompertz model provided the best fit to the growth/age data and is consistent with the size/time of diet shift (herbivory to Supplementary Information The online version contains supplementary material available at https:// doi. org/ 10. 1007/ s00338- 25- 2637-6. * Liam J. Wilson liam.wilson@sydney.edu.au 1 School of Life and Environmental Sciences, The University of Sydney, Sydney, Australia 2 Department of Marine Science, University of Otago, Dunedin, New Zealand 702 Coral Reefs (2025) 44:701 719 threatening reef function and diversity (Kayal et al. 2012; Pratchett et al. 2014). Several hypotheses, largely focused on larval and adult stages, have been proposed to explain COTS outbreaks. The terrestrial runoff/nutrient enrichment hypothesis posits that elevated nutrients from eutrophic runoff stimulate increases in phytoplankton food for larvae, enhancing their success (Birkeland 1982). However, the link between runoff events and COTS outbreaks is equivocal (Kroon et al.",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Trophic interactions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the concept of a coupled system refer to?",
+      "answer": "The concept of a coupled system refers to the phenomenon where two or more systems influence each other through multiple forms of interaction.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Coupled system as a physical concept refers to the phenomenon where two or more systems influence each other through multiple forms of interaction. Based on this idea, numerous studies on coupled systems have been performed, including the coupling between urbanization and ecological environment quality11, land resources coupling12 Agroecological coupling13, and the coupling between resource capacity and environmental carrying capacity14.With the increase of urban population and the acceleration of the process of economic development, how to harmonize the interrelationships among resources, economy, society, ecology and environment represent a critical challenge for sustainable development in contemporary times. 15. There has been an increase in the number of existing studies on coupled water resources, economic and social, and ecological systems. The studies that have been conducted have mainly quantitatively evaluated the resource carrying capacity of the coupled system by geo-detectors, regression analyses, or improved PSR models, and summarized the most significant influencing factors16 18. However, it fails in depth the relationship between the factors in the indicator system and to distinguish the importance of the influencing factors. Second, an analysis of socio-economic factors affecting the development of priority areas for ecosystem services found that high urbanization in the middle and lower reaches of the Xiangjiang River Basin has resulted in a high proportion of impervious areas, and that aquifers have been damaged by over-exploitation in the economic development19.",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Trophic interactions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does Fig. 1 illustrate about basic ecosystems?",
+      "answer": "Fig. 1 illustrates the relations between functional elements such as plants, herbivores, and carnivores in an ecosystem, along with the specific relations among structural elements inside the functional node herbivores.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In these narratives, living systems which are com- plex adaptive systems are described as metabolic sys- items operating over different hierarchical levels, in which structural elements (parts) generate a series of functional types (expressing part whole relations) that, in a syner - gic collaboration, reproduce the structural elements of the whole (e.g., Lomas and Giampietro 2017; Odum 1971a; Ulanowicz 1986). This postulate is illustrated for a basic ecosystem in Fig. 1, using the iconic graph proposed by Odum (1983). The left-hand graph of Fig. 1 shows the relations between the functional elements (the nodes) plants, herbivores, carnivores of an ecosystem (the whole). The right- hand graph of Fig. 1 details the specific relations among the structural elements (individual organisms) inside the functional node herbivores . The latter graph shows that the metabolic characteristics of the network can be represented in two non-equivalent ways: 1. From the outside of the node (left-hand graph), i.e., seen from the perspective of the rest of the network, considering the node herbivores as a functional whole.",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Trophic interactions",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Trophic interactions_qna_002",
+      "value": 1
+    }
+  ]
+}

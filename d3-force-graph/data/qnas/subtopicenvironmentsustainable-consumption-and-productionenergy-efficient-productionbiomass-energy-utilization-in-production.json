@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production",
+      "label": "Biomass energy utilization in production",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Are indirect energy uses like fossil fuels in manufacturing inputs covered in this analysis?",
+      "answer": "Yes, indirect energy use, such as fossil fuels in manufacturing inputs like animal feed or fertilizer, is briefly covered.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A review of past and recent research was undertaken to identify ways of reducing energy-related costs and envi- ronmental impacts associated with the operation of farmmachinery and on-farm energy use. Indirect energy use (e.g., use of fossil fuels in manufacturing inputs such as animal feed or fertilizer) is brie y covered in this analysis, however, other on-farm energy uses such as for heating orventilation of buildings and other sources of GHG emis- sions (e.g., biogenic methane from ruminant livestock, nitrous oxide emissions arising from animal manure andnitrogen fertilizer use) are not discussed. The work re ects, primarily, an Australian perspective, but it draws from relevant evidence reported elsewhere. The highly mecha- nized Australian agricultural systems resemble large-holder (arable) enterprises found in other parts of the world, par-ticularly the USA, Canada, Brazil, and Argentina [ 64]. Hence, the analysis presented here is also relevant to those systems. Therefore, a key focus of this review was tocritically discuss energy use and emissions from direct fossil fuel combustion on farms to power farm machinery, speci cally tractors.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Biomass energy utilization in production",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is biomass recognized as in terms of energy sources?",
+      "answer": "Biomass is recognized as a sustainable energy source that can be utilized to produce chemicals, heat, and electricity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Biomass, a sustainable energy source, can be utilized to produce chemicals, heat, and electricity. For this purpose, studies on the gasification of woody biomass in fluidized bed reactors are of interest. CFD simulations are commonly utilized for designing and optimizing processes. In computational fluid dynamics (CFD) solutions, 2D and 3D modeling have different advantages and disadvantages in terms of accuracy and computational power. 2D simulations offer quicker results and are adequate for acquiring the majority of pertinent parameters. Conversely, 3D methods are primarily required for meticulous analysis and optimization purposes. The current investigation aims to examine the gasification process in a fluidized bed through the use of CFD. This research involves performing 2D and 3D CFD simulations to examine the devolatilization characteristics of woody biomass in the fluidized bed reactor. The focus of the study is to evaluate the ability of 2D simula- tion studies to represent 3D simulation studies. The research investigated the behaviors of gas solid flow modeling using ANSYS 16.0. Keywords CFD Modelling Woody biomass Fluidized bed reactor 2D and 3D simulation 1 Introduction Biomass is the oldest carbonaceous fuel used by humankind and the only solid fuel that is sustainable [1 ].",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Biomass energy utilization in production",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did DACH perform in terms of biomass concentration compared to the control at a concentration of 1 mM?",
+      "answer": "At 1 mM, DACH maintained biomass concentration equivalent to the control without inhibitory effects.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " (2023)15 investigated suspended cultivation of Chlorella sp. with 1 15 mM of TMEDA and DACH. It was found that TMEDA inhibited cell growth at higher than 1 mM, while DACH at 1 15 mM remained biomass concentration equivalent to the control without inhibitory effects. Regarding pH stability, the use of these amines mitigated pH fluctuations compared to the control. The diurnal increase in pH also indicated active metabolic processes in the microalgae. Chlorella sp. demonstrated superior carbon storage and conversion efficiency when cultured with DACH at all tested concentrations, outperforming the control, but TMEDA enhanced carbon conversion efficiency was observed only at 1 mM, with no improvement at higher concentrations15. Li et al. (2023)24 investigated the effects of induced TEA into Coccomyxa subellipsoidea cultures using batch and fed-batch systems. The results showed that adding TEA at a concentration of 100 mg/L enhanced CO2 bio-fixation by 1.28-fold and 1.97-fold in the batch and fed-batch systems, respectively, compared to cultures without TEA supplementation. Furthermore, TEA contributed to stabilizing the pH of the culture system and facilitated the conversion of CO2 into HCO3 .",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Biomass energy utilization in production",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Biomass energy utilization in production_qna_002",
+      "value": 1
+    }
+  ]
+}

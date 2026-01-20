@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Carbon-neutral shipping",
+      "label": "Carbon-neutral shipping",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Carbon-neutral shipping_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What was the specific emission factor for cargo ship emissions in the apparel manufacturing industry?",
+      "answer": "Cargo ship emissions in the apparel manufacturing industry were found to be 50.9 grams of CO2 equivalents per TEU-km, based on data from BSR in 2015.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652618327872",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Carbon-neutral shipping",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Carbon-neutral shipping",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Carbon-neutral shipping_qna_000",
+      "value": 1
+    }
+  ]
+}

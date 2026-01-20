@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ballast water",
+      "label": "Ballast water",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What has been identified as the main pathway of non-indigenous species introduction in Madeira waters?",
+      "answer": "Maritime traffic has been identified as the main pathway of non-indigenous species introduction in Madeira waters.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021; Vilizzi et al. 2021).Laying in the north Atlantic, the Madeira Archi- pelago is an autonomous region of Portugal that comprises Madeira and Porto Santo, the two main populated islands of the archipelago, as well as the Desertas Islands and the Selvagens Islands. Over the past two decades, there has been a growing research interest in marine bioinvasions in the region, primar - ily due to the establishment of a dedicated research group. (e.g., Canning-Clode et al. 2013; Ramalhosa et al. 2017; Castro et al. 2023). In 2013, a monitoring program was implemented, resulting in several NIS detections (e.g., Ramalhosa and Canning-Clode 2015; Ramalhosa et al. 2017; 2019; 2021). In addition, dif- ferent experiments and risk analyses were conducted to test various aspects of marine invasion ecology (e.g., invasibility, correlation to climate change, metal pollution), in which maritime traffic was unveiled as the main pathway of NIS introduction in Madeira waters (e.g., Canning-Clode et al. 2013; Gestoso et al.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Ballast water",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What role does maritime traffic play in the dispersal of non-indigenous species (NIS)?",
+      "answer": "Maritime traffic plays a key role in the local dispersion of non-indigenous species (NIS).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2018; Ferrario et al. 2020; Castro et al. 2019; 2021a; 2021b, 2022). Maritime traffic also has a key role in the local dispersion of NIS (Parretti et al. 2020; Cas- tro et al. 2022a). However, the risk posed by this local dispersal mechanism remains poorly studied. This is particularly worrisome due to the recent detection of potentially invasive NIS such as the brown seaweed Rugulopteryx okamurae (Bernal-lb ez et al. 2022) and the crab Cronius ruber (Sch fer et al. 2019). Despite global, regional and local concerns, NIS management policies and strategies to control and surveil the local proliferation of NIS in the archi- pelago remain scarce (e.g., Castro et al. 2024). The lack of control mechanisms to avoid the local spread and proliferation of NIS is partly related to the lack of practical, meaningful tools to assess risks across the region, which can be particularly problematic to marine conservation efforts such as creating and implementing Marine Protected Areas and Marine Reserves. In May 2020 and aligned with the GBF, the Euro- pean Union (EU) developed a Biodiversity Strategy for 2030, a comprehensive proposal to reverse the downward spiral of biodiversity in Europe by 2030 (e.g., Hermoso et al.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Ballast water",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do maritime traffic and NIS hotspots contribute to marine invasions?",
+      "answer": "Both factors are widely accepted as playing significant roles in the spread and proliferation of NIS, which can lead to marine biological invasion events.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The model can assist in priori- tise interventions to control NIS spread and protect marine habitats (Parretti et al. 2020) and sets an ini- tial stepping stone to assessing risks of NIS spread and proliferation by local maritime traffic. Overall, assessing the risk of NIS proliferation and potential invasions in MPAs is far from straightfor - ward and requires an understanding of multiple com- pounding factors. However, two major factors can be used in developing a spatially explicit risk assessment for the local spread of NIS: i) the existence and distri- bution of NIS hotspots such as ports, harbours, mari- nas and anchoring areas (e.g., Ferrario et al. 2017; Castro et al. 2021a), and ii) the intensity of maritime traffic in the region (Castro et al. 2020; 2022a, b, c). Widely accepted as playing significant roles in the spread and proliferation of NIS and even recorded marine biological invasion events (e.g., Carlton 1987; Carlton et al. 2011; Carlton and Ruiz 2015), these two factors can be considered mandatory to map the risk of invasions and NIS proliferation.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Ballast water",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Ballast water",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Ballast water",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Ballast water",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Ballast water_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "label": "Innovation in carbon offset methodologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How have carbon price prediction approaches evolved in recent years?",
+      "answer": "Various carbon price prediction approaches have emerged, which can be broadly classified into three categories: traditional econometric methods, artificial intelligence (AI) algorithms, and hybrid models.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Excessive price uctuations would cre- ate risks for the market and weaken the effectiveness of ETS (Liu et al., 2020 ; Lyu et al., 2020 ; Song et al., 2019 ). Hence, it is necessary to forecast carbon prices accurately so as to enhance the enthusiasm of market participants. Evidence shows that carbon prices exhibit non-stationarity, nonlinearity, multi-scale and chaos (Fan et al., 2019 ; Huang et al., 2021 ; Manaf et al., 2016 ; Tian & Hao, 2020 ; Zhu et al., 2017 ; Zou & Zhang, 2020 ) and these make predictions dif cult. Therefore, capturing features of carbon prices in order to maximise the forecasting precision is of great signi cance and it has become a challenging task for academic researchers. There are various carbon price prediction approaches that have emerged over the last few years. These approaches/models can be broadly classi ed into three categories: traditional econometric methods (Byun & Cho, 2013 ; Chang et al., 2017 ), arti cial intelligence (AI) algorithms (Fan et al., 2015 ) and hybrid models.",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Innovation in carbon offset methodologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do hybrid models improve prediction outcomes in carbon price forecasting?",
+      "answer": "Hybrid models improve prediction outcomes by integrating the abilities of each algorithm, diversifying the risk of single methods, and exploring complex internal information from various angles.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, individual prediction models of econometrics or Al have shown lack of prediction robustness due to inherent shortcomings (Zhu & Wei, 2013 ; Zhu et al., 2015 ). To overcome the disadvantages above, decomposition and ensemble hybrid models have been introduced in carbon price forecasting. These models 123Annals of Operations Research (2025) 345:809 830 810 have grasped various characteristics and in uencing factors of carbon price in a comprehen- sive manner and, therefore, been able to generate more accuracy in prediction outcomes (Li et al., 2021 ; Niu et al., 2019 ; Sun et al., 2021 ; Zhu et al., 2021 ). The core idea of hybrid models is to integrate the abilities of each algorithm, diversify the risk of single methods, and explore the complex internal information from various angles. Considering the high non-stationarity and nonlinearity features of carbon prices, decompo- sition by empirical mode decomposition (EMD) has been widely employed for maximising forecasting precisions (Zhu et al., 2018 ). As the optimization of EMD, variational mode decomposition (VMD) shows strong noise robustness and signals decomposition capabili- ties.",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Innovation in carbon offset methodologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which decomposition technique has been widely employed for maximizing forecasting precision in carbon prices?",
+      "answer": "Empirical mode decomposition (EMD) has been widely employed for maximizing forecasting precision in carbon prices.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, individual prediction models of econometrics or Al have shown lack of prediction robustness due to inherent shortcomings (Zhu & Wei, 2013 ; Zhu et al., 2015 ). To overcome the disadvantages above, decomposition and ensemble hybrid models have been introduced in carbon price forecasting. These models 123Annals of Operations Research (2025) 345:809 830 810 have grasped various characteristics and in uencing factors of carbon price in a comprehen- sive manner and, therefore, been able to generate more accuracy in prediction outcomes (Li et al., 2021 ; Niu et al., 2019 ; Sun et al., 2021 ; Zhu et al., 2021 ). The core idea of hybrid models is to integrate the abilities of each algorithm, diversify the risk of single methods, and explore the complex internal information from various angles. Considering the high non-stationarity and nonlinearity features of carbon prices, decompo- sition by empirical mode decomposition (EMD) has been widely employed for maximising forecasting precisions (Zhu et al., 2018 ). As the optimization of EMD, variational mode decomposition (VMD) shows strong noise robustness and signals decomposition capabili- ties.",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Innovation in carbon offset methodologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What method has been introduced to improve prediction results in carbon price forecasting?",
+      "answer": "A reconstruction method has been introduced, using sample entropy (SE) to reconstitute subgroups into new components, which helps avoid errors of subjective selection.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Sun et al. ( 2016 ) proposed a hybrid model based on VMD and spiking neural networks (SNN) for ensuring precisions in the carbon price predictions. In an empirical study, Tian and Hao ( 2020 ) processed the original carbon price series into subsequences by VMD and illustrated an improved prediction performance of VMD. It is now widely used in the carbon price prediction models, implying its signi cant in uence in carbon price decomposition (Sun & Huang, 2020 ;W a n ge ta I . , 2019 ; Zhu et al., 2019 ). However, various subgroups produced by over-decomposition are observed to cause prob- lems of poor economic implications and dif cult calculations. Reconstruction method has therefore been introduced into carbon prices forecasting eld and to avoid errors of subjective selection, sample entropy (SE) has been used to reconstitute subgroups into new components. This algorithm is applied to the reconstruction process of carbon price series after decompo- sition and it has produced more satisfactory prediction results in the comparative experiments (Hao et al., 2020 ; Sun & Duan, 2019 ).",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Innovation in carbon offset methodologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What technique is commonly used in literature to predict carbon prices?",
+      "answer": "A two-step technique involving decomposition followed by a single learning method is widely used to improve prediction accuracy.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " While so far there has been an abundance of studies to explore carbon price forecasting, it is currently dif cultto guarantee that any single algorithm proposed in the literature will consistently outperformothers all the time. The optimal prediction model may change as the data sample varies.A two-step technique is widely used in the existing literature, speci cally, the process ofdecomposition followed by a single learning method, in an effort to more accurately predictthe price outcome of a given set of data. However, the data distribution characteristics ofthe different sub-series are distinct and so the prediction results may not always be optimalwhen using the same approach. This paper therefore proposes a new two-step frameworkfor predicting international carbon prices which can serve as a reference for better-informedinvestment decisions and climate governance in both China and the EU. More precisely, we rst decompose the carbon prices into factors based on trend and period, using the Singular Spectrum Analysis (SSA) approach. The second stage is then to nd the best-performing model from among the numerous available prediction models for 123 Annals of Operations Research (2025) 345:1267 1295 1269 the factors of trend and period.",
+      "macrotopic": "Clean energy",
+      "topic": "Carbon offset programs",
+      "subtopic": "Innovation in carbon offset methodologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies",
+      "target": "Subtopic:Environment|Clean energy|Carbon offset programs|Innovation in carbon offset methodologies_qna_004",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "label": "Air data sharing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many response options were identified in total, and how many were shared between different nexus elements?",
+      "answer": "There were 71 response options in total, with 4 being shared between different nexus elements.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Chair Obura noted that while IPBES has fulfilled its mission through efficient resource use, a predictable budget of around USD 2 million per year would be needed to match foreseen expenditures. Despite the current budgetary constraints, the Executive Secretary reported the possibility of providing Biodiversity and Conservation (2025) 34:715 721 ment (Murphy et al. 2021 ); favoring urban nature-based solutions (Kabisch et al. 2022 ) and sustainable healthy diets (Martini et al. 2021 ); as well as supporting Indigenous food systems (Richmond et al. 2021 ). In total, there were 71 response options with 4 being shared between different nexus elements (14 for biodiversity, 15 for water, 16 for food, 15 each for health and climate) clearly outlining that a collaborative and coordinated effort is needed and necessary for reform of the currently siloed governance of the different nexus elements. Such reforms would focus on efficiency and seeking optimal ways to ensure all nexus ele - ments are considered together. The Nexus Assessment and its SPM make scientifically sup - ported statements that clearly outline which ways humanity need to choose so as to maintain the planetary life-support system and thus allow for sustainable futures.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air data sharing",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is standardizing and publicly archiving these datasets important?",
+      "answer": "It reduces computing and access difficulties, which facilitates aeroecology research and applications.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Here we present two public datasets of animal movement data derived from European weather radars. They are the result of long-term interdisciplinary collaborations through the COST action ENRAM (European Network for the Radar surveillance of Animal Movement) 23 and BiodivERsA projects GloBAM and HiRAD . The datasets were created by processing radar data with dedicated and validated methods for detecting birds and especially bird migration, resulting in summaries of movement characteristics (e.g. density, direction and speed) at regular altitude intervals across the lower atmosphere. Despite heterogeneity in coverage and data quality, they provide the largest and most complete datasets of their kind in Europe. By creating, standardizing and publicly archiving these data, we reduce computing and access difficulties to facilitate aeroecology research and applications. The datasets are deposited on Zenodo and can also be explored in the Aloft data portal (see Aloft data portal). Methods The data were created by processing polar volume data (PVOL) to vertical profiles of biological targets (VP). These are then combined into vertical profile time series (VPTS). PVOL data access.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air data sharing",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Who is granted access to the European PVOL data?",
+      "answer": "Access is granted to members of the ENRAM consortium and authors of the paper, as well as meteorological institutes of many OPERA member countries.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This server is maintained by the Swedish Meteorological and Hydrological Institute (SMHI) and further referred to as BALTRAD European PVOL data are generally not publicly available. Access is granted to members of the ENRAM consortium (including authors of this paper) by meteorological institutes of many OPERA member countries (i.e. the 18 countries covered by the data, as well as Austria and the United Kingdom) through a license agree - ment. It states that PVOL data cannot be distributed further and can only be used for the purpose of extracting animal migration information for scientific research These restrictions do not apply to derived VP/VPTS data. For the BALTRAD_VPTS 28 dataset, we obtained PVOL data from BALTRAD. For the UVA_VPTS29 dataset, the University of Amsterdam (UvA) obtained PVOL data as part of several research projects related to avia - tion safety and wind energy, from three national meteorological services: the Royal Meteorological Institute of Belgium (RMI), German Meteorological Service (DWD) and Royal Netherlands Meteorological Institute (KNMI). In contrast with (recent) data provided to BALTRAD, these data are unfiltered and often contain dual polarization quantities, which results in higher quality VP data (see Usage Notes).",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air data sharing",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "What computational benefits does the novel merging approach provide over traditional model ensembling methods in UDA?",
+      "answer": "The novel merging approach provides a cost-free solution that avoids additional training costs and computational overhead linked with traditional model ensembling methods, as it only requires a single model inference for parameter merging.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Experimental results demonstrate substantial UDA improvements without additional costs for merging same-architecture models from distinct datasets ( 2.6% mloU) and different-architecture models with a shared backbone ( 6.8% mloU). Furthermore, merging semantic and panoptic segmen-t tation models increases mPQ by 7%. These ndings are validated across a wide variety of UDA strategies, architectures and datasets. The code will be publicly available upon acceptance in the LWMM repository: http://www-vpu.eps.uam.es/LWMM/ . Keywords Model merging Unsupervised domain adaptation Semantic segmentation Panoptic segmentation Synthetic data 1 Introduction Unsupervised domain adaptation (UDA) aims to train models from a source labeled domain that can generalize to an unla- beled target domain, key for tasks with limited annotated data due to the capture dif culty or the high annotation costs (e.g.,semantic or panoptic segmentation [ 1]). Thus, automatically annotated synthetic datasets emerge as attractive alternative for the source domain for segmentation tasks [ 2 6]. While Roberto Alcover-Couso work done prior to joining Amazon. B Roberto Alcover-Couso Proberto.alcover@estudiante.uam.es Juan C. SanMiguel juancarlos.sanmiguel@uam.es Marcos Escudero-Vi olo marcos.escudero@uam.es Jos M. Mart nez josem.martinez@uam.es 1Video Processing and Understanding Lab, UniversidadAut noma de Madrid (UAM), 28049 Madrid, SpainUDA has demonstrated remarkable success in various com- puter vision tasks, its application to segmentation tasks often faces challenges such as unstable training dynamics [ 7 11] and underperformance compared to supervised models [ 12 15].",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air data sharing",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air data sharing_qna_003",
+      "value": 1
+    }
+  ]
+}

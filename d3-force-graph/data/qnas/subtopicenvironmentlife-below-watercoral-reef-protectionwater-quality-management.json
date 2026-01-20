@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management",
+      "label": "Water quality management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to minimize tank effects during the experiment?",
+      "answer": "Coral racks were haphazardly redistributed daily to minimize tank effects during the experiment.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " All tanks executed the same profile and coral racks were haphazardly redistributed daily to minimize tank effects. We created a 12:12 h light:dark cycle with Radion LED aquarium lights (Ecotech Marine) with a peak midday PAR irradiance of ~ 400 mol/m2/sec. Tanks had continuous seawater input and were mixed with submersible pumps. Corals were accli- mated to indoor conditions at ~ 25 C for a week before com- mencement of a 16-day heat ramp in late February, peaking at 32 C (Fig. 1BC). Temperature was then held at 32 C until we observed substantial bleaching or mortality in ~ 50% of fragments (5 days) at which point the temperature was ramped down over 10 days to a 25 C hold. During the 32 C ramp-hold period, we removed fragments that had no viable tissue remaining (i.e., 100% tissue sloughing or complete algal overgrowth) to reduce detrimental effects on neighboring fragments. Fragments were returned to outdoor seawater tables in early May 2018 and kept in ambient flow- through conditions to allow recovery of surviving fragments (Fig. 1B).",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Water quality management",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to assess coral health prior to the experiment?",
+      "answer": "Imaging Pulse Amplitude Modulated Fluorometry (IPAM) was used to assess coral health prior to the experiment.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These chambers were then partially submerged in a 28 C seawater jacket under 110 mol quanta m 2 S 1 on a 12 h:12 h light dark cycle (Al Hydra 52s, Aqua Illumination, C2 Development Inc.) with daytime expulsion measured under lights and nighttime expulsion measured in darkness. On each day of observation, a randomized subset of experimental fragments were selected from adjacent 659 Coral Reefs (2025) 44:657 667 tanks with identical temperature and light conditions as the incubation water jacket. These fragments were gently rinsed with 0.2 m FSW to remove any potential symbionts adhered to the tissue surface. Once rinsed, corals were placed in each incubation chamber, with between eight and twelve chambers run in parallel. Throughout the incubation period, the chambers were agitated periodically to promote water movement. After 7 h spent in the chambers, corals were removed and carefully rinsed with 0.2 m FSW again, this time to dislodge any symbionts adhering to the coral surface into the chamber water. Pre-experiment testing using Imaging Pulse Amplitude Modulated Fluorometry (IPAM, Walz, Effeltrich, Germany) indicated that coral health (measured as Fv/Fm) was not affected by the incubation chambers indicating chamber-induced stress is negligible in expulsion.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Water quality management",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Water quality management_qna_001",
+      "value": 1
+    }
+  ]
+}

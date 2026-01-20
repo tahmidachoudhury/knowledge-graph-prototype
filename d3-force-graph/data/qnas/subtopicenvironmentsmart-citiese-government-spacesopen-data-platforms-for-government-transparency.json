@@ -1,0 +1,194 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "label": "Open data platforms for government transparency",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of the primary articles identified had an open-access designation?",
+      "answer": "32% of the primary articles identified had an open-access designation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Now, two decades later, it is timely to re ect on the legacyof storm Gudrun to forest science. This short communi- cation aims are twofold: (1) to provide an overview of key research themes that have emerged in response to the stormand (2) to highlight the critical role that research and monitoring infrastructure has played in enabling the gen- eration of valuable insights for forest sciences from thissingle destructive event. Supplementary Information The online version contains supplementary material available at https://doi.org/10.1007/s13280- 25-2159-z www.kva.se/en 123Ambio https://doi.org/10.1007/s13280-25-2159-z MATERIALS AND METHODS Literature search We conducted a comprehensive search for scienti C arti- cles addressing storm Gudrun using the Web of Science Core Collection database. Our search consisted of twodistinct but overlapping efforts that consisted of one search that focused on scienti C articles in general, and one search that focused on scienti C articles involving forests. We didso in order to place the forest-related studies within the larger scienti C context. In August 2024, an initial general search was performed with the query: TS = ((storm ORhurricane OR cyclone) NEAR/2 (Gudrun OR Erwin)) , yielding 34 primary articles (32% with an open-access designation).",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Open data platforms for government transparency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of the final dataset of citing articles had an open-access designation?",
+      "answer": "The final dataset comprised 647 citing articles, with 60% having an open-access designation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The term Erwin was included as a searchterm because this name was used to refer to the storm in some other European countries (e.g. Germany). Subse- quently, using the Web of Science tool citation analysis ,we identi ed additional articles citing the primary set of documents. The results were re ned to include only Articles and Review Articles , resulting in 973 docu-ments (54% with an open-access designation). Moreover, given our speci C interest in the storm S impact on forest- related sciences, the articles that resulted from the primarygeneral query were manually Itered to include only arti- cles that focused on scienti C elds that work with forests. This re nement narrowed the dataset to 18 primary articles related to forests (44% with an open-access designation), which served as the basis for another round of citationanalysis. Following a similar re nement process to exclude self-citations and focused on Articles and Review Articles , the nal dataset comprised 647 citing articles(60% with an open-access designation). The results from each single search were exported with their full records and cited RESULTS AND DISCUSSION Science across elds and countries The initial clustering performed using the VOSviewer algorithm identi ed 16 distinct clusters, characterised by signi cant variation in citation patterns among them(Fig.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Open data platforms for government transparency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Over what time period were the datasets created?",
+      "answer": "The datasets were created from 2008 to 2023.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1 Scientific Data www.nature.com/scientificdataBiological data derived from European weather radars Peter Desmet 1 , Judy Shamoun-Baranes 2, Bart Kranstauber 2, adriaan M. Dokter 3, Nadja Weiss haupt 4, Baptiste Schmid 5, Silke Bauer 2,5,6,7, G nther Haase 8, Bart Hoekstra 2, Pieter Huybrechts 1, Hidde Leijnse 9, Nicolas No 1,10, Stijn Van Hoey 1,11, Berend Wijers 2 & Cecilia Nilsson 12 Weather radars detect more than weather, they also continuously register the movements of billions of animals aloft in the lower atmosphere. This makes archived, unfiltered weather radar data a goldmine for biological monitoring purposes, providing coverage of the aerial habitat in a way no other method can. Here we present two datasets of biological data extracted from European weather radar data, obtained through a collaboration with the Operational Programme for the Exchange of Weather Radar Information (OPERa) and three national meteorological services. the datasets were created by processing weather radar data with methods optimized for extracting bird targets, resulting in vertical profiles of biological targets. The datasets collectively cover 141 radar stations in 18 countries, from 2008 to 2023.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Open data platforms for government transparency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many radar stations are covered in the datasets presented?",
+      "answer": "The datasets collectively cover 141 radar stations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1 Scientific Data www.nature.com/scientificdataBiological data derived from European weather radars Peter Desmet 1 , Judy Shamoun-Baranes 2, Bart Kranstauber 2, adriaan M. Dokter 3, Nadja Weiss haupt 4, Baptiste Schmid 5, Silke Bauer 2,5,6,7, G nther Haase 8, Bart Hoekstra 2, Pieter Huybrechts 1, Hidde Leijnse 9, Nicolas No 1,10, Stijn Van Hoey 1,11, Berend Wijers 2 & Cecilia Nilsson 12 Weather radars detect more than weather, they also continuously register the movements of billions of animals aloft in the lower atmosphere. This makes archived, unfiltered weather radar data a goldmine for biological monitoring purposes, providing coverage of the aerial habitat in a way no other method can. Here we present two datasets of biological data extracted from European weather radar data, obtained through a collaboration with the Operational Programme for the Exchange of Weather Radar Information (OPERa) and three national meteorological services. the datasets were created by processing weather radar data with methods optimized for extracting bird targets, resulting in vertical profiles of biological targets. The datasets collectively cover 141 radar stations in 18 countries, from 2008 to 2023.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Open data platforms for government transparency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Where was the monthly-packaged data archived?",
+      "answer": "The monthly-packaged data was archived on Zenodo, a free-to-use research repository.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This format defines all measurements, facilitating standardized data exchange. While this process removes some meta - data, it does not reduce the amount of data records, nor does it statistically aggregate data. BALTRAD_VPTS data from 2018 to 2023 were converted using the Python package vptstools33 as part of an operational service. All other data were converted using the R package bioRad34,35 (see Fig. 1). We first created daily CSV files per radar (298 498 files) and then concatenated and gzipped these into monthly csv.gz files (10 991 files). The VPTS files are more storage efficient than the VP files, allowing faster downloads and analyses. For the same time period, daily files were on average 25% of the original VP file size, monthly files 6%. Long-term archiving. Finally, we performed a data format validation on all VPTS data using the Python library frictionless-py36 (see Technical Validation) and archived the monthly-packaged data on Zenodo, a free-to-use, general-purpose research repository. One deposit was created for each source (BALTRAD and UvA). Fig.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Open data platforms for government transparency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Where can these datasets be accessed?",
+      "answer": "The datasets are deposited on Zenodo and can also be explored in the Aloft data portal.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Here we present two public datasets of animal movement data derived from European weather radars. They are the result of long-term interdisciplinary collaborations through the COST action ENRAM (European Network for the Radar surveillance of Animal Movement) 23 and BiodivERsA projects GloBAM and HiRAD . The datasets were created by processing radar data with dedicated and validated methods for detecting birds and especially bird migration, resulting in summaries of movement characteristics (e.g. density, direction and speed) at regular altitude intervals across the lower atmosphere. Despite heterogeneity in coverage and data quality, they provide the largest and most complete datasets of their kind in Europe. By creating, standardizing and publicly archiving these data, we reduce computing and access difficulties to facilitate aeroecology research and applications. The datasets are deposited on Zenodo and can also be explored in the Aloft data portal (see Aloft data portal). Methods The data were created by processing polar volume data (PVOL) to vertical profiles of biological targets (VP). These are then combined into vertical profile time series (VPTS). PVOL data access.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Open data platforms for government transparency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_006",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do the datasets obtained by the University of Amsterdam differ from those provided to BALTRAD?",
+      "answer": "The datasets obtained by the University of Amsterdam are unfiltered and often contain dual polarization quantities, leading to higher quality VP data.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This server is maintained by the Swedish Meteorological and Hydrological Institute (SMHI) and further referred to as BALTRAD European PVOL data are generally not publicly available. Access is granted to members of the ENRAM consortium (including authors of this paper) by meteorological institutes of many OPERA member countries (i.e. the 18 countries covered by the data, as well as Austria and the United Kingdom) through a license agree - ment. It states that PVOL data cannot be distributed further and can only be used for the purpose of extracting animal migration information for scientific research These restrictions do not apply to derived VP/VPTS data. For the BALTRAD_VPTS 28 dataset, we obtained PVOL data from BALTRAD. For the UVA_VPTS29 dataset, the University of Amsterdam (UvA) obtained PVOL data as part of several research projects related to avia - tion safety and wind energy, from three national meteorological services: the Royal Meteorological Institute of Belgium (RMI), German Meteorological Service (DWD) and Royal Netherlands Meteorological Institute (KNMI). In contrast with (recent) data provided to BALTRAD, these data are unfiltered and often contain dual polarization quantities, which results in higher quality VP data (see Usage Notes).",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Open data platforms for government transparency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_007",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which government sources provided the official landings data for the fleets?",
+      "answer": "The official landings data were provided by the Catalan and Valencian Governments.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Each category is associated with a primary gear type, except for the small-scale fleet, which uses multiple gear types. A complete description of the fleets can be found in the sup- plementary material (Supplementary material Table S3). Catch data are assigned to each fleet from official land- ings from the Catalan and Valencian Governments for 2021 for the harbours inside our study area (Castell de la Plana, Pe scola, Benicarl , Vinar S, Burriana, Calafell, Cambrils, Delta Ebre, La R pita, Les Cases d'Alcanar, L'Ametlla de Mar, Tarragona, Torredembarra, and Vilanova i la Geltr ) (Generalitat Valenciana 2021; ICATMAR 2023). 2021 can be considered a standard year in terms of volumes and spe- cies composition following the COVID crisis. The ecologi- cal model has been validated against prior data from the area to ensure its coherence. The link between the food web model and the value chain module was done through the FG landings and the fleet structure provided in the Ecopath model (Table S4 and S5). The basic estimates of the final balanced model, as well as the diet matrix, are presented in the supplementary material (Tables S6 to S7).",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Open data platforms for government transparency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_008",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "From which database does the information for Nigeria's elasticities come?",
+      "answer": "The information is taken from the GTAP 10 database.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In addition to the SAM, we rely on methodologies and data from the Food and Agri - culture Organisation (FAO) for calculating indicators for food security, focusing on three dimensions: food availability, access to food, and vulnerability of supplies (FAO, 2006 ). Also, we use unemployment data from the National Bureau of Statistics ( 2021 ) which indi - cated an unemployment rate of 33.3%. Next, we set the elasticity of real wages with respect to unemployment ( ) at -0.1, which is a standard value in the literature on wage curves and has been applied in countries like South Africa (Blanchflower and Oswald 1995 ; Kingdom & Knight, 2004). As for the elasticities, we use the elasticities of Nigeria taken from the GTAP 10 database (Aguiar et al. 2019 ) and carry out sensitivity tests from the elasticities of Burkina Faso (Zidouemba et al., 2015 ), a country in the same economic area as Nigeria. Concerning the conception of the climate scenario, we rely on historical data of disasters recorded in the EMDAT database for Nigeria and microeconomic data obtained from the Nigeria Liv - ing Standards Survey 2018 2019 (Wave 4) produced by the National Bureau of Statistics (NBS).",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Open data platforms for government transparency",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Open data platforms for government transparency_qna_008",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Decentralized renewable energy systems",
+      "label": "Decentralized renewable energy systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Decentralized renewable energy systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is one of the main issues with energy infrastructure on the Sichuan Plateau?",
+      "answer": "The main issue is that centralized energy supply technology is difficult to apply due to the plateau's topography and economic development level, leading to scarce conventional energy supply.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " (2) Weak energy infrastructure. Due to the constraints of plateau topography and economic development level, it is difficult to apply centralized energy supply technology, power grid, gas, liquefied gas, and natural gas supply have not been able to spread to all towns and villages, and conventional energy supply is scarce, resulting in the energy problem in the region is still severe. (3) Architectural design lacks scientific and standardized, traditional residential energy consumption is high. Due to the limited economic conditions and unique climate and environment, most of the residential design and construction on the Sichuan Plateau are completed by local craftsmen and villagers relying on the experience left by their ancestors, traditional customs and culture, and personal intuition. Craftsmen are to a certain extent unable to take full advantage of new technologies, materials, and methods, limiting the comfort and energy-saving efficiency of their homes. (4) Insufficient utilization of renewable energy. There are significant differences in the use of energy between rural and urban dwellings, and renewable energy should be fully utilized to reduce the total energy consumption of buildings.",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "subtopic": "Decentralized renewable energy systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Decentralized renewable energy systems_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What critical need has been emphasized for developing countries regarding their energy infrastructure?",
+      "answer": "Developing countries need to transition from their existing energy infrastructure to renewable energy to address climate change, enhance energy security, and foster economic growth.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The escalation of global warming owing to fossil fuel use has heightened the global focus on sustainable development, stressing the necessity of adopting cleaner energy sources25. According to the International Energy Agency (IEA, 2020), there has been an increase in energy-related CO2 emissions in developing countries compared with industrialised economies. Numerous studies have emphasised the critical need for developing countries to transition from their existing energy infrastructure to renewable energy to address climate change, enhance energy security, and foster economic growth10,20,26,27. Using alternative energy sources may help reduce CO2 emissions, which comprise more than 60% of total GHG emissions10. Recent projections indicate that by 2025, renewable energy will surpass coal in power generation and is expected to account for 50% of global electricity production by mid-century3 25. Moreover, renewable energy sources play a significant role in attaining energy security by reducing nations reliance on imported fossil fuels28. However, the inadequate energy infrastructures of developing nations have been unable to grow, which has slowed down the shift of these nations energy usage from non-renewable to renewable sources2. Dauda et al.",
+      "macrotopic": "Climate action",
+      "topic": "Greenhouse gas emission reduction",
+      "subtopic": "Decentralized renewable energy systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Decentralized renewable energy systems",
+      "target": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Decentralized renewable energy systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Decentralized renewable energy systems",
+      "target": "Subtopic:Environment|Climate action|Greenhouse gas emission reduction|Decentralized renewable energy systems_qna_001",
+      "value": 1
+    }
+  ]
+}

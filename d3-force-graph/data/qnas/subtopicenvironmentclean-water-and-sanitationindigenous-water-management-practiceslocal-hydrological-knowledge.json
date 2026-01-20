@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge",
+      "label": "Local hydrological knowledge",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What hydrological features are exhibited by the Luvuvhu River?",
+      "answer": "The Luvuvhu River exhibits rapid flows, riffles, runs, and pools, particularly in its lowveld stretches.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " According to Munyai et al.25 most of rain (over 80%) is received between November and March. The mean annual precipitation varies between 610 mm and 800 mm. The local climate throughout the summer and winter months are characterised by high (i.e., 40 C) and low (i.e., 9 C) temperatures, respectively. The Luvuvhu River exhibits several hydrological features, including rapid flows, riffles, runs, and pools, particularly in its lowveld stretches making a good habitat for various macroinvertebrates within these biotopes. This study involved the collection of macroinvertebrates, water and sediment samples from 16 sites (in different river sections: Upstream , downstream and tributaries ) located along the Luvuvhu River system across two seasons (i.e., hot wet, cool dry) (Fig. 1). All 16 sites were selected based on associated land use activities ( mainstream sites : agriculture, water abstraction and solid waste disposal; tributaries : location relative to the wastewater sewage plant, sand mining and brick making) that could potentially negatively impact the river system. Water variables Conductivity ( S cm 1), salinity (ppt), pH, water temperature ( C), and total dissolved solids (TDS) (mg L 1) were measured in situ at 16 sampling sites ( n = 2 per site) along the Luvuvhu River and its tributaries across two seasons (i.e., cool dry, hot wet), using a portable handheld multiparameter Cyberscan Series portable meter (Eutech Instruments, Singapore).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Local hydrological knowledge",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How can the collaboration of scientists, policymakers, local residents, and indigenous knowledge specialists lead to novel outcomes in designing agricultural landscapes?",
+      "answer": "By combining their expertise, these stakeholders can work together to create innovative solutions that promote sustainable agricultural practices and address various challenges related to water use, disposal, and pumping.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Local hydrological knowledge",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the reported knowledge gap in the literature regarding spillways?",
+      "answer": "The knowledge gap pertains to the flow distribution across spillways and the effects of adverse conditions on spillway capacity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For hydraulic structures constructed in natural rivers, common in Norwegian and Swedish hydropower systems, the topography and bathymetry may impose limitations on this design. dams in Sweden, Norway, and the Akosombo dam in Ghana. In these examples, spillways are positioned either perpendicular or at an oblique angle to the main flow leading toward the turbine intakes. main flow direction leading toward the intakes as a blue arrow, while the spillway direction is shown as a red arrow. Existing literature reveals a noticeable knowledge gap in reporting flow distribution across spillways and the effects of adverse conditions on spillway capacity. One aim of this study is to enhance understanding of how poor flow distribution across a spillway impacts its performance and to identify contributing factors to this loss. This paper presents experiments on an ogee-shaped spillway with three outlets, building on the work of Hedberg et al.23 on a similar channel. The novelty of this study lies in exacerbating the adverse conditions by modifying the channel geometry and pier design, resulting in a greater degree of oblique approach and less approach flow toward the spillway.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Indigenous water management practices",
+      "subtopic": "Local hydrological knowledge",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge",
+      "target": "Subtopic:Environment|Clean water and sanitation|Indigenous water management practices|Local hydrological knowledge_qna_002",
+      "value": 1
+    }
+  ]
+}

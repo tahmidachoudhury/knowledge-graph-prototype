@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation",
+      "label": "Integrated public and active transportation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does Jakarta's policy towards integrating urban development with the transit system align with the smart city initiative?",
+      "answer": "Jakarta's policy aligns with the smart city initiative by aiming to create an environment where residential areas, trading centres, service centres, offices, and public spaces are interconnected and easily accessible through various modes of transportation like walking, cycling, or public transport.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2590051X23000710",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Integrated public and active transportation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "In what ways can smart solutions like smartphone apps and automated delivery contribute to promoting active and public transportation?",
+      "answer": "Smart solutions, including smartphone apps and automated delivery services, can promote active and public transportation by encouraging modal shifts through car- and bike-sharing programs, reducing the need for physical travel with online shopping, and enhancing pedestrian and cyclist safety with sensor technology.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Integrated public and active transportation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the integration of urban development with the transit system benefit Jakarta's smart city initiative?",
+      "answer": "The integration of urban development with the transit system in Jakarta aims to create interconnected and easily accessible residential areas, trading centres, service centres, offices, and public spaces through various modes of transportation like walking, cycling, or public transport.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2590051X23000710",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Sustainable infrstructure",
+      "subtopic": "Integrated public and active transportation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation",
+      "target": "Subtopic:Environment|Smart cities|Sustainable infrstructure|Integrated public and active transportation_qna_002",
+      "value": 1
+    }
+  ]
+}

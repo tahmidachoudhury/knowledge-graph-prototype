@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Education policy|Equity measures",
+      "label": "Equity measures",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Education policy"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Education policy|Equity measures_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What aspects do these frameworks highlight regarding the use of AI in education?",
+      "answer": "They highlight learning equity, assessment fairness, cognitive engagement, digital resource governance, and ethical teaching models.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " In response to these challenges, frameworks like the European Commission S Digi- tal Competitiveness Framework (2022) and the UNESCO AI Competencies framework (2024) promote a holistic approach to enhancing inclusive and ethical AI integration in education. These frameworks emphasise [1] teachers performance, [2] pedagogical strategies, and [3] learners digital competencies. They call for AI to be leveraged for learning equity, assessment fairness, cognitive engagement, digital resource governance, and ethical teaching models. They also stress the importance of ethical AI literacy for both teachers and students (UNESCO, 2024a, 2024b; European Commission, 2023). However, despite these foundational policies and frameworks, there is still a nota- ble lack of empirical research that integrates Al, curriculum, and sustainability in schools. To address this gap, this study explores Al-supported transversal skills using open schooling including Al activities for Sustainable Development Goals (SDGs). One particularly underexplored area is understanding students views about their learning experiences to develop refined human judgment when using, recreating, and interpreting Al-generated content, with an emphasis on critical thinking and problem-solving (Langhans et al., 2020; Schiff, 2021).",
+      "macrotopic": "Quality education",
+      "topic": "Education policy",
+      "subtopic": "Equity measures",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Education policy|Equity measures_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What new measures were included in Australia's first wellbeing budget?",
+      "answer": "It included measures of health and education outcomes, environmental sustainability, social inclusion, and inequality.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Governments who are part of the WEAII acknowledge the role of economic growth and wealth creation as one potential indicator of collective wellbe - ing. However, they also acknowledge the importance of several other key principles which form the foundations of a wellbeing economy. These include: dignity everyone has enough to ensure that they can live in comfort, safety and happiness; nature and climate a restored and safe natural world for all life; social connection sense of belonging and institutions that serve the common good; fairness justice in all its dimensions is at the heart of economic systems and the gap between the richest and poorest in society is reduced and participation citizens are actively encouraged to engage in their communities and local economies [1 ]. The Federal Government of Australia has recently moved policy direction to align itself with the principles of a well- being economy through the announcement of a wellbe- ing budget [7 , 8]. Australia S first wellbeing budget was delivered in October 2022; it not only projected traditional measures of employment, gross domestic product (GDP) and national debt but also included measures of health and education outcomes, environmental sustainability, social inclusion and inequality for the first time [9 ].",
+      "macrotopic": "Quality education",
+      "topic": "Education policy",
+      "subtopic": "Equity measures",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Education policy|Equity measures",
+      "target": "Subtopic:Social|Quality education|Education policy|Equity measures_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Education policy|Equity measures",
+      "target": "Subtopic:Social|Quality education|Education policy|Equity measures_qna_001",
+      "value": 1
+    }
+  ]
+}

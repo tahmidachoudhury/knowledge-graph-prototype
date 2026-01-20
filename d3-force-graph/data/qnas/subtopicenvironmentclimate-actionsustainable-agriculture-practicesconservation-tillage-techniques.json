@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Conservation tillage techniques",
+      "label": "Conservation tillage techniques",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Conservation tillage techniques_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What evidence indicates the expenditure of energy in soil deformation?",
+      "answer": "A rut formed by the passage of a wheel over the soil is evidence of the expenditure of energy in deforming the soil.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The rolling resistance has two main compo-nents [ 50]: The internal rolling resistance, which is caused by the loss of energy resulting from the continuous exing of the tire S carcass as the wheel rotates in contact with the ground, and The external rolling resistance, which arises from the energy that the wheel must expend in deforming the soil surface. In off-road conditions, the rolling resistance caused by soil deformation is about 5 times greater (or more) than theinternal resistance, depending upon the tire construction. A rut formed by the pass of a wheel over the soil (Fig. 1)i S evidence of the expenditure of energy in deforming thatsoil, and in general, the larger the cross-section of the tire rut, the greater the rolling resistance [ 74]. Rolling resis- tance, slip and compaction may be reduced by using powerby traveling at higher speeds, and by increasing the contact area and reducing weight. If weight cannot be reduced, an increase in the contact area will reduce the soil-tire contactpressure. A reduction in the contact pressure can be achieved by increasing the tire diameter, the section width or both (although the former is preferable to keep rollingresistance low), operating the tire at the minimum allow- able (safe) in ation pressure or tting dual tires at low in ation pressure, and where possible, using repeatedwheeling [ 63].",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Conservation tillage techniques",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Conservation tillage techniques_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What were the cumulative N2O + N2 losses estimated during the trial?",
+      "answer": "The cumulative N2O + N2 losses were estimated to be 860.4 ± 220.9 mg N m² for winter wheat and 553.1 ± 96.3 mg N m² for sugar beet over the respective experimental periods.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract The objectives of this field trial were to collect reliable measurement data on N2 emissions and N2O/(N2O + N2) ratios in typical German crops in relation to crop development and to provide a dataset to test and improve biogeochemical models. N2O and N2 emissions in winter wheat (WW, Triticum aestivum L.) and sugar beet (SB, Beta vulgaris subsp. vulgaris) were measured using the improved 15N gas flux method with helium oxygen flushing (80:20) to reduce the atmospheric N2 back - ground to < 2%. To estimate total N2O and N2 production in soil, production-diffusion modelling was applied. Soil samples were taken in regular intervals and analyzed for mineral N (NO3 and NH4+) and water-extractable Corg content. In addition, we monitored soil moisture, crop development, plant N uptake, N transformation processes in soil, and N translocation to deeper soil layers. Our best estimates for cumulative N2O + N2 losses were 860.4 220.9 mg N m 2 and 553.1 96.3 mg N m 2 over the experimental period of 189 and 161 days with total N2O/(N2O + N2) ratios of 0.12 and 0.15 for WW and SB, respectively.",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "Conservation tillage techniques",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Conservation tillage techniques",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Conservation tillage techniques_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Conservation tillage techniques",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|Conservation tillage techniques_qna_001",
+      "value": 1
+    }
+  ]
+}

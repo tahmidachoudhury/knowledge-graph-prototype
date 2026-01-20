@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources",
+      "label": "Pollution sources",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What factors are mentioned as having significant negative impacts on the quality of inland-sea and coastal waters?",
+      "answer": "Urbanisation, industrial activities, agricultural activities, and warfare are mentioned as factors that have significant negative impacts on the quality of inland-sea and coastal waters.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Continued monitoring is required to assess the longer-term impacts. Over recent years, there has been increasing awareness of the connection between society and its changing behaviours and practices within the ter-restrial environment and the downstream impacts on the quality of thecoastal and marine environment 1 3. In addition to the well-known impacts from urbanisation, industrial and agricu Itural activities, warfare is another factor that can pose signi cant direct (e.g., oil spill, chemical pollutions, infrastructure destruction, ooding) and indirect (e.g., suspension of management and research) negative impacts to the quality of inland-sea andcoastal waters 4,5. All stages of war, including the preparation, actual armed con ict and post-war activities, can lead to the deterioration of water quality, water scarcity and biodiversity loss, resulting in shifts in aquatic ecosystem functioning with consequences for human health and wellbeing6 8. The health of the North-Western Black Sea (NWBS) is dominated by the in ow from the Danube, Dniester, Southern Bug and Dnipro rivers9. The drainage basins of these river sys items provide the main riverine inputs to the NWBS and are the principal sou rce of anthropogenic pollution into NWBS, characterised by waste from in dustrial expansion, urbanisation and agricultural intensi cation10,11.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pollution sources",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What role do the river systems mentioned play in the health of the North-Western Black Sea (NWBS)?",
+      "answer": "The river systems provide the main riverine inputs to the NWBS and are the principal source of anthropogenic pollution into the NWBS, impacting its health.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Continued monitoring is required to assess the longer-term impacts. Over recent years, there has been increasing awareness of the connection between society and its changing behaviours and practices within the ter-restrial environment and the downstream impacts on the quality of thecoastal and marine environment 1 3. In addition to the well-known impacts from urbanisation, industrial and agricu Itural activities, warfare is another factor that can pose signi cant direct (e.g., oil spill, chemical pollutions, infrastructure destruction, ooding) and indirect (e.g., suspension of management and research) negative impacts to the quality of inland-sea andcoastal waters 4,5. All stages of war, including the preparation, actual armed con ict and post-war activities, can lead to the deterioration of water quality, water scarcity and biodiversity loss, resulting in shifts in aquatic ecosystem functioning with consequences for human health and wellbeing6 8. The health of the North-Western Black Sea (NWBS) is dominated by the in ow from the Danube, Dniester, Southern Bug and Dnipro rivers9. The drainage basins of these river sys items provide the main riverine inputs to the NWBS and are the principal sou rce of anthropogenic pollution into NWBS, characterised by waste from in dustrial expansion, urbanisation and agricultural intensi cation10,11.",
+      "macrotopic": "Life below water",
+      "topic": "Marine pollution",
+      "subtopic": "Pollution sources",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources",
+      "target": "Subtopic:Environment|Life below water|Marine pollution|Pollution sources_qna_001",
+      "value": 1
+    }
+  ]
+}

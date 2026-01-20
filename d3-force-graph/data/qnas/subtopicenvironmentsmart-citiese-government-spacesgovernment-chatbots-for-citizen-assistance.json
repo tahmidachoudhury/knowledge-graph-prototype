@@ -1,0 +1,234 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "label": "Government chatbots for citizen assistance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Can text prompts in this context be limited to single categorical definitions?",
+      "answer": "No, text prompts can consist of any combinations of phrases or existing semantics in the large language models (LLMs), not limited to single categorical definitions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Since the model does not have a specified bird category during training, and this post-defined category can be applied to any unseen datasets with bird calls, this process is known as Zero- Shot Transfer39 (Fig. 1(c)). The ability to define categories post-training offers substantially greater flexibility compared to traditional supervised learning approaches, which restrict models to predefined labels45, and unsupervised or self-supervised learning, where models are unable to generate feature spaces linked to semantic or text categories46,47. Moreover, post-defined categories (or text prompts, to be more specific39) are not limited to single categorical definitions. Text prompts can be any combinations of phrases or existing semantics in the LLMs. For instance, they might include This is the sound of an animal mumbling or This is the sound of a bird singing in the Fig. 1 . (a) In conventional supervised learning, input samples are typically mapped to digital labels, often discrete in nature for categorical classification. Each label represents a single category, and there are no inherent semantic relationships encoded within this labeling system.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the four potential roles identified for social robots in supporting societal participation?",
+      "answer": "The four potential interaction roles are informing, stimulating, simulating, and mediating.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, digital 123 International Journal of Social Robotics environments come with their own set of barriers, includ- ing harassment, trolling, misinformation, and data securitybreaches [ 10]. Expanding participation opportunities through technologies embedded in young people S everyday physical environments could address several structural and psycho-logical barriers. In this paper, we focus on exploring thepotential of embodied and social technologies social robot- S to encourage, facilitate, or enhance societal participation among youth in their own environments and contexts (cf.[1]]. Social robots are generally understood as autonomous machines or applications that can interact socially and servehumans [ 12]. While social robots can take many physical forms, they share the common goal of exhibiting behaviors that people can interpret socially [ 13]. Social robots have shown promise in contexts such as elderly care [ 14], autism therapy [ 15], and mental healthcare [ 16]. They have also been explored in the domain of education [ 17,18], where their potential bene its as embodied social technologies includeproviding personalized, engaging learning experiences and facilitating social interaction between learners [ 19].",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the four potential interaction roles identified for social robots supporting societal participation?",
+      "answer": "The four potential interaction roles identified are informing, stimulating, simulating, and mediating.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In Sect. 3, we describe the workshop setup and procedure, as well as the data collection and anal- ysis methods. In Sect. 4, we present the generated robot ideas according to the main themes, and in Sect. 5, we discuss the ideas further, outline the design implications, and report thestudy S limitations. Section 6concludes the paper. 2 Background and Related Work 2.1 Societal and Civic Participation of Youth Societal participation broadly encompasses various par- ticipatory activities in both society and the global world[3], while civic participation refers speci cally to local communities and their decision-making [ 30]. Active youth participation contributes to a more democratic society byinvolving youth in the institutions and practices that affect their lives [ 8]. However, structural obstacles, such as vot- ing age, limit youth participation. Additionally, a signi cantsocial-psychological barrier is that young people often do notperceive themselves as having the ability to create change in society, or they feel uncertain about resources or how to take action [ 8]. They may also struggle to articulate their con- cerns in of cial political language, lacking the appropriate language to discuss political issues relevant to them [ 31].",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the four potential interaction roles identified for social robots that support societal participation?",
+      "answer": "The four potential interaction roles identified for social robots are informing, stimulating, simulating, and mediating.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Everyday participation is valuable, but for young people to develop their abilities to contribute to broader societal issues, it is important for them to acquire civic knowledge, suchas understanding citizenship, political institutions, human rights, environmental concerns, and global issues. The con- texts in which young people develop their understanding ofcivics and citizenship include the home, peer groups, schools and classrooms, and the wider community at the national and regional levels [ 30]. Sharing ideas and opinions with others through discussion can also be considered a formof societal participation [ 33]. Discussion is a central aspect of deliberative democracy, a process in which people from diverse backgrounds engage in dialogue and shared meaning-making to shape policies that will in uence their lives [ 34]. In schools, an open classroom climate that encourages discus- sion can lead to increased civic knowledge and engagement(35,36]. While discussing political issues is generally pre- ferred with intimate networks involving trust and belonging [31], engaging in political and social discussions with peers can become a habit that grows easier and more comfort-able over time [ 37].",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the main dangers associated with large language models (LLMs) as discussed in the thematic collection?",
+      "answer": "The main dangers include the proliferation of AI-generated texts that may not be perceived as sources of knowledge, leading individuals to retreat into ignorance, and the manipulability of LLMs, which can generate fictitious content based on user inputs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " But what exactly do we mean when we claim that knowledge is in crisis? To claim that knowledge is in crisis seems to imply that an opposite state of affairs, in which knowledge is not in crisis, can be true, or at least theoretically possible. But for knowledge not to be in crisis, a combination of factors must occur and it seems impossible for them all to happen at the same time: knowledge not in crisis is knowledge that is abundant but not excessive, easily accessible to all yet exhaustive and detailed; free from ideological and politi - cal influences; free from forces of various kinds that, vol - untarily or involuntarily, distort the narrative of facts and make them appear to be what they are not. Has there ever been such a moment in human history? It does not seem SO. So why speak of a crisis of knowledge today ? Is there some - thing in the current context, and especially in the context of contemporary liberal democracies, that makes knowledge seem to be in a particular state of crisis?",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is one of the key concerns raised about large language models (LLMs) in the context of knowledge promotion?",
+      "answer": "One key concern is that the proliferation of AI-generated texts could lead individuals to retreat into ignorance, as these texts may not be recognized as legitimate sources of knowledge.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " While it is difficult to compare the current status of knowledge with past situations or very distant cultural contexts, we can nevertheless say that the current state of affairs is undoubtedly characterized by certain peculiarities that make it difficult for ordinary people to acquire accurate information, especially on politically sensitive issues. On the one hand, there is an immense amount of informa - tion in circulation, much of which is scientifically inaccu - rate, distorted by ideologies, political beliefs, or simply by the ignorance of those who receive, reinterpret, and dissem - inate it. On the other hand, the abundance of information puts those who want to deepen their knowledge on certain topics in a privileged position. Indeed, through the Internet, it is possible to have immediate access to specialized mate - rial on all kinds of topics. While this wide availability of Francesca Pongiglione pongiglione.francesca@unisr.it 1 Vita-Salute San Raffaele University, Milano, Italy The Author(s), under exclusive licence to Springer Nature B.V. 2025The Crisis of Knowledge: Ethics, Politics, Epistemology Francesca Pongiglione1 3 F. Pongiglione This thematic collection of Topoi , The Crisis of Knowl - edge: Ethics, Politics, Epistemology, aims specifically to respond to these questions.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_006",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How do large language models (LLMs) present risks to users regarding knowledge acquisition?",
+      "answer": "LLMs can produce texts that are indistinguishable from human-generated content; however, they cannot truly reason and can generate fictitious information, which may lead users to retreat into ignorance rather than promote knowledge.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " But, as Ausili argues, the assumption that numbers are truly an expression of neutrality and impersonality is simply wrong, and this pursuit of quantification at all costs carries significant politi - cal risks. First, not all numerical data are necessarily objec - tive: data can be derived and also read in different ways, and not necessarily objectively. Secondly, this pursuit of quanti - fication at all costs carries the risk that anything that cannot be quantified and cannot be directly translated into a num - ber will be excluded from the political debate. This runs the risk of ignoring the needs and problems of the population and creating disillusionment and distrust of political leaders who seem to systematically ignore anything that cannot be expressed in numbers. Aaron Ben-ze ev , in his article The Crisis of Roman - tic Knowledge: The Role of Information and Ignorance in Times of Romantic Abundance, reflects on how the abun - dance of personal information shared and transmitted on digital dating platforms makes it harder to form solid and lasting romantic relationships. Having so many details about a potential partner does not necessarily make it easier to start a relationship, nor does it increase happiness; instead, the simpler rule of thumb seems to be much more effective in this regard.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_007",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are potential risks associated with large language models (LLMs) as discussed in the articles?",
+      "answer": "Potential risks include the proliferation of AI-generated texts that may lead to ignorance and the manipulability of LLMs, which can generate fictitious content.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Relying entirely on information when choos - ing a partner leaves out an essential component of dating choices: intuition. The research presented in the paper Evaluating Intel - ligence and Knowledge in Large Language Models by Francesco Bianchini addresses a different issue. Large language models (LLMs) are generative models of artifi - cial intelligence that are able to produce natural language texts in response to human prompts that are almost indis - tinguishable from human-generated texts. Do LMMs pro - mote or hinder knowledge? What are the potential risks to their users? The first issue discussed concerns the immense proliferation of Al-generated texts on the Internet texts that, because of their artificial nature, are not perceived as a source of knowledge, which could end up pushing indi - viduals to retreat into ignorance. Indeed, at some point, ignorance may be perceived as a refuge in the face of the advancement of these technologies, which mimic human intelligence almost perfectly. A second problem relates to the manipulability of LLMs: these systems answer ques - tions posed by humans and can generate completely ficti - tious content.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_008",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "According to the papers discussed, what is a significant risk associated with large language models (LLMs)?",
+      "answer": "A significant risk is that LLMs can generate artificial content that is indistinguishable from human-generated text, which may mislead individuals and push them towards ignorance instead of promoting knowledge.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " LLMs simulate human reasoning, but they do not reason; rather, they make predictions based on the input or data they receive, which can be fabricated ad hoc. These risks highlight the need for the users of LLMs to develop a greater awareness of how LLMs work so that they can reap the benefits derived from these systems, which, if used well, can undoubtedly promote knowledge creation. In Algorithmic Objectivity as Ideology. Toward a Criti - cal Ethics of Digital Capitalism, Giuseppe De Ruvo illus - trates the limits of algorithmic implementation and raises questions about their only supposed objectivity. First, the paper questions what an algorithm is, which it defines as an abstract machine consisting of a complex set of impera - tive, defined, finite rules that must perform a specific cal - culation efficiently. But what does an algorithm actually do? Algorithms perform calculations, and those calcula - tions also involve making predictions. The more complex the contexts, the less accurate and realistic the calculations performed by algorithms can be, even though they are pre - sented as tools that produce objective results and cannot make mistakes.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_009",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do large language models (LLMs) contribute to the crisis of knowledge?",
+      "answer": "Large language models generate texts that are indistinguishable from human-generated content, but they simulate reasoning without actual understanding. This can lead to individuals retreating into ignorance as they may perceive AI-generated content as a credible source of knowledge, despite its potential for manipulation and fabrication.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The reality, as De Ruvo explains well, is different. The idea that algorithms are objective is nothing more than a practical ideology that can mislead individu - als into accepting practices of manipulation or surveillance while believing that their actions are autonomous. In Caring About Our Own Epistemic Capacities qua Responsible Citizens, Patrizia Pedrini asks whether or not citizens should be held accountable for their epistemic behavior in their role as policymakers that is, when they express themselves through voting or when they participate in public debate. Indeed, institutions have a responsibility to provide individuals with the tools they need to develop good epistemic conduct through public education. When individuals engage in epistemic misconduct, is it legitimate 1 3 The Crisis of Knowledge: Ethics, Politics, Epistemologyto blame the educational system, which may prove inade - quate in providing such skills? Or is it the responsibility of the individuals themselves? Giulio Pennacchioni questions the role that institutions should play with respect to the epistemic environment sur - rounding the issue of climate change in Harnessing Col - lective Intentionality for Climate Action: An Institutional Perspective on Sustainability.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_010",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the potential risks associated with large language models (LLMs) as highlighted in the thematic collection on the crisis of knowledge?",
+      "answer": "The risks associated with LLMs include the proliferation of artificial texts that may lead individuals to retreat into ignorance and the manipulability of these systems, which can generate fictitious content based on human prompts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Indeed, it can be very dif - ficult for individuals to find clear and, above all, truthful information about this phenomenon. And even if the pos - session of false information is partly due to the fault of individuals who limit themselves to superficial and cursory research, the fact remains that there is a lot of misinforma - tion circulating around the issue of climate change. The task of uncovering it cannot be attributed to the individual alone. Hence the need, discussed in this paper, to involve collec - tive agents such as institutions in this difficult but necessary task. In On the Epistemic Blameworthiness of the Consum - ers of Disinformation. Why Should We Bother? Tommaso Piazza reflects on the scholarly interest in animating the debate on disinformation and the culpability of agents who consume disinformation. While it is clear why so many studies are devoted to the phenomenon of disinformation to understand how it works, what mechanisms promote it, and where it comes from it is far less clear why there is any question of whether those who consume it can be blamed.",
+      "macrotopic": "Smart cities",
+      "topic": "E-government spaces",
+      "subtopic": "Government chatbots for citizen assistance",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_009",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance",
+      "target": "Subtopic:Environment|Smart cities|E-government spaces|Government chatbots for citizen assistance_qna_010",
+      "value": 1
+    }
+  ]
+}

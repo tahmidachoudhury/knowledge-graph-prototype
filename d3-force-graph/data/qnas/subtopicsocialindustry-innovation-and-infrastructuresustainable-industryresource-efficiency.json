@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency",
+      "label": "Resource efficiency",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can the proposed model for improving SPC and resource efficiency be expanded to other industries?",
+      "answer": "The proposed model can be expanded to other industries such as manufacturing and services to improve SPC and resource efficiency in those sectors.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Resource efficiency",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does Milos (2018) categorize the EU's resource efficiency policies, and what is the purpose of this categorization?",
+      "answer": "Milos (2018) categorizes the EU's resource efficiency policies into mandatory and voluntary policies based on their level of coerciveness. This categorization helps to identify gaps in the overall policy landscape and make recommendations for developing policy mixes.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0921344924000533",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Resource efficiency",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Resource efficiency_qna_001",
+      "value": 1
+    }
+  ]
+}

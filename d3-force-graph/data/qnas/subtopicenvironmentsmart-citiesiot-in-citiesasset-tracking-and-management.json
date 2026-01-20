@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Asset tracking and management",
+      "label": "Asset tracking and management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Asset tracking and management_qna_000",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "Who revised the existing Radio Frequency Identification applications in the fashion field with the purpose of flows optimization?",
+      "answer": "Lucca et al. (2016) revised the existing Radio Frequency Identification applications in the fashion field with the purpose of flows optimization.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "subtopic": "Asset tracking and management",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|IoT in cities|Asset tracking and management",
+      "target": "Subtopic:Environment|Smart cities|IoT in cities|Asset tracking and management_qna_000",
+      "value": 1
+    }
+  ]
+}

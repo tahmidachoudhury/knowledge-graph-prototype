@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Urban heat trackers",
+      "label": "Urban heat trackers",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Urban heat trackers_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How has satellite data advanced the understanding of Land Surface Temperature (LST)?",
+      "answer": "Satellite data has significantly advanced the understanding of LST by enabling the identification of global temperature hotspots and providing insights into urban development, climate change, and land-use patterns that contribute to the development of the surface UHI phenomenon.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Over the years, the utilization of satellite data has signifi- cantly advanced our understanding of spatial and temporal variations in Land Surface Temperature (LST), enabling the identification of temperature hotspots on a global scale, offering crucial insights into the impacts of urban develop- ment, climate change, and evolving land-use patterns that lead to the development of the surface UHI (SUHI) phe- nomenon. The capacity of satellites, such as those in the Landsat program (Wulder et al. 2019 ), to capture thermal radiance across diverse landscapes has facilitated compre- hensive assessments of LST patterns. Many studies, while utilizing satellite imagery for LST analyses, often rely on a limited number of snapshots, neglecting the temporal dimen- sion inherent in Earth S dynamic systems and the weather patterns present in the days of satellite image acquisition. According to Keramitsoglou et al. (2011) the city center of Athens developed a typical SUHI spatially coinciding with the dense urban fabric. The nighttime maximum LST peaked (on average) at the end of July, two weeks later than the day - time surface patterns.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Urban heat trackers",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Urban heat trackers",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Urban heat trackers_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality policies",
+      "label": "Air quality policies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality policies_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "When were Zero or Low Emission Zones introduced by some Dutch cities, and why did the national government intervene?",
+      "answer": "Zero or Low Emission Zones were introduced in the 2010s by some Dutch cities based on local needs. The national government intervened in 2019 when a national standard was set due to the patchwork of different rules causing inconsistencies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2210422423001181",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Air quality policies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality policies",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Air quality policies_qna_000",
+      "value": 1
+    }
+  ]
+}

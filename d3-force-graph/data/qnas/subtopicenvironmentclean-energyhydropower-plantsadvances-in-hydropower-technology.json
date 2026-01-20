@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology",
+      "label": "Advances in hydropower technology",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technical advances are highlighted in the context of improving nuclear systems?",
+      "answer": "The paragraph highlights technical advances in nuclear thermal hydraulics, reactor design enhancements, and hybrid nuclear-renewable systems.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Technical advances in nuclear thermal hydraulics, reactor design enhancements, and hybrid nuclear- renewable systems underscore the potential for technologicalbreakthroughs to improve the safety, ef ciency, and versa-tility of nuclear systems. Contributions to the readiness of B Afaque Shams afaque.shams@kfupm.edu.sa Khaled Al-Athel kathel@kfupm.edu.sa Iztok Tiselj Iztok.Tiselj@ijs.si Bojan Ni ceno bojan.niceno@psi.ch Ihsan ulhaq Toor ihsan@kfupm.edu.sa 1King Fahd University of Petroleum and Minerals (KFUPM),Dhahran, Saudi Arabia 2Jo ef Stefan Institute (JSI), Ljubljana, Slovenia 3Paul Scherrer Institute (PSI), Villigen, Switzerlandcodes, standards, and high-performance computing highlight the importance of robust frameworks and computational tools for the development and safety assessment of next-generationreactors. This special issue also delves into material science, addressing challenges related to fuel cladding, reactor com- ponents, and material degradation in nuclear facilities, whichare vital for the long-term and reliable operation of nuclear systems. Studies on severe accident analysis, reactor dynam- ics, and risk assessments emphasize the importance of safetyand security in the operation of nuclear plants. Furthermore, this collection provides perspectives on the socio-economic and policy aspects of nuclear energy,including market readiness, legal frameworks, and interna-tional cooperation.",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Advances in hydropower technology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Which countries have a higher installed capacity of renewables, especially hydropower?",
+      "answer": "Countries like Austria, Canada, and New Zealand have a higher installed capacity of renewables, especially hydropower.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Advances in hydropower technology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the trend in installed capacity for hydropower and fossil fuel energy resources despite being the most-installed energy resources among renewables and on average, respectively?",
+      "answer": "Both hydropower and fossil fuel energy resources face decreasing trends in year-on-year installed capacity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Hydropower plants",
+      "subtopic": "Advances in hydropower technology",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology",
+      "target": "Subtopic:Environment|Clean energy|Hydropower plants|Advances in hydropower technology_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Food price stability measures",
+      "label": "Food price stability measures",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Food price stability measures_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significant finding related to harvested area and price fluctuations for cereals?",
+      "answer": "The study found that variations in harvested area are significantly associated with past and current price fluctuations for all cereals except rice.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Article https://doi.org/10.1038/s41467-25-57420-6 Swapping rice for alternative cereals can reduce climate-induced production lossesand increase farmer incomes in India Dongyang Wei1,2, Leslie Guadalupe Castro3, Ashwini Chhatre4, Marta Tuninetti5& Kyle Frankel Davis1,6 The rising homogeneity of global crop supply has increased vulnerability to climatic and economic disruptions. Whil e substantial work has examined yield variations in relation to climate variability, little is known about the in uence of harvested area on production stability . To investigate this, here we take the example of monsoon cereal production in India, which has steadily shifted towards climate-sensitive rice an d away from alternative cereals ( nger millet, maize, pearl millet, and sorghum). We nd that variations in harvested area are signi cantly associated with current and past price uctuations for all cereals except rice. This suggests that farme r decisions based on economic factors may exercise great in uence in determining variations in harvested area. We also show that optimized allocations of harvested area can reduce climate- induced production loss by 11% or improve farmer net pro t by 11% while maintaining calorie production and cro pland area.",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Food price stability measures",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food security|Food price stability measures_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "By what percentage did food import bills increase in 2021?",
+      "answer": "Food import bills increased by 62% in 2021 year-on-year.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 2021 ). Moreover, most food-insecure people are concentrated in the North-East and North- West regions, and those include internally displaced persons and refugees. According to the National Bureau of Statistics, food imports bills increased by 62% in 2021 year -on-year. Increased droughts and erratic rainfall across the country, disrupting rain-fed agriculture (Ologeh et al. 2018). Projections indicate worsening conditions, with arid regions facing prolonged droughts and humid areas experiencing intensified rainfall, leading to more flood - ing incidents (Oguntunde et al. 2017 ; Olaniyi et al. 2013 ). In 2022, floods destroyed over 676,0 hectares of farmland, while food prices rose by 24.3% in 2023 due to a combina - tion of climatic events and global disruptions such as the Russia-Ukraine conflict (UNICEF 2023 ). In this context, food insecurity could be further exacerbated by climate disasters, making it essential to link and analyze the implications of climate disasters, food security, and household welfare in Nigeria. In existing literature, econometric models have been widely used to assess the direct and indirect impacts of climate disasters, although they often fail to fully capture sectoral het - erogeneities or consider the effects of mitigation policies (Anttila-Hughes and Hsiang 2013 ; Estrada et al.",
+      "macrotopic": "Zero hunger",
+      "topic": "Food security",
+      "subtopic": "Food price stability measures",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Food price stability measures",
+      "target": "Subtopic:Social|Zero hunger|Food security|Food price stability measures_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food security|Food price stability measures",
+      "target": "Subtopic:Social|Zero hunger|Food security|Food price stability measures_qna_001",
+      "value": 1
+    }
+  ]
+}

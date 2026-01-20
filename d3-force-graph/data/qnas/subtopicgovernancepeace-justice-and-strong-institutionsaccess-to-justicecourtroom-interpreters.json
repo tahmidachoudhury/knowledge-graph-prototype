@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Access to justice|Courtroom interpreters",
+      "label": "Courtroom interpreters",
+      "group": "Subtopic",
+      "macroArea": "Governance",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Access to justice"
+    },
+    {
+      "id": "Subtopic:Governance|Peace, justice and strong institutions|Access to justice|Courtroom interpreters_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the name of the Audio-Language Model applied in the case study?",
+      "answer": "The name of the Audio-Language Model is CLAP (Contrastive Language Audio Pretraining).",
+      "macroArea": "Governance",
+      "articlesourceurl": "",
+      "paragraph": " In our case study, we applied an Audio-Language Model a type of Multi-Modal Language Model that aligns language with audio / sound recording data named CLAP (Contrastive Language Audio Pretraining) to eight bioacoustic benchmarks covering a wide variety of sounds previously unfamiliar to the model. We demonstrate that CLAP , after simple prompt engineering, can effectively recognize group-level categories such as birds, frogs, and whales across the benchmarks without the need for specific model fine-tuning or additional training, achieving a zero-shot transfer recognition performance comparable to supervised learning baselines. Moreover, we show that CLAP has the potential to perform tasks previously unattainable with supervised bioacoustic approaches, such as estimating relative distances and discovering unknown animal species. On the other hand, we also identify limitations of CLAP , such as the model S inability to recognize fine-grained species-level categories and the reliance on manually engineered text prompts in real-world applications. Keywords Bioacoustics, Multi-modal Language models, Zero-shot transfer, Audio-Language models, Artificial Intelligence, Wildlife conservation The world is currently experiencing a rapid loss of global biodiversity due to habitat destruction, climate change, and various human impacts1 4.",
+      "macrotopic": "Peace, justice and strong institutions",
+      "topic": "Access to justice",
+      "subtopic": "Courtroom interpreters",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Governance|Peace, justice and strong institutions|Access to justice|Courtroom interpreters",
+      "target": "Subtopic:Governance|Peace, justice and strong institutions|Access to justice|Courtroom interpreters_qna_000",
+      "value": 1
+    }
+  ]
+}

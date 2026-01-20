@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Education for all|Holistic education",
+      "label": "Holistic education",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Education for all"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Education for all|Holistic education_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does Mezirow's transformative learning theory explain about individual thinking and beliefs?",
+      "answer": "It explains that individuals undergo significant cognitive and affective shifts in their thinking, beliefs, and worldviews due to critical self-reflection on their assumptions and experiences.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " IPA is a double hermeneutic approach, allowing researchers to thoroughly study emotional reactions to ecological change and how people make sense of what they feel (Smith et al., 2021, as cited in Budziszewska & Jonsson, 2022 ). According to Budziszewska and Jonsson ( 2022 ), the advantage of the phenomenological approach in studying feelings about climate change is that emotional challenges can be framed as typical experiences shared by many people in today S climate reality. They assert that humanity is going through a stage of noticing, learning, and adapting to the new climate reality, which includes learning how to deal with the emotions involved (Budziszewska & Jonsson, 2022 ). To make the connection between learning, emotional reaction, and decision-making/action, we used Mezirow S transformative learning theory as our theoretical framework. This framework explains how individuals undergo significant cognitive and affective shifts in their thinking, beliefs, and worldviews due to critical self-reflection about their assumptions and experiences (Mezirow, 1985 ). Rooted in Habermas S (1981) notions of instrumental and communicative rationality, the theory was initially proposed by Jack Mezirow, a prominent adult education theorist, in the late 1970s and has since been refined and expanded upon by numerous scholars in the field (Carter & Nicolaides, 2023 ; M Ikki, 2011 ; Taylor, 2007 ; Clark & Wilson, 1991 ; Collard & Law, 1989 ).",
+      "macrotopic": "Quality education",
+      "topic": "Education for all",
+      "subtopic": "Holistic education",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Education for all|Holistic education_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main purpose of the approach discussed in the paragraph?",
+      "answer": "The main purpose of the approach is to self-assess and catalyse readiness for engagement within interdisciplinary teams, facilitating reflexivity and learning in preparation for co-production praxis.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " At a practical level, the approach can be used to self-assess and catalyse readiness for engagement within these teams. We examine if the approach has the accessibility, practical utility, and theoretical depth to enable re exivity and learning to prepare teams for co-production praxis. We applied and tested the approach with interdisciplinary project teams to develop an early iteration of their engagement plans within their projects. Capability developed prior to engagement is anticipated to manifest initially as opportunities for different forms of learning. We use a modi ed analytical framework based on domains of learning (after Brymer et al. 2018 , Baird et al. 2014 ) to analyse how the approach facilitated learning and re exivity. These teams were drawn from within CSIRO S Valuing Sustainability Future Science Platform, an investment to build capacity to address sustainability challenges using transdisciplinary research. Insights from this analysis are discussed, including how the approach facilitates re exivity via multiple learning domains and rapidly via diagnostic questions that go to the heart of rich threads of learning across project contexts and teams. ORIGINAL PAPER HUMANITIES AND SOCIAL SCIENCES COMMUNICATIONS From a theoretical context to a diagnostic framework for co-production In this section we draw on literature reviewed from collaboration and co-production literature in sustainability, science and tech-nology studies, environmental management, learning and trans- disciplinary sciences and expert core team perspectives to formulate a methodologically robust but intuitively accessible framework for diagnosing co-production (examined empirically in section 3).",
+      "macrotopic": "Quality education",
+      "topic": "Education for all",
+      "subtopic": "Holistic education",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Education for all|Holistic education",
+      "target": "Subtopic:Social|Quality education|Education for all|Holistic education_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Education for all|Holistic education",
+      "target": "Subtopic:Social|Quality education|Education for all|Holistic education_qna_001",
+      "value": 1
+    }
+  ]
+}

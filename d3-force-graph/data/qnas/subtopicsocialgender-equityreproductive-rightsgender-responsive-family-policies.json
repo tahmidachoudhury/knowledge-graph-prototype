@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies",
+      "label": "Gender-responsive family policies",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Reproductive rights"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the three primary barriers identified in household demand-side management (DSM) programs?",
+      "answer": "The three primary barriers are: 1) the perception of DSM technology as a masculine domain versus the home as a feminine domain, 2) access challenges for low-income households to the necessary technology for flexibility and savings, and 3) insufficient consideration of the disparities in opportunities for youth and the elderly to participate in DSM programs.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " No Title Available DOI: DOI not available FullTextURL: https://doi.org/10.1007/s12053-025-10304-6 Vol. : (123456789)Energy Efficiency (2025) 18:17 https://doi.org/10.1007/s12053-25-10304-6 REVIEW ARTICLE The role of gender, age, and income in demand side management acceptance: A literature review Ida Marie Henriksen Helena Str mberg Jennifer Branlat Lisa Diamond Giulia Garzon Declan Kuch Selin Yilmaz Lenart Motnikar Received: 28 January 2024 / Accepted: 10 February 2025 The Author(s) 2025 Abstract Demand-side management (DSM) pro- grams aiming to both reduce and render household consumption more flexible are becoming increasingly essential due to ongoing energy crises and the growing integration of renewable energy into energy production. The active involvement of households and energy users is crucial to fully unlock the potential of DSM programs. As this paper demonstrates, despite more than thirty years of feminist scholarly work focusing on the home as an important site of the production of gender inequal- ity, few of these insights have been taken into account by DSM designers. Additionally, we note a broader pattern concerning gaps in knowledge regarding the diverse perspectives of energy users and their domestic contexts, all of which create obstacles to successful roll- out and scalability.",
+      "macrotopic": "Gender equity",
+      "topic": "Reproductive rights",
+      "subtopic": "Gender-responsive family policies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the three primary barriers identified in household demand-side management (DSM) programs?",
+      "answer": "The three primary barriers are: 1) the perception of DSM technology as a masculine domain versus the home as a feminine domain; 2) low-income households facing challenges accessing necessary technology for flexibility and savings; and 3) insufficient consideration of opportunities for youth and the elderly to participate in DSM programs.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " When it comes to end user flexibility, the imag- ined lay person becomes a representation affected by unconscious bias about who the user is: usu- ally white, male, privileged, well-off, and young (Maranta et al., 2003; Strengers & Kennedy, 2021), leading to the development of solutions that exclude or simply do not appeal to many other energy users. This bias has been addressed by social science researchers who have called for more heterogeneity among participating energy consumers in pilots and studies (Silvast et al., 2018; Skj Isvold et al., 2017; Strengers, 2014), and underlined the need to pay more attention to social relations in energy consumption patterns (Hargreaves & Middlemiss, 2020). These studies are part of an increasing body of research that critically reflects on the complex identities, use patterns, and social contexts of end users (Forlano, 2017). In this way, a houshold S economic situation and compostion has an impact of its acceptance of DSM. Through the analysis presented in this paper, we further contribute to this line of research by scruti- nizing published studies on automated DSM and the ways in which they engage with end users.",
+      "macrotopic": "Gender equity",
+      "topic": "Reproductive rights",
+      "subtopic": "Gender-responsive family policies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the three primary barriers identified in household demand-side management (DSM) programs according to the literature review?",
+      "answer": "The three primary barriers are: 1) the perception of DSM technology as a masculine domain versus the home as a feminine domain; 2) low-income households facing challenges in accessing necessary technology; and 3) disparities in participation opportunities for youth and the elderly being insufficiently considered.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Addition- ally, we propose moving beyond mere critical reflec- tion and advocate for employing intersectionality as a means to expand the scope of the social license to automate concept, making it more inclusive, tangible and usable for the furthering of a socially just energy transition. Energy Efficiency (2025) 18:17 17 Vol. : (123456789) Theoretical framing: Social license to automate in dialogue with intersectionality The concept of the social license to automate refers to the circumstances under which energy users might accept automation within their households. As such, it brings to light the potential gaps between the expecta- tions of energy actors and users perspectives and aspi- rations (Adams et al., 2021). The concept of a social license to automate recognizes that many demand side management (DSM) programs will require inter - vention at faster speeds than systems of individual decision-making will allow. For example, Frequency Control Ancillary Services at the milli-second level require pre-set permissions, which raises the question as to who provides these permissions as they relate to home appliances, batteries, HVAC systems, elec- tric vehicle charging and more.",
+      "macrotopic": "Gender equity",
+      "topic": "Reproductive rights",
+      "subtopic": "Gender-responsive family policies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies",
+      "target": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies",
+      "target": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies",
+      "target": "Subtopic:Social|Gender equity|Reproductive rights|Gender-responsive family policies_qna_002",
+      "value": 1
+    }
+  ]
+}

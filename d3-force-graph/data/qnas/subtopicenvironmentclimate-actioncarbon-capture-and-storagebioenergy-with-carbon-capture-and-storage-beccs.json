@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)",
+      "label": "Bioenergy with carbon capture and storage (beccs)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What storage solution is suggested for continuous operation of a biogas plant?",
+      "answer": "A storage solution suggested is ensiling, which preserves feedstock by fermentation and can be used for the cover crop biomass until it is fed to the biogas reactor.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fertilization with digestate could thus increase the share of directly plant-available N, which can be field applied at the right time to meet crop demand (Fon- taine et al. 2020a, b; M ller & M ller 2012). This could increase the N uptake efficiency, contributing to improved yields and lower losses of N to the envi- ronment (DCE 2021; Fr seth et al. 2014). Harvesting of cover crops could also lead to avoided emissions from their decomposition in the field, such as ammo- nia and nitrous oxide (Fr seth et al. 2014; Nadeem et al. 2012), and leaching of nitrate, which can take place when nitrate is released at times of low crop demand (DCE 2021). The harvesting and later appli- cation of digestate could thus result in more efficient nutrient use by the crops and lower emissions to the environment. To enable continuous operation of a biogas plant, a storage solution is needed to preserve the cover crop biomass until it can be fed to the biogas reac- tor. Ensiling is a technology where the feedstock is preserved by fermentation and could be used for this purpose, which is commonly used for preservation of animal feed (Teixeira Franco et al.",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Bioenergy with carbon capture and storage (beccs)",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the highest CO2 removal rate achieved by the biocomposites according to the experiments?",
+      "answer": "The highest CO2 removal rate achieved was 4.34 ± 0.20 gCO2/gbiomass at a 1 M TEA solution with a 0.4 mol CO2/mol TEA loading ratio.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Carbon dioxide removal from triethanolamine solution using living microalgae-loofah biocomposites Tanakit Komkhum1, Teerawat Sema1, Zia Ur Rehman1 & Pichaya In-na1,2 Nowadays, the climate change crisis is an urgent matter in which carbon dioxide (CO2) is a major greenhouse gas contributing to global warming. Amine solvents are commonly used for CO2 capture with high efficiency and absorption rates. However, solvent regeneration consumes an extensive amount of energy. One of alternative approaches is amine regeneration through microalgae. Recently, living biocomposites, intensifying traditional suspended cultivation, have been developed. With this technology, immobilizing microalgae on biocompatible materials with binder outperformed the suspended system in terms of CO2 capture rates. In this study, living microalgae-loofah biocomposites with immobilized Scenedesmus acuminatus TISTR 8457 using 5%v/v acrylic medium were tested to remove CO2 from CO2-rich triethanolamine (TEA) solutions. The test using 1 M TEA at various CO2 loading ratios (0.2, 0.4, 0.6, and 0.8 mol CO2/mol TEA) demonstrated that the biocomposites achieved CO2 removal rates 3 to 5 times higher than the suspended cell system over 28 days, with the highest removal observed at the 1 M with 0.4 mol CO2/mol TEA (4.34 0.20 gCO2/gbiomass).",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Bioenergy with carbon capture and storage (beccs)",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Bioenergy with carbon capture and storage (beccs)_qna_001",
+      "value": 1
+    }
+  ]
+}

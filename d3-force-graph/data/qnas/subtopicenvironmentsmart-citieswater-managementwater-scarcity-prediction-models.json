@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "label": "Water scarcity prediction models",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "By how much is water demand expected to increase by 2050?",
+      "answer": "Water demand is expected to increase by 55% by 2050.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Water, energy and food resource management faces challenges such as limited accessibility, increas- ing demand and risks from the international market. Considering an anticipated global population of about 9 billion by 2050, food and energy production are expected to increase by 70% and 50%, respectively, while water demand will increase by 55%. Half of the global population is predicted to experience water stress by 2050 (UNDP, 2015). Limited access to land and water will lead to trade- offs and competition between food and energy production. These challenges have been exacerbated by the pandemic, with directly impacts on both water and food contamination, and indirectly effects unemployment, social unrest and disrup- tions in supply chains. Low- and middle-income states are particularly suscepti- ble to these impacts (Diffenbaugh et al., 2020). Studies highlighted the vulnerabilities and gaps in the existing systems and proposed strategies for enhancing resilience and sustainability in the face of simi- lar future crises (Cheshmehzangi, 2020; Deaton & Deaton, 2020). The pandemic served as a wake-up call for the importance of integrated approaches to address the interdependencies between the water, energy and food segments.",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Water scarcity prediction models",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the growing demand for freshwater impact global population according to OECD predictions?",
+      "answer": "The growing demand for freshwater is predicted to cause a severe water deficit for a large share of the global population, highlighting the importance of sustainable water management.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Water scarcity prediction models",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How was the water consumption data of other demands (industrial, domestic, livestock, electricity) derived and allocated to countries?",
+      "answer": "The water consumption data of other demands was derived from the Water GAP 2.2 model for the period 1970-2000 at the watershed level. This data was assigned to relevant countries based on geographical location, with allocation for watersheds shared by multiple countries done according to the area of the part of the watershed in each country using a specific formula.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Water scarcity prediction models",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How was the blue water consumption induced by Japanese final demand estimated using the CLIO model?",
+      "answer": "The blue water consumption induced by Japanese final demand was estimated using the CLIO model, which covered the transaction flow of goods between 5000 sectors of 231 countries for the year 2005. This estimation was based on the direct water consumption data of each sector and the transaction flow data within the CLIO model.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Water scarcity prediction models",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "target": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "target": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "target": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models",
+      "target": "Subtopic:Environment|Smart cities|Water management|Water scarcity prediction models_qna_003",
+      "value": 1
+    }
+  ]
+}

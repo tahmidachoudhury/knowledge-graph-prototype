@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Delta ecosystem renovation",
+      "label": "Delta ecosystem renovation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land ecosystem restoration|Delta ecosystem renovation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many functional groups does the ecological model of the Ebro Delta area consist of?",
+      "answer": "The ecological model of the Ebro Delta area consists of 55 functional groups.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2006, 2013b, 2021) updating the ecosystem model and coupling a value chain. The Ecopath model is based on the work originally pro- posed by Polovina (1984) and employs two master equa- tions that describe the consumption and production of each functional group included in the model (functional groups, or FG, can be specific species, groups, of similar species or developmental stages of a species) and works on the princi- ple of mass balance for each group (Christensen and Walters 2004). A complete description of the equations can be found in the supplementary material (Supplementary material 1.1. Ecopath main equations). The ecological model of the Ebro Delta area consisted of 55 functional groups (FG) (Supplementary material Table S1), some as multispecies and some formed by a single species (Coll et al. 2006, 2013b, 2021; Lloret-Lloret Sustainability Science 2023). The information on how the model was built as well as data sources are presented in the Supplementary material Sect. 1.2 and Tables S1 and S2 The model included data from trawlers, purse seiners, sur - face longliners, bottom longliners, and small-scale vessels, following the official Spanish fishing fleet segmentation.",
+      "macrotopic": "Life on land",
+      "topic": "Land ecosystem restoration",
+      "subtopic": "Delta ecosystem renovation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land ecosystem restoration|Delta ecosystem renovation",
+      "target": "Subtopic:Environment|Life on land|Land ecosystem restoration|Delta ecosystem renovation_qna_000",
+      "value": 1
+    }
+  ]
+}

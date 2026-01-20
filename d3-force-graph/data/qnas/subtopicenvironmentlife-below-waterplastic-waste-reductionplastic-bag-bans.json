@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic bag bans",
+      "label": "Plastic bag bans",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic bag bans_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Why have plastic bag bans or charges been generally favoured by the public according to various studies?",
+      "answer": "Plastic bag bans or charges have been generally favoured by the public because consumers are increasingly normative in reusing their own bags for shopping.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S235255092200344X",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "subtopic": "Plastic bag bans",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic bag bans_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How did the plastic bag tax in Portugal impact plastic usage and risk perception?",
+      "answer": "The plastic bag tax in Portugal was found to reduce plastic usage while also increasing the risk perception of the issue among consumers.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S235255092200344X",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Plastic waste reduction",
+      "subtopic": "Plastic bag bans",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic bag bans",
+      "target": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic bag bans_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic bag bans",
+      "target": "Subtopic:Environment|Life below water|Plastic waste reduction|Plastic bag bans_qna_001",
+      "value": 1
+    }
+  ]
+}

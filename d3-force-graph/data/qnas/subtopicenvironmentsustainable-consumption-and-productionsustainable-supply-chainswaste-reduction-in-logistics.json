@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Waste reduction in logistics",
+      "label": "Waste reduction in logistics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Waste reduction in logistics_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some primary focuses of controlling inventory in businesses?",
+      "answer": "Minimizing inventory wastes is one of the primary focuses of controlling inventory, especially with the emerging trend of environmental sustainability in businesses.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Waste reduction in logistics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Waste reduction in logistics_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do studies focusing on optimizing activities such as picking and sorting indirectly address sustainability in the warehouse environment?",
+      "answer": "Studies focusing on optimizing activities such as picking and sorting indirectly address sustainability in the warehouse environment by reducing energy consumption, minimizing waste, and improving overall efficiency.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Waste reduction in logistics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Waste reduction in logistics",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Waste reduction in logistics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Waste reduction in logistics",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Waste reduction in logistics_qna_001",
+      "value": 1
+    }
+  ]
+}

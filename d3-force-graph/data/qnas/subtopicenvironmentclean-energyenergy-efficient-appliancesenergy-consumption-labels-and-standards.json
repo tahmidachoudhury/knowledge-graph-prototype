@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards",
+      "label": "Energy consumption labels and standards",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can appliance-level energy characterization of residential electricity demand contribute to sustainable energy practices?",
+      "answer": "By providing detailed insights into energy usage patterns, appliance-level characterization can help tailor energy-saving strategies, promote sustainable practices, and reduce overall consumption.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Energy consumption labels and standards",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How is the level of importance of different policy measures for Corporate Environmental Behaviour (CBM) reflected in the index created?",
+      "answer": "The index ranges from 0 to 1, with values close to 0 indicating low or no importance of the set of measures for CBM.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723006941",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Energy consumption labels and standards",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the adoption of Appliance Level Energy Characterization (ALEC) contribute to achieving Sustainable Development Goals (SDGs) and decarbonization targets?",
+      "answer": "The adoption of ALEC allows for achieving SDGs and decarbonization targets by providing a detailed understanding of energy consumption at the appliance level, enabling more targeted and efficient energy management strategies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Energy consumption labels and standards",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy consumption labels and standards_qna_002",
+      "value": 1
+    }
+  ]
+}

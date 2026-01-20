@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing",
+      "label": "Circular approaches in manufacturing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What measures are needed to move industries towards the new Sustainable-Circular Production (SCP) model besides recycling?",
+      "answer": "Besides recycling, industries need to implement preventive measures such as minimizing waste and resource consumption, rethinking manufacturing processes, eliminating hazardous substances, optimizing resource use and reuse, and improving scrap management.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2405844023085602",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Circular approaches in manufacturing",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main issue highlighted in the chemical management subsection for all three factories?",
+      "answer": "The main issue highlighted is the unsatisfactory use of eco-friendly and biodegradable chemicals during their manufacturing stages.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0959652623010582",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Circular approaches in manufacturing",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the integrated fuzzy MCDM approach for manufacturing process improvement in MSMEs proposed by Xu et al. (2023)?",
+      "answer": "The integrated fuzzy MCDM approach proposed by Xu et al. (2023) aims to provide a method for decision-making in manufacturing process improvement for Micro, Small, and Medium Enterprises (MSMEs).",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Circular approaches in manufacturing",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing_qna_003",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How can digital technologies be integrated into the existing structure to enhance material efficiency in denim production?",
+      "answer": "Digital technologies can be used to optimize production processes, track material usage in real-time, and identify areas for improvement to enhance material efficiency.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652624007261",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Circular economy initiatives",
+      "subtopic": "Circular approaches in manufacturing",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing",
+      "target": "Subtopic:Environment|Climate action|Circular economy initiatives|Circular approaches in manufacturing_qna_003",
+      "value": 1
+    }
+  ]
+}

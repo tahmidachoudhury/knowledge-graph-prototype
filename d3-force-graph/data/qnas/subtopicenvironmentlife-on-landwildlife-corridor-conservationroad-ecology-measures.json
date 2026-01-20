@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures",
+      "label": "Road ecology measures",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main consequence of urban expansion on kangaroos mentioned in the paragraph?",
+      "answer": "The main consequence is increased human-kangaroo conflict, particularly vehicle-kangaroo interactions, which contribute to mortality in these landscapes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2018a, b; Herbert et al. 2021). However, this persistence in areas undergoing urban expansion has led to increased human-kangaroo conflict, especially vehicle-kangaroo interactions, which are usually the leading cause of mortality in these landscapes (Coul- son et al. 2014; Brunton, et al. 2018a; Taylor-Brown et al. 2019). While the species is widespread on the east coast of Australia, and currently classified as \"Of Least Concern nationally (Environment Protection and Biodiversity Conservation Act 1999), there is evidence that some populations in urban and peri- urban landscapes are at risk of extirpation (Brunton et al. 2018b; Herbert et al. 2021). South-East Queensland (SEQ), Australia, is a region experiencing rapid urbanisation, and the con- sequences of habitat fragmentation and land-use change have exacerbated mortality rates of kangaroos, with estimated population declines of up to ~ 40% across the region since 2000 (Brunton et al. 2018b). Recent spatio-genetic studies have suggested that the M. giganteus populations in this area have unique genetic characteristics, highlighting a further need for conservation attention (Coghlan et al.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Road ecology measures",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does proximity to roads affect limb length in amphibians based on the findings from the study?",
+      "answer": "Proximity to roads exerts selection pressure resulting in shorter hind limbs in Lissotriton helveticus individuals observed near dense road networks, possibly due to the counter-selection of more mobile individuals with longer limbs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2016) ). The authors of this study put forward two hypotheses: (1) open landscapes would be characterised by less competition, which favours access to resources and better growth; (2) these landscapes could have fewer resources and greater predation pressure (fewer refuges; Guillot et al. 2016 ). Larger males would be selected for their better locomotor abilities, enabling them to move around to find resources and avoid predators. A physiological reason was also suggested: as small individu - als have a greater surface/volume ratio, they may be more sensitive to desiccation in an open environment and there - fore counter-selected (Kovar et al. 2009 ; Guillot et al. 2016 ). In addition to the degree of habitat openness, proximity to roads appears to exert selection pressure on amphibian limb length (Trochet et al. 2016 ). In Lissotriton helveticus indi - viduals with shorter hind limbs were observed near habitats with dense road networks. This could be the result of a coun - ter-selection of individuals with longer limbs that are more mobile near roads (Trochet et al.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Road ecology measures",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How are the Galapagos Yellow Warbler populations affected by human activity?",
+      "answer": "The Galapagos Yellow Warbler is one of the most impacted species by roadkill.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Urban centres and agricultural areas on the inhabited islands of the Galapa - gos directly border large areas of protected native ecosys - items, lacking a vegetational cover gradient [ 28, 29]. The boundaries of a national park are inherently artificial, and animals and plants frequently disperse over the border between the national park and the designated urban and agricultural areas [ 30]. Unlike other oceanic islands, the inhabited islands of the Galapagos have not experienced mass extinc - tions; however, there is growing concern over declines in endemic bird populations [ 31, 32]. Reported alterations in the morphology, gut microbiota, and even epigenetic changes due to anthropogenic land-use expansion and intensification have been observed in populations of Dar - win S finches in the Galapagos [ 33 37]. Other species are also affected by anthropogenic disturbance, including the Galapagos Yellow Warbler, Setophaga petechia aureola , which is one of the most impacted species by roadkill [38]. Changes in land use, both agricultural and urban, may influence the spread dynamics of avian diseases such as avian pox ( Avipoxvirus spp.)",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Road ecology measures",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Road ecology measures_qna_002",
+      "value": 1
+    }
+  ]
+}

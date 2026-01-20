@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Infectious disease modeling and prediction",
+      "label": "Infectious disease modeling and prediction",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Infectious disease modeling and prediction_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What modeling platform is frequently utilized for assessing the distribution of D. rotundus?",
+      "answer": "MaxEnt is the modeling platform frequently utilized for assessing the distribution of D. rotundus.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " MaxEnt is a frequently utilized presence-background modeling platform successfully employed in previous assessments of D. rotundus distribution44,46,55. MaxEnt does not require true absence data for its calibration, and therefore more logically abides by the available occurrence locations data for D. rotundus56. We chose to make a correlative assessment of D. rotundus fundamental niche using only abiotic climate data as background environmental variables, rather than incorporating biotic or movement variables to assess the realized niche50,51,57. While biotic variables have been shown to benefit ecological niche models at finer spatial scales58, our assessment was conducted across a larger spatial scale and was focused on projections of future climate. We chose to mitigate the potential impacts of uncertainty from non-climate variables such as future land-use projections59 or future cattle densities to glean a more comprehensive understanding of future climate variability alone. Occurrence location filtering We collected occurrence locations of D. rotundus from an extensive database specific to this species from across Latin America from 1901 to 202360. We isolated all occurrence locations from this database with associated location data (i.e., geographic coordinates or locality descriptions) using the dplyr package in R statistical software version 4.1.0 resulting in 74.6% geolocated records ( n = 29,174 of 39,118 available records)61.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Infectious disease modeling and prediction",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Infectious disease modeling and prediction",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Infectious disease modeling and prediction_qna_000",
+      "value": 1
+    }
+  ]
+}

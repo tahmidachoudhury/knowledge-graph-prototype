@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "label": "Smart home appliance technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the prospects and challenges associated with appliance-level energy characterization of residential electricity demand?",
+      "answer": "Prospects include enhanced energy efficiency and consumption insights, while challenges involve data collection and privacy concerns in monitoring residential electricity demand.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Smart home appliance technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the prospects, challenges, and recommendations associated with appliance-level energy characterization of residential electricity demand?",
+      "answer": "The appliance-level energy characterization of residential electricity demand offers prospects for more efficient energy management, but also presents challenges such as data collection and analysis. Recommendations include implementing smart metering technology for better monitoring.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Smart home appliance technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What specific patterns did the research identify concerning user interactions with smart energy apps?",
+      "answer": "The research identified patterns such as monitoring energy consumption, managing appliances, and integrating smart home features like electric vehicle (EV) charging.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Smart energy applications can be power - ful tools for two-way communication between energy providers and end-users. These apps offer real-time usage insights and present consumption data through intuitive and visually appealing interfaces. In parallel, these platforms allow users to provide ratings, reviews, and comments directly within or via app provision platforms, thereby helping energy providers improve their overall services. Long-term engagement with such energy apps could benefit sustainable energy consumption practices, as such digital platforms can empower users to make informed energy-efficient choices. Nonetheless, there is a lack of a systematic approach to analysing users engagement towards such smart energy apps and users opinions about their prac- tical functionalities and features. This study examines how users interact with smart energy apps, assess their functionalities, and share their opinions through rat- ings, reviews, and comments. It offers unique insights into end-user perspectives through advanced text-min- ing techniques incorporating word analysis, sentiment analysis, topic modelling, and exploratory qualitative analysis. By analysing over 3,0 publicly available user-generated reviews, the research identifies patterns such as monitoring energy consumption, managing appliances, and integrating smart home features like EV charging.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Smart home appliance technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the significance of systematically analyzing user-generated content related to smart solutions?",
+      "answer": "It can help reveal evolving attitudes towards smart solutions, particularly in relation to household energy use.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As digital technology advances, numerous online platforms such as Twitter (officially known now as X), Instagram, Facebook and other specialised online forums have emerged, which serve as a virtual space for individuals to exchange their opinions, perspec- tives, and concerns, and they are becoming increas- ingly popular and influential in providing a real-time record of public sentiment (Arlt et al., 2018; Fronzetti Colladon, 2018). Research on such social media con- tent can offer a deeper understanding of the social perception, social contexts of specific policies, and potential solutions to bridge existing gaps (Li et al., 2019). Fronzetti Colladon, (2018) highlights that spontaneous consumer expressions can provide valua- ble insights into product features and user experience when analysed without creating a sense of surveil- lance. In this context, user-generated reviews on app- provision platforms such as Google Play Store and Apple App Store offer a useful means of understand- ing users perceptions and feedback on the apps they use (Cambria et al., 2016). These reviews serve as a valuable source of information, and systematically analysing the vast amount of user-generated content can help reveal evolving attitudes towards smart solu- tions, particularly in relation to household energy use (Genc-Nayebi & Abran, 2017; Mariani & Borghi, 2022).",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Smart home appliance technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Smart home appliance technologies_qna_003",
+      "value": 1
+    }
+  ]
+}

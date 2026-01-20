@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems",
+      "label": "Home energy management systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of the energy consumption simulation software mentioned in the paragraph?",
+      "answer": "The software is used to accurately simulate the indoor thermal environment and energy consumption of residential buildings, considering various factors and analyzing the impact of different optimization and renovation measures.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These data provide a solid basis for subsequent simulation analysis. Through the energy consumption simulation software, the indoor thermal environment and energy consumption of residential buildings are accurately simulated by comprehensively considering the factors of building, environment, energy, and other factors, and the impact of different optimization and renovation measures on the indoor thermal environment and energy consumption is analysed, and the economic cost and feasibility analysis are carried out, so as to select the optimal solution. This will not only help improve the living comfort and energy efficiency of residential buildings but also effectively reduce the energy consumption costs of residential buildings and promote the sustainable development of the Sichuan Plateau. The Chinese government has been committed to promoting the development of ethnic minority areas, including reform and innovation in the energy sector. Research on improving energy efficiency in the Sichuan Plateau can be strongly supported by policies and regulations. The problems in energy use in the Sichuan Plateau region are universal, such as weak energy infrastructure and low energy efficiency. Therefore, the technical achievements and solutions obtained in the research carried out in this area can also have certain applicability in other similar areas.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Home energy management systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What role do energy apps play in household energy management according to the paragraph?",
+      "answer": "Energy apps facilitate household energy management and foster engagement by providing feedback mechanisms that encourage user engagement and enhance energy awareness.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Among these, energy apps are gaining attention as tools to facilitate household energy management and fos- ter engagement (Valor et al., 2019). Research sug- gests that feedback mechanisms provided through such apps can encourage user engagement, enhance energy awareness, and potentially facilitate sustaina- ble energy practices (Veskioja et al., 2022). The feed- back from the users through these apps can also guide energy providers in refining their operations and ser - vices, including whether the apps features continue to engage users and motivate them to monitor their energy consumption patterns regularly. Despite the growing adoption of these technolo- gies, recent systematic reviews have highlighted both their transformative potential and inherent limita- tions, underscoring the need for more comprehensive exploration of their long-term impacts and scalability (Chatzigeorgiou & Andreou, 2021; Wemyss et al., 2023). A critical shortcoming in existing literature lies in the underrepresentation of the complexity of user interactions with smart energy technologies and the nuanced ways these interactions mediate user percep- tions and engagement (Christensen et al., 2020; Skj Is- vold et al., 2018; Standal et al., 2023).",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Home energy management systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What aspect of app-based energy feedback is noted as being under-researched?",
+      "answer": "The extent to which these apps shape sustainable energy practices within households remains under-researched and limited to pilot-level projects.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " \"Discussions\" discusses the findings. Sect. \"Limitations and Further Research\" outlines the study S limitations and proposes direc- tions for future research. Finally, Sect. \"Conclusion\" summarizes the findings and broader implications for the field. Background App-based energy feedback and user engagement App-based energy feedback has emerged as a prom- ising digital solution to enhance user awareness and engagement with energy usage. A systematic review by Chatzigeorgiou and Andreou, (2021) examined feedback research for residential energy behaviours Energy Efficiency (2025) 18:25 25 Vol. : (123456789) through mobile and web interfaces, highlighting the need for more comprehensive studies on these solu- tions long-term impacts and scalability. Smart energy apps offer context-specific feed- back that allows users to track and reflect on their consumption patterns (Hermsen et al., 2016). This feedback can assist users in exploring manage- ment strategies, yet the extent to which these apps shape sustainable energy practices within house- holds remains under-researched and still limited to pilot-level projects (Attour et al., 2020; Geelen et al., 2019; Murugesan et al., 2015; Valor et al., 2019).",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Home energy management systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Home energy management systems_qna_002",
+      "value": 1
+    }
+  ]
+}

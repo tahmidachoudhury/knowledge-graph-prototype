@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Anaerobic digestion for energy generation",
+      "label": "Anaerobic digestion for energy generation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Anaerobic digestion for energy generation_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are the potential benefits of harvesting cover crop biomass for anaerobic digestion?",
+      "answer": "Harvesting cover crop biomass for anaerobic digestion can result in increased biogas production and improved nutrient management in the field.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Leg- umes thus have an important role in organic farming, enabling higher crop yields than would otherwise be feasible without synthetic N fertilizer. Cover crops are sown either around the same time as the main crop (under-sowing) or immedi- lately after harvest of the main crop. Under-sowing allows a longer growing period of the cover crops and can improve their establishment (De Notaris et al. 2019; Liu et al. 2015). Generally, cover crops are not harvested, but the biomass is left in the field to decompose, so that nutrients are released and can be available for the succeeding crop (Askegaard & Erik - sen 2007; Tribouillois et al. 2016). However, if suffi- cient biomass can be attained, an attractive alternative could be to harvest the cover crop biomass and use this as feedstock in anaerobic digestion. Potentially this could result in benefits both in terms of increased biogas production and improved nutrient manage- ment in the field. The main point of anaerobic digestion is to pro- duce biogas, but another effect is that part of the organic N compounds are mineralized into ammo- nium N, which is readily available for plant uptake.",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Anaerobic digestion for energy generation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Anaerobic digestion for energy generation_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why is it essential to assess the total environmental impact of using cover crops in anaerobic digestion?",
+      "answer": "It is essential to ensure that the use of cover crops in anaerobic digestion leads to reduced environmental impacts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Due to the widespread use of cover crops, including legumes, in organic farming, an organic dairy farm was chosen for a case study in the present study. Aside from the clear benefits with increased biogas production, the use of energy crops in biogas production may also have adverse effects related to changes in land use and soil carbon storage, as well as increased energy inputs for harvesting, transport and processing (Hamelin et al. 2014). These effects vary depending on the feedstock and case-specific factors (Hamelin et al. 2014; Hijazi et al. 2016) and the overall environmental consequences of such com- bined effects are insufficiently understood in the case of cover crop harvesting and co-digestion. Therefore, it is essential to assess the total environmental impact of the system to ensure that the use of cover crop in anaerobic digestion leads to reduced environmental impacts, for which life cycle assessment (LCA) is a suitable method. The objective of this study was to provide a com- prehensive assessment of the environmental impacts of biogas production at organic dairy farms, focus- ing on the co-digestion of cattle manure with silage of cover crops and straw.",
+      "macrotopic": "Clean energy",
+      "topic": "Sustainable agriculture energy",
+      "subtopic": "Anaerobic digestion for energy generation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Anaerobic digestion for energy generation",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Anaerobic digestion for energy generation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Anaerobic digestion for energy generation",
+      "target": "Subtopic:Environment|Clean energy|Sustainable agriculture energy|Anaerobic digestion for energy generation_qna_001",
+      "value": 1
+    }
+  ]
+}

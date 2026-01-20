@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies",
+      "label": "Power-to-gas technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is significant about the Fe-V-Al alloy in terms of its thermoelectric properties?",
+      "answer": "The Fe-V-Al alloy is considered very promising due to its power factor of 55 x 10^(-4) W/m K² at room temperature and the presence of the pseudo-gap.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, many of these materials contain toxic and costly elements, which limit their usage on a large scale. 13 To address this problem, scientists have been searching for thermoelectric materi- als that are abundant, low-cost, and nontoxic. 13 The efforts in this research direction have resulted in the discovery of promising candidates such as Al-Fe-Si,14 Fe-V-Al,15,16 and Cu-S.17 In particular, due to the presence of the pseudo-gap, the Fe-V-AI alloy18 is considered a very promising thermo- electric material, with a power factor of 55 10 4 W/m K2 at room temperature. By implementing the off-stoichiometric (1) ZT=/u1D6FC2T k/u1D70C, * Gao Min min@cardiff.ac.uk 1 Magnetics and Materials Research Group, School of Engineering, Cardiff University, Cardiff CF24 3AA, UK 2 Instituto de Ciencia y Tecnolog a del Carbono, INCAR-CSIC, Francisco Pintado Fe 26, 33011 Oviedo, Spain 3 School of Engineering, Swansea University, Swansea SA1 8EN, UK 2702 S. Singh et al. concept, Miyazaki et al.19 further improved the power factor of the Fe-V-Al alloy to 68 10 4 W/m K2. A similar but less costly Fe11Ti3AI6 alloy was later reported by Garcia-Cana- das et al.20 which has a room-temperature power factor of 7.0 10 4 W/m K2, with a Seebeck coefficient of +27 V/K and electrical resistivity of 1 m. Zou et al.21 studied the thermoelectric properties of Fe2 xMnxTiSn (x = 0 0.5) and found that Mn substitution improved the power factor and ZT compared with Fe2TiSn.",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Power-to-gas technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies_qna_001",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How does transitioning to 2nd generation technologies in PTC, such as using RES directly to produce energy vectors, impact the energy and chemical production model?",
+      "answer": "Transitioning to 2nd generation technologies in PTC, like using RES directly for energy vectors, impacts the energy and chemical production model by reducing reliance on fossil fuels, improving efficiency, and lowering carbon emissions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2452223622001316",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Power-to-gas technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the welfare losses associated with US natural gas prices according to Borenstein (2012)?",
+      "answer": "Borenstein (2012) finds that US natural gas prices are approximately 30% higher than marginal cost, leading to a significant consumer welfare loss.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Farrell ( 2021 ) nds losses in consumer surplus equivalent to between 6-18% of domestic consumption value due to British tariff deviationsfrom the Coasian structure. Similar effects were observed in the US natural gas industry. Davisand Muehlegger ( 2010 nd that volumetric prices are signi cantly higher than marginal cost, resulting in an estimated US$2.7 billion welfare loss per annum. Borenstein ( 2012 ) nds that US natural gas prices are approximately 30% higher than marginal cost, resulting in a con-siderable consumer welfare loss. The welfare loss associated with water utility pricing hasbeen analysed in a similar way (e.g., Crew and Kleindorfer 1976 ; Swallow and Marin 1988 ; Renzetti 1992 ). Porcher ( 2014 ) nds that French water customers face prices on average 8% greater than marginal costs, resulting in a welfare loss of approximately e8 million. This paper identi es the optimal surcharge design given the relative importance of equity and ef ciency. Analyses relating to energy subsidy cost-recovery have focussed on distri-butional impacts and have failed to consider the trade-off with ef ciency. This paper is the rst to provide this contribution.",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Power-to-gas technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Power-to-gas technologies_qna_002",
+      "value": 1
+    }
+  ]
+}

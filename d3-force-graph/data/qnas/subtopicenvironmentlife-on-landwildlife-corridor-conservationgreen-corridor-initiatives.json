@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Green corridor initiatives",
+      "label": "Green corridor initiatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Green corridor initiatives_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the European Strategy on green infrastructure aim to achieve?",
+      "answer": "The European Strategy on green infrastructure aims to enhance biodiversity conservation through the promotion of ecological networks that benefit both people and nature.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2010 ; European Commission 2011 ,2013 ; Oliver et al. 2015 ; Albert et al. 2017 ; Isaac et al. 2018 ). Well-functioning ecological networks can enhance population persistence and recolonisation or recovery after local extinctions driven by, e.g. extremeweather events or other stochastic or projected effects. They could also facilitate range shifts of populations by supporting movement between the nodes in the network(Hodgson et al. 2016 ; Albert et al. 2017 ; Isaac et al. 2018 ). The creation of resilient ecological networks to protect biodiversity has been suggested in various contexts, such asspatial planning (Benedict and McMahon 2006 ), practical conservation management (Lawton et al. 2010), and in recent EU policy (European Commission 2013) including the EU Nature Restoration Law ((EU) 2024 /1991). In the EU, the European Strategy on green infrastructure (here-after GI; European Commission 2013 ) draws in part on the logic of resilient ecological networks to enhance biodi- versity conservation through the promotion of ecologicalnetworks to bene t people and nature (von Post et al.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Green corridor initiatives",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Green corridor initiatives_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the main concern discussed regarding the relationship between green infrastructure (GI) and biodiversity conservation?",
+      "answer": "The relationship between GI and effective biodiversity conservation may be relatively weak, as increasing structural connectivity may not directly support biodiversity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2019 Although connectivity in general terms is an important component in ecological mechanisms operating across landscape mosaics, increasing structuralconnectivity as such may not primarily contribute to increasing population size or viability (Hodgson et al. 2011 ), i.e. not directly supporting biodiversity. Hence, the links between GI and ef cient biodiversity conservation may actually be relatively weak, which to some extent re ect the fact that GI has multiple goals beyond biodi-versity conservation (von Post et al. 2023 ). Implementing GI may therefore not help solve the problem of decreasingbiodiversity, unless trade-offs between other intended outcomes are explicitly considered (von Post et al. 2023 ). A relevant ecological landscape perspective that resi- lient ecological networks (and GI) could be based on hasbeen adopted in ongoing implementations of conservation measures in the UK (Isaac et al. 2018 ). In a report to the Department of Environment, Food and Rural Affairs(DEFRA), Lawton et al. ( 2010 ) suggested a strategy based on four well-established principles for biodiversity con-servation (Isaac et al. 2018 ). The ecological landscape perspective is there based on the concept Better, Bigger, More, and Joined (BBMJ), i.e.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Green corridor initiatives",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Green corridor initiatives",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Green corridor initiatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Green corridor initiatives",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Green corridor initiatives_qna_001",
+      "value": 1
+    }
+  ]
+}

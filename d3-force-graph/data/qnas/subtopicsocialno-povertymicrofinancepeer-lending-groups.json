@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Peer lending groups",
+      "label": "Peer lending groups",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "According to the paragraph, what role does hierarchical trust play in the context of money?",
+      "answer": "Hierarchical trust acts as a basis for money, where a third-party rule setter protects and regulates it, thus ensuring social cohesion.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Beyond its three func- tions as defined by Aristotle namely the role of medium of exchange, store of value and unit of account money might play a role in communication and in the creation of social bonds or signs of belonging to a society. All this is Special Purpose Money for Sustainability Handled by Paul Weaver, Maastricht University, The Netherlands. * Alexander Paulsson alexander.paulsson@fek.lu.se J r my Bouchez jeremybouchez@pm.me Marlei Pozzebon marlei.pozzebon@fgv.br 1 Pol mos D croissance, 210, 6e Rang Ouest., Saint- Val rien, QC GOL 4E0, Canada 2 FGV EAESP, Av. 9 de Julho, 2029, Bela Vista, S o Paulo, SP CEP 1313-902, Brazil 3 Lund University, PO Box 7080, 220 7 Lund, Sweden Sustainability Science counterbalanced by the fact that money is also synonymous with power relations and a mark of distinction (Les cono- mistes atterr S 2018). As a \"total social fact\", money can be characterised as a \"universal social bond of an economic, political and symbolic nature\" (Th ret and Carri , 2007, p. 38) and an \"object of appropriation, control and therefore power\" (Aglietta and Orl an 1998, p. 38) that is based on hierarchical trust, as there is a third-party rule setter who protects and regulates, thus ensuring social cohesion (Fare 2016).",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Peer lending groups",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why did borrowing and lending apparel experience a decrease during the pandemic?",
+      "answer": "Borrowing and lending apparel often involve non-monetary exchanges among relatives or friends. The decline during the pandemic can be attributed to lockdown restrictions and social distancing measures that kept individuals apart from their close circles.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784322000109",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Microfinance",
+      "subtopic": "Peer lending groups",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Peer lending groups",
+      "target": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Microfinance|Peer lending groups",
+      "target": "Subtopic:Social|No poverty|Microfinance|Peer lending groups_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Socio-economic assessment",
+      "label": "Socio-economic assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Socio-economic assessment_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What method was used to calculate the socio-economic advantage level of respondents?",
+      "answer": "The socio-economic advantage level for each respondent was calculated according to the Australian Bureau of Statistics Socio-Economic Indexes for Areas (SEIFA).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1; they were presented to the survey respondents as a series of digitally presented cards. To minimise the potential for ordering effects, the order of the cards was randomised between respondents. The survey prompted each respondent to drag and drop the principles in rank order of priority to them in guiding and shaping Australian society as it emerges from the COVID-19 pandemic. 2.2 Data Analysis Data were analysed using R software version 4.0.3 and Stata software version 16 [14]. All figures and tables were pro- duced using the R software packages ggplot2, janitor and gmodels [15 17]. The level of socio-economic advantage for every survey respondent was calculated according to the Australian Bureau of Statistics Socio-Economic Indexes for Areas (SEIFA) [18]. The SEIFA is a group of four indexes developed by the ABS that ranks the geographic areas in Australia according to their relative socio-economic advan- tage and disadvantage. The Index of Relative Socio-eco- nomic Advantage and Disadvantage (IRSAD) was applied to each survey respondent S reported residential postcode (geo- graphic area) and each respondent was assigned a SEIFA decile score (1 10).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Socio-economic assessment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Socio-economic assessment_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What specific SEIFA index was applied to the respondents' data?",
+      "answer": "The Index of Relative Socio-economic Advantage and Disadvantage (IRSAD) was applied to each survey respondent's reported residential postcode.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1; they were presented to the survey respondents as a series of digitally presented cards. To minimise the potential for ordering effects, the order of the cards was randomised between respondents. The survey prompted each respondent to drag and drop the principles in rank order of priority to them in guiding and shaping Australian society as it emerges from the COVID-19 pandemic. 2.2 Data Analysis Data were analysed using R software version 4.0.3 and Stata software version 16 [14]. All figures and tables were pro- duced using the R software packages ggplot2, janitor and gmodels [15 17]. The level of socio-economic advantage for every survey respondent was calculated according to the Australian Bureau of Statistics Socio-Economic Indexes for Areas (SEIFA) [18]. The SEIFA is a group of four indexes developed by the ABS that ranks the geographic areas in Australia according to their relative socio-economic advan- tage and disadvantage. The Index of Relative Socio-eco- nomic Advantage and Disadvantage (IRSAD) was applied to each survey respondent S reported residential postcode (geo- graphic area) and each respondent was assigned a SEIFA decile score (1 10).",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Socio-economic assessment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Socio-economic assessment",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Socio-economic assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Socio-economic assessment",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Socio-economic assessment_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Attenuators",
+      "label": "Attenuators",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Attenuators_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What law determines X-ray attenuation in XCT?",
+      "answer": "X-ray attenuation in XCT is determined using the Beer Lambert law.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " XCT, a nondestructive technique, can provide surface and volumetric information on samples. 31 Originating in the 1960s, the computed tomography technique was recognized with the Nobel Prize in Medicine in 1979.32XCT passes a collimated beam of X-rays through a sample where the resulting radiograph, which is a two-dimensional (2D) map of X-ray attenuation, is captured by a detector locatedon the opposite side of the sample from the X-ray source. The contrast between different regions in an X-ray radiograph or CT image is directly correlatedto the X-ray attenuation through that region of the sample. This X-ray attenuation is determined with the Beer Lambert law, 33shown in Eq. 1, where u(t) is the photon ux at the detector plane, B(E,t) is the buildup factor which accounts scattered photons in the material, u0is the initial photon ux, Ris the macroscopic cross section of the sample material,and tis the thickness of the sample. The buildup factor represents beam hardening and other buildup effects caused by photon scattering which maycreate artifacts in reconstructions that need to be addressed via post-processing methods.",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy",
+      "subtopic": "Attenuators",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Tidal and wave energy|Attenuators",
+      "target": "Subtopic:Environment|Clean energy|Tidal and wave energy|Attenuators_qna_000",
+      "value": 1
+    }
+  ]
+}

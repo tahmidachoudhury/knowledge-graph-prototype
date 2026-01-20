@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Rotating biological contactors",
+      "label": "Rotating biological contactors",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Rotating biological contactors_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What measurement equipment was used to perform the reaction?",
+      "answer": "A 50 mL two-neck round-bottom flask (RB flask) was used to perform the reaction.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Upon completion of the reac - tion, the mixture was poured into 100 mL of ice-cold water, and the pH was adjusted to alkaline by adding a saturated sodium acetate solution, followed by extraction with dichlo - romethane. The pale-yellow liquid, once viscous, solidified upon standing at room temperature to synthesize the alde - hyde ( 3). Yield: 70%, pale yellow solid; mp 63 65 C; lit. mp: 60 62 C [ 27]. Synthesis of 9-ethyl-9 H-carbazole-3,6- dicarbaldehyde (6) Drops of freshly distilled POCI3 (15 mL, 160 mmol) were added to a stirred solution of dry DMF (10 mL, 129 mmol) in a 50 mL two-neck RB flask at 0 C under an argon atmo - sphere until the colored Vilsmeier salt was completely formed. Gradually, while stirring and maintaining a temper - ature of 100 C for 48 h, a solution of 0.50 g (2.60 mmol), of 9-ethyl-9 H-carbazole was added to the reaction mixture in 10 mL of DMF solvent. It was subsequently poured into a mixture of ice and water, and the pH was elevated to an alkaline level using a saturated sodium acetate solution.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Rotating biological contactors",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Rotating biological contactors_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were the counts of axenic cultured symbionts initially determined before the centrifugation process?",
+      "answer": "The counts of axenic cultured symbionts were determined using a hemocytometer at culture density before being diluted to 150 mL and run through the centrifugation process.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Calculating expulsion rates For each cell pellet resuspended and preserved in Lugols, four rounds of hemocytometer counts were conducted using an inverted microscope. Symbiodiniaceae expulsion rates were calculated by averaging the counts and using the following formula: A loss factor was incorporated into calculations to account for potential cell loss during the centrifugation process. An aliquot of axenic cultured symbionts was counted using the hemocytometer at culture density, diluted to 150 mL, then run through the centrifugation process and counted again. About 33% of cells were calculated as lost in the supernatant across replicates. Expulsion was calculated in terms of cells expelled per hour and standardized to coral tissue surface area (cm2) as determined from the photographs (ImageJ). The overall expulsion rate per cm2 of tissue per hour was then calculated using the following equation: DNA extraction and qPCR DNA from coral tissue biopsies and water samples were extracted and purified from SDS archives using established protocols described in Baker and Cunning (2016). After the DNA was extracted, samples were processed using quantitative PCR (qPCR) (QuantStudio 3, Applied Biosystems, USA) to identify to the generic level which Symbiodiniaceae were present.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Rotating biological contactors",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Rotating biological contactors",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Rotating biological contactors_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Rotating biological contactors",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Rotating biological contactors_qna_001",
+      "value": 1
+    }
+  ]
+}

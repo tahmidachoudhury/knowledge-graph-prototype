@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Rainwater harvesting systems",
+      "label": "Rainwater harvesting systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Rainwater harvesting systems_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why are corrections applied to precipitation gauge measurements?",
+      "answer": "Corrections are applied to mitigate biases caused by undercatch, specifically to improve data accuracy in measuring precipitation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " plot) and mean precipitation (mm) (bar plot) for the three stations. Ny- lesund (grey) and Svalbard Lufthavn (black) show a close resemblance in temperature climatology. Bj rn ya (red) shows a higher temperature during cold months compared to the other stations. Precipitation is strong during colder months and weak during warmer months across all the stations, reflecting a seasonal variation typical in maritime Arctic climates-wetter winter and drier summer. To mitigate the biases caused by undercatch in precipitation gauge measurements, corrections are applied to improve data accuracy. Various correction methods are employed, including adjusting for wind-induced losses, wetting loss, and evaporation loss. These factors are particularly significant in the Arctic S cold and stormy conditions. These corrections are crucial to obtain reliable precipitation estimates, especially when analyzing long-term trends and extreme events in polar regions40. Here, we have employed the technique followed by Kochendorfer et al.41 using wind speed at 10 m ( w10), gauge precipitation ( Pg) and gauge temperature ( Tg). The correction factor for rain is given by krain= (exp .281 w10(1 arctan (1 .628 Tg)+0 .837))) 1 Scientific Reports and for snow is given by ksnow=( 0.742 e 0.181 w10+0.322) 1.",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Rainwater harvesting systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Rainwater harvesting systems",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Rainwater harvesting systems_qna_000",
+      "value": 1
+    }
+  ]
+}

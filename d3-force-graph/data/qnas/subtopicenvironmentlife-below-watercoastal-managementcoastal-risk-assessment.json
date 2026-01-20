@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment",
+      "label": "Coastal risk assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the two major factors in developing a spatially explicit risk assessment for NIS spread?",
+      "answer": "The two major factors are the existence and distribution of NIS hotspots (like ports, harbors, and marinas) and the intensity of maritime traffic in the region.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The model can assist in priori- tise interventions to control NIS spread and protect marine habitats (Parretti et al. 2020) and sets an ini- tial stepping stone to assessing risks of NIS spread and proliferation by local maritime traffic. Overall, assessing the risk of NIS proliferation and potential invasions in MPAs is far from straightfor - ward and requires an understanding of multiple com- pounding factors. However, two major factors can be used in developing a spatially explicit risk assessment for the local spread of NIS: i) the existence and distri- bution of NIS hotspots such as ports, harbours, mari- nas and anchoring areas (e.g., Ferrario et al. 2017; Castro et al. 2021a), and ii) the intensity of maritime traffic in the region (Castro et al. 2020; 2022a, b, c). Widely accepted as playing significant roles in the spread and proliferation of NIS and even recorded marine biological invasion events (e.g., Carlton 1987; Carlton et al. 2011; Carlton and Ruiz 2015), these two factors can be considered mandatory to map the risk of invasions and NIS proliferation.",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "subtopic": "Coastal risk assessment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of the area analyzed falls under low, medium, and severe erosion risk?",
+      "answer": "39.7% of the area falls under low erosion risk, 58.4% under medium risk, and 1.9% under severe risk.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Early warning signals were analyzed through three statistical indices autocorrelation coefficient, skewness, and standard deviation using Kendall S tau. Results revealed that 39.7% of the area falls under low erosion risk, 58.4% under medium risk, and 1.9% under severe risk. Significant breakpoints in NDSI and NDVI were identified in 2013, while TGSI showed no detectable change. Major shifts occurred near the Alagol, Almagol, and Ajigol wetlands and northern drylands. This study underscores the importance of integrating satellite data with field validation to improve soil management, protect biodiversity , and guide sustainable erosion mitigation strategies. Keywords Soil Erosion, Landsat satellite images, Warning, Indicators, ICONA model Soil erosion is a serious environmental challenge worldwide1. As soil erosion is a complex and multifactorial problem, it is necessary to perform detailed analyses and use data collected from field and laboratory experiments to predict and control this problem2. Various factors, such as scattered vegetation, loose surface soil, drought, and climate change, can increase the risk of soil erosion3. In recent years, water erosion assessment has emerged as one of the significant challenges in natural resource management and ecosystem sustainability.",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "subtopic": "Coastal risk assessment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_002",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How does Formation ABAC assist in risk and challenge assessment, as highlighted by Kayak et al. (2022)?",
+      "answer": "Formation ABAC assists in risk and challenge assessment by allowing decision-makers to analyse and prioritize risks and challenges associated with different alternatives, ultimately aiding in making informed decisions to mitigate potential negative impacts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0952197624002720",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Coastal management",
+      "subtopic": "Coastal risk assessment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment",
+      "target": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment",
+      "target": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment",
+      "target": "Subtopic:Environment|Life below water|Coastal management|Coastal risk assessment_qna_002",
+      "value": 1
+    }
+  ]
+}

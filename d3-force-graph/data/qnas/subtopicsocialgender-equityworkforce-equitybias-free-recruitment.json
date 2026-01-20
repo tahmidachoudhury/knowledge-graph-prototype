@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment",
+      "label": "Bias-free recruitment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Workforce equity"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How were candidate sweeps identified in the study?",
+      "answer": "Candidate sweeps were identified by comparing high-altitude and low-altitude groups using methods such as Fst, -ratio values, and Tajima's D values, with windows meeting specific criteria considered as potential selected regions.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 1d, Additional file 2, Table S1).Selective signatures associated with high-altitude adaptation To investigate the adaptive mechanisms of cattle in pla - teau environment, we compared the high-altitude group with low-altitude group to identify selective signals. The 5% of windows with the highest Fst and -ratio values were regarded as potential selected windows. For Taji - ma S D, the top 5% of windows with significantly negative Tajima S D values were considered as candidate sweeps. The regions identified by at least two methods were ascertained as the final selective sweeps to minimize method-specific bias. Totally, we identified 2,218 and 1,875 candidate genes from Fst (Fst > 0.166) and -ratio ( -ratio > 1.210), respectively (Fig. 2a and b; Additional file 1, Table S4 and S5). In addition, Tajima D (Tajima S D value < -1.629) analysis identified 1,958 candidate genes in high-altitude group (Fig. 2c; Additional file 1, Table S6). Finally, 624 genes (Fig. 2d) were identified as positively selected genes (PSG) in high-altitude group.",
+      "macrotopic": "Gender equity",
+      "topic": "Workforce equity",
+      "subtopic": "Bias-free recruitment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What method was used to recruit the sample for the survey?",
+      "answer": "The sample was recruited purposively by Pureprofile, an Australian online research panel company.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The sam- ple was recruited purposively by Pureprofile (an Australian online research panel company with over 452,0 Austral- ian adults) to represent Australian population characteristics based on age group, gender and Australian state or territory of residence. The survey was administered at the height of the COVID-19 pandemic, between September and Decem- ber 2020. Survey respondents were invited to complete a prefer - ence ranking exercise where they were asked to rank the key principles of a wellbeing economy (dignity, nature and climate, social connection, fairness and participation: Fig. 1) and two additional traditional economic indicators of soci- etal success ( economic growth , defined as an increase in the amount of goods and services produced in Australia and economic prosperity defined as full employment and low inflation rates). The survey also collected key socio-demo- graphic information including age, gender, level of income, employment status, highest level of education obtained and residential postcode. The collection of socio-demographic information facilitated an investigation of the potential for heterogeneity in ranking preferences in relation to these key principles between demographic subgroups. The seven principles are presented in Fig.",
+      "macrotopic": "Gender equity",
+      "topic": "Workforce equity",
+      "subtopic": "Bias-free recruitment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment",
+      "target": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment",
+      "target": "Subtopic:Social|Gender equity|Workforce equity|Bias-free recruitment_qna_001",
+      "value": 1
+    }
+  ]
+}

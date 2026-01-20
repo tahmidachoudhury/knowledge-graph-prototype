@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation",
+      "label": "Mangrove reforestation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the target area for mangrove expansion in Pakistan?",
+      "answer": "The target area for mangrove expansion in Pakistan is 865,000 acres.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Since then, mangroves have expanded to 593,0 acres, with a target of 865,0 acres (Khan 2024). This success is attributed to initiatives like the Green Pakistan Program, Billion Tree Tsunami, and Ten-Billion Tree Tsu- nami (Saeed et al. 2019). Pakistan set Guinness World Records in 2009 and 2013 for planting over half a million and 850,0 mangrove saplings in a single day, respec- tively (Mahar et al. 2020). Currently, Pakistan features the largest dry-climate mangrove forest in the world, covering an area of 600,0 hectares that surrounds the Indus Delta (Bindiya et al. 2023; Laghari et al. 2015). The Sindh Forest Department manages one of the world S largest mangrove reserves, ranking as the seventh-largest globally, highlighting a significant conservation initiative in Pakistan (Laghari et al. 2015) ). Pakistan S coastline stretches 1050 km (652 miles) across the Sindh and Baluchistan provinces, with the majority of it located in Baluchistan. In this region, scattered mangrove plants can be found along the coast in Jiwani, Kalmat Khor, and Miani Hor (Fig.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Mangrove reforestation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the global target for mangrove recovery mentioned in the paragraph?",
+      "answer": "The global target for mangrove recovery mentioned is an ambitious goal for recovery as outlined in the report.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Island Press. <https://www.ubcpress.ca/corridor-ecology-second- persistent carbon sink in the world's forests. Science, 333(6045), 988-993. doi. edition> org/10.1126/science.1201609 20 Hilty, J., Worboys, G. L., Keeley, A., Woodley, S., Lausche, B. J., Locke, H., Carr, 5 Harris, N. L., Gibbs, D. A., Baccini, A., Birdsey, R. A., de Bruin, S., Farina, M., M., Pulsford, I., Pittock, J., White, J. W., Theobald, D. M., Levine, J., Reuling, M., Fatoyinbo, L., Hansen, M. C., Herold, M., Houghton, R. A., Potapov, P. V., Suarez, Watson, J. E. M., Ament, R., Groves, C. & Tabor, G. M. (2020). Guidelines for D. R., Roman-Cuesta, R. M., Saatchi, S. S., Slay, C. M., Turubanova, S. A. & conserving connectivity through ecological networks and corridors. IUCN. doi.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Mangrove reforestation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Mangrove reforestation_qna_001",
+      "value": 1
+    }
+  ]
+}

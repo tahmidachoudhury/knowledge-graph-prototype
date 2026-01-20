@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records",
+      "label": "Digital health records",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are electronic healthcare devices (EHDs) considered as compared to conventional healthcare equipment?",
+      "answer": "EHDs are considered alternative solutions to conventional healthcare equipment, offering reliable diagnostics, self-monitoring capabilities, improved patient comfort, and less invasive procedures.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The proliferation of healthcare technologies has been driven by global concerns about an aging population, epidemics, pan- demics, health inequalities, and escalating healthcare costs (Abernethy et al. 2022). Rapid technological advances in healthcare electronics have occurred not only in diagnostics Communicated by Matthias Finkbeiner. * Naomi Muindi naomindunge.muindi@ugent.be 1 Research Group Sustainable Systems Engineering (STEN), Department of Green Chemistry and Technology, Faculty of Bioscience Engineering, Ghent University, Coupure Links 653, 9000 Ghent, Belgium 2 Janssen Pharmaceutica NV, Turnhoutseweg 30, 2340 Beerse, Belgium 3 DePuy International Ltd, St. Anthony S Road, Leeds LS11 8DT, England 639 The International Journal of Life Cycle Assessment (2025) 30:638 653 but also in healthcare delivery, administration, and man- agement (lyanna et al. 2022). These electronic healthcare devices (EHDs) are alternative solutions to conventional healthcare equipment, offering reliable diagnostics, self- monitoring capabilities, improved patient comfort, and less invasive procedures (Tian et al. 2019). An EHD is defined as a device that provides clinical (provision of direct patient care, i.e.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health records",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How is an electronic healthcare device (EHD) defined in the context of the paragraph?",
+      "answer": "An electronic healthcare device (EHD) is defined as a device that provides clinical provision of direct patient care.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The proliferation of healthcare technologies has been driven by global concerns about an aging population, epidemics, pan- demics, health inequalities, and escalating healthcare costs (Abernethy et al. 2022). Rapid technological advances in healthcare electronics have occurred not only in diagnostics Communicated by Matthias Finkbeiner. * Naomi Muindi naomindunge.muindi@ugent.be 1 Research Group Sustainable Systems Engineering (STEN), Department of Green Chemistry and Technology, Faculty of Bioscience Engineering, Ghent University, Coupure Links 653, 9000 Ghent, Belgium 2 Janssen Pharmaceutica NV, Turnhoutseweg 30, 2340 Beerse, Belgium 3 DePuy International Ltd, St. Anthony S Road, Leeds LS11 8DT, England 639 The International Journal of Life Cycle Assessment (2025) 30:638 653 but also in healthcare delivery, administration, and man- agement (lyanna et al. 2022). These electronic healthcare devices (EHDs) are alternative solutions to conventional healthcare equipment, offering reliable diagnostics, self- monitoring capabilities, improved patient comfort, and less invasive procedures (Tian et al. 2019). An EHD is defined as a device that provides clinical (provision of direct patient care, i.e.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "Digital health records",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|Digital health records_qna_001",
+      "value": 1
+    }
+  ]
+}

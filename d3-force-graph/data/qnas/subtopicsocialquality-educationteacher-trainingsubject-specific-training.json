@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "label": "Subject-specific training",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What method was used to analyze the lesson plans and discourse relevant to SSI teaching in the study?",
+      "answer": "The study used descriptive analysis, epistemic network analysis (ENA), and context analysis.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In recent years, there has been an increase in the integration of socioscientific issues (SSI) into educational practices, which are recognized for enhancing higher-order thinking, sci- entific literacy, ethical considerations, and civic engagement. SSI teaching equips students to tackle global challenges, although they are complex challenges for in-service teachers. Addressing the need for professional knowledge and skills in SSI teaching is vital for meet- ing future societal demands. Studies have shown that engaging teachers in co-design prac- tices within teaching communities enhances their SSI teaching proficiency, yet empirical evidence supporting these collaborative interactions is limited. This study investigates the professional learning of five in-service teachers involved in community activities, focusing on their development of SSI-based lesson plans. Through convenience sampling, partici- pants lesson plans and discourse relevant to SSI teaching were analyzed using descriptive analysis, epistemic network analysis (ENA), and context analysis. Results indicated that these plans incorporated essential SSI teaching elements, and discourse during community activities fostered epistemic frames conducive to SSI teaching. Reflective discourse notably enhanced both implicit and explicit aspects of these frames, with teachers identity devel- opment significantly shaped by practical experiences.",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Subject-specific training",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What are the two domains of learning categorized by Mezirow?",
+      "answer": "The two domains of learning categorized by Mezirow are communicative and instrumental learning.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Mezirow categorizes learning into communicative and instrumental domains (Mezirow, 1991 , 2003 ). Communicative learning focuses on interpersonal interactions and involves comprehending the meaning behind someone S communication. The components of comprehension and interpretation include values, intentions, emotions, moral choices, and normative ideas (Mezirow, 1991 , 2003 ). Communicative learning enables people to navigate and interpret their meanings, intentions, and values rather than passively adopting those of others. Instrumental learning involves learning by doing (Mezirow, 1991 , 2003 ). It is a type of learning directed at a particular outcome and can help people become more effective at being and working in their environments (Zurba et al., 2021 ). Instrumental learning is especially relevant to the work of observers and can involve significant cognitive shifts that support transformation (Zurba et al., 2021 ). Contemporary scholars working with transformative learning theory have expanded their study to cultural, tacit, and emotional aspects of learning (Gozawa, 2009 ; Tisdell & Thompson, 2007 ; Cranton, 2006 ). For example, Cranton (2006 , p. 37) delineates transformative learning within the epistemic (knowledge-centered), sociolinguistic (society, norm, and culture-oriented), psychological (self-concept-focused), philosophical (worldview-centered), and aesthetic (broadly value-judgment oriented) ways of thinking (i.e., habits of mid), which are linked to content, process, and reflection.",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Subject-specific training",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the primary goal of unsupervised domain adaptation (UDA) in the context of segmentation tasks?",
+      "answer": "The primary goal of UDA is to train models from a source labeled domain that can generalize to an unlabeled target domain, addressing challenges in tasks with limited annotated data due to difficulty in capturing or high annotation costs.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 2.2 Training strategies for unsupervised domain adaptation UDA has been widely explored for semantic [ 7,44 46], and panoptic segmentation [ 2,47,48]. Methods based on Deep Learning focus on minimizing source-target differences at feature level [ 44,45] using statistical metrics like maxi- mum mean discrepancy [ 49,50], correlation alignment [ 51, 52], or entropy minimization [ 8,10]. Others employ Adver- sarial training by learning a domain discriminator within a generative adversarial network (GAN) framework [ 53] to enforce domain-invariant inputs [ 54,55], features [ 46, 56 58] or outputs [ 8,9,11]. Lastly, self-training generates pseudo-labels [ 59] for the target domain based on predictions obtained using con dence thresholds [ 6,60,61] or pseudo- label prototypes [ 61,62]. More recent methods based on Transformers tackle noisy training and concept drifting [ 63, 64] by incorporating consistency regularization [ 65,66]t o ensure uniformity across diverse data augmentations [ 67,68], different crops [ 4,69], domain-mixup [ 4,21,70,71]o rc ur - riculum learning [ 7,72]. Currently, enhancing robustness is dominated by the teacher student framework [ 26], where the teacher model is updated via an exponential moving averageof the student weights [ 2 5].",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Subject-specific training",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the goal of unsupervised domain adaptation (UDA) in semantic and panoptic segmentation tasks?",
+      "answer": "The goal of UDA is to train models from a source labeled domain so that they can generalize to an unlabeled target domain, which is crucial for tasks with limited annotated data.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Early research on model merging focused on learning convergence[ 23,24], but declined over time with newer training and regularization methods. Later, the rise of large language models and self-supervised learning have reignited interest in model merging [ 27 29], as it provides a training-free mechanism to leverage knowledge from differ- ent sources. Recent methods apply model merging mostly to different checkpoints obtained during the same training pro-cess, eliminating additional computation costs for ensembletraining and inference [ 27,30 32]. However, these meth- ods use models close in the parameter space, such as ones obtained from different seeds [ 26,29] or different ne-tuning versions [ 28,33 35], as merging models with misaligned layers typically leads to a notable performance decline [ 32, 34 36]. Therefore, current methods disregard to explore the possible bene its of combining the plethora of existing mod- els trained using different methods and tasks. Additionally, to the best of our knowledge, model merging methods havenot been explored and benchmarked for UDA [ 2 5,37]. To overcome the above-mentioned de ciencies, we pro- pose a novel training-free layer-wise merging method that exploits the speci C strengths of deeper layers closer to theclassi cation output and the broader generalization capabil- ities of shallower layers, making it capable of effectively merging models derived from different datasets and tasks.We argue that the combination of model weights in the con- text of UDA has far more applications than the limited scope in which it is currently being employed (i.e., teacher studentframework), such as combining models from different tasks.Moreover, we nd that UDA is an ideal testbed for model merging.",
+      "macrotopic": "Quality education",
+      "topic": "Teacher training",
+      "subtopic": "Subject-specific training",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "target": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "target": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "target": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Teacher training|Subject-specific training",
+      "target": "Subtopic:Social|Quality education|Teacher training|Subject-specific training_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Cooperative adaptive cruise control (cacc)",
+      "label": "Cooperative adaptive cruise control (cacc)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Cooperative adaptive cruise control (cacc)_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What advantage do central tire inflation systems (CTIS) provide?",
+      "answer": "CTIS provides the advantage of quick adjustments to tire inflation pressure, which improves traction, reduces slip and tire wear, and increases tire-soil contact area.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " With an increasing load on the tire, the in ation pressure must be raised to maintain acceptable de ections, avoid damage tothe tire and for safety reasons. In soft (off-road) conditions, the soil deforms to allow for increased contact patch area, thus reducing the de ection of the tire for a given load and in ation pressure [ 3]. Hence, in softer soil conditions, the tire in ation pressure may be reduced compared with therecommended pressure for the same load on a rmer sur- face. Central tire in ation systems (CTIS) offer advantages for quick adjustments of the tires in ation pressure forimproved traction, reduced slip and tire wear, and increased tire-soil contact area (equally, reduced soil-tire contact pressure). Such adjustments may help to reducerolling resistance, that is the pull required to move a wheel across a horizontal surface [ 2], and improve fuel use ef - ciency depending on speci C ground conditions, but therecommended tire in ation pressure must be restored for rmer surface use. Rolling resistance increases almost proportionally to the increase in load which the tire is supporting.",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Cooperative adaptive cruise control (cacc)",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Cooperative adaptive cruise control (cacc)",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Cooperative adaptive cruise control (cacc)_qna_000",
+      "value": 1
+    }
+  ]
+}

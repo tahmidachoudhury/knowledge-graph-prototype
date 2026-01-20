@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance",
+      "label": "Fauna abundance",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How many OTUs were classified as abundant taxa, and how many phyla did they represent?",
+      "answer": "A total of 201 OTUs representing 10 phyla were classified as abundant taxa.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 4a). A total of 201OTUs representing 10 phyla were classi ed as abundant taxa (Sup- plementary Fig. 4b). Based on the enrichment analysis, Actinobacteria, Acidobacteria, and Nitrospirae were signi cantly enriched among abundant taxa ( P< 0.5 for all; Fig. 1e). A total of 870 OTUs repre- senting 26 phyla were classi ed as rare taxa (Supplementary Fig. 4c), and among them, 7 phyla were signi cantly enriched, includingGemmatimonadetes, Bacteroidetes, Chloro exi, Planctomycetes, Armatimonadetes, Chlorobi, and TM6 ( P< 0.5 for all; Fig. 1e). A total of 156 OTUs representing 10 phyla were classi ed as generalists (Supplementary Fig. 4d), and among them, Actinobacteria andNitrospirae were signi cantly enriched ( P< 0.5 for both; Fig. 1e). A similar number of OTUs (159) were classi ed as specialists, but they represented a set of more diverse phyla (22) compared to generalists(Supplementary Fig. 4e). There were 4 phyla signi cantly enriched among specialists, including Cyanobacteria, Thermi, GAL15, and Chlamydiae ( P<0 .",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fauna abundance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What has been the average decline in the abundance of freshwater populations according to the Freshwater Living Planet Index from 1970 to 2016?",
+      "answer": "The average decline in the abundance of freshwater populations is 76% from 1970 to 2016.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Sourcing data in languages other than English The 2022 global LPI shows an average 69% decline in monitored populations between 1970 and 2018 (range: -63% to -75%). Around the world, many languages are used to communicate The Index contains both increasing and declining trends. science46. However, global biodiversity databases such as the LPI store fewer records for countries where English is not widely To ensure the accuracy of the statistics, the Index has been stress- spoken 47, which are often in the most biodiverse regions. This is tested by recalculating it excluding certain species or populations. partly a result of the greater accessibility of English language data This confirms it is not driven by extreme declines or increases sources, and also because the working language of the LPI team is in species or populations. The LPI is continually changing: 838 English. new species and 11,011 new populations have been added to the dataset since the 2020 Living Planet Report. The new data has For this year's Living Planet Report, collaborators from WWF- led to a substantial increase in the number of fish species included Brazil and the University of São Paulo have searched through (29%, +481 species) and has improved coverage for previously journals and environmental impact reports in Portuguese.",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fauna abundance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are the implications of high nutrient availability in the Ebro Delta area?",
+      "answer": "High nutrient availability contributes to a favorable environment for fish nursery, supports high biodiversity, and includes species of commercial interest.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2014; Bevilacqua et al. 2019; Chakravorty et al. 2024). Materials and methods Study area The study area is the surroundings of the Ebro Delta, in the Northwestern Mediterranean Sea, from Vilanova i la Geltr , in the north, to Castell de la Plana, in the south, covering approximately 8,0 km2 and including part of the coastal area, continental shelf, and upper slope (35 400 m) (Fig. 1). Despite that the Mediterranean Sea is generally considered oligotrophic, this area receives high riverine inputs from the Ebro river (Estrada 1996) and from the Rhone River in the north (France), which are transported southwestwards along the continental slope by the Liguro-Proven al-Catalan cur - rent (Estrada 1996). In addition, local upwelling events (i.e., eddies) also enhance nutrient availability. The area is also characterized by strong seasonality (Vilas et al. 2020; Lloret- Lloret et al. 2021). Overall, the wide continental shelf sur - rounding the Ebro Delta, combined with high nutrient avail- ability, upwelling events, and seasonal dynamics, contributes to create a favourable environment for fish nursery for many demersal and pelagic species that also supports high biodi- versity and high biomass, including species of commercial interest (Palomera et al.",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Fauna abundance",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Fauna abundance_qna_002",
+      "value": 1
+    }
+  ]
+}

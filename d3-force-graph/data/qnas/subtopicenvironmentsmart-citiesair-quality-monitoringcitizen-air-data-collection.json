@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Citizen air data collection",
+      "label": "Citizen air data collection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Citizen air data collection_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage increase in emissions did the City of Portland experience after implementing a consumption-based inventory?",
+      "answer": "The City of Portland saw a 118% increase in emissions after conducting a consumption-based inventory.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " While tracking emissions by sector appears as a simple accounting exercise, the practice can be complicated by consumption-based accounting. Emissions are most often reported on a per sector basis, but such sector-based emissions inventories lack a comprehensive view of a city S true metabolism (C40 2018 ). C40 Cities recommends consumption-based inventories, which also include emissions from all goods and services produced and con- sumed within a city (C40 2018). Such accounting can greatly increase reported emissions. For instance, the City of Portland saw a 118% increase in emissions after conducting a consumption-based inventory (City of Portland and Multnomah County 2015 ). Consider - ing such drastic increases when cities utilize a consumption-based emissions inventory, the 1 5% of municipal facilities share of local emissions would shrink even further as a true contribution to its community S total emissions. Upon the completion of a GHG inventory, cities develop mitigation and adaptation strategies for meeting emissions reduction targets and responding to future climate impacts (Boswell et al. 2010 ; Alloisio and Borghesi 2020 ). In the U.S., cities have primarily focused their actions on mitigating climate change.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Citizen air data collection",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Citizen air data collection",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Citizen air data collection_qna_000",
+      "value": 1
+    }
+  ]
+}

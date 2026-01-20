@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops",
+      "label": "Drought-resistant crops",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many weed species have been identified as resistant to herbicides worldwide?",
+      "answer": "A total of 404 herbicide-resistant weed species have been identified globally.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Overall, these findings allowed us to obtain a global view of the proteome response to CEO, opening promising perspectives for the development of natural herbicides, especially given the low probability of developing resistant weed populations. Keywords Essential oils, Weed populations, Botanical herbicides, Arabidopsis thaliana , Differentially accumulated proteins The intensive use of chemical pesticides is one of the major causes of biodiversity loss. It has also contributed to the development of many pesticide-resistant weed species worldwide1. In fact, 211 weed species have been recently identified as herbicide resistant2. Globally, there are 404 herbicide-resistant weed species (species site of action). Weeds resistant to acetolactate synthase (ALS) inhibitors make up approximately one-third of all cases (133 out of 404) and are particularly problematic for rice and other cereals3. Unlike chemical herbicides, which have a well-defined single site of action, bioherbicides based on allelochemical molecules stand out because of their multisite actions4. For these reasons, the current agricultural system needs to change its practices by not only reducing the use of chemical herbicides but also using more sustainable solutions such as bioherbicides.",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Drought-resistant crops",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the main problem caused by weeds resistant to acetolactate synthase (ALS) inhibitors?",
+      "answer": "Weeds resistant to ALS inhibitors are particularly problematic for rice and other cereals, making up approximately one-third of all resistant cases.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Overall, these findings allowed us to obtain a global view of the proteome response to CEO, opening promising perspectives for the development of natural herbicides, especially given the low probability of developing resistant weed populations. Keywords Essential oils, Weed populations, Botanical herbicides, Arabidopsis thaliana , Differentially accumulated proteins The intensive use of chemical pesticides is one of the major causes of biodiversity loss. It has also contributed to the development of many pesticide-resistant weed species worldwide1. In fact, 211 weed species have been recently identified as herbicide resistant2. Globally, there are 404 herbicide-resistant weed species (species site of action). Weeds resistant to acetolactate synthase (ALS) inhibitors make up approximately one-third of all cases (133 out of 404) and are particularly problematic for rice and other cereals3. Unlike chemical herbicides, which have a well-defined single site of action, bioherbicides based on allelochemical molecules stand out because of their multisite actions4. For these reasons, the current agricultural system needs to change its practices by not only reducing the use of chemical herbicides but also using more sustainable solutions such as bioherbicides.",
+      "macrotopic": "Zero hunger",
+      "topic": "Resilient farming",
+      "subtopic": "Drought-resistant crops",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops",
+      "target": "Subtopic:Social|Zero hunger|Resilient farming|Drought-resistant crops_qna_001",
+      "value": 1
+    }
+  ]
+}

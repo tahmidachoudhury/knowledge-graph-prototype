@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Biometric identification systems",
+      "label": "Biometric identification systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Public safety|Biometric identification systems_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are some limitations of decentralized signature verification in industries like textile and clothing?",
+      "answer": "Some limitations of decentralized signature verification in industries like textile and clothing include complexity leading to bottlenecks, potential human errors, security concerns, technology integration challenges, and the evolving nature of blockchain technology.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1877050921022389",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Public safety",
+      "subtopic": "Biometric identification systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Public safety|Biometric identification systems",
+      "target": "Subtopic:Environment|Smart cities|Public safety|Biometric identification systems_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal fluid chemistry",
+      "label": "Geothermal fluid chemistry",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal fluid chemistry_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What techniques were employed to determine the chemical composition of the samples?",
+      "answer": "The chemical composition was determined using scanning electron microscopy/energy-dispersive x-ray spectroscopy (SEM/EDX).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The density ( SPS) of sintered pellets was meas- ured using the Archimedes method. The chemical composi - tion was determined using scanning electron microscopy/ energy-dispersive x-ray spectroscopy (SEM/EDX; Quanta FEG 650). The room-temperature Seebeck coefficient was measured using a hot probe, and the room-temperature electrical resistivity was measured using a multifunctional probe measurement system.26 For high-temperature meas- urements, four samples were prepared using the same pro- cedures as described above, with the consolidation tem- perature at 1000 C. Two of the samples were cut into bars (3 mm 3 mm 10 mm) for the Seebeck and electrical resis- tivity measurements, and the other two (10 mm in diameter and 3 mm thick) were used for thermal conductivity meas- urements. The Seebeck coefficient and electrical resistivity were measured in a helium atmosphere using the ULVAC ZEM-3 system over a temperature range of 51 780 C. The thermal conductivity (k) was determined by laser flash meas- urement (NETZSCH LFA 457 MicroFlash, Germany). Results and Discussion Crystallization and Phase Transformation To monitor the formation of alloy after ball milling, XRD analysis was used to examine the phase transformation.",
+      "macrotopic": "Clean energy",
+      "topic": "Geothermal energy",
+      "subtopic": "Geothermal fluid chemistry",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal fluid chemistry",
+      "target": "Subtopic:Environment|Clean energy|Geothermal energy|Geothermal fluid chemistry_qna_000",
+      "value": 1
+    }
+  ]
+}

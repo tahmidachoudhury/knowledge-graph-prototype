@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec for cooling systems",
+      "label": "Otec for cooling systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec for cooling systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the inclination angle of a mixing tee affect temperature fluctuation?",
+      "answer": "The temperature fluctuation is significantly higher in a 90 mixing tee compared to a 45 mixing tee.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " [ 23] discovered that thermal mixing occurs more rapidly over a shorter distance when the branch pipe isinclined at angles of 45 and 60 . However, mixing is slower when the inclination angle of the mixing tee is 30 or 90 . Additionally, it has been observed that for inclination anglesof 45 and 60 , the average temperature follows a linear trend, indicating a lack of variation at the shortest distance along the central axis of the main pipe. In their study, Fenget al. [ 24] discovered that the mixing temperature remains relatively constant with minimal uctuations in temperature for both downward injection (DI) and horizontal injection(HI) in a 45 mixing tee. However, they observed thatthe temperature uctuation is signi cantly higher in a 90 mixing tee compared to the 45 tee. The difference in inlet temperature is determined by the variation in temperatureand the quality of thermal mixing. A reduction in tempera- ture difference results in improved thermal mixing quality, whereas an increase in intake uid temperature differenceleads to a loss in mixing performance. Chen et al. [ 25] 123 International Journal on Interactive Design and Manufacturing (IJIDeM) (2025) 19:2089 2099 2091 Fig.",
+      "macrotopic": "Clean energy",
+      "topic": "Ocean thermal energy",
+      "subtopic": "Otec for cooling systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec for cooling systems",
+      "target": "Subtopic:Environment|Clean energy|Ocean thermal energy|Otec for cooling systems_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement",
+      "label": "Organic food consumption encouragement",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some potential health benefits of edible insects according to Wazowski et al.?",
+      "answer": "Wazowski et al. discuss the potential health benefits of edible insects, highlighting their nutritional value, sustainable production, and potential to address food insecurity.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0022316622131378",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Organic food consumption encouragement",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is done with any additional barley grain production beyond what is used for feed?",
+      "answer": "Any additional barley grain production is assumed to be sold and substitutes other organic barley production at the market.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The cover crops were a mixture of clover and ryegrass. The other 500 hectares included grass-clover grazing, grass clover silage production, and pea-spring barley for silage (rotation 2). This area was considered out- side of the system boundary as it was assumed not to be affected by the actions in rotation 1. The manure production of the 560 cattle was 18,0 Mg fresh matter (FM) year 1, with 49.1 g N kg 1 dry matter (DM) (Fontaine et al. 2020b). Assuming 189 grazing days (6 h day 1), 15,600 Mg are collected in the animal house and stored to be field applied. This results in 27.7 Mg ha 1 applied to the spring barley in rotation 1. Of the barley produced, 1,344 Mg grains are used for feed, and 336 Mg straw is needed for feed and bedding. Any additional barley grain production was assumed to be sold and is modelled to substitute other organic barley production at the market, using data from the Ecoin- vent database (Wernet et al. 2016).",
+      "macrotopic": "Zero hunger",
+      "topic": "Sustainable diets",
+      "subtopic": "Organic food consumption encouragement",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement",
+      "target": "Subtopic:Social|Zero hunger|Sustainable diets|Organic food consumption encouragement_qna_001",
+      "value": 1
+    }
+  ]
+}

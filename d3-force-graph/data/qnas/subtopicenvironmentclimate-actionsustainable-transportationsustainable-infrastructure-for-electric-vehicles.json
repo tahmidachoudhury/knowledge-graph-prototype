@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Sustainable infrastructure for electric vehicles",
+      "label": "Sustainable infrastructure for electric vehicles",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Sustainable infrastructure for electric vehicles_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is it important to establish infrastructure conditions, such as networks of charging stations for electric vehicles or public transport, in a timely manner for a transition in the transport system?",
+      "answer": "Establishing infrastructure conditions in a timely manner is crucial for enabling a switch to alternative transport technologies like electric vehicles or public transport, facilitating a smooth transition in the transport system.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Sustainable infrastructure for electric vehicles",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable transportation|Sustainable infrastructure for electric vehicles_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the transition to electric cars in Austria impact economy-wide employment and skill demand?",
+      "answer": "The transition to electric cars in Austria is expected to create new job opportunities in industries related to electric vehicle manufacturing, battery technology, and renewable energy infrastructure. This shift will require a workforce with specialized skills in electric vehicle technology, battery production, and sustainable energy solutions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable transportation",
+      "subtopic": "Sustainable infrastructure for electric vehicles",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Sustainable infrastructure for electric vehicles",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Sustainable infrastructure for electric vehicles_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable transportation|Sustainable infrastructure for electric vehicles",
+      "target": "Subtopic:Environment|Climate action|Sustainable transportation|Sustainable infrastructure for electric vehicles_qna_001",
+      "value": 1
+    }
+  ]
+}

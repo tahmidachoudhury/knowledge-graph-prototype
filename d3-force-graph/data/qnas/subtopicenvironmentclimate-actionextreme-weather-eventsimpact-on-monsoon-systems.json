@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "label": "Impact on monsoon systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the primary focus of the article regarding cereal production in India?",
+      "answer": "The article focuses on how swapping rice for alternative cereals can reduce climate-induced production losses and increase farmer incomes in India.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Article https://doi.org/10.1038/s41467-25-57420-6 Swapping rice for alternative cereals can reduce climate-induced production lossesand increase farmer incomes in India Dongyang Wei1,2, Leslie Guadalupe Castro3, Ashwini Chhatre4, Marta Tuninetti5& Kyle Frankel Davis1,6 The rising homogeneity of global crop supply has increased vulnerability to climatic and economic disruptions. Whil e substantial work has examined yield variations in relation to climate variability, little is known about the in uence of harvested area on production stability . To investigate this, here we take the example of monsoon cereal production in India, which has steadily shifted towards climate-sensitive rice an d away from alternative cereals ( nger millet, maize, pearl millet, and sorghum). We nd that variations in harvested area are signi cantly associated with current and past price uctuations for all cereals except rice. This suggests that farme r decisions based on economic factors may exercise great in uence in determining variations in harvested area. We also show that optimized allocations of harvested area can reduce climate- induced production loss by 11% or improve farmer net pro t by 11% while maintaining calorie production and cro pland area.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Impact on monsoon systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has been the average annual rainfall and mean temperature recorded in Gonbad Kavous from 2001 to 2021?",
+      "answer": "The average annual rainfall recorded is 388 mm, and the mean temperature is 24.5°C.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " By evaluating early warning signals through remote sensing indices, this research aims to identify and manage areas at high risk effectively, thereby improving soil management practices and conserving natural resources in Gonbad Kavous. This could lay the groundwork for crafting sustainable policies to mitigate soil erosion. Materials and methods Study region The study focuses on Gonbad Kavous County, which spans an area of 4,995 km2 and is situated within Golestan Province in northeastern Iran. This area is located at an eastern longitude of 54 and 31 min, maximum of 55 and 39 min, northern latitude of 37 and 3 min, and maximum of 38 and 6 min. The region exhibits significant elevation variation, with the easternmost areas reaching an altitude of approximately 638 m above sea level, and the southwestern areas descending to around 28 m. Most of the area is used for pastures covered by floods and wind sediment. Over the two-decade period from 2001 to 2021, the study region recorded an average annual rainfall of 388 mm and a mean temperature of 24.5 C. This region faces soil erosion problems owing to special geological and climatic features, such as steep hills in the west, sparsely covered and poor lands in the north, and heavy seasonal rains (Fig.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Impact on monsoon systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does climate change affect wine production in the Douro Valley of Portugal?",
+      "answer": "Climate change impacts wine production in the Douro Valley of Portugal by altering temperatures and weather patterns, which can affect grape-growing regions and wine quality.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2405844023050909",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Impact on monsoon systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the global overview provided by G.V. Jones and F. Alves regarding the impact of climate change on wine production?",
+      "answer": "G.V. Jones and F. Alves offer a global overview of how climate change is impacting wine production by highlighting the changes in temperatures and weather patterns that are influencing grape-growing regions and wine quality worldwide.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2405844023050909",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Impact on monsoon systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Impact on monsoon systems_qna_003",
+      "value": 1
+    }
+  ]
+}

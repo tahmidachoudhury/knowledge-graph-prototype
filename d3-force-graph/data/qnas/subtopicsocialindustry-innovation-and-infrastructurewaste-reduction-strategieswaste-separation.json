@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation",
+      "label": "Waste separation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is the difference between the treatment of co-mingled fractions and separated fractions in textile recycling?",
+      "answer": "In co-mingled fractions, both fractions are processed together, while in separated fractions, a division of the two occurs before processing.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Waste separation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How is waste sorting efficiency calculated, and why is it crucial in waste management?",
+      "answer": "Waste sorting efficiency is calculated by dividing the total waste correctly segregated by the total waste generated, multiplied by 100%. It is crucial in waste management as it determines how effectively waste is being sorted and managed.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652624007261",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Waste separation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation_qna_002",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "What does the equation for Cleaning Efficiency represent in waste management, and why is it important?",
+      "answer": "The equation for Cleaning Efficiency represents the efficiency improvements in waste processing areas by measuring the area cleaned per unit of time. It is important as it quantifies how effectively cleaning tasks are being performed, indicating the level of cleanliness and organization in waste management.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652624007261",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Waste separation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Waste separation_qna_002",
+      "value": 1
+    }
+  ]
+}

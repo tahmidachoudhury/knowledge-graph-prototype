@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems",
+      "label": "Energy-efficient ventilation systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What categories were identified for the flow patterns in a T-section according to Kamide et al.?",
+      "answer": "The flow patterns in a T-section were categorized into wall jet, deflecting jet, and impinging jet.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1 aGeometry of ow domain, and bmeshed domain reagents before getting into reactors or turbines. It guaran- tees interaction of the chemical substances is uniform and plays a central role in processes where prede ned reactionrequirements are important [ 6]. Temperature uctuations are observed at the interfacial region while hot and cold uids are mixed. Fluctuations intemperature close to mixing tees result in high-cycle thermal fatigue, which may cause damage to T-sections and pipelines. This has resulted in leakage and incidents occurring withinpower plants on speci C occasions [ 2]. Since piping design and safe operation depend on a thorough comprehension of the thermal hydraulic behaviour of uid inside the T-section, it is essential to have this knowledge thorough. In general, ow patterns inside the T-section provide useful information for identifying regions with intense temperature uctuations. Utilizing the momentum ratio ( MR=M m/Mb), experimental and numerical modelling techniques, and the tee ow pat- tern, Kamide et al. [ 4] reported that the ow patterns can be categorized into wall jet, de ecting jet, and impinging jet OWS. Furthermore, while an, the ow pattern in a T-junctionbecomes even more complicated in case of upstream elbow.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Energy-efficient ventilation systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why might ventilation systems designed for energy conservation be a concern regarding radon levels?",
+      "answer": "They may not adequately remove radon, requiring specific radon mitigation strategies in addition to energy efficiency measures.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " While these measures are beneficial for reducing energy consumption, they can inadvertently increase indoor radon concentrations. Tighter building envelopes and improved insulation reduce natural ventilation, trap- ping radon indoors and allowing it to accumulate at higher levels (Environmental Protection Agency, 2021). Ventilation systems designed to conserve energy may not adequately remove radon, necessi- tating the implementation of specific radon mitiga- tion strategies alongside energy efficiency measures (Appleton, 2007). Extreme weather events, such as storms, floods, and high winds, are becoming more frequent and intense due to climate change (Walsh et al., 2020). These events can alter building pressures and ventilation patterns, which can either increase or decrease radon levels depending on the specific con- ditions (McGrath et al., 2021). For instance, flooding can saturate the soil and change the pressure dynam- ics around a building, potentially increasing radon ingress (Friedmann, 2017). Flood-damaged buildings may also have compromised foundations and walls, providing new pathways for radon entry. Storms and high winds can affect indoor air pressure, influenc- ing the movement of radon into and within buildings (Rey et al., 2022).",
+      "macrotopic": "Clean energy",
+      "topic": "Energy-efficient appliances",
+      "subtopic": "Energy-efficient ventilation systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems",
+      "target": "Subtopic:Environment|Clean energy|Energy-efficient appliances|Energy-efficient ventilation systems_qna_001",
+      "value": 1
+    }
+  ]
+}

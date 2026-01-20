@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Predictive energy analytics",
+      "label": "Predictive energy analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Predictive energy analytics_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the significance of the final prediction results obtained from the framework?",
+      "answer": "The final prediction results incorporate the optimal prediction values from each decomposition sequence and clearly outperform the prediction results of a single algorithm.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We select four generally best-performing learning models and two common deep learning models, Recurrent Neural Network (RNN) and Long short-term memory (LSTM). We then ensemble the results for each sub-factor using the bestperforming prediction model to obtain the nal prediction values for the carbon prices. Theadvantages of this type of framework are that we do not assume in advance that any learningmodel will perform better in terms of prediction, but instead try all algorithms which haveperformed historically well in previous experiments. This openness allows our results to bebetter adapted to the characteristics of the data distribution of the carbon price series. Suchdata-driven algorithms are more appropriate and applicable to a wider variety of scenarios. The nal prediction results are equivalent to incorporating the optimal prediction valuesof each decomposition sequence, and therefore clearly outperform the prediction resultsof one single algorithm. Moreover, the framework in this paper is easily interpretable andextendable, allowing for the inclusion of more feature variables, to further improve theprediction ef ciency of the algorithm. Our study is closely related to the literature that applies the structure of rst decomposing the raw carbon price series and then inputting the results into machine learning models, forinstance Li et al.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Predictive energy analytics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Predictive energy analytics",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Predictive energy analytics_qna_000",
+      "value": 1
+    }
+  ]
+}

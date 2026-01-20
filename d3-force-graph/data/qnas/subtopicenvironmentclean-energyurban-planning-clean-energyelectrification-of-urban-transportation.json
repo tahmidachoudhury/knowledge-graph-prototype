@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Electrification of urban transportation",
+      "label": "Electrification of urban transportation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Urban planning clean energy|Electrification of urban transportation_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of electric buses in urban centres, and why are they expected to become increasingly important?",
+      "answer": "Electric buses are very popular and are expected to become increasingly important, especially in urban centres due to their environmental benefits and potential to reduce carbon emissions and pollution.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/370705198_Temporal_PROMETHEE_II_-_New_multi-criteria_approach_to_sustainable_management_of_alternative_fuels_consumption",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Urban planning clean energy",
+      "subtopic": "Electrification of urban transportation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Urban planning clean energy|Electrification of urban transportation",
+      "target": "Subtopic:Environment|Clean energy|Urban planning clean energy|Electrification of urban transportation_qna_000",
+      "value": 1
+    }
+  ]
+}

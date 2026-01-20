@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Demand-side management",
+      "label": "Demand-side management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy management systems|Demand-side management_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What is the main focus of the literature review conducted in the paper regarding demand-side management (DSM) programs?",
+      "answer": "The literature review focuses on the role of gender, age, and income in the acceptance of DSM programs and highlights the importance of understanding the social situatedness of energy consumers to address knowledge gaps and barriers in DSM design.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This paper uses the concepts of the social license to automate and intersectionality to ana- lyze the existing literature on DSM programs. We find that three primary barriers in household DSM programs have been addressed: 1) there is an unresolved tension between DSM technology being perceived as a mas- culine domain and the home as a feminine domain; 2) low-income households face challenges in accessing the technology needed to enable both flexibility and sav - ings; and 3) disparities in opportunities for youth and the elderly to participate in DSM programs are insufficiently considered. Based on these findings we argue that user diversity not only conceived of as separate identity category variables but also as implicating overlapping and possible mutually reinforcing marginalizations is needed to form a starting point in DSM program design for fair and scalable solutions. I. M. Henriksen (*) J. Branlat Norwegian University of Science and Technology (NTNU), NO-7491 Trondheim, Norway e-mail: ida.marie.henriksen@ntnu.no J. Branlat e-mail: jennifer.branlat@ntnu.no H. Str mberg Industrial and Materials Science, Chalmers University of Technology, 41258 Gothenburg, Sweden e-mail: helena.stromberg@chalmers.se L. Diamond L. Motnikar Center for Technology Experience, AIT Austrian Institute for Technology, Giefinggasse 4, 1210 Vienna, Austria e-mail: lisa.diamond@ait.ac.atL.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy management systems",
+      "subtopic": "Demand-side management",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy management systems|Demand-side management",
+      "target": "Subtopic:Environment|Clean energy|Energy management systems|Demand-side management_qna_000",
+      "value": 1
+    }
+  ]
+}

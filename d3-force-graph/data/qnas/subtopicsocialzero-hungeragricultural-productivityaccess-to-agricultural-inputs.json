@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs",
+      "label": "Access to agricultural inputs",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the importance of optimizing tire inflation pressure in tractors?",
+      "answer": "Optimizing tire inflation pressure is crucial to ensure tires are inflated to the manufacturer's recommended pressure for a given load, speed, and surface conditions, which helps prevent tire damage.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Depending on theage and capabilities of the tractor, the key sources of data are: In-cab, real-time monitoring of engine performance, and Learning the speci C signals that indicate the limits of engine speed reduction possible for a given gearing and load (engine sound can be misleading, so black smoke coming from the exhaust is also a good indicator, as islack of engine speed response to an increase in throttle setting). Optimizing Tire Inflation Pressure Tires should always be in ated to the manufacturer S rec- ommended in ation pressure for a given load, speed, and surface conditions (ground carrying capacity and slope). When carrying a load over a rm or hard surface the tirede ects, causing an increase of the contact patch area until the load can be supported without further deformation of the tire. A loaded tire is de ected near the contact patchand is continuously exed as it rolls along. For most agricultural tires, the maximum de ection is limited to about 18 20% of the section height, to prevent damagein icted on the carcass (the casing of the tire).",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Access to agricultural inputs",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which production factors are represented in the SAM?",
+      "answer": "The SAM represents labor and capital as production factors, and land is considered a specific type of capital for the crop production sector.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " ( 2022 ). The SAM is based on the 2019 data and represents the mutual interrela - tionships between the production structure, income distribution, and consumption patterns in Nigeria. The accounts included in the SAM are grouped into three main blocks: (a) fac - tors of production, (b) activities and products, (c) economic institutions. In the SAM, two types of production factors are represented: labor and capital. Additionally, the crop produc - tion sector utilizes a third production factor (land), which is considered as a specific type of capital for the sector. The SAM contains 25 sectors and 26 products, including fertilizers, which are entirely imported. Moreover, the agri-food sector is subdivided into four catego - ries: crop production, livestock, fisheries, and processed foods. The economic institutions in the SAM includes an external agent (the rest of the world) and three domestic agents (firms, government, and households). Furthermore, households are categorized regionally, includ - ing 6 geopolitical regions of Nigeria: South-South, South-East, South-West, North-Central, North-East, and North-West.",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Access to agricultural inputs",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do the common factors extracted impact the regression model's performance, according to the paper?",
+      "answer": "Common factors extracted by partial least squares add valuable information beyond the selected individual indicators, while those extracted by two-step-Kalman Iter are not significant.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract In this paper, we analyse the relationship between the rate of growth of CO 2emissions and economic activity in Spain from 1964 to 2020. We explain CO 2emissions by tting a structural regression model with selected indicators of economic activity augmentedwith dynamic common factors extracted from a large macroeconomic database, as explanatory variables. The variables to include in the regression are selected using Machine Learning procedures while we use alternative supervised and non-supervisedprocedures to extract the factors. We nd that, regardless of the procedure used for variable selection, private consumption and maritime transportation have the highest explanatory power for the rate of growth of emissions. We also show that the waythe common factors are extracted is crucial to exploit their information content. The common factors extracted by partial least squares add valuable information on top of that of the selected individual indicators, while they are not signi cant when extractedby two-step-Kalman Iter (2SKF). Keywords Dynamic factor models LASSO Partial least squares V ariable selection 1 Introduction The addition of greenhouse gases (GHG) to the atmosphere disturbs the earth S radia- tive balance, leading to an increase in the earth S surface temperature and to related effects on climate, sea level rise, ocean acidi cation and world agriculture, amongother effects.",
+      "macrotopic": "Zero hunger",
+      "topic": "Agricultural productivity",
+      "subtopic": "Access to agricultural inputs",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs",
+      "target": "Subtopic:Social|Zero hunger|Agricultural productivity|Access to agricultural inputs_qna_002",
+      "value": 1
+    }
+  ]
+}

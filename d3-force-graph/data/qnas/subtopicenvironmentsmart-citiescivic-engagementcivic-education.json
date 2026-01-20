@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Civic education",
+      "label": "Civic education",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Civic education_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Who is responsible for providing individuals with the tools needed to develop good epistemic conduct?",
+      "answer": "Institutions have a responsibility to provide individuals with the necessary tools through public education to foster good epistemic conduct.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Relying entirely on information when choos - ing a partner leaves out an essential component of dating choices: intuition. The research presented in the paper Evaluating Intel - ligence and Knowledge in Large Language Models by Francesco Bianchini addresses a different issue. Large language models (LLMs) are generative models of artifi - cial intelligence that are able to produce natural language texts in response to human prompts that are almost indis - tinguishable from human-generated texts. Do LMMs pro - mote or hinder knowledge? What are the potential risks to their users? The first issue discussed concerns the immense proliferation of Al-generated texts on the Internet texts that, because of their artificial nature, are not perceived as a source of knowledge, which could end up pushing indi - viduals to retreat into ignorance. Indeed, at some point, ignorance may be perceived as a refuge in the face of the advancement of these technologies, which mimic human intelligence almost perfectly. A second problem relates to the manipulability of LLMs: these systems answer ques - tions posed by humans and can generate completely ficti - tious content.",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Civic education",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Civic education",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Civic education_qna_000",
+      "value": 1
+    }
+  ]
+}

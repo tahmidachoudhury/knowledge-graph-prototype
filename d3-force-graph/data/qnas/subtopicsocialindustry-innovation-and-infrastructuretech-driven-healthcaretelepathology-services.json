@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Telepathology services",
+      "label": "Telepathology services",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Telepathology services_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does XCT assist in subsequent destructive analysis?",
+      "answer": "XCT identifies features of interest for further examination using higher-resolution techniques, saving time and improving results by eliminating random searches.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 39The goal of introducing XCT into the PIE work ow for nuclear materials is twofold. First, XCT provides a non-destructive means to probe the structure inthree dimensions, providing the potential to revealinvaluable insights into the effects of irradiation on the evolution of material structures. 40Second, XCT can inform subsequent targeted destructive analy-sis by identifying features of interest for further examination with higher-resolution, smaller eld- of-view (FOV) techniques without having to ran-domly search for desired features, saving time and improving results. The larger FOV of XCT also ensures a region of interest (ROI) is representativeof the larger sample composition. Additionally, realistic internal 3D geometry generated using XCT can be meshed and used as a high- delityinput for fuel performance and other modelingefforts. This paper describes the XCT capabilities at INL and its application to support INL S mission of examining energy materials with an emphasis onPIE capabilities. INSTRUMENTATION AND FACILITY INFORMATION Irradiated Materials Characterization Laboratory (IMCL) Facility IMCL, which began operations in 2015, 41is a Hazard Category-2 Nuclear Facility that can handle highly radioactive materials. It consists of a varietyof tools to enable PIE of irradiated materials forcharacterization of material performance inChuirazzi, Kancharla, and Morankar 1338 extreme reactor environments which contain high temperatures and large radiation elds.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Tech-driven healthcare",
+      "subtopic": "Telepathology services",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Telepathology services",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Tech-driven healthcare|Telepathology services_qna_000",
+      "value": 1
+    }
+  ]
+}

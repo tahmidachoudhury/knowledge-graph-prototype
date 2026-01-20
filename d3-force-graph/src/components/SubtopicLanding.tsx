@@ -295,38 +295,4 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
   );
 }
 
-// Text wrapping helper for center node label
-function wrap(text: any, width: number) {
-  text.each(function () {
-    const text = d3.select(this);
-    const words = text.text().split(/\s+/).reverse();
-    let word;
-    let line: string[] = [];
-    let lineNumber = 0;
-    const lineHeight = 1.1;
-    const y = text.attr("y") || 0;
-    const dy = parseFloat(text.attr("dy")) || 0;
-    let tspan = text
-      .text(null)
-      .append("tspan")
-      .attr("x", 0)
-      .attr("y", y)
-      .attr("dy", dy + "em");
 
-    while ((word = words.pop())) {
-      line.push(word);
-      tspan.text(line.join(" "));
-      if ((tspan.node() as any).getComputedTextLength() > width) {
-        line.pop();
-        tspan.text(line.join(" "));
-        line = [word];
-        tspan = text
-          .append("tspan")
-          .attr("x", 0)
-          .attr("y", y)
-          .attr("dy", ++lineNumber * lineHeight + dy + "em")
-          .text(word);
-      }
-    }
-  });
-}

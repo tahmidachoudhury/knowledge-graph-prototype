@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and marine microorganisms",
+      "label": "Acidification and marine microorganisms",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and marine microorganisms_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did a global-scale meta-analysis conclude about microbial biomass in oligotrophic environments?",
+      "answer": "It concluded that oligotrophic environments exhibit higher variations in microbial biomass over time.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021a, b; Lopes and Schachtman 2023). However, the temporal variation patterns of soil microbiomes under differ - ent fertilization treatments in a long-term remain unknown. Chemical and organic fertilization is a widely-used man- agement practice to promote crop yield. Previous studies have well documented that long-term chemical or organic fertiliza- tion alters bacterial and fungal communities in soil and plant compartments (Sun et al. 2021; Ma et al. 2022). Organic fer - tilization improves soil microbial abundances and enhances the functional diversity of microorganisms (Jannoura et al. 2014; Orr et al. 2012). Compared to exclusive chemical or organic fertilization, combined organic-chemical fertiliza- tion contributes to higher stability in soil and root microbial networks (Yang et al. 2023). A global-scale meta-analysis of temporal dynamics of microbial biomass concluded that oli-gotrophic environments exhibit higher variations in microbial biomass over time (Wardle 1998). The variation of rhizos- phere microbial community structure showed a decreasing trend with increasing nitrogen fertilization levels across plant growth stages (Chen et al. 2019). These findings suggest that fertilizer treatments affect microbial temporal variation and nutrient-rich soil might promote a higher microbial temporal stability.",
+      "macrotopic": "Climate action",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidification and marine microorganisms",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and marine microorganisms",
+      "target": "Subtopic:Environment|Climate action|Ocean acidification|Acidification and marine microorganisms_qna_000",
+      "value": 1
+    }
+  ]
+}

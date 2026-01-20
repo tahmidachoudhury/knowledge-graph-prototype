@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Equitable prosperity",
+      "label": "Equitable prosperity",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity"
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Equitable prosperity_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What shift in focus are governments making as societies emerge from the COVID-19 pandemic, according to the paragraph?",
+      "answer": "Governments are moving from a focus on economic growth at any cost towards the principles of a wellbeing economy, aimed at achieving a more equitable distribution of wealth and wellbeing.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Objective As societies emerge from the COVID-19 pandemic, governments are increasingly moving away from a focus on economic growth at any cost towards the principles of a wellbeing economy, focused on achieving a more equitable distri- bution of wealth and wellbeing. This study aimed to assess the relative importance to the Australian general public of the key principles of a wellbeing economy and to investigate heterogeneity in preferences between demographic subgroups. Methods An online survey was developed and delivered to a general public sample of 2042 Australian adults (aged 18 years and above). Respondents were invited to rank the key principles of a wellbeing economy (dignity, nature and climate, social connection, fairness and participation) plus two additional traditional economic indicators of societal success ( economic growth and economic prosperity ) in order of their relative importance for informing future policy directions. Data analysis was conducted using simple summative scoring, which involved the use of a point system allocated to rankings as a depend- ent variable. In addition, a rank-ordered logit model was used to explore preferences for the entire sample and subgroups defined by key socio-demographic characteristics.",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "subtopic": "Equitable prosperity",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Equitable prosperity_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What does the paper suggest about the importance of efficiency and equity in the context of increasing subsidy costs?",
+      "answer": "The paper finds that while efficiency grows in relative importance as subsidy costs increase, equity still outweighs the efficiency loss in many situations due to societal preferences for inequality.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " We nd that while ef ciency grows in relative importance as the magnitude of the subsidycost increases, equity still outweighs the ef ciency loss in many circumstances given likelysocietal preferences for inequality. Should policy costs be negative, a at-rate levy is welfare-maximising under all conditions. Keywords Energy Subsidy Distributional incidence Equity Welfare loss JEL Classi cation D30 D60 H22 H23 Q4 Q52 Q54 1 Introduction How should public policy nance energy subsidies? Considering both equity and ef ciency effects, this paper evaluates common methods of energy subsidy cost-recovery: a at-ratehousehold levy and an electricity price surcharge. We show that the method of cost-recovery B Niall Farrell niall.farrell@esri.ie 1Present Address: The Economic and Social Research Institute, Whitaker Square, Sir JohnRogerson S Quay, Dublin D02 K138, Ireland 2Trinity College Dublin, Dublin, Ireland 123 H. Humes and N. Farrell has important implications for the distribution of household welfare, and identify conditions of welfare maximisation for each of these two policy choices. Using a 2015/16 Irish case study, we nd that a at-rate household levy leads to a gross annual loss in consumer surplus of e105m.",
+      "macrotopic": "Reduced inequalities",
+      "topic": "Inclusive prosperity",
+      "subtopic": "Equitable prosperity",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Equitable prosperity",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Equitable prosperity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Equitable prosperity",
+      "target": "Subtopic:Social|Reduced inequalities|Inclusive prosperity|Equitable prosperity_qna_001",
+      "value": 1
+    }
+  ]
+}

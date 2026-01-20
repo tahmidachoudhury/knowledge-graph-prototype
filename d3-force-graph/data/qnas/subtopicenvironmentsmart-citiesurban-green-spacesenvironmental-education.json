@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education",
+      "label": "Environmental education",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to measure the participants' relationship with nature?",
+      "answer": "Participants completed two quantitative scales, INS and NEP-R, before and after an educational intervention.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract It is well known that the relationship between humans and nature conditions peo - ple S pro-environmental behaviours, as well as being one of the keys to developing sustainability. The focus of this research is whether the use of learning gardens in initial teacher training has an impact on students connectedness to nature. The study follows a quasi-experimental design, involving 84 students from the Undergraduate Degree in Early Childhood Education distributed into a control group ( n = 36) and a treatment group ( n = 48). The participants completed two quantitative scales (INS and NEP-R) before and after an educational intervention that took place over a four- month academic period. The findings show that, after instruction, both groups had improved their relationship with nature. Specifically, their environmental concern had increased after the training, but the impact was only significant in the group who used the garden. On the other hand, regarding the self-nature connection, no significant changes were observed in any of the two groups. This strengthens the idea that connectedness to nature is a primitive belief that, although hard to modify in adulthood, can be improved through certain actions.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Environmental education",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What was one significant finding regarding environmental concern after the intervention?",
+      "answer": "The findings showed that environmental concern increased in both groups after the training, but the impact was significant only in the treatment group that used the garden.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract It is well known that the relationship between humans and nature conditions peo - ple S pro-environmental behaviours, as well as being one of the keys to developing sustainability. The focus of this research is whether the use of learning gardens in initial teacher training has an impact on students connectedness to nature. The study follows a quasi-experimental design, involving 84 students from the Undergraduate Degree in Early Childhood Education distributed into a control group ( n = 36) and a treatment group ( n = 48). The participants completed two quantitative scales (INS and NEP-R) before and after an educational intervention that took place over a four- month academic period. The findings show that, after instruction, both groups had improved their relationship with nature. Specifically, their environmental concern had increased after the training, but the impact was only significant in the group who used the garden. On the other hand, regarding the self-nature connection, no significant changes were observed in any of the two groups. This strengthens the idea that connectedness to nature is a primitive belief that, although hard to modify in adulthood, can be improved through certain actions.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Environmental education",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Environmental education_qna_001",
+      "value": 1
+    }
+  ]
+}

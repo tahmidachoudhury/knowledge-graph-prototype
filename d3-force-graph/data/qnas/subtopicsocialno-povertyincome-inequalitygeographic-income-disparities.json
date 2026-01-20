@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "label": "Geographic income disparities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the geographical coordinates of the high-altitude populations studied?",
+      "answer": "The geographical coordinates are K htai: 47.23 N, 10.97 E; Obernberg: 46.98 N, 11.42 E; Obergurgl: 46.86 N, 11.2 E; Venn: 47.1 N, 11.54 E.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " ), and from four replicated high-altitude populations in Austria (L. tityrus subalpinus; K htai: 47.23 N, 10.97 E; Obernberg: 46.98 N, 11.42 E; Obergurgl: 46.86 N, 11.2 E; Venn: 47.1 N, 11.54 E; alti- tudinal range 1560 2030 m a.s.l.). All high-altitude popula - tions were sampled on unfertilized alpine meadows in the central Alps, i.e., above crystalline primary rock (gneiss, slate) resulting in acidic, nutrient-poor soils. The low-alti- tude populations, in contrast, originate from slightly ferti- lized meadows from areas that are also naturally richer in nutrients (basalt mountains or marshland). Note that sam- pling locations not only differed in altitude but also in lati- tude. However, the impact of variation in altitude is expected to surpass the potential impact of latitude by far (Karl et al. 2008 , 2009a ). Per population, we sampled between 6 and 20 females, in total 34 from low- and 48 from high-altitude populations. Females were afterwards transferred to and randomly distributed among two climate cabinets (26 C, 70% humidity, L19:D5 photoperiod; Panasonic MIR-554) at Koblenz University for egg laying.",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Geographic income disparities",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is addressing socioeconomic disparities important for understanding environmental behavior?",
+      "answer": "Addressing socioeconomic disparities is essential because economic disparities weaken collective engagement and exacerbate educational inequalities, which limit access to knowledge necessary for sustainable practices.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Addressing socioeconomic disparities is essential for understanding environmental behavior, particularly in regions with pronounced inequality. Economic disparities weaken collective engagement by reducing national identification and shared responsibility (Baland et al., 2018; Ignatow, 2005). They also exacerbate educational line- qualities, limiting access to knowledge necessary for sustainable practices (Zreik, 2023). Additionally, financial constraints in less developed countries hinder prioritization of envi- ronmental concerns, reflecting the challenge of balancing economic needs with sustainabil- ity ( arko lu & Kentmen- in, 2015; Zreik, 2023). This study leverages data from over 60 countries spanning developed and developing economies to explore how socioeconomic factors such as income, education, and employ - ment status influence environmental perceptions and pro-environmental behaviors. The global scope of this analysis provides a unique opportunity to examine how these factors operate across diverse cultural, political, and economic contexts. By examining a wide array of demographic groups, this research offers insights into how sustainability policies can be tailored to meet the needs of different populations and socioeconomic strata. Fur - thermore, the findings from this study contribute to a growing body of literature that seeks to understand the intersection of economic development and environmental sustainability, offering both theoretical insights and practical implications for policymakers.",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Geographic income disparities",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How are households categorized in the SAM and how many regional categories are there?",
+      "answer": "Households are categorized regionally into 6 geopolitical regions of Nigeria: South-South, South-East, South-West, North-Central, North-East, and North-West.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " ( 2022 ). The SAM is based on the 2019 data and represents the mutual interrela - tionships between the production structure, income distribution, and consumption patterns in Nigeria. The accounts included in the SAM are grouped into three main blocks: (a) fac - tors of production, (b) activities and products, (c) economic institutions. In the SAM, two types of production factors are represented: labor and capital. Additionally, the crop produc - tion sector utilizes a third production factor (land), which is considered as a specific type of capital for the sector. The SAM contains 25 sectors and 26 products, including fertilizers, which are entirely imported. Moreover, the agri-food sector is subdivided into four catego - ries: crop production, livestock, fisheries, and processed foods. The economic institutions in the SAM includes an external agent (the rest of the world) and three domestic agents (firms, government, and households). Furthermore, households are categorized regionally, includ - ing 6 geopolitical regions of Nigeria: South-South, South-East, South-West, North-Central, North-East, and North-West.",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Geographic income disparities",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "target": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "target": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities",
+      "target": "Subtopic:Social|No poverty|Income inequality|Geographic income disparities_qna_002",
+      "value": 1
+    }
+  ]
+}

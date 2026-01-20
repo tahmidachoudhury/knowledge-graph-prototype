@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives",
+      "label": "Fishery cooperatives",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the conditions under which BMRA can reproduce the gains of a fully cooperative fishing agreement?",
+      "answer": "BMRA can reproduce these fully cooperative gains if adult movement from the fishing patch to the reserve patch is low (40%), and adult movement from the reserve patch to the fishing patch is high (60%), regardless of larval movement.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We dis- cuss the challenges of the practical application of BMRA using four real-world transboundary stocks. We find that high adult movement predicts a high-value BMRA, in par - ticular when adult movement to the fishing patch outweighs adult movement to the reserve patch by 10 30%. Further - more, we find that BMRA is most likely to be agreed for transboundary stocks with high adult movement, although larval dispersal can bolster agreement acceptance and increase the agreement negotiation space if adult movement is low. Lastly, we compare the gains under BMRA to the gains under a fully cooperative fishing agreement where both countries continue to harvest. We find that BMRA can repro- duce these fully cooperative gains if adult movement from the fishing patch to the reserve patch is low ( 40%), and adult movement from the reserve patch to the fishing patch is high ( 60%), regardless of larval movement. In some cases, the BMRA conservation gains exceeded the fully coopera- tive outcome under certain spatial connectivity conditions; however, economic gains were always equal or lower. Incomplete ownership of a resource can reduce the effec- tiveness of marine reserves, and this poses a particular chal- lenge for transboundary stocks where adults move or larvae disperse over large distances (White and Costello 2011).",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishery cooperatives",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the role of a sole owner in the fully cooperative fishing agreement described in the paper?",
+      "answer": "The sole owner has perfect tenure over the entire spatial extent of the resource and simultaneously manages both countries' waters to maximize system-wide profit.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The remainder of this paper is structured as follows: we introduce our two-patch spatial dynamic model where spatial connectivity through adult movement and larval dispersal creates a spatial externality (Costello and Polasky 2008 ; Kaffine and Costello 2010). We consider three possible responses. First is the case of uncoordinated management where each country maximizes its patch-specific returns, taking as given the neighboring country S behavior. Next, as a benchmark, we examine a fully cooperative fishing agree- ment where a sole owner has perfect tenure over the entire spatial extent of the resource, simultaneously managing both Theoretical Ecology (2025) 18:11 11 countries' waters to maximize system-wide profit. Finally, we introduce BMRA where one country becomes a marine reserve and abstains from fishing, while its neighbor con- tinues to fish within its own country and provides a pay - ment to the abstaining country, managing both patches as a sole owner. We identify the spatial connectivity conditions under which BMRA can be agreed to by both countries, determine what life history strategies are most conducive to agreement acceptance, and how conservation and economic gains under BMRA compare to the sole owner.",
+      "macrotopic": "Life below water",
+      "topic": "Sustainable fisheries",
+      "subtopic": "Fishery cooperatives",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives",
+      "target": "Subtopic:Environment|Life below water|Sustainable fisheries|Fishery cooperatives_qna_001",
+      "value": 1
+    }
+  ]
+}

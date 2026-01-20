@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design",
+      "label": "Consumer education and engagement in design",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design_qna_000",
+      "group": "QnA",
+      "label": "Ethics and Regulation",
+      "question": "What is the main argument presented in Threefold's \"Sustainability by Design: A Subversive Strategy for Transforming Our Consumer Culture\"?",
+      "answer": "Threefold argues for a subversive strategy to transform consumer culture towards sustainability by design, emphasizing the need to challenge traditional consumption patterns.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784322000109",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Consumer education and engagement in design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is understanding how policies affect consumers crucial for companies in a CE?",
+      "answer": "Understanding how policies affect consumers is crucial for companies in a CE because without consumers, there is no market. This understanding helps in developing Consumer Environment-based Models (CEMS) that are essential for business success.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723006941",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Consumer education and engagement in design",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is it argued that comprehensive adoption of these strategies is necessary for improving their impact on consumption?",
+      "answer": "It is argued that a comprehensive adoption of strategies like designing durable products and fostering an emotional connection with consumers is necessary to improve the impact on consumption. Simply designing durable products alone may not be effective without other complementary strategies in place.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0959652623008363",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Green product design",
+      "subtopic": "Consumer education and engagement in design",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Green product design|Consumer education and engagement in design_qna_002",
+      "value": 1
+    }
+  ]
+}

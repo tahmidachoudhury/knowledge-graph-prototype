@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion",
+      "label": "Anaerobic digestion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is one of the effects of anaerobic digestion aside from producing biogas?",
+      "answer": "Anaerobic digestion also mineralizes part of the organic nitrogen compounds into ammonium nitrogen, which is readily available for plant uptake.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Leg- umes thus have an important role in organic farming, enabling higher crop yields than would otherwise be feasible without synthetic N fertilizer. Cover crops are sown either around the same time as the main crop (under-sowing) or immedi- lately after harvest of the main crop. Under-sowing allows a longer growing period of the cover crops and can improve their establishment (De Notaris et al. 2019; Liu et al. 2015). Generally, cover crops are not harvested, but the biomass is left in the field to decompose, so that nutrients are released and can be available for the succeeding crop (Askegaard & Erik - sen 2007; Tribouillois et al. 2016). However, if suffi- cient biomass can be attained, an attractive alternative could be to harvest the cover crop biomass and use this as feedstock in anaerobic digestion. Potentially this could result in benefits both in terms of increased biogas production and improved nutrient manage- ment in the field. The main point of anaerobic digestion is to pro- duce biogas, but another effect is that part of the organic N compounds are mineralized into ammo- nium N, which is readily available for plant uptake.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Anaerobic digestion",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do longer distances to large pores affect microbial processes?",
+      "answer": "Areas with longer distances to these pores may be more inclined towards anaerobic respiration due to extended diffusion distances.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The prox - imity to large pores, for example, could facilitate a regular influx of labile carbon and nutrients, prompting microbial communities to intermittently engage in denitrification during periods of high metabolic activity, often referred to as hot moments (Casey et al. 2004 ; Li et al. 2024 ). Con - versely, areas with longer distances to these pores might be more inclined towards anaerobic respiration due to extended diffusion distances (Rohe et al. 2021 ; Lucas et al. 2024 ). Finally, denitrification potential could be independent of structural heterogeneity because of (1) functional redun - dancy, i.e. a variety of microorganisms can produce the nec - essary enzymes for denitrification (Kuypers et al. 2018 ) or (2) microbial hotspots are randomly distributed with respect to pore distances and driven by other aspects of heterogene - ity, e.g. particulate organic matter (POM) distribution (Lac - roix et al. 2022 ; Ortega-Ram rez et al. 2023 ; Lucas et al. 2024 ). Furthermore, (3) certain microbial communities are somewhat limited in their capabilities to respond to changes in environmental conditions, thereby potentially providing community specific boundaries for denitrification (Palmer et al.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Anaerobic digestion",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Anaerobic digestion_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seabed sanctuaries",
+      "label": "Seabed sanctuaries",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Protected areas|Seabed sanctuaries_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What specific habitat was identified for the field surveys of Gongolaria barbata?",
+      "answer": "The suitable habitat identified for G. barbata is the very shallow sheltered upper sublittoral rocky zone.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fabre (FABR); Mus e et Jardins Botaniques Cantonaux MJBC (LAU): Herbarium de Lausanne and Herbier Ducommun. Gongolaria barbata was found in Herbaria as Cystoseira hoppei C. Agardh, C. barbata var. hoppei (C. Agardh) J. Agardh and C. barbata f. hoppei (C. Agardh) Woronichin, C. barbata (Stackhouse) C. Agardh, C. barbata f. aurantia (K tzing) Giaccone and C. barbata f. repens A.D. Zinova & Kalugina. Field work The current distribution of G. barbata was investigated by field surveys conducted between 2007 and 2016, along the entire French Mediterranean coastline (~ 30 km of shoreline measured on a map with a 1:2 500 scale). The suitable habitat (very shallow sheltered upper sublittoral rocky zone) of G. barbata have been previously identified and selected on aerial photographs (Google Earth ) in order to optimize the field surveys. The upper littoral zone was explored by snorkelling. All the G. barbata populations were geolocalised and recorded on 1:2 500 maps. GIS analyses Each location (past or present) of Gongolaria barbata along the French Mediterranean coast was geolocalised and the past and present distribution patterns were analyzed on a GIS (Geographical Information System) database (ArcGis10).",
+      "macrotopic": "Life below water",
+      "topic": "Protected areas",
+      "subtopic": "Seabed sanctuaries",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Protected areas|Seabed sanctuaries",
+      "target": "Subtopic:Environment|Life below water|Protected areas|Seabed sanctuaries_qna_000",
+      "value": 1
+    }
+  ]
+}

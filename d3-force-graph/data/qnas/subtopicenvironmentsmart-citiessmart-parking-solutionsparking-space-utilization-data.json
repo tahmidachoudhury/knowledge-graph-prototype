@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Parking space utilization data",
+      "label": "Parking space utilization data",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart parking solutions|Parking space utilization data_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is there little measured data available to assess changes in SOC?",
+      "answer": "The inherently high spatial variability of SOC stocks and the high cost of measurements lead to little measured data being available from case studies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2022 ), SOC accumulation is expected to hold a major potential to mitigate agricultural GHG emissions (Petersen et al. 2013 ). To improve impact assessment estimates, LCA studies should therefore uni- formly include SOC changes and be conducted over longer timespans to assess the stability of added C storage for a full accounting of agricultural GHG emissions (e.g. including beef production) (Cusack et al. 2021). Goglio et al. (2015) reviewed different methods to account for SOC in agricultural LCA. In their ranking of preferences of SOC estimation methods, models were pre- ferred to measurements. Due to inherently high spatial vari- ability of SOC stocks and the high cost of measurements, there is little measured data available from the case studies to allow for the assessment of changes in SOC (Heikkinen et al. 2021). Conversely, different modelling approaches are already widely applied to assess changes in SOC in agricul- ture and have been shown to generate accurate results (e.g., Riggers et al. 2019; Jebari et al. 2021). It is worth pointing out that both a combination of direct measurements (for vali- dation purposes) and modelling (at larger scales) can greatly help define the efficacy of different land management prac- tices in enhancing soil C sequestration (Smith et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart parking solutions",
+      "subtopic": "Parking space utilization data",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart parking solutions|Parking space utilization data",
+      "target": "Subtopic:Environment|Smart cities|Smart parking solutions|Parking space utilization data_qna_000",
+      "value": 1
+    }
+  ]
+}

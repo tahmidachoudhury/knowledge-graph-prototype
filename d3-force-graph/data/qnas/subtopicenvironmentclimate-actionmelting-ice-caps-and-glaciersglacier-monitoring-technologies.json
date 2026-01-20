@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies",
+      "label": "Glacier monitoring technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What did Rijal et al.'s research focus on in the Himalayan region of Nepal?",
+      "answer": "Their research focused on thermal measurements and surveys of thermal comfort of traditional houses during the harsh winter climate.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The energy consumption and thermal comfort of traditional houses of ethnic minorities are not only related to the quality of life and cultural heritage of ethnic minority residents but also closely related to environmental protection and sustainable development. It is of great significance to study the energy consumption patterns of traditional ethnic minority houses, reveal the characteristics and laws of energy use, put forward improvement measures for energy waste, and realize the effective use of energy, to alleviate energy shortage and promote sustainable development17 20. Li et al.21 pointed out that traditional Tibetan houses show a response to the unique local climate and discussed the generation mechanism of the indoor thermal environment of traditional houses in Lhasa. Rijal et al.22 conducted thermal measurements and thermal comfort surveys of traditional houses in the harsh winter climate of the Himalayan region of Nepal and showed that the thermal adaptability of buildings and their inhabitants is important for energy-efficient building design. Significant energy savings can be achieved through passive building design and lower indoor temperature settings for heating. Wang et al.23 took a house in Lhasa, Tibet as the research object, obtained the indoor air temperature distribution through field measurements, discussed the influence of outdoor meteorological factors on the indoor thermal environment, and pointed out that it is of great significance to make full use of geographical advantages to improve the indoor environment of passive buildings in the plateau area, which is of great significance for building energy conservation and thermal design of passive buildings.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier monitoring technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What limitation do many studies that utilize satellite imagery for LST analyses have?",
+      "answer": "Many studies rely on a limited number of snapshots and neglect the temporal dimension relevant to Earth's dynamic systems and weather patterns during satellite image acquisition.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Over the years, the utilization of satellite data has signifi- cantly advanced our understanding of spatial and temporal variations in Land Surface Temperature (LST), enabling the identification of temperature hotspots on a global scale, offering crucial insights into the impacts of urban develop- ment, climate change, and evolving land-use patterns that lead to the development of the surface UHI (SUHI) phe- nomenon. The capacity of satellites, such as those in the Landsat program (Wulder et al. 2019 ), to capture thermal radiance across diverse landscapes has facilitated compre- hensive assessments of LST patterns. Many studies, while utilizing satellite imagery for LST analyses, often rely on a limited number of snapshots, neglecting the temporal dimen- sion inherent in Earth S dynamic systems and the weather patterns present in the days of satellite image acquisition. According to Keramitsoglou et al. (2011) the city center of Athens developed a typical SUHI spatially coinciding with the dense urban fabric. The nighttime maximum LST peaked (on average) at the end of July, two weeks later than the day - time surface patterns.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier monitoring technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier monitoring technologies_qna_001",
+      "value": 1
+    }
+  ]
+}

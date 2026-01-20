@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Smart waste management",
+      "label": "Smart waste management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Smart waste management_qna_000",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How can advanced technologies like AI and IoT improve waste management in the denim industry?",
+      "answer": "Advanced technologies like AI and IoT can optimize waste management in the denim industry by monitoring and managing waste flows and environmental impact in real time, making the analysis more efficient and precise.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652624007261",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "subtopic": "Smart waste management",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|IoT in cities|Smart waste management",
+      "target": "Subtopic:Environment|Smart cities|IoT in cities|Smart waste management_qna_000",
+      "value": 1
+    }
+  ]
+}

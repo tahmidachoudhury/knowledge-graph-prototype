@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Marine species conservation",
+      "label": "Marine species conservation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Marine species conservation_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of the model mentioned in the paragraph?",
+      "answer": "The model assists in prioritizing interventions to control non-indigenous species (NIS) spread and protect marine habitats.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The model can assist in priori- tise interventions to control NIS spread and protect marine habitats (Parretti et al. 2020) and sets an ini- tial stepping stone to assessing risks of NIS spread and proliferation by local maritime traffic. Overall, assessing the risk of NIS proliferation and potential invasions in MPAs is far from straightfor - ward and requires an understanding of multiple com- pounding factors. However, two major factors can be used in developing a spatially explicit risk assessment for the local spread of NIS: i) the existence and distri- bution of NIS hotspots such as ports, harbours, mari- nas and anchoring areas (e.g., Ferrario et al. 2017; Castro et al. 2021a), and ii) the intensity of maritime traffic in the region (Castro et al. 2020; 2022a, b, c). Widely accepted as playing significant roles in the spread and proliferation of NIS and even recorded marine biological invasion events (e.g., Carlton 1987; Carlton et al. 2011; Carlton and Ruiz 2015), these two factors can be considered mandatory to map the risk of invasions and NIS proliferation.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Marine species conservation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Marine species conservation_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the movement of species impact marine reserves?",
+      "answer": "The movement of species over large distances can conflict with the spatial boundaries of a marine reserve, making it difficult for the reserves to effectively protect those species.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2023). Yet practical challenges exist for marine reserves to be successfully implemented. Many species move over large distances as adults or lar - vae, which can be at odds with the spatial boundaries of a reserve (Cowen and Sponaugle 2009 ; Song et al. 2017 ). Furthermore, reserves that produce measurable outcomes require sustainable financing to support staffing and enforce- ment, which can be challenging for low-capacity countries (Grorud-Colvert et al. 2021; Millage et al. 2021). This paper addresses the class of fish stocks that are transboundary those that distribute across two or more exclusive economic zones (EEZs) through adult move- ment or larval dispersal. Transboundary fish stocks are at * Julia M. Lawson jlawson@gmail.com 1 Bren School of Environmental Science & Management, University of California, Santa Barbara, CA 93117, USA 2 Environmental Markets Lab, Bren School of Environmental Science & Management, University of California, Santa Barbara, CA 93117, USA Theoretical Ecology (2025) 18:11 11 particular risk of overexploitation given that fishing nations respond to individual non-cooperative incentives that lead to overly aggressive behavior and over-extraction (Lev - hari and Mirman 1980; Munro et al.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Marine species conservation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Marine species conservation",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Marine species conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Marine species conservation",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Marine species conservation_qna_001",
+      "value": 1
+    }
+  ]
+}

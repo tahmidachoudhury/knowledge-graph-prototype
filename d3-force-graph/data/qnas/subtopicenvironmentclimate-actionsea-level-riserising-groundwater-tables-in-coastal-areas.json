@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas",
+      "label": "Rising groundwater tables in coastal areas",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_000",
+      "group": "QnA",
+      "label": "Natural Hazards",
+      "question": "What caused the increase in hydrostatic load according to the paragraph?",
+      "answer": "The increase in hydrostatic load was caused by soil saturation due to severe rainfall and agricultural activities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " It was also determined that the soils were saturated from a depth of 3.92 m as a result of severe rainfall and agricultural activities, generating an increase in the hydro- static load and therefore in the pore pressure, which resulted to be the main trigger of this catastrophic event. Keywords Landslides Saturation Triggering factors Precipitation Ecuadorian Andes * Lucia Mac as lkms1@alu.ua.es 1 Department of Civil Engineering, University of Alicante, P.O. Box 99, 3080 Alicante, Spain 2 Departamento de Construcciones Civiles, Facultad de Ingenier as y Ciencias Aplicadas, Universidad T cnica de Manab (UTM), Av. Jos Mar a Urbina, 130111 Portoviejo, Ecuador 3 Departamento de Ciencias de La Tierra y de la Construcci n, Universidad de las Fuerzas Armadas ESPE, 171103 Sangolqu , Ecuador 4 School of Geology, Aristotle University of Thessaloniki, 54124 Thessaloniki, Greece 5 Universidad de Especialidades Tur sticas UDET, 170301 Quito, Ecuador Natural Hazards 1 Introduction Landslides, avalanches or mass movements are considered phenomena that occur in vari- ous regions, representing one of the deadliest disasters of natural origin worldwide (Her - ath and Wang 2009; Haque et al.",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Rising groundwater tables in coastal areas",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What factors were considered for assessing GUISE?",
+      "answer": "The factors considered for assessing GUISE included groundwater level above the sea, aquifer thickness, land cover, distance from the coastline, soil clay content, recharge, and distance from rivers.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723018297",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Rising groundwater tables in coastal areas",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Rising groundwater tables in coastal areas_qna_001",
+      "value": 1
+    }
+  ]
+}

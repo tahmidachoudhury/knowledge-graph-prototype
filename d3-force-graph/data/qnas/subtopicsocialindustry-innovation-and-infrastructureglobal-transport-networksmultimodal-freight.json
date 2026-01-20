@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "label": "Multimodal freight",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why have multi-modal models gained interest in recent years?",
+      "answer": "Multi-modal models have gained interest primarily because of their unique ability to process and generate a range of data modalities simultaneously, including vision, audio, and language.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " We then propose potential future research directions to address these limitations. The objective of this paper is to introduce the Multi-Modal Language Model technique to the bioacoustics community and to examine its potential and limitations. Methods Multi-modal Language models Recent years have witnessed a surge of interest in the study of multi-modal models, primarily because of their unique ability to process and generate a range of data modalities simultaneously including vision, audio, and language39,50. Among the various combinations of multi modalities53 55, Multi-Modal Language Models39 43have become especially prominent. These models mainly focus on aligning language concepts with other data modalities (e.g., imagery and audio)39,50, an area of research invigorated by the successes of large language model (LLMs) development44. Traditional supervised learning protocols often struggle with mapping training data to language concepts or semantics39,41. For instance, categorical supervised learning labels data with discrete numerical labels, which often oversimplifies the complex language concepts they aim to represent. Take ImageNet56, one of the most widely applied datasets for image classification, as an example; even though there are 120 categories of dog breeds in the dataset, these categories are indistinguishable from categories such as cars or fish when encoded as discrete labels (Fig.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Multimodal freight",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do Multi-Modal Language Models align language concepts?",
+      "answer": "Multi-Modal Language Models focus on aligning language concepts with other data modalities, such as imagery and audio.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " We then propose potential future research directions to address these limitations. The objective of this paper is to introduce the Multi-Modal Language Model technique to the bioacoustics community and to examine its potential and limitations. Methods Multi-modal Language models Recent years have witnessed a surge of interest in the study of multi-modal models, primarily because of their unique ability to process and generate a range of data modalities simultaneously including vision, audio, and language39,50. Among the various combinations of multi modalities53 55, Multi-Modal Language Models39 43have become especially prominent. These models mainly focus on aligning language concepts with other data modalities (e.g., imagery and audio)39,50, an area of research invigorated by the successes of large language model (LLMs) development44. Traditional supervised learning protocols often struggle with mapping training data to language concepts or semantics39,41. For instance, categorical supervised learning labels data with discrete numerical labels, which often oversimplifies the complex language concepts they aim to represent. Take ImageNet56, one of the most widely applied datasets for image classification, as an example; even though there are 120 categories of dog breeds in the dataset, these categories are indistinguishable from categories such as cars or fish when encoded as discrete labels (Fig.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Multimodal freight",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_002",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How do Multi-Modal Language Models overcome the issues associated with traditional models?",
+      "answer": "They align features of data modalities with language concepts by maximizing feature similarities, which results in a continuous feature space that encodes semantic relationships.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " (a)). Ultimately, this oversimplification leads to artificial decision boundaries within a continuous feature space, complicates the learning of semantic relationships, and often confines the models to predefined label spaces45. In contrast, Multi-Modal Language Models circumvent these limitations by directly aligning features of data modalities with language concepts through maximizing the feature similarities of different data modalities39. This results in a continuous feature space that inherently encodes semantic relationships, thanks to the natural semantic continuity facilitated by the learning process in LLMs. For instance, in Vision-Language Models (a type of Multi-Modal Language Model that aligns vision and language features), the visual features of both the Golden Retriever and Border Collie breeds are compelled to exhibit closer proximity in the feature space, even before the models generalize from visual similarities, due to the presence of language features. This process enables the model to group data from both categories as subspecies of dogs , highlighting their semantic difference from categories like cars. Additionally, the continuous semantic feature space facilitates nuanced recognition and data generation tasks41,42. For example, it becomes feasible to identify unique amalgamated concepts, such as dog- like cars , without requiring dedicated training data, as long as the concepts of dogs and cars are sufficiently represented and appropriately aligned with the language features in the multi-modal feature space.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Multimodal freight",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do Multi-Modal Language Models differ from traditional models in terms of category usage?",
+      "answer": "Multi-Modal Language Models do not rely on fixed sets of predefined categories; instead, they align unique text descriptions to audio samples in a shared feature space.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, all categories must be explicitly defined prior to training and remain unchanged during inference, leading to considerable limitations on the applications of such models in real-world. ( b) Multi-Modal Language Models (Audio-Language Models in this example) align audio embeddings and their corresponding language description embeddings into a shared feature space. This learning paradigm does not rely on fixed sets of predefined categories as text descriptions are usually unique to each audio sample and are not confined to categorical concepts. In the above text description example, not only are concepts of wheel rolling , adults talking , and birds singing encoded, but relational concepts like over footsteps are also encoded and associated with corresponding sounds. ( c) In the absence of categorical labels in training and due to the similarity-based nature of this learning paradigm, we can define a set of text categories during inference ( Bird and Noise in this example) to determine which language embedding of these post-defined categories the audio sample is most similar to. In the above example, the embedding of a bird audio is more similar to the language embedding of the text prompt, This is a sound of Bird.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Multimodal freight",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of concepts are encoded by the Multi-Modal Language Models according to the paragraph?",
+      "answer": "The models encode both specific concepts like wheel rolling and birds singing, as well as relational concepts such as over footsteps.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, all categories must be explicitly defined prior to training and remain unchanged during inference, leading to considerable limitations on the applications of such models in real-world. ( b) Multi-Modal Language Models (Audio-Language Models in this example) align audio embeddings and their corresponding language description embeddings into a shared feature space. This learning paradigm does not rely on fixed sets of predefined categories as text descriptions are usually unique to each audio sample and are not confined to categorical concepts. In the above text description example, not only are concepts of wheel rolling , adults talking , and birds singing encoded, but relational concepts like over footsteps are also encoded and associated with corresponding sounds. ( c) In the absence of categorical labels in training and due to the similarity-based nature of this learning paradigm, we can define a set of text categories during inference ( Bird and Noise in this example) to determine which language embedding of these post-defined categories the audio sample is most similar to. In the above example, the embedding of a bird audio is more similar to the language embedding of the text prompt, This is a sound of Bird.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Global transport networks",
+      "subtopic": "Multimodal freight",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Global transport networks|Multimodal freight_qna_004",
+      "value": 1
+    }
+  ]
+}

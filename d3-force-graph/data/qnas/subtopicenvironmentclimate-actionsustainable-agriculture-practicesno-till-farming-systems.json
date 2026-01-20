@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems",
+      "label": "No-till farming systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has contributed to the increase in atmospheric N2O emissions over the last four decades?",
+      "answer": "The increase in atmospheric N2O emissions is mainly due to soil N2O emissions from agriculture.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Global denitrifica- tion rates have been increased by approximately 20% since preindustrial times (Galloway et al. 2004; Schlesinger 2009) and the N2O emissions as a by-product of denitrification have increased atmospheric concentrations by 2% per decade over the last four decades, mainly due to soil N2O emis- sions from agriculture (Tian et al. 2020). Denitrification is a microbial respiratory process that uses nitrogen species as electron acceptors and involves a cascade of reduction steps from soluble nitrate ( NO3 ) via intermediates ( NO2 , NO, N2O) to gaseous dinitrogen (N2) (Philippot et al. 2007 ; Zumft 1997). Soil denitrification requires the presence of suitable electron donors (e.g. organic carbon), nitrogen spe - cies (mainly nitrate), the shortage of oxygen as the predomi- nant electron acceptor and a microbial community with the metabolic capacity to denitrify (Firestone 1982; Philippot et al. 2007; Robertson and Groffman 2007). The timing and magnitude of N2O emissions are notori- ously difficult to predict, leading to considerable uncertainty in N budgets and ecosystem modelling (Groffman et al.",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "No-till farming systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What measures can help reduce global warming from agriculture?",
+      "answer": "Global warming from agriculture can be reduced by increasing the storage of soil organic carbon and reducing methane (CH4) and nitrous oxide (N2O) emissions while increasing productivity.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2011). The continent also produces 343.2 million tons carbon dioxide equivalent (CO2e) of enteric methane (CH4) emissions from ruminants, compared to 732.5, 206.6, 179.2, 460.4, and 67.6 million tonnes CO2e from Asia, Europe, North America, and Oce- ania, respectively (FAOSTAT 2020). Addressing these challenges is critical for sustainable development and food security in Africa. The goal of reducing GHG emissions is to limit the accumulation of these gases in the atmosphere, which leads to increased radiative forcing (global warming potential). Reduced global warming from agriculture can be achieved by increasing the storage of soil organic carbon, and reduc- ing CH4 and N2O emissions while increasing productivity. Agriculture plays a dual role as both a sink and a source of GHG emissions, with the potential to sequester an esti- mated 4% of global GHG emissions by the end of the cen- tury (Henderson et al. 2022). However, the current under - standing of GHG emissions in sub-Saharan Africa (SSA) is minimal compared with the continent S potential as both a GHG sink and a source (Kim et al.",
+      "macrotopic": "Climate action",
+      "topic": "Sustainable agriculture practices",
+      "subtopic": "No-till farming systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems",
+      "target": "Subtopic:Environment|Climate action|Sustainable agriculture practices|No-till farming systems_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Tech transfer",
+      "label": "Tech transfer",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Tech transfer_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the process referred to as Zero-Shot Transfer?",
+      "answer": "Zero-Shot Transfer is the process of applying a post-defined category to unseen datasets with bird calls, even though the model does not have a specified bird category during training.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Since the model does not have a specified bird category during training, and this post-defined category can be applied to any unseen datasets with bird calls, this process is known as Zero- Shot Transfer39 (Fig. 1(c)). The ability to define categories post-training offers substantially greater flexibility compared to traditional supervised learning approaches, which restrict models to predefined labels45, and unsupervised or self-supervised learning, where models are unable to generate feature spaces linked to semantic or text categories46,47. Moreover, post-defined categories (or text prompts, to be more specific39) are not limited to single categorical definitions. Text prompts can be any combinations of phrases or existing semantics in the LLMs. For instance, they might include This is the sound of an animal mumbling or This is the sound of a bird singing in the Fig. 1 . (a) In conventional supervised learning, input samples are typically mapped to digital labels, often discrete in nature for categorical classification. Each label represents a single category, and there are no inherent semantic relationships encoded within this labeling system.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Tech transfer",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Tech transfer",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Tech transfer_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Flood barriers",
+      "label": "Flood barriers",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Flood barriers_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is one key finding from the research on arced labyrinth weirs?",
+      "answer": "The hydraulic modeling coupled with CFD simulations showed that experimental results deviated from theory, likely due to the geometry obstructing the flow.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Although cases with more complex geometries are less abundant, nevertheless there are 1Norwegian University of Science and Technology, NTNU, Trondheim, Norway. 2Lule University of Technology, Lule , Sweden. 3Vattenfall Research & Development AB, Ivkarleby, Sweden. 4Swedish University of Agricultural Sciences, Ume , Sweden. 5Gunnar I. J. Hellstr m, Leif Lia, Anders G. Andersson, Patrik Andreasson and Elena Pummer contributed equally to this work. email: inils.solheim.smith@ntnu.no OPEN Scientific Reports www.nature.com/scientificreports documented cases of small scale models featuring spillways placed beside other inlets, such as turbine inlets14, or other spillways15. Recently published work on an arced labyrinth weir16 presented hydraulic modelling coupled with CFD simulations, where the experimental results deviated from theory. This deviation was assumed to be due to the geometry leading up to the weir obstructing the flow. Older work of similar character shows how CFD can be an important tool in designing ways to increase discharge capacity, as it allows solutions to be tested before a physical model is built for validation17. Larger experiments to investigate the interference of multiple separate spillways show that a reduction in spillway capacity occurs when two spillway gates are opened at the same time for the same reservoir, with a key factor being shorter distance between spillways reduced total flow18.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Climate-proofing projects",
+      "subtopic": "Flood barriers",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Flood barriers",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Climate-proofing projects|Flood barriers_qna_000",
+      "value": 1
+    }
+  ]
+}

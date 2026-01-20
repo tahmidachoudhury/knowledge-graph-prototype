@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems",
+      "label": "Resilient wastewater systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the study evaluate regarding hydraulic structures and spillway performance?",
+      "answer": "The study evaluates the challenge of angled approach flow, higher discharge magnitudes, and greater approach velocities as significant contributors to adverse conditions affecting these structures' performance.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This study evaluates the challenge of angled approach flow, combined with higher discharge magnitudes and greater approach velocities, as a significant contributor to adverse conditions affecting hydraulic structures and spillway performance. To assess and quantify these effects, a spillway model with multiple parallel outlets was modified and tested under a range of variable parameters, inspired by design variations observed in existing structures. Additionally, the study investigates the influence of pier and abutment design to better understand their combined effects with oblique approach flow. Physical modelling has been the standard method for studies of spillway capacity, since their reliability is considered to be better than mathematical predictions, especially in complex flow conditions6,7 For the case of a single ogee spillway, a multitude of experimental work has been conducted, such as high head spillway experiments with PTV8, theoretical work on modelling spillway crests9, and experimental work on sharp and angled corners of a spillway10. Additionally, earlier work on the subject includes measurements of pressure distribution along a single ogee spillway11 and the capacity of accurate simulations12. Other recent work couples experiments to CFD investigations using various turbulence models, but does so for a straight channel with a downstream obstacle13.",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Resilient wastewater systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What challenges are associated with conventional wastewater treatment and resource recovery systems?",
+      "answer": "Conventional wastewater treatment and resource recovery systems are expensive and energy-intensive due to their high operating and maintenance costs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The widespread usage of fossil fuels during the past century has been cru - cial to the advancement of industrial and commercial devel- opment [ 2]. Due to environmental pollution, population growth, depletion of natural resources, and global warming, humanity has recently faced both an energy and water short- age [3 ]. A large amount of organic carbon molecules and thermal and chemical energy can be found in contaminated water; these chemical or organic carbons were utilized in synthesizing products with added value [4]. Purification is the main objective of conventional wastewater treatment sys- tems instead of recovering resources [5 ]. The most popular biologic method of treatment is activated sludge, however membrane bioreactors and sequential batch reactors are also options [6 ]. Conventional wastewater treatment and resource recovery systems are expensive and energy-intensive due to their high operating and maintenance methods [7 ]. To address resource scarcity and environmental protection issues, there is significant interest in enhancing environmen- tally friendly methods for wastewater treatment and energy production [8]. Energy, alongside water, is important for the survival of civilization.",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Resilient wastewater systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What significant alterations are observed due to high overflow ratios and increased approach velocity?",
+      "answer": "The high overflow ratio and increased approach velocity significantly alter the flow distribution between the outlets and overall spillway performance.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " (a) Part of spillway axis perpendicular to flow direction toward the turbines in Ivkarleby, Sweden. (b) example of spillway axis lateral to flow direction toward the turbines at Lansforsen, Sweden. (c) Large contraction on the left abutment with intake placed close to the spillway at Kaggefoss, Norway. (d) Spillways with large piers placed on the abutment of the channel in Akosombo, Ghana. Map data provided by Google, Lantm teriet/Metria, Airbus and CNES/Airbus. Scientific Reports favourable outflow conditions. These changes, along with the high overflow ratio and increased approach velocity, significantly alter the flow distribution between the outlets and overall spillway performance. This study seeks to investigate how adverse conditions affect discharge capacity, velocity fields and distribution through a multi-outlet spillway. We hypothesize that the changes introduced to the channel will increase the water level in the channel for comparable flows, indicating a reduced spillway capacity due to the increased oblique angle of the incoming flow. Additionally, straightening the piers and abutments of the outlet will impact the spillway capacity negatively, further reducing the capacity for a given water level.",
+      "macrotopic": "Climate action",
+      "topic": "Climate action for resilience",
+      "subtopic": "Resilient wastewater systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems",
+      "target": "Subtopic:Environment|Climate action|Climate action for resilience|Resilient wastewater systems_qna_002",
+      "value": 1
+    }
+  ]
+}

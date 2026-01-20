@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "label": "Smart intersection technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the reported performance improvements when merging models in UDA according to the experimental results?",
+      "answer": "The experimental results demonstrate performance increases of up to 6.8% in mean Intersection over Union (mIoU) when merging different-architecture models with a shared backbone, as well as a 7% increase in mean Precision Quality (mPQ) for merging semantic and panoptic segmentation models.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In response, teacher student distillation has emerged as a standard technique for improving UDA training stability[2,3,16,17]. Although the teacher student framework has proven effective across various UDA setups and alignment losses, the underlying alignment techniques themselves may not share this level of success. Joint application of differ-ent alignment losses has been shown to be challenging and sometimes counterproductive [ 18 20], leading to existing approaches favor model ensembling for leveraging multi-ple alignment strategies, despite its increased computational costs from requiring inference across multiple models [ 16, 21,22]. Model merging presents a promising alternative for over- coming the unstable training dynamics of UDA. By com- bining weights derived from different models and setups, this technique effectively integrates the strengths of variousalignment strategies without incurring additional computa- 123 R. Alcover-Couso et al. Fig. 1 Performance comparison for the UDA Synthia-to-Cityscapes setup. Most state-of-the-art UDA methods build up from DAFormer[3] by adding computationally expensive blocks. In contrast, we lever-age the obtained checkpoints during training to improve performance without incurring any associated training or inference overhead tional overhead. Since parameter merging only requires a single model inference, it offers a computationally ef cient solution [ 23 26].",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Smart intersection technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the proposed method improve segmentation performance in UDA scenarios?",
+      "answer": "The proposed method improves segmentation performance by merging model weights from different datasets and architectures, which increases speed by 3.25 times and enhances performance by up to 6.8% in mean Intersection over Union (mIoU) for merging models from easier to harder tasks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2.2 Training strategies for unsupervised domain adaptation UDA has been widely explored for semantic [ 7,44 46], and panoptic segmentation [ 2,47,48]. Methods based on Deep Learning focus on minimizing source-target differences at feature level [ 44,45] using statistical metrics like maxi- mum mean discrepancy [ 49,50], correlation alignment [ 51, 52], or entropy minimization [ 8,10]. Others employ Adver- sarial training by learning a domain discriminator within a generative adversarial network (GAN) framework [ 53] to enforce domain-invariant inputs [ 54,55], features [ 46, 56 58] or outputs [ 8,9,11]. Lastly, self-training generates pseudo-labels [ 59] for the target domain based on predictions obtained using con dence thresholds [ 6,60,61] or pseudo- label prototypes [ 61,62]. More recent methods based on Transformers tackle noisy training and concept drifting [ 63, 64] by incorporating consistency regularization [ 65,66]t o ensure uniformity across diverse data augmentations [ 67,68], different crops [ 4,69], domain-mixup [ 4,21,70,71]o rc ur - riculum learning [ 7,72]. Currently, enhancing robustness is dominated by the teacher student framework [ 26], where the teacher model is updated via an exponential moving averageof the student weights [ 2 5].",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Smart intersection technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What performance improvements were observed through model merging for different tasks in the experiments presented in the study?",
+      "answer": "The experiments showed performance increases of up to 6.8% in mean Intersection over Union (mIoU) for merging models from different architectures with a shared backbone, and a 7% increase in mean Precision (mPQ) when merging semantic and panoptic segmentation models.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Albeit effective, this frame-work incurs in additional computational costs which limit its scalability and practicality for resource-constrained environ-ments. Overall, since UDA methods primarily focus on aligning frameworks while leveraging common architectures, UDAresearch offers an ideal setting for experimenting with merg-ing techniques. The broad variability of models trained within a shared architecture in UDA offers a rich landscape for research in model merging. 2.3 Leveraging models knowledge Averaging model weights initially boosted neural networktraining by addressing slow algorithms with poor conver- gence rates [ 23,24,26,30]. However, as training method- ologies evolved, averaging ef cacy diminished for linearproblems [ 36], prompting a pivot to output ensembles and ne-tuning strategies. Output ensembles combine predictions from multiple models [ 73,74].Fine-tuning techniques adjust pretrained model weights with minimal training for better task adaptation, enhancing transferability and generalization [75 78]. Research indicates that deeper model layers contain task-speci C Iters, while shallow layers have task-agnostic Iters, suggesting minimal tuning of the latter for best perfor- mance [ 27,31,76,77]. Thus, a layer-speci C model merging approach is essential for effective combination. 2.4 Merging models weights Current merging methods can be applied during training [3,23,28] or post-training [ 29,32,34,35].",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Smart intersection technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What performance improvements were observed when using the proposed model merging method for UDA?",
+      "answer": "The proposed model merging method achieved a performance increase of up to 6.8% in mean Intersection over Union (mIoU) and 7% in mean Precision and Quality (mPQ) for semantic and panoptic segmentation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 5provides insights from the experiments and suggests future directions for research in model merging. 123 Layer-wise model merging for UDA 2 Related work 2.1 Architectures for segmentation tasks Segmentation architectures have transitioned from convolution-based designs to transformer-based frameworks[38]. Along this evolution, researchers have developed uni- versal segmentation methods capable of addressing multi- ple segmentation tasks [ 39], open-vocabulary approaches for segmenting arbitrary categories [ 40] and label-ef cient strategies aimed at reducing annotation demands [ 41]. How- ever, despite these advancements, universal models stilldepend on labeled data from each target task [ 38,39], and open-vocabulary and label-ef cient approaches often underperform compared to specialized task-speci C modelsderived from UDA [ 40,42,43]. Notably, across all archi- tectures, model parameters are learned in a smooth and continuous manner through gradient descent [ 17,37,41]. This continuity allows for parameter merging or stabiliz-ing the learning through techniques like exponential moving average of the weights without disrupting the learned repre- sentations. In the context of UDA, where alignment lossesmay sometimes con ict, parameter merging emerges as a promising strategy. The merging of model weights derived from different UDA methods could leverage their individ-ual strengths to enhance overall segmentation performance, therefore offering a uni ed approach to reconcile variations across methods, tasks and domains.",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Smart intersection technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How did the proposed model merging technique improve performance in UDA tasks?",
+      "answer": "The proposed model merging technique increased the speed of model processing by 3.25 times and achieved performance improvements of up to 6.8% in mean Intersection over Union (mIoU) and 7% in mean Panoptic Quality (mPQ) compared to previous state-of-the-art UDA methods.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Since UDA research often explores a variety of adaptation strategies on a common base architecture, it nat-urally produces multiple sets of learned parameters. Model merging can then use these diverse parameter sets to create a uni ed model that retains the bene cial adaptations of eachapproach. To evaluate our proposal for semantic and panoptic segmentation, we set an extensive baseline by experiment- ing with various model merging methods based on the sameor different datasets and architectures. Our experiments also address two challenges. The rst one aims to incorporate high-performing yet computationally expensive models into faster but less accurate ones. Our proposal increases speedby 3.25 times with performance increases up to 6.8% in mloU. The second challenge is for combining models from easier tasks into harder tasks. Our proposal presents perfor-mance gains of 3.4% in mloU and 7% in mPQ compared to previous state-of-the-art UDA methods for, respectively, semantic and panoptic segmentation (see Fig. 1). Our results are validated across various UDA synthetic-to-real setupsfor multiple strategies (including adversarial, self-training and entropy minimization), architectures (convolutional and transformer based) and datasets (Cityscapes and Mapillary).",
+      "macrotopic": "Smart cities",
+      "topic": "Intelligent transportation systems",
+      "subtopic": "Smart intersection technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies",
+      "target": "Subtopic:Environment|Smart cities|Intelligent transportation systems|Smart intersection technologies_qna_004",
+      "value": 1
+    }
+  ]
+}

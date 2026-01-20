@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges",
+      "label": "Influence on coastal storm surges",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the contribution of this review based on the author's work?",
+      "answer": "This review provides an in-depth, systematic analysis of the empirical evidence on the bank-level impacts of natural hazard shocks and the channels through which banks mediate real economic consequences.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " While these studies provide insights into the real economic impacts of disasters and climate transition risks, existing literature has not made sufficient efforts to understand the complex interactions between physical climate and natural hazard shocks, banks, and the real economy. In the works closest to mine, Zhou et al. (2023) and Duqi (2023) provide excellent but very broad overviews. In particular, Zhou et al. (2023) cover insurance, equity markets, bond markets, international financial flows, and the banking sector, making it suitable as a first introduction to various general aspects of the literature. The textbook of Duqi (2023) provides regulatory context and discusses foundational theories, making it useful for instance for educational purposes. However, due to the scope of these studies, the analyses remain shallow and unstructured and do not systematically cover the intricacies and heterogeneities within the banking sector that are necessary to understand to guide future research and give context-sensitive policy recommendations Therefore, this review contributes an in-depth, systematic analysis of the empirical evidence on the bank-level impacts of natural hazard shocks, and the channels through which banks mediate the real economic consequences.",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Influence on coastal storm surges",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific impacts of storm Gudrun have studies along the eastern shores of the Baltic Sea emphasized?",
+      "answer": "Studies have emphasized coastal storm surges as specific impacts of storm Gudrun.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1A). Notably, research on storm Gudrun has extended beyond forest sciences, encompassing diverse domains such as oceanography, electoral studies, risk preparedness, and entrepreneurship (see Slfor a full list of articles). Furthermore, studies conducted in countries along the eastern shores of the Baltic Sea, have emphasised differentaspects of the storm S impact, such as coastal storm surges. Despite this broad thematic diversity, the largest and most interconnected clusters predominantly comprise articlesrelated to forests (Fig. 1B). Broadness within forest science research The primary 18 forest-related research articles address a diverse range of topics. For instance, these articlesaddressed themes including wind dynamics (Seidl et al. 2014 ), impacts on forests and forest management (Valinger et al. 2019 ), storm effects on bird ecology (Russell et al. 2015 ), colonisation of storm-felled gaps by spruce bark beetles (Schroeder 2010 ), and timber logistics strategies to manage the crisis (Broman et al. 2009 ). Our network map analysis revealed that numerous papers citing those primary 18 Gudrun articles largelyfollowed the thematic trajectories established by the orig- inal works, resulting in eight clusters (Fig.",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Influence on coastal storm surges",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Influence on coastal storm surges_qna_001",
+      "value": 1
+    }
+  ]
+}

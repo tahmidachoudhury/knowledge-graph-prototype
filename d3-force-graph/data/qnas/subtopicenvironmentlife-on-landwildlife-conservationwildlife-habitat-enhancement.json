@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife habitat enhancement",
+      "label": "Wildlife habitat enhancement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife habitat enhancement_qna_000",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "What phenomenon does habitat alteration lead to according to the paragraph?",
+      "answer": "Habitat alteration can lead to Winner-Loser-Replacements (WLRs), where a few winning species outcompete many losing species.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Habitat alteration can lead to a few winning species outcompeting many losing species, an effect commonly termed as Winner-Loser-Replacements or WLRs. This can lead to homogenisation of species assemblages at phylogenetic and functional levels. Most previous studies analyse responses of species abundance without considering natural history traits associated with those species. This study uses fourth corner modelling techniques to investigate the interaction between ecological data and natural history trait information using a herpetofaunal assemblage that includes 19 species of amphib- ians, 28 snakes, and 20 lizards, in Parque Nacional Laguna del Tigre, Guatemala. A total of 120 transects were surveyed using Visual Encounter Surveys, comprising 18 in disturbed habitat, 66 in forest habitat, and 36 in edge habitat respectively. Overall, greater diversity of ecological traits was revealed in forest and edge habitats compared to disturbed habitats at the forest edge close to agricultural land. Models revealed that for amphibians (Hypopachus variolosus and Incilius valliceps) and snakes (Coniophanes schmidtii and Leptodeira septentrionalis), association with bare ground, and in the case of amphib- ians, leaf litter, predicts species persistence in disturbed habitats.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife habitat enhancement",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife habitat enhancement_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does habitat alteration affect species in adjacent intact habitats?",
+      "answer": "Habitat alteration directly affects species in the altered habitat and indirectly affects species in adjacent intact habitats.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Continued forest fragmentation in the region will result in increased edge effects, and a greater proportion of forest remaining in an early successional state, leading to a highly reduced, homogenized, amphibian and reptile assemblage. Using such models for community assemblages of animals to reveal the identity of WLR patterns in forests with continued fragmentation is a useful tool to reveal which species are at risk of impact before habitats become degraded. Keywords Functional ecology Reptile Amphibian Change in land-use GLLVM Winner/loser replacements Introduction Habitat alteration is one of the most widespread causes of biodiversity loss, directly affecting the species occurring in the altered habitat, as well as indirectly affecting species in adjacent intact habitat (Laurance 2008). The loss of natural habitat resulting from a change in land use often creates unnatural forest edges. In tropical forests, the vegetation of so-called edge habitat is often kept in an early successional state, with a highly altered habitat structure and reduced diversity of species, trait diversity, and ecosystem functions (Taberelli and Lopes 2008; P tz et al. 2011). This reduction in diversity is often driven by increases of native general- ist species rather than by invasion of non-natives, through Winner-Loser Replacements, or WLRs, where so called los - ing species are replaced by winning species (Tabarelli et al.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife conservation",
+      "subtopic": "Wildlife habitat enhancement",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife habitat enhancement",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife habitat enhancement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife habitat enhancement",
+      "target": "Subtopic:Environment|Life on land|Wildlife conservation|Wildlife habitat enhancement_qna_001",
+      "value": 1
+    }
+  ]
+}

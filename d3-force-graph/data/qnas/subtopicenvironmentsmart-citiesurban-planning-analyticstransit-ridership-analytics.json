@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Transit ridership analytics",
+      "label": "Transit ridership analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Transit ridership analytics_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What sources were used to gather data for understanding the problem situation in the passenger transport sector?",
+      "answer": "The sources used to gather data included the Austrian Climate Report, Mobility Report, and Mobility Master Plan.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S1361920924000385",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Transit ridership analytics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Transit ridership analytics",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Transit ridership analytics_qna_000",
+      "value": 1
+    }
+  ]
+}

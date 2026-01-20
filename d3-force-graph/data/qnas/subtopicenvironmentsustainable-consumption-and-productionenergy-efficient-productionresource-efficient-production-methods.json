@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Resource-efficient production methods",
+      "label": "Resource-efficient production methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Resource-efficient production methods_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How do companies benefit from on shoring production in terms of lead times and production efficiency?",
+      "answer": "Companies benefit from on shoring production by minimizing lead times and streamlining the production process, allowing for quicker turnaround times and more efficient manufacturing processes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652618327872",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Resource-efficient production methods",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Resource-efficient production methods_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does aiming for a material utilization rate of 80-90% impact the overall efficiency of denim production?",
+      "answer": "Aiming for a material utilization rate of 80-90% minimizes material wastage during production, leading to higher efficiency and cost savings.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652624007261",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Energy-efficient production",
+      "subtopic": "Resource-efficient production methods",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Resource-efficient production methods",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Resource-efficient production methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Resource-efficient production methods",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Energy-efficient production|Resource-efficient production methods_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Household hazardous waste",
+      "label": "Household hazardous waste",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Household hazardous waste_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What items fall under the Absolute Hazardous classification?",
+      "answer": "The Absolute Hazardous category comprises absorbents, filter materials, protective clothing, Ni-Cd batteries, and discarded equipment containing hazardous components.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2405844023085602",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Household hazardous waste",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Household hazardous waste_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What three primary barriers to household demand-side management (DSM) programs are identified in the literature review?",
+      "answer": "The three primary barriers are: 1) a perceived tension between DSM technology as a masculine domain and the home as a feminine domain, 2) low-income households facing challenges in accessing necessary technology, and 3) insufficient consideration of disparities in opportunities for youth and the elderly to participate in DSM programs.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Granting permissions has important social and political implications inso- far as DSM requires users to modify their practices. The social licences to automate concept gives us three key boundaries: legitimacy for acceptance, credibility for approval, and trust for psychological identifica- tion with the DSM. In this way, DSM is not merely a question of personal choice but is rather the subject of social conditions required by community stakeholders to address these three barriers of boundaries to gain social license (Boutilier & Thompson, 2011). One of the current limitations of the social license to auto- mate is that it lacks a means to understand the com- plex, social situatedness of energy users. To bridge this gap, we combine the social license to automate with an intersectional analytical sensitiv - ity that foregrounds the complex identities of social subjects. When combining SLA with intersectional- ity, we gain the means to analyse the potentially over - lapping ways in which social inequality is produced and reproduced in household contexts and through energy transitions. This is of particular interest to a field like STS where techno-experiences are best understood as shaped by various enactments of gen- der, class, race, age and disability (Moser, 2006).",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Waste reduction strategies",
+      "subtopic": "Household hazardous waste",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Household hazardous waste",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Household hazardous waste_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Household hazardous waste",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Waste reduction strategies|Household hazardous waste_qna_001",
+      "value": 1
+    }
+  ]
+}

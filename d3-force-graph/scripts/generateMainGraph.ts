@@ -10,7 +10,7 @@ import type {
   SubtopicNode,
   GraphLink,
   MainGraphData,
-} from "../src/types/graph.types";
+} from "../src/lib/types/graph.types";
 
 // ============================================================================
 // Configuration

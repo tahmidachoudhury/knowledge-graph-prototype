@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems",
+      "label": "Cathodic protection systems",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is required when the cathode lining of a Hall-Héroult cell is worn-out?",
+      "answer": "It needs to be relined with new cathode lining materials.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Box 4760 Torgarden, NO-7465Trondheim, Norway. Contact e-mail: camilla.sommerseth@sintef.noPER ANDERS EIDEM and PAVEL STRA NSKY are with the SINTEF Helgeland AS, P.O. Box 1364, NO-8602 Mo i Rana, Norway. ELLEN MYRVOLD is with the Alcoa Norway, Postboks 750, NO-8651 Mosj en, Norway. EIRIK HAGEN is with the HydroAluminium AS, P.O. Box 1128, NO-3905 Porsgrunn, Norway.LORENTZ PETTER LOSSIUS is with the Hydro Aluminium AS,P.O. Box 303, NO-6882 A rdal, Norway. ANDERS S RHUUS is with the REEL Norway AS, Drammensveien 165, 277 Oslo, Norway. Manuscript submitted November 20, 2024; accepted February 5, 2025. METALLURGICAL AND MATERIALS TRANSACTIONS B depending on the design of the aluminum reduction cell. The anodes are continuously consumed and need replacement approximately every 2 4 weeks dependingon anode size and current density. [4,5 2AI 203diss 3C S 4AI 1 3CO 2g 1/C138 The lifetime of a modern Hall He roult cell is typically around 2000 days and is limited by the cathode wear. [6] When the cathode lining is worn-out, it needs to be relined with new cathode lining materials.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Cathodic protection systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is spent potlining (SPL) and how much is generated for every metric ton of aluminum produced?",
+      "answer": "Spent potlining (SPL) is the worn-out cathode lining from aluminum production, and it is estimated that approximately 25 kg of SPL is generated for every metric ton of aluminum produced.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The worn-out cathode lining is termed as spent potlining (SPL). It is estimated that ca. 25 kg of SPL is generated for everymetric ton aluminum produced. [7]however, this number can vary between aluminum producing industrial sites depending on the lifetime of the cells, the design, the degree of cleaning before and sorting while deconstruct-ing a spent cell, and the degree of reuse of the steel casing. The estimated global yearly production of SPL was around 1.42 million metric tons in 2020 and theestimated forecast in 2050 is 1.85 million metric tons. [8] The carbon rich part of SPL is called rst cut , while the refractory and insulation materials are called sec-ond cut The graphitized carbon structure of SPL is contam- inated with cryolitic electrolyte remains, intercalatedsodium metal, Na (C), and cyanides. Sodium is formedas a parasitic reaction on the cathode. Electrolyte and metal penetration cause reactions occurring in the lining materials and Lossius and ye have summarized thereactions occurring within the rst cut SPL as given in Eqs. [ 2] through [ 14]: [9] 6NaF Al I Na3AIF 6l 3Na C 2/C1381=202g Cs CO g 3/C138 9=2CO g 3Na C 3=2Na 2CO 3 3C S 4/C138 3=2N2g 3Na C 3C S 3NaCN I 5/C138 3=4Na 3AIF 6l 3=2CO g 3Na C 3=4NaAIO 2s 9=2NaF I 3=2C S 6/C138 3=4N a 3AIF 6l 3=2Na 2CO 3I 1:5C S 3CO g 3=4NaAIO 2s 9=2NaF I 7/C138 Na3AIF 6l 1=2N2g 3Na C 3=2AIN S 9NaF I 3=2C S 8/C138 3=2Na 3AIF 6l 3=2NaCN I 3Na C 3=2AIN S 9NaF I 3=2C S 9/C138 3AI 203s 3=2NaCN I 3Na C 9=2NaAIO 2s 3=2AIN S 3=2C S 10/C138 Fig.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Water infrastructure",
+      "subtopic": "Cathodic protection systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Water infrastructure|Cathodic protection systems_qna_001",
+      "value": 1
+    }
+  ]
+}

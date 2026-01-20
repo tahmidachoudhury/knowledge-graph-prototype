@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology",
+      "label": "Marine biotechnology",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the potential application of halophilic PPB as indicated in the findings?",
+      "answer": "The findings suggest that halophilic PPB have untapped potential as bio-platforms for sustainable pharmaceutical production.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Through a compre- hensive literature review, we compiled a list of halo- philic PPB and mined their genomes for genes linked to CO /CO utilization as carbon sources. Further genomic search revealed genes encoding enzymes for ectoine/hydroxyectoine, proline, ubiquinone, and carotenoids (lycopene, -carotene, spirilloxanthin, and spheroidene). We identified 276 genomes of PPB with the genomic potential to valorise CO /CO into health-promoting ingredients, highlighting 22 spe- cies capable of producing three or more chemicals simultaneously. These findings highlight the untapped potential of halophilic PPB as bio-platforms for sus- tainable pharmaceutical production.Supplementary Information The online version contains supplementary material available at https:// doi. org/ 10. 1007/ s11157- 25- 9722-w . S. Stegman (*) Australian Centre for Water and Environmental Biotechnology, The University of Queensland, Brisbane, QLD 4072, Australia e-mail: samuel.stegman@uva.es S. Stegman E. Huang-Lin R. Lebrero S. Cantera (*) Institute of Sustainable Processes, University of Valladolid, Dr. Mergelina S/N., 47011 Valladolid, Spain e-mail: sara.cantera@uva.es S. Stegman E. Huang-Lin R. Lebrero S. Cantera Department of Chemical Engineering and Environmental Technology, University of Valladolid, Dr. Mergelina S/N., 47011 Valladolid, Spain C. Melkonian D. Tamarit Theoretical Biology and Bioinformatics, Utrecht University, 3584CH Utrecht, The Netherlands C. Melkonian Bioinformatics Group, Wageningen University, Droevendaalsesteeg 1, 6708 PB Wageningen, The Netherlands Rev Environ Sci Biotechnol Vol:.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine biotechnology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is cell-based meat and seafood made, and what is the process involved in producing it?",
+      "answer": "Cell-based meat and seafood are made by harvesting stem cells from living animals or extracting muscle strands from fish, molluscs, or crustaceans. These cells are then inoculated in a nutrient-dense media and transferred to a bioreactor for cell proliferation. For plant-based products, the desired protein is extracted and inserted into the DNA of a host organism before being transferred to a bioreactor.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S019566632302487X",
+      "paragraph": "",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine biotechnology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role does the Agricultural Genomics Institute at Shenzhen play in marine science?",
+      "answer": "It hosts the Key Laboratory of Synthetic Biology of the Ministry of Agriculture and Rural Affairs, contributing to marine scientific research.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " R. China 2Shandong Technology Innovation Center of Algae and Sea Cucumber, Shandong Oriental Ocean Sci-Tech Co., Ltd, Yantai 264003, Shandong, P. . R. China 3Provincial Key Laboratory of Marine Seed Industry of Shandong, Shandong Oriental Ocean Sci-Tech Co., Ltd, Yantai 264003, Shandong, P R. China 4Yantai Marine Economic Research Institute, Yantai 264006, Shandong, P R. China5Key Laboratory of Marine Genetics and Breeding of Ministry of Education, OUC, Qingdao 266003, P . R. China 6School of Marine Science and Engineering, Qingdao Agriculture University, Qingdao 266109, P . R. China 7Key Laboratory of Synthetic Biology of Ministry of Agriculture and Rural Affairs, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen 518120, P . R. China 8Provincial Key Laboratory of Marine Seed Industry of Shandong, College of Marine Life Sciences, Ocean University of China, Qingdao 266003, P. . R. China 9Institutes of Evolution and Marine Bioaffiliationersity, OUC, Qingdao 266003, P . R. ChinaAbstract Saccharina japonica has been cultivated in China for almost a century. From Dalian to Fujian, the lowest and the highest seawater temperatures in the period of cultivation increased by 14 and 8 , respectively.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean research",
+      "subtopic": "Marine biotechnology",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology",
+      "target": "Subtopic:Environment|Life below water|Ocean research|Marine biotechnology_qna_002",
+      "value": 1
+    }
+  ]
+}

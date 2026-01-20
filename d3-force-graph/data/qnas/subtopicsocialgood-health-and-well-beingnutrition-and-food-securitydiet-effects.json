@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects",
+      "label": "Diet effects",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What health concerns are associated with ultra-processed dietary patterns?",
+      "answer": "Ultra-processed dietary patterns are associated with multiple adverse health outcomes, including obesity, type-2 diabetes, cardiovascular disease, and mental health disorders.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " system challenges (Candel 2014). One such challenge is the rise of ultra-processed foods (UPFs) in human diets (Baker et al. 2020). UPFs are defined as formulations of ingredients, mostly of exclusive industrial use, typically created by series of industrial techniques and processes . Examples include soft drinks, confectionery, many mass produced breads, biscuits, sweetened breakfast cereals, fla- voured yoghurts, reconstituted meat products, and many commercial baby foods (Monteiro et al. 2019). Growth of the ultra-processed dietary pattern occurred first in high-income countries but is now growing rapidly in middle and low-income countries, as the industry has glo- balized and pursued new growth opportunities in emerg- ing markets (Baker et al. 2020; Popkin and Ng 2022). This raises serious concerns for global health, given a large and growing body of evidence showing associations between the ultra-processed dietary pattern with multiple adverse health outcomes, including obesity, type-2 diabetes, cardiovascular disease and mental health disorders (Elizabeth et al. 2020; Lane et al. 2024). The production of UPFs also harms the environment, including through biodiversity losses linked with commodity ingredient production, and plastic packag- ing waste (Fardet and Rock 2020; Anastasiou et al.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Diet effects",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the potential adverse consequences associated with high and excessive production and consumption of UPFs and ASFs?",
+      "answer": "The adverse consequences include the substitution of healthier foods and eating patterns, the reinforcement of socio-economic and environmental injustice, and increased risks for diet-related chronic diseases.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " While most previous analyses treat UPFs and intensively produced ASFs as distinct policy challenges, often coupled with consumer-targeted policy responses, this paper centres financialisation as a key driver of their entrenchment within broader food systems. Thus, this commentary seeks to offer a structural critique that identifies pathways for transformative policy and collective actions. UPFs and intensive ASFs are often tasty, convenient, culturally entrenched and, in some cases, can provide nutritional benefits (Chiles and Fitzgerald 2018; Knowles 2022; Mon- teiro et al. 2013). However, high and excessive production and consumption of these foods are associated with the substitution of healthier foods and eating patterns, as well as vari- ous other adverse consequences, including the reinforcement of socio-economic and envi- ronmental injustice. In relation to diets high in UPFs, evidence links them with increased risks for diet-related chronic diseases, including common mental health disorders such as anxiety and depression (Elizabeth et al. 2020; Lane et al. 2024). High intake of ASFs (including, but not limited to, ultra-processed meat and dairy) is similarly associated with risks for cardiovascular disease and some cancers (albeit with less scientific consensus), while the intensive production of ASFs is linked to the spread of antimicrobial resistance (AMR) and zoonotic disease outbreaks due to high-density farming conditions and the use of antibiotics to sustain productivity (WHO 2023) While both types of foods (UPFs and ASFs) generate ecological harm, their environ- mental impact patterns vary in some ways.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Nutrition and food security",
+      "subtopic": "Diet effects",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects",
+      "target": "Subtopic:Social|Good health and well-being|Nutrition and food security|Diet effects_qna_001",
+      "value": 1
+    }
+  ]
+}

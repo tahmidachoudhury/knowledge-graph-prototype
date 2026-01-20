@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Extended producer responsibility in energy",
+      "label": "Extended producer responsibility in energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Circular economy energy|Extended producer responsibility in energy_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do regulations targeted at consumption compare to those targeted at production in terms of their effects on the development of CEMS?",
+      "answer": "Regulations targeted at consumption have a greater effect on the development of CEMS compared to those targeted at production, indicating a focus on consumption as an important driver due to the risks posed by production.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723006941",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Circular economy energy",
+      "subtopic": "Extended producer responsibility in energy",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Circular economy energy|Extended producer responsibility in energy",
+      "target": "Subtopic:Environment|Clean energy|Circular economy energy|Extended producer responsibility in energy_qna_000",
+      "value": 1
+    }
+  ]
+}

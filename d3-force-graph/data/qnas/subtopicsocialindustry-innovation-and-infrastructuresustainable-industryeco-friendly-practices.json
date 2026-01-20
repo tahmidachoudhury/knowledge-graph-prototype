@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices",
+      "label": "Eco-friendly practices",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the most common performance goal among the companies in the group when it comes to green practices?",
+      "answer": "Among the companies in the group, the most common performance goal is to reduce the use of harmful materials. This is reported as happening \"always\" in 19 companies and \"often\" in 3 companies.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Eco-friendly practices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What were the response options provided to respondents in the company version regarding implementing green practices?",
+      "answer": "Respondents who answered \"yes\" were provided with a list of specific practices to choose from that they were willing to implement in the future.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2352550922002056",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Eco-friendly practices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Eco-friendly practices_qna_001",
+      "value": 1
+    }
+  ]
+}

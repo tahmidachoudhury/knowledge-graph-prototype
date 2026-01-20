@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Smart grid technology",
+      "label": "Smart grid technology",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Smart grid technology_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the key components of a smart grid according to IkÃƒâ€šÃ‚Â¨aheimo et al., 2018?",
+      "answer": "According to IkÃƒâ€šÃ‚Â¨aheimo et al., 2,018 the key components of a smart grid include advanced detecting, monitoring, control, and two-way interactions integrated into the power grid.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "subtopic": "Smart grid technology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Smart grid technology_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the key components of a smart grid system according to Anaheim et al., 2018?",
+      "answer": "According to Anaheim et al., 2,018 the key components of a smart grid system include advanced detecting, monitoring, control, and two-way communication integrated into the power grid.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Resilient infrastructure",
+      "subtopic": "Smart grid technology",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Smart grid technology",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Smart grid technology_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Smart grid technology",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Resilient infrastructure|Smart grid technology_qna_001",
+      "value": 1
+    }
+  ]
+}

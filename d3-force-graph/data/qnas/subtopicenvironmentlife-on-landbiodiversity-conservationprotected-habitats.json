@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats",
+      "label": "Protected habitats",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What types of habitats does Lycaena tityrus inhabit?",
+      "answer": "Lycaena tityrus inhabits humid to moderately dry locations such as low-intensity grassland, alpine meadows, sandy heathland, bogs, and forest edges.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The altitudinal distribution of L. tityrus subalpinus ranges from 1200 to 2500 m a.s.l. (Tolman and Lewington 2008). Lycaena tityrus inhabits humid to moderately dry loca- tions such as low-intensity grassland, alpine meadows, sandy heathland, bogs, and forest edges (Ebert and Rennwald 1991; Br u et al. 2013 ). It uses different species of sorrel (Rumex spec., Polygonaceae) as larval host plant (Ebert and Rennwald 1991; Tolman and Lewington 2008). The primary hostplant is Rumex acetosa L., which is a perennial herb containing a variety of primarily non-nitrogenous secondary compounds, especially oxalic acids (Korpelainen and Pie- til inen 2020 ). Adults are rather opportunistic nectar feeders, using a wide array of plants (Ebert and Rennwald 1991). Lycaena tityrus has suffered substantial population losses due to grassland intensification, meadow conversion, and afforestation in recent decades (Br u et al. 2013). It is pro- jected to shift its distributional range northward and upward due to anthropogenic climate change (Settele et al. 2008). Oecologia (2025) 207:51 51 Population sampling For this study, we collected in 2022 fecund females from four replicated low-altitude populations in northeastern and western Germany (L. tityrus tityrus; Greifswald, coor - dinates: 54.5 N, 13.44 E; Altwarp: 53.74 N, 14.26 E; Pottum: 50.59 N, 8.0 E; Westerburg: 50.54 N, 7.97 E; altitudinal range 0 420 m a.s.l.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Protected habitats",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "Why are private lands like gardens considered important for biodiversity conservation in Australia?",
+      "answer": "Private lands such as gardens provide essential habitats that can serve as refuges for biodiversity, particularly birds, especially in areas where public protected areas are insufficient.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2023; Humphrey et al. 2023). These birds can survive in urban settings, espe- cially older suburbs with mature vegetation. Research also supports the notion that some urban exploiters may themselves pose a barrier to adaptors persisting in urban settings; where noisy miners are consistently found to have a negative influence on the presence of many other less aggressive species (Maron et al. 2013; Davis et al. 2015; Campbell et al. 2022; Humphrey et al. 2023, 2024). With continued growth in greenfield and infill urban development, urban adaptors will likely decline in many urban landscapes (Thomson et al. 2022); the design of which tends to favour urban exploiters. This has been and continues to pose a threat to many spe- cies resulting in increased fragmentation and population declines and is a trend observed beyond the Australian context (Aronson et al. 2014). The ability for urban adaptors to per - sist will strongly depend on the actions and behaviours of urban residents. In this paper we seek to broaden and integrate the discussion on how urban gardens can best support birds beyond plant species selection alone, with an emphasis on accommodat- ing urban adaptors.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Protected habitats",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Protected habitats_qna_001",
+      "value": 1
+    }
+  ]
+}

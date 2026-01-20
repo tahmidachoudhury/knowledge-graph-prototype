@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Design thinking",
+      "label": "Design thinking",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Design thinking_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "Why are critical and creative thinking important in the context of AI and education?",
+      "answer": "Critical and creative thinking are essential for fostering innovation and developing inclusive, diverse, and equitable solutions for society as AI becomes an integral part of daily life.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " This study specifically looks at drivers and challenges faced by underserved stu- dents with emerging technologies such as Al, positioning them as not only consumers but also innovators and problem solvers for a sustainable future (Vinuesa et al., 2020). International Journal of Artificial Intelligence in Education Building on Vygotsky S (1978) sociocultural theory, which emphasises learning through social interaction and cultural tools, we examine how students develop AI competencies through collaborative knowledge construction and guided participation. The ability to adapt and co-create in the face of AI advancements is critical for both educators and life- long learners (Santana & D az-Fern ndez, 2023a, 2023b). Moreover, critical and crea- tive thinking is essential for fostering innovation and developing inclusive, diverse, and equitable solutions for society. As AI becomes an integral part of daily life (Miao, 2022), scientific, digital, and informational multiliteracies along with an understanding of eth- ics and sustainability are key. Transversal skills are essential for collaborative, interdis- ciplinary learning, enabling individuals to thrive in a world shaped by rapid technologi- cal evolution (Sofia et al., 2023; Kaplan & Haenlein, 2019).",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Design thinking",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Design thinking_qna_001",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How does speculative design intersect with material culture and enable new understandings of sociocultural conditions?",
+      "answer": "Speculative design intersects with material culture by creating fictional ideas that materialize new understandings of sociocultural conditions, sparking discussions and reflections on society.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784322000109",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Innovation promotion",
+      "subtopic": "Design thinking",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Design thinking",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Design thinking_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Design thinking",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Innovation promotion|Design thinking_qna_001",
+      "value": 1
+    }
+  ]
+}

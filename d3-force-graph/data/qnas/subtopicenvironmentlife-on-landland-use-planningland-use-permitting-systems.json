@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use permitting systems",
+      "label": "Land use permitting systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Land use permitting systems_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What principle does the system operate on regarding the granting of operational permits?",
+      "answer": "The system grants operational permits based on how predicted negative impacts will be mitigated or whether additional requirements are fulfilled, following the polluter pays principle.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In this system, operational permits are granted, depending on how the predicted negative impacts will be mitigated or whether additional requirements are ful Iled (i.e., paying for the damage according toa polluter pays principle ). Installations covered under the IED Directive amount to more than 50,0 in the EU. The IED covers the largest emitters of GHG in the EU, yet GHG emission limit values are currently excluded for installations falling under the 123 Prevention rst vs.cap-and-trade policies. Emissions Trading System Directive (ETSD), according to Art. 9 IED, presumably in order to avoid duplicate regulation. Such a gap in the legislation and the fear it could hinder climate policy effectiveness have led a number of environmental associations and think tanks, such as ClientEarth and CarbonMarketWatch, among others, to advocate the inclusion of GHG emission limits in the IED.2This would implement the prevention rst principle for GHG emissions and exploit the complementarities between the cap-and-trade principle and the prevention principle (see e.g., Reis et al. 2022 ). Still, these regulations may as well increase the time, costs, and risks associated with opening and operating a business.",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Land use permitting systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Land use permitting systems",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Land use permitting systems_qna_000",
+      "value": 1
+    }
+  ]
+}

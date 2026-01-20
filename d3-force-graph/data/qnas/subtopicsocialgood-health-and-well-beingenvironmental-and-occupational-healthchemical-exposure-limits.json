@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits",
+      "label": "Chemical exposure limits",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many distinct test runs were conducted, and what were their DEET concentrations?",
+      "answer": "Three distinct test runs were conducted with DEET concentrations of T1 (5 mg/L), T2 (10 mg/L), and T3 (25 mg/L).",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Two distinct experimental runs were conducted to evaluate removal potential: control runs (without DEET) and test runs (with DEET). The test runs included T1 (5 mg/L), T2 (10 mg/L), and T3 (25 mg/L), all performed in a 250- mL Erlenmeyer flask containing 100 mL of BG-11 algal medium inoculated with Chlorella vulgaris during the growth phase. experimental configuration. Removal studies were con - ducted in an algal growth chamber equipped with an incubating orbital shaker operating at 120 rpm and a light intensity of 2000 Ix, following a 12-h light/12-h dark cycle at a temperature of 30 1 C until the algal species reached the death phase of their growth cycle. Determination of algal growth and pigments A light microscope with total magnification of 40 and a Neubauer hemocytometer was used to evaluate algal growth based on the cell density under both test and con - trol conditions. The growth rate ( ) was computed using Eq. (1) [25, 26]: where Cell Densityf and Cell Densityi are the cell density computed tf (final) and ti (initial).",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Chemical exposure limits",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the typical concentration range of DEET in insect repellent products?",
+      "answer": "The concentration of DEET in products typically ranges between 5 and 99%.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " T1 conditions resulted in more significant lipid formation than other test runs, making biofuel for DEET-contaminated wastewater a feasible alternative. Keywords Chlorella vulgaris, DEET, Acute toxicity, Biochemical composition, Removal Introduction N,N-Diethyl-m-toluamide (DEET) is the main ingredi - ent used in products such as lotions, sprays, and mate - rials (towelettes and roll-ons) as insect repellent. DEET is very effective in deterring the biting of arthropods (mosquitoes and ticks). A third of American adults use DEET to protect themselves from mosquito-borne ill - nesses such as malaria, zika virus, Lyme disease, spotted fever, and the Nile virus [1, 2]. The DEET concentration in the products typically ranges between 5 and 99%, and it is approved for skin applications, not for ingestion, and is not employed in food-related contexts [3]. DEET functions by impeding the olfactory perception of these hematophagous insects toward the human scent. Follow - ing its initial development by the United States Army in 1946, DEET was subsequently licensed for civilian use in 1957 [4].",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Chemical exposure limits",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Chemical exposure limits_qna_001",
+      "value": 1
+    }
+  ]
+}

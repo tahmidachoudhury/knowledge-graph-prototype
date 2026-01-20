@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Educational technology",
+      "label": "Educational technology",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Quality education"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Quality education|Educational technology_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does AI influence the way information is accessed and processed in education?",
+      "answer": "AI transforms how we access and process information, driving innovation and redefining communication, which necessitates ongoing adaptation from learners and educators.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Keywords Artificial Intelligence in Education CARE-KNOW-DO Open schooling Sustainable Development Goals Cross-national study UNESCO Al Competency Framework Introduction Empirical studies examining how AI in school education can enhance real-life problem solving and decision making for a sustainable world remain limited, particularly regard- ing underserved communities. The growing relevance of \"transversal skills\" (UNE- SCO, 2014; Hart et al., 2021) stems from the need to prepare young people in schools not only for academic success but also for personal life and careers in an Al-driven world. These competencies are vital for shaping a sustainable future, especially when addressing the Sustainable Development Goals SDGs (UNESCO, 2017, 2018). These developments necessitate an educational approach that emphasises universal skills within a sustainability framework. Transversal skills including adaptability, creativity, communication, collaboration, and critical thinking have become even more crucial as AI increasingly integrates into our lives (Sofia et al., 2023). AI not only transforms how we access and process information but also drives innovation and redefines com- munication, underscoring the need for both learners and educators to continually adapt through critical, creative, and collaborative thinking (Zhang and Aslan, 2021).",
+      "macrotopic": "Quality education",
+      "topic": "Quality education",
+      "subtopic": "Educational technology",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Quality education|Educational technology",
+      "target": "Subtopic:Social|Quality education|Quality education|Educational technology_qna_000",
+      "value": 1
+    }
+  ]
+}

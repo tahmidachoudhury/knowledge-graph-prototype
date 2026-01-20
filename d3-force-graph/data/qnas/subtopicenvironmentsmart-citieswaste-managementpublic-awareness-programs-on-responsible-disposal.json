@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Public awareness programs on responsible disposal",
+      "label": "Public awareness programs on responsible disposal",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Public awareness programs on responsible disposal_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How have project team members benefited from the results of EHS RM implementation?",
+      "answer": "Project team members have gained greater awareness of risks associated with hazardous waste management and a better understanding of possible actions to achieve Sustainable Consumption and Production (SCP) targets.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2405844023085602",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "subtopic": "Public awareness programs on responsible disposal",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Waste management|Public awareness programs on responsible disposal",
+      "target": "Subtopic:Environment|Smart cities|Waste management|Public awareness programs on responsible disposal_qna_000",
+      "value": 1
+    }
+  ]
+}

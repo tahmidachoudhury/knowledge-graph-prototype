@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Constructed wetlands",
+      "label": "Constructed wetlands",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Constructed wetlands_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Can you give an example of an urban wetland that serves as an EcoHaven Oasis?",
+      "answer": "The Inciralti-Cakalburnu Urban Wetland (ICUW) in Izmir, Turkey, exemplifies an EcoHaven Oasis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These eco- systems provide diverse services, including water purification, flood control, and biodiversity support, while enhancing climate resilience. Found in vari- ous forms such as freshwater marshes, ponds, and tidal wetlands urban wetlands act as transitional ecosystems that interface between land and water, where complex hydrogeochemical processes regulate water quality (Ramsar, 2018; P rez-Belmont et al., 2019; Zhan et al., 2020; Barrientos-Medina et al., 2021). These wetlands, particularly those within densely populated areas, are characterized by altered hydrology, smaller size, and proximity to human infrastructure. This study introduces the concept of \"EcoHaven Oasis\" to redefine urban wetlands as multifunctional sanctuaries within cities. The term \"Oasis\" empha- sizes the wetlands function as refuges that offer environmental relief amidst the pressures of urbaniza- tion. Urban wetlands not only regulate water quality and mitigate pollution but also enhance biodiversity, contribute to carbon storage, and strengthen urban resilience against challenges like extreme weather events, air pollution, and habitat loss. The Inciralti- Cakalburnu Urban Wetland (ICUW) in Izmir, Turkey, exemplifies an EcoHaven Oasis, demonstrating how such ecosystems can alleviate ecological pressures in rapidly urbanizing regions.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Constructed wetlands",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Constructed wetlands",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Constructed wetlands_qna_000",
+      "value": 1
+    }
+  ]
+}

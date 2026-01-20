@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices",
+      "label": "Overtopping devices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What previous work has been conducted on single ogee spillways?",
+      "answer": "A multitude of experimental work has been conducted, including high head spillway experiments, theoretical modeling of spillway crests, and measurements of pressure distribution along a single ogee spillway.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This study evaluates the challenge of angled approach flow, combined with higher discharge magnitudes and greater approach velocities, as a significant contributor to adverse conditions affecting hydraulic structures and spillway performance. To assess and quantify these effects, a spillway model with multiple parallel outlets was modified and tested under a range of variable parameters, inspired by design variations observed in existing structures. Additionally, the study investigates the influence of pier and abutment design to better understand their combined effects with oblique approach flow. Physical modelling has been the standard method for studies of spillway capacity, since their reliability is considered to be better than mathematical predictions, especially in complex flow conditions6,7 For the case of a single ogee spillway, a multitude of experimental work has been conducted, such as high head spillway experiments with PTV8, theoretical work on modelling spillway crests9, and experimental work on sharp and angled corners of a spillway10. Additionally, earlier work on the subject includes measurements of pressure distribution along a single ogee spillway11 and the capacity of accurate simulations12. Other recent work couples experiments to CFD investigations using various turbulence models, but does so for a straight channel with a downstream obstacle13.",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy",
+      "subtopic": "Overtopping devices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of spillway is the focus of the experiments in this study?",
+      "answer": "The focus of the experiments is on an ogee-shaped spillway with three outlets.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For hydraulic structures constructed in natural rivers, common in Norwegian and Swedish hydropower systems, the topography and bathymetry may impose limitations on this design. dams in Sweden, Norway, and the Akosombo dam in Ghana. In these examples, spillways are positioned either perpendicular or at an oblique angle to the main flow leading toward the turbine intakes. main flow direction leading toward the intakes as a blue arrow, while the spillway direction is shown as a red arrow. Existing literature reveals a noticeable knowledge gap in reporting flow distribution across spillways and the effects of adverse conditions on spillway capacity. One aim of this study is to enhance understanding of how poor flow distribution across a spillway impacts its performance and to identify contributing factors to this loss. This paper presents experiments on an ogee-shaped spillway with three outlets, building on the work of Hedberg et al.23 on a similar channel. The novelty of this study lies in exacerbating the adverse conditions by modifying the channel geometry and pier design, resulting in a greater degree of oblique approach and less approach flow toward the spillway.",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy",
+      "subtopic": "Overtopping devices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is the discharge over an ogee-crested spillway expressed mathematically?",
+      "answer": "The discharge is given by the formula Q=CLH^3/2, where Q is discharge, C is the spillway discharge coefficient, L is the spillway length, and H is the total head over the spillway crest.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The interactions between these two phenomena causing capacity loss will be quantified in this study. An additional outcome of the unique model study is to provide velocity data for use as boundary conditions and validation data for numerical modelling. The combined sets of experiments can serve as material for evaluating CFD methods and codes for design, redesign and evaluation of hydropower infrastructure. Method The discharge over an ogee-crested spillway is given by24: Q=CLH3/2 (1) where Q is the discharge, C is the spillway S discharge coefficient, L is the spillway length and H is the total head over the spillway crest. To correct for contraction losses occurring at the corner of the abutment and inlet of the spillway, the standard design approach involves taking a reduced effective spillway length, given by: Le =L (nKH ), where L is the uncorrected length, n is the number of corners and K is a contraction loss coefficient. A commonly used contraction coefficient is found in the handbook of Creager and Justin25, namely K=0.1. The effect is illustrated in Fig. 2a, where the full length of the spillway is not utilized due to the sharp corner, which causes a contraction loss.",
+      "macrotopic": "Clean energy",
+      "topic": "Tidal and wave energy",
+      "subtopic": "Overtopping devices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices",
+      "target": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices",
+      "target": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices",
+      "target": "Subtopic:Environment|Clean energy|Tidal and wave energy|Overtopping devices_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural barriers to women's empowerment",
+      "label": "Cultural barriers to women's empowerment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms"
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural barriers to women's empowerment_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the three primary barriers identified in household demand-side management (DSM) programs?",
+      "answer": "The three primary barriers are: 1) the tension between DSM technology, perceived as a masculine domain, and the home, perceived as a feminine domain; 2) access challenges for low-income households to DSM technology; and 3) insufficient consideration of disparities in opportunities for youth and the elderly to participate in DSM programs.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Success- fully engaged as active participants in the grid, they can become a source of flexibility through close coordination of energy availability and consumption (Ballo, 2015). At the same time, so-called flexible energy consumption does interfere with the everyday life practices of consumers, posing a challenge to the availability of end-user flexibility as a resource (Silv - last et al., 2018; Skj Isvold et al., 2017) and grid com- panies may overestimate public acceptance to shift their energy demand (Winther & Sundet, 2023). Research in the field of promoting flexible energy consumption among households has primarily con- centrated on the provision of economic signals as incentives, often coupled with technological inter - ventions to facilitate the transmission of these sig- nals, with the objective of encouraging individual households to modify their energy consumption patterns. This approach is commonly known as demand-side response (DSR) or demand-side man- agement (DSM). DSM can be done in several ways: manually by using electricity when the price is low, manually by setting up the automation of appliances or by installing a Home Energy Manegment Sys- tem (HEMS) which allows a third party to manage use (Adams et al., 2021).",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Cultural barriers to women's empowerment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Gender equity|Cultural norms|Cultural barriers to women's empowerment_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the three primary barriers in household demand-side management (DSM) programs identified in the literature review?",
+      "answer": "The three primary barriers are the unresolved tension between DSM technology being perceived as masculine and the home as feminine, challenges faced by low-income households in accessing the necessary technology, and insufficient consideration of disparities in opportunities for youth and the elderly to participate in DSM programs.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Grzanka et al. (2023) have also noted that although intersectionality is now a widespread framework for understanding, critiquing, and intervening in complex social inequalities that has travelled from women S studies to other disciplines, its potential remains underutilized in STS. Sharing similar social justice priorities, the concept of Social License to Automate allows us to focus on a diverse commu- nity of users and the social processes implicated in energy management. Power is critical to most social processes, and energy management is no exception. Intersectional approaches which seek to combine gender with other axes of difference have much to offer here. Intersectionality aims to go beyond single category analysis (gender or social class, for example) and instead aims to make visible the unique locations of individuals experiencing com- pounding marginalisations in what Collins (2019) refers to as the matrix of domination . Translated into practical terms, we do not aim to suggest that DSM technologies must take into considera- tion each and every possible intersection of social identity. Rather, it is our aim to highlight the pos- sible risk of DSM to reinforce inequalities or mar - ginalization if intersectional thinking about social difference is not taken into account.",
+      "macrotopic": "Gender equity",
+      "topic": "Cultural norms",
+      "subtopic": "Cultural barriers to women's empowerment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Cultural barriers to women's empowerment",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Cultural barriers to women's empowerment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Gender equity|Cultural norms|Cultural barriers to women's empowerment",
+      "target": "Subtopic:Social|Gender equity|Cultural norms|Cultural barriers to women's empowerment_qna_001",
+      "value": 1
+    }
+  ]
+}

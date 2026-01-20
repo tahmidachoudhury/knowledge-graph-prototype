@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural tourism promotion",
+      "label": "Rural tourism promotion",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural tourism promotion_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can rental clothing businesses increase knowledge and awareness across rural and urban areas in the UK?",
+      "answer": "Rental clothing businesses can increase knowledge and awareness by using relevant marketing strategies such as partnerships with big brands or influencers to appeal to different demographics. They should also emphasize cost savings and sustainability while promoting new styles.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0016718523001999",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Rural tourism promotion",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural tourism promotion",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Rural tourism promotion_qna_000",
+      "value": 1
+    }
+  ]
+}

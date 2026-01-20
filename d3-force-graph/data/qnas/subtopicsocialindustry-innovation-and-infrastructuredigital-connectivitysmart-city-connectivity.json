@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity",
+      "label": "Smart city connectivity",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How do some smart city technologies connect people and places?",
+      "answer": "Some smart city technologies, such as a company's parking service, are designed to unlock scarce urban spaces like private parking areas, transforming them into mobility hubs and connecting people with places.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0016328723001738",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Smart city connectivity",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How can smart city initiatives help bridge the gap between developed and developing countries?",
+      "answer": "Context-sensitive and locally-driven smart city initiatives and technological transfer are essential to prevent inequalities from widening between different regions.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Smart city connectivity",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How does hyper-connectivity contribute to the \"new normal\" in the context of smart cities and social organization?",
+      "answer": "Hyper-connectivity intensifies interactions and activities in smart cities, leading to ratification, algorithmization, and platformingation of social organization, influencing how citizens engage in daily life.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Digital connectivity",
+      "subtopic": "Smart city connectivity",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Digital connectivity|Smart city connectivity_qna_002",
+      "value": 1
+    }
+  ]
+}

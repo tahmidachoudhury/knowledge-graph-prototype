@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance",
+      "label": "Regulatory compliance",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What are the most common types of regulations and policies that act as barriers in the industry, according to experts E1-E18?",
+      "answer": "The most common types of regulations and policies that act as barriers in the industry, according to experts E1-E18, include regulatory compliance requirements, licensing restrictions, and environmental regulations.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "subtopic": "Regulatory compliance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Why is adherence to rules and regulations important according to Uncertainty Avoidance?",
+      "answer": "According to Uncertainty Avoidance, adherence to rules and regulations is essential because they inform individuals of what is expected of them and provide a sense of stability in uncertain situations.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0959652624004712",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "subtopic": "Regulatory compliance",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance_qna_002",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How can businesses ensure compliance with textile labelling requirements in the EU?",
+      "answer": "Businesses can ensure compliance with textile labelling requirements in the EU by following the guidelines provided by relevant authorities and ensuring that labels contain accurate and complete information as outlined in the regulations.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784322000493",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "subtopic": "Regulatory compliance",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Regulatory compliance_qna_002",
+      "value": 1
+    }
+  ]
+}

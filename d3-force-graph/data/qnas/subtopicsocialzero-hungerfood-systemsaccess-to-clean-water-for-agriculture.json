@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Access to clean water for agriculture",
+      "label": "Access to clean water for agriculture",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Access to clean water for agriculture_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of assessing water resource use in livestock production according to Ran, Lanners tad, Herrera, Van Middelburg, and De Boer?",
+      "answer": "Assessing water resource use in livestock production is crucial for understanding the impact of livestock farming on water availability and sustainability.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0022316622131378",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "subtopic": "Access to clean water for agriculture",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Food systems|Access to clean water for agriculture_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of evaluating groundwater suitability for human consumption and agriculture?",
+      "answer": "Evaluating groundwater suitability is crucial to ensure the sustainable use of this vital resource for human consumption and agriculture. By assessing the quality and availability of groundwater, we can make informed decisions to prevent depletion and contamination, ultimately safeguarding public health and food security.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0301479723018297",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Food systems",
+      "subtopic": "Access to clean water for agriculture",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Food systems|Access to clean water for agriculture",
+      "target": "Subtopic:Social|Zero hunger|Food systems|Access to clean water for agriculture_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Zero hunger|Food systems|Access to clean water for agriculture",
+      "target": "Subtopic:Social|Zero hunger|Food systems|Access to clean water for agriculture_qna_001",
+      "value": 1
+    }
+  ]
+}

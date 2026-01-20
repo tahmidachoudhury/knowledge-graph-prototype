@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological succession promotion",
+      "label": "Ecological succession promotion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological succession promotion_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do species interactions affect community structure as ecosystems recover?",
+      "answer": "As ecosystems mature, biotic interactions, such as competition with established species, become significantly more important in shaping community structure and succession.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " According to the ARC, different factors dominate at various stages of recovery. Species tolerance to envi - ronmental stressors plays a critical role during degrada - tion phases, while dispersal constraints shape community composition in the early phases of recovery. As ecosys - items mature, biotic interactions, such as competition with established species, become increasingly important. These shifts from abiotic to biotic controls in commu - nity structure and succession have also been observed in empirical studies, such as those examining the relative influence of abiotic and biotic factors on stream mac - roinvertebrate communities (Toskey et al. 2024) and the role of connectivity and seasonality in shaping succession after stream restoration (Westveer et al. 2018). A recent case study by Gillmann et al. (2024a) on a restored catchment supports this perspective, highlight - ing the importance of species dispersal capacity and increasing interspecific competition during recovery, alongside a decrease in species tolerance to organic pol - lution. The strong relevance of species tolerances for both recovery and degradation is well supported by numerous studies (e.g., Chessman 2015; Kefford et al.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Ecological succession promotion",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological succession promotion_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How do fast-growing vascular plant communities potentially affect bryophytes?",
+      "answer": "Fast-growing vascular communities, due to their high mean SLA, may produce more biomass that reduces light availability, while also having rapidly decomposing litter that can lessen organic material buildup on the ground, potentially benefiting bryophytes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Experimental studies are needed to test this but the effect of vascular plant richness on bryophytes has only rarely been investigated in experiments manipulating vascular plant species number 31,32. Changes in the functional composition of vascular plants following nitrogen enrichment could also influence bryophytes. A key axis of vascular plant functional composition variation is the leaf economics spectrum 33,34, distinguishing fast from slow growth strategy, which can be represented by traits such as specific leaf area (SLA) 35. Fast-growing communities with a high mean SLA are adapted to nutrient-rich conditions and might therefore produce more biomass, which in turn reduces light availability. However, fast vascular plant communities also have more rapidly decomposing litter and thus less organic material buildup on the ground 36, which might benefit bryophytes. Slow vascular plant species are well adapted to drought 30 and could thus provide a moister microclimate in summer which might facilitate bryophyte survival during dry periods. Because bryophytes take up nutrients over the whole surface area of their leaves, they react quickly to changes in their environments 37 and could be influenced by the conditions that fast- or slow-growing vascular plant communities produce.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Ecological succession promotion",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological succession promotion",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological succession promotion_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological succession promotion",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Ecological succession promotion_qna_001",
+      "value": 1
+    }
+  ]
+}

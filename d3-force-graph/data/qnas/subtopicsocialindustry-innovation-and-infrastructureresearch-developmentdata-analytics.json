@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Data analytics",
+      "label": "Data analytics",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Data analytics_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Why is it important to consider data variance levels when evaluating tools for decision-making?",
+      "answer": "Considering data variance levels is crucial because it helps in understanding how effective a tool might be in different scenarios, whether the data is low, medium, or high.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0952197623017931",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Research & development",
+      "subtopic": "Data analytics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Data analytics",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Research & development|Data analytics_qna_000",
+      "value": 1
+    }
+  ]
+}

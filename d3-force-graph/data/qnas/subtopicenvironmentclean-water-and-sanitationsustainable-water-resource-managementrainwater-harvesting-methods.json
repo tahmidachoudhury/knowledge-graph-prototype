@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods",
+      "label": "Rainwater harvesting methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can automation of rainwater collection in buildings optimize wastewater management?",
+      "answer": "Automation of rainwater collection in buildings can optimize wastewater management by efficiently harvesting and utilizing rainwater, reducing the reliance on traditional water sources.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Rainwater harvesting methods",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods_qna_001",
+      "group": "QnA",
+      "label": "Ecology",
+      "question": "How can gardens contribute to water availability for birds?",
+      "answer": "Gardens can provide essential water sources for birds through features like birdbaths, particularly in areas facing significant drying from climate change.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2015), with gardeners actively encouraged by the horticultural industry to plant honeyeater attracting plants. Secondly, many gardens can provide an important source of water (via birdbaths or other water fea- tures) (Cleary et al. 2016; Gibbons et al. 2023), which will be critical in many areas pre- dicted to experience significant drying as a result of anthropogenic climate change (Grose 1141 Biodiversity and Conservation (2025) 34:1139 1154 et al. 2020). Thirdly, gardens can serve as important stepping stones for many birds that move through the landscape between larger patches of intact habitat (Goddard et al. 2017). This final point may be important in the context of areas where local and state government agencies routinely burn these urban-adjacent patches of habitat; the impacts of which are poorly documented for birds (but see Bradshaw et al. 2018). In these scenarios, resident birds may seek out urban and peri-urban gardens in search of refuge during periods of prescribed burning. These attributes of refuge suitability should also be viewed against the backdrop of a policy landscape in Australia that has failed to halt remnant and regrowth vegetation clearing at a continental scale (Evans 2016; Ward et al.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "Rainwater harvesting methods",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|Rainwater harvesting methods_qna_001",
+      "value": 1
+    }
+  ]
+}

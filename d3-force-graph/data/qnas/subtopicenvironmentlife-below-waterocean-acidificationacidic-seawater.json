@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater",
+      "label": "Acidic seawater",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What gases are formed when SPL reacts with water?",
+      "answer": "The gases formed are ammonia (NH3), phosphine (PH3), and hydrogen cyanide (HCN).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " [10]Sommerseth et al. [11]also found NaAISiO 4present in 1st cut SPL. SPL, in reaction with water forms several gases which are important to take into consideration duringpost-treatment of the material as it is a hazardous waste. Ammonia, NH 3, is formed as a reaction between aluminum nitride and water. Phosphorus, which isintroduced together with the alumina raw material inthe form of P 205or AIPO 4,[12]reacts readily with moisture in air and/or water to the poisonous gases called phosphine, PH 3, and sodium cyanide, NaCN, in contact with water forms HCN. Both PH 3and HCN are deadly gases, and hence, SPL must be treated with care. The impurities present make direct reuse di cult, hencepost treatment of the SPL is necessary to transform the waste material into a valuable product. SPL has traditionally been land lled as this has been the most economically feasible method of handling. Ashift in acceptance both socially in terms of environ- mental footprint policies, and an increase in cost for land Il are leading to a need for methods of treating thiswaste to make it usable for new applications.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidic seawater",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some consequences of marine heatwaves that can lead to multi-stressor compound events?",
+      "answer": "Marine heatwaves can lead to low dissolved oxygen and pH levels, as well as the expansion of hypoxic zones during these events.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This modulation is connected to large-scale climate modes of variability (e.g., El Ni o Southern Oscillation - ENSO), which can either enhance or suppress MHWs by directly modifying ocean temperatures and through teleconnections (e.g., atmospheric bridge, planetary waves) that link distant climate forcing with regional impacts23,24. These remotely induced fluctuations can trigger oceanic disturbances that travel vast distances via Rossby and Kelvin waves, redistributing heat and modulating local heat budgets, resulting in distinct regional patterns of MHW variability observed worldwide17,23,27, Although the drivers and dynamics of MHWs in the broader global ocean are well-established15,17,23,29 39, their behavior in estuarine systems remains relatively unknown. Estuaries are among the most productive, but also threatened, ecosystems in the world, supporting a rich diversity of economically- and ecologically-important species, many ecosystem services, and vital economic activities40. However, recent research demonstrates that these systems have been severely impacted by MHW events, leading to major fish kills41, deoxygenation and biodiversity loss42, long-lasting declines in macroalgae biomass43,44, and shifts in seagrass dominance and carbon stocks45,46. Furthermore, MHWs can lead to multi-stressor compound events such as low dissolved oxygen and pH levels47, as well as the expansion of hypoxic zones during MHW events48.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidic seawater",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidic seawater_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes",
+      "label": "Eco-friendly industrial processes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "In which industries are mixing tees important?",
+      "answer": "Mixing tees are important in petrochemical facilities, electronic cooling, nuclear power plants, the refrigeration industry, and for greenhouse effect reduction inside buildings.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A prevalent occurrence in pipe systems and multi-channel net- works across numerous sectors is the mixing of turbulent uxes in tee sections [ 2]. This includes petrochemical facil- ities, electronic cooling, nuclear power plants, refrigeration industry, greenhouse effect reduction inside buildings, etc. [3]. In turbines and compressors utilized in turbomachin- ery, the thermal state has to be at least maintained. Thereare vessel tees which act as an intermediate section of the theatre that mixes the hot and cold uids to get speci C ther- mal pro les which are mainly avoidable thermal stress andboost productivity [ 4]. Therefore, the process of mixing has the potential to in uence ow properties such as velocity and pressure. Indirect from the mixing tees, engineers canhave the capability to control and select these parameters in a way that enhances the operation progress of turbomachinery, because the condition of the incoming uid is very crucialto the turbomachinery operation [ 5]. In processes such as petrochemicals, the mixing tees enable the combining of the 123 2090 International Journal on Interactive Design and Manufacturing (IJIDeM) (2025) 19:2089 2099 Fig.",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Eco-friendly industrial processes",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_001",
+      "group": "QnA",
+      "label": "Science and Tech",
+      "question": "How can integrating cleaner production technologies help improve energy and water efficiency in denim manufacturing processes?",
+      "answer": "By incorporating cleaner production technologies, such as energy-efficient machinery and water recycling systems, denim manufacturers can reduce their environmental impact and lower their resource consumption.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652624007261",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Energy transition",
+      "subtopic": "Eco-friendly industrial processes",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes",
+      "target": "Subtopic:Environment|Climate action|Energy transition|Eco-friendly industrial processes_qna_001",
+      "value": 1
+    }
+  ]
+}

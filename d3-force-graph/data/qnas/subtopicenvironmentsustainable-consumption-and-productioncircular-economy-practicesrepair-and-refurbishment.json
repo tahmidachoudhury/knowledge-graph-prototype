@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Repair and refurbishment",
+      "label": "Repair and refurbishment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Repair and refurbishment_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the difference between repair and remake in terms of sustainability?",
+      "answer": "Repair refers to fixing a faulty or broken product to bring it back to a usable state, while remake involves creating a new product from existing components.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0921344924000533",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Circular economy practices",
+      "subtopic": "Repair and refurbishment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Repair and refurbishment",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Circular economy practices|Repair and refurbishment_qna_000",
+      "value": 1
+    }
+  ]
+}

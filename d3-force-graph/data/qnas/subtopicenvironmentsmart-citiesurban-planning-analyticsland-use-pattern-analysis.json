@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Land use pattern analysis",
+      "label": "Land use pattern analysis",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban planning analytics|Land use pattern analysis_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What advanced spatial techniques are utilized in this research to analyze urban transitions?",
+      "answer": "The research utilizes machine learning algorithms (MLAs) and Google Earth Engine (GEE) to analyze urban transitions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As urbanization accelerates, the vulnerability of urban and peri-urban populations to climate change intensifies, making it crucial to identify emerging urban spaces and develop effective policy responses that address both environmental and socio-economic challenges. This study aims to investigate urban change dynamics in the Kaduna River Basin, Nigeria, focus- ing on how urban transformations influence critical biophysical variables such as water availability, land cover, and ecosystem services. A key contribution of this work is its use of advanced spatial techniques, including machine learning algorithms (MLAs) and Google Earth Engine (GEE), to analyze urban tran- sitions between 1987 and 2020. Unlike earlier stud- ies, which often relied on traditional spatial analysis, this research leverages the power of cloud computing and geospatial data to identify and predict changes with greater accuracy and speed. This study employs a novel methodological approach that integrates expert knowledge with spatial analysis and machine learning algorithms to refine data selection, enhance model interpretation, and improve classification accu- racy. By leveraging domain expertise, this approach ensures a deeper understanding of urbanization S impact on biophysical conditions, leading to more informed and contextually relevant insights for sus- tainable urban planning strategies.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban planning analytics",
+      "subtopic": "Land use pattern analysis",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban planning analytics|Land use pattern analysis",
+      "target": "Subtopic:Environment|Smart cities|Urban planning analytics|Land use pattern analysis_qna_000",
+      "value": 1
+    }
+  ]
+}

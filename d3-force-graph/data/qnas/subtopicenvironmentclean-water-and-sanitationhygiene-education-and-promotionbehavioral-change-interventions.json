@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions",
+      "label": "Behavioral change interventions",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What type of research does this study contrast with?",
+      "answer": "This study contrasts with previous research that focused mostly on short-term changes in acceptability judgments following interventions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Our paper is the first to investigate and compare the stability of acceptability judgments regarding differ - ent energy technologies over longer periods of time and without targeted interventions or contextual changes (including policies). We present two longitudinal sur - vey experiments in which we compare the stability of acceptability judgements of established versus novel energy technologies, and examine which factors affect stability of acceptability judgements. Unlike previous research that focused mostly on short-term changes in acceptability judgements following interventions (Daamen et al., 2006; Mastop et al., 2014), our study examines acceptability judgements over longer time- frames and without purposely trying to influence accept- ability judgements (e.g., via policy interventions). This avoids potential confounds in previous studies, in which brief measurement intervals or information provision might have introduced demand effects, prompting partic- ipants to adjust their responses to what they think might have been expected from them, for example by chang- ing their acceptability judgments after an intervention or by trying to answer consistently when being asked the same questions twice. Moreover, we examine sta- bility of acceptability judgements over periods that are more relevant for policymaking in real-world contexts, thereby increasing external validity.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "subtopic": "Behavioral change interventions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_001",
+      "group": "QnA",
+      "label": "Research Design",
+      "question": "How long was the intervention period of the study?",
+      "answer": "The intervention period lasted 13 weeks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Methods Study design A quasi-experimental study was conducted during a 13-week intervention period, including three interven - tion and three control supermarkets in the Netherlands. Sales data of the intervention supermarkets were com - pared to the control supermarkets sales and to a 62-week pre-intervention sales period. The presented study was pre-registered at Open Science Framework (OSF; osf.io/ ak4q5). The TREND Statement checklist was used for the present study [38]. Ethical approval was granted by the Social Sciences Ethics Committee of Wageningen Uni - versity (reference code: 2022 93-Wolfswinkel). Study context The project was initiated by the General Affair man - ager of the supermarket chain in collaboration with a private organisation that supports food services and retailers with improving the sustainability of their food supply. This private organisation worked together with the supermarket chain and their aim for this project was to pilot two interventions: (1) aimed at reducing food waste and (2) enhancing the protein transition through increasing plant-based sales and decreasing meat sales. The collaboration with the research team regarded the second aim of the project.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "subtopic": "Behavioral change interventions",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why was the default nudge most effective in increasing the likelihood of a sustainable delivery choice?",
+      "answer": "The default nudge was most effective because participants followed the presented suggestion without further thought, making the choice automatically.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000360",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Hygiene education and promotion",
+      "subtopic": "Behavioral change interventions",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions",
+      "target": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions",
+      "target": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions",
+      "target": "Subtopic:Environment|Clean water and sanitation|Hygiene education and promotion|Behavioral change interventions_qna_002",
+      "value": 1
+    }
+  ]
+}

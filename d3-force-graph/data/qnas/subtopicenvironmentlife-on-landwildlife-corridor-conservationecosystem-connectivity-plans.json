@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans",
+      "label": "Ecosystem connectivity plans",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How does the paper propose to use ocean ecosystem connectivity in marine reserve design?",
+      "answer": "The paper suggests leveraging the spatial connectivity of ocean ecosystems as a means to incentivize a bilateral marine reserve agreement.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In this paper, we focus instead on designing an agreement where one country pays another country to create a large marine reserve entirely in its own waters. Instead of viewing the highly connected nature of ocean ecosystems as an obstacle to marine reserve design, we ask if this spatial connectivity can be leveraged to incentivize the creation of a bilateral marine reserve agreement for a transboundary stock. We develop a fully enclosed, two-country spatial dynamic model to determine the conditions that incentivize a bilateral marine reserve agreement (BMRA). Under this hypotheti- cal agreement, one country is paid by the other to become a marine reserve and completely abstain from fishing, while the paying country continues to fish within its waters, rec- ognizing that it now enjoys the spillover from a completely unexploited stock in the opposing country. We ask: what spatial connectivity conditions provide the necessary eco- nomic incentives for both patches to accept this agreement, and what conditions produce the most valuable agreements? To illustrate the possible real-world application of our idea, we parameterize the model using four general life history strategies to examine what life history strategies are most conducive to BMRA acceptance, and how economic and conservation gains under BMRA change with variation in directionality and intensity of spatial connectivity.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Ecosystem connectivity plans",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "In what contexts has the creation of resilient ecological networks been suggested to protect biodiversity?",
+      "answer": "The creation of resilient ecological networks has been suggested in contexts such as spatial planning, practical conservation management, and recent EU policy.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2010 ; European Commission 2011 ,2013 ; Oliver et al. 2015 ; Albert et al. 2017 ; Isaac et al. 2018 ). Well-functioning ecological networks can enhance population persistence and recolonisation or recovery after local extinctions driven by, e.g. extremeweather events or other stochastic or projected effects. They could also facilitate range shifts of populations by supporting movement between the nodes in the network(Hodgson et al. 2016 ; Albert et al. 2017 ; Isaac et al. 2018 ). The creation of resilient ecological networks to protect biodiversity has been suggested in various contexts, such asspatial planning (Benedict and McMahon 2006 ), practical conservation management (Lawton et al. 2010), and in recent EU policy (European Commission 2013) including the EU Nature Restoration Law ((EU) 2024 /1991). In the EU, the European Strategy on green infrastructure (here-after GI; European Commission 2013 ) draws in part on the logic of resilient ecological networks to enhance biodi- versity conservation through the promotion of ecologicalnetworks to bene t people and nature (von Post et al.",
+      "macrotopic": "Life on land",
+      "topic": "Wildlife corridor conservation",
+      "subtopic": "Ecosystem connectivity plans",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans",
+      "target": "Subtopic:Environment|Life on land|Wildlife corridor conservation|Ecosystem connectivity plans_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Biological treatment processes",
+      "label": "Biological treatment processes",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Biological treatment processes_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What are some examples of biologic methods used for wastewater treatment?",
+      "answer": "Some examples of biologic methods used for wastewater treatment are activated sludge, membrane bioreactors, and sequential batch reactors.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The widespread usage of fossil fuels during the past century has been cru - cial to the advancement of industrial and commercial devel- opment [ 2]. Due to environmental pollution, population growth, depletion of natural resources, and global warming, humanity has recently faced both an energy and water short- age [3 ]. A large amount of organic carbon molecules and thermal and chemical energy can be found in contaminated water; these chemical or organic carbons were utilized in synthesizing products with added value [4]. Purification is the main objective of conventional wastewater treatment sys- tems instead of recovering resources [5 ]. The most popular biologic method of treatment is activated sludge, however membrane bioreactors and sequential batch reactors are also options [6 ]. Conventional wastewater treatment and resource recovery systems are expensive and energy-intensive due to their high operating and maintenance methods [7 ]. To address resource scarcity and environmental protection issues, there is significant interest in enhancing environmen- tally friendly methods for wastewater treatment and energy production [8]. Energy, alongside water, is important for the survival of civilization.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Biological treatment processes",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Biological treatment processes",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Biological treatment processes_qna_000",
+      "value": 1
+    }
+  ]
+}

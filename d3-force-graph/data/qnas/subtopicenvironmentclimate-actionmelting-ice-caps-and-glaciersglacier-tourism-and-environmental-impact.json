@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier tourism and environmental impact",
+      "label": "Glacier tourism and environmental impact",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier tourism and environmental impact_qna_000",
+      "group": "QnA",
+      "label": "Strategie",
+      "question": "Welche Bedingungen könnten den Steinschmätzer im Alpengebiet schützen?",
+      "answer": "Das Alpengebiet könnte als Rückzugsgebiet für den Steinschmätzer dienen, wenn eine Bewirtschaftung mit geringer Intensität und heterogene Lebensräume beibehalten werden.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Die unmittelbare N he zu Nestern von Artgenossen wurde ebenso gemieden wie bebuschtes oder nordexponiertes Gel nde. Weiter untersuchten wir, ob der Lebensraum auch den Bruterfolg beeinflusst. Bruterfolg wurde in erster Linie durch Pr dation bestimmt, aber auch der Einfluss weiterer Umweltfaktoren konnte analytisch gezeigt werden. An nordexponierten H ngen oder in Gebieten mit wenig bewachsenem Boden nahm die Wahrscheinlichkeit ab, dass die Brut erfolgreich ausflog. Die N he von Nestern von Artgenossen hatte keinen eindeutigen Einfluss. Schlie lich beschreiben wir, wie der Bruterfolg innerhalb und zwischen den Jahren variierte. Innerhalb von Jahren hatten Ersatzbruten einen erh hten Bruterfolg, doch zwischen Jahren beobachteten wir kaum Schwankungen im Bruterfolg. Der interannuell relativ konstante Bruterfolg, sowie eine versp tete Brutzeit im Beobachtungsjahr mit sp tem Fr hlingsbeginn, deuten darauf hin, dass Steinschm tzer jahresspezifische Schwankungen in den meteorologischen Bedingungen auffangen k innen. Da der bevorzugte Lebensraum in den Alpen immer noch weit verbreitet ist, k nnte das Alpengebiet als R ckzugsgebiet f r den Steinschm tzer dienen, der in tieferen Lagen Westeuropas negative Bestandstrends zeigt. Voraussetzung daf r ist jedoch, dass eine Bewirtschaftung mit geringer Intensit t und heterogene Lebensr ume beibehalten werden.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier tourism and environmental impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier tourism and environmental impact_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What percentage of Swiss residents perceived environmental impacts of Swiss consumption to accrue primarily abroad in 2018?",
+      "answer": "Only 38% of Swiss residents perceived environmental impacts of Swiss consumption to accrue primarily abroad in 2018.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S146290112300120X?via%3Dihub",
+      "paragraph": "",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier tourism and environmental impact",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier tourism and environmental impact",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier tourism and environmental impact_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier tourism and environmental impact",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier tourism and environmental impact_qna_001",
+      "value": 1
+    }
+  ]
+}

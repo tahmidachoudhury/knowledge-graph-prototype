@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment",
+      "label": "Native plant reestablishment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What ecological contributions do populations of the species provide to their ecosystem?",
+      "answer": "They provide ecological support for an ecosystem through native seed germination and dispersal.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2014). The species is regarded as a gregarious, woodland-dwelling mam- mal, and while they occur in a variety of habitats, they are reliant on forests for shelter, with adjacent grasslands to forage (Hill 1981). Home range esti- mates vary widely across land use types, ranging from 7.6 to 269.0 ha for males and 9.3 248.0 ha for females (Neaves et al. 2017; Brunton et al. 2018a, b). Individuals exhibit fission fusion social structures and live in small communities (colloquially termed, mobs), whose habitat use are driven by their access to high-quality foraging habitats (Moss and Rollings 1998; Ramp and Coulson 2004), mating opportuni- ties (Zenger et al. 2003; Coghlan et al. 2016), and predation avoidance (Banks 2001). As a result of these social structures, populations can provide innate ecological support for an ecosystem, such as through native seed germination and dispersal (Claridge et al. 2016). Based on these social and ecological drivers, they are often seen as adaptive to anthropogenic pres- sures in many urban, rural, and urbanising landscapes and can persist in remnant green spaces (Brunton et al.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Native plant reestablishment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the purpose of collecting plant material one hour after spraying with CEO?",
+      "answer": "The plant material was collected to assess the effects of the CEO treatment on the leaves.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Four replicates were considered for each condition, with each replicate containing 5 plants. One hour after the plants were sprayed with CEO on the leaves, the plant material was collected. The second and third leaves were harvested, snap-frozen in liquid nitrogen, and stored at -80 C. Three plants per treatment were kept to evaluate the phytotoxic effect over a 48-hour period. Additionally, after the CEO treatment, the watering remains consistent through the bottom of the pot (which has drainage holes) using a watering tray. In this case, the plants will not be affected by any water stress during the treatment. To assess the green coverage percentage during this evaluation, ImageJ software was used with the following equation: Green coverage percentage (%) =green surface area of plant Total surface area of plant 100 , (1) In the ImageJ analysis, the total surface area of A. thaliana was calculated using a broader fixed saturation range of 30 to 110, which accounts for all visible leaf tissues. This range ensures that damaged or discolored leaves are also included in the measurement.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Native plant reestablishment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Native plant reestablishment_qna_001",
+      "value": 1
+    }
+  ]
+}

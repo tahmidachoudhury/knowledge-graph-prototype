@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Threats to coastal ecosystem services",
+      "label": "Threats to coastal ecosystem services",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Sea level rise|Threats to coastal ecosystem services_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are estuarine systems considered among the most productive yet threatened ecosystems?",
+      "answer": "Estuarine systems are considered highly productive because they support a rich diversity of economically and ecologically important species and provide vital ecosystem services, but they are threatened by factors such as marine heatwaves and human activities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This modulation is connected to large-scale climate modes of variability (e.g., El Ni o Southern Oscillation - ENSO), which can either enhance or suppress MHWs by directly modifying ocean temperatures and through teleconnections (e.g., atmospheric bridge, planetary waves) that link distant climate forcing with regional impacts23,24. These remotely induced fluctuations can trigger oceanic disturbances that travel vast distances via Rossby and Kelvin waves, redistributing heat and modulating local heat budgets, resulting in distinct regional patterns of MHW variability observed worldwide17,23,27, Although the drivers and dynamics of MHWs in the broader global ocean are well-established15,17,23,29 39, their behavior in estuarine systems remains relatively unknown. Estuaries are among the most productive, but also threatened, ecosystems in the world, supporting a rich diversity of economically- and ecologically-important species, many ecosystem services, and vital economic activities40. However, recent research demonstrates that these systems have been severely impacted by MHW events, leading to major fish kills41, deoxygenation and biodiversity loss42, long-lasting declines in macroalgae biomass43,44, and shifts in seagrass dominance and carbon stocks45,46. Furthermore, MHWs can lead to multi-stressor compound events such as low dissolved oxygen and pH levels47, as well as the expansion of hypoxic zones during MHW events48.",
+      "macrotopic": "Climate action",
+      "topic": "Sea level rise",
+      "subtopic": "Threats to coastal ecosystem services",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Sea level rise|Threats to coastal ecosystem services",
+      "target": "Subtopic:Environment|Climate action|Sea level rise|Threats to coastal ecosystem services_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Deep sea biodiversity",
+      "label": "Deep sea biodiversity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Deep sea biodiversity_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "How many OTUs were classified as specialists, and how many phyla did they represent?",
+      "answer": "A total of 159 OTUs were classified as specialists, representing a set of 22 diverse phyla.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 4a). A total of 201OTUs representing 10 phyla were classi ed as abundant taxa (Sup- plementary Fig. 4b). Based on the enrichment analysis, Actinobacteria, Acidobacteria, and Nitrospirae were signi cantly enriched among abundant taxa ( P< 0.5 for all; Fig. 1e). A total of 870 OTUs repre- senting 26 phyla were classi ed as rare taxa (Supplementary Fig. 4c), and among them, 7 phyla were signi cantly enriched, includingGemmatimonadetes, Bacteroidetes, Chloro exi, Planctomycetes, Armatimonadetes, Chlorobi, and TM6 ( P< 0.5 for all; Fig. 1e). A total of 156 OTUs representing 10 phyla were classi ed as generalists (Supplementary Fig. 4d), and among them, Actinobacteria andNitrospirae were signi cantly enriched ( P< 0.5 for both; Fig. 1e). A similar number of OTUs (159) were classi ed as specialists, but they represented a set of more diverse phyla (22) compared to generalists(Supplementary Fig. 4e). There were 4 phyla signi cantly enriched among specialists, including Cyanobacteria, Thermi, GAL15, and Chlamydiae ( P<0 .",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Deep sea biodiversity",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Deep sea biodiversity",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Deep sea biodiversity_qna_000",
+      "value": 1
+    }
+  ]
+}

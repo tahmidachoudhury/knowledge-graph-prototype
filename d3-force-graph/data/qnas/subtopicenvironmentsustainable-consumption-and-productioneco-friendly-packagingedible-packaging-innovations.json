@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations",
+      "label": "Edible packaging innovations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are some emerging and practical food innovations that can help achieve the Sustainable Development Goals (SDG) target?",
+      "answer": "Some emerging and practical food innovations that can help achieve the Sustainable Development Goals (SDG) target include plant-based meat alternatives, sustainable packaging solutions, precision agriculture technologies, and food waste reduction strategies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Edible packaging innovations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are the benefits of using antimicrobial nanocomposites in food preservation?",
+      "answer": "Antimicrobial nanocomposites offer extended preservation during transportation and considerably prolong the shelf life of perishable food products, contributing to improved food safety and reduced food waste.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666154324000255",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Edible packaging innovations",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Edible packaging innovations_qna_001",
+      "value": 1
+    }
+  ]
+}

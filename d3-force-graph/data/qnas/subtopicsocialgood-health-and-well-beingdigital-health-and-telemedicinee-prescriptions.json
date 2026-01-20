@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|E-prescriptions",
+      "label": "E-prescriptions",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|E-prescriptions_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the purpose of using an EHG drug delivery system for Cel?",
+      "answer": "The purpose of using an EHG drug delivery system for Cel is to enhance biocompatibility, facilitate clinical translation, and optimize immune stimulation while overcoming the deficiencies of Cel.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " However, the clinical application of Cel is hindered by its unsatisfactory characteristics, including hydrophobicity, low bioavailability, and systemic toxic - ity [16]. Hence, it is necessary to develop novel delivery systems for Cel to overcome the afore-mentioned defi - ciencies in applications while optimizing immune stimulation. In this work, we constructed an injectable water-in- oil emulsion hydrogel (EHG) to load an ICD inducer- Cel in the continuous oil phase (Gel@Cel). The EHG drug delivery system was developed on the foundation of clinically established iodized oil, with the objective of enhancing its biocompatibility and facilitating its clinical translation. In addition, the EHG system was designed to demonstrate good shear-thinning viscoelastic proper - ties and a high drug-loading capacity, while overcoming the hydrophobicity of Cel. The Gel@Cel demonstrated an exceptional lipase-regulated, sustained release of Cel, which in turn triggers an ICD effect. This subsequently facilitates DC maturation and the priming of effector T cells. Furthermore, considering the elevated PD-L1 expression in tumor cells elicited by Cel, the utilization of anti-PD-1 antibodies ( PD-1) was contemplated as a means of augmenting antitumor immunity in low immu - nogenic malignant ascites (Fig.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Digital health and telemedicine",
+      "subtopic": "E-prescriptions",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|E-prescriptions",
+      "target": "Subtopic:Social|Good health and well-being|Digital health and telemedicine|E-prescriptions_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise",
+      "label": "Impact on sea level rise",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some regional manifestations of climate change mentioned in the paragraph?",
+      "answer": "Regional manifestations of climate change include rising sea levels, shrinking mountain glaciers, and beach erosion.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Shrinking snow season As longtime earth scientists, we noted this past winter a number of admittedly anecdotal observations spanning both Connecticut USA and the northern tier of the Western World. In Connecticut, downhill skiing season at a favored ski resort was essentially over by mid-March of this year. In France, where downhill skiing is a major business, 150 ski-tourism towns had fully closed their operations due to the lack of snow. In Europe, almost all ski-tourism towns are highly threatened by climate change-induced snow melting [2 ]. In the 1990s, spring skiing in northern New England and France often extended into April May, which has been less typical in recent years. Fellow cross-country skiers bemoaned the early degradation of snow conditions in March from Scandinavia across the Northeast United States into Alaska. It is sometimes suggested that climate change is merely a semantic re-naming of global warming. In fact, NASA regards global warming as a long-term, whole-global tem- perature phenomenon, whereas climate change refers to the more-regional manifestations of temperature change, include rising sea levels, shrinking mountain glaciers and beach ero- sion [3 ].",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Impact on sea level rise",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What impact is expected from the acceleration of sea-level rise in the 21st century?",
+      "answer": "It is expected to adversely affect human activities, particularly in coastal regions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A lack of familiarity with coastal climate adaptation strategies among marginalized and vulnerable populations can lead to insufficient support for these strategies aimed at mitigating climate risks, exacerbating the issue of climate justice. Keywords Coastal management Climate justice Climate adaptation Socio- demographic disparity 3 Natural Hazards (2025) 121:3603 36191 Introduction Global sea levels have risen considerably in the 20th century and sea-level rise (SLR) is projected to accelerate through the 21st century and beyond (Nicholls and Cazenave 2010 ). With climate-induced SLR continuing to affect human activities adversely, coastal regions are particularly vulnerable due to increased flood risks (Wing et al. 2022 ). To mitigate the negative consequences of SLR in coastal regions, various adaptation measures for infra - structure through different adaptation strategies have been increasingly implemented worldwide. To economically justify these adaptation measures which are often funded by government agencies, a growing number of studies have explored households willingness to pay (WTP) for different coastal climate adaptation strategies (see Johnston et al. 2018 ; Ardeshiri et al. 2019 ; Landry et al. 2020 ; Meyerhoff et al.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Impact on sea level rise",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Impact on sea level rise_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts",
+      "label": "Species recovery efforts",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What recent initiative is being used to assess species recovery and conservation impact alongside the IUCN Red List?",
+      "answer": "The new initiative is called the Green Status of Species.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Using the largest sample size SO far - 454 new freshwater species and 2,876 new populations have been added to the dataset - we can see that, as with the global LPI, the decline is similar to those presented in previous editions of the Living Planet Report. Figure 5: The Freshwater Figure 6: The freshwater Living Planet Index migratory fish Living Planet (1970 to 2018) 2 2 Index (1970 to 2016) The average abundance of 6,617 The average change in relative freshwater populations across abundance of 1,406 monitored the globe, representing 1,398 populations of 247 species was species, declined by 83%. The white a decline of 76%. The white line line shows the index values and II shows the index values and the shaded areas represent the the shaded areas represent the statistical certainty surrounding statistical certainty surrounding the trend (95% statistical certainty, 1 1 the trend (95% statistical certainty, range 74% to 89%). Source: range 88% to 53%). Source: Deinet WWF/ZSL (2022)184 et al.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species recovery efforts",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the Green Status of Species provide insights into conservation efforts?",
+      "answer": "The Green Status of Species offers insights by assessing the recovery of species populations and showing the past, current, and potential future impact of conservation actions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " (2020)56. Key Key Freshwater Living Planet 76% 83% Freshwater migratory fish Index Living Planet Index 0 0 Confidence limits Confidence limits 1970 1980 1990 2000 2010 2018 1970 1980 1990 2000 2010 2016 WWF LIVING PLANET REPORT 2022 36 37 From abundance to extinction: what do we know While the IUCN Red List assesses extinction risk, it does not provide a roadmap for species recovery. Now, new classifiers of about species extinction risk and recovery? species recovery and conservation impact - known as the Green Status of Species 58 - provide a tool for assessing the recovery of species populations and measuring their conservation success. The IUCN Red List of Threatened Species assesses the relative risk of a species' extinction. Now, new Green Status assessments When viewed alongside Red List assessments, Green Status assessments show a fuller picture of a species' conservation status. provide a tool for assessing the recovery of species populations and This reveals that some species' extinction risk can be low, yet they measuring their conservation success. are still depleted compared with their historical population levels (e.g.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Species recovery efforts",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Species recovery efforts_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs",
+      "label": "Captive breeding programs",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the total number of offspring reared in the experiment?",
+      "answer": "A total of 579 offspring were reared in the experiment.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021, 2023). All boxes were cleaned daily and supplied with a fresh leaf cutting and moist tissue. Leaf cuttings were taken from at least 20 plants per day and randomly allocated to the larvae within treatments. Boxes were shifted around daily to minimize potential temperature and light differences within the climate cabinets. All offspring (n = 579) were reared at the treatment they were allocated to until adult eclosion. Afterwards, the sex of each individual was determined and the animals frozen at -18 C for later analyses. Data collection and laboratory analyses For each individual, we scored different developmental and morphological traits as well as mortality. Larval and pupal development time were measured in days. Pupal mass was weighed on the day following pupation to the nearest 0.1 mg (KERN ABJ-NM/ABS-N). Larval growth rate was calcu- lated as mean weight gain per day (LN (pupal mass)/larval time). Frozen butterflies were first weighed to obtain total adult mass. Then, wings, head and legs were removed, and the abdomen was separated from the thorax.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Captive breeding programs",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the hypothesis addressed in the model test approach regarding juvenile COTS?",
+      "answer": "The hypothesis is that a suite of combined morphological traits might be useful to determine the age of COTS juveniles.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " An ability to age juvenile COTS using morphological traits would greatly enhance our understanding of their biol- ogy and post-settlement processes, as well as the potential of cohorts of juveniles to generate outbreaks. In a model test approach, we addressed the hypothesis that a suite of com- bined traits might be useful to determine the age of COTS juveniles. Using our size-at-age data, we also investigated 703 Coral Reefs (2025) 44:701 719 the fit of growth models to describe age-size relationships of the juveniles. Methods Juvenile rearing As the taxonomy of the Pacific species of Acanthaster is uncertain (Haszprunar et al. 2017 ), we use Acanthaster sp. or COTS to refer to the species investigated here. Adults were collected near Cairns (northern Great Barrier Reef GBR) and shipped to the Sydney Institute of Marine Science where they were maintained in flow-through aquaria supplied with filtered sea water (FSW 5.0 m) at 26 27 C, the sea sur - face temperature of the Northern GBR (AIMS 2023). Small pieces of ovary and testis were dissected from the animals. The ovaries were placed in 10 5 M 1-methyl adenine in FSW to obtain fertile eggs.",
+      "macrotopic": "Life below water",
+      "topic": "Species conservation",
+      "subtopic": "Captive breeding programs",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs",
+      "target": "Subtopic:Environment|Life below water|Species conservation|Captive breeding programs_qna_001",
+      "value": 1
+    }
+  ]
+}

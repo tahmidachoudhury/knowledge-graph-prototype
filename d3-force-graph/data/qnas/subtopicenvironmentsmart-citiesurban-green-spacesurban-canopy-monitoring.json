@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring",
+      "label": "Urban canopy monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What software was used to assess the green coverage percentage during the evaluation?",
+      "answer": "ImageJ software was used to assess the green coverage percentage.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Four replicates were considered for each condition, with each replicate containing 5 plants. One hour after the plants were sprayed with CEO on the leaves, the plant material was collected. The second and third leaves were harvested, snap-frozen in liquid nitrogen, and stored at -80 C. Three plants per treatment were kept to evaluate the phytotoxic effect over a 48-hour period. Additionally, after the CEO treatment, the watering remains consistent through the bottom of the pot (which has drainage holes) using a watering tray. In this case, the plants will not be affected by any water stress during the treatment. To assess the green coverage percentage during this evaluation, ImageJ software was used with the following equation: Green coverage percentage (%) =green surface area of plant Total surface area of plant 100 , (1) In the ImageJ analysis, the total surface area of A. thaliana was calculated using a broader fixed saturation range of 30 to 110, which accounts for all visible leaf tissues. This range ensures that damaged or discolored leaves are also included in the measurement.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Urban canopy monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why was summer cover of vascular plants measured?",
+      "answer": "It was measured because shading from vascular plants is likely to be most important when vascular plant biomass is high.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Additionally, we visually estimated the percentage cover of vascular plants in a summer campaign in August 2022 and a winter campaign in March/April 2023. We measured the summer cover of vascular plants because shading from vascular plants is likely to be most important when vascular plant biomass is high. Vascular plant winter cover may also be important as some bryophyte species (especially those from arable land) are short- lived and develop mostly from late summer on 53 and then grow throughout winter as long as temperatures remain above freezing. Open gaps in the vegetation cover can then be colonized. We therefore included both summer and winter cover of vascular plants in our initial models but finally excluded winter cover as it was never significant. In the unweeded subplots, the species richness of vascular plants had changed substantially over time and we therefore estimated the realized richness of these subplots in August 2022. To calculate the functional composition of the vascular plant community, we measured the specific leaf area (SLA) of the 20 sown target species in monocultures in summer 2019, following the protocol from Garnier et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Urban green spaces",
+      "subtopic": "Urban canopy monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring",
+      "target": "Subtopic:Environment|Smart cities|Urban green spaces|Urban canopy monitoring_qna_001",
+      "value": 1
+    }
+  ]
+}

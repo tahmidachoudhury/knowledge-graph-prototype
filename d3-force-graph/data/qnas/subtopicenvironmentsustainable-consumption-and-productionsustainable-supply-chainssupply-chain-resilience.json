@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience",
+      "label": "Supply chain resilience",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can changing the production model in the fashion industry from centralized to distributed increase flexibility and resilience?",
+      "answer": "Changing the production model from centralized to distributed in the fashion industry can increase flexibility and resilience by allowing for quicker adaptations to market demands and reducing the risk of disruptions in the supply chain.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2452223622001316",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Supply chain resilience",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the focus of the robust optimization model for sustainable and resilient closed-loop supply chain network design?",
+      "answer": "The focus of the robust optimization model is to design a sustainable and resilient closed-loop supply chain network considering conditional value at risk.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0952197624002720",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Supply chain resilience",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How has COVID-19 impacted the drivers of supply chain sustainability in the textile industry?",
+      "answer": "COVID-19 has influenced the drivers of supply chain sustainability in the textile industry by highlighting the importance of resilience, transparency, and ethical practices in supply chains in response to disruptions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652623046395",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Sustainable supply chains",
+      "subtopic": "Supply chain resilience",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Sustainable supply chains|Supply chain resilience_qna_002",
+      "value": 1
+    }
+  ]
+}

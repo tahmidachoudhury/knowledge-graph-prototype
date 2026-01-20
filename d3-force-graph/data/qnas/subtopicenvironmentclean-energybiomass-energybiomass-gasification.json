@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "label": "Biomass gasification",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main focus of the research mentioned in the paragraph?",
+      "answer": "The main focus of the research is to evaluate the ability of 2D simulation studies to represent 3D simulation studies in the gasification process of woody biomass in a fluidized bed reactor.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Biomass, a sustainable energy source, can be utilized to produce chemicals, heat, and electricity. For this purpose, studies on the gasification of woody biomass in fluidized bed reactors are of interest. CFD simulations are commonly utilized for designing and optimizing processes. In computational fluid dynamics (CFD) solutions, 2D and 3D modeling have different advantages and disadvantages in terms of accuracy and computational power. 2D simulations offer quicker results and are adequate for acquiring the majority of pertinent parameters. Conversely, 3D methods are primarily required for meticulous analysis and optimization purposes. The current investigation aims to examine the gasification process in a fluidized bed through the use of CFD. This research involves performing 2D and 3D CFD simulations to examine the devolatilization characteristics of woody biomass in the fluidized bed reactor. The focus of the study is to evaluate the ability of 2D simula- tion studies to represent 3D simulation studies. The research investigated the behaviors of gas solid flow modeling using ANSYS 16.0. Keywords CFD Modelling Woody biomass Fluidized bed reactor 2D and 3D simulation 1 Introduction Biomass is the oldest carbonaceous fuel used by humankind and the only solid fuel that is sustainable [1 ].",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does gasification involve according to the paragraph?",
+      "answer": "Gasification encompasses a complex interplay of multi-phase, multi-scale, and multi-physics phenomena, involving diverse physical and chemical processes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The predomi- nant source of bioenergy is derived from woody wastes, with municipal solid wastes, landfill gases, and agricultural residues also contributing significantly. The agricultural residues include a variety of plant-based materials such as cotton stalks, wheat straw, rice straw, coconut shells, corn stover, and rice husks. These residues represent a substan- tial portion of the raw materials utilized in bioenergy pro- duction [2 , 3]. With the growing emphasis on sustainable energy sources, the thermal conversion of woody biomass has gained prominence. This process not only facilitates the disposal of wood waste but also results in the generation of bioash rich in mineral content, offering potential for nutri- ent recovery and reuse in soil amendment applications. The combustion of woody biomass in fluidized bed systems is a key area of focus in the transition towards more sustainable energy sources. This method of energy generation is par - ticularly appealing due to its ability to efficiently convert a wide range of biomass types into heat and power, while also offering the potential for carbon neutral operations. Gasi- fication encompasses a complex interplay of multi-phase, multi-scale, and multi-physics phenomena, incorporating diverse physical and chemical processes.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are the benefits of biomass gasification mentioned in the paragraph?",
+      "answer": "The notable benefit of biomass gasification mentioned is its substantial reduction in CO2 emissions, which provides a significant environmental advantage.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These include the hydrodynamics of dense gas solid flows, coupled heat and mass transfer, and intricate multi-phase chemical reactions [4]. A notable benefit of biomass gasification is its substan- tial reduction in CO2 emissions, providing a significant envi- ronmental advantage [5 7]. Fluidized bed technology represents a significant advancement in the combustion of woody biomass, offer - ing a more efficient and environmentally friendly method for generating energy from renewable sources [8 ]. In a flu- idized bed reactor, woody biomass particles are suspended in an upward-flowing stream of air or gas, creating a fluid- like state that enhances heat transfer and chemical reaction rates. This technology allows for the combustion of biomass at lower temperatures, reducing the formation of harmful emissions such as nitrogen oxides (NOx) and sulfur dioxide (SO2) [9, 10]. Moreover, fluidized beds can accommodate a wide variety of biomass types, including those with high * Esra Yilmaz Mertsoy esrayilmazmertsoy@gmail.com 1 Faculty of Engineering, Chemical Engineering Department, ank r Karatekin University, ank r 18100, Turkey Biomass Conversion and Biorefinery moisture or ash content, making it a versatile solution for biomass combustion.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technology is commonly used in high-temperature processes like gasification and waste treatment?",
+      "answer": "Fluidized bed technology is commonly used in high-temperature processes such as gasification, waste treatment, and CO2 utilization.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The enhanced mixing and uniform temperature distribution within the bed also ensure com- plete combustion, improving the overall efficiency of the process [11, 12]. Numerical simulation methodologies have become increasingly prevalent for analyzing and optimizing the dynamics of fluid flow and thermal transfer processes. These methods have evolved significantly over recent years, effec- tively resolving numerous essential theoretical issues [13, 14]. High-temperature processes such as gasification, waste treatment, and CO2 utilization often use fluidized bed tech- nology. One of the biggest challenges engineers face is improving the efficiency of fluidized beds, and this can be solved by CFD modeling. CFD enables the analysis of fluid- ized bed dynamics without the need for expensive pilot-scale experiments, greatly reducing development and optimization costs [15]. However, since significant physical and chemical interactions are involved in simulating multiphase flows in fluidized beds, complex mathematical models are required in the CFD software. These models need to be verified and validated to ensure their accuracy and reliability. When experimental studies are too costly or impractical, they can be used to measure process efficiency after validation.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What alternative process to direct combustion is explored by Tsekos et al. in their study?",
+      "answer": "Tsekos et al. explored the gasification process as an alternative to direct combustion of biomass.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A recent study by Miao Yang et al. studied a three-dimen - sional CFD model to delve into the hydrodynamic and com- bustion characteristics of biomass particles in an industrial- scale circulating fluidized bed (CFB) furnace. This study leverages advanced modeling techniques like the Eule- rian Lagrangian framework and the multi-phase particle- in-cell (MP-PIC) collision model to simulate the complex interactions within the furnace, providing insights into the optimization of combustion processes and emissions reduc- tion [16]. Tsekos et al. explored the gasification process as an alternative to direct combustion. This study introduced a novel approach to woody biomass gasification within a bub- bling fluidized bed, highlighting the potential for improved efficiency and reduced environmental impact. The research underscored the versatility of fluidized bed technology in accommodating various biomass conversion processes, from combustion to gasification, thereby broadening the scope of renewable energy applications [17]. These studies col- lectively emphasize the critical role of advanced modeling and simulation techniques in enhancing our understanding of fluidized bed reactors for woody biomass combustion and gasification. By providing detailed insights into the com - plex physical and chemical processes occurring within these reactors, researchers and engineers can optimize design and operational parameters, leading to more efficient and sus- tainable energy production from woody biomass.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_005",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the focus of Tsekos et al.'s research on woody biomass?",
+      "answer": "Tsekos et al. introduced a novel approach to woody biomass gasification using an indirectly heated bubbling fluidized bed steam reformer to enhance efficiency and environmental performance.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Matsunari et al. explored the challenges associated with the combus- tion of finely ground woody biomass in pulverized coal-fired boilers. Their research revealed significant non-uniformity in the flow of woody biomass particles within fuel pipes, influ- enced by upstream elbows. This finding underscores the need for precise measurement techniques to better understand the combustibility and grindability of woody biomass in such systems [18]. Tsekos et al. introduced a novel approach to woody biomass gasification in an indirectly heated bubbling fluidized bed steam reformer. This innovative method aims to enhance the efficiency and environmental performance of biomass gasification processes, offering a promising avenue for the production of clean energy from woody biomass [17]. These studies collectively highlight the ongoing advance- ments in woody biomass combustion technologies, particu- larly in the context of fluidized bed systems. The research underscores the importance of addressing operational chal- lenges, optimizing combustion parameters, and exploring innovative approaches to maximize the efficiency and sus- tainability of biomass combustion processes. Modeling studies have explored the differences between 2 and 3D simulation results, particularly in terms of aero- dynamics within fluidized bed reactors.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What specific comparison does the study by João Cardoso et al. focus on in relation to biomass gasification processes?",
+      "answer": "The study focuses on the comparison of hydrodynamic behavior captured by 2D and 3D models in biomass gasification processes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A notable study by Jo o Cardoso et al. delves into this comparison specifically for biomass gasification processes. The research highlights the distinct differences in hydrodynamic behavior captured by 2D and 3D models, underscoring the importance of selecting the appropriate modeling dimensionality based on the specific requirements of the study. The 3D mod- els provide a more comprehensive understanding of the complex flow patterns and interactions within the fluid- ized bed, which are crucial for optimizing gasification effi- ciency and reactor design [ 24]. F. Popescu et al. introduce a novel approach in their work. They propose a generalized 3D biomass decomposition model that can be integrated with existing CFD technology. This model aims to provide a comprehensive understanding of the chemical and physi- cal processes involved in biomass combustion, offering a versatile tool for researchers and engineers. The model S ability to adapt to different biomass compositions and its integration with the CFD software represents a significant advancement in the modeling of biomass combustion sys - tems [25]. Cloete et al. illustrated through extensive 2D and 3D CFD Eulerian multiphase simulations that the 2D methodology is particularly effective for predicting trends in new designs.",
+      "macrotopic": "Clean energy",
+      "topic": "Biomass energy",
+      "subtopic": "Biomass gasification",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification",
+      "target": "Subtopic:Environment|Clean energy|Biomass energy|Biomass gasification_qna_006",
+      "value": 1
+    }
+  ]
+}

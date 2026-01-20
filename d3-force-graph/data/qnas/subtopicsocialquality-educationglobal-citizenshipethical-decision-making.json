@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making",
+      "label": "Ethical decision-making",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship"
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Who granted ethical approval for the study?",
+      "answer": "Ethical approval was granted by the Social Sciences Ethics Committee of Wageningen University.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Methods Study design A quasi-experimental study was conducted during a 13-week intervention period, including three interven - tion and three control supermarkets in the Netherlands. Sales data of the intervention supermarkets were com - pared to the control supermarkets sales and to a 62-week pre-intervention sales period. The presented study was pre-registered at Open Science Framework (OSF; osf.io/ ak4q5). The TREND Statement checklist was used for the present study [38]. Ethical approval was granted by the Social Sciences Ethics Committee of Wageningen Uni - versity (reference code: 2022 93-Wolfswinkel). Study context The project was initiated by the General Affair man - ager of the supermarket chain in collaboration with a private organisation that supports food services and retailers with improving the sustainability of their food supply. This private organisation worked together with the supermarket chain and their aim for this project was to pilot two interventions: (1) aimed at reducing food waste and (2) enhancing the protein transition through increasing plant-based sales and decreasing meat sales. The collaboration with the research team regarded the second aim of the project.",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Ethical decision-making",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do ethical beliefs influence people's actions in relevant ethical situations?",
+      "answer": "Ethical beliefs can influence individuals' actions and judgment in ethical situations. They are relevant in understanding individual ethical consumption and environmental ethics, as they can impact decision-making and behaviour in such contexts.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2667378923000433",
+      "paragraph": "",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Ethical decision-making",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some criticisms of decision structure nudges in digital environments?",
+      "answer": "Decision structure nudges in digital environments have been criticized for their short-term and contextual effects and for the ethical implications of potentially limiting an individual's choice radius.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000360",
+      "paragraph": "",
+      "macrotopic": "Quality education",
+      "topic": "Global citizenship",
+      "subtopic": "Ethical decision-making",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making",
+      "target": "Subtopic:Social|Quality education|Global citizenship|Ethical decision-making_qna_002",
+      "value": 1
+    }
+  ]
+}

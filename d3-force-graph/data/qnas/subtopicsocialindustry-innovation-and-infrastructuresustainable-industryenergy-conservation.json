@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation",
+      "label": "Energy conservation",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the primary focus of the research mentioned in the paragraph?",
+      "answer": "The primary focus of the research is to promote energy conservation and sustainable development of local traditional buildings of ethnic minorities on the Sichuan Plateau.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " With perspective focusing on the special regional and ethnic characteristics of the plateau, this research aims to promote energy conservation and sustainable development of local traditional buildings of ethnic minorities, and help improve the living environment of the Sichuan Plateau. In the future, a long-term monitoring mechanism can be established to continuously track residential buildings after the adoption of optimization measures to evaluate the actual effect of these measures. Keywords Sichuan plateau, Thermal division, Indoor thermal environment, Building energy simulation, Carbon emission Globally, building energy consumption has become an important issue1. With the rapid development of society, building energy consumption has accounted for more than 30% of global total energy consumption and about 27% of global energy emissions2 4. Finding a balance between indoor comfort and energy efficiency and efforts to reduce the negative impact on the environment has become an important challenge for the global construction industry. In the context of increasing energy and environmental pressures, the importance of energy-saving and environmentally friendly sustainable buildings is particularly urgent and important. Sustainable building practices play an important role in mitigating climate change and improving the comfort of occupants around the world.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Energy conservation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What historical events led to efforts in measuring and reducing energy use?",
+      "answer": "The oil shocks of the 1970s and early 1980s, which resulted in significant price increases and some supply shortages.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Using existing energy sources more ef ciently and greater adoption of renewable forms of energy at the farm-scalecan both save costs and reduce greenhouse gas (GHG) emissions. Efforts to measure and reduce energy use can be traced back to the oil shocks of the 1970s and early1980s, which saw signi cant increases in prices, and in some regions, supply shortages, resulting partly from actions by members of the Organization of etroleumExporting Countries (OPEC) [ 47]. In more recent times, concerns about GHG emissions and their contribution to global warming and climate change, as exempli ed by the2015 Paris Climate Agreement and the 2021 Glasgow Climate Pact, have motivated many national and local governments, and agricultural organizations to examine the means of reducing such emissions. Global energy demand is the principal contributor to the anthropogenic release ofGHGs, particularly carbon dioxide (CO 2), to the atmosphere. Global warming and climate change caused by GHG emissions are strongly linked to fossil energy production and utilization [ 39]. The global food supply chain is responsible for around one-third of end use energy con-sumption and a quarter of total GHG emissions [ 24].",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Sustainable industry",
+      "subtopic": "Energy conservation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Sustainable industry|Energy conservation_qna_001",
+      "value": 1
+    }
+  ]
+}

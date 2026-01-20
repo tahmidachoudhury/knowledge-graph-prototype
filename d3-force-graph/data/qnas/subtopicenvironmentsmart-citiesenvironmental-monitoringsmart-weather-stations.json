@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "label": "Smart weather stations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What type of gauges do the locations use to record data, and what issue do they face?",
+      "answer": "The locations use precipitation gauges to record their data, and they face issues with biases, particularly undercatch due to strong winds.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " SN99710), Ny- lesund (No. SN99910), and Svalbard Lufthavn (No. SN99840), managed by the Norwegian Centre for Climate Services in Svalbard, were retrieved from the database available at https://seklima.met.no/ The dataset spans multiple periods across the three Arctic locations: Bj rn ya - from January 1, 1964 to December 31, 2023, Ny- lesund from January 1, 1975 to December 31, 2023, and Svalbard Lufthavn from January 1, 1976 to December 31, 2023. the locations of all three stations (solid red circles). While Bj rn ya is a relatively small island, Ny- lesund and Svalbard Lufthavn are coastal stations situated near the sea. All three locations employ precipitation gauges to record their data. However, it is important to note that these gauges are subject to biases, particularly undercatch, which occurs during periods of strong winds. This can lead to an underestimation of actual precipitation amounts, affecting the accuracy of long-term precipitation measurements, especially in harsh Arctic conditions, where wind speeds can be significant39. It may be argued that the recent positive trends in precipitation in Svalbard could be due to the increase in wet snowfall and rainfall, which is more efficiently captured in the precipitation gauges compared to snowfall40.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What aspect of the rain gauge stations' history was known that aided in the study?",
+      "answer": "The full history of instrument types was known, which helped estimate likely changes in measurement errors for both networks.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Heavy rainfall observations We based our analysis on rainfall observations from 883 rain gauge stations (779 stations with daily resolution, 163 with hourly resolution) (Extended Data Fig. 1a) from two completely independent measure - ment networks over the period 1900 to 2023. One network is operated by GeoSphere Austria (GSA, the National Meteorological Service of Austria) and the other by the Hydrographic Service of Austria (HYD). Comparison of the two datasets offered a unique opportunity to objectively assess the role of measurement uncertainty vis- -vis real changes. The full history of instrument types is known, which allowed us to estimate likely changes in the measurement errors for both networks (Tables 1 and 2 ). Heavy rainfall was evaluated on https://doi.org/10.1038/s41586-25-8647-2 Received: 4 June 2024 Accepted: 10 January 2025 Published online: 12 March 2025 Open access Check for updates Department for Climate Impact Research, GeoSphere Austria Federal Agency for Geology, Geophysics, Climatology and Meteorology, Vienna, Austria. 2Directorate for Water Balance, Federal Ministry Republic of Austria for Agriculture, Forestry, Regions and Water Management, Vienna, Austria.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the meteorological stations mentioned in the paragraph used for?",
+      "answer": "The meteorological stations mentioned are used to collect daily precipitation data for modeling and analyzing precipitation extremes in Svalbard.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These approaches enable accurate extrapolation of probabilities and magnitudes beyond observed data, such as return levels for 50 or 100 years, providing realistic risk assessments. In climate studies, infrastructure design, and disaster preparedness-where conventional methods often underestimate the hazards of catastrophic events-EVT proves indispensable. Its distribution-independent nature, ability to account for heavy tails, and flexibility to incorporate trend behavior make it an essential tool for addressing the challenges posed by extreme climatic events. In Datasets and methods , we describe the location of the Svalbard archipelago, the datasets used, and the methods employed. A discussion on POT approach is included in the Sect. I of Supplementary information. In Results , we apply the POT method to model precipitation extremes at three stations in Svalbard. We analyze comparative studies of precipitation extremes for the two consecutive time intervals separately based on Arctic- wide temperature changes in Changes in the pattern of precipitation extremes during a recent warming period in the Arctic Finally, results are summarized in Discussion and conclusion Datasets and methods Daily precipitation data of the meteorological stations at Bj rn ya (No.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary purpose of weather surveillance radars?",
+      "answer": "The primary purpose is to quantify meteorological phenomena such as precipitation and monitor storm systems.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Data quality and coverage differs between years, countries, and radar stations, so care must be taken when evaluating data for each specific use case. Despite these challenges the datasets are currently the most comprehensive of their kind in Europe and open new avenues in understanding continental scale movements of aerial animals. Background & Summary Since the second world war, the airspace across the world has been monitored by an ever-growing network of silent sentinels, constantly interrogating the skies. Specialized radars monitor all forms of movement in the air, and one of the most widespread networks globally is that of weather surveillance radars. Their main purpose is to quantify meteorological phenomena such as precipitation and monitor storm systems, but weather radars also measure other things aloft in the lower atmosphere. As our abilities to analyze and store the huge amounts of data gathered by weather radar networks increase, new possible applications arise. One application that has seen a steep rise in use is the extraction of biological targets from weather radar data, information that is immensely useful for a broad variety of fundamental and applied biological and ecolog - ical questions1,2 As weather radars detect all aerial fauna, from insects3 to birds4 and bats5, they can continuously monitor the movements of animals in the air.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_004",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the purpose of OPERA in relation to weather radar data?",
+      "answer": "OPERA facilitates the exchange of weather radar information among national meteorological services in Europe.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " PVOL data result from the scanning routine of a radar (also known as volume coverage pattern or VCP). It consists of a number of scans (also called sweeps) collected at different elevation angles (angle between radar scan and horizon), with quantities observed by the radar such as reflectivity factor (DBZ) and radial velocity (VRAD) (see for example 24 for details). Scanning routines are typically conducted every 5 to 15 minutes and generally result in one PVOL file per routine. To exchange such data, national meteorological services in Europe collaborate in OPERA, the Operational Programme for the Exchange of Weather Radar Information25, under the umbrella of the European Meteorological Services Network, EIG EUMETNET. OPERA member countries submit PVOL data (or scans) to OPERA in real-time, using the ODIM HDF5 format26. Data are sometimes cleaned (i.e. filtered) for mete - orological purposes prior to distribution (see Usage Notes and20). These data are subsequently used in OPERA production centers to produce meteorological products. They are also forwarded to the OPERA development environment (ODE) server, where software called the BALTRAD Toolbox 27 does additional processing and archiving.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How did the changes in registration type of rain gauges improve the consistency between the networks?",
+      "answer": "Accounting for changes in registration types of rain gauges increased the consistency between the GSA and HYD networks, indicating improved reliability in the data.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The 90th and 99.9th percentiles increase by 12% and 18% in the last few decades, suggesting a somewhat stronger change, with increasing severity of the rainfall (Extended Data Fig. 2). The data from the two completely independent network operators (GSA and HYD) give fully consistent results, corrobo - rating the validity of the observed changes in heavy rainfall at both the daily and hourly time scales. Accounting for changes in the registration type of the rain gauges increased the consistency between the networks (Extended Data Fig. 3). A transition from manual to tipping bucket gauges for the daily series from the GSA decreased the trends slightly because the latter had smaller biases. The transition from floaters to weighing gauges for the hourly series of the HYD also decreased the trends slightly. There are clear differences in the evolution of the daily heavy rainfall changes between north and south of the European Alps (Fig. 1c). In the north, multidecadal variations are visible, with a low around 1980 and highs around 1940 and 2010, whereas in the south, the oscilla - tions are somewhat weaker and are followed by an increase after 2000.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_006",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How many rain gauge stations were used in the analysis of heavy rainfall observations?",
+      "answer": "A total of 883 rain gauge stations were used in the analysis.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Heavy rainfall observations We based our analysis on rainfall observations from 883 rain gauge stations (779 stations with daily resolution, 163 with hourly resolution) (Extended Data Fig. 1a) from two completely independent measure - ment networks over the period 1900 to 2023. One network is operated by GeoSphere Austria (GSA, the National Meteorological Service of Austria) and the other by the Hydrographic Service of Austria (HYD). Comparison of the two datasets offered a unique opportunity to objectively assess the role of measurement uncertainty vis- -vis real changes. The full history of instrument types is known, which allowed us to estimate likely changes in the measurement errors for both networks (Tables 1 and 2 ). Heavy rainfall was evaluated on https://doi.org/10.1038/s41586-25-8647-2 Received: 4 June 2024 Accepted: 10 January 2025 Published online: 12 March 2025 Open access Check for updates Department for Climate Impact Research, GeoSphere Austria Federal Agency for Geology, Geophysics, Climatology and Meteorology, Vienna, Austria. 2Directorate for Water Balance, Federal Ministry Republic of Austria for Agriculture, Forestry, Regions and Water Management, Vienna, Austria.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Smart weather stations",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Smart weather stations_qna_006",
+      "value": 1
+    }
+  ]
+}

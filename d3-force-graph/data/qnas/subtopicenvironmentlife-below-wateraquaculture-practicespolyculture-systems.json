@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems",
+      "label": "Polyculture systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What experimental design was employed for the larvae after hatching?",
+      "answer": "A split-brood design was used, with larvae individually transferred and allocated to one out of four treatments based on two rearing temperatures and two host plant treatments.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Therefore, females were kept individually in translucent plastic pots (1 L) covered with gauze. They were provided sucrose solution and fresh flowers for adult feeding, and leaves of Rumex acetosa as oviposition substrate. Deposited eggs were collected daily and transferred, separated by female, to small glass vials kept in one climate cabinet at 22 C (70% humidity, L19:D5 throughout) until hatching (Panasonic MIR-554). Hatchlings were fed on field-collected R. acetosa leaves under the same conditions for 4 days, after which they were allocated to treatments. Experimental design On day 5 after hatching, larvae were individually transferred to transparent plastic boxes (250 ml) lined with moist tissue and containing a fresh cutting of R. acetosa. Larvae were randomly allocated to one out of four treatments, using a split-brood design. We employed a full-factorial design with two rearing temperatures and two host plant treatments. Rearing temperatures had a mean of 19.2 C (light phase 20 C, dark phase 16 C; L19:D5 photoperiod) or 25.2 C (light phase 26 C, dark phase 22 C), and we used one climate cabinet per temperature (Panasonic MIR-554).",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Polyculture systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What types of species combinations were selected for the subsample in the study?",
+      "answer": "The subsample included ten monocultures (five fast and five slow species), combinations of 4- and 8-species mixtures for fast, mixed and slow species, and two replicates of the 20-species plots.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2017 50). The bryophyte species have independently colonized the field since the establishment of the experiment. Experimental design The experiment consists of 216 2 m 2 m plots, separated by a 1 m grass path, arranged in 4 blocks of 54 plots each (see Figure S1). We applied four experimental treatments in a full-factorial design, manipulating: (1) the nitrogen availability (through fertilization), (2) the presence of fungal pathogens (through fungicide application), (3) the functional composition of the vascular plant community (represented here by community-weighted mean (CWM) SLA), and (4) the vascular plant richness (sowing of either 1, 4, 8 or 20 species). For this study, we selected 96 of the 216 plots from the initial design, which represents a balanced subsample containing 24 unique sets of species combinations (each replicated in four blocks) crossed with the nitrogen treatment and fungicide application. The subsample contains ten monocultures (five fast and five slow species), two combinations of 4- and 8-species mixtures for fast, mixed and slow species each, and two replicates of the 20-species plots.",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Polyculture systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Polyculture systems_qna_001",
+      "value": 1
+    }
+  ]
+}

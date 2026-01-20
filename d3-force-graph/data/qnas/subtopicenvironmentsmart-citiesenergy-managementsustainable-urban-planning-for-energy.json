@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Sustainable urban planning for energy",
+      "label": "Sustainable urban planning for energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Sustainable urban planning for energy_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can energy sustainability in harmony with environmental sustainability be achieved through energy efficiency and renewable penetration?",
+      "answer": "Energy sustainability in harmony with environmental sustainability can be achieved by embedding energy efficiency and renewable penetration. This can be done through the implementation of appropriate policies and programs by federal and state entities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Sustainable urban planning for energy",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Sustainable urban planning for energy",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Sustainable urban planning for energy_qna_000",
+      "value": 1
+    }
+  ]
+}

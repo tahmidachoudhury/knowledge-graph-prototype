@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration",
+      "label": "Fauna and flora diversity restoration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the effect of interspecific competition on recovery and degradation of ecological status?",
+      "answer": "The study found stronger positive effects of interspecific competition during recovery (β = 2.99) compared to degradation (β = 1.59).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Background The global freshwater biodiversity crisis has led to widespread implementation of measures to counter - act environmental degradation and biodiversity loss. While these efforts aim to foster recovery, intensifying stressors continue to drive complex biotic responses, the trajectories and drivers of which are insufficiently understood. This study examines the roles of abiotic stressors, biotic interactions (e.g., competition), and land use in shaping ecological status changes across Germany, using data from 1599 river sites sampled at least twice between 2004 and 2022. Results Changes in abiotic stressors emerged as the most consistent drivers of ecological status, explaining sub - stantial variation (R2 = 0.39) and similar slopes for recovery ( = 0.11) and degradation ( = 0.10). Biotic interactions, particularly interspecific competition, also influenced the ecological status (R2 = 0.11), with stronger positive effects observed during recovery ( = 2.99) compared to degradation ( = 1.59). Land use effects varied by context: Streams in catchments with higher cropland or urban areas showed greater likelihood of recovery, whereas streams in forested catchments were more prone to degradation.",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Fauna and flora diversity restoration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "What is the main goal of the CALM framework introduced by Fauna & Flora International?",
+      "answer": "The main goal of the CALM framework is to put nature at the heart of sustainable development by facilitating collaboration across landscapes to address the impacts of development on biodiversity and ecosystem services.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " WWF LIVING PLANET REPORT 2022 76 77 TRANSFORMATIVE CHANGE NEEDS TO Nexus thinking can also be applied in support of conservation and restoration action, such as in spatial planning tools from global to sub-national scales (see Future modelling frontiers 4), helping to PLACE PEOPLE AND NATURE AT ITS HEART prioritise restoration actions for multiple goals ¹2. Factors such as the capacity to mobilise resources for the transition, the degree to which basic material living conditions are satisfied, Integration across sectors and embedding social and the expected vulnerability to environmental degradation, and the historical responsibility for ongoing environmental degradation environmental justice principles at the heart of the transition are not equally distributed across countries, sectors and actors. will be crucial. Considerations of equitable effort-sharing in the transition are key points of discussion during international negotiations under the United Nations Framework Convention on Climate Change David Leclère (International Institute for A critical transformative change intervention will be to adopt a and the Convention on Biological Diversity. For example, as Applied Systems Analysis), cross-sectoral, integrated approach (also termed 'nexus approach'), compared to other nations, developed countries have achieved to promote solutions with co-benefits and avoid solutions with a higher level of development, have a larger capacity to mitigate Bruna Fatiche Pavani (International trade-offs between biodiversity, climate and other and mobilise funding for adaptation, will be less affected by future Institute for Sustainability, Brazil), Detlef van Vuuren Examples of potential synergies include actions such as protecting environmental degradation, and are responsible for about half remaining forests and restoring ecosystems - sometimes labelled of cumulative historical greenhouse gas emissions: the application (University of Utrecht), 'nature-based solutions' and often promoted as double-wins of equity principles implies that developed nations should Aafke Schipper (Radboud University), for biodiversity and the climate.",
+      "macrotopic": "Life on land",
+      "topic": "Ecological restoration",
+      "subtopic": "Fauna and flora diversity restoration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration",
+      "target": "Subtopic:Environment|Life on land|Ecological restoration|Fauna and flora diversity restoration_qna_001",
+      "value": 1
+    }
+  ]
+}

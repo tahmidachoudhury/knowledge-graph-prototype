@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Weather-air quality integration",
+      "label": "Weather-air quality integration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Weather-air quality integration_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "Which datasets obtained PVOL data from BALTRAD and the University of Amsterdam?",
+      "answer": "The BALTRAD_VPTS28 dataset obtained PVOL data from BALTRAD, and the UVA_VPTS29 dataset obtained it from three national meteorological services.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This server is maintained by the Swedish Meteorological and Hydrological Institute (SMHI) and further referred to as BALTRAD European PVOL data are generally not publicly available. Access is granted to members of the ENRAM consortium (including authors of this paper) by meteorological institutes of many OPERA member countries (i.e. the 18 countries covered by the data, as well as Austria and the United Kingdom) through a license agree - ment. It states that PVOL data cannot be distributed further and can only be used for the purpose of extracting animal migration information for scientific research These restrictions do not apply to derived VP/VPTS data. For the BALTRAD_VPTS 28 dataset, we obtained PVOL data from BALTRAD. For the UVA_VPTS29 dataset, the University of Amsterdam (UvA) obtained PVOL data as part of several research projects related to avia - tion safety and wind energy, from three national meteorological services: the Royal Meteorological Institute of Belgium (RMI), German Meteorological Service (DWD) and Royal Netherlands Meteorological Institute (KNMI). In contrast with (recent) data provided to BALTRAD, these data are unfiltered and often contain dual polarization quantities, which results in higher quality VP data (see Usage Notes).",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Weather-air quality integration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Weather-air quality integration_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What atmospheric condition contributes to the formation of secondary air pollutants in Athens?",
+      "answer": "The dry, warm, and sunny climate, especially during the summer months, contributes to the formation of secondary air pollutants through photochemical reactions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2022a, b). Given the limited spatial representation of in situ monitoring stations, atmospheric numerical models, with the support of Earth Observation platforms, can effectively provide support for the prioritization of urban areas neces- sitating compensation actions. The Athens urban area is still subjected to frequent exceedances of the EU air qual- ity standards and the WHO recommendations, despite the decreasing trends reported by the National Ministry of Envi- ronment and Energy during the last two decades (MEEN 2022). The dry, warm and sunny climate, especially in the summer months, promotes the formation of secondary air pollutants through photochemical reactions and the accu- mulation of air pollution in the atmosphere. Moreover, the steadily rising temperatures projected to afflict the Medi- terranean region may lead to increased vulnerability of the local population to air pollution, since high temperatures have been linked to enhanced formation of air pollutants (Petrou et al. 2024). Indeed, during the aforementioned heat- waves of 2021 and 2023 in Athens, city-center PM2.5 con- centration levels were enhanced by 30 and 10%, respectively, compared to the respective average summer value (PM2.5 concentrations retrieved from PANACEA-RI, https:// air- quali ty.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Weather-air quality integration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Weather-air quality integration",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Weather-air quality integration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Weather-air quality integration",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Weather-air quality integration_qna_001",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems",
+      "label": "Acidic ecosystems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What impact do human activities have on macroinvertebrate community composition?",
+      "answer": "Human activities significantly affect the water and sediment chemistry, which in turn influences the composition and diversity of macroinvertebrate communities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Based on CCA analysis, seasons were positively associated with CCA axis 2, and were characterised by high Mg, Na, pH, sediment organic carbon, ammonium and phosphates, with all highlighted variables having a significant effect on macroinvertebrate community composition. The results obtained from this study highlighted that water and sediment chemistry had significant associations with changes in macroinvertebrate communities and composition. Therefore, understanding the relationship between water and sediment chemistry, and macroinvertebrates diversity matrices in rivers that are impacted by human activities is essential for comprehending the integrity of river ecosystem and for providing guidance to conservation managers. This knowledge will assist on how to effectively manage and safeguard these systems against further deterioration from anthropogenic activities. Keywords Macroinvertebrate community structure, Sediment, Water, Multivariate analysis, Diversity matrices Macroinvertebrate communities are widely used to assess the ecological integrity of river systems across spatial and temporal scales1,2. They are reliable bio indicators and play a vital role in supporting the overall aquatic ecosystem health, with their life cycles being lengthy enough to respond to changes brought on by anthropogenic activities and perturbations3. According to Ogidi et al.4, bioindicators are species or a community of organisms that represent an environment S abiotic and biotic status and demonstrate how environmental change affects the habitat, community, and/or ecosystem.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidic ecosystems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What impact does land-use intensification have on bryophytes according to the results?",
+      "answer": "Land-use intensification affects bryophytes by decreasing structural and resource niche heterogeneity, leading to a loss of vascular plant richness, which may have cascading effects on other taxonomic groups.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This might be because of decreased structural and resource niche heterogeneity in species-poor communities. Our results highlight novel mechanisms by which land-use intensification can affect bryophytes and suggest that a loss of vascular plant richness might have cascading effects on other tax onomic groups. Keywords Biodiversity experiment, Bryophyte diversity, Functional traits, Moss, Nitrogen enrichment, Species richness Grasslands cover about 40% of the earth S terrestrial land surface 1. They harbor a high diversity of specialized taxa and may support the largest number of vascular plant species at small spatial scales ( 50 m2) 2. Grasslands have also suffered the highest rate of biodiversity loss over the past 100 years 3. In Western Europe, land- use intensification, which includes fertilizer application and frequent mowing or grazing with high stocking densities, is among the major threats 4. Nitrogen is the most frequently applied fertilizer and together with atmospheric deposition has become one of the major global change drivers. Although intensification increases grassland productivity, it simultaneously leads to a loss of biodiversity 5 and to a shift of the vascular plant community towards fast growth strategies, better adapted to nutrient-rich conditions 6.",
+      "macrotopic": "Life below water",
+      "topic": "Ocean acidification",
+      "subtopic": "Acidic ecosystems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems",
+      "target": "Subtopic:Environment|Life below water|Ocean acidification|Acidic ecosystems_qna_001",
+      "value": 1
+    }
+  ]
+}

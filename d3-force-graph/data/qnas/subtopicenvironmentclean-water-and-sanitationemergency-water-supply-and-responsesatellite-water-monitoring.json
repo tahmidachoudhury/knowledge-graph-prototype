@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Satellite water monitoring",
+      "label": "Satellite water monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Emergency water supply and response"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Satellite water monitoring_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What type of satellite imagery is utilized for quantitative assessments in environmental monitoring?",
+      "answer": "Multi-temporal satellite imagery is utilized for quantitative assessments in environmental monitoring.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021). The advancement of modern technological tools like geographic information systems (GIS) and remote sens- ing (RS) have revolutionized environmental monitoring and management. These tools enable the coverage of large areas and facilitate the acquisition of data from inaccessible locations, surpassing the limitations of traditional studies (Barraza-Moraga et al. 2022; Ouma et al. 2020). They have become essential in monitoring and managing environmen- tal changes effectively, utilizing multi-temporal satellite imagery for quantitative assessments (Barraza-Moraga et al. 2022; Majumder et al. 2023; Rejaur Rahman and Rahman 2023). Remote sensing has been widely applied to identify UBS and UGS spaces, while its potential for monitoring chlorophyll-a (Chl-a) has expanded beyond the constraints of traditional active techniques (Ayeni and Adesalu 2018; Barraza-Moraga et al. 2022; Bramich et al. 2021; Zarco- Tejada et al. 2019). However, although GIS and RS provide valuable data on UBS, UGS, and chlorophyll, their inter - relationships and combined impacts remain underexplored. Previous studies (e.g., (Wang et al.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Emergency water supply and response",
+      "subtopic": "Satellite water monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Satellite water monitoring",
+      "target": "Subtopic:Environment|Clean water and sanitation|Emergency water supply and response|Satellite water monitoring_qna_000",
+      "value": 1
+    }
+  ]
+}

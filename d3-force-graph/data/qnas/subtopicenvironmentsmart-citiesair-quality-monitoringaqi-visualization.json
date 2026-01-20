@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "label": "Aqi visualization",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What does the size of the circles in the TSS plume representation indicate?",
+      "answer": "The size of each circle indicates the area of the TSS plume.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The water level in Kakhovka Reservoir was around 17.5 m above sea level before explosion, and around 90% of the reservoir was drained after dam breach. The loss of 1Earth and Planetary Observation Sciences (EPOS), Biological and Environmental Sciences, Faculty of Natural Sciences, University of Stirling, Sti rling, UK. 2Department of Meteorology and Climatology, Odesa I.I.Mechnikov National University, Odesa, Jkraine.3Department of Oceanography and Marine Nature Management, Odesa I.I.Mechnikov National University, Odesa, Ukraine.4Department of Military Training, Odesa I.I.Mechnikov National University, Odesa, Ukraine. 5Department of Land Hydrology, Odesa I.I.Mechnikov National University, Odesa, Ukraine.6National Institute of Marine Geology and Geo-ecology (GeoEcoMar), Bucharest, Romania.7Institute of Oceanology, Bulgarian Academy of Sciences (IO-BAS), Varna, Bulgaria. e-mail: dalin.jiang@stir.ac.uk Communications Earth & Environment plume from the Kakhovka Dam breach and its impacts on the aquatic environ-ment in the north-western Black Sea (NWBS). Circles represent the locations of the TSS plume centre after the dam breach, between 9 June and 2 July 2023. The size ofeach circle indicates the area of the TSS plume, while the colour of the circle re ects the mean TSS in the plume area.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Aqi visualization",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What information is conveyed by the color of the circles in the TSS plume representation?",
+      "answer": "The color of the circle reflects the mean TSS in the plume area.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The water level in Kakhovka Reservoir was around 17.5 m above sea level before explosion, and around 90% of the reservoir was drained after dam breach. The loss of 1Earth and Planetary Observation Sciences (EPOS), Biological and Environmental Sciences, Faculty of Natural Sciences, University of Stirling, Sti rling, UK. 2Department of Meteorology and Climatology, Odesa I.I.Mechnikov National University, Odesa, Jkraine.3Department of Oceanography and Marine Nature Management, Odesa I.I.Mechnikov National University, Odesa, Ukraine.4Department of Military Training, Odesa I.I.Mechnikov National University, Odesa, Ukraine. 5Department of Land Hydrology, Odesa I.I.Mechnikov National University, Odesa, Ukraine.6National Institute of Marine Geology and Geo-ecology (GeoEcoMar), Bucharest, Romania.7Institute of Oceanology, Bulgarian Academy of Sciences (IO-BAS), Varna, Bulgaria. e-mail: dalin.jiang@stir.ac.uk Communications Earth & Environment plume from the Kakhovka Dam breach and its impacts on the aquatic environ-ment in the north-western Black Sea (NWBS). Circles represent the locations of the TSS plume centre after the dam breach, between 9 June and 2 July 2023. The size ofeach circle indicates the area of the TSS plume, while the colour of the circle re ects the mean TSS in the plume area.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Aqi visualization",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the Concept mapping method contribute to understanding stakeholders' perspectives?",
+      "answer": "The Concept mapping method creates a visual representation of insights and perspectives from each group, providing a clearer understanding of the stakeholders' viewpoints.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Aqi visualization",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Who proposed the iconic graph used to illustrate these concepts?",
+      "answer": "The iconic graph used to illustrate these concepts was proposed by Odum in 1983.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In these narratives, living systems which are com- plex adaptive systems are described as metabolic sys- items operating over different hierarchical levels, in which structural elements (parts) generate a series of functional types (expressing part whole relations) that, in a syner - gic collaboration, reproduce the structural elements of the whole (e.g., Lomas and Giampietro 2017; Odum 1971a; Ulanowicz 1986). This postulate is illustrated for a basic ecosystem in Fig. 1, using the iconic graph proposed by Odum (1983). The left-hand graph of Fig. 1 shows the relations between the functional elements (the nodes) plants, herbivores, carnivores of an ecosystem (the whole). The right- hand graph of Fig. 1 details the specific relations among the structural elements (individual organisms) inside the functional node herbivores . The latter graph shows that the metabolic characteristics of the network can be represented in two non-equivalent ways: 1. From the outside of the node (left-hand graph), i.e., seen from the perspective of the rest of the network, considering the node herbivores as a functional whole.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Aqi visualization",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Aqi visualization_qna_003",
+      "value": 1
+    }
+  ]
+}

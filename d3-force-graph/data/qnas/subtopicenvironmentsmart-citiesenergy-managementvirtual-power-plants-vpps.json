@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)",
+      "label": "Virtual power plants (vpps)",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What algorithm is used to process PVOL data into VP data?",
+      "answer": "The vol2bird algorithm is used to process PVOL data into VP data.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " PVOL to VP data processing. We created VP data by processing PVOL data with the vol2bird algo- rithm30,31, using the default settings. A VP consists of estimated density, speed and direction of biological targets such as birds, bats and insects within a weather radar volume per altitude layer. The vol2bird algorithm uses a combination of local variation in radial velocity (VRADH) and reflectivity (DBZH) thresholds to extract animal (mainly bird) signals. Each PVOL file results in a corresponding VP file, a HDF5 file expressed in the ODIM bird profile format For BALTRAD_VPTS, data from 2012 to 2017 were obtained from the BALTRAD archive and processed to VP data once, while data from 2018 onward are created by an operational service at BALTRAD (see Fig. 1). For UVA_VPTS, data were processed once. All processing was done with vol2bird v0.3 or v0.5. The vol2bird version and used parameters are recorded in the VP metadata. 3 Scientific Data www.nature.com/scientificdata www.nature.com/scientificdata/VP to VP tS data processing. We then extracted the tabular data and relevant metadata from the VP files (55 772 262 files), combined these into time series and converted those to the VPTS CSV (v1.0) format32.",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Virtual power plants (vpps)",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many VP files were generated from the processed VP data?",
+      "answer": "A total of 55,772,262 VP files were generated.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " PVOL to VP data processing. We created VP data by processing PVOL data with the vol2bird algo- rithm30,31, using the default settings. A VP consists of estimated density, speed and direction of biological targets such as birds, bats and insects within a weather radar volume per altitude layer. The vol2bird algorithm uses a combination of local variation in radial velocity (VRADH) and reflectivity (DBZH) thresholds to extract animal (mainly bird) signals. Each PVOL file results in a corresponding VP file, a HDF5 file expressed in the ODIM bird profile format For BALTRAD_VPTS, data from 2012 to 2017 were obtained from the BALTRAD archive and processed to VP data once, while data from 2018 onward are created by an operational service at BALTRAD (see Fig. 1). For UVA_VPTS, data were processed once. All processing was done with vol2bird v0.3 or v0.5. The vol2bird version and used parameters are recorded in the VP metadata. 3 Scientific Data www.nature.com/scientificdata www.nature.com/scientificdata/VP to VP tS data processing. We then extracted the tabular data and relevant metadata from the VP files (55 772 262 files), combined these into time series and converted those to the VPTS CSV (v1.0) format32.",
+      "macrotopic": "Smart cities",
+      "topic": "Energy management",
+      "subtopic": "Virtual power plants (vpps)",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)",
+      "target": "Subtopic:Environment|Smart cities|Energy management|Virtual power plants (vpps)_qna_001",
+      "value": 1
+    }
+  ]
+}

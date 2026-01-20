@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management",
+      "label": "Regenerative land management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are the impacts of full-sun cocoa plantations on soil fertility and biodiversity?",
+      "answer": "Full-sun cocoa plantations degrade soil fertility and biodiversity, which impacts crop health and decreases resilience.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " : (123456789) output in the long term is uncertain. Full-sun cocoa plantations can degrade soil fertility and biodiver - sity which impacts crop health and decreases resil- ience (Ariza-Salamanca et al. 2023; Tondoh et al. 2015; Bennett et al. 2021). Full-sun systems have also been found to stop producing cocoa at a younger age (Andres et al. 2016; Wessel and Quist-Wessel 2015). Agroforestry has therefore become a topic of interest as both a climate change mitigation measure through its retention of trees as well as an adaptation measure through regulation of micro-climates (e.g., shading cocoa from direct sunlight) and provision of diversi- fied income streams (Jagoret et al. 2019). With proper management, agroforestry systems can have 10 times the total system output (when non-cocoa harvests are included) compared to their full-sun counterparts, potentially contributing to greater food and income security (Niether et al. 2020; Jezeer et al. 2017). Globally, with greater prioritization of sustainabil- ity, there has been a movement amongst national gov - ernments, NGOs and agricultural research organiza- tions towards climate resilient agriculture, including a returning interest in agroforestry practices (Sanial et al.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Regenerative land management",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does regenerative farming relate to food production and the farming system?",
+      "answer": "Regenerative farming not only focuses on soil restoration but also critically examines food production and the broader farming system, including the role and welfare of all actors involved.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " chemicals, greater crop and biological diversity, fewer annu - als and more perennials, and practices that mimic natural ecological processes (Moyer et al. 2020). Furthermore, in some interpretations, regenerative farming combines soil (or, more broadly, nature) restoration with a critical per - spective on food production and the broader farming sys- tem (LaCanne and Lundgren 2018; Al-Kaisi and Lal 2020; Schreefel et al. 2020; Tittonell et al. 2022). This is done by also questioning the role and welfare of all actors in the farming system, the role of capitalism, and what knowledge is appreciated (Duncan et al. 2020). Thus, in its extensive interpretation, regenerative thinking and farming imply a radical systemic shift from current predominant farming practices, which focus on input-output cost calculations, to a broader understanding of a farming system that restores the wellbeing of all beings. Regenerative agriculture (RA) has become an ambigu- ous discourse and practice used by actors who seemingly belong to opposite sides of the farming debates (Tittonell et al.",
+      "macrotopic": "Life on land",
+      "topic": "Reforestation initiatives",
+      "subtopic": "Regenerative land management",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management",
+      "target": "Subtopic:Environment|Life on land|Reforestation initiatives|Regenerative land management_qna_001",
+      "value": 1
+    }
+  ]
+}

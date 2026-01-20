@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing",
+      "label": "Remote sensing",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What technologies are highlighted in the study for understanding urban dynamics?",
+      "answer": "The study highlights the integration of machine learning, remote sensing, and biophysical data for understanding urban dynamics.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The implications of this study extend far beyond the basin of interest. It highlights the broader rel- evance of integrating machine learning, remote sensing, and biophysical data to understand urban dynamics. Machine learning techniques such as ran- dom forest (RF), support vector machine (SVM), K-nearest neighbor (KNN), and multivariate adap- tive regression splines (MARS) have proven to be powerful tools for classifying and predicting land use and land cover (LULC) changes (Amani et al., 2020; Kang & Kanniah, 2022). Using computing platforms like Google Earth Engine allows for the rapid pro- cessing of extensive spatial datasets, making it possi- ble to detect and analyze urban changes even in data- scarce regions (Sun et al., 2021; Tankpa et al., 2020). This approach underscores the global potential of such methodologies to monitor urban transformations and their environmental impacts, enabling researchers Environ Monit Assess (2025) 197:441 441 Vol. : (123456789) and policymakers to address urban sustainability challenges effectively. The integration of biophysical variables into these analyses not only enhances our understanding of how urbanization alters ecosystems but also provides a pathway for data-driven decision- making in managing urban growth across diverse contexts, particularly in rapidly developing regions.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Remote sensing",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is a key limitation of the methods used in the studies mentioned in the paragraph?",
+      "answer": "The methods have limited spatial accuracy and public accessibility due to the use of commercial satellite imagery.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2020; Benefoh et al. 2018). When this study was conducted, only three studies in West Africa (Ghana and Cameroon) had been able to distinguish agrofor - estry cocoa systems from their full-sun counterparts (Ashiagbor et al. 2020; Numbisi et al. 2019; Benefoh et al. 2018). While of great scientific relevance, the methods used in those studies have limited spatial accuracy or public accessibility due to the use of com- mercial satellite imagery. This has resulted in limited applicability for cocoa land use planning (Ashiagbor et al. 2020), and understanding of the current level of climate change adaptation in Nigeria. Since this study was conducted, there have been some further developments in this area (such as Moraiti et al. 2024; Kanmegne Tamga et al. 2023). That said, mapping in Nigeria has continued to be limited. A recent map- ping exercise conducted by CHUSSDEV (2023) in Cross River State, has emphasized the importance of accurate mapping to address challenges such as forest and biodiversity loss faced by the sector.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Remote sensing",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What specific application of remote sensing has been noted in the document?",
+      "answer": "Remote sensing has been widely applied to identify urban built-up spaces (UBS) and urban green spaces (UGS) and monitor chlorophyll-a (Chl-a).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021). The advancement of modern technological tools like geographic information systems (GIS) and remote sens- ing (RS) have revolutionized environmental monitoring and management. These tools enable the coverage of large areas and facilitate the acquisition of data from inaccessible locations, surpassing the limitations of traditional studies (Barraza-Moraga et al. 2022; Ouma et al. 2020). They have become essential in monitoring and managing environmen- tal changes effectively, utilizing multi-temporal satellite imagery for quantitative assessments (Barraza-Moraga et al. 2022; Majumder et al. 2023; Rejaur Rahman and Rahman 2023). Remote sensing has been widely applied to identify UBS and UGS spaces, while its potential for monitoring chlorophyll-a (Chl-a) has expanded beyond the constraints of traditional active techniques (Ayeni and Adesalu 2018; Barraza-Moraga et al. 2022; Bramich et al. 2021; Zarco- Tejada et al. 2019). However, although GIS and RS provide valuable data on UBS, UGS, and chlorophyll, their inter - relationships and combined impacts remain underexplored. Previous studies (e.g., (Wang et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Remote sensing",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Remote sensing_qna_002",
+      "value": 1
+    }
+  ]
+}

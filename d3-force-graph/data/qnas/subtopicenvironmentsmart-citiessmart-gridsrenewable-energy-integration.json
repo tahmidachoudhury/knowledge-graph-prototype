@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration",
+      "label": "Renewable energy integration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How does integrating renewable energy into the conventional grid benefit smart cities?",
+      "answer": "Integrating renewable energy into the conventional grid increases the capacity of cities to pursue emission reduction agendas according to Blast et al. (2022).",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Renewable energy integration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How did smart grid technologies contribute to the increase in the Renewable Energy Penetration Rate from 15% to 35% between Year 1 and Year 5?",
+      "answer": "Smart grid technologies facilitated the successful integration of renewable energy sources, leading to a substantial increase in the Renewable Energy Penetration Rate.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Renewable energy integration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "What are the key benefits of smart grids in terms of energy efficiency and renewable energy integration?",
+      "answer": "The key benefits of smart grids include enabling the integration of renewable energy sources, reducing environmental harm, and promoting energy efficiency.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Renewable energy integration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration_qna_003",
+      "group": "QnA",
+      "label": "",
+      "question": "How does the quantitative analysis demonstrate the impact of smart grids on renewable energy penetration, carbon emissions, and energy efficiency?",
+      "answer": "The quantitative analysis shows a noticeable increase in renewable energy penetration, a decrease in carbon emissions, and improved energy efficiency in regions with high smart grid adoption.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Renewable energy integration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Renewable energy integration_qna_003",
+      "value": 1
+    }
+  ]
+}

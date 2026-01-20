@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring",
+      "label": "Chemical exposure monitoring",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Safe working conditions"
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was used to monitor the completion of the reaction?",
+      "answer": "The completion of the reaction was monitored by Thin Layer Chromatography (TLC).",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " An ethyl acetate and petroleum ether mixture was used as the eluent in column chromatography using silica gel, which was utilized to purify the end product. The concentration ratio between the two liquids was 1 2. Yield: 70%, white solid, mp: 173 175 C; lit. mp: 168 170 C [ 28]. Synthesis of 9-ethyl-6-(2-(9-heptyl-9 H-carbazol-3-yl) Vinyl)-9 H-carbazole-3-carbaldehyde (7) The following ingredients were added: 0.25 g of ethyl- 9H-carbazole-3,6-dicarbaldehyde 6 (6 mmol), 15 mg of 18-crown-6 (0.5 mmol), and 0.276 g of K2CO3 (2 mmol). Stirring was continued for 30 min. Add 0.620 g and 1 mmol of adduct 5 in 15 mL of dry DMF dropwise to the mixture. It was then allowed to sit for 3 h at 70 C with nitrogen. The reaction mixture was heated to 70 C and stirred for 24 h to allow the completion of the reaction, which was observed by TLC. The mixture was then poured into 100 mL of ice- cold water. A mixture of ethyl acetate and petroleum ether at a concentration ratio of 1:9 was used as the eluent in column chromatography using silica gel to isolate the oily substance, yielding aldehyde 7.",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Safe working conditions",
+      "subtopic": "Chemical exposure monitoring",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does Factory A perform in terms of systematic chemical use monitoring compared to Factory B and Factory C?",
+      "answer": "Factory A scores 10 points in systematic chemical use monitoring, while Factory B and Factory C both score 10 points as well.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0959652623010582",
+      "paragraph": "",
+      "macrotopic": "Decent work and economic growth",
+      "topic": "Safe working conditions",
+      "subtopic": "Chemical exposure monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring",
+      "target": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring",
+      "target": "Subtopic:Social|Decent work and economic growth|Safe working conditions|Chemical exposure monitoring_qna_001",
+      "value": 1
+    }
+  ]
+}

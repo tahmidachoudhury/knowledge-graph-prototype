@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Peer-to-peer lending",
+      "label": "Peer-to-peer lending",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Finance accessibility|Peer-to-peer lending_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "Why is a business-to-consumer rental arrangement considered more trustworthy than peer-to-peer platforms?",
+      "answer": "A business-to-consumer rental arrangement is considered more trustworthy than peer-to-peer platforms because of the standards and protocols set by businesses, ensuring professionalism and cleanliness, which may not always be guaranteed in peer-to-peer transactions.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0016718523001999",
+      "paragraph": "",
+      "macrotopic": "No poverty",
+      "topic": "Finance accessibility",
+      "subtopic": "Peer-to-peer lending",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Finance accessibility|Peer-to-peer lending",
+      "target": "Subtopic:Social|No poverty|Finance accessibility|Peer-to-peer lending_qna_000",
+      "value": 1
+    }
+  ]
+}

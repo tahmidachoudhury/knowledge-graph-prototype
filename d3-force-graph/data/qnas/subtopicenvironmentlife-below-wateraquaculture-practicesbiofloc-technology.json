@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Biofloc technology",
+      "label": "Biofloc technology",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Aquaculture practices|Biofloc technology_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What advantages do living microalgae-loofah biocomposites offer compared to traditional suspended algae?",
+      "answer": "They intensify traditional suspended algae cultivation systems while requiring less space and water and help mitigate contamination issues from external substances.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " However, in standalone absorption systems, achieving substantial CO2 capture necessitates higher amine concentrations to ensure adequate amine groups are available. Consequently, identifying microalgae strains capable of tolerating high-concentration and Scientific Reports enhancing CO2 removal from the amine solution to expedite regeneration are critical factors for the effective integration of these dual processes. Currently, living biocomposites technology, cell immobilization within a coating matrix with non-toxic binders for microbial cell entrapment, which allow the cells to adhere to solid materials, has been developed in various fields such as CO2 capture27 31 and wastewater treatment32,33. The living microalgae-loofah biocomposites could intensify traditional suspended algae cultivation systems while requiring less space and water. This promising technique also mitigated contamination issues from external substances34. To increase long-term durability, immobilization method, binder selection, and support materials are crucial factors for producing effective biocomposites. The materials for cell immobilization should have large surface area for enough cell adhesion, good light penetration to support photosynthesis, non-toxicity to ensure cell viability, good mechanical properties for long-term use, no adverse effects on biological efficiency, support for mass transfer of gases and nutrients, and cost-effectiveness with an ease of scale-up35,36.",
+      "macrotopic": "Life below water",
+      "topic": "Aquaculture practices",
+      "subtopic": "Biofloc technology",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Aquaculture practices|Biofloc technology",
+      "target": "Subtopic:Environment|Life below water|Aquaculture practices|Biofloc technology_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Non-farm employment opportunities",
+      "label": "Non-farm employment opportunities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods"
+    },
+    {
+      "id": "Subtopic:Social|Zero hunger|Rural livelihoods|Non-farm employment opportunities_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How has the influx of immigrants impacted the agricultural workforce in rural areas?",
+      "answer": "The influx of immigrants has helped solve the problem of ageing employees in rural areas for several years, but as the number of immigrants decreases, there may be a looming issue in the future.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "Zero hunger",
+      "topic": "Rural livelihoods",
+      "subtopic": "Non-farm employment opportunities",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Zero hunger|Rural livelihoods|Non-farm employment opportunities",
+      "target": "Subtopic:Social|Zero hunger|Rural livelihoods|Non-farm employment opportunities_qna_000",
+      "value": 1
+    }
+  ]
+}

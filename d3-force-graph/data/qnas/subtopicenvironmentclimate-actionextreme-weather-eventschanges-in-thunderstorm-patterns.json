@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "label": "Changes in thunderstorm patterns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does a shape parameter greater than 0 signify regarding precipitation extremes?",
+      "answer": "A shape parameter greater than 0 indicates a high probability of experiencing precipitation extremes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In interpreting the results using the generalized extreme value theory (GEVT), the shape parameter of the distribution is an indication of the distinct regimes. It suffices to state here that if the shape parameter <0, we can expect precipitation extremes with low probability with an upper bound, while the shape parameter >0 indicates a high probability of getting precipitation extremes. For the shape parameter =0, the chances of occurrence of extremes decrease exponentially. For more details, refer to Sect. I in Supplementary information. Results Pattern of precipitation extremes in the three locations of Svalbard lesund, and Svalbard Lufthavn. We consider 99th percentile of the daily precipitation values as a threshold for the extreme events. Precipitation events above the threshold (horizontal black dashed lines) are considered as precipitation extremes. Ny- lesund exhibits strong extremes than the other two locations; Svalbard Lufthavn was characterized by smaller values for extremes. three stations. Fig. 1 . (a) Locations of Bj rn ya (Bear Island), Ny- lesund, and Svalbard Lufthavn (Lufthavn) are ( 74.4522 N, 19.1152 E), (78.9 N, 11.9 E), and (78.25 N, 15.49 E), respectively.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method is used to model the excess part of precipitation extremes in the study?",
+      "answer": "The study uses the Generalized Pareto Distribution (GPD) method to model the excess part of precipitation extremes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " II of Supplementary information). We model the excess part of precipitation extremes from the threshold with GPD and estimate the return level of precipitation extremes. Our aim is to investigate concurrent changes in extreme precipitation patterns under the Arctic warming scenario using the POT method. By analyzing the trend of Arctic temperature, we are able to identify the transitions that may represent regime changes, e.g., from low precipitating to extreme precipitating periods. In our analysis, the year 1994 appears to be a year of transition. Based on this information, we split the whole time period into two periods, (a) before 1994 and (b) from 1994 to 2023. We also analyze and plot return levels to estimate the amount of precipitation extremes during specified return periods. These return levels describe the amount of precipitation that is expected to be equaled or exceeded once in a certain time period (e.g., 10 years, 50 years, or 100 years). A visualization of these return levels provides a probabilistic framework for understanding and measuring the intensity of rare precipitation occurrences, and thereby assisting the assessment of extreme event risks.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which statistical method is used to identify precipitation extremes in this study?",
+      "answer": "The peak over threshold (POT) method is used to identify precipitation extremes in the study.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Extreme events differ seasonally, interannually, and geographically, highlighting the complexity of spatio-temporal variability in precipitation across the Svalbard archipelago 25 27, where most of the stations are located near the ocean, making them particularly suitable for studying oceanic precipitation. Oceanic precipitation constitutes about 60% of total precipitation over the Arctic land areas 31, representing a critical but underexplored aspect of the Arctic hydrological cycle. In this perspective, we explore intense precipitation events or extremes at three stations in Svalbard using extreme value theory (EVT). We use the peak over threshold (POT) method for identifying precipitation extremes. Classical statistical methods primarily focus on the average behavior of stochastic processes, whereas EVT concentrates on the tail of the distribution, making it particularly relevant for studies of rare and high- impact occurrences. EVT provides a robust model and framework to describe unusual events often encountered in geoscience applications, such as extreme precipitation, heatwaves, and floods32 38. This statistical theory offers powerful methodologies for modeling extremes, including the generalized extreme value (GEV) distribution and the generalized Pareto distribution (GPD).",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_003",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the correlation between hourly heavy rainfall changes and temperature increases according to the findings?",
+      "answer": "Hourly heavy rainfall changes are aligned with temperature increases, showing a sensitivity of a 7% increase per 1°C of warming.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Nature ArticleIncreasing hourly heavy rainfall in Austria reflected in flood changes Klaus Haslinger1 Korbinian Breinl2, Lovrenc Pavlin2, Georg Pistotnik1, Miriam Bertola3, Marc Olefs1, Marion Greilinger1, Wolfgang Sch ner4 & G nter BI schl3 Climate change is expected to increase heavy rainfall with concomitant increases in flooding1. Causes of increased heavy rainfall include the higher water-holding capacity of a warmer atmosphere and changes in atmospheric circulation patterns2, which may translate into future heavy rainfall increases in most of Europe3. However, gathering evidence on the time evolution of past changes has been hampered by data limitations and measurement uncertainties, in particular for short rainfall durations, such as 1 h. Here we show an 8% increase in daily and 15% increase in hourly heavy rainfall over the last four decades by analysing a new dataset comprising 883 stations in Austria from 1900 to 2023. These increases are fully consistent between two independent networks and occurred after a retarding phase between 1960 and 1980. Hourly heavy rainfall changes are aligned with temperature increases with the sensitivity of a 7% increase per 1 C of warming, in line with Clausius Clapeyron scaling.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Which approach is employed on datasets of corrected precipitation to study extreme events?",
+      "answer": "The peaks over threshold (POT) approach is employed.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The wetting loss ( pw) and evaporation loss ( pe) is calculated as 0.15 mm for rain and 0.1 mm for snow42 and the corrected precipitation is given by (Pg+ p)k. Even though this method is designed for automatic gauges, the same method can be applied to the Norwegian gauges established in the above-mentioned three stations, since the ratio of precipitation data from Norwegian gauges and automatic gauges is close to one40. In earlier studies, EVT35 38,43 45 was usually applied to study precipitation. It allows characterization and modeling of extreme events through the use of extreme value distributions, which represent a limiting behavior of minimum or maximum data values33,34. We employ the peaks over threshold (POT) approach on datasets of the corrected precipitation (described above). In the POT method, any events that exceed a specified threshold are only considered as extreme events and included in the dataset; it assumes a generalized Pareto distribution (GPD) of excesses of events over the prescribed threshold. We define the threshold as 99-th percentile of the data, as a standard approach in this field46 (described in Sect.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does a shape parameter less than 0 indicate in the context of precipitation extremes according to the generalized extreme value theory (GEVT)?",
+      "answer": "A shape parameter less than 0 indicates that we can expect precipitation extremes with low probability and an upper bound.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " In interpreting the results using the generalized extreme value theory (GEVT), the shape parameter of the distribution is an indication of the distinct regimes. It suffices to state here that if the shape parameter <0, we can expect precipitation extremes with low probability with an upper bound, while the shape parameter >0 indicates a high probability of getting precipitation extremes. For the shape parameter =0, the chances of occurrence of extremes decrease exponentially. For more details, refer to Sect. I in Supplementary information. Results Pattern of precipitation extremes in the three locations of Svalbard lesund, and Svalbard Lufthavn. We consider 99th percentile of the daily precipitation values as a threshold for the extreme events. Precipitation events above the threshold (horizontal black dashed lines) are considered as precipitation extremes. Ny- lesund exhibits strong extremes than the other two locations; Svalbard Lufthavn was characterized by smaller values for extremes. three stations. Fig. 1 . (a) Locations of Bj rn ya (Bear Island), Ny- lesund, and Svalbard Lufthavn (Lufthavn) are ( 74.4522 N, 19.1152 E), (78.9 N, 11.9 E), and (78.25 N, 15.49 E), respectively.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_006",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the relationship observed between heavy rainfall and temperature according to several studies?",
+      "answer": "Several studies suggest that there is a relationship where heavy rainfall increases by about 7% for each degree of warming.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For sub-daily time scales, several observation-based studies point towards a relationship of heavy rainfall and temperature, suggesting an increase of about 7% per degree of warming. This percentage is consistent with the Clausius Clapeyron relationship that describes an increase in the atmospheric water-holding capacity with tempera- ture2,9,10. In some areas, such as the Netherlands, larger percentages have been determined, known as super scaling11,12 However, enhanced water-holding capacity is only one of the controls of increased heavy rainfall, and there are still discrepancies between observed trend magnitudes and changes in potential drivers2. This is mostly due to a lack of long, high-quality observations. Although recent progress has been made in compiling data13, there is still very low confidence in the changes in hourly heavy rainfall1. Also, rain gauge instrumentation has changed in most countries of the world in the last few decades (floaters, tipping buckets, weighing gauges). Different error characteristics of the instruments may have masked any changes or given rise to appar- ent changes, depending on the error magnitudes 14,15. Here we analyse the most comprehensive dataset of heavy rainfall in Austria from two independent networks, and show, with high con- fidence, that hourly heavy rainfall has been increasing since 1980, induced by climate change, and is closely reflected in increasing floods in small catchments.",
+      "macrotopic": "Climate action",
+      "topic": "Extreme weather events",
+      "subtopic": "Changes in thunderstorm patterns",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns",
+      "target": "Subtopic:Environment|Climate action|Extreme weather events|Changes in thunderstorm patterns_qna_006",
+      "value": 1
+    }
+  ]
+}

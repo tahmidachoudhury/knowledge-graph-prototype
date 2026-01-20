@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment",
+      "label": "Threat assessment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What risks are associated with selecting high-performing individuals from coral populations?",
+      "answer": "Selection can reduce diversity, which may counteract conservation efforts, especially in small effective population sizes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Exploring intrapopulation variation in heat stress performance helps explain the full complexity of ther - mal tolerance and has practical applications such as identi- fying high-performing individuals for active management work and predicting population response for planning and setting expectations. For example, choosing coral stocks for propagation in proactive restoration projects requires knowl- edge of the heat tolerance of individuals relative to others of the same species in the same locale (Caruso et al. 2021). Any form of selection risks reducing diversity, which can be counter-productive to conservation aims especially at small effective population sizes (Baums et al. 2019). Understand- ing and detecting the partitioning of heat tolerance across the holobiont will aid in maintaining diversity by expanding the selection pool. There is growing interest in using artificial heat stress to evaluate coral performance because it allows examination of physiological and molecular responses and host symbi- ont interactions in controlled and reproducible conditions (McLachlan et al. 2020). The performance of corals during acute experimental heat treatments (measured by various metrics including visual bleaching scores, fluorometry val- ues, and chlorophyll levels) is commonly used as a proxy for thermal resilience in the wild, but this work primarily focuses on contrasting groups of corals across species, sites, and environmental gradients (van Woesik et al.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Threat assessment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some of the threats faced by tropical coral reefs mentioned in the paragraph?",
+      "answer": "Tropical coral reefs are threatened by global warming, nutrient pollution, and physical destruction due to anthropogenic stressors.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Calculated expulsion rates were paired with relative symbi- ont densities in the coral tissue (symbiont/host cell ratios using quantitative PCR) and their photochemical efficiency (Fv/Fm, measured using chlorophyll fluorometry). We found that symbiont expulsion varied significantly by symbiont genus, abundance, performance, coral species, and time of day. Our findings offer insight into coral-Symbiodiniaceae homeostasis, mechanisms of coral-algal symbiosis and dys- biosis, and the potential symbiont availability and spread of symbionts in the environment and have implications for restoration approaches that involve provisioning or seeding corals with algal symbionts. Keywords Coral Symbiosis Symbiodiniaceae Expulsion Caribbean Introduction Coral reefs are integral to ocean health and the welfare of coastal communities globally, supporting a vast array of organisms, connecting tropical and sub-tropical marine ecosystems, protecting coastlines, and fueling fisheries and global tourism industries (Bruckner 2002; Brandl et al. 2019 ; Harborne et al. 2017 ; Needham 2010 ; Pascal et al. 2016). Yet, despite their immense ecological and economic importance, tropical coral reefs are in rapid decline as a result of environmental change namely global warming and anthropogenic stressors including nutrient pollution and physical destruction (Glynn 1993; Hoegh-Guldberg 1999; Hoegh-Guldberg et al.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Threat assessment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why is assessing the risk of NIS proliferation in Marine Protected Areas (MPAs) complicated?",
+      "answer": "It is complicated due to the need to understand multiple compounding factors involved in the risk assessment.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The model can assist in priori- tise interventions to control NIS spread and protect marine habitats (Parretti et al. 2020) and sets an ini- tial stepping stone to assessing risks of NIS spread and proliferation by local maritime traffic. Overall, assessing the risk of NIS proliferation and potential invasions in MPAs is far from straightfor - ward and requires an understanding of multiple com- pounding factors. However, two major factors can be used in developing a spatially explicit risk assessment for the local spread of NIS: i) the existence and distri- bution of NIS hotspots such as ports, harbours, mari- nas and anchoring areas (e.g., Ferrario et al. 2017; Castro et al. 2021a), and ii) the intensity of maritime traffic in the region (Castro et al. 2020; 2022a, b, c). Widely accepted as playing significant roles in the spread and proliferation of NIS and even recorded marine biological invasion events (e.g., Carlton 1987; Carlton et al. 2011; Carlton and Ruiz 2015), these two factors can be considered mandatory to map the risk of invasions and NIS proliferation.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Threat assessment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Threat assessment_qna_002",
+      "value": 1
+    }
+  ]
+}

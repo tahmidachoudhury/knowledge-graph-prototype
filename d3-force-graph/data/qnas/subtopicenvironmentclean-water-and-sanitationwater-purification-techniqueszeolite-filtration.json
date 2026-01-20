@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration",
+      "label": "Zeolite filtration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What materials were characterized in the study?",
+      "answer": "The synthesized material was characterized using XRD, EDS, SEM, FTIR, and nitrogen adsorption/desorption analyses.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The synthesized material was character - ized using XRD, EDS, SEM, FTIR, and nitrogen adsorption/desorption analyses. Its electrochemical properties were evaluated through CV, GCD, and EIS measurements. 2 Experimental section 2.1 Sample preparation This experimental study consists of three stages. The first stage is the production of activated carbon. The procedure for producing activated carbon from Spirulina platensis microalgae as a carbon source was reported in another study [35]. In summary, microalgae as a carbon precursor (20 g) and KOH activator (20 g) as a chemical activator were added to an Erlen flask at a ratio of 1:1. The pure water (100 mL) was added to this mixture and mixed on a magnetic stirrer at room temperature for approximately 1 h. Then, this mixture was placed in an oven and impregnated at 80 C overnight. After this process, the samples taken into porcelain cruci- bles were pyrolysed in a muffle furnace at 600 C under a carbon dioxide atmosphere for 30 min. After the pyrolysis process, this sample was left to cool to room temperature, washed with hot and cold deionized water, and dried in an oven at 105 C. The sample obtained by this process was called SPAC.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Zeolite filtration",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the pore structure of REEs/C-8 contribute to its performance in Pb(II) removal?",
+      "answer": "The superior removal capacity of REEs/C-8 is attributed to the enrichment of more REEs and a more abundant pore structure that enhances its effectiveness.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A study of rare earth elements enriched carbonisation material prepared from Dicranopteris pedata biomass grown in mining area Liujun Feng1, Zhiqiang Chen1 , Haiyan Wang1, Zhibiao Chen1, Zuliang Chen2 , Jianhua Liu1 & Yuee Zeng3 Phytoremediation is currently a very popular remediation method for salvaging rare earth mining sites. However, there is still a challenge concerning how to use secondary resources such as plant biomass following the extraction of rare earth elements (REEs). Herein, Dicranopteris pedata (Houtt.) Nakaike, a REEs hyperaccumulator, served to fabricate REEs-rich carbonisation materials (REEs/C) at different temperatures. The results showed that the percentages of Pb(II) removed using REEs/C prepared at 400 C (REEs/C-4) and 800 C (REEs/C-8) were 85.1% and 84.0%, respectively. These amounts were better than that of REEs-C prepared at 600 C (REEs/C-6 (67.0%)). Characterisation analysis confirmed that rich functional groups like aromatic, hydroxyl and C = C/C-C in REEs/C-4 provided more chelation sites to effectively complex with Pb(II), while the superior removal capacity of REEs/C-8 resulted from the enrichment of more REEs and abundant pore structure.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water purification techniques",
+      "subtopic": "Zeolite filtration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water purification techniques|Zeolite filtration_qna_001",
+      "value": 1
+    }
+  ]
+}

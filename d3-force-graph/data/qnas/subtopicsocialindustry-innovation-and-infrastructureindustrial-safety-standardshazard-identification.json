@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification",
+      "label": "Hazard identification",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What types of evidences were collected by the project team members to identify potential elements introducing EHS risks in industrial waste management?",
+      "answer": "The project team members collected both technical and human factors to identify the main potential elements introducing EHS risks in industrial waste management.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2405844023085602",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards",
+      "subtopic": "Hazard identification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the key element characterizing both environmental and health & safety management?",
+      "answer": "The key element characterizing both environmental and health & safety management is the systematic approach of risk management through the steps of identification, analysis, and evaluation.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2405844023085602",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards",
+      "subtopic": "Hazard identification",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification_qna_002",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What is the expected output of the 1st step in EHS risk identification?",
+      "answer": "The expected output of the 1st step in EHS risk identification is a list of EHS risk factors associated with waste management.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2405844023085602",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "Industrial safety standards",
+      "subtopic": "Hazard identification",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|Industrial safety standards|Hazard identification_qna_002",
+      "value": 1
+    }
+  ]
+}

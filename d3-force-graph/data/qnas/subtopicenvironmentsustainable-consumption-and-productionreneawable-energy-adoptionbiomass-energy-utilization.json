@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization",
+      "label": "Biomass energy utilization",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why has the thermal conversion of woody biomass gained prominence?",
+      "answer": "It facilitates the disposal of wood waste and generates bioash rich in mineral content, which can be reused for soil amendment.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The predomi- nant source of bioenergy is derived from woody wastes, with municipal solid wastes, landfill gases, and agricultural residues also contributing significantly. The agricultural residues include a variety of plant-based materials such as cotton stalks, wheat straw, rice straw, coconut shells, corn stover, and rice husks. These residues represent a substan- tial portion of the raw materials utilized in bioenergy pro- duction [2 , 3]. With the growing emphasis on sustainable energy sources, the thermal conversion of woody biomass has gained prominence. This process not only facilitates the disposal of wood waste but also results in the generation of bioash rich in mineral content, offering potential for nutri- ent recovery and reuse in soil amendment applications. The combustion of woody biomass in fluidized bed systems is a key area of focus in the transition towards more sustainable energy sources. This method of energy generation is par - ticularly appealing due to its ability to efficiently convert a wide range of biomass types into heat and power, while also offering the potential for carbon neutral operations. Gasi- fication encompasses a complex interplay of multi-phase, multi-scale, and multi-physics phenomena, incorporating diverse physical and chemical processes.",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Biomass energy utilization",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some advantages of employing brown rot, white rot, and soft rot fungi for the degradation of lignocellulosic complex?",
+      "answer": "Brown rot, white rot, and soft rot fungi generate a low quantity of by-products and involve low energy consumption.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352554124000561",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Biomass energy utilization",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How can distribute processes for biomass conversion, as discussed by Osasco et al., contribute to achieving the UN Sustainable Development Goals?",
+      "answer": "Distributed processes for biomass conversion, as discussed by Osasco et al., can aid in achieving the UN Sustainable Development Goals by providing renewable energy sources and promoting sustainable practices.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S2452223622001316",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Reneawable energy adoption",
+      "subtopic": "Biomass energy utilization",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Reneawable energy adoption|Biomass energy utilization_qna_002",
+      "value": 1
+    }
+  ]
+}

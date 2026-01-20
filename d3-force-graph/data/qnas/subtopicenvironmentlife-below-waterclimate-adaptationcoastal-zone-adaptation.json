@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation",
+      "label": "Coastal zone adaptation",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What are the practical implications of the study's findings regarding coastal management?",
+      "answer": "The results highlight the importance of equitable access and local support, suggesting that they are essential for successfully implementing climate adaptation strategies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Public preferences for coastal climate adaptation strategies have been increasingly docu - mented in the face of climate change and sea-level rise in coastal regions worldwide. However, empirical evidence of whether the public is familiar with these strategies re - mains unclear. In this study, we conducted an online survey among residents in three coastal counties in Southeast Florida, the United States to elicit households familiarity with different coastal climate adaptation strategies and examine the socio-demographic disparities. Using a multinomial logit model, we find that although most respondents are familiar with coastal climate adaptation strategies, socio-demographic disparities in the level of familiarity are evident. Specifically, Black respondents are significantly less likely to be familiar with coastal climate adaptation strategies when compared to their White counterparts. Moreover, having college degrees or more advanced degrees significantly increases the respondents probability of being very familiar with these strategies. Respon - dents risk perception and their awareness of current flood risk also significantly influence their familiarity with coastal climate adaptation strategies. Since adaptive planning often overlooks equitable access, and local support is essential for implementing climate adapta - tion strategies, our results can provide insightful policy implications for coastal manage - ment.",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Coastal zone adaptation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation_qna_001",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What relationship has been noted between willingness to pay (WTP) and socio-demographics in the context of coastal adaptation strategies?",
+      "answer": "WTP for different attributes of coastal adaptation strategies is significantly correlated with residents' socio-demographics.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2021 ; Rendon et al. 2022 ; Chen et al. 2023 ; Bax et al. 2024 ; Dario et al. 2024 ; Makriyannis et al. 2024 ). Despite the increasing number of evaluation studies on the public S preferences for coastal climate adaptation strategies, empirical evidence of whether households are aware of these strategies remains unclear (Islam et al. 2021 ). The public S familiarity with coastal climate adaptation strategies may play an important role in determining their evaluation of strategies that support future adaptation measures for infrastructure. Understanding the extent to which the public is familiar with coastal climate adaptation strategies can also provide insights into the heterogeneity in WTP for these strategies across households with different socio-demographics. For example, prior studies have shown that WTP for different attributes of coastal adaptation strategies is significantly correlated with residents socio- demographics (Rendon et al. 2022 ; Chen et al. 2023 ; Dario et al. 2024 ). The concept of climate justice stems from the unequal distribution of climate change- related threats among groups with different socio-demographics (Schlosberg 2012 ). Research in this realm has analyzed socio-demographic inequities in exposure to natural disasters and extreme weather events (Montgomery and Chakraborty 2015 ; Zanocco et al.",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Coastal zone adaptation",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation_qna_002",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What type of adaptation strategies were evaluated in the survey?",
+      "answer": "The survey evaluated familiarity with structural solutions (e.g., seawalls), living shorelines (e.g., mangrove forests and salt marshes), and natural solutions (e.g., coastal dunes and beach renourishment).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2015 ). Whether (and to what degree) marginalized and vulnerable households are familiar with climate adaptation strategies that are aimed at mitigating climate risks can largely influence their support for the development of adaptation measures (Derkzen et al. 2017 ). This is 1 33604 Natural Hazards (2025) 121:3603 3619especially important for households who lack private resources to adapt to climate change and must rely on government help, where equitable access to such public support is a pivotal component of climate justice (Planas-Carbonell et al. 2023 ). In this study, we investigated the socio-demographic disparities in households familiar - ity with coastal climate adaptation strategies. We conducted an online survey instrument among residents in three coastal counties in Southeast Florida, the United States ( N = 850). In the survey, we first measured the levels of familiarity with three representative coastal climate adaptation strategies that support adaptation measures for infrastructure in the study region, including structural solutions (e.g., seawalls), living shorelines (e.g., mangrove for - ests and salt marshes), and natural solutions (e.g., coastal dunes and beach renourishment).",
+      "macrotopic": "Life below water",
+      "topic": "Climate adaptation",
+      "subtopic": "Coastal zone adaptation",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation",
+      "target": "Subtopic:Environment|Life below water|Climate adaptation|Coastal zone adaptation_qna_002",
+      "value": 1
+    }
+  ]
+}

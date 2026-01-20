@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Energy market integration",
+      "label": "Energy market integration",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart grids|Energy market integration_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "How can smart grids, when integrated with smart metering, help in addressing SDG 7?",
+      "answer": "Smart grids, along with smart meters, enable better awareness and control over energy consumption and appliance energy intensity, contributing to sustainable development goal 7.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Smart grids",
+      "subtopic": "Energy market integration",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart grids|Energy market integration",
+      "target": "Subtopic:Environment|Smart cities|Smart grids|Energy market integration_qna_000",
+      "value": 1
+    }
+  ]
+}

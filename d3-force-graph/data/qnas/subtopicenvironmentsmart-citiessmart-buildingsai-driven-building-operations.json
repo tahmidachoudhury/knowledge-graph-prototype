@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations",
+      "label": "Ai-driven building operations",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main aim of the study regarding AI applications in retrofit projects?",
+      "answer": "The main aim of the study is to synthesize domain knowledge and to identify how artificial intelligence applications can improve the retrofit process.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The analysis revealed the potential advantages and difficulties associated with employing Al techniques in retrofit projects, and also iden- tified the commonly utilised techniques, data sources, and processes involved. This study provides a pathway to realise the broad benefits of AI applications for retrofit projects. This study adds to the AI body of knowledge domain by synthesizing the state-of-the-art of Al applications for Retrofit and revealing future research opportunities in this field to enhance the sustainability and efficiency of the AEC sector. 1 Introduction and Background Buildings are responsible for over 48% of the world S energy and heat production as well as about 19% of all energy-related CO2 emissions [1 ]. To overcome this issue, a decrease in the energy consumption must be sought glob- ally. Approximately 75% of the buildings expected to exist in 2050 have already been constructed, according to [ 2]. In [3 ], the European Commission established ambitious objectives for cutting greenhouse gas (GHG) emissions by 50 55% relative to 1990 levels by 2030 and achieving climate neutrality by 2050. This can only be achieved by improving the already built buildings, the term being called retrofit process.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Ai-driven building operations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main objective of the study on AI applications in retrofit projects?",
+      "answer": "The main objective of the study is to review AI applications and techniques used in retrofit projects and to identify how these applications can improve the retrofit process while addressing the complexities faced in such scenarios.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Experts view retrofitting of current buildings as a cost-effective approach to reducing energy usage and decreasing carbon emissions [ 4, 5]. According to Granade et al. [6 ], retrofitting existing buildings for energy efficiency could result in a reduction of primary energy use and related carbon footprint of up to 25%. In comparison to conven - tional methods, recent years have seen Artificial Intelligence (AI) make substantial advancements in enhancing business operations, service processes, and industrial productivity [7 ]. The Industry 4.0 or fourth industrial revolution concen- trates on automating processes, incorporating data-driven technology, and utilizing advanced Al applications in manufacturing [13]. This revolution has resulted in notable enhancements in processes, reduced production times, and increased cost-efficiency [14]. To handle complex problems and support decision-making throughout the asset S entire lifecycle, the AEC sector has incorporated AI subfields like machine learning, natural language processing, robotics, computer vision, optimisation, automated planning, and scheduling [14]. Resource and waste optimization [15 17] and waste generation minimization [18, 19] are a few of the identified subdomains [ 20], value-driven services like scheduling and estimation [ 20, 21], supply chain manage - ment [22 25] and the incorporation of 4D and 5D BIM to * Nicoleta Bocaneala nicoleta.bocaneala@mail.bcu.ac.uk Mohammad Mayouf mohammad.mayouf@bcu.ac.uk Edlira Vakaj edlira.vakaj@bcu.ac.uk Mark Shelbourn mark.shelbourn@bcu.ac.uk 1 College of Built Environment, Birmingham City University, Millennium Point, Curzon St, Birmingham B4 7XG, UK 900 N. Bocaneala et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Ai-driven building operations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the primary aim of the study on AI applications in retrofit projects?",
+      "answer": "The primary aim of the study is to synthesize domain knowledge and identify how artificial intelligence applications can improve the retrofit process in the Architecture, Engineering, and Construction (AEC) sector.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " enable better planning at an early design stage [26], health and safety [27 30] and Al-driven construction contract ana- lytics construction site [ 31 33]; voice user interfaces [ 13, 34, 35] and Al-driven audit system for construction financial [36 39]. Job creation, AI and BIM integrations with other industry 4.0 tools such as internet of things (IoT) and smart cities, augmented reality [40, 41] are also being developed [42 44]. Previous research has used AI for building per - formance to improve the AEC industry S sustainability and effectiveness [45, 46], such as achieving LEED credits [47, 48] and gauging occupant happiness with LEED certified residential buildings [39], ranking sustainability of materials [49], assessing eco building indicators [50], assessing the cost and price prediction of sustainable design [51], opti- mised indoor air quality [37], life cycle costs and life cycle environmental impact assessment [37, 52], building energy optimisation [43, 53, 54] energy efficient design making and optimisation at early design stages [24, 35, 36].",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Ai-driven building operations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the primary objective of the study on AI applications in retrofit projects?",
+      "answer": "The primary objective of the study is to synthesize domain knowledge and identify how artificial intelligence applications can improve the retrofit process in the context of the Architecture, Engineering, and Construction (AEC) sector.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This provides good oppor - tunities to develop data-driven models for data resources when looking at retrofit scenarios. It is likely that the adap- tation of artificial intelligence (AI) to retrofit projects can help overcome some complexities related to data capturing, data processing and optimal retrofit outcome. However, very little studies focused on AI applications for retrofit projects such as support sustainable retrofit decision using AI [36, 39, 58], when compared to AI for AEC. According to several studies, there are a variety of challenges preventing the wide use of AI, including cultural barriers, a lack of skills, high start-up costs for implementing Al-based solutions, a lack of talent, security concerns, a lack of computer capacity, and poor internet access [59]. To understand the current state of AI applications for Retrofit, it is important to discuss the major subfields of AI to retrofit projects, as shown in Fig. 1 Al components bellow. Although previous studies have applied Al applications for Retrofit has increased over the past few years and the applications are applied over different retrofit actions and areas [8 9, 12], it is complex to assert how AI can ben - efit retrofit projects, as this requires critical insight into AI applications, processes applied, and data used.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Ai-driven building operations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_004",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main objective of the study on AI applications in retrofit projects?",
+      "answer": "The main objective of the study is to review AI applications and techniques used in the context of retrofit projects, analyzing their impact on overcoming complexities and identifying key datasets and outcomes related to retrofitting.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This study aims to review AI applications and techniques that have been used in the context of retrofit projects. The research reviews the impact of AI in overcoming many of the complexities faced within Retrofit scenarios. This will be addressed by thematically analysing the existing studies that apply AI techniques to retrofit projects. This will also discuss the key AI subfields for retrofit, key AI Datasets used for retrofit- ting process and key Retrofit outcomes. This study seeks to answer the following research questions: Q1. What are the existing applications of AI within the context of retrofit scenarios? (3.1) The objective was to determine how were the AI tech- nologies applied and evaluated within the context of retrofit scenarios, what study areas within the various uses were present, which projects were it applied to, and what current challenges are associated with its use? Q2. How AI has supported overcoming complexities associated with Retrofit scenarios, and the potential future directions? (3.2 and 3.3) The objective is to evaluate the present limitations and determine the course of future research based on the docu- ments that have been examined and the response to the first question.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Ai-driven building operations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main focus of the study discussed in the paragraph?",
+      "answer": "The main focus of the study is to review artificial intelligence applications and techniques used in the context of retrofit projects, aiming to improve sustainability and efficiency in the Architecture, Engineering, and Construction (AEC) sector.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2 Research Methodology The aim of this study is to synthesise the domain knowledge and to identity how artificial Intelligence applications can improve the Retrofit Process. papers on the applications of AI for retrofit process from 2005 to 2023, showing an increase in the last two years. This is mainly due to the recent innovations and the applications of Artificial Intelligence. The review was conducted utilising the PRISMA (Pre- ferred Reporting Items for Systematic Reviews and Meta- Analysis) technique. The objective of the PRISMA statement is to guide authors in enhancing the reporting of systematic reviews and meta-analyses. PRISMA primarily concentrates on systematic reviews and meta-analyses of randomised tri- als. For this purpose, the study employed a mixed-method literature review comprising a qualitative systematic review and a thematic analysis of subfields related to Al for Retrofit. Additionally, the study examined the essential characteristics 901 Artificial Intelligence Based Methods for Retrofit Projects: A Review of Applications and of datasets utilised while deploying AI for Retrofit and the key objectives/outcomes of retrofitting. This study involved three stages: Stage 1 search for publications, Stage 2 assessing quality of results (exclusion criteria), Stage 3 data cleansing, Stage 4 thematic analysis.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Ai-driven building operations",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_006",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What challenges are associated with the use of AI in retrofit projects as identified by the study?",
+      "answer": "The study identifies several challenges preventing the wide use of AI in retrofit projects, including cultural barriers, lack of skills and talent, high start-up costs, security concerns, inadequate computer capacity, and poor internet access.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2 Research Methodology The aim of this study is to synthesise the domain knowledge and to identity how artificial Intelligence applications can improve the Retrofit Process. papers on the applications of AI for retrofit process from 2005 to 2023, showing an increase in the last two years. This is mainly due to the recent innovations and the applications of Artificial Intelligence. The review was conducted utilising the PRISMA (Pre- ferred Reporting Items for Systematic Reviews and Meta- Analysis) technique. The objective of the PRISMA statement is to guide authors in enhancing the reporting of systematic reviews and meta-analyses. PRISMA primarily concentrates on systematic reviews and meta-analyses of randomised tri- als. For this purpose, the study employed a mixed-method literature review comprising a qualitative systematic review and a thematic analysis of subfields related to Al for Retrofit. Additionally, the study examined the essential characteristics 901 Artificial Intelligence Based Methods for Retrofit Projects: A Review of Applications and of datasets utilised while deploying AI for Retrofit and the key objectives/outcomes of retrofitting. This study involved three stages: Stage 1 search for publications, Stage 2 assessing quality of results (exclusion criteria), Stage 3 data cleansing, Stage 4 thematic analysis.",
+      "macrotopic": "Smart cities",
+      "topic": "Smart buildings",
+      "subtopic": "Ai-driven building operations",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations",
+      "target": "Subtopic:Environment|Smart cities|Smart buildings|Ai-driven building operations_qna_006",
+      "value": 1
+    }
+  ]
+}

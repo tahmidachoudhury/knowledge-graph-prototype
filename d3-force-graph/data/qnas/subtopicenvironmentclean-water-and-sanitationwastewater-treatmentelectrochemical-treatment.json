@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "label": "Electrochemical treatment",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What was the set operating voltage range for the electrochemical tests?",
+      "answer": "The operating voltage range was set at -1.0 V to 1.0 V.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The electrochemical performance of the electrodes was tested using cyclic voltammetry (CV), gal - vanostatic charge-discharge (GCD) tests, and electrochemi - cal impedance spectrometry (EIS). Scan rates used for the electrochemical tests in this study were 5, 10, 20, 50, 100, and 250 mVs 1. Galvanostatic charge/discharge (GCD) models were performed at current densities of 0.1, 0.2, 0.3, Fig. 1 Schematic illustration of Co3O4 doped RF xerogel production 1 3 319 Preparation of Co3O4 doped resorcinol formaldehyde xerogels and their supercapacitor performance0.4, and 0.5 Ag 1. The operating voltage range was set at -1.0 V 1.0 V . Electrode materials specific capacitance can be computed from the following equation: CS=/contintegraltext Idv 2mv V (1) Equation (1) CS (Fg 1) is the specific capacitance of the elec - trode, I (A) is the electrode current, m (g) is the active mate - rial in the electrode, V (mVs 1) is the scanning rate and V (V) is the potential range over which the test is performed.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "For how long was the electrode surface soaked in the supportive electrolyte environment?",
+      "answer": "The surface was soaked for 3 hours.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Pt (MF- 1032, BASi) as the auxiliary electrode was available, and Ag/AgCI (3 M KCI, MF 1063) was available as the reference electrode. In the working electrode preparation for the super - capacitor, iodine@S-doped SPAC, graphite (conductivity enhancer) and mineral oil (binder) was used. lodine@S- doped SPAC, graphite and mineral oil ratios was 6:2:2, and the mixture turned into a paste, and then the carbon paste was manually pressed into the electrode (CPE, MF-2010). The amount of iodine@S-doped SPAC is 1.5 mg/cm2. To achieve more precise and reproducible results with the designed supercapacitor electrode, the surface was soaked in a supportive electrolyte environment for 3 h. Specific capacitance value of the supercapacitor prepared from odine@S-doped SPAC was used in the following equations for CV, GCD, and ESI techniques, respectively [36]. The specific capacitance with CV method according to Eq. (1) was determined. where I, C, V , m, and V symbols are the current (A), spe- cific capacitance (F/g), potential window (V), active mass of the electrode (g), and scanning speed (V/s).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How is aluminum produced in the electrolysis process?",
+      "answer": "Aluminum is produced by the electrochemical reduction of aluminum ions on the cathode, while oxygen is oxidized on the carbon anodes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Currently, most reduction cells in the aluminumindustry are based on prebaked design, where theanodes are preformed and baked in a carbon anode plant and assembled to the anode rod before placed inside the electrolysis cell. The size and the design of thecarbon anodes in prebaked Hall He roult cells vary slightly between the plants and aluminum producers. The cathode assembly, however, has the same designacross the industry, both in prebaked and S derberg cells with some very small variations. [4,5] Prior to the production process, the electrolysis cell is preheated, and then lled with a portion of aluminum metal, a cryolite-based electrolyte and operated at typically 940 /C176C 960 /C176C. Aluminum oxide is point-fed to the electrolysis cells and dissolved in the electrolyte, and aluminum is then produced by electrochemical reduction of aluminum ions on the cathode, while oxygen is oxidized on the carbon anodes as described inEq. [ 1]. Each cell consists of 20 to 40 carbon anodesCAMILLA SOMMERSETH, PA L TETLIE, HEIKO GAERTNER, SAMUEL SENANU, and EGIL SKYBAKMOENare with the SINTEF Industry, P.O.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_003",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What is the primary function of bioelectrochemical systems (BESs)?",
+      "answer": "BESs are primarily employed to treat wastewater and produce bioenergy, exceeding standard biologic treatment strategies by degrading various organic pollutants and enabling resource recovery.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Electroactive microorganisms at the anode oxidize electron donors and reduce electron acceptors. Electrons are transferred from microbial cells to electrodes through electron shuttles in the bulk solution or extracellular com- ponents. To maintain electroneutrality, ions pass through the PEM between compartments [29]. The BESs are primarily employed to treat wastewater and produce bioenergy. BESs exceed standard biologic treatment strategies by degrading different types of organic pollutants, enabling treatment and resource recovery [30]. Bacteria can electrochemically con- vert inorganic carbon to biofuels and value-added chemicals, including biohydrogen, biomethane, acetic acid, and alco- hols, using external energy [ 31]. This feature holds a chance to offer a substitute for using fossil fuels to generate energy and hazardous substances in producing chemical products. Unfortunately, the efficacies of treatment and recovery are insufficient to provide high-quality effluents for possible reuse and energy self-sufficiency. BESs have been applied in many industries and for various purposes: (1) micro- bial electrolysis cells (MECs) produce hydrogen gas at the cathode [32], (2) microbial fuel cells (MFCs) break down organic material and produce electricity [33], (3) Micro- bial Electrosynthesis Systems (MESs) that synthesize com- modities and value-added chemicals at the biocathode [34], (4) Microbial Desalination Cells (MDCs) that enable water desalination from brackish or seawater, and (5) Microbial Solar Cells (MSCs) that use solar energy to generate elec- tricity [35].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenge do bioelectrochemical systems (BESs) currently face regarding their treatment and recovery efficacies?",
+      "answer": "The efficacies of treatment and recovery are insufficient to provide high-quality effluents for possible reuse and energy self-sufficiency.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Electroactive microorganisms at the anode oxidize electron donors and reduce electron acceptors. Electrons are transferred from microbial cells to electrodes through electron shuttles in the bulk solution or extracellular com- ponents. To maintain electroneutrality, ions pass through the PEM between compartments [29]. The BESs are primarily employed to treat wastewater and produce bioenergy. BESs exceed standard biologic treatment strategies by degrading different types of organic pollutants, enabling treatment and resource recovery [30]. Bacteria can electrochemically con- vert inorganic carbon to biofuels and value-added chemicals, including biohydrogen, biomethane, acetic acid, and alco- hols, using external energy [ 31]. This feature holds a chance to offer a substitute for using fossil fuels to generate energy and hazardous substances in producing chemical products. Unfortunately, the efficacies of treatment and recovery are insufficient to provide high-quality effluents for possible reuse and energy self-sufficiency. BESs have been applied in many industries and for various purposes: (1) micro- bial electrolysis cells (MECs) produce hydrogen gas at the cathode [32], (2) microbial fuel cells (MFCs) break down organic material and produce electricity [33], (3) Micro- bial Electrosynthesis Systems (MESs) that synthesize com- modities and value-added chemicals at the biocathode [34], (4) Microbial Desalination Cells (MDCs) that enable water desalination from brackish or seawater, and (5) Microbial Solar Cells (MSCs) that use solar energy to generate elec- tricity [35].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_005",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Who is regarded as the father of bio-electrochemistry?",
+      "answer": "Luigi Galvani is regarded as the father of bio-electrochemistry.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A brief history of BESs Luigi Galvani is regarded as the father of bio-electrochemis- try. He found that an electrical spark could cause the muscles of a dead frog to contract, and he named this phenomenon animal electricity, the force that caused the animal S mus- cles to contract [36, 37]. However, Potter discovered 1911 that adding a platinum electrode to a liquid suspension of yeast and Escherichia coli allowed the bacteria to produce electricity [13, 38]. Cohen verified this fact later in 1931 when he generated a voltage of 35 V at 0.2 mA of current using a stacked bacterial fuel cell system [13, 39]. Although early studies laid the groundwork for MFCs, it was not until 1963 that the technology gained significant attention. NASA proposed that MFCs could be used to convert human waste into energy during space missions, sparking initial interest [40]. Despite this intriguing application, the technology did not gain much traction, as subsequent proposals, such as using MFCs to power biosensors or self-sustaining robots, lacked clear, targeted objectives [41].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_006",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How can the optimization of sequential chemical coagulation - electro-oxidation process help in the treatment of industrial textile wastewater according to Lavas and colleagues?",
+      "answer": "The optimization of this process can enhance the treatment efficiency of industrial textile wastewater by improving the removal of contaminants.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652622052167",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Electrochemical treatment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Electrochemical treatment_qna_006",
+      "value": 1
+    }
+  ]
+}

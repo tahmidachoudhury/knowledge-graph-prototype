@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Atmospheric dispersion",
+      "label": "Atmospheric dispersion",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Air quality monitoring|Atmospheric dispersion_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What turbulent model is highlighted as effective in examining temperature variations in turbulent mixing flow?",
+      "answer": "The Large-Eddy Simulation (LES) model is highlighted as a highly effective method for examining temperature variations linked to turbulent mixing flow at a tee junction.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Several researchers have tried to solve the thermal mixing and ow phenomena that occur in the mixing vessel. Kimuraet al. [ 4] performed an experimental study on the velocity and temperature variations inside the tee-sections. They utilized ow visualization to explain the complex dynamics of themerging region where two OWS interact. A T-junction ow mixture behaviour effect as a function of increasing in ow temperature was experimentally studied by Selvam et al. [ 7] in light of nuclear power plant (NPP) engineering practice.In the twenty- rst century, the CFD has gained a signi cant boost in solving complex ow problems numerically. Numer-ous researchers have shown that the Large-Eddy simulation, a turbulent model included in computational uid dynamics (CFD) software, is a highly effective method for preciselyexamining temperature variations linked to turbulent mix-ing ow with high Reynolds numbers (Re) at a tee junction [8 11]. Comparing various turbulent models (LES, DES, and RANS) across CFD, Gauder et al. [ 12] have contributed to the understanding of the CFD problem sources and established guidelines for the future application of numerical models.",
+      "macrotopic": "Smart cities",
+      "topic": "Air quality monitoring",
+      "subtopic": "Atmospheric dispersion",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Air quality monitoring|Atmospheric dispersion",
+      "target": "Subtopic:Environment|Smart cities|Air quality monitoring|Atmospheric dispersion_qna_000",
+      "value": 1
+    }
+  ]
+}

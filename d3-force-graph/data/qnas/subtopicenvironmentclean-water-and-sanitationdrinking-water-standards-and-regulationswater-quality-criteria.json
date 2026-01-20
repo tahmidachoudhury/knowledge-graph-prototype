@@ -1,0 +1,114 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "label": "Water quality criteria",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What criteria should be considered when selecting algal species for phycoremediation studies?",
+      "answer": "The selected algal species should have reasonable tolerance limits, biodegradation potential, and fewer bioaccumulation properties.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Microalgal technologies play a huge role in achieving the Sustainable Develop - ment Goals (SDG) of the United Nations (UN), and it directly takes part in SDG-6, Clean Water and Sani - tation , which aims to enhance the availability and sustainable management of water and sanitation on a worldwide scale [20]. This includes reducing pollu - tion, thoroughly treating wastewater, and improving water recycling. According to SDG 6.3, By 2030, it is decided to increase the water quality by reducing pollu - tion (wastewater treatment), eliminating dumping and minimizing the release of toxic substances (emerging contaminants) and reducing by half the percentage of wastewater that is not treated, and significantly boost - ing reuse and recycling globally, [21]. Microalgae have been tested for their phycoremedia - tion potential in removing emerging contaminants like DEET. For the selection of algal species in the phycore - mediation study, the species should possess reason - able tolerance limits and biodegradation potential with fewer bioaccumulation properties. Chlorella vulgaris was identified as one of the candidates that showed promis - ing results for removing 73% of 2 mg/L DEET from the wastewater [22].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Water quality criteria",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are some of the parameters that should be measured in future studies according to the paragraph?",
+      "answer": "Coliforms, algae, pH, nutrients, and chemical compounds should be measured in future studies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " coliforms, algae, pH, nutrients, chemical compounds, and ecosystem services). Measuring these parameters should be incorporated into future stud- ies to allow an understanding of the linkage of ecosystem and human health. Keywords Aquatic freshwater ecosystems Health assessment Health indicators Human health Communicated by Michael Joy. * Fanny G. De Carvalho fanny.decarvalho@toulouse-inp.fr 1 Centre de Recherche sur la Biodiversit et I Environnement (CRBE, UMR 5300), CNRS, IRD, Toulouse INP, Universit de Toulouse, Toulouse, France 2 CERPOP UMR1295, Inserm-Universit de Toulouse, Toulouse, France 724 Biodiversity and Conservation (2025) 34:723 767 Introduction Humanity is an integral part of the global life-support system. This system provides many different resources and services, named ecosystem services, without which the existence of any life would be impossible. Ecosystem services represent all outputs or processes pro- vided by an ecosystem that directly or indirectly benefit humans, most prominently clean air and drinking water (Millenium Ecosystem Assessment 2005). They are classified into four categories: provisioning, regulating, supporting, and cultural ecosystem services.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Water quality criteria",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main purpose of using the MMI according to the paragraph?",
+      "answer": "The main purpose of using the MMI is for the ecological status calculation under the Water Framework Directive (WFD) by reflecting the ecological health of river systems.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " gewae sser- bewer tung- berec hnung. de/ index. php/ perlo des- online. html) based on taxa lists with identi - fication to species level where possible. The MMI is an amalgamation of several community-related indices (dif - fering between river types), which was designed to reflect the impact of various stressors including alterations of morphology, hydrology and water quality (Hering et al. 2006). The German Fauna Index serves as the core com - ponent of the MMI, assessing the presence of river-type specific indicator species, while additional metrics, such as the proportion of Ephemeroptera, Plecoptera, and Trichoptera (%EPT), the share of rheophilic species, and the number of Trichoptera species, provide further eco - logical context. We here used the standardized version of the MMI ranging between 0 (worst) to 1 (best), the main basis for the ecological status calculation under the WFD (European Commission 2000). For simplification reasons, we refer to the MMI as the ecological status in the fol - lowing. A comparison of the MMI with other commonly used biodiversity indices (Shannon diversity, Evenness, and Richness) is provided in Supplementary Figure S2.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Water quality criteria",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the mathematical model used to compute the weights of criteria in the BWM?",
+      "answer": "The mathematical model 1 is used to compute the weights of criteria in the BWM. It involves minimizing the absolute difference between the preference of B over other criteria and the preference of other criteria over the worst criterion, subject to certain constraints.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Water quality criteria",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_004",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What nine factors were considered criteria for the Multi-Criteria Analysis (MCA) in this study?",
+      "answer": "The nine factors used as criteria for the MCA were population density, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, land cover types, proximity to water bodies, nitrogen dioxide concentrations, slope, and elevation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2016 ). The definition of green space was deemed to Laban Kayitete kayitetelab7@gmail.com 1 Department of Geography, School of Environment, Education and Development, University of Manchester, Manchester, UK 2 International Institute Zittau, Technische Universit t Dresden, Zittau, Germany 3 Earth Observation Research Department, Julius- Maximilians-Universit t W rzburg, W rzburg, GermanyAbstract Green spaces improve societal well-being, foster connectivity to nature, and attenuate climate change. Despite Rwanda and other developing countries increasingly pursuing green economies, urban greening efforts still need multi-conceptual models that comprehensively address socio-economic and environmental requirements. This study employs a GIS-based Multi-Criteria Analysis (MCA) constructed on an Analytical Hierarchy Process (AHP) to predict green space intervention suitability across Kigali City, Rwanda. The study was based on nine factors namely: population density, slope, land cover types, proximity to roads, Normalised Difference Vegetation Index (NDVI), proximity to existing green spaces, proximity to water bodies, nitrogen dioxide concentrations, and elevation, to be used as criteria for the MCA. The findings indicate that 2.49% (1,816.19 ha) of Kigali City is highly suitable while 12% (8,744.68 ha) is unsuitable for green space inter - ventions.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Drinking water standards and regulations",
+      "subtopic": "Water quality criteria",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria",
+      "target": "Subtopic:Environment|Clean water and sanitation|Drinking water standards and regulations|Water quality criteria_qna_004",
+      "value": 1
+    }
+  ]
+}

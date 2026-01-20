@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies",
+      "label": "Water pricing policies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "What is the optimal utility tariff design that has been converged upon, as mentioned in the paragraph?",
+      "answer": "The optimal utility tariff design is a two-part Coasian structure, consisting of a volumetric charge to recover marginal costs and a fixed charge to recover each consumer's share of fixed costs.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Much research has analysed welfarelosses relating to second-best energy subsidies at an aggregate level. Kalkuhl et al. ( 2013 ) n d that if carbon pricing is permanently missing, the total mitigation cost is many times greater.A combination of carbon pricing and subsidies minimises welfare loss in a second-best world.Grimaud et al. ( 2011 ) explore the carbon pricing policy required to support innovation when no subsidies are available. Rezai and van der Ploeg ( 2017 ) show that second-best subsidies can achieve decarbonisation at a similar cost to the rst-best solution should there be crediblepublic commitment. Secondly, this is the rst paper to consider the household-level equity and ef ciency impli- cations of nancing energy subsidies through potentially distortive energy price surcharges.Following much debate throughout the early 20th Century (Ramsey 1927 ; Hotelling 1939 ; Lerner 1944 ;C o a S e 1946 ; Boiteux 1956 ), the optimal utility tariff design has converged on a two-part Coasian structure, whereby a volumetric charge recovers marginal costs and a xed charge recovers each consumer S share of xed costs. Much applied literature exists toexamine the implications of deviating from the Coasian tariff structure in a general sense (e.g.,Borenstein 2016 ; Davis and Muehlegger 2010 ), however, deviations arising from subsidy- related surcharges have not been addressed.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "subtopic": "Water pricing policies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies_qna_001",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What welfare loss do French water customers face on average, as reported by Porcher (2014)?",
+      "answer": "French water customers face prices on average 8% greater than marginal costs, resulting in a welfare loss of approximately €8 million.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Farrell ( 2021 ) nds losses in consumer surplus equivalent to between 6-18% of domestic consumption value due to British tariff deviationsfrom the Coasian structure. Similar effects were observed in the US natural gas industry. Davisand Muehlegger ( 2010 nd that volumetric prices are signi cantly higher than marginal cost, resulting in an estimated US$2.7 billion welfare loss per annum. Borenstein ( 2012 ) nds that US natural gas prices are approximately 30% higher than marginal cost, resulting in a con-siderable consumer welfare loss. The welfare loss associated with water utility pricing hasbeen analysed in a similar way (e.g., Crew and Kleindorfer 1976 ; Swallow and Marin 1988 ; Renzetti 1992 ). Porcher ( 2014 ) nds that French water customers face prices on average 8% greater than marginal costs, resulting in a welfare loss of approximately e8 million. This paper identi es the optimal surcharge design given the relative importance of equity and ef ciency. Analyses relating to energy subsidy cost-recovery have focussed on distri-butional impacts and have failed to consider the trade-off with ef ciency. This paper is the rst to provide this contribution.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Water scarcity mitigation strategies",
+      "subtopic": "Water pricing policies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies",
+      "target": "Subtopic:Environment|Clean water and sanitation|Water scarcity mitigation strategies|Water pricing policies_qna_001",
+      "value": 1
+    }
+  ]
+}

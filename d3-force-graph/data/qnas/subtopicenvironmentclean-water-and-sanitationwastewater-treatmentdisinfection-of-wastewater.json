@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Disinfection of wastewater",
+      "label": "Disinfection of wastewater",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Disinfection of wastewater_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the main purpose of disinfection?",
+      "answer": "The main purpose of disinfection is to reduce germs or kill a significant portion of the microorganism population on objects to eliminate the risk of infection.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Disinfection is used when a low degree of hygiene is suf - ficient. Sterilization is used for a high degree of hygiene [12, 13]. Disinfection is an infection prophylactic measure to reduce germs or to kill a significant portion of the micro - organism population on objects so that there is no risk of infection. Physical and chemical methods are used for dis - infection, with physical ones are more preferred because they are safer and more reliable, as well as environmentally and toxicologically safer than chemical methods. However, material compatibility must also be considered when choos - ing a process [ 12]. Other ways of removing microorganisms are sterilization processes. These are mainly used in the medical sector for critical products. A sterile medical device (MD) is completely free of viable microorganisms, includ - ing bacterial spores. Depending on the requirements, steril - ization can be physical (heat: thermal sterilization; ionizing radiation: radiation sterilization) or chemical (use of gases) [12]. Depending on the type of sterilization, the packaging of the sterilized product has to be suitable for the steriliza - tion process, e.g., permeable to the sterilization method but germ-tight to prevent recontamination [ 12, 13].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Disinfection of wastewater",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Disinfection of wastewater_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is sterilization used for, and where is it primarily applied?",
+      "answer": "Sterilization is used for a high degree of hygiene, mainly in the medical sector for critical products.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Disinfection is used when a low degree of hygiene is suf - ficient. Sterilization is used for a high degree of hygiene [12, 13]. Disinfection is an infection prophylactic measure to reduce germs or to kill a significant portion of the micro - organism population on objects so that there is no risk of infection. Physical and chemical methods are used for dis - infection, with physical ones are more preferred because they are safer and more reliable, as well as environmentally and toxicologically safer than chemical methods. However, material compatibility must also be considered when choos - ing a process [ 12]. Other ways of removing microorganisms are sterilization processes. These are mainly used in the medical sector for critical products. A sterile medical device (MD) is completely free of viable microorganisms, includ - ing bacterial spores. Depending on the requirements, steril - ization can be physical (heat: thermal sterilization; ionizing radiation: radiation sterilization) or chemical (use of gases) [12]. Depending on the type of sterilization, the packaging of the sterilized product has to be suitable for the steriliza - tion process, e.g., permeable to the sterilization method but germ-tight to prevent recontamination [ 12, 13].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Disinfection of wastewater",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Disinfection of wastewater",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Disinfection of wastewater_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Disinfection of wastewater",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Disinfection of wastewater_qna_001",
+      "value": 1
+    }
+  ]
+}

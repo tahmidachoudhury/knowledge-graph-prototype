@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work",
+      "label": "Biological hazards in work",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What biochemical components are mentioned that may be affected by DEET in the study?",
+      "answer": "The biochemical components mentioned are proteins, lipids, carbohydrates, and pigments (chlorophyll-A, chlorophyll-B, and carotenoids).",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Concentrations over 2 mg/L require testing due to the persistent and stable nature of DEET. Chlorella vulgaris, upon stress, is known to exhibit growth-stimulating effects, which increase biochemi - cal composition accumulation that produces biomass to produce bioproducts [23]. The acute toxicity assessment has revealed that when the concentration of the DEET increases, the algal growth rate reduces to half at 96-h EC50 [24]. However, the effects of DEET on the biochemi - cal composition (proteins, lipids, and carbohydrates) and pigments (chlorophyll-A, chlorophyll-B, and carotenoids) in the acute toxicity study have not yet been investi - gated. This investigation will help us grasp the possibil - ity of assessing Chlorella vulgaris potential in treating the DEET-polluted wastewater and biochemical composition of harvested biomass for the manufacture of bioproducts from algal biomass. The primary objective of this study is to investigate the effects of DEET on the metabolic composition and pig - ment levels of Chlorella vulgaris, specifically in relation to its 96-h EC50. Additionally, the study aims to assess the influence of DEET on the removal capacity of Chlo - rella vulgaris at varying concentrations, both prior to and following the tolerance limit, as well as the associated changes in the mechanisms employed to alleviate stress in relation to this tolerance limit.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Biological hazards in work",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did the study find about the infectivity of the tested viruses in relation to human cells?",
+      "answer": "The study found that most of the tested viruses have the potential to enter human cells, indicating weak interspecies barriers in the early stages of viral infection.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Nature Microbiology 405 nature microbiologyhttps://doi.org/10.1038/s41564-24-1879-4 Article Receptor-binding proteins from animal viruses are broadly compatible with human cell entry factors J r my Dufloo , Iv n Andreu-Moreno , Jorge Moreno-Garc a , Ana Valero-Rello & Rafael Sanju in Cross-species transmission of animal viruses poses a threat to human health. However, systematic experimental assessments of these risks remain scarce. A critical step in viral infection is cellular internalization mediated by viral receptor-binding proteins (RBPs). Here we constructed viral pseudotypes bearing the RBPs of 102 enveloped RNA viruses and assayed their infectivity across 5,202 RBP cell combinations. This showed that most of the tested viruses have the potential to enter human cells. Pseudotype infectivity varied widely among the 14 viral families examined and was influenced by RBP characteristics, host of origin and target cell type. Cellular gene expression data revealed that the availability of specific cell-surface receptors is not necessarily the main factor limiting viral entry and that additional host factors must be considered. Altogether, these results suggest weak interspecies barriers in the early stages of infection and advance our understanding of the molecular interactions driving viral zoonosis.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Environmental and occupational health",
+      "subtopic": "Biological hazards in work",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work",
+      "target": "Subtopic:Social|Good health and well-being|Environmental and occupational health|Biological hazards in work_qna_001",
+      "value": 1
+    }
+  ]
+}

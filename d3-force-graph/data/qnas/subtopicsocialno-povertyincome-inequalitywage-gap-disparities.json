@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Wage gap disparities",
+      "label": "Wage gap disparities",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality"
+    },
+    {
+      "id": "Subtopic:Social|No poverty|Income inequality|Wage gap disparities_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What concerns are raised about AI's impact on jobs and economic inequality?",
+      "answer": "The paper highlights concerns that AI could lead to the loss of millions of jobs, with around 40% of all working hours potentially impacted, which may widen existing inequalities and reshape entire industries, leaving many workers without meaningful employment.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " As societies become increasingly dependent on Al-driven systems and digital communication, we are already witnessing broader social changes, particularly in rural communities [ 29]. Economic shifts and urban migration have contributed to the decline of traditional social spaces, such as villagecaf es, which once served as key hubs of local interaction. While modern communication tools provide new ways to stay connected, they do not fully replace in-person social interactions, which remain essential for community cohesion and mental well-being [ 30]. Beyond its impact on labor markets and social structures, AI is also reshaping critical sectors such as healthcare. There is clear evidence that AI holds immense potential to revolutionize medical diagnostics, enhance treatment strategies, and support healthcare professionals in delivering more precise and e cient care. However, despitethese advancements, concerns persist regarding the ethical implications and unintended consequences of Al-driven healthcare tools. The World Health Organization (WHO) urges caution in the use of AI tools, particularly LLMs, to ensure they promote human well-being, safety, and autonomy while safeguarding public health [ 31]. One of the most concerning dangers in using Al-driven innovations is its potential to worsen racial, gender, and geographic disparities in healthcare.",
+      "macrotopic": "No poverty",
+      "topic": "Income inequality",
+      "subtopic": "Wage gap disparities",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|No poverty|Income inequality|Wage gap disparities",
+      "target": "Subtopic:Social|No poverty|Income inequality|Wage gap disparities_qna_000",
+      "value": 1
+    }
+  ]
+}

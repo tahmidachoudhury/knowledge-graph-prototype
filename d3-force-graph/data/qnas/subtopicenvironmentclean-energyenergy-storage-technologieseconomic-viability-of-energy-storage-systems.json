@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems",
+      "label": "Economic viability of energy storage systems",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems_qna_000",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Why were BECCS and DACCS chosen for examination in the economic dimension of CDR?",
+      "answer": "They were chosen because they are technologies that have reached relatively high technology readiness levels (TRL) and have high inherent storage permanence.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For instance, biomass-related CDR should consider temporal aspects of emissions, while DACCS faces uncertainties regarding the level and origin of energy consumption [ 22]. Lamb et al. (2024) identify a CDR gap , assessing poli - cies supporting CDR and finding that these are not sufficient to generate the CDR capacity to limit warming to 1.5 C [23]. The authors further discussed the competition between political interests aiming at expanding land-based removals and those that want to scale novel methods such as BECCS, DACCS, and biochar. In this paper, we examine the economic dimension of the CDR gap by providing a comprehensive review of the literature on how the understanding of the economics of CDR has evolved and what policy measures have been employed to address the challenge. First, we provide a review of theoretical and empirical cost estimates and pro - jections for BECCS and DACCS. We chose BECCS and DACCS because they are two technologies that are deemed to have reached relatively high technology readiness levels (TRL) (e.g., BECCS: 5 6, DACCS: 6 out of 10) with high inherent storage permanence [ 1].",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Economic viability of energy storage systems",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How does the feasibility of 100% renewable electricity systems respond to critics according to DÃƒÂ¼sseldorf and Ellison?",
+      "answer": "According to DÃƒÂ¼sseldorf and Ellison, the feasibility of 100% renewable electricity systems is a response to critics who question its viability.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy storage technologies",
+      "subtopic": "Economic viability of energy storage systems",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems",
+      "target": "Subtopic:Environment|Clean energy|Energy storage technologies|Economic viability of energy storage systems_qna_001",
+      "value": 1
+    }
+  ]
+}

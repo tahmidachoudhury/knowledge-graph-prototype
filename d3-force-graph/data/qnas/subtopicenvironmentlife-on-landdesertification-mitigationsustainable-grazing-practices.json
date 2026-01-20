@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices",
+      "label": "Sustainable grazing practices",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What environmental challenges do Anxi cattle (AX) face in their habitat?",
+      "answer": "Anxi cattle (AX) are adapted to the cold, arid environments and poor-quality forage of the Gobi Desert.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Copy number variation (CNV) is a class of genetic variation that has remarkable effects on gene expression through disrupt - ing coding sequences, altering genedosage or position effects, and these effects could contribute to phenotypic diversity [ 12]. In recent years, emerging evidence has suggested that CNVs contribute to the adaptation of cat - tle to the harsh environments [ 13]. Northwestern China is characterized by a diverse cli - mate range that significantly shapes its ecological and bio - logical systems. Some local cattle breeds in northwestern China evolved to adapt to various extreme environments during domestication. For example, the Qaidam (QDM) and Zhangmu (ZM) cattle inhabit the Tibetan Plateau at altitudes of 3000 5000 m, where they are well adapted to the cold, hypoxic environment, and they are likely under selection for high-altitude adaptation. Meanwhile, Anxi cattle (AX) lives in the Gobi Desert, where they exhibit tolerance to cold, arid environments and poor-quality forage. In this study, we sequenced the whole genome of seven AX cattle and downloaded the genome sequence data of 57 cattle from seven other breeds (QDM, ZM, Angus, Holstein, Jersey, Gir and N Dama) to explore the molecular mechanisms underlying the genome-wide adaptive response of three Chinese local cattle breeds to challenges of extreme environments.",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Sustainable grazing practices",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices_qna_001",
+      "group": "QnA",
+      "label": "Management",
+      "question": "How does the Australian pastoral industry relate to data-driven sustainability?",
+      "answer": "The Australian pastoral industry has become one of the most recent industries to adopt data-driven sustainability, relying on data from extensive monitoring and surveillance.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " ( 2022 ), writing almost a decade later, observe that Australia-Oceania is the only region in the world where farm-based food security studies are rare compared to water security studies a gap this research addresses. Data-driven climate solutions There is a growing body of work on climate solutions and how these intersect with primary production. Central to solutions is measurement, significantly enhanced through advances in digital technology that have resulted in the proliferation of data. The Australian pastoral industry has become one of the most recent industries to be subject to what Archer ( 2021 :284) terms data driven sustainability . He describes a socio-technical imaginary of neoliberal sustainability (Archer 2021 :282) whereby sustainability reporting is now dependent upon data from intense and invasive regimes of monitoring and surveillance. Gale et al., (2017:77) refer to this as ICT-induced disintermediation , as remote surveillance enables new flows and arrangements of information, by-passing key stakeholders such as pro - ducers and enabling timely verification without the need for onsite audits. Whilst earlier forms of sustainability gover - nance relied on analogue data, Archer ( 2021 ) cautions that digitised forms of surveillance differ in that they are auto - mated.",
+      "macrotopic": "Life on land",
+      "topic": "Desertification mitigation",
+      "subtopic": "Sustainable grazing practices",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices",
+      "target": "Subtopic:Environment|Life on land|Desertification mitigation|Sustainable grazing practices_qna_001",
+      "value": 1
+    }
+  ]
+}

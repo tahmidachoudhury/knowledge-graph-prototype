@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Watershed management plans",
+      "label": "Watershed management plans",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Watershed management plans_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What challenges do decision-makers face in watershed management according to the paragraph?",
+      "answer": "Decision-makers face challenges due to the complex dynamic interactions of natural and human components within a watershed, which hinder the achievement of long-term sustainability goals.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Furthermore, compared to the SPEI threshold, the LUD threshold was stable at 0.24, demonstrating stronger robustness. This study provides a new perspective for understanding watershed SESs, and has important implications for sustainable ecosystem management and planning. Keywords Y angtze river basin, Socio-ecological systems, Land-use change, Climate change, Network analysis Since the onset of the Anthropocene, watershed environmental processes such as the hydrological cycle 1, water purification2,3, and flood regulation4 have been increasingly dominated by human activities and extreme climate events. The interactions between natural and human components within a watershed are characterized by complexity, nonlinearity, and uncertainty5,6. These complex dynamic interactions present challenges for decision- makers in formulating adaptive, integrated watershed management strategies, hindering the achievement of long-term sustainability goals 7,8. This requires recognizing the interdependence between society and nature through a socio-ecological system (SES) approach. SES is a coupled system of biophysical and human social elements that emphasizes the integrity and coordination between ecosystems and social systems9. However, research on social and ecological systems has long been conducted independently, without integrating them into coupled systems10.",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Watershed management plans",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Watershed management plans",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Watershed management plans_qna_000",
+      "value": 1
+    }
+  ]
+}

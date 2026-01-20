@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins",
+      "label": "Environmental twins",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Which database was used to match the remaining occurrence locations with environmental variables?",
+      "answer": "The WorldClim database was used to match the remaining occurrence locations with corresponding values of background environmental variables.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To address possible sample selection bias and spatial autocorrelation within the occurrence locations data, we filtered the D. rotundus occurrence locations to one per pixel (Fig. 1). Pixels were delineated based on the background environmental variables used for model calibration at 2.5-arc-minute (~ 5 km) resolution. To resample the occurrence locations to one per pixel, we created a blank raster mask of the same spatial scale and resolution as the background environmental variables for which each pixel was assigned a pixel index value for its corresponding location within the study area (i.e., Latin America). We then removed all but one occurrence location for each pixel index value within the study area ( n = 5788). As the current estimates of D. rotundus climatic suitability were to be calibrated using current climate estimates averaged across 30 years (1970 2000), occurrence locations that were redundant by location (i.e., duplicate coordinates) were not retained, even if they were collected in different years. This allowed us to mitigate any overrepresentation of certain oversampled climatic conditions. The remaining occurrence locations were then matched with the corresponding values of the background environmental variables (i.e., climate) from the WorldClim database62 at 2.5-arc-minute resolution 5 km).",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Environmental twins",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What statistical measure was calculated between each occurrence location in environmental space?",
+      "answer": "The Mahalanobis distances were calculated between each occurrence location in environmental space (E-space).",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " WorldClim provides 19 different global metrics of climate, both for current climates and for a variety of different future periods and emissions scenarios62. Current climate data from WorldClim are averaged from the years 1970-200062, which were used as the closest approximation of the available historical occurrence location data. We used the raster package63 in R to extract the value of each WorldClim variable for current climates at the location of each occurrence location. We used these values to create a cloud of data points representing the species historic distribution in environmental space (E-space)64 We then developed a principal component analysis of the background environmental variables (i.e., current climate) extracted at each occurrence location to obtain principal component axes summarizing variance of the climatic data at location of known occurrence. Principal components one, two, and three (summarizing 80.4% of the background environmental variable data variance) were then used as axes to plot the occurrence locations in environmental space. We then calculated Scientific Reports the Mahalanobis distances between each occurrence location in E-space. These distances were used to fit a minimum-volume ellipsoids to all occurrence locations in E-space with permutations taking one point out in each iteration.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Environmental twins",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the optimal potential of the two perspectives mentioned in the paragraph?",
+      "answer": "The optimal potential is achieved when they are integrated to jointly analyze and predict environmental factors, human pressures, and the effects of past and future change scenarios.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2019; FISH4ACP 2021; Penca et al. 2021; Acosta-Alba et al. 2022; Seung 2022). While both perspectives, the ecosystem-based fisheries analysis and the seafood value chain analysis, individually provide interesting results, their optimal potential may be achieved when they are integrated, so environmental fac - tors and human pressures, and the effects of past and future change scenarios can be jointly analysed and predicted. However, due to the technical difficulties and the extended data requirements, there are only a few examples where this integration has been implemented. Up to date, these exam- ples are mostly focused on monospecific fisheries (Khan 2009; Christensen et al. 2011). In this paper, we develop an integrated food web and value chain model of an area of the Northwestern Mediter - ranean Sea. This is a relevant case study, because it provides a holistic insight into a biologically rich context subjected to severe anthropogenic pressures and where a mixed semi- industrial fishery takes place. To our knowledge, it is one of the first integrated food web value chain models devel- oped under such conditions and the first in European waters (Christensen et al.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Environmental twins",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Environmental twins_qna_002",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "label": "Rapid urbanization impact",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the effects of urbanization on biophysical variables in West Africa?",
+      "answer": "In West Africa, urbanization has pronounced consequences on precipitation, runoff, soil moisture, and vegetation, disrupting ecosystem services.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Recent studies have shown that indirect factors, such as climate change, account for about 40% of global urban changes, with the remaining 60% driven by direct human activities (Chai et al., 2022; He et al., 2024; Li et al., 2021; Song et al., 2018; van Vliet, 2019; World Cities Report, 2024). These changes vary regionally, with land use activities driving urban transformation in Europe, South America, Asia, and Africa (Song et al., 2018). For instance, sub-Saha- ran Africa has experienced significant deforestation, linked to both smallholder agriculture and commer - cial crop cultivation (Ordway et al., 2017). Mean- while, in the savannahs of Central and West Africa, increasing precipitation and carbon dioxide have led to forest expansion and woody encroachment, reshaping regional landscapes (Mitchard & Flintrop, 2013). In West Africa, the consequences of urbaniza- tion on biophysical variables such as precipitation, runoff, soil moisture, and vegetation are particularly pronounced. These changes disrupt ecosystem ser - vices such as carbon sequestration, water regulation, and biodiversity conservation, impacting climate change mitigation and adaptation strategies (Fashae et al., 2017; Liu et al., 2019; Polasky et al., 2011).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the main factors driving urban transformations in urban areas according to the study?",
+      "answer": "The main factors driving urban transformations are population growth, economic development, and policy changes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Urban areas are experiencing rapid trans- formations, driven by population growth, economic development, and policy changes. Understanding and monitoring these dynamic changes is crucial for sus- tainable urban planning and management. This study leverages machine learning and Google Earth Engine to investigate urban dynamics and its interactions with biophysical conditions in the Kaduna River Basin (KRB), Nigeria. This study utilized a dataset of 192 points, initially extracted from Google Earth Engine, to analyze urban transitions between 1987 and 2020, incorporating biophysical and environmental vari- ables such as population density, precipitation, and surface temperature. The dataset was processed in R using the CARET package, with missing data imputed via K-nearest neighbors (KNN), categorical variables transformed using One-Hot Encoding, and numerical variables rescaled for consistency. A tenfold cross- validation approach was used to train and validate machine learning models, including random forest, support vector machine, KNN, and multivariate adap- tive regression splines, ensuring optimal model per - formance. Model evaluation metrics such as overall accuracy, kappa, F1 score, and area under the curve confirmed the reliability of the models in identifying the biophysical factors influencing urban changes.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What time period does the analysis of urban transitions cover in the Kaduna River Basin?",
+      "answer": "The analysis of urban transitions covers the period between 1987 and 2020.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Urban areas are experiencing rapid trans- formations, driven by population growth, economic development, and policy changes. Understanding and monitoring these dynamic changes is crucial for sus- tainable urban planning and management. This study leverages machine learning and Google Earth Engine to investigate urban dynamics and its interactions with biophysical conditions in the Kaduna River Basin (KRB), Nigeria. This study utilized a dataset of 192 points, initially extracted from Google Earth Engine, to analyze urban transitions between 1987 and 2020, incorporating biophysical and environmental vari- ables such as population density, precipitation, and surface temperature. The dataset was processed in R using the CARET package, with missing data imputed via K-nearest neighbors (KNN), categorical variables transformed using One-Hot Encoding, and numerical variables rescaled for consistency. A tenfold cross- validation approach was used to train and validate machine learning models, including random forest, support vector machine, KNN, and multivariate adap- tive regression splines, ensuring optimal model per - formance. Model evaluation metrics such as overall accuracy, kappa, F1 score, and area under the curve confirmed the reliability of the models in identifying the biophysical factors influencing urban changes.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_003",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "Which regions are expected to see much of the urban growth according to the paragraph?",
+      "answer": "Much of the urban growth is expected to be concentrated in developing regions like Africa and Asia.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " (1234567890) Keywords Landscape changes Land use and land cover Random forest Support vector machines Urban ecosystem Introduction Understanding the dynamics of urban change, its transitions, and landscape risk evaluation in river basins is critical for sustainable urban planning and resilience building. As global urbanization acceler - lates, with one-third of land use changing at least once over recent decades (Winkler et al., 2021), the need for advanced monitoring and predictive tools is more pressing than ever. This urban expansion, driven by population growth, economic development, and policy shifts, poses significant challenges for water resources, food security, and climate resilience (Song et al., 2018; Winkler et al., 2021). Furthermore, land use change plays a crucial role in shaping ecosystems and environmental health, influencing factors such as water availability, soil quality, and biodiversity (Obateru et al., 2024). As the global urban population is expected to reach 61% by 2030, with much of the growth concentrated in developing regions like Africa and Asia (Onyango, 2018), it is essential to under - stand how urbanization interacts with biophysical processes in rapidly growing regions.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_004",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are the direct impacts referred to in the paragraph?",
+      "answer": "Direct impacts refer to the immediate effects of an event as described in the literature, specifically something that occurs once the event has started.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " We will call these the direct impacts, in line with the literature (Hallegatte 2015 ). Once the event has occurred, or started to occur, there are subsequently also likely to be consequences of the physical phenomena, often termed indirect losses, higher order losses, or indirect impacts (Rose 2004 ; Hallegatte and Przyluski 2010 ; Hallegatte 2015 ). These can include interruptions of economic activities as well as any positive spillover effects due, for example, to the substitution of production and the demand for reconstruction (Botzen et al. 2019 ), and are likely to vary consider - ably across contexts. Crucially, they tend to span a longer time period, have a larger spatial extent, and/or affect different aspects than the direct impacts (Hallegatte 2015 ), and as such are generally more difficult to identify and measure (Council et al. 1999 ). Additionally, often the end of the indirect impacts are not as easily defined as for direct impacts (Botzen et al. 2019 ). Moreover, for the slower onset extreme climate events, such as droughts, the indirect impacts may start while the direct impacts are still ongoing.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_005",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "How is Australia specifically affected by urbanisation according to the paragraph?",
+      "answer": "Australia faces severe biodiversity loss due to remnant habitat conversion for agriculture, forestry, and urban infrastructure.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The findings of this study can inform spatially-guided management decisions and long-term conservation strategies for large mammals under growing urban pressures worldwide. Keywords Landscape genetics Connectivity Conservation planning Urbanising environment Urbanisation Introduction Urban expansion has emerged as one of the signifi- cant drivers of biodiversity decline globally (Seto et al. 2012), with projected human population growth expected to reach nearly 9.7 billion by 2050 (UN 2022) and exacerbate current impacts. Australia, in particular, faces severe biodiversity loss due to rem- nant habitat conversion for agriculture, forestry, and urban infrastructure (Bennett and Saunders 2010; Heilig 2018; van Leeuwen 2021). Rapid changes in urban and rural areas (peri-urban zones) create a complex mosaic of habitats, challenging wildlife adaptation and persistence (Simon 2008; Amirinejad et al. 2018). As such, effective conservation planning requires robust data-driven research to understand wildlife persistence and adaptability to urbanising landscapes, moving beyond expert opinions to quan- titative analyses (Werner 2011). In human-modified landscapes, wildlife face novel spatio-genetic barriers that alter historical movement pathways, encompassing both physical barriers (e.g., buildings, waterways) and behavioural barriers (e.g., reluctance to disperse across terrain) (Slatkin 1987; Baguette and Van Dyck 2007).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_006",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What area is the study focused on regarding M. giganteus and its relation to urbanization?",
+      "answer": "The study focuses on the Sunshine Coast region of SEQ, which is a rapidly urbanizing area covering roughly 1,338 km2, north of Brisbane, QLD, Australia.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2015; Brunton et al. 2022). For this reason, local land managers have recognised the need for conservation management of these declining populations. Without proactive man- agement, these populations may experience declines too severe to recover from, leading to extirpation. Therefore, M. giganteus presents as an ideal study species to, not only, address gaps in landscape genetic studies of least-concern species but provide insights into the magnitude of impacts surrounding urbanising landscapes on large mammal species. This study aimed to understand and map the effect of landscape structure on M. giganteus gene flow and test the following hypotheses: (i) landscape resistance (Isolation-by-Resistance; IBR) influences M. gigan teus genetic differentiation more than geographical distance alone (Isolation-by-Distance; IBD), and (ii) the influences of landscape structure on the species genetic differentiation are scale-dependent. Methods Study area The Sunshine Coast region of SEQ, is a rapidly urbanising area covering roughly 1,338 km2, north of the capital city of Brisbane, QLD, Australia (Fig. 1). Land use varies within the Sunshine Coast and includes agriculture, forestry, remnant vegeta- tion, modified green spaces, and urban and peri-urban spaces.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_007",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What negative effects of urbanisation were reported in the study referenced by Haight et al. (2023)?",
+      "answer": "The study showed negative effects of urbanisation on species occupancy and diversity in warmer cities with less green space, particularly affecting large-bodied species.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For example, a recent study showed negative effects of urbanisation on species occupancy and diversity in warmer cities with less green space (Haight et al. 2023 ). Moreover, these authors showed that mostly large bodied species were impacted. Similarly, in birds more urbanised environments led to a reduction in species richness. How - ever, in contrast to what has been observed for mammals in birds omnivorous large-bodied species thrived better (Pena et al. 2023 ). Amphibians are under-represented in research into habitat degradation and species declines (Tan et al. 2023 ). Yet, they are particularly threatened by global warming, habitat fragmentation and the spread of infectious diseases: 41% of amphibian species are threatened with extinction according to the IUCN Red List of Threatened Species (IUCN 2023 ). Moreover, the diversity of amphib - ian species decreases as the degree of urbanisation increases (Mazgajska and Mazgajski 2020 ). Amphibians are particu - larly vulnerable to changes in the landscape because they depend on connectivity between terrestrial and aquatic habi - tats due to the biphasic life cycle present in most species, resulting in the need to use water bodies for breeding and terrestrial habitats for the rest of their life cycle (Homola et al.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_008",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does urbanization affect natural ecosystems?",
+      "answer": "Urbanization disrupts hydrogeochemical cycles, affects water quality, and accelerates climate change through habitat destruction, pollution, and greenhouse gas emissions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Somay -Altas (*) Geological Engineering Department, Dokuz Eylul University, Buca-Izmir, T rkiye e-mail: melis.somay@deu.edu.tr E. Sanli The Graduate School of Natural and Applied Sciences, Dokuz Eylul University, Buca-Izmir, T rkiye Water Air Soil Pollut (2025) 236:208 208 Vol:. (1234567890) 1 Introduction Urbanization, a defining feature of the twenty-first century, has led to most of the global population residing in urban areas. By 2050, the urban popula- tion is projected to reach 6.7 billion (United Nations, 2018), intensifying pressure on natural ecosystems and posing critical challenges to environmental sus- tainability. This phenomenon disrupts hydrogeo- chemical cycles, affects water quality, and accelerates climate change through habitat destruction, pollution, and greenhouse gas emissions (Liliwirianis et al., 2023; Luo et al., 2023; Tan et al., 2021; Xu et al., 2006; Zhang et al., 2019). Rational water resource management and sustainability measures are essential to mitigate these impacts (ENRR, 2023). Urban wetlands, often referred to as \"green sponges,\" are pivotal components of sustainable urban infrastructure (Somay-Altas, 2022).",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_009",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does urbanization affect water quality according to the study?",
+      "answer": "The study reveals that urbanization is a driving factor behind the spatial variability in water quality.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The Water Quality Index (WQI) classification shows a wide range from \"excellent\" to \"unsuitable for drinking,\" indicating significant spatial variability. Health Risk Assessments (HRA) identify B, Br, F, and NO3 as the primary contaminants of concern, espe- cially in areas impacted by seawater intrusion, agricul- tural activities and natural geothermal fluids mixing. The use of stable isotope analysis reveals marine and freshwater interactions, which influence the water S chemical composition. This study underscores the importance of sustainable management practices to mit- igate contamination risks, safeguard public health, and preserve the multifunctional role of urban wetlands in enhancing urban resilience and climate adaptation. Highlights Introduces \"EcoHaven Oasis\" as a novel frame- work for understanding urban wetlands. Analyzes hydrogeochemical properties and iso- topic signatures to trace water quality processes. Identifies arsenic, boron, bromide, and nitrate as critical contaminants using WQI and HRA. Reveals spatial variability in water quality driven by urbanization and natural dynamics. Proposes sustainable management strategies to mitigate contamination in urban wetlands. Keywords Urban Wetland Hydrogeochemistry Water Quality Index (WQI) Health Risk Assessment (HRA) TurkiyeM.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_010",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What significant change in urbanization rates was observed in Izmir between the periods of 1990-2000 and 2000-2018?",
+      "answer": "The urbanization rate was very high between 1990-2000, but it decreased significantly after 2000.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Urban wet- lands, as interfaces between anthropogenic activities and natural systems, experience significant hydrogeo- chemical alterations due to industrial runoff, waste- water, and urban sprawl. Investigating these processes is critical for developing effective conservation strate- gies that address challenges arising from rapid urban- ization, including pollution, altered hydrological cycles, and the loss of green spaces. Understanding hydrogeochemical transformations in urban wetlands will aid in designing sustainable management prac- tices that enhance their role as EcoHaven Oasis. As the third-largest city in Turkiye, Izmir, his- torically known as Smyrna, boasts a rich historical legacy, a thriving economy, and a diverse cultural tapestry. Furthermore, with its two natural urban wet- lands, Izmir city stands as one of the rare and valu- able cities in the world (Fig. 1). One of these is the Gediz Delta (Izmir Bird Paradise), a Ramsar wetland area situated to the north of the bay, while the other is the Inciralti-Cakalburnu urban wetland (ICUW), located to the south of the bay. ncel and Lev - end (2023) examined the effects of areas opened to urbanization on natural areas in Izmir in two periods, 1990 2000 and 2000 2018, and found that the urban- ization rate was very high between 1990 2000 and that this rate decreased significantly after 2000.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_011",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What are some of the detrimental effects of urbanization on biotic communities?",
+      "answer": "Detrimental effects of urbanization on biotic communities include species richness reduction near urban cores, changes in ecosystem function due to modifications to the species pool, and consequences from introduced novel organisms.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Urban Ecosystems (2025) 28:88 https://doi.org/10.1007/s11252-25-1699-2 worldwide raises significant conservation concerns, par - ticularly as it encroaches upon terrestrial protected areas, including important biodiversity hotspots in the foreseeable future (Seto et al. 2012 ; Ritchie et al. 2021 ; Simkin et al. 2022 ). Increasing levels of urbanization and its associated processes are the cause of several detrimental effects on biotic communities, such as a species richness reduction close to urban cores, changes in ecosystem function due to modifications to the species pool, and the consequences of introduced novel organisms, among many others (McK - inney 2008 ; Kowarik 2011 ). General patterns have been observed, where an increase in plant species richness is commonly reported as a result of the introduction of exotic species, representing in some cases more than half of the total number of species (Falf in and MacGregor-Fors 2016 ; Boscutti et al. 2022 ). Additionally, urban areas often experi - ence higher abundances of certain groups such as birds and arthropods (Faeth et al. 2011 ; Brassard et al. 2021 ).Introduction Urbanization is considered one of the most important and extreme modifications of the Earth S surface, replacing pre - existing vegetation cover with impervious surfaces, and one of the main causes of endangerment for species (Czech and Krausman 1997 ; Czech et al.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_012",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is urbanization considered in terms of its impact on the Earth's surface?",
+      "answer": "Urbanization is considered one of the most important and extreme modifications of the Earth's surface, as it replaces pre-existing vegetation cover with impervious surfaces.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Urban Ecosystems (2025) 28:88 https://doi.org/10.1007/s11252-25-1699-2 worldwide raises significant conservation concerns, par - ticularly as it encroaches upon terrestrial protected areas, including important biodiversity hotspots in the foreseeable future (Seto et al. 2012 ; Ritchie et al. 2021 ; Simkin et al. 2022 ). Increasing levels of urbanization and its associated processes are the cause of several detrimental effects on biotic communities, such as a species richness reduction close to urban cores, changes in ecosystem function due to modifications to the species pool, and the consequences of introduced novel organisms, among many others (McK - inney 2008 ; Kowarik 2011 ). General patterns have been observed, where an increase in plant species richness is commonly reported as a result of the introduction of exotic species, representing in some cases more than half of the total number of species (Falf in and MacGregor-Fors 2016 ; Boscutti et al. 2022 ). Additionally, urban areas often experi - ence higher abundances of certain groups such as birds and arthropods (Faeth et al. 2011 ; Brassard et al. 2021 ).Introduction Urbanization is considered one of the most important and extreme modifications of the Earth S surface, replacing pre - existing vegetation cover with impervious surfaces, and one of the main causes of endangerment for species (Czech and Krausman 1997 ; Czech et al.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_013",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What has been identified as a critical process related to biodiversity loss?",
+      "answer": "Urbanization has been identified as one of the most critical processes related to biodiversity loss worldwide.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2000 ; Eldgredge and Horenstein 2014 ). The ongoing process of urban expansion lan MacGregor-Fors ian.macgregor@helsinki.fi 1 Instituto de Biotecnolog a y Ecolog a Aplicada, Universidad Veracruzana, Xalapa, Veracruz 91090, Mexico 2 Faculty of Biological and Environmental Sciences, Ecosystems and Environment Research Programme, University of Helsinki, Niemenkatu 73, Lahti 15140, Finland 3 Facultad de Biolog a, Universidad Veracruzana, Xalapa, Veracruz 91000, MexicoAbstract Urbanization is considered one of the most critical processes related to biodiversity loss worldwide. Birds are one of the most commonly studied groups in urban ecosystems due to their quick response to environmental changes. Despite the current knowledge related to urban bird communities, information associated with the specific factors shaping avian com - munities in cities is still scarce, especially in the Neotropics. In this study, we performed a citywide survey for birds in the city of Xalapa (Mexico), to compare the species composition of urban communities with those of two reference sites adjacent to the urban area. We hypothesized that the compositional similarity would either be defined by their spatial proximity to their respective reference site or that it would be shaped by resources intrinsic to the city.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_014",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What issue has high urbanization in the middle and lower reaches of the Xiangjiang River Basin caused?",
+      "answer": "High urbanization in the middle and lower reaches of the Xiangjiang River Basin has resulted in a high proportion of impervious areas and damage to aquifers due to over-exploitation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Coupled system as a physical concept refers to the phenomenon where two or more systems influence each other through multiple forms of interaction. Based on this idea, numerous studies on coupled systems have been performed, including the coupling between urbanization and ecological environment quality11, land resources coupling12 Agroecological coupling13, and the coupling between resource capacity and environmental carrying capacity14.With the increase of urban population and the acceleration of the process of economic development, how to harmonize the interrelationships among resources, economy, society, ecology and environment represent a critical challenge for sustainable development in contemporary times. 15. There has been an increase in the number of existing studies on coupled water resources, economic and social, and ecological systems. The studies that have been conducted have mainly quantitatively evaluated the resource carrying capacity of the coupled system by geo-detectors, regression analyses, or improved PSR models, and summarized the most significant influencing factors16 18. However, it fails in depth the relationship between the factors in the indicator system and to distinguish the importance of the influencing factors. Second, an analysis of socio-economic factors affecting the development of priority areas for ecosystem services found that high urbanization in the middle and lower reaches of the Xiangjiang River Basin has resulted in a high proportion of impervious areas, and that aquifers have been damaged by over-exploitation in the economic development19.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_015",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What social factor related to urbanization is highlighted in the paragraph?",
+      "answer": "Urbanization is highlighted as a leading phenomenon that symbolizes modernization in the progress of societies or nations.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 3College of Economics and Management, Northwest Agricultural and Forestry University, Yangling, People S Republic of China. 4Department of Management, College of Business Administration, King Saud University, P O. Box 71115, 11587 Riyadh, Saudi Arabia. email: syedaaleraza56@gmail.com OPEN Scientific Reports www.nature.com/scientificreports remains intact 3,4. It is indispensable to commence the chief roots of such environmental strains across the globe. Since the Industrial Revolution, most nations have tried to boost their development level at any cost. Beyond the economic growth and its severe consequences for sustainability, an exclusive debate concerning social factors cannot be ignored from this race 5. For instance, urbanization has remained a leading phenomenon in eye contact with most nations because it is considered a symbol of modernization in the progress of societies or nations 6. Most people migrate from rural to urban areas due to better facilities. Its ratio has increased worldwide in the last decade from 37 to 54% 7. An abrupt rise in urbanization may bring ED. As per the UN report, there are six hundred top cities across the globe that consist of 20% of the global population, 60% of GDP growth, and 70% of carbon pollution.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_016",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What has been a recent trend concerning urbanization mentioned in the paragraph?",
+      "answer": "The trend in urbanization has increased worldwide from 37% to 54% in the last decade as more people migrate from rural to urban areas for better facilities.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 3College of Economics and Management, Northwest Agricultural and Forestry University, Yangling, People S Republic of China. 4Department of Management, College of Business Administration, King Saud University, P O. Box 71115, 11587 Riyadh, Saudi Arabia. email: syedaaleraza56@gmail.com OPEN Scientific Reports www.nature.com/scientificreports remains intact 3,4. It is indispensable to commence the chief roots of such environmental strains across the globe. Since the Industrial Revolution, most nations have tried to boost their development level at any cost. Beyond the economic growth and its severe consequences for sustainability, an exclusive debate concerning social factors cannot be ignored from this race 5. For instance, urbanization has remained a leading phenomenon in eye contact with most nations because it is considered a symbol of modernization in the progress of societies or nations 6. Most people migrate from rural to urban areas due to better facilities. Its ratio has increased worldwide in the last decade from 37 to 54% 7. An abrupt rise in urbanization may bring ED. As per the UN report, there are six hundred top cities across the globe that consist of 20% of the global population, 60% of GDP growth, and 70% of carbon pollution.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_017",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage of the global population is currently urbanized, as stated in the paragraph?",
+      "answer": "The global degree of urbanization is close to 57%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This consolidated framework for assessing and integrating multiple environmental pressures is a vital tool for urban strategic planning. It addresses the complex interplay of urban factors, offering a proactive, transparent, and cost-effective approach to mitigate environmental pressures and promote sustainable urban development amidst the ongoing climate crisis. The methodology's replicability under - scores its potential for broad application, contributing to the global effort in achieving urban sustainability and resilience. Keywords Air quality Urban heat Green space Adaptation Mitigation Urban resilience Introduction Urban sprawl, along with the accompanied implications (e.g., pollution, urban heat stress, biodiversity loss), is one of the biggest challenges that modern societies are confronted with (Humbal et al. 2023). Today, the degree of urbanization globally is close to 57%, while among continents Europe has the third highest level of urbanization with three quarters of the population residing in urban areas ( Urbanization by continent 2022, n.d., Stanners and Bourdeau 1995), also indicating the degree of environmental vulnerability that cit- ies are exposed to. Local authorities, in collaboration with national, regional or even global networks and initiatives,1 Responsible Editor: Katerina Pantavou.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_018",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What aspect of urbanization is currently unclear and of interest to practitioners?",
+      "answer": "The connection between rapid urbanization and its effect on domestic environmental stress remains unclear and is of interest to practitioners.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Such inclusion may guide policymakers to suggest eco-friendly suggestions for a green environment. Secondly , social factors such as urbanization are important environmental determinants that cannot be excluded from the development models. For instance, its immense demand for society S development and interconnected sectors may bring environmental pollution via the usage of energy-intensive products. Rapid urbanization would cause environmental stress at the domestic level, but this connection has not yet been answered clearly, and practitioners are curious to know the actual situation in WRE economies. To answer this question, the current study and its outcomes may guide policymakers to take green urbanization initiatives. Thirdly , the depletion of natural resources (NRs) has remained a rich source of revenue for earning and investing in development plans. The exploitation of NRs has recently been observed due to industrial development plans. The selected economies also believed in globalization, exporting goods & services, and extracting available natural resources for trade activities that further cause environmental deterioration. The current theme also considers natural resource exploitation as an environmental determinant to answer whether it raises domestic environmental pollution.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_019",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does rapid urbanization impact the physical modification of urban areas?",
+      "answer": "Rapid urbanization can lead to physical modifications of urban areas, such as increased infrastructure development, loss of green spaces, changes in land use, and alterations to natural drainage systems.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2405844023050909",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_020",
+      "group": "QnA",
+      "label": "Taxonomy",
+      "question": "In which chapter will key developments in local administration and urban society be presented?",
+      "answer": "Key developments in local administration and urban society will be presented in chapter 4.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This includes understanding the interactionsbetween various measures, policies, and actors within the city (Casta n Broto & Westman, 2020 ; Wang & Ran, 2023 ). In order to address this research gap, it is useful to draw on the concept of governance, which will be discussed in greater detail in the following chapter (2). After a short sketch of the methodology of the study (chapter 3), wepresent (in chapter 4) key developments in local adminis- tration and urban society. On this basis, we focus (in chapter 5) on an attempt to classify the central forms ofinteraction and cooperation that we found traditional ones revitalised and new ones emerging. In the nal sum up (in chapter 6), we will come back to a question raised butnot explicitly addressed by our overview and stocktaking: To what degree does a more interactive governance, as we have observed it, also mean a more democraticgovernance?Interactive Governance Cornerstones of an Analytical Concept Interactivity: The Common Basic Idea of Various Concepts for a new Governance When one speaks of governance instead of government, one emphasises the processes of governing, including thevarious ways actors from the social sphere participate.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_021",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What time period does the study analyze regarding urban transitions in the Kaduna River Basin?",
+      "answer": "The study analyzes urban transitions between the years 1987 and 2020.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As urbanization accelerates, the vulnerability of urban and peri-urban populations to climate change intensifies, making it crucial to identify emerging urban spaces and develop effective policy responses that address both environmental and socio-economic challenges. This study aims to investigate urban change dynamics in the Kaduna River Basin, Nigeria, focus- ing on how urban transformations influence critical biophysical variables such as water availability, land cover, and ecosystem services. A key contribution of this work is its use of advanced spatial techniques, including machine learning algorithms (MLAs) and Google Earth Engine (GEE), to analyze urban tran- sitions between 1987 and 2020. Unlike earlier stud- ies, which often relied on traditional spatial analysis, this research leverages the power of cloud computing and geospatial data to identify and predict changes with greater accuracy and speed. This study employs a novel methodological approach that integrates expert knowledge with spatial analysis and machine learning algorithms to refine data selection, enhance model interpretation, and improve classification accu- racy. By leveraging domain expertise, this approach ensures a deeper understanding of urbanization S impact on biophysical conditions, leading to more informed and contextually relevant insights for sus- tainable urban planning strategies.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_022",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What percentage increase in urban expansion was observed according to the study's findings?",
+      "answer": "The study observed a rapid urban expansion of 154.81%.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The findings revealed overall accuracy of 0.80, 0.73, 0.71, and 0.72 and kappa statistics of 0.60, 0.46, 0.42, and 0.45 for random forest (RF), multivariate adaptive regression splines, support vector machine, and KNN, respectively, with RF emerging as the most accurate model (80%) for predicting urban change patterns in KRB. Land cover changes reveal rapid urban expan- sion (154.81%), declining water bodies ( 95.79%), and vegetation growth (174%). Machine learning mod- els identify population density and water stress index as key urban change drivers, with climate factors like temperature and precipitation playing crucial roles. The results of this study offer valuable insights into the processes driving urban transformation and present a robust methodology for monitoring and predicting future urban development. This study aids in the crea- tion of strategies for sustainable urban growth and the mitigation of adverse environmental impacts.O. S. Durowoju (*) S. Adelabu Department of Geography, University of the Free State, Bloemfontein Campus, Bloemfontein, South Africa e-mail: olufemidurowoju@gmail.com S. Adelabu e-mail: AdelabuSA@ufs.ac.za O. S. Durowoju Department of Geography, Osun State University, Okuku Campus, Okuku, Nigeria R. O. Obateru Department of Geography, University of Ibadan, Ibadan, Oyo State, Nigeria e-mail: obaterurotimi@gmail.com A. Olusola Faculty of Environmental and Urban Change, York University, Toronto, ON, Canada e-mail: aolusola@yorku.ca Environ Monit Assess (2025) 197:441 441 Vol:.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Urban sanitation challenges",
+      "subtopic": "Rapid urbanization impact",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_003",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_004",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_005",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_006",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_007",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_008",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_009",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_010",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_011",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_012",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_013",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_014",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_015",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_016",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_017",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_018",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_019",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_020",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_021",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact",
+      "target": "Subtopic:Environment|Clean water and sanitation|Urban sanitation challenges|Rapid urbanization impact_qna_022",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Precision agriculture using IoT",
+      "label": "Precision agriculture using IoT",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|IoT in cities|Precision agriculture using IoT_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "What is Agriculture 4.0, and what are some key components of this approach?",
+      "answer": "Agriculture 4.0 is the next big trend in the agricultural industry, focusing on precision agriculture, IoT, and big data. This approach aims to increase agricultural income while addressing climate change and protecting ecosystems.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2772375523000369",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "IoT in cities",
+      "subtopic": "Precision agriculture using IoT",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|IoT in cities|Precision agriculture using IoT",
+      "target": "Subtopic:Environment|Smart cities|IoT in cities|Precision agriculture using IoT_qna_000",
+      "value": 1
+    }
+  ]
+}

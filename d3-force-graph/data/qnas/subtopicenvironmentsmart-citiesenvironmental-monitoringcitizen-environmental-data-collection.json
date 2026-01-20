@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection",
+      "label": "Citizen environmental data collection",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How does the study aim to assist legislators in addressing environmental issues?",
+      "answer": "The study aims to provide an empirical sketch to legislators that can help resolve environmental issues through green steps at the domestic level.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The consecutive solutions (RE, ICT, and circular economy) would cause sustainability and may provide new insight for development planners to follow up under the environmental standards. Finally , this study introduces the mediating role of renewable energy and circular economy on urbanization and evaluates an indirect role in sustainability. Such action can bring an empirical sketch in front of legislators to resolve environmental issues via some green steps at the domestic level. Also, this theme utilizes the most robust estimators to consider the study S objectives. Data integration, CSDs, and co-integration tests ensure data reliability and initial screening. Panel Generalized Method of Moments, Panel Vector Auto-regressive, and Panel Quantile Regression are utilized in the present study for long-term associations. contribution to existing literature. The remaining sections are classified into literature section, data & method, results & discussion, and conclusion & policy recommendations. Summary of the past studies The current section is crucial because it provides a detailed overview of the past studies that have been done in the vein of interest. This section is classified into two subsections that give an overview concerning urbanization and energy transition toward sustainability.",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Citizen environmental data collection",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How does receiving additional information on environmental impacts affect left-leaning respondents differently from centrist respondents?",
+      "answer": "Left-leaning respondents are more prone to update their knowledge on environmental impacts of local consumption when receiving additional information compared to centrist respondents.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S146290112300120X?via%3Dihub",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Environmental monitoring",
+      "subtopic": "Citizen environmental data collection",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection",
+      "target": "Subtopic:Environment|Smart cities|Environmental monitoring|Citizen environmental data collection_qna_001",
+      "value": 1
+    }
+  ]
+}

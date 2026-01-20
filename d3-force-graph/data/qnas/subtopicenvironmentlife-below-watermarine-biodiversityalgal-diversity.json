@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity",
+      "label": "Algal diversity",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What are some of the key components of Spirulina platensis?",
+      "answer": "Spirulina platensis mainly consists of polysaccharides, proteins, and lipids.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Doping iodine as a heteroatom can significantly increase the electrochemically active sites of carbon-based materials [29, 30]. Biomass-based carbon materials are widely used in vari- ous application areas [31 33]. Among biomass-based car - bon materials, algae have attracted great attention in differ - ent application areas with their important features such as fast growth rates and high photosynthetic efficiency [ 34]. Spirulina platensis, which has an important place among algae and is characterized by rapid growth and wide distribu- tion, consists mainly of polysaccharides, proteins, and lipids. One of the significant properties of Spirulina platensis is its natural nitrogen content. Therefore, it can be utilized in various applications without requiring an additional nitrogen source for doping. With its low cost and these advantageous characteristics, Spirulina platensis emerges as a promising candidate for biomass-derived carbon materials as electrodes in supercapacitor applications. This study focuses on the synthesis of iodine@S-doped SPAC through a series of pyrolysis and hydrothermal processes, utilizing Spirulina platensis microalgae as the carbon precursor, with S and I atoms as heteroatoms for electrode material in supercapaci- tor applications.",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Algal diversity",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What shift in algae taxa was observed as a result of the extreme drought-heatwave event?",
+      "answer": "The dominant algae taxa shifted from Bacillariophyta to Cyanobacteria.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " communications earth & environment Article A Nature Portfolio journal https://doi.org/10.1038/s43247-25-2143-1 Extreme drought-heatwave events threaten the biodiversity and stabilityof aquatic plankton communities in Yangtze River ecosystems Check for updates Jixuan Lyu1,Y o n gS h i1, Tao Liu2,X i aome iX u1, Shengjing Liu1 uan gY a n g1, Dong Peng1,3,Y ubing u1, Shuo Zhang2, Chonghao Chen1, Yanxu Zhang3& Jianhua Gao1,2 Rivers are crucial to biogeochemical cycles, connecting terrestrial, oceanic, and atmospheric systems. However, their ecosystems are increasingly threatened by extreme weather events. Here weused the environmental DNA approach to assess the impact of extreme drought-heatwave events onthe aquatic plankton communities of the Yangtze River. We showed that an extreme drought-heatwave event reduced the diversity of communities, increased their diversity, and simultaneously simpli ed and destabilized community network structure. This event also shifted the dominant algae taxa from Bacillariophyta to Cyanobacteria, accompanied by increases in organic carbon and labileorganic carbon contents. Globally, temperature rises during this extreme drought-heatwave event aremore pronounced in high-latitude regions, likely amplifying impacts on river ecosystem biodiversityand stability.",
+      "macrotopic": "Life below water",
+      "topic": "Marine biodiversity",
+      "subtopic": "Algal diversity",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity",
+      "target": "Subtopic:Environment|Life below water|Marine biodiversity|Algal diversity_qna_001",
+      "value": 1
+    }
+  ]
+}

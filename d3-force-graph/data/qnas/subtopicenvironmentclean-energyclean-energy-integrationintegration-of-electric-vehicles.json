@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Integration of electric vehicles",
+      "label": "Integration of electric vehicles",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Integration of electric vehicles_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How do Calder et al. (2020) approach the integration policy goals of electric vehicles?",
+      "answer": "Calder et al. (2020) approach the integration policy goals of electric vehicles through an integrated risk analysis approach.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.researchgate.net/publication/370705198_Temporal_PROMETHEE_II_-_New_multi-criteria_approach_to_sustainable_management_of_alternative_fuels_consumption",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Integration of electric vehicles",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Integration of electric vehicles",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Integration of electric vehicles_qna_000",
+      "value": 1
+    }
+  ]
+}

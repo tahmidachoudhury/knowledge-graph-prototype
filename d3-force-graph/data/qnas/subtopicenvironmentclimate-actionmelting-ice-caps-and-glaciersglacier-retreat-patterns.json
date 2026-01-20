@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "label": "Glacier retreat patterns",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the focus of the analysis in the Results section as outlined in the paragraph?",
+      "answer": "The focus of the analysis in the Results section is on comparative studies of precipitation extremes based on Arctic-wide temperature changes during two consecutive time intervals.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " These approaches enable accurate extrapolation of probabilities and magnitudes beyond observed data, such as return levels for 50 or 100 years, providing realistic risk assessments. In climate studies, infrastructure design, and disaster preparedness-where conventional methods often underestimate the hazards of catastrophic events-EVT proves indispensable. Its distribution-independent nature, ability to account for heavy tails, and flexibility to incorporate trend behavior make it an essential tool for addressing the challenges posed by extreme climatic events. In Datasets and methods , we describe the location of the Svalbard archipelago, the datasets used, and the methods employed. A discussion on POT approach is included in the Sect. I of Supplementary information. In Results , we apply the POT method to model precipitation extremes at three stations in Svalbard. We analyze comparative studies of precipitation extremes for the two consecutive time intervals separately based on Arctic- wide temperature changes in Changes in the pattern of precipitation extremes during a recent warming period in the Arctic Finally, results are summarized in Discussion and conclusion Datasets and methods Daily precipitation data of the meteorological stations at Bj rn ya (No.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier retreat patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How many stations were analyzed in the study regarding rainfall changes in Austria?",
+      "answer": "A new dataset comprising 883 stations in Austria was analyzed for the study.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Nature ArticleIncreasing hourly heavy rainfall in Austria reflected in flood changes Klaus Haslinger1 Korbinian Breinl2, Lovrenc Pavlin2, Georg Pistotnik1, Miriam Bertola3, Marc Olefs1, Marion Greilinger1, Wolfgang Sch ner4 & G nter BI schl3 Climate change is expected to increase heavy rainfall with concomitant increases in flooding1. Causes of increased heavy rainfall include the higher water-holding capacity of a warmer atmosphere and changes in atmospheric circulation patterns2, which may translate into future heavy rainfall increases in most of Europe3. However, gathering evidence on the time evolution of past changes has been hampered by data limitations and measurement uncertainties, in particular for short rainfall durations, such as 1 h. Here we show an 8% increase in daily and 15% increase in hourly heavy rainfall over the last four decades by analysing a new dataset comprising 883 stations in Austria from 1900 to 2023. These increases are fully consistent between two independent networks and occurred after a retarding phase between 1960 and 1980. Hourly heavy rainfall changes are aligned with temperature increases with the sensitivity of a 7% increase per 1 C of warming, in line with Clausius Clapeyron scaling.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier retreat patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What analysis was performed to eliminate highly correlated climate variables, and what was the threshold used?",
+      "answer": "A Pearson Correlation coefficient analysis was performed to eliminate highly correlated variables with a threshold of 0.5, resulting in the removal of 12 variables.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " A Chi-squared test was used to identify which occurrence locations fell outside of the ellipsoid. Occurrence locations significantly outside the bulk of ellipsoids ( in = 269 or 4.6% of the occurrence locations) were identified as environmental outliers (i.e., occurrence locations which do not represent the typical climate tolerances of D. rotundus) and were removed (following methods of Qiao et al. 2024). After filtering in geographic and environmental space, the remaining 5519 occurrence locations were randomly split into 50% training 50% testing subsets for model calibration and evaluation. Ecological niche modeling Ecological niche model calibration, evaluation, and projection was completed in R using the kuenm package65. While 19 different metrics of climate are available within the WorldClim database, some of these variables are correlated. To reduce background environmental variable redundancy, we used a Pearson Correlation coefficient analysis64 of all 19 variables to eliminate highly correlated variables (i.e., 0.5, n = 12). The remaining seven Fig. 1 . Occurrence Location Filtering. A Geographic Space: Filtering of Desmodus rotundus occurrence locations from 1900-202360 in geographic space.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier retreat patterns",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What does the mean temperature analysis show about Ny- lesund and Svalbard Lufthavn?",
+      "answer": "Ny- lesund and Svalbard Lufthavn show a close resemblance in temperature climatology.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " plot) and mean precipitation (mm) (bar plot) for the three stations. Ny- lesund (grey) and Svalbard Lufthavn (black) show a close resemblance in temperature climatology. Bj rn ya (red) shows a higher temperature during cold months compared to the other stations. Precipitation is strong during colder months and weak during warmer months across all the stations, reflecting a seasonal variation typical in maritime Arctic climates-wetter winter and drier summer. To mitigate the biases caused by undercatch in precipitation gauge measurements, corrections are applied to improve data accuracy. Various correction methods are employed, including adjusting for wind-induced losses, wetting loss, and evaporation loss. These factors are particularly significant in the Arctic S cold and stormy conditions. These corrections are crucial to obtain reliable precipitation estimates, especially when analyzing long-term trends and extreme events in polar regions40. Here, we have employed the technique followed by Kochendorfer et al.41 using wind speed at 10 m ( w10), gauge precipitation ( Pg) and gauge temperature ( Tg). The correction factor for rain is given by krain= (exp .281 w10(1 arctan (1 .628 Tg)+0 .837))) 1 Scientific Reports and for snow is given by ksnow=( 0.742 e 0.181 w10+0.322) 1.",
+      "macrotopic": "Climate action",
+      "topic": "Melting ice caps and glaciers",
+      "subtopic": "Glacier retreat patterns",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns",
+      "target": "Subtopic:Environment|Climate action|Melting ice caps and glaciers|Glacier retreat patterns_qna_003",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods",
+      "label": "Ocean-based carbon capture methods",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage"
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What process was used to prepare the seawater samples after each incubation period?",
+      "answer": "The seawater samples were decanted into falcon tubes, centrifuged at 2200 g, and the supernatant was pipetted off; this process was repeated until the entire sample was centrifuged.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fragments were photographed for tissue surface area measurements (ImageJ) alongside a ruler to standardize photo size, and their photochemical health was measured using the IPAM. Small tissue biopsies comprised of two, approximately 7 mm in length and 3 mm in width, samples were taken from each core using a sterile razor blade and were preserved in 500 L of 1% SDS (w/v) in DNA Buffer (0.4 M NaCI and 0.5 M EDTA in MilliQ water; Baker 2016; Cunning and Baker 2013) for DNA extraction and quantitative PCR (qPCR) analysis of their Symbiodiniaceae communities. Corals were then returned to their original tanks and allowed to recover for at least four days prior to any repetitive sampling. Each fragment was subjected to one daytime incubation period and one nighttime incubation period through the course of this study. After each incubation, the resultant seawater sample from each chamber was decanted in stages into 50-mL falcon tubes. The first aliquot was centrifuged for 10 min at 2200 g. Once complete, the supernatant was carefully pipetted off, and then an additional 50 mL of the sample was added to the tube, vortexed, and spun for an additional 10 min at 2200 g. This process was repeated until the entire 150 mL sample had been centrifuged.",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Ocean-based carbon capture methods",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What method was used to obtain the specific surface areas of Dicranopteris pedata REEs/C?",
+      "answer": "The specific surface areas were obtained using Brunauer-Emmett-Teller (BET, BELSORP-mini II, Japan) based on N2 adsorption and desorption curves.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The specific surface areas of Dicranopteris pedata REEs/C with different preparation temperatures were obtained from Brunauer-Emmett-Teller (BET, BELSORP-mini II, Japan), based on N2 adsorption and desorption curves. The morphological and elemental compositions of Dicranopteris pedata REEs/C with different preparation temperatures were detected by Ultrahigh resolution cold field emission scanning electron microscope (SEM, Regulus 8100, Hitachi, JPN). It was combined with EDS (JEM-2100, Lorentz) using an acceleration voltage of 5.2 kV . Differences on the surface elemental composition and speciation of Dicranopteris pedata REEs/C with different preparation temperatures were analysed by Multifunctional imaging electron spectrometer (XPS, Thermo ESCALAB 250XI, Thermo Fisher Scientific, USA). Here the test parameters were ALK (hv = 1486.6 eV), 150 W 500 m, and the calibration point of the binding energy of the instrument was C1s = 284.8 eV . The electrical charge characteristics of REEs/C with different preparation temperatures were measured using a Zeta point position analyser in different pH (NANO ZS, Malvern Panalytical, UK). Removal experiment To evaluate the removal capacity of various REEs/C, we designed an experiment for removing Pb(II) utilising three tested REEs/Cs.",
+      "macrotopic": "Climate action",
+      "topic": "Carbon capture and storage",
+      "subtopic": "Ocean-based carbon capture methods",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods",
+      "target": "Subtopic:Environment|Climate action|Carbon capture and storage|Ocean-based carbon capture methods_qna_001",
+      "value": 1
+    }
+  ]
+}

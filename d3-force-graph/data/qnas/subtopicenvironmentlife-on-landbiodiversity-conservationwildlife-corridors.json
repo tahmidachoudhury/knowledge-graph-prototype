@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife corridors",
+      "label": "Wildlife corridors",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife corridors_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What did the recent study on gaur and sambar in central India focus on?",
+      "answer": "The study focused on how landscape genetics provide insights into the effects of landscape structure permeability and gene flow on large-bodied herbivores.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " For example, a recent study on the herbivorous gaur (Bos gaurus) and sambar (Rusa unicolor) in central India, demonstrated that landscape genetics can pro- vide insights into effects of landscape structure per - meability, and subsequent gene flow, on large-bodied herbivores (Tyagi et al. 2024). The study revealed that land-use changes had a more pronounced effect on gaur connectivity, while roads and human population density more significantly affected sambar connectiv - ity. Understanding spatio-genetic barriers is integral to effective conservation strategies that enhance gene flow and mitigate loss of genetic diversity. However, research in this space has predominately centred Landsc Ecol (2025) 40:58 58 Vol. : (123456789) around threatened species and species of carnivorous diets (Thatte et al. 2020; Fusco et al. 2021). This nar - row focus has created a substantial gap in our under - standing of species that are considered of least con- cern but are ecologically and culturally significant, such as woodland-dwelling organisms (Lino et al. 2019). In Australia, the endemic and iconic Eastern Grey Kangaroo (Macropus giganteus), a large-bodied her - bivorous macropodid, commonly occupies urban landscapes (Coulson et al.",
+      "macrotopic": "Life on land",
+      "topic": "Biodiversity conservation",
+      "subtopic": "Wildlife corridors",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife corridors",
+      "target": "Subtopic:Environment|Life on land|Biodiversity conservation|Wildlife corridors_qna_000",
+      "value": 1
+    }
+  ]
+}

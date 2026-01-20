@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Citizen feedback",
+      "label": "Citizen feedback",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Civic engagement|Citizen feedback_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "How were the principles presented to the survey respondents?",
+      "answer": "The principles were presented to the survey respondents as a series of digitally presented cards, with the order randomized between respondents to minimize ordering effects.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 1; they were presented to the survey respondents as a series of digitally presented cards. To minimise the potential for ordering effects, the order of the cards was randomised between respondents. The survey prompted each respondent to drag and drop the principles in rank order of priority to them in guiding and shaping Australian society as it emerges from the COVID-19 pandemic. 2.2 Data Analysis Data were analysed using R software version 4.0.3 and Stata software version 16 [14]. All figures and tables were pro- duced using the R software packages ggplot2, janitor and gmodels [15 17]. The level of socio-economic advantage for every survey respondent was calculated according to the Australian Bureau of Statistics Socio-Economic Indexes for Areas (SEIFA) [18]. The SEIFA is a group of four indexes developed by the ABS that ranks the geographic areas in Australia according to their relative socio-economic advan- tage and disadvantage. The Index of Relative Socio-eco- nomic Advantage and Disadvantage (IRSAD) was applied to each survey respondent S reported residential postcode (geo- graphic area) and each respondent was assigned a SEIFA decile score (1 10).",
+      "macrotopic": "Smart cities",
+      "topic": "Civic engagement",
+      "subtopic": "Citizen feedback",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Civic engagement|Citizen feedback",
+      "target": "Subtopic:Environment|Smart cities|Civic engagement|Citizen feedback_qna_000",
+      "value": 1
+    }
+  ]
+}

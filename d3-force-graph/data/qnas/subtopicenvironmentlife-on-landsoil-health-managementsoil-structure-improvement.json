@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement",
+      "label": "Soil structure improvement",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is particulated organic matter (POM) distributed within the soil matrix?",
+      "answer": "POM can be thoroughly mixed into the wet soil matrix or mainly located in air-filled macropores, depending on soil structure formation.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As a consequence, the diffusion distances of dissolved oxy - gen through the wet soil matrix can be very different depend- ing on the soil management (see the case study on plowed cropland soil and no-till grassland soil below) (Lucas et al. 2023a ; Schl ter et al. 2020 ). X-ray microtomography has been used repeatedly as a means of determining the volume fraction and distribution of air-filled pores to help predicting N2O emissions (Lucas et al. 2023a; Porre et al. 2016; Rabot et al. 2015; Rohe et al. 2021). Particulate organic matter (POM) is also not randomly distributed within the soil matrix, but can be thoroughly mixed into the wet soil matrix or mainly located in air-filled macropores, depending on soil structure formation. A large fraction of POM originates from roots and, since roots grow into larger pores or produce their own biopores (Lucas et al. 2019, 2023b), such POM fragments are typically located in close proximity to air-filled macropores (Kravchenko et al. 2018b; Schl ter et al.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil structure improvement",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What role do roots play in the distribution of POM in the soil?",
+      "answer": "Roots grow into larger pores or produce their own biopores, resulting in POM fragments typically being located near air-filled macropores.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " As a consequence, the diffusion distances of dissolved oxy - gen through the wet soil matrix can be very different depend- ing on the soil management (see the case study on plowed cropland soil and no-till grassland soil below) (Lucas et al. 2023a ; Schl ter et al. 2020 ). X-ray microtomography has been used repeatedly as a means of determining the volume fraction and distribution of air-filled pores to help predicting N2O emissions (Lucas et al. 2023a; Porre et al. 2016; Rabot et al. 2015; Rohe et al. 2021). Particulate organic matter (POM) is also not randomly distributed within the soil matrix, but can be thoroughly mixed into the wet soil matrix or mainly located in air-filled macropores, depending on soil structure formation. A large fraction of POM originates from roots and, since roots grow into larger pores or produce their own biopores (Lucas et al. 2019, 2023b), such POM fragments are typically located in close proximity to air-filled macropores (Kravchenko et al. 2018b; Schl ter et al.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil structure improvement",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_002",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "How is the distribution of air-filled pore space in soil determined?",
+      "answer": "The distribution patterns of air-filled pores and organic residues are determined by soil structure, influenced by biotic processes, abiotic processes, or technical processes.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " 2010; Silvennoinen et al. 2008; Veraart et al. 2011; Werner et al. 2014; Zhu et al. 2013). The total oxygen supply and demand in soil is hetero - geneously distributed. Even if the overall water content and substrate availability are the same, the denitrification rates and kinetics can be very different depending on the spatial distribution patterns of microbial hotspots (Schl ter et al. 2019; Zhu et al. 2015). Denitrification hotspots are typically formed around decomposing plant residues (H jberg et al. 1994; Kravchenko et al. 2017; Parkin 1987), and sometimes almost all N2O production can originate from a very small fraction of the soil volume (Parkin 1987). The distribution patterns of air-filled pores and organic residues are not ran- dom, but are imposed by soil structure. That is, the air-filled pore space at a given matric potential can have different spa- tial configurations depending on how the pores were formed, e.g. by biotic processes like bioturbation, abiotic processes like wetting drying cycles or technical processes like tillage.",
+      "macrotopic": "Life on land",
+      "topic": "Soil health management",
+      "subtopic": "Soil structure improvement",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement",
+      "target": "Subtopic:Environment|Life on land|Soil health management|Soil structure improvement_qna_002",
+      "value": 1
+    }
+  ]
+}

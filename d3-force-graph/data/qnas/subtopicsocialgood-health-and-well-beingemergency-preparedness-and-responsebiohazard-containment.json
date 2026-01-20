@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Biohazard containment",
+      "label": "Biohazard containment",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Biohazard containment_qna_000",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "How is contamination prevented in the eXRM S cabinet?",
+      "answer": "Contamination is prevented by fully encapsulating contaminated or radioactive samples to stop them from contaminating the cabinet.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " Initially, nonradioactive samples were used to test and commission the instrument as a graded approach towards radiation work. After initialcommissioning efforts, unirradiated nuclear fuel was examined, then irradiated non-fuel samples, before nally performing XCT on irradiated nuclearfuel samples by the end of 2021. The system ismaintained as a clean environment, meaning it is not contaminated and samples can be introduced and released from the system without becomingradiologically contaminated. This is achieved by fully encapsulating contaminated or radioactive samples to prevent them from contaminating eXRM S cabinet. The Xradia 520 is equipped with both a at panel detector and an X-ray microscope. The at paneldetector provides a larger FOV (maximum of30.7 cm 919.4 cm) with spatial resolution of the images ranging from /C246Im/pixel up to 100 Im/ pixel. Spatial resolution is reported as the distanceof an isotropic pixel edge length in a 2D image (a voxel in a reconstructed 3D tomogram). The XRM also contains a set of objective lenses, each directlycoated with X-ray scintillators, that are optically coupled to an Andor iKon-L charge-coupled device (CCD) camera. These objective lenses provide asmaller FOV than the at panel detector (minimum of 0.6 mm 90.6 mm) but a much higher spatial resolution ranging from /C24250 nm/pixel to 55 Im/ pixel.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Emergency preparedness and response",
+      "subtopic": "Biohazard containment",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Biohazard containment",
+      "target": "Subtopic:Social|Good health and well-being|Emergency preparedness and response|Biohazard containment_qna_000",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef monitoring",
+      "label": "Reef monitoring",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection"
+    },
+    {
+      "id": "Subtopic:Environment|Life below water|Coral reef protection|Reef monitoring_qna_000",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What was the timeline for collecting samples from the M. capitata patch reef population?",
+      "answer": "Samples were collected from the M. capitata patch reef population at 30 sites in early November 2017, with temperature data collected from August 2017 to March 2019, and collection sites revisited in October 2019 during a coral bleaching event.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Fig. 1 Collection sites and timeline. A: We tagged colonies and collected samples from the M. capitata patch reef population at 30 sites (red dots) spanning Kane ohe Bay in early November 2017. B: Ambient temperature shown in multi-color trace and acute artificial heat stress profile shown in red. Dashed line at 28.5 C is the local bleaching threshold (MMM + 1 C) (NOAA/NDBC 1971, Dilworth 2021). Coral fragments were held outside under ambient conditions (gray bar) and then indoors at ~ 25 C (blue bars) for a week prior to ramping up and holding at 32 C (pink bar). After substantial bleach- ing and mortality, temperature was stepped down to 25 C (purple bar). Remaining fragments were returned to ambient conditions and survivorship assessed several months post-heat stress. Temperature data collected at the 30 field sites from August 2017 to March 2019 (top black bracket) were used to characterize site thermal metrics in non-bleaching conditions. In October 2019, during the peak of a coral bleaching event, collection sites were revisited (yellow) and original source colonies scored for health/bleaching.",
+      "macrotopic": "Life below water",
+      "topic": "Coral reef protection",
+      "subtopic": "Reef monitoring",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life below water|Coral reef protection|Reef monitoring",
+      "target": "Subtopic:Environment|Life below water|Coral reef protection|Reef monitoring_qna_000",
+      "value": 1
+    }
+  ]
+}

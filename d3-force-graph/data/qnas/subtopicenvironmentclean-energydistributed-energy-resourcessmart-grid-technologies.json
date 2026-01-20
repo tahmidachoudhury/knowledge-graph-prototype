@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "label": "Smart grid technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "In what way does the smart grid contribute to efficiency enhancement in energy consumption?",
+      "answer": "The smart grid facilitates real-time communication of energy consumption to different stakeholders, enabling better decisions and contributing to efficiency enhancement by providing real-time data for more informed energy management and optimization.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Smart grid technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_001",
+      "group": "QnA",
+      "label": "",
+      "question": "How is the application scope of smart grid technology expanding, as described in the introduction?",
+      "answer": "The application scope of smart grid technology is continually expanding, with examples such as the integration of smart grids with intelligent transportation systems to build new smart cities. This expansion showcases the versatility and adaptability of smart grid technologies in various sectors for sustainable energy development.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Smart grid technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_002",
+      "group": "QnA",
+      "label": "",
+      "question": "How do smart grids provide advantages over traditional grids?",
+      "answer": "Smart grids provide advantages over traditional grids by increasing financial and operational grid sustainability and consistency, thus making the power system more reliable.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S101836472400017X",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Smart grid technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_003",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main purpose of smart energy applications according to the paragraph?",
+      "answer": "The main purpose of smart energy applications is to facilitate two-way communication between energy providers and end-users, offering real-time usage insights and consumption data to empower users in making informed energy-efficient choices.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Abstract Smart energy applications can be power - ful tools for two-way communication between energy providers and end-users. These apps offer real-time usage insights and present consumption data through intuitive and visually appealing interfaces. In parallel, these platforms allow users to provide ratings, reviews, and comments directly within or via app provision platforms, thereby helping energy providers improve their overall services. Long-term engagement with such energy apps could benefit sustainable energy consumption practices, as such digital platforms can empower users to make informed energy-efficient choices. Nonetheless, there is a lack of a systematic approach to analysing users engagement towards such smart energy apps and users opinions about their prac- tical functionalities and features. This study examines how users interact with smart energy apps, assess their functionalities, and share their opinions through rat- ings, reviews, and comments. It offers unique insights into end-user perspectives through advanced text-min- ing techniques incorporating word analysis, sentiment analysis, topic modelling, and exploratory qualitative analysis. By analysing over 3,0 publicly available user-generated reviews, the research identifies patterns such as monitoring energy consumption, managing appliances, and integrating smart home features like EV charging.",
+      "macrotopic": "Clean energy",
+      "topic": "Distributed energy resources",
+      "subtopic": "Smart grid technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies",
+      "target": "Subtopic:Environment|Clean energy|Distributed energy resources|Smart grid technologies_qna_003",
+      "value": 1
+    }
+  ]
+}

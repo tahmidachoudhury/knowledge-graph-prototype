@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Emerging infectious diseases",
+      "label": "Emerging infectious diseases",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control"
+    },
+    {
+      "id": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Emerging infectious diseases_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What factors make predicting emerging zoonotic viruses challenging?",
+      "answer": "Predicting emerging zoonotic viruses is challenging due to the largely random process influenced by many ecological, evolutionary, social, genetic, and virological factors.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " The cross-species transmission of animal viruses to humans (zoonosis) poses a tremendous threat to human health. A substantial fraction of the estimated tens of thousands of viruses infecting wildlife or domes - tic mammals may spill over into humans1. However, predicting which viruses are more likely to emerge is extremely challenging, as this is a largely random process influenced by many ecological, evolutionary, social, genetic and virological factors. Previous studies have identified ecological risk factors including biodiversity loss2 and global warming3 among other disturbances4,5, as well as important targets of evolution - ary optimization following viral cross-species transmission6. Certain viral traits have also been associated with zoonotic risk. In particular, enveloped RNA viruses are of greatest concern as they show increased cross-species transmissibility and account for >70% of all zoonotic viruses7 10. Recent large-scale viral metagenomics initiatives have led to major advances in the identification of potential zoonotic threats11. However, experimental virology studies providing functional information about the ability of animal viruses to infect human cells are comparatively scarce12 because viral culturing is technically challenging and raises biosafety issues. One way to circumvent these limitations is to use sur - rogate systems that recapitulate specific steps of the infection cycle, such as viral pseudotypes, in which the receptor-binding protein (RBP) of an enveloped virus of interest is incorporated into a viral vector.",
+      "macrotopic": "Good health and well-being",
+      "topic": "Infectious diseases prevention and control",
+      "subtopic": "Emerging infectious diseases",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Emerging infectious diseases",
+      "target": "Subtopic:Social|Good health and well-being|Infectious diseases prevention and control|Emerging infectious diseases_qna_000",
+      "value": 1
+    }
+  ]
+}

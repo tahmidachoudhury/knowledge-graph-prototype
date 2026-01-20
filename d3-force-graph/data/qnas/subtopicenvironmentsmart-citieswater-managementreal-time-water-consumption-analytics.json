@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Real-time water consumption analytics",
+      "label": "Real-time water consumption analytics",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Water management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Real-time water consumption analytics_qna_000",
+      "group": "QnA",
+      "label": "",
+      "question": "Why are direct contributions like real-time monitoring of water and wastewater resources rarely explored in achieving SDG 6 (Clean water and sanitation)?",
+      "answer": "Direct contributions like real-time monitoring of water and wastewater resources are rarely explored due to limited attention in publications, despite their potential to enhance water management efficiency.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0264275123004717",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Real-time water consumption analytics",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Water management|Real-time water consumption analytics_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of understanding the geographical concentration of remotely induced water consumption in global supply chains?",
+      "answer": "The geographical concentration of remotely induced water consumption is crucial to understand as dependency on specific trade partners could lead to concentrated effects that may threaten the sustainability of water resources in the production of a trade partner.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Water management",
+      "subtopic": "Real-time water consumption analytics",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Real-time water consumption analytics",
+      "target": "Subtopic:Environment|Smart cities|Water management|Real-time water consumption analytics_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Smart cities|Water management|Real-time water consumption analytics",
+      "target": "Subtopic:Environment|Smart cities|Water management|Real-time water consumption analytics_qna_001",
+      "value": 1
+    }
+  ]
+}

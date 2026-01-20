@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies",
+      "label": "Climate-smart land use strategies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning"
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What are potential impacts of land use changes on radon emissions?",
+      "answer": "Land use changes driven by climate adaptation strategies can disturb the soil and potentially increase radon emissions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Climate change induced geological and soil changes may also affect radon emission patterns (Koike et al., 2015). Thawing permafrost in cold regions can release trapped radon gas from the soil, increasing indoor radon levels in buildings con- structed on or near these areas (World Health Organi- zation, 2009). Land use changes, driven by climate adaptation strategies, can disturb the soil and poten- tially increase radon emissions (Datta et al., 2025). Erosion and other geological changes can alter the natural radon emission patterns, highlighting the need for ongoing monitoring and adaptation of building practices to manage radon risks effectively (Appleton, 2007). Understanding how climate change influences radon concentration in residential houses is essen- tial for developing comprehensive strategies to pro- tect public health (World Health Organization, 2009; Environmental Protection Agency, 2021). As cli- mate change continues to alter environmental condi- tions, it is crucial to integrate climate science, build- ing engineering, and public health efforts to address the dynamic challenges posed by indoor radon. This manuscript discusses the link between climate change parameters and elevated indoor radon levels to enable an urgent call for public health intervention.",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Climate-smart land use strategies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies_qna_001",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What were the aims of this study regarding the socio-ecological system (SES) in the YRB?",
+      "answer": "The aims of the study were to construct a network among SES components in the YRB, explore the effects of land-use and climate change on SES network coupling relationships, and identify their thresholds to guide ecological zoning management.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " To gain insights into these responses, we quantified land use and climate change using land-use dynamics (LUD) and the standardized precipitation evapotranspiration index (SPEI), respectively. Subsequently, an SES network was constructed by incorporating six distinct socio-ecological factors. Furthermore, the responses of the network attributes along the LUD and SPEI gradients were explored using network analysis and a moving-window approach. The aims of this study were to (1) construct a network among SES components in the YRB, (2) explore the effects of land-use and climate change on SES network coupling relationships, and (3) identify their thresholds to guide ecological zoning management. Materials and methods Study areas The YRB (90 33 122 25 E, 24 30 35 45 N) covers 1.8 million km2 across 11 provinces, cities, and autonomous regions (Fig. 1). The topography of the YRB varies, with the ground gradually rising from southeast to northwest. With the influence of monsoon circulation, the YRB experiences a subtropical climate characterized by an annual precipitation range of 1000 to 1400 mm and an average annual temperature fluctuating between 12 and 18 C40.",
+      "macrotopic": "Life on land",
+      "topic": "Land use planning",
+      "subtopic": "Climate-smart land use strategies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies",
+      "target": "Subtopic:Environment|Life on land|Land use planning|Climate-smart land use strategies_qna_001",
+      "value": 1
+    }
+  ]
+}

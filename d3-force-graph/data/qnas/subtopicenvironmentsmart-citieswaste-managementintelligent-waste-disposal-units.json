@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Intelligent waste disposal units",
+      "label": "Intelligent waste disposal units",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management"
+    },
+    {
+      "id": "Subtopic:Environment|Smart cities|Waste management|Intelligent waste disposal units_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of consumer opinions on waste medicine management in the context of formation fuzzy cognitive mapping?",
+      "answer": "Consumer opinions on waste medicine management are crucial for understanding public perception and preferences, which are essential inputs for the development of effective waste management strategies using formation fuzzy cognitive mapping.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0952197624002720",
+      "paragraph": "",
+      "macrotopic": "Smart cities",
+      "topic": "Waste management",
+      "subtopic": "Intelligent waste disposal units",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Smart cities|Waste management|Intelligent waste disposal units",
+      "target": "Subtopic:Environment|Smart cities|Waste management|Intelligent waste disposal units_qna_000",
+      "value": 1
+    }
+  ]
+}

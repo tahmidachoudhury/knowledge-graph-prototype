@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management",
+      "label": "River basin management",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_000",
+      "group": "QnA",
+      "label": "Strategy",
+      "question": "What is the main goal of the study conducted in the Yangtze River basin?",
+      "answer": "The main goal is to understand how socio-ecological systems (SESs) respond to land use and climate changes to develop effective integrated watershed management strategies.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Nonlinear responses of coupled socioecological systems to land use and climate changes in the Yangtze river basin Jianping Wu1, Wenjie Li2 , Hongbo Du2, Yu Wan2, Shengfa Yang2 & Yi Xiao2 The intensification of land use and climate change threatens watershed sustainability . These external disturbances drive complex interactions among components within watershed socio-ecological systems (SESs). Understanding how SESs respond to these changes is crucial for developing effective integrated watershed management strategies. Nevertheless, the nonlinear responses of these systems to such changes remain poorly understood. To fill this gap, this study proposes a network analysis method focusing on the Yangtze River Basin to construct an SES network comprising six dimensions, revealing the response of coupled relationships among network elements to climate and land-use change. The results showed that changes in land-use dynamics (LUD) and the standardized precipitation evapotranspiration index (SPEI) altered the link count and importance of network nodes, with notable shifts in vegetation and landscape nodes. Importantly , a strong nonlinear response of the LUD and SPEI to the coupled relationship between SES elements was observed, and critical thresholds were identified for all network attributes.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "River basin management",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What method does the study propose to analyze the SES in the Yangtze River basin?",
+      "answer": "The study proposes a network analysis method to construct an SES network comprising six dimensions.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Nonlinear responses of coupled socioecological systems to land use and climate changes in the Yangtze river basin Jianping Wu1, Wenjie Li2 , Hongbo Du2, Yu Wan2, Shengfa Yang2 & Yi Xiao2 The intensification of land use and climate change threatens watershed sustainability . These external disturbances drive complex interactions among components within watershed socio-ecological systems (SESs). Understanding how SESs respond to these changes is crucial for developing effective integrated watershed management strategies. Nevertheless, the nonlinear responses of these systems to such changes remain poorly understood. To fill this gap, this study proposes a network analysis method focusing on the Yangtze River Basin to construct an SES network comprising six dimensions, revealing the response of coupled relationships among network elements to climate and land-use change. The results showed that changes in land-use dynamics (LUD) and the standardized precipitation evapotranspiration index (SPEI) altered the link count and importance of network nodes, with notable shifts in vegetation and landscape nodes. Importantly , a strong nonlinear response of the LUD and SPEI to the coupled relationship between SES elements was observed, and critical thresholds were identified for all network attributes.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "River basin management",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_002",
+      "group": "QnA",
+      "label": "Facts",
+      "question": "What role does the Yangtze River Basin (YRB) play in China?",
+      "answer": "The Yangtze River Basin serves as a vital ecological shield, energy hub, and agricultural heartland of China.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Compared to ABM and SD methods, network theory accounts for both the macrostructure of the system and the microdynamic changes of its components. Moreover, it requires lower computational costs, making it suitable for complex systems with a large number of components. Network theory has been widely applied to analyze interconnected systems in genetic regulation36, transportation37, and soil microbiology38. In this framework, a network comprises nodes that represent system elements with links that characterize their interactions. Network attributes (e.g., connectance and modularity) characterize the relative importance of various components within a system and the degree of their interconnections, providing comprehensive indicators to quantify the coupled relationships in SESs12,30. The Y angtze River Basin (YRB) serves as a vital ecological shield, energy hub, and agricultural heartland of China. However, with accelerating urbanization and an increase in extreme weather events, the human- environment relationship in the YRB is deteriorating, the ecosystem supply capacity is decreasing, and watershed ecological problems are prominent39. To address these challenges and achieve sustainable ecosystem development, it is crucial to understand how socio-ecological systems (SESs) in the YRB respond to shifting environmental conditions.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Sustainable water resource management",
+      "subtopic": "River basin management",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management",
+      "target": "Subtopic:Environment|Clean water and sanitation|Sustainable water resource management|River basin management_qna_002",
+      "value": 1
+    }
+  ]
+}

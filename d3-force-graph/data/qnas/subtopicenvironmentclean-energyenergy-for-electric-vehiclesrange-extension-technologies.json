@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Range extension technologies",
+      "label": "Range extension technologies",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Range extension technologies_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What does the function 1 AAAW (AWAY) = eÃƒÆ’Ã‚Â¢Ãƒâ€šÃ‚Ë†Ãƒâ€šÃ‚â€™ÃƒÆ’Ã‚Â",
+      "answer": "The function 1 AAAW (AWAY) = eÃƒÆ’Ã‚Â¢Ãƒâ€šÃ‚Ë†Ãƒâ€šÃ‚â€™ÃƒÆ’Ã‚Â",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/abs/pii/S0959652622052167",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "subtopic": "Range extension technologies",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Range extension technologies_qna_001",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "What is the collision energy ramp range used in the method?",
+      "answer": "The collision energy ramp starts from 20 eV to 45 eV.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " This method acquires MSE in positive and resolution mode over the m/z range from 50 to 2000 with a scan time of 1 S and a collision energy ramp starting from ion mobility bin 20 (20 eV) to 110 (45 eV). The collision energy in the transfer cell for low-energy MS mode was set to 4 eV For postacquisition lock mass correction of the data in the MS method, the doubly charged monoisotopic ion of [Glu1)-fibrinopeptide B was used at 100 fmol/ L using the reference sprayer of the nanoESI source with a frequency of 30 S at 0.5 ml/min into the mass spectrometer. ESI-QTOF data processing HDMSE data were processed with Progenesis QI (Nonlinear DYNAMICS, Waters) software using the A. thaliana protein sequence database (UniProt 20220410, 16127 entries). Propionamide was used as the fixed cysteine modification, oxidation was used as the variable methionine modification, trypsin was used as the digestion enzyme, and one missed cleavage was allowed. The protein confidence score is obtained by adding up the scores of all the peptides involved in the identification of the protein, even if there are some that do not participate in its quantification.",
+      "macrotopic": "Clean energy",
+      "topic": "Energy for electric vehicles",
+      "subtopic": "Range extension technologies",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Range extension technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Range extension technologies_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Range extension technologies",
+      "target": "Subtopic:Environment|Clean energy|Energy for electric vehicles|Range extension technologies_qna_001",
+      "value": 1
+    }
+  ]
+}

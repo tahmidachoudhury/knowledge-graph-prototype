@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants",
+      "label": "Sewage treatment plants",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment"
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants_qna_000",
+      "group": "QnA",
+      "label": "Science and tech",
+      "question": "Why are conventional municipal treatment plants ineffective in handling DEET?",
+      "answer": "Conventional municipal treatment plants are not designed to handle DEET due to its low log Kd value of 1.91, which means only a minimum proportion can be adsorbed into waste-water sludge, soils, and landfills.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The consump - tion of DEET at large doses has also been observed to exhibit fatal toxicity. A recent study reported that there is a significant correlation between DEET and increased levels of serum uric acid in the human population and the occurrence of several chronic ailments, including gout, diabetes, hypertension, and chronic renal illnesses [9]. Conventional municipal treatment plants are not designed to handle this type of pollutant. Due to its low log Kd (dissociation constant) value of 1.91, only a mini - mum proportion of DEET can be adsorbed into waste - water sludge, soils, and landfills [10]. This results in the migration of DEET into the aquatic environment, and the detected concentration range varies from ng/L to mg/L. The early documentation of DEET detection in fresh - water environments occurred throughout the 1990s in American and European regions. Due to the significant use of DEET in personal care products (PCPs) and their application in agriculture, the presence of DEET in waste - water, surface water, and groundwater has been observed [3, 11].",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Sewage treatment plants",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants_qna_001",
+      "group": "QnA",
+      "label": "Ethics and regulation",
+      "question": "What has been the main objective of conventional wastewater treatment systems?",
+      "answer": "The main objective of conventional wastewater treatment systems is purification rather than recovering resources.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " The widespread usage of fossil fuels during the past century has been cru - cial to the advancement of industrial and commercial devel- opment [ 2]. Due to environmental pollution, population growth, depletion of natural resources, and global warming, humanity has recently faced both an energy and water short- age [3 ]. A large amount of organic carbon molecules and thermal and chemical energy can be found in contaminated water; these chemical or organic carbons were utilized in synthesizing products with added value [4]. Purification is the main objective of conventional wastewater treatment sys- tems instead of recovering resources [5 ]. The most popular biologic method of treatment is activated sludge, however membrane bioreactors and sequential batch reactors are also options [6 ]. Conventional wastewater treatment and resource recovery systems are expensive and energy-intensive due to their high operating and maintenance methods [7 ]. To address resource scarcity and environmental protection issues, there is significant interest in enhancing environmen- tally friendly methods for wastewater treatment and energy production [8]. Energy, alongside water, is important for the survival of civilization.",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Sewage treatment plants",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants_qna_002",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "Do all textile factories have fully trained manpower to handle wastewater management?",
+      "answer": "No, not all textile factories have fully trained manpower to handle wastewater management effectively.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0959652623010582",
+      "paragraph": "",
+      "macrotopic": "Clean water and sanitation",
+      "topic": "Wastewater treatment",
+      "subtopic": "Sewage treatment plants",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants",
+      "target": "Subtopic:Environment|Clean water and sanitation|Wastewater treatment|Sewage treatment plants_qna_002",
+      "value": 1
+    }
+  ]
+}

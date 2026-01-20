@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Coordinated planning for clean energy",
+      "label": "Coordinated planning for clean energy",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration"
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Coordinated planning for clean energy_qna_000",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What did Xu et al. study regarding the coordinated development of the coupled system?",
+      "answer": "Xu et al. studied Jiangsu Province and found that environmental factors were the main factors affecting the coordinated development of the coupled system.",
+      "macroArea": "Environment",
+      "articlesourceurl": "",
+      "paragraph": " Xu et al.20 studied Jiangsu Province found that environmental factors were the main factors affecting the coordinated development of the coupled system. Li et al.21,35 studied the Y ellow River Basin and found an inhibitory effect of precipitation on coordinated development over a long time series. The above studies have only listed the important factors that constrain the coordinated development of the coupled system from one side, such as the meteorological environment or the economy and society. There is a lack of identification of the interactions among water resources, economic and social, and ecological factors. On this basis, this study introduces the DEMATEL-ISM-MICMAC model into the coupled system of water resources-economy and society-ecology and environment , in order to explore a suitable method to reveal the hierarchical structure and inner connection between the influencing factors within the coupled system. From the perspective of empirical analysis, identify the interaction relationship between factors, determine the key factors affecting water resources, economic society and ecological environment , and provide a theoretical basis for future scientific and efficient research on the synergistic development of water resources, economic society and ecological environment system.",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Coordinated planning for clean energy",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Clean energy|Clean energy integration|Coordinated planning for clean energy_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "Why is a co-ordinated approach among different hierarchical levels of governance crucial for pursuing the energy transition?",
+      "answer": "A co-ordinated approach among different hierarchical levels of governance is crucial for pursuing the energy transition as without it, local economies and communities tied up to fossil-fuel-based businesses would face immediate and acute uncertainties.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0306261923000624",
+      "paragraph": "",
+      "macrotopic": "Clean energy",
+      "topic": "Clean energy integration",
+      "subtopic": "Coordinated planning for clean energy",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Coordinated planning for clean energy",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Coordinated planning for clean energy_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Clean energy|Clean energy integration|Coordinated planning for clean energy",
+      "target": "Subtopic:Environment|Clean energy|Clean energy integration|Coordinated planning for clean energy_qna_001",
+      "value": 1
+    }
+  ]
+}

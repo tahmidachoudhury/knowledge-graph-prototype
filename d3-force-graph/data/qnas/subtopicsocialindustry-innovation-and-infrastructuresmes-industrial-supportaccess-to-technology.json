@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to technology",
+      "label": "Access to technology",
+      "group": "Subtopic",
+      "macroArea": "Social",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support"
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to technology_qna_000",
+      "group": "QnA",
+      "label": "Management",
+      "question": "What factors limit the implementation of Industry 4.0 technologies in promoting sustainability?",
+      "answer": "Technological access disparities, particularly in developing economies, limit the implementation of Industry 4.0 technologies.",
+      "macroArea": "Social",
+      "articlesourceurl": "",
+      "paragraph": " 5, where the results are interpreted in light of existing theories and research. Finally, Sect. 6 concludes with the theoretical and practical implications of the study, acknowledges limitations, and suggests directions for future research. 2 Literature Review The transition to a low-carbon, resource-efficient economy is critical for mitigating cata- strophic environmental risks and promoting sustainable economic development. This shift is not only a technological challenge but also requires significant changes in societal behav - ior and institutional frameworks (Ekins & Zenghelis, 2021). Recent studies emphasize the importance of integrating Industry 4.0 technologies with Sustainable Development Goals (SDGs) to foster environmental sustainability. OI h et al. (2020) argue that the convergence of advanced manufacturing technologies, such as automation and data exchange, with sus- tainability principles can improve environmental performance, thus contributing more sig- nificantly to sustainability than previous industrial paradigms. However, while Industry 4.0 presents opportunities for enhancing sustainability, its implementation remains limited by technological access disparities, particularly in developing economies. A growing body of research underscores the role of technological innovation in advanc- ing environmental sustainability.",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "subtopic": "Access to technology",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to technology_qna_001",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "What is the significance of using BWM and LBA methods in assessing barriers to digital technologies' implementation for achieving SPC?",
+      "answer": "BWM and LBA methods help in exploring critical barriers and developing strategies to overcome them, leading to the identification of the most significant strategy for implementation.",
+      "macroArea": "Social",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2352550923000751",
+      "paragraph": "",
+      "macrotopic": "Industry, innovation and infrastructure",
+      "topic": "SMEs industrial support",
+      "subtopic": "Access to technology",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to technology",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to technology_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to technology",
+      "target": "Subtopic:Social|Industry, innovation and infrastructure|SMEs industrial support|Access to technology_qna_001",
+      "value": 1
+    }
+  ]
+}

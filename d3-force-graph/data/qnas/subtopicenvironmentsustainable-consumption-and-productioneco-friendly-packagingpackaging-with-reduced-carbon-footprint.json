@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint",
+      "label": "Packaging with reduced carbon footprint",
+      "group": "Subtopic",
+      "macroArea": "Environment",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging"
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint_qna_000",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "What is the percentage of carbon footprint reduction in milk products?",
+      "answer": "Milk products show a 3.2% reduction in carbon footprint (Rousseau, 2015).",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S235255092300012X",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Packaging with reduced carbon footprint",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint_qna_001",
+      "group": "QnA",
+      "label": "Factual",
+      "question": "How do ultraprocessed foods contribute to environmental impacts such as GHG emissions and water use?",
+      "answer": "Ultraprocessed foods require more packaging, transportation, and processing, contributing significantly to environmental impacts. They are typically packaged in single-use plastics, transported over long distances, and require refrigeration. The production of ultraprocessed foods also consumes large amounts of energy, water, chemicals, and additives that have negative environmental impacts.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0002916523624207ect",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Packaging with reduced carbon footprint",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint_qna_002",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How much could allocating GHG emissions to the by-products of a carcass reduce the carbon footprint of meat in the French meat industry?",
+      "answer": "Allocating GHG emissions to the by-products of a carcass in the French meat industry could reduce the carbon footprint of meat by 6%, showcasing the potential impact of addressing waste during processing and consumption.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S0022316622131378",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Packaging with reduced carbon footprint",
+      "tags": [],
+      "viewCount": 0
+    },
+    {
+      "id": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint_qna_003",
+      "group": "QnA",
+      "label": "Analysis",
+      "question": "How does the Proposed Method for preventing carbon emissions impact the classification of Fast Moving Consumer Goods (FMCG) products?",
+      "answer": "The Proposed Method considers shelf life as a performance indicator, classifying some FMCG SKUs as potential dead stock, increasing the accuracy in identifying products that may transition to become dead stock. This helps prevent unnecessary waste and reduces the environmental harm caused by disposal.",
+      "macroArea": "Environment",
+      "articlesourceurl": "https://www.sciencedirect.com/science/article/pii/S2666784323000517",
+      "paragraph": "",
+      "macrotopic": "Sustainable consumption and production",
+      "topic": "Eco-friendly packaging",
+      "subtopic": "Packaging with reduced carbon footprint",
+      "tags": [],
+      "viewCount": 0
+    }
+  ],
+  "links": [
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint_qna_000",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint_qna_001",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint_qna_002",
+      "value": 1
+    },
+    {
+      "source": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint",
+      "target": "Subtopic:Environment|Sustainable consumption and production|Eco-friendly packaging|Packaging with reduced carbon footprint_qna_003",
+      "value": 1
+    }
+  ]
+}
