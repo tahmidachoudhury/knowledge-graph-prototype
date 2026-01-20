@@ -31,16 +31,14 @@ export function addWrappedLabelWithBackground<
     {
         label,
         maxWidth,
-        textColor = "#0f172a",
+        textColor = "#ffffff",
         fontSize = 13,
         fontFamily = "sans-serif",
-        fontWeight = 500,
+        fontWeight = 600,
         lineHeight = 16,
         paddingX = 10,
         paddingY = 6,
-        bgColor = "rgba(255, 255, 255, 0.85)",
-        strokeColor = "#e5e7eb",
-        strokeWidth = 1,
+        bgColor = "rgb(0, 0, 0)",
     }: LabelOptions
 ) {
     const words = label.split(/\s+/);
@@ -95,8 +93,7 @@ export function addWrappedLabelWithBackground<
         .attr("rx", 6)
         .attr("ry", 6)
         .attr("fill", bgColor)
-        .attr("stroke", strokeColor)
-        .attr("stroke-width", strokeWidth);
+
 
     const updateRectFromBBox = () => {
         const node = textElement.node() as SVGTextElement | null;

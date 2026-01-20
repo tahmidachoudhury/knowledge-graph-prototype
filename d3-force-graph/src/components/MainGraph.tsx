@@ -214,9 +214,6 @@ export default function MainGraph({ onSubtopicClick }: Props) {
           addWrappedLabelWithBackground(nodeElement, {
             label,
             maxWidth,
-            // you can tweak per-node-type if needed:
-            bgColor: "rgba(255, 255, 255, 0.85)",
-            textColor: "#0f172a",
           })
         } else if (d.group === "Macrotopic") {
           const cardSize = 120;
@@ -241,9 +238,6 @@ export default function MainGraph({ onSubtopicClick }: Props) {
           addWrappedLabelWithBackground(nodeElement, {
             label,
             maxWidth,
-            // you can tweak per-node-type if needed:
-            bgColor: "rgba(255, 255, 255, 0.85)",
-            textColor: "#0f172a",
           });
         } else if (d.group === "Topic") {
           nodeElement

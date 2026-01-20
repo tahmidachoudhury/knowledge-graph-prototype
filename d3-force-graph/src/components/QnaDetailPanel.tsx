@@ -119,7 +119,7 @@ export function QnaDetailPanel({ qna, onClose }: Props) {
             </h2>
           </div>
 
-          <button
+          {/* <button
             ref={closeBtnRef}
             onClick={onClose}
             aria-label="Close question details"
@@ -146,7 +146,7 @@ export function QnaDetailPanel({ qna, onClose }: Props) {
             }}
           >
             ✕
-          </button>
+          </button> */}
         </div>
 
         {/* Body */}
@@ -160,7 +160,7 @@ export function QnaDetailPanel({ qna, onClose }: Props) {
             lineHeight: 1.6,
           }}
         >
-          {qna.paragraph && qna.paragraph.trim() !== "" && (
+          {/* {qna.paragraph && qna.paragraph.trim() !== "" && (
             <div style={{ marginBottom: "14px" }}>
               <div
                 style={{
@@ -184,7 +184,7 @@ export function QnaDetailPanel({ qna, onClose }: Props) {
                 {qna.paragraph}
               </div>
             </div>
-          )}
+          )} */}
 
           {qna.answer ? (
             <div style={{ marginBottom: "14px" }}>

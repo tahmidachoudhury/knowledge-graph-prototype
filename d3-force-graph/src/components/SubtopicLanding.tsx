@@ -145,7 +145,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
 
     centerNode
       .append("circle")
-      .attr("r", 60)
+      .attr("r", 100)
       .attr("fill", centerColor);
 
     nodes.each(function (d: any) {
@@ -164,8 +164,6 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
     addWrappedLabelWithBackground(centerNode as any, {
       label: data.centerNode.label,
       maxWidth: 100, // hard-coded
-      bgColor: "rgba(255, 255, 255, 0.85)",
-      textColor: "#0f172a",
     });
 
     // Simulation tick
