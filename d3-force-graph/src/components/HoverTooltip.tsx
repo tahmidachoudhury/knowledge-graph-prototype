@@ -46,7 +46,7 @@ export function HoverTooltip({
 
     return (
         <div
-            className={`theme-hover ${theme === "light" ? "theme-light" : "theme-dark"}`}
+            className={"theme-hover theme-dark"}
             style={{
                 ...baseStyles,
             }}
