@@ -11,6 +11,7 @@ import { ShowLinksToggle } from "./ShowLinksToggle";
 import { HoverTooltip } from "./HoverTooltip";
 import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
 import getNodeColor from "@/lib/d3js/getNodeColor";
+import { KnowledgeMapBreadcrumb } from "./Breadcrumb";
 
 interface Props {
   subtopicId: string;
@@ -260,6 +261,14 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
           zIndex: 1000,
         }}
       />
+
+      {data?.centerNode.label && (
+        <KnowledgeMapBreadcrumb
+          macroArea={data?.centerNode.macroArea}
+          subtopic={data?.centerNode.label}
+          theme={theme}
+        />
+      )}
 
       {hoveredNode && (
         <HoverTooltip

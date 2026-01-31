@@ -16,6 +16,7 @@ import { ShowLinksToggle } from "./ShowLinksToggle";
 import { ThemeToggle } from "./ThemeToggle";
 import { HoverTooltip } from "./HoverTooltip";
 import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
+import { KnowledgeMapBreadcrumb } from "./Breadcrumb";
 
 type MainData = { nodes: GraphNode[]; links: GraphLink[] };
 
@@ -386,24 +387,10 @@ export default function MainGraph({ onSubtopicClick }: Props) {
       />
 
       {selectedMacroArea && (
-        <div
-          className={theme === "light" ? "theme-light" : "theme-dark"}
-          style={{
-            position: "absolute",
-            top: "20px",
-            left: "50%",
-            transform: "translateX(-50%)",
-            zIndex: 1000,
-            padding: "10px 20px",
-            fontSize: "18px",
-            fontWeight: "bold",
-            border: "2px solid",
-            borderRadius: "5px",
-            boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
-          }}
-        >
-          {selectedMacroArea} - Macrotopics, Topics & Subtopics
-        </div>
+        <KnowledgeMapBreadcrumb
+          macroArea={selectedMacroArea}
+          theme={theme}
+        />
       )}
 
       {hoveredNode && (
