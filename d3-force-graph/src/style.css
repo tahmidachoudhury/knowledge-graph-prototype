@@ -136,3 +136,9 @@ button:focus-visible {
 .theme-dark.theme-hover {
   background-color: rgba(26, 26, 26, 0.7);
 }
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

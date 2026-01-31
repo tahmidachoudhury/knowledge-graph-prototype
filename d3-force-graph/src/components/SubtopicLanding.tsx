@@ -208,24 +208,73 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
   //! all the tailwind css needs to GO!!!!
   if (loading) {
     return (
-      <div className="flex items-center justify-center h-full">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-16 w-16 border-b-2 border-teal-600 mx-auto" />
-          <p className="mt-4 text-gray-600">Loading questions...</p>
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          height: "100%",
+        }}
+      >
+        <div style={{ textAlign: "center" }}>
+          <div
+            style={{
+              width: "64px",
+              height: "64px",
+              borderRadius: "50%",
+              borderBottom: "2px solid #0d9488", // teal-600
+              animation: "spin 1s linear infinite",
+              margin: "0 auto",
+            }}
+          />
+          <p
+            style={{
+              marginTop: "16px",
+              color: "#4b5563", // gray-600
+            }}
+          >
+            Loading questions...
+          </p>
         </div>
       </div>
-    );
+    )
   }
 
   if (error) {
     return (
-      <div className="flex items-center justify-center h-full">
-        <div className="text-center max-w-md">
-          <p className="text-red-600 font-medium">Failed to load questions</p>
-          <p className="text-gray-600 mt-2">{error}</p>
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          height: "100%",
+        }}
+      >
+        <div
+          style={{
+            textAlign: "center",
+            maxWidth: "28rem",
+          }}
+        >
+          <p
+            style={{
+              color: "#dc2626", // red-600
+              fontWeight: 500,
+            }}
+          >
+            Failed to load questions
+          </p>
+          <p
+            style={{
+              marginTop: "8px",
+              color: "#4b5563", // gray-600
+            }}
+          >
+            {error}
+          </p>
         </div>
       </div>
-    );
+    )
   }
 
   return (
@@ -234,23 +283,33 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         ref={svgRef}
         aria-label={`Questions about ${data?.centerNode.label}`}
         role="img"
-        className="w-screen h-screen overflow-hidden relative"
+        style={{
+          width: "100vw",
+          height: "100vh",
+          overflow: "hidden",
+          position: "relative",
+        }}
       />
-      <div className="sr-only" role="status" aria-live="polite">
+
+      <div
+        role="status"
+        aria-live="polite"
+        style={{
+          position: "absolute",
+          width: "1px",
+          height: "1px",
+          padding: 0,
+          margin: "-1px",
+          overflow: "hidden",
+          clip: "rect(0, 0, 0, 0)",
+          whiteSpace: "nowrap",
+          border: 0,
+        }}
+      >
         Graph ready for interaction. Use Tab to navigate questions, Enter to
         select.
       </div>
-      {/* <ShowLinksToggle
-        theme={theme}
-        showLinks={showLinks}
-        onToggle={() => setShowLinks(v => !v)}
-        style={{
-          position: "absolute",
-          top: "20px",
-          right: "180px",
-          zIndex: 1000,
-        }}
-      /> */}
+
       <ThemeToggle
         theme={theme}
         onToggle={toggleTheme}
