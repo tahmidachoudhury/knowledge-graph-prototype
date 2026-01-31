@@ -1,5 +1,14 @@
 import categoryPalette from "./categoryPalette";
-import { Node } from "./types";
+
+export interface Node {
+  id: string;
+  label: string;
+  macroArea: string;
+  macrotopic: string;
+  topic?: string;
+  index: number;
+  group: string;
+}
 
 export default function getNodeColor(node: Node) {
   // Type assertion needed because TypeScript can't infer the nested structure

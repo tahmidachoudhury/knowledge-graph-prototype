@@ -20,8 +20,6 @@ interface LabelOptions {
  * Appends a multi-line text label with a rounded-rect background
  * centered on (0,0) within the given node <g>.
  *
- * Returns the <g> that contains the rect + text, in case you want
- * to transform/animate it later.
  */
 export function addWrappedLabelWithBackground<
     T extends d3.BaseType,

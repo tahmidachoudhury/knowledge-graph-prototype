@@ -59,7 +59,7 @@ const categoryPalette = {
     },
     "Quality education": {
       Macrotopic: "#ffdb58",
-      Topic: "#ffc300", // alt text in mock: ffcc11
+      Topic: "#ffc300",
       Subtopic: "#c89800",
     },
     "Good health and well-being": {

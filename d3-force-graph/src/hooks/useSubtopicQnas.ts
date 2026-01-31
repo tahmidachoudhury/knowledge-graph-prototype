@@ -1,4 +1,5 @@
 // src/hooks/useSubtopicQnas.ts
+// Fetch subtopic qnas
 
 import { useEffect, useState } from "react";
 import { fetchSubtopicQnas } from "../lib/graphData";

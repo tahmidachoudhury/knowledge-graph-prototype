@@ -2,10 +2,7 @@
 
 import type { QnasIndex, SubtopicQnaData, QnaNode } from "./types/graph.types";
 
-/**
- * If you prefer importing main_graph.json directly in the component,
- * you don't need this function. It's here if you want runtime fetching.
- */
+
 export async function fetchMainGraph(signal?: AbortSignal) {
   const res = await fetch("/data/main_graph.json", { signal });
   if (!res.ok) throw new Error(`Failed to load main graph (${res.status})`);

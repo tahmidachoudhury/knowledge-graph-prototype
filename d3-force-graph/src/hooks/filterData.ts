@@ -1,8 +1,9 @@
-import { useCallback } from "react";
+// Filter nodes and links based on selected macroarea
+
 import { ESG_MACROAREAS, ESGMacroArea } from "@/lib/constants";
 import { BaseGraphNode, GraphLink, GraphNode } from "@/lib/types/graph.types";
 
-// Filter nodes and links based on selected macroarea
+
 export const filterData = (macroArea: ESGMacroArea, data: any) => {
   if (!macroArea) {
     // Initial view: show only ESG macroarea nodes
