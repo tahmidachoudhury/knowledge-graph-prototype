@@ -1,5 +1,11 @@
 // components/SubtopicLanding.tsx
 
+// TODO (Accessibility):
+// - Add roving tabindex + arrow key navigation in list
+// - Add label visibility toggle
+// - Add arrow-key navigation between graph nodes
+// - Add the sidebar.tsx to the main graph too
+
 import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 import { fetchSubtopicQnas } from "../lib/graphData";

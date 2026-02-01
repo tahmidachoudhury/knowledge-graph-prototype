@@ -74,8 +74,8 @@ export function QuestionListPanel({
                                     textAlign: "left",
                                     padding: "8px 10px",
                                     fontSize: "14px",
-                                    borderRadius: "4px",
-                                    border: "1px solid #e5e7eb",
+                                    borderRadius: "0px",
+                                    borderBottom: "1px solid #e5e7eb",
                                     cursor: "pointer",
                                 }}
                             >
