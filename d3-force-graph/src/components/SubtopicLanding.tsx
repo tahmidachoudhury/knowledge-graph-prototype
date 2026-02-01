@@ -356,7 +356,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         macroArea={data?.centerNode.macroArea}
         subtopic={data.centerNode.label}
         nodes={data.nodes}
-        onSelectQuestion={setHoveredNode} // you implement this
+        onSelectQuestion={setHoveredNode}
       />
       }
 

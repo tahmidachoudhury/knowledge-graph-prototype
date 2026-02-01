@@ -23,7 +23,6 @@ export function QuestionListPanel({
                 height: "100vh",
                 width: "320px",
                 borderLeft: "1px solid #e5e7eb",
-                backgroundColor: "#ffffff",
                 padding: "16px",
                 overflowY: "auto",
             }}
@@ -41,7 +40,6 @@ export function QuestionListPanel({
                 <p
                     style={{
                         fontSize: "12px",
-                        color: "#4b5563",
                         margin: 0,
                     }}
                 >
@@ -78,7 +76,6 @@ export function QuestionListPanel({
                                     fontSize: "14px",
                                     borderRadius: "4px",
                                     border: "1px solid #e5e7eb",
-                                    backgroundColor: "#f9fafb",
                                     cursor: "pointer",
                                 }}
                             >
