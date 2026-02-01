@@ -4,7 +4,7 @@ type QuestionListProps = {
     macroArea?: string
     subtopic: string
     nodes: QnaNode[]
-    onSelectQuestion: (id: string) => void
+    onSelectQuestion: (qna: QnaNode) => void
 }
 
 export function QuestionListPanel({
@@ -67,7 +67,7 @@ export function QuestionListPanel({
                         <li key={node.id} style={{ marginBottom: "8px" }}>
                             <button
                                 type="button"
-                                onClick={() => onSelectQuestion(node.id)}
+                                onClick={() => onSelectQuestion(node)}
                                 style={{
                                     display: "block",
                                     width: "100%",
