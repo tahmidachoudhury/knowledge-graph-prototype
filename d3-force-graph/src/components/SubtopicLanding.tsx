@@ -12,6 +12,7 @@ import { HoverTooltip } from "./HoverTooltip";
 import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
 import getNodeColor from "@/lib/d3js/getNodeColor";
 import { KnowledgeMapBreadcrumb } from "./Breadcrumb";
+import { QuestionListPanel } from "./Sidebar";
 
 interface Props {
   subtopicId: string;
@@ -26,7 +27,10 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
   const [error, setError] = useState<string | null>(null);
   const [showLinks, setShowLinks] = useState(true);
   const { theme, toggleTheme } = useTheme();
+
+  // This hovered node triggers the label
   const [hoveredNode, setHoveredNode] = useState<string | null>(null);
+
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
 
@@ -127,6 +131,17 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         setHoveredNode(d.question);
       })
       .on("mouseout", () => setHoveredNode(null))
+      .on("focus", (event: any, d: any) => {
+        // Get the node's position on screen for tooltip placement
+        const nodeElement = event.currentTarget;
+        const bbox = nodeElement.getBoundingClientRect();
+        setMousePosition({
+          x: bbox.left + bbox.width / 2,
+          y: bbox.top + bbox.height / 2,
+        });
+        setHoveredNode(d.question);
+      })
+      .on("blur", () => setHoveredNode(null))
       .on("keydown", (event, d) => {
         if (event.key === "Enter" || event.key === " ") {
           event.preventDefault();
@@ -205,7 +220,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
     };
   }, [data, onQnaClick]);
 
-  //! all the tailwind css needs to GO!!!!
+
   if (loading) {
     return (
       <div
@@ -336,6 +351,14 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
           theme={theme}
         />
       )}
+
+      {data && <QuestionListPanel
+        macroArea={data?.centerNode.macroArea}
+        subtopic={data.centerNode.label}
+        nodes={data.nodes}
+        onSelectQuestion={setHoveredNode} // you implement this
+      />
+      }
 
 
       <button
