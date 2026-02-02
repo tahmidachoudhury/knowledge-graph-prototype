@@ -64,7 +64,8 @@ export function GraphControls({
                 <span
                     style={{
                         fontSize: "12px",
-                        color: "#6b7280",
+                        fontWeight: 500,
+                        color: "#374151",
                         minWidth: "48px",
                     }}
                 >
