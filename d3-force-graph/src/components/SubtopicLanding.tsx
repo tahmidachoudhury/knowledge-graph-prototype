@@ -20,6 +20,7 @@ import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
 import getNodeColor from "@/lib/d3js/getNodeColor";
 import { KnowledgeMapBreadcrumb } from "./Breadcrumb";
 import { QuestionListPanel } from "./Sidebar";
+import { GraphControls } from "./GraphControls";
 
 interface Props {
   subtopicId: string;
@@ -35,6 +36,9 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
   const [showLinks, setShowLinks] = useState(true);
   const { theme, toggleTheme } = useTheme();
   const [showLabels, setShowLabels] = useState(false)
+  const [showListView, setShowListView] = useState(false);
+  const [reducedMotion, setReducedMotion] = useState(false);
+
 
   // This hovered node triggers the label
   const [hoveredNode, setHoveredNode] = useState<string | null>(null);
@@ -204,12 +208,17 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
 
     // Zoom behavior
     const zoom = d3
-      .zoom()
+      .zoom<SVGSVGElement, unknown>()
       .scaleExtent([0.5, 3])
       .on("zoom", (event) => {
         g.attr("transform", event.transform);
       });
 
+    // store refs
+    zoomRef.current = zoom;
+    svgSelectionRef.current = svg;
+
+    // apply zoom
     svg.call(zoom as any);
 
 
@@ -234,6 +243,43 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       setHoveredNode(null);
     }
   }, [showLabels]);
+
+  const zoomRef = useRef<d3.ZoomBehavior<SVGSVGElement, unknown> | null>(null);
+  const svgSelectionRef = useRef<d3.Selection<
+    SVGSVGElement,
+    unknown,
+    null,
+    undefined
+  > | null>(null);
+
+  function handleZoomIn() {
+    if (!zoomRef.current || !svgSelectionRef.current) return;
+
+    if (reducedMotion) {
+      svgSelectionRef.current.call(zoomRef.current.scaleBy, 1.2);
+    } else {
+      svgSelectionRef.current
+        .transition()
+        .duration(250)
+        .call(zoomRef.current.scaleBy, 1.2);
+    }
+  }
+
+  function handleZoomOut() {
+    if (!zoomRef.current || !svgSelectionRef.current) return;
+
+    if (reducedMotion) {
+      svgSelectionRef.current.call(zoomRef.current.scaleBy, 0.8);
+    } else {
+      svgSelectionRef.current
+        .transition()
+        .duration(250)
+        .call(zoomRef.current.scaleBy, 0.8);
+    }
+  }
+  function handleToggleListView() {
+    setShowListView((prev) => !prev)
+  }
 
   //gets the x y position of the qna node
   function getNodeScreenPosition(d: any) {
@@ -376,7 +422,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
 
 
 
-      {data && <QuestionListPanel
+      {showListView && data && <QuestionListPanel
         macroArea={data?.centerNode.macroArea}
         subtopic={data.centerNode.label}
         nodes={data.nodes}
@@ -401,25 +447,16 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         );
       })}
 
-      <button
-        type="button"
-        onClick={() => setShowLabels((prev) => !prev)}
-        aria-pressed={showLabels}
-        style={{
-          position: "absolute",
-          top: 16,
-          right: 340, // just to the left of the sidebar
-          padding: "6px 10px",
-          borderRadius: "4px",
-          border: "1px solid #e5e7eb",
-          fontSize: "12px",
-          cursor: "pointer",
-        }}
-      >
-        {showLabels ? "Hide labels" : "Show labels"}
-      </button>
-
-
+      <GraphControls
+        onZoomIn={handleZoomIn}
+        onZoomOut={handleZoomOut}
+        showLabels={showLabels}
+        onToggleLabels={() => setShowLabels((prev) => !prev)}
+        showListView={showListView}
+        onToggleListView={() => setShowListView((prev) => !prev)}
+        reducedMotion={reducedMotion}
+        onToggleReducedMotion={() => setReducedMotion((prev) => !prev)}
+      />
 
       <button
         onClick={() => navigate("/")}
