@@ -1,7 +1,10 @@
 import { QnaNode } from "@/lib/types/graph.types"
 import { useCallback, useState } from "react"
 
-// TODO - sidebar needs to be toggleable and responsive for mobile
+// TODO 
+// x sidebar needs to be toggleable
+//? - responsive for mobile
+//? - Add the sidebar.tsx to the main graph too
 
 type QuestionListProps = {
     macroArea?: string

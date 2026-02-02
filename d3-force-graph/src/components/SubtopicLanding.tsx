@@ -4,7 +4,9 @@
 // x Add roving tabindex + arrow key navigation in list
 // x Add label visibility toggle
 // x Add arrow-key navigation between graph nodes
-// - Add the sidebar.tsx to the main graph too
+//? - Check nodes for aria-label
+//? - Contrast must be WCAG compliant
+//? - Refactor + compartmentalise (DRY)
 
 
 import { useEffect, useRef, useState } from "react";

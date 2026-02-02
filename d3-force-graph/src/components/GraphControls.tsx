@@ -1,3 +1,6 @@
+// TODO: 
+//? - props should be conditional, for example the control panel on the main graph should have everything except show labels
+
 type GraphControlsProps = {
     onZoomIn: () => void;
     onZoomOut: () => void;
