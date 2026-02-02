@@ -1,9 +1,9 @@
 // components/SubtopicLanding.tsx
 
 // TODO (Accessibility):
-// - Add roving tabindex + arrow key navigation in list
-// - Add label visibility toggle
-// - Add arrow-key navigation between graph nodes
+// x Add roving tabindex + arrow key navigation in list
+// x Add label visibility toggle
+// x Add arrow-key navigation between graph nodes
 // - Add the sidebar.tsx to the main graph too
 
 
@@ -34,6 +34,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
   const [error, setError] = useState<string | null>(null);
   const [showLinks, setShowLinks] = useState(true);
   const { theme, toggleTheme } = useTheme();
+  const [showLabels, setShowLabels] = useState(false)
 
   // This hovered node triggers the label
   const [hoveredNode, setHoveredNode] = useState<string | null>(null);
@@ -127,6 +128,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         onQnaClick(d);
         setHoveredNode(null);
       })
+      .attr("data-qna-id", (d) => d.id)
       .attr("role", "button")
       .attr("tabindex", 0)
       .attr("aria-label", (d) => d.question)
@@ -226,6 +228,27 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       simulation.stop();
     };
   }, [data, onQnaClick]);
+
+  useEffect(() => {
+    if (showLabels) {
+      setHoveredNode(null);
+    }
+  }, [showLabels]);
+
+  //gets the x y position of the qna node
+  function getNodeScreenPosition(d: any) {
+    const nodeEl = document.querySelector<SVGGElement>(
+      `[data-qna-id="${d.id}"]`
+    );
+
+    if (!nodeEl) return null;
+
+    const bbox = nodeEl.getBoundingClientRect();
+    return {
+      x: bbox.left + bbox.width / 2,
+      y: bbox.top + bbox.height / 2,
+    };
+  }
 
 
   if (loading) {
@@ -351,13 +374,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         />
       )}
 
-      {hoveredNode && (
-        <HoverTooltip
-          text={hoveredNode}
-          position={hoveredNode ? mousePosition : null}
-          theme={theme}
-        />
-      )}
+
 
       {data && <QuestionListPanel
         macroArea={data?.centerNode.macroArea}
@@ -366,6 +383,42 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         onSelectQuestion={onQnaClick}
       />
       }
+
+      {data?.nodes.map((d) => {
+        const isVisible =
+          showLabels || hoveredNode === d.question;
+
+        if (!isVisible) return null;
+
+        {/* This tooltip will fire only if you hover over a node */ }
+        return (
+          <HoverTooltip
+            key={d.id}
+            text={d.question}
+            position={getNodeScreenPosition(d)}
+            theme={theme}
+          />
+        );
+      })}
+
+      <button
+        type="button"
+        onClick={() => setShowLabels((prev) => !prev)}
+        aria-pressed={showLabels}
+        style={{
+          position: "absolute",
+          top: 16,
+          right: 340, // just to the left of the sidebar
+          padding: "6px 10px",
+          borderRadius: "4px",
+          border: "1px solid #e5e7eb",
+          fontSize: "12px",
+          cursor: "pointer",
+        }}
+      >
+        {showLabels ? "Hide labels" : "Show labels"}
+      </button>
+
 
 
       <button
