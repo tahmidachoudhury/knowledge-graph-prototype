@@ -462,7 +462,7 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         reducedMotion={reducedMotion}
         onToggleReducedMotion={() => setReducedMotion((prev) => !prev)}
         onToggleListView={() => setShowListView((prev) => !prev)}
-        theme={theme}
+        setTheme={theme}
         onToggleTheme={toggleTheme}
         showLinks={showLinks}
         onToggleLinks={() => setShowLinks(v => !v)}

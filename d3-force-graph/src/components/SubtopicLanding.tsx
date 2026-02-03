@@ -449,7 +449,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         onToggleListView={() => setShowListView((prev) => !prev)}
         reducedMotion={reducedMotion}
         onToggleReducedMotion={() => setReducedMotion((prev) => !prev)}
-        theme={theme}
+        setTheme={theme}
         onToggleTheme={toggleTheme}
       />
 
@@ -462,12 +462,14 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
           zIndex: 1000,
           padding: "10px 20px",
           fontSize: "16px",
-          backgroundColor: theme === "light" ? "#fff" : "#1a1a1a",
           color: theme === "light" ? "#333" : "#fff",
           border: `2px solid ${theme === "light" ? "#333" : "#fff"}`,
           borderRadius: "5px",
           cursor: "pointer",
           boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
+          backgroundColor: theme === "light" ? "rgba(255, 255, 255, 0.5)" : "rgba(15, 15, 15, 0.5)",
+          backdropFilter: "blur(12px)",
+          WebkitBackdropFilter: "blur(12px)", // Safari
         }}
       >
         ← Back to Main Graph

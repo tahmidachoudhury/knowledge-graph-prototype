@@ -26,18 +26,13 @@ export function HoverTooltip({
         left: position.x + offsetX,
         top: position.y + offsetY,
         zIndex: 1000,
-
-
-
         padding: "10px 20px",
         fontSize: "16px",
-
         borderWidth: 2,
         borderStyle: "solid",
         borderRadius: "5px",
         boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
         pointerEvents: "none",
-
         whiteSpace: "pre-wrap",
         maxWidth: "320px",
     };

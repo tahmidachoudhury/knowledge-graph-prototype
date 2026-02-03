@@ -1,10 +1,25 @@
+import { useTheme } from "@/lib/ThemeContext";
 import { GraphSidebarProps } from "@/lib/types/graph.types";
 import { useCallback, useState } from "react";
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 // TODO: 
-// - colours need to be dynamic in response to dark mode and light, not hard coded
+// [x] colours need to be dynamic in response to dark mode and light, not hard coded
+
+const LIGHT_PANEL_BG = "rgba(255, 255, 255, 0.5)";
+const LIGHT_PANEL_BORDER = "1px solid #e5e7eb";
+const LIGHT_TEXT_PRIMARY = "#111827";
+const LIGHT_TEXT_MUTED = "#4b5563";
+
+const DARK_PANEL_BG = "rgba(15, 15, 15, 0.5)";      // slate-950-ish
+const DARK_PANEL_BORDER = "1px solid rgb(36, 42, 49)";  // gray-800-ish
+const DARK_TEXT_PRIMARY = "#f9fafb";  // near-white
+const DARK_TEXT_MUTED = "#9ca3af";    // gray-400-ish
 
 export function GraphSidebar(props: GraphSidebarProps) {
+
+    const { theme } = useTheme()
+
     if (props.variant === "qna") {
         const { macroArea, subtopic, nodes, onSelectQuestion } = props;
         const [activeIndex, setActiveIndex] = useState(0);
@@ -57,11 +72,13 @@ export function GraphSidebar(props: GraphSidebarProps) {
                     top: 0,
                     height: "100vh",
                     width: "320px",
-                    // change
-                    borderLeft: "1px solid #e5e7eb",
                     padding: "16px",
                     overflowY: "auto",
-                    backgroundColor: "#ffffff",
+                    borderLeft: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER,
+                    backgroundColor: theme === "light" ? LIGHT_PANEL_BG : DARK_PANEL_BG,
+                    // Below gives that frosted look
+                    backdropFilter: "blur(12px)",
+                    WebkitBackdropFilter: "blur(12px)", // Safari
                 }}
             >
                 <header>
@@ -70,6 +87,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                             fontSize: "16px",
                             fontWeight: 600,
                             margin: "0 0 4px",
+                            color: theme === "light" ? LIGHT_TEXT_PRIMARY : DARK_TEXT_PRIMARY,
                         }}
                     >
                         {subtopic}
@@ -79,6 +97,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                             style={{
                                 fontSize: "12px",
                                 margin: 0,
+                                color: theme === "light" ? LIGHT_TEXT_MUTED : DARK_TEXT_MUTED,
                             }}
                         >
                             {macroArea}
@@ -91,7 +110,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                         margin: "12px 0",
                         border: 0,
                         // change
-                        borderTop: "1px solid #e5e7eb",
+                        borderTop: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER,
                     }}
                 />
 
@@ -117,15 +136,18 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                         textAlign: "left",
                                         padding: "8px 10px",
                                         fontSize: "14px",
-                                        borderRadius: "0px",
-                                        // change
-                                        border: "1px solid #e5e7eb",
+                                        borderRadius: "5px",
+                                        color: theme === "light" ? LIGHT_TEXT_PRIMARY : DARK_TEXT_PRIMARY,
+                                        border: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER,
                                         cursor: "pointer",
                                         backgroundColor:
-                                            index === activeIndex ? "#e0f2fe" : "#f9fafb",
+                                            index === activeIndex ?
+                                                theme === "light" ? "#d1fae5" : "#052e19"
+                                                : "",
                                     }}
                                 >
                                     {node.question}
+
                                 </button>
                             </li>
                         ))}
@@ -152,11 +174,13 @@ export function GraphSidebar(props: GraphSidebarProps) {
                 top: 0,
                 height: "100vh",
                 width: "320px",
-                // change
-                borderLeft: "1px solid #e5e7eb",
                 padding: "16px",
                 overflowY: "auto",
-                backgroundColor: "#ffffff",
+                borderLeft: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER,
+                backgroundColor: theme === "light" ? LIGHT_PANEL_BG : DARK_PANEL_BG,
+                // Below gives that frosted look
+                backdropFilter: "blur(12px)",
+                WebkitBackdropFilter: "blur(12px)", // Safari
             }}
         >
             <header>
@@ -164,8 +188,8 @@ export function GraphSidebar(props: GraphSidebarProps) {
                     style={{
                         fontSize: "16px",
                         fontWeight: 600,
-                        // extra margin top to view buttons
-                        margin: "60px 0 4px 0",
+                        margin: "0 0 4px",
+                        color: theme === "light" ? LIGHT_TEXT_PRIMARY : DARK_TEXT_PRIMARY,
                     }}
                 >
                     {macroArea}
@@ -174,8 +198,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                     style={{
                         fontSize: "12px",
                         margin: 0,
-                        // change
-                        color: "#4b5563",
+                        color: theme === "light" ? LIGHT_TEXT_MUTED : DARK_TEXT_MUTED,
                     }}
                 >
                     Macrotopics, topics and subtopics
@@ -187,7 +210,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                     margin: "12px 0",
                     border: 0,
                     // change
-                    borderTop: "1px solid #e5e7eb",
+                    borderTop: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER,
                 }}
             />
 
@@ -211,19 +234,27 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                     }
                                     aria-expanded={macroOpen}
                                     style={{
-                                        display: "block",
+                                        display: "flex",
+                                        alignItems: "center",
+                                        justifyContent: "space-between",
                                         width: "100%",
                                         textAlign: "left",
                                         padding: "8px 10px",
                                         fontSize: "14px",
                                         borderRadius: "4px",
-                                        // change
-                                        border: "1px solid #d1d5db",
-                                        backgroundColor: macroOpen ? "#e5f3ff" : "#f9fafb",
+                                        color: theme === "light" ? LIGHT_TEXT_PRIMARY : DARK_TEXT_PRIMARY,
+                                        // border: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER,
+                                        backgroundColor: theme === "light" ? LIGHT_PANEL_BG : DARK_PANEL_BG,
                                         cursor: "pointer",
                                     }}
                                 >
                                     {mt.macrotopic.label}
+                                    <ExpandMoreIcon
+                                        style={{
+                                            transition: "transform 200ms ease",
+                                            transform: macroOpen ? "rotate(180deg)" : "rotate(0deg)",
+                                        }}
+                                    />
                                 </button>
 
                                 {macroOpen && (
@@ -238,7 +269,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                         {mt.topics.map((node) => {
                                             const topicOpen = openTopicId === node.topic.id;
                                             return (
-                                                <li key={node.topic.id} style={{ marginBottom: "4px" }}>
+                                                <li key={node.topic.id} style={{ paddingBottom: "4px", borderLeft: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER }}>
                                                     {/* Topic button */}
                                                     <button
                                                         type="button"
@@ -249,63 +280,74 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                                         }
                                                         aria-expanded={topicOpen}
                                                         style={{
-                                                            display: "block",
+                                                            display: "flex",
+                                                            alignItems: "center",
+                                                            justifyContent: "space-between",
                                                             width: "100%",
                                                             textAlign: "left",
                                                             padding: "6px 8px",
                                                             fontSize: "13px",
                                                             borderRadius: "4px",
                                                             // change
-                                                            border: "1px solid #e5e7eb",
-                                                            backgroundColor: topicOpen
-                                                                ? "#f3f4ff"
-                                                                : "#ffffff",
+                                                            color: theme === "light" ? LIGHT_TEXT_PRIMARY : DARK_TEXT_PRIMARY,
+                                                            // borderLeft: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER,
+                                                            backgroundColor: theme === "light" ? LIGHT_PANEL_BG : DARK_PANEL_BG,
                                                             cursor: "pointer",
                                                         }}
                                                     >
                                                         {node.topic.label}
+                                                        <ExpandMoreIcon
+                                                            style={{
+                                                                transition: "transform 200ms ease",
+                                                                transform: topicOpen ? "rotate(180deg)" : "rotate(0deg)",
+                                                            }}
+                                                        />
                                                     </button>
 
-                                                    {topicOpen && (
-                                                        <ul
-                                                            aria-label={`Subtopics in ${node.topic.label}`}
-                                                            style={{
-                                                                listStyle: "none",
-                                                                padding: "4px 0 0 12px",
-                                                                margin: 0,
-                                                            }}
-                                                        >
-                                                            {node.subtopics.map((node) => (
-                                                                <li key={node.id} style={{ marginBottom: "4px" }}>
-                                                                    <button
-                                                                        type="button"
-                                                                        onClick={() =>
-                                                                            onSelectSubtopic(node.id)
-                                                                        }
-                                                                        style={{
-                                                                            display: "block",
-                                                                            width: "100%",
-                                                                            textAlign: "left",
-                                                                            padding: "4px 8px",
-                                                                            fontSize: "12px",
-                                                                            borderRadius: "4px",
-                                                                            // change
-                                                                            border: "1px solid #e5e7eb",
-                                                                            backgroundColor: "#f9fafb",
-                                                                            cursor: "pointer",
-                                                                        }}
-                                                                    >
-                                                                        {node.label}
-                                                                    </button>
-                                                                </li>
-                                                            ))}
-                                                        </ul>
-                                                    )}
+                                                    {
+                                                        topicOpen && (
+                                                            <ul
+                                                                aria-label={`Subtopics in ${node.topic.label}`}
+                                                                style={{
+                                                                    listStyle: "none",
+                                                                    padding: "4px 0 0 12px",
+                                                                    margin: 0,
+                                                                }}
+                                                            >
+                                                                {node.subtopics.map((node) => (
+                                                                    <li key={node.id} style={{ paddingBottom: "4px", borderLeft: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER }}>
+                                                                        <button
+                                                                            type="button"
+                                                                            onClick={() =>
+                                                                                onSelectSubtopic(node.id)
+                                                                            }
+                                                                            style={{
+                                                                                display: "block",
+                                                                                width: "100%",
+                                                                                textAlign: "left",
+                                                                                padding: "4px 8px",
+                                                                                fontSize: "12px",
+                                                                                borderRadius: "4px",
+                                                                                // change
+                                                                                color: theme === "light" ? LIGHT_TEXT_PRIMARY : DARK_TEXT_PRIMARY,
+                                                                                // border: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER,
+                                                                                backgroundColor: theme === "light" ? LIGHT_PANEL_BG : DARK_PANEL_BG,
+                                                                                cursor: "pointer",
+                                                                            }}
+                                                                        >
+                                                                            {node.label}
+                                                                        </button>
+                                                                    </li>
+                                                                ))}
+                                                            </ul>
+                                                        )
+                                                    }
                                                 </li>
                                             );
                                         })}
                                     </ul>
-                                )}
+                                )
+                                }
                             </li>
                         );
                     })}

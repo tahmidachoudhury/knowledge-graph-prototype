@@ -25,6 +25,9 @@ export function KnowledgeMapBreadcrumb({
                 borderRadius: "5px",
                 boxShadow: "0 2px 4px rgba(0,0,0,0.2)",
                 whiteSpace: "nowrap",
+                backgroundColor: theme === "light" ? "rgba(255, 255, 255, 0.5)" : "rgba(15, 15, 15, 0.5)",
+                backdropFilter: "blur(12px)",
+                WebkitBackdropFilter: "blur(12px)", // Safari
             }}
             aria-live="polite"
         >
