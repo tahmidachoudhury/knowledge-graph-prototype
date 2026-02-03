@@ -16,6 +16,9 @@ type GraphControlsProps = {
 
     theme?: string;
     onToggleTheme?: () => void;
+
+    showLinks?: boolean;
+    onToggleLinks?: () => void;
 };
 
 export function GraphControls({
@@ -28,7 +31,9 @@ export function GraphControls({
     reducedMotion,
     onToggleReducedMotion,
     theme,
-    onToggleTheme
+    onToggleTheme,
+    showLinks,
+    onToggleLinks
 }: GraphControlsProps) {
 
     // truthy handlers to show certain controls and hide others
@@ -41,9 +46,11 @@ export function GraphControls({
         typeof reducedMotion === "boolean" && !!onToggleReducedMotion;
     const hasThemeToggle =
         typeof theme === "string" && !!onToggleTheme;
+    const hasLinksToggle =
+        typeof showLinks === "boolean" && !!onToggleLinks;
 
     // If nothing is wired, don’t render anything
-    if (!hasZoom && !hasLabelToggle && !hasListToggle && !hasReducedMotionToggle && !hasThemeToggle) {
+    if (!hasZoom && !hasLabelToggle && !hasListToggle && !hasReducedMotionToggle && !hasThemeToggle && !hasLinksToggle) {
         return null;
     }
 
@@ -155,7 +162,7 @@ export function GraphControls({
                     onToggle={onToggleReducedMotion}
                 />
             }
-            {/* Reduced motion toggle */}
+            {/* Theme toggle */}
             {hasThemeToggle &&
                 <ToggleRow
                     label="Theme"
@@ -163,6 +170,16 @@ export function GraphControls({
                     pressed={theme === "dark"}
                     onToggle={onToggleTheme}
                     displayValue={theme === "dark" ? "Dark" : "Light"}
+                />
+            }
+
+            {/* Links between nodes toggle */}
+            {hasLinksToggle &&
+                <ToggleRow
+                    label="Links"
+                    description="Show or hide links between nodes"
+                    pressed={showLinks}
+                    onToggle={onToggleLinks}
                 />
             }
         </section>

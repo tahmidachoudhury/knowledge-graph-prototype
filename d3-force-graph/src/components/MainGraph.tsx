@@ -438,17 +438,7 @@ export default function MainGraph({ onSubtopicClick }: Props) {
           ← Back to Macro Area Overview
         </button>
       )}
-      <ShowLinksToggle
-        theme={theme}
-        showLinks={showLinks}
-        onToggle={() => setShowLinks(v => !v)}
-        style={{
-          position: "absolute",
-          top: "20px",
-          right: "180px",
-          zIndex: 1000,
-        }}
-      />
+
 
       {selectedMacroArea && (
         <KnowledgeMapBreadcrumb
@@ -472,6 +462,10 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         reducedMotion={reducedMotion}
         onToggleReducedMotion={() => setReducedMotion((prev) => !prev)}
         onToggleListView={() => setShowListView((prev) => !prev)}
+        theme={theme}
+        onToggleTheme={toggleTheme}
+        showLinks={showLinks}
+        onToggleLinks={() => setShowLinks(v => !v)}
       />
 
       {selectedMacroArea && showListView && <GraphSidebar
