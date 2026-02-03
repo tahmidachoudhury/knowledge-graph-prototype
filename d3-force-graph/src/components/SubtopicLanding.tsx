@@ -21,7 +21,7 @@ import { HoverTooltip } from "./HoverTooltip";
 import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
 import getNodeColor from "@/lib/d3js/getNodeColor";
 import { KnowledgeMapBreadcrumb } from "./Breadcrumb";
-import { QuestionListPanel } from "./Sidebar";
+import { GraphSidebar } from "./Sidebar";
 import { GraphControls } from "./GraphControls";
 
 interface Props {
@@ -407,17 +407,6 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         select.
       </div>
 
-      <ThemeToggle
-        theme={theme}
-        onToggle={toggleTheme}
-        style={{
-          position: "absolute",
-          top: "20px",
-          right: "20px",
-          zIndex: 1000,
-        }}
-      />
-
       {data?.centerNode.label && (
         <KnowledgeMapBreadcrumb
           macroArea={data?.centerNode.macroArea}
@@ -428,7 +417,8 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
 
 
 
-      {showListView && data && <QuestionListPanel
+      {showListView && data && <GraphSidebar
+        variant="qna"
         macroArea={data?.centerNode.macroArea}
         subtopic={data.centerNode.label}
         nodes={data.nodes}
@@ -462,6 +452,8 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         onToggleListView={() => setShowListView((prev) => !prev)}
         reducedMotion={reducedMotion}
         onToggleReducedMotion={() => setReducedMotion((prev) => !prev)}
+        theme={theme}
+        onToggleTheme={toggleTheme}
       />
 
       <button

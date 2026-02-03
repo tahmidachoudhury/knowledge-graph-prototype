@@ -93,11 +93,42 @@ export interface QnasIndex {
   subtopics: QnasIndexEntry[];
 }
 
-/**
- * What SubtopicLanding expects
- */
+
+// What SubtopicLanding expects
+
 export interface SubtopicQnaData {
   centerNode: { id: string; label: string, macroArea?: string, macrotopic?: string, group: string };
   nodes: QnaNode[];
   links?: Array<{ source: string; target: string }>; // optional
 }
+
+//  Variant props for accessibility sidebar -----------------------------------------
+
+type QnaSidebarProps = {
+  variant: "qna";
+  macroArea?: string;
+  subtopic: string;
+  nodes: QnaNode[];
+  onSelectQuestion: (qna: QnaNode) => void;
+};
+
+export type SubtopicItem = SubtopicNode;
+
+export type TopicItem = {
+  topic: TopicNode;
+  subtopics: SubtopicNode[];
+};
+
+export type MacroTopicItem = {
+  macrotopic: MacrotopicNode;
+  topics: TopicItem[];
+};
+
+type HierarchySidebarProps = {
+  variant: "hierarchy";
+  macroArea: string;
+  macrotopics: MacroTopicItem[];
+  onSelectSubtopic: (subtopicId: string) => void;
+};
+
+export type GraphSidebarProps = QnaSidebarProps | HierarchySidebarProps;

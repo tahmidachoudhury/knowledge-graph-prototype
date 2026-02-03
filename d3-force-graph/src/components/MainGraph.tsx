@@ -11,12 +11,13 @@ import pentagonPath from "@/lib/d3js/pentagon";
 
 import { useTheme } from "@/lib/ThemeContext";
 
-import type { GraphNode, GraphLink, D3Node, BaseGraphNode } from "../lib/types/graph.types";
+import type { GraphNode, GraphLink, D3Node, BaseGraphNode, MacroTopicItem, MacrotopicNode, TopicNode, SubtopicNode, TopicItem } from "../lib/types/graph.types";
 import { ShowLinksToggle } from "./ShowLinksToggle";
 import { ThemeToggle } from "./ThemeToggle";
 import { HoverTooltip } from "./HoverTooltip";
 import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
 import { KnowledgeMapBreadcrumb } from "./Breadcrumb";
+import { GraphSidebar } from "./Sidebar";
 
 type MainData = { nodes: GraphNode[]; links: GraphLink[] };
 
@@ -207,6 +208,8 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         const nodeElement = d3.select(this);
         const color = getNodeColor(d as any);
         const radius = getNodeRadius(d);
+
+        //ARIA labels for all nodes
         nodeElement.attr("aria-label", `${d.group}: ${d.label}`)
 
         if (d.group === "MacroArea") {
@@ -335,6 +338,40 @@ export default function MainGraph({ onSubtopicClick }: Props) {
     };
   }, []);
 
+  function buildSidebarHierarchy(nodes: GraphNode[]): MacroTopicItem[] {
+    const macrotopics = nodes.filter(
+      (n): n is MacrotopicNode => n.group === "Macrotopic",
+    );
+    const topics = nodes.filter(
+      (n): n is TopicNode => n.group === "Topic",
+    );
+    const subtopics = nodes.filter(
+      (n): n is SubtopicNode => n.group === "Subtopic",
+    );
+
+    return macrotopics.map((mt) => {
+      const topicsForMacrotopic = topics.filter(
+        (t) => t.macrotopic === mt.label || t.macrotopic === mt.id,
+      );
+
+      const topicItems: TopicItem[] = topicsForMacrotopic.map((topic) => {
+        const subtopicsForTopic = subtopics.filter(
+          (s) => s.topic === topic.label || s.topic === topic.id,
+        );
+
+        return {
+          topic,
+          subtopics: subtopicsForTopic,
+        };
+      });
+
+      return {
+        macrotopic: mt,
+        topics: topicItems,
+      };
+    });
+  }
+
   return (
     <div
       style={{
@@ -401,6 +438,15 @@ export default function MainGraph({ onSubtopicClick }: Props) {
           theme={theme}
         />
       )}
+
+      {selectedMacroArea && <GraphSidebar
+        variant="hierarchy"
+        macroArea={selectedMacroArea}
+        macrotopics={buildSidebarHierarchy(filterData(selectedMacroArea as ESGMacroArea).nodes)}
+        onSelectSubtopic={(sub) => onSubtopicClick(sub)}
+      />
+      }
+
 
       <div
         ref={containerRef}

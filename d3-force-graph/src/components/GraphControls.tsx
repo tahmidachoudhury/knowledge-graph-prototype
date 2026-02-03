@@ -10,6 +10,8 @@ type GraphControlsProps = {
     onToggleListView: () => void;
     reducedMotion: boolean;
     onToggleReducedMotion: () => void;
+    theme: string;
+    onToggleTheme: () => void;
 };
 
 export function GraphControls({
@@ -21,6 +23,8 @@ export function GraphControls({
     onToggleListView,
     reducedMotion,
     onToggleReducedMotion,
+    theme,
+    onToggleTheme
 }: GraphControlsProps) {
     return (
         <section
@@ -122,6 +126,14 @@ export function GraphControls({
                 pressed={reducedMotion}
                 onToggle={onToggleReducedMotion}
             />
+            {/* Reduced motion toggle */}
+            <ToggleRow
+                label="Theme"
+                description="Change theme between dark and light"
+                pressed={theme === "dark"}
+                onToggle={onToggleTheme}
+                displayValue={theme === "dark" ? "Dark" : "Light"}
+            />
         </section>
     );
 }
@@ -145,9 +157,14 @@ type ToggleRowProps = {
     description?: string;
     pressed: boolean;
     onToggle: () => void;
+    /**
+     * Optional display value for special cases (e.g. "light" / "dark" theme label).
+     * Does not affect the pressed state or aria-pressed.
+     */
+    displayValue?: string;
 };
 
-function ToggleRow({ label, description, pressed, onToggle }: ToggleRowProps) {
+function ToggleRow({ label, description, pressed, onToggle, displayValue }: ToggleRowProps) {
     const id = `toggle-${label.toLowerCase().replace(/\s+/g, "-")}`;
 
     return (
@@ -199,7 +216,7 @@ function ToggleRow({ label, description, pressed, onToggle }: ToggleRowProps) {
                     cursor: "pointer",
                 }}
             >
-                {pressed ? "On" : "Off"}
+                {displayValue ?? (pressed ? "On" : "Off")}
             </button>
         </div>
     );
