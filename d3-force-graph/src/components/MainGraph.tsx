@@ -11,7 +11,7 @@ import pentagonPath from "@/lib/d3js/pentagon";
 
 import { useTheme } from "@/lib/ThemeContext";
 
-import type { GraphNode, GraphLink, D3Node } from "../lib/types/graph.types";
+import type { GraphNode, GraphLink, D3Node, BaseGraphNode } from "../lib/types/graph.types";
 import { ShowLinksToggle } from "./ShowLinksToggle";
 import { ThemeToggle } from "./ThemeToggle";
 import { HoverTooltip } from "./HoverTooltip";
@@ -203,10 +203,11 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         });
 
       // Shapes
-      node.each(function (d) {
+      node.each(function (d: GraphNode) {
         const nodeElement = d3.select(this);
         const color = getNodeColor(d as any);
         const radius = getNodeRadius(d);
+        nodeElement.attr("aria-label", `${d.group}: ${d.label}`)
 
         if (d.group === "MacroArea") {
           const label = d.label || d.id || ""

@@ -137,7 +137,6 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .attr("data-qna-id", (d) => d.id)
       .attr("role", "button")
       .attr("tabindex", 0)
-      .attr("aria-label", (d) => d.question)
       .on("mouseover", (event: any, d: any) => {
         setMousePosition({
           x: event.clientX,
@@ -166,10 +165,13 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       });
 
     // Center subtopic node
+    // ARIA labels for subtopic node
     const centerNode = g
       .append("g")
       .attr("class", "center-node")
       .attr("transform", `translate(${centerX}, ${centerY})`)
+      .attr("aria-label", `Questions for ${data.centerNode.label}`)
+      .attr("role", "button")
 
 
     const centerColor = getNodeColor(data.centerNode as any);
@@ -179,6 +181,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       .attr("r", 100)
       .attr("fill", centerColor);
 
+    // ARIA labels for qna node
     nodes.each(function (d: any) {
       const node = d3.select(this);
 
@@ -187,6 +190,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       const color = getNodeColor(d);
 
       node
+        .attr("aria-label", (d: any) => d.question)
         .append("circle")
         .attr("r", radius)
         .attr("fill", color);
