@@ -18,6 +18,7 @@ import { HoverTooltip } from "./HoverTooltip";
 import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
 import { KnowledgeMapBreadcrumb } from "./Breadcrumb";
 import { GraphSidebar } from "./Sidebar";
+import { GraphControls } from "./GraphControls";
 
 type MainData = { nodes: GraphNode[]; links: GraphLink[] };
 
@@ -27,6 +28,7 @@ interface Props {
 
 export default function MainGraph({ onSubtopicClick }: Props) {
   const containerRef = useRef<HTMLDivElement | null>(null);
+  const zoomRef = useRef<d3.ZoomBehavior<SVGSVGElement, unknown> | null>(null);
   const svgRef = useRef<d3.Selection<
     SVGSVGElement,
     unknown,
@@ -41,6 +43,8 @@ export default function MainGraph({ onSubtopicClick }: Props) {
   const [hoveredNode, setHoveredNode] = useState<string | null>(null);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [showLinks, setShowLinks] = useState(true);
+  const [showListView, setShowListView] = useState(false);
+  const [reducedMotion, setReducedMotion] = useState(false);
   const { theme, toggleTheme } = useTheme();
 
   const typed = data as unknown as MainData;
@@ -203,6 +207,12 @@ export default function MainGraph({ onSubtopicClick }: Props) {
           container.attr("transform", event.transform);
         });
 
+      // store refs
+      zoomRef.current = zoom;
+
+      // apply zoom
+      svg.call(zoom as any);
+
       // Shapes
       node.each(function (d: GraphNode) {
         const nodeElement = d3.select(this);
@@ -301,7 +311,7 @@ export default function MainGraph({ onSubtopicClick }: Props) {
           }
         });
 
-      svg.call(zoom as any);
+
 
       simulation.on("tick", () => {
         link
@@ -372,6 +382,32 @@ export default function MainGraph({ onSubtopicClick }: Props) {
     });
   }
 
+  function handleZoomIn() {
+    if (!zoomRef.current || !svgRef.current) return;
+
+    if (reducedMotion) {
+      svgRef.current.call(zoomRef.current.scaleBy, 1.2);
+    } else {
+      svgRef.current
+        .transition()
+        .duration(250)
+        .call(zoomRef.current.scaleBy, 1.2);
+    }
+  }
+
+  function handleZoomOut() {
+    if (!zoomRef.current || !svgRef.current) return;
+
+    if (reducedMotion) {
+      svgRef.current.call(zoomRef.current.scaleBy, 0.8);
+    } else {
+      svgRef.current
+        .transition()
+        .duration(250)
+        .call(zoomRef.current.scaleBy, 0.8);
+    }
+  }
+
   return (
     <div
       style={{
@@ -413,16 +449,6 @@ export default function MainGraph({ onSubtopicClick }: Props) {
           zIndex: 1000,
         }}
       />
-      <ThemeToggle
-        theme={theme}
-        onToggle={toggleTheme}
-        style={{
-          position: "absolute",
-          top: "20px",
-          right: "20px",
-          zIndex: 1000,
-        }}
-      />
 
       {selectedMacroArea && (
         <KnowledgeMapBreadcrumb
@@ -439,7 +465,16 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         />
       )}
 
-      {selectedMacroArea && <GraphSidebar
+      <GraphControls
+        onZoomIn={handleZoomIn}
+        onZoomOut={handleZoomOut}
+        showListView={showListView}
+        reducedMotion={reducedMotion}
+        onToggleReducedMotion={() => setReducedMotion((prev) => !prev)}
+        onToggleListView={() => setShowListView((prev) => !prev)}
+      />
+
+      {selectedMacroArea && showListView && <GraphSidebar
         variant="hierarchy"
         macroArea={selectedMacroArea}
         macrotopics={buildSidebarHierarchy(filterData(selectedMacroArea as ESGMacroArea).nodes)}

@@ -2,16 +2,20 @@
 //? - props should be conditional, for example the control panel on the main graph should have everything except show labels
 
 type GraphControlsProps = {
-    onZoomIn: () => void;
-    onZoomOut: () => void;
-    showLabels: boolean;
-    onToggleLabels: () => void;
-    showListView: boolean;
-    onToggleListView: () => void;
-    reducedMotion: boolean;
-    onToggleReducedMotion: () => void;
-    theme: string;
-    onToggleTheme: () => void;
+    onZoomIn?: () => void;
+    onZoomOut?: () => void;
+
+    showLabels?: boolean;
+    onToggleLabels?: () => void;
+
+    showListView?: boolean;
+    onToggleListView?: () => void;
+
+    reducedMotion?: boolean;
+    onToggleReducedMotion?: () => void;
+
+    theme?: string;
+    onToggleTheme?: () => void;
 };
 
 export function GraphControls({
@@ -26,6 +30,25 @@ export function GraphControls({
     theme,
     onToggleTheme
 }: GraphControlsProps) {
+
+    // truthy handlers to show certain controls and hide others
+    const hasZoom = !!onZoomIn && !!onZoomOut;
+    const hasLabelToggle =
+        typeof showLabels === "boolean" && !!onToggleLabels;
+    const hasListToggle =
+        typeof showListView === "boolean" && !!onToggleListView;
+    const hasReducedMotionToggle =
+        typeof reducedMotion === "boolean" && !!onToggleReducedMotion;
+    const hasThemeToggle =
+        typeof theme === "string" && !!onToggleTheme;
+
+    // If nothing is wired, don’t render anything
+    if (!hasZoom && !hasLabelToggle && !hasListToggle && !hasReducedMotionToggle && !hasThemeToggle) {
+        return null;
+    }
+
+
+
     return (
         <section
             aria-label="Graph controls"
@@ -104,36 +127,44 @@ export function GraphControls({
             </div>
 
             {/* Label toggle */}
-            <ToggleRow
-                label="Labels"
-                description="Show question labels"
-                pressed={showLabels}
-                onToggle={onToggleLabels}
-            />
+            {hasLabelToggle &&
+                <ToggleRow
+                    label="Labels"
+                    description="Show question labels"
+                    pressed={showLabels}
+                    onToggle={onToggleLabels}
+                />
+            }
 
             {/* List-view toggle */}
-            <ToggleRow
-                label="List view"
-                description="Show sidebar list of nodes"
-                pressed={showListView}
-                onToggle={onToggleListView}
-            />
+            {hasListToggle &&
+                <ToggleRow
+                    label="List view"
+                    description="Show sidebar list of nodes"
+                    pressed={showListView}
+                    onToggle={onToggleListView}
+                />
+            }
 
             {/* Reduced motion toggle */}
-            <ToggleRow
-                label="Reduced motion"
-                description="Limit pan/zoom animation"
-                pressed={reducedMotion}
-                onToggle={onToggleReducedMotion}
-            />
+            {hasReducedMotionToggle &&
+                <ToggleRow
+                    label="Reduced motion"
+                    description="Limit pan/zoom animation"
+                    pressed={reducedMotion}
+                    onToggle={onToggleReducedMotion}
+                />
+            }
             {/* Reduced motion toggle */}
-            <ToggleRow
-                label="Theme"
-                description="Change theme between dark and light"
-                pressed={theme === "dark"}
-                onToggle={onToggleTheme}
-                displayValue={theme === "dark" ? "Dark" : "Light"}
-            />
+            {hasThemeToggle &&
+                <ToggleRow
+                    label="Theme"
+                    description="Change theme between dark and light"
+                    pressed={theme === "dark"}
+                    onToggle={onToggleTheme}
+                    displayValue={theme === "dark" ? "Dark" : "Light"}
+                />
+            }
         </section>
     );
 }

@@ -1,7 +1,7 @@
 import { ThemeValue } from "@/lib/types/graph.types";
 import * as React from "react";
 
-
+//! This component is currently deprecated and not in use
 interface ThemeToggleProps {
     theme: ThemeValue;
     onToggle: () => void;

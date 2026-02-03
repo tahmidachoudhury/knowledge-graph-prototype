@@ -283,9 +283,6 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         .call(zoomRef.current.scaleBy, 0.8);
     }
   }
-  function handleToggleListView() {
-    setShowListView((prev) => !prev)
-  }
 
   //gets the x y position of the qna node
   function getNodeScreenPosition(d: any) {
