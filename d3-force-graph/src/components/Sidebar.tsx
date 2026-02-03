@@ -1,6 +1,9 @@
 import { GraphSidebarProps } from "@/lib/types/graph.types";
 import { useCallback, useState } from "react";
 
+// TODO: 
+// - colours need to be dynamic in response to dark mode and light, not hard coded
+
 export function GraphSidebar(props: GraphSidebarProps) {
     if (props.variant === "qna") {
         const { macroArea, subtopic, nodes, onSelectQuestion } = props;
@@ -54,6 +57,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                     top: 0,
                     height: "100vh",
                     width: "320px",
+                    // change
                     borderLeft: "1px solid #e5e7eb",
                     padding: "16px",
                     overflowY: "auto",
@@ -86,6 +90,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                     style={{
                         margin: "12px 0",
                         border: 0,
+                        // change
                         borderTop: "1px solid #e5e7eb",
                     }}
                 />
@@ -113,6 +118,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                         padding: "8px 10px",
                                         fontSize: "14px",
                                         borderRadius: "0px",
+                                        // change
                                         border: "1px solid #e5e7eb",
                                         cursor: "pointer",
                                         backgroundColor:
@@ -146,6 +152,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                 top: 0,
                 height: "100vh",
                 width: "320px",
+                // change
                 borderLeft: "1px solid #e5e7eb",
                 padding: "16px",
                 overflowY: "auto",
@@ -167,6 +174,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                     style={{
                         fontSize: "12px",
                         margin: 0,
+                        // change
                         color: "#4b5563",
                     }}
                 >
@@ -178,6 +186,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                 style={{
                     margin: "12px 0",
                     border: 0,
+                    // change
                     borderTop: "1px solid #e5e7eb",
                 }}
             />
@@ -208,6 +217,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                         padding: "8px 10px",
                                         fontSize: "14px",
                                         borderRadius: "4px",
+                                        // change
                                         border: "1px solid #d1d5db",
                                         backgroundColor: macroOpen ? "#e5f3ff" : "#f9fafb",
                                         cursor: "pointer",
@@ -245,6 +255,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                                             padding: "6px 8px",
                                                             fontSize: "13px",
                                                             borderRadius: "4px",
+                                                            // change
                                                             border: "1px solid #e5e7eb",
                                                             backgroundColor: topicOpen
                                                                 ? "#f3f4ff"
@@ -278,6 +289,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                                                             padding: "4px 8px",
                                                                             fontSize: "12px",
                                                                             borderRadius: "4px",
+                                                                            // change
                                                                             border: "1px solid #e5e7eb",
                                                                             backgroundColor: "#f9fafb",
                                                                             cursor: "pointer",

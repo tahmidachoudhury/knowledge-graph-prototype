@@ -4,7 +4,7 @@
 // x Add roving tabindex + arrow key navigation in list
 // x Add label visibility toggle
 // x Add arrow-key navigation between graph nodes
-//? - Check nodes for aria-label
+// x Check nodes for aria-label
 //? - Contrast must be WCAG compliant
 //? - Refactor + compartmentalise (DRY)
 

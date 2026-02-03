@@ -1,6 +1,7 @@
 import { ThemeValue } from "@/lib/types/graph.types";
 import * as React from "react";
 
+//! This component is currently deprecated and not in use: main c26daf7
 interface ShowLinksToggleProps {
     theme: ThemeValue;
     showLinks: boolean;
@@ -8,7 +9,6 @@ interface ShowLinksToggleProps {
     style?: React.CSSProperties; // positioning (absolute, top, right) passed in
 
 }
-
 
 const lightStyles: React.CSSProperties = {
     backgroundColor: "#ffffff",

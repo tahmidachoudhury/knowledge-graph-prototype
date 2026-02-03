@@ -1,5 +1,6 @@
 // TODO: 
-//? - props should be conditional, for example the control panel on the main graph should have everything except show labels
+// x props should be conditional, for example the control panel on the main graph should have everything except show labels
+// - colours need to be dynamic in response to dark mode and light, not hard coded
 
 type GraphControlsProps = {
     onZoomIn?: () => void;
@@ -66,9 +67,11 @@ export function GraphControls({
                 zIndex: 1000,
                 padding: "12px",
                 borderRadius: "8px",
+                //change---
                 border: "1px solid #e5e7eb",
                 backgroundColor: "#ffffff",
                 boxShadow: "0 4px 12px rgba(0,0,0,0.08)",
+                //---------
                 display: "flex",
                 flexDirection: "column",
                 gap: "8px",
@@ -83,6 +86,7 @@ export function GraphControls({
                     fontWeight: 600,
                     textTransform: "uppercase",
                     letterSpacing: "0.08em",
+                    //change
                     color: "#4b5563",
                 }}
             >
@@ -102,6 +106,7 @@ export function GraphControls({
                     style={{
                         fontSize: "12px",
                         fontWeight: 500,
+                        //change
                         color: "#374151",
                         minWidth: "48px",
                     }}
@@ -190,8 +195,10 @@ const controlButtonStyle: React.CSSProperties = {
     width: "30px",
     height: "30px",
     borderRadius: "4px",
+    //change----
     border: "1px solid #d1d5db",
     backgroundColor: "#f9fafb",
+    //----------
     cursor: "pointer",
     fontSize: "18px",
     lineHeight: 1,
@@ -230,6 +237,7 @@ function ToggleRow({ label, description, pressed, onToggle, displayValue }: Togg
                     style={{
                         fontSize: "12px",
                         fontWeight: 500,
+                        //change
                         color: "#374151",
                     }}
                 >
@@ -239,6 +247,7 @@ function ToggleRow({ label, description, pressed, onToggle, displayValue }: Togg
                     <span
                         style={{
                             fontSize: "10px",
+                            //change
                             color: "#6b7280",
                         }}
                     >
@@ -257,8 +266,10 @@ function ToggleRow({ label, description, pressed, onToggle, displayValue }: Togg
                     padding: "4px 8px",
                     borderRadius: "999px",
                     border: "1px solid",
+                    // change-----
                     borderColor: pressed ? "#0f766e" : "#d1d5db",
                     backgroundColor: pressed ? "#d1fae5" : "#f9fafb",
+                    // change-----
                     fontSize: "11px",
                     fontWeight: 500,
                     cursor: "pointer",
