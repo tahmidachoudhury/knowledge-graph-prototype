@@ -62,6 +62,7 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
         );
 
         setData(qnaData);
+        console.log(qnaData)
       } catch (err: unknown) {
         if (
           err &&
@@ -407,6 +408,8 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
       {data?.centerNode.label && (
         <KnowledgeMapBreadcrumb
           macroArea={data?.centerNode.macroArea}
+          macroTopic={data?.centerNode.macrotopic}
+          topic={data?.centerNode.topic}
           subtopic={data?.centerNode.label}
           theme={theme}
         />

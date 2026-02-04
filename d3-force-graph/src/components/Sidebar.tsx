@@ -7,11 +7,13 @@ import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 // [x] colours need to be dynamic in response to dark mode and light, not hard coded
 
 const LIGHT_PANEL_BG = "rgba(255, 255, 255, 0.5)";
+const LIGHT_ACTIVE_PANEL_BG = "#d1fae5";
 const LIGHT_PANEL_BORDER = "1px solid #e5e7eb";
 const LIGHT_TEXT_PRIMARY = "#111827";
 const LIGHT_TEXT_MUTED = "#4b5563";
 
 const DARK_PANEL_BG = "rgba(15, 15, 15, 0.5)";      // slate-950-ish
+const DARK_ACTIVE_PANEL_BG = "#052e19";
 const DARK_PANEL_BORDER = "1px solid rgb(36, 42, 49)";  // gray-800-ish
 const DARK_TEXT_PRIMARY = "#f9fafb";  // near-white
 const DARK_TEXT_MUTED = "#9ca3af";    // gray-400-ish
@@ -142,7 +144,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                         cursor: "pointer",
                                         backgroundColor:
                                             index === activeIndex ?
-                                                theme === "light" ? "#d1fae5" : "#052e19"
+                                                theme === "light" ? LIGHT_ACTIVE_PANEL_BG : DARK_ACTIVE_PANEL_BG
                                                 : "",
                                     }}
                                 >
@@ -176,7 +178,6 @@ export function GraphSidebar(props: GraphSidebarProps) {
                 width: "320px",
                 padding: "16px",
                 overflowY: "auto",
-                borderLeft: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER,
                 backgroundColor: theme === "light" ? LIGHT_PANEL_BG : DARK_PANEL_BG,
                 // Below gives that frosted look
                 backdropFilter: "blur(12px)",
@@ -269,7 +270,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                         {mt.topics.map((node) => {
                                             const topicOpen = openTopicId === node.topic.id;
                                             return (
-                                                <li key={node.topic.id} style={{ paddingBottom: "4px", borderLeft: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER }}>
+                                                <li key={node.topic.id} style={{ paddingBottom: "4px", borderLeft: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER, paddingLeft: "8px" }}>
                                                     {/* Topic button */}
                                                     <button
                                                         type="button"
@@ -315,7 +316,7 @@ export function GraphSidebar(props: GraphSidebarProps) {
                                                                 }}
                                                             >
                                                                 {node.subtopics.map((node) => (
-                                                                    <li key={node.id} style={{ paddingBottom: "4px", borderLeft: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER }}>
+                                                                    <li key={node.id} style={{ paddingBottom: "4px", borderLeft: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER, paddingLeft: "8px" }}>
                                                                         <button
                                                                             type="button"
                                                                             onClick={() =>

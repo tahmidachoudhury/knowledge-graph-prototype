@@ -1,12 +1,16 @@
 type KnowledgeMapBreadcrumbProps = {
     macroArea?: string
     subtopic?: string
+    macroTopic?: string
+    topic?: string
     theme?: "light" | "dark"
 }
 
 export function KnowledgeMapBreadcrumb({
     macroArea,
     subtopic,
+    macroTopic,
+    topic,
     theme = "light",
 }: KnowledgeMapBreadcrumbProps) {
     return (
@@ -32,6 +36,8 @@ export function KnowledgeMapBreadcrumb({
             aria-live="polite"
         >
             Map of knowledge &gt; {macroArea}
+            {macroTopic && <> &gt; {macroTopic}</>}
+            {topic && <> &gt; {topic}</>}
             {subtopic && <> &gt; {subtopic}</>}
         </div>
     )

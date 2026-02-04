@@ -82,7 +82,6 @@ export function GraphControls({
                 padding: "12px",
                 borderRadius: "8px",
                 backgroundColor: theme === "light" ? LIGHT_PANEL_BG : DARK_PANEL_BG,
-                border: theme === "light" ? LIGHT_PANEL_BORDER : DARK_PANEL_BORDER,
                 boxShadow: "0 4px 12px rgba(0,0,0,0.08)",
                 display: "flex",
                 flexDirection: "column",
