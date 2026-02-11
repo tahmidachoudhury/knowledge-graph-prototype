@@ -7,7 +7,7 @@
     "generate:main": "tsx scripts/generateMainGraph.ts",
     "generate:qnas": "tsx scripts/generateSubtopicQnas.ts",
     "generate:all": "npm run generate:main && npm run generate:qnas",
-    "dev": "vite",
+    "dev": "vite --host 0.0.0.0 --port 5173",
     "build": "tsc && vite build",
     "prebuild": "npm run generate:all",
     "preview": "vite preview"
