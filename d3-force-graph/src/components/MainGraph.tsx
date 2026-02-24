@@ -19,6 +19,7 @@ import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
 import { KnowledgeMapBreadcrumb } from "./Breadcrumb";
 import { GraphSidebar } from "./Sidebar";
 import { GraphControls } from "./GraphControls";
+import { generateFakeMacrotopicNodes } from "@/lib/generateFakeMacrotopicNodes";
 
 type MainData = { nodes: GraphNode[]; links: GraphLink[] };
 
@@ -45,6 +46,8 @@ export default function MainGraph({ onSubtopicClick }: Props) {
   const [showLinks, setShowLinks] = useState(true);
   const [showListView, setShowListView] = useState(false);
   const [reducedMotion, setReducedMotion] = useState(false);
+  // Number of extra synthetic macrotopic clusters (0 = DB default only)
+  const [clusterFactor, setClusterFactor] = useState(0);
   const { theme, toggleTheme } = useTheme();
 
   const typed = data as unknown as MainData;
@@ -54,9 +57,13 @@ export default function MainGraph({ onSubtopicClick }: Props) {
     (macroArea: ESGMacroArea | null) => {
       if (!macroArea) {
         const macroAreaNodes = typed.nodes.filter(
-          (n) => n.group === "MacroArea" && ESG_MACROAREAS.includes(n.label as ESGMacroArea)
+          (n) =>
+            n.group === "MacroArea" &&
+            ESG_MACROAREAS.includes(n.label as ESGMacroArea)
         );
-        return { nodes: macroAreaNodes, links: [] };
+
+        // Overview only shows macro areas; cluster factor is effectively a no-op here.
+        return { nodes: [...macroAreaNodes], links: [] };
       }
 
       const nodeIds = new Set<string>();
@@ -73,13 +80,15 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         }
       });
 
+      const baseNodeIds = new Set(filteredNodes.map((n) => n.id));
+
       const filteredLinks = typed.links.filter((l) => {
         const s =
           typeof l.source === "object" ? (l.source as any).id : l.source;
         const t =
           typeof l.target === "object" ? (l.target as any).id : l.target;
 
-        if (!nodeIds.has(s) || !nodeIds.has(t)) return false;
+        if (!baseNodeIds.has(s) || !baseNodeIds.has(t)) return false;
 
         const sn = typed.nodes.find((n) => n.id === s);
         const tn = typed.nodes.find((n) => n.id === t);
@@ -87,9 +96,18 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         return sn?.group !== "MacroArea" && tn?.group !== "MacroArea";
       });
 
-      return { nodes: filteredNodes, links: filteredLinks };
+      if (clusterFactor > 0) {
+        const { nodes, links } = generateFakeMacrotopicNodes(
+          filteredNodes,
+          filteredLinks,
+          clusterFactor
+        );
+        return { nodes, links };
+      }
+
+      return { nodes: [...filteredNodes], links: filteredLinks };
     },
-    [typed.nodes, typed.links]
+    [typed.nodes, typed.links, clusterFactor]
   );
 
   const renderGraph = useCallback(
@@ -172,8 +190,10 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         .join("line");
 
       const drag = (sim: d3.Simulation<D3Node, undefined>) => {
+        // When reduced motion is enabled, avoid re-heating the simulation
+        // and keep drag purely positional.
         function dragstarted(event: any, d: any) {
-          if (!event.active) sim.alphaTarget(0.3).restart();
+          if (!reducedMotion && !event.active) sim.alphaTarget(0.3).restart();
           d.fx = d.x;
           d.fy = d.y;
         }
@@ -182,7 +202,7 @@ export default function MainGraph({ onSubtopicClick }: Props) {
           d.fy = event.y;
         }
         function dragended(event: any, d: any) {
-          if (!event.active) sim.alphaTarget(0);
+          if (!reducedMotion && !event.active) sim.alphaTarget(0);
           d.fx = null;
           d.fy = null;
         }
@@ -323,16 +343,27 @@ export default function MainGraph({ onSubtopicClick }: Props) {
         node.attr("transform", (d: any) => `translate(${d.x},${d.y})`);
       });
 
-      setTimeout(() => simulation.stop(), macroArea ? 15000 : 8000);
+      const baseDuration = macroArea ? 15000 : 8000;
+      const duration = reducedMotion ? baseDuration / 2 : baseDuration;
+      setTimeout(() => simulation.stop(), duration);
 
       containerRef.current.appendChild(svg.node()!);
     },
-    [filterData, showLinks, onSubtopicClick]
+    [filterData, showLinks, onSubtopicClick, reducedMotion]
   );
 
   useEffect(() => {
     renderGraph(selectedMacroArea);
   }, [selectedMacroArea, renderGraph]);
+
+  // Respect system-level reduced motion preference on mount (optional, but helpful)
+  useEffect(() => {
+    if (typeof window === "undefined" || reducedMotion) return;
+    const mq = window.matchMedia("(prefers-reduced-motion: reduce)");
+    if (mq.matches) {
+      setReducedMotion(true);
+    }
+  }, [reducedMotion]);
 
   useEffect(() => {
     if (svgRef.current) {
@@ -458,6 +489,8 @@ export default function MainGraph({ onSubtopicClick }: Props) {
       <GraphControls
         onZoomIn={handleZoomIn}
         onZoomOut={handleZoomOut}
+        clusterFactor={clusterFactor}
+        onClusterFactorChange={setClusterFactor}
         showListView={showListView}
         reducedMotion={reducedMotion}
         onToggleReducedMotion={() => setReducedMotion((prev) => !prev)}

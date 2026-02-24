@@ -19,6 +19,13 @@ type GraphControlsProps = {
     onZoomIn?: () => void;
     onZoomOut?: () => void;
 
+    /**
+* Optional density control for Macrotopic clusters (main graph only).
+* When both props are provided, a slider will be rendered.
+*/
+    clusterFactor?: number;
+    onClusterFactorChange?: (value: number) => void;
+
     showLabels?: boolean;
     onToggleLabels?: () => void;
 
@@ -38,6 +45,8 @@ type GraphControlsProps = {
 export function GraphControls({
     onZoomIn,
     onZoomOut,
+    clusterFactor,
+    onClusterFactorChange,
     showLabels,
     onToggleLabels,
     showListView,
@@ -62,9 +71,11 @@ export function GraphControls({
         typeof setTheme === "string" && !!onToggleTheme;
     const hasLinksToggle =
         typeof showLinks === "boolean" && !!onToggleLinks;
+    const hasClusterSlider =
+        typeof clusterFactor === "number" && !!onClusterFactorChange;
 
     // If nothing is wired, don’t render anything
-    if (!hasZoom && !hasLabelToggle && !hasListToggle && !hasReducedMotionToggle && !hasThemeToggle && !hasLinksToggle) {
+    if (!hasZoom && !hasLabelToggle && !hasListToggle && !hasReducedMotionToggle && !hasThemeToggle && !hasLinksToggle && !hasClusterSlider) {
         return null;
     }
 
@@ -149,6 +160,62 @@ export function GraphControls({
                     </button>
                 </div>
             </div>
+
+            {/* Cluster density / extra clusters slider */}
+            {hasClusterSlider && (
+                <div
+                    aria-label="Extra clusters"
+                    style={{
+                        display: "flex",
+                        flexDirection: "column",
+                        gap: "4px",
+                    }}
+                >
+                    <div
+                        style={{
+                            display: "flex",
+                            justifyContent: "space-between",
+                            alignItems: "center",
+                            gap: "8px",
+                        }}
+                    >
+                        <span
+                            style={{
+                                fontSize: "12px",
+                                fontWeight: 500,
+                                color: theme === "light" ? LIGHT_TEXT_PRIMARY : DARK_TEXT_PRIMARY,
+                            }}
+                        >
+                            Extra clusters
+                        </span>
+                        <span
+                            style={{
+                                fontSize: "11px",
+                                color: theme === "light" ? LIGHT_TEXT_MUTED : DARK_TEXT_MUTED,
+                            }}
+                        >
+                            {clusterFactor}
+                        </span>
+                    </div>
+                    <input
+                        type="range"
+                        min={0}
+                        max={20}
+                        step={1}
+                        value={clusterFactor}
+                        onChange={(event) =>
+                            onClusterFactorChange?.(Number(event.target.value))
+                        }
+                        aria-label="Extra clusters"
+                        aria-valuemin={0}
+                        aria-valuemax={20}
+                        aria-valuenow={clusterFactor}
+                        style={{
+                            width: "100%",
+                        }}
+                    />
+                </div>
+            )}
 
             {/* Label toggle */}
             {hasLabelToggle &&

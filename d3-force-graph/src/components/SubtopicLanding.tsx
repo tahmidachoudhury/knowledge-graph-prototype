@@ -84,6 +84,15 @@ export function SubtopicLanding({ subtopicId, onQnaClick }: Props) {
     };
   }, [subtopicId]);
 
+  // Respect system-level reduced motion preference on mount (optional)
+  useEffect(() => {
+    if (typeof window === "undefined" || reducedMotion) return;
+    const mq = window.matchMedia("(prefers-reduced-motion: reduce)");
+    if (mq.matches) {
+      setReducedMotion(true);
+    }
+  }, [reducedMotion]);
+
   useEffect(() => {
     if (!data || !svgRef.current) return;
 
