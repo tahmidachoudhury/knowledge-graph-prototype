@@ -16,13 +16,12 @@ import type { SubtopicQnaData, QnaNode } from "../lib/types/graph.types";
 import { useNavigate } from "react-router-dom"
 import { useTheme } from "@/lib/ThemeContext";
 import { ThemeToggle } from "./ThemeToggle";
-import { ShowLinksToggle } from "./ShowLinksToggle";
-import { HoverTooltip } from "./HoverTooltip";
+import { HoverTooltip } from "./overlays/HoverTooltip";
 import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
 import getNodeColor from "@/lib/d3js/getNodeColor";
-import { KnowledgeMapBreadcrumb } from "./Breadcrumb";
-import { GraphSidebar } from "./Sidebar";
-import { GraphControls } from "./GraphControls";
+import { KnowledgeMapBreadcrumb } from "./overlays/Breadcrumb";
+import { GraphSidebar } from "./overlays/Sidebar";
+import { GraphControls } from "./overlays/GraphControls";
 
 interface Props {
   subtopicId: string;

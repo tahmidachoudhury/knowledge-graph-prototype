@@ -11,7 +11,7 @@ import {
 
 import MainGraph from "./components/MainGraph";
 import { SubtopicLanding } from "./components/SubtopicLanding";
-import { QnaDetailPanel } from "./components/QnaDetailPanel";
+import { QnaDetailPanel } from "./components/overlays/QnaDetailPanel";
 
 function MainRoute() {
   const navigate = useNavigate();

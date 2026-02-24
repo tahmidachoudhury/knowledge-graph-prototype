@@ -12,13 +12,11 @@ import pentagonPath from "@/lib/d3js/pentagon";
 import { useTheme } from "@/lib/ThemeContext";
 
 import type { GraphNode, GraphLink, D3Node, BaseGraphNode, MacroTopicItem, MacrotopicNode, TopicNode, SubtopicNode, TopicItem } from "../lib/types/graph.types";
-import { ShowLinksToggle } from "./ShowLinksToggle";
-import { ThemeToggle } from "./ThemeToggle";
-import { HoverTooltip } from "./HoverTooltip";
+import { HoverTooltip } from "./overlays/HoverTooltip";
 import { addWrappedLabelWithBackground } from "@/lib/d3js/nodeLabels";
-import { KnowledgeMapBreadcrumb } from "./Breadcrumb";
-import { GraphSidebar } from "./Sidebar";
-import { GraphControls } from "./GraphControls";
+import { KnowledgeMapBreadcrumb } from "./overlays/Breadcrumb";
+import { GraphSidebar } from "./overlays/Sidebar";
+import { GraphControls } from "./overlays/GraphControls";
 import { generateFakeMacrotopicNodes } from "@/lib/generateFakeMacrotopicNodes";
 
 type MainData = { nodes: GraphNode[]; links: GraphLink[] };
